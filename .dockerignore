@@ -1,0 +1,23 @@
+.venv/
+__pycache__/
+# Written by the MCP framework itself at runtime (the FTS index). Copying a host-built one
+# in would ship an index whose cache key does not match this image's HEAD, so it would be
+# discarded and rebuilt on the first request anyway.
+_meta/.cache/
+# 29 MiB of committed text extractions, and the server NEVER opens them. They are the
+# provenance evidence corpus-verify-provenance checks `## Full text` against, and that is a
+# CI gate run against a checkout, not a container.
+#
+# Consequence, stated so it is not a surprise: `corpus-verify-provenance` cannot run INSIDE
+# this image. Same trade executive-regulatory-frameworks makes.
+#
+# The source PDFs are not here to exclude — they are gitignored and never committed
+# (snapshot_policy: hash-only; one is 182 MiB, over GitHub's per-file limit).
+_meta/snapshots/
+# Generated at deploy time by the pages workflow; never needed at runtime.
+site/
+# NOTE: .git is deliberately NOT ignored — it is a RUNTIME dependency. The FTS cache key is
+# `git rev-parse HEAD` plus a hash of `git status --porcelain`, and corpus_overview() runs
+# `git log -1`. Without it repo_state() collapses to a constant, so content changes are
+# never picked up for the life of the process and corpus_overview reports an empty commit —
+# silently, in both cases. Build from a depth-1 clone to keep it small.

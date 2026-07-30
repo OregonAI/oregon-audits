@@ -1,0 +1,14 @@
+# Runtime + tooling dependencies for this corpus.
+#
+# The [mcp] extra installs the MCP SDK that `corpus-mcp-serve` imports. Without it the CLI
+# is on PATH but fails at import — so it must be present for the container to serve.
+#
+# v1.9.0 is the floor, not a preference: it is the first release whose FTS cache carries a
+# SCHEMA_VERSION alongside the content key. An older toolkit reading a v1.9.0-built index
+# reuses it and then selects a column that is not there.
+corpus-toolkit[mcp] @ git+https://github.com/OregonAI/corpus-toolkit@v1.9.0
+pyyaml
+# src/ingest_audits.py extracts the report PDFs (Stage 2). Same extractor
+# oregon-records-retention uses, so the page-furniture stripping is shared behaviour
+# rather than a second implementation.
+pypdf

@@ -1,0 +1,82 @@
+# Corpus configuration — the single source of truth the toolkit reads.
+corpus:
+  id: "oregon-audits"
+  name: "Oregon Audits — Secretary of State Audits Division"
+  jurisdiction: "oregon"
+  archetype: "document"
+  # The division's own search page. Every MCP response carries a disclaimer telling an
+  # agent this copy is non-authoritative and to verify at source; without this key it is
+  # never told WHERE. Deliberately the search page rather than a report URL: individual
+  # report PDFs move (2019's did — see AGENTS.md), the search page has not.
+  authoritative_source: "https://sos.oregon.gov/audits/pages/state-audits.aspx"
+  schema_version: 1
+  contract_version: 1
+
+# One root, one doc_type. Every document here is an audit or review report published by
+# the Secretary of State Audits Division — the constitutional auditor of Oregon state
+# government.
+#
+# SCOPE BOUNDARY, deliberately narrow. Municipal and local-government filings
+# (sos.oregon.gov/audits/Pages/muniaudits.aspx) are OUT. They are a different publisher
+# relationship and would dwarf the state-audit set. `jurisdiction` above stays a real
+# field rather than a hardcoded constant so adding `oregon/marion-county` later is a data
+# change, not a schema change.
+content_roots:
+  - path: "reports"
+    doc_type: "audit_report"
+
+plugins:
+  citation_module: "src.citation_schemes"      # registers the `audit-report` scheme
+  # No snapshot_slice_module: a report's snapshot is the whole PDF's extracted text, with
+  # no per-document slicing out of a larger source file.
+  # No issuing_body_registry: the publisher is the Audits Division for every document
+  # here. The AUDITED agency is a frontmatter field, not an issuing body.
+  extra_schema_checks: []
+  # ^ audited_period_start/end become REQUIRED here once documents exist (see AGENTS.md,
+  #   "A finding is not a fact"). Left empty until Stage 2 has something to check, because
+  #   a check that runs against an empty corpus proves nothing and reads as if it does.
+
+# Sibling corpora this one resolves citations INTO. Left commented DELIBERATELY: the
+# toolkit resolves through schemes marked `register_scheme(..., corpus="<sibling id>")`,
+# and none are marked yet. Declaring siblings before the schemes exist is inert config
+# that reads as a working feature.
+#
+# These three are the whole reason this corpus is worth building, and they get wired in
+# the graph stage:
+# siblings:
+#   - id: "executive-regulatory-frameworks"     # ORS/OAR an agency was found to violate
+#     index_url: "https://oregonai.github.io/executive-regulatory-frameworks/corpus-index.json"
+#     web_base:  "https://github.com/OregonAI/executive-regulatory-frameworks/blob/main/"
+#   - id: "oregon-budget"                       # appropriations whose spending was examined
+#     index_url: "https://oregonai.github.io/oregon-budget/corpus-index.json"
+#     web_base:  "https://github.com/OregonAI/oregon-budget/blob/main/"
+#   - id: "oregon-legislature"                  # audits mandated by a specific measure
+#     index_url: "https://oregonai.github.io/oregon-legislature/corpus-index.json"
+#     web_base:  "https://github.com/OregonAI/oregon-legislature/blob/main/"
+
+disclaimer_marker: "NON-AUTHORITATIVE"
+graph_path: "_meta/graph.json"
+source_manifest_path: "_meta/source-manifest.yml"
+snapshot_dir: "_meta/snapshots"
+
+provenance:
+  coverage_fail_threshold: 0.70
+  coverage_warn_threshold: 0.90
+
+mcp:
+  server_name: "oregon-audits"
+  transports: [stdio, http]
+
+status:
+  # WHAT RE-VERIFICATION MEANS HERE IS NOT WHAT IT MEANS ELSEWHERE.
+  #
+  # A statute gets amended and a rule gets repealed, so those corpora re-check for CONTENT
+  # drift. An audit report is immutable once published — it is a dated historical record,
+  # and a 2021 report will say in 2030 exactly what it says today. Re-verification here is
+  # almost entirely about LINK ROT.
+  #
+  # That is not a theoretical risk. Reports published before 2020 are no longer served at
+  # sos.oregon.gov/audits/Documents/<number>.pdf — 2019-01 and 2019-14 both 404 today,
+  # while 2026-20 resolves fine from the same path. The upstream URL for a document that
+  # will never change its text moved anyway. Snapshots are what make that survivable.
+  reverify_days: 90

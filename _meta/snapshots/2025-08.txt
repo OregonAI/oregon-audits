@@ -1,0 +1,2329 @@
+Kip Memmott
+Division Director
+Fiscal Year 2023
+Oregon Municipal
+Corporations: Summary of
+Financial Reporting
+February 2025
+Report 2025-08
+Introduction
+Oregon Secretary of State February 2025
+Report 2025-08 page 1
+Background
+Oregon’s municipal corporations, as defined by Municipal Audit Law, include all counties, cities, school
+districts, special districts, and public corporations subject to control by local governments. Municipal Audit
+Law provides instructions for annual reports that municipal corporations are required to submit to the
+Secretary of State.
+Municipal Audit Law requires the Secretary of State, in cooperation with the Oregon Board of Accountancy
+and in consultation with the Oregon Society of Certified Public Accountants, to prescribe the minimum
+standards for the conduct of each audit. The Secretary of State requires independent accountants to follow
+professional auditing standards set by the American Institute of Certified Public Accountants (AICPA) and
+issue financial reports in accordance with generally accepted accounting principles.
+About 1,800 municipal corporations are registered with the Secretary of State; all are subject to annual
+reporting requirements, but not all are subject to an audit. The type of reporting required depends on the
+municipality and its expenditures. All counties, school districts, and public charter schools, as well as
+municipalities with total annual expenditures of more than $500,000, are required to have their financial
+statements audited each year.
+2 Most municipalities operate on a July 1 to June 30 fiscal year. Audits are
+performed by local Certified Public Accountant firms and reports are to be filed with the Secretary of State
+by December 31 — six months after the end of the municipality’s fiscal year.
+Municipalities with total annual expenditures between $150,000 and $500,000 are not required to have an
+audit and may opt to have a financial statement review performed by an independent accountant.
+Municipalities with total annual expenditures of $150,000 or less may submit reports in lieu of audit where
+they self-report expenditures on forms prescribed by the Secretary of State.
+3 Financial reports filed with the
+Secretary of State are posted on the Secretary of State’s website.4
+Fiscal Year 2023
+Of the 1,840 municipal corporations in Oregon, 1,197 were expected to file audit reports with the Secretary
+of State for fiscal year 2023. However, 106 (9%) of those audits are more than a year late in their filing and
+were still not filed as of December 31, 2024; of those, four filed the wrong report. The number of non-filers
+has continued increasing since 2017 when only 19 entities remained delinquent after one year.
+1 Oregon Revised Statutes 297.405-.555 and 297.990
+2 The Oregon Legislature passed House Bill 2110 during the 2023 legislative session and amended Municipal Audit Law.
+Amendments are effective for fiscal years ending on or after January 1, 2024, to increase reporting thresholds and replace review
+reports with agreed-upon procedures. For more information, visit our website at sos.oregon.gov/HB2110.
+3 To be exempt from the audit requirement, the law requires reports be filed on time, and the principal official of the municipal
+corporation, or the official responsible for receiving and disbursing moneys on behalf of the municipal corporation, must be covered
+by a fidelity or faithful performance bond sufficient to protect the government from loss.
+4 The municipal audit search page can be found online at sos.oregon.gov.
+Oregon Secretary of State February 2025
+Report 2025-08 page 2
+Figure 1: Fiscal year 2023 financial reports by type of municipal corporation
+Audit  Review  In-Lieu Total
+Counties  36   36
+Community Colleges  17   17
+School Districts & ESDs  208   208
+Charter Schools  112   112
+Cities  218 13 10 241
+Fire Districts  123 53 85 261
+Other Special Districts  483 112 370 965
+Grand Total  1,197 178 465 1,840
+Municipalities and firms are still experiencing the lingering effects of the COVID-19 pandemic —
+specifically, decreased staffing from the "Great Resignation."5 Despite recruitment efforts, staffing
+remained one of the most commonly cited reasons for filing late audit reports. Audit firm mergers,
+retirements, and some firms exiting the government auditing space have also contributed to the highest
+number of late filings, including municipalities not being able to engage a firm timely. For many
+municipalities, COVID-19 resulted in delinquencies from which they have yet to catch up.
+Report Filing Extensions
+Municipal Audit Law permits a municipality to request additional time to file its annual audit report for good
+cause or due to extraordinary circumstances. The request must be in writing and submitted to the
+Secretary of State Audits Division. It must include the cause for the delay and the expected report delivery
+date. Both the government official and the independent accountant make the request.
+There were fewer requests for extension in fiscal year 2023 compared to the prior three years, although still
+higher than the number received prior to the COVID-19 pandemic. We received requests from 308
+municipal corporations, one of every four filers. This represents a significant increase since 2015 when one
+in seven filers, or 15%, requested an extension.
+5 The term “Great Resignation” was coined by University College London’s School of Management professor Anthony Klotz and
+describes an ongoing economic trend in which record numbers of employees have voluntarily resigned from their jobs, beginning in
+early 2021.
+Delinquent filers have increased dramatically
+Fiscal year 2023 saw the highest number of non-filers since 2017, when this audit summary report was
+first published. At that time, only 19 entities remained delinquent after one year. For fiscal year 2023,
+that number was 106.
+Oregon Secretary of State February 2025
+Report 2025-08 page 3
+The reasons cited for extensions vary. Reasons may include delays from unexpected vacancies of key
+staff at both entities and firms, implementation of new pronouncements from the Governmental
+Accounting Standards Board, changes to federal reporting requirements and increases in funding, and
+switching auditor or firm. Some requests were made as entities filed reports late for fiscal year 2022 and
+were unable to catch up and file their 2023 report by the deadline.
+Requests for extension are typically not approved when a request does not demonstrate good cause as
+required, when the request is related to a report in lieu of audit, or when a municipality has routinely filed
+late reports.
+The percentage of extension requests approved for the 2023 filing year was 82% and is on par with the
+average of the prior five years.
+Audit Deficiencies and Plans of Action
+Most local governments receive a “clean” audit report each year without any qualifications or deficiencies
+noted. However, when deficiencies are reported, the governing body of a municipal corporation is required
+to determine the corrective measures it considers necessary to address the deficiencies. Municipal Audit
+Law requires a municipal corporation to file with the Secretary of State a copy of its plan of action within 30
+days after filing its annual report. The plan must include appropriate actions to address the deficiencies
+noted and an estimate of the timeframe necessary to complete the planned actions.
+Statutory Requirements — Annual Summary Reporting
+Oregon law requires the Secretary of State to prepare an annual summary report, which is to include the
+following:
+• A list of municipal corporations required to file audit reports with the Secretary;
+• A list of municipal corporations that filed audit reports with the Secretary within six months after the
+close of the year under audit;
+• A list of municipal corporations that did not request a filing extension and did not file their report
+within six months of close of fiscal year;
+• A list of municipal corporations that requested and were granted filing extensions and if they met
+their filing extension deadline;
+• A list of number and type of deficiencies cited in audit reports; and
+• A description of whether the municipal corporation submitted a plan of action to the Secretary of
+State.
+This report and appendices fulfill the requirements outlined in the law.
+Summary Report
+Oregon Secretary of State February 2025
+Report 2025-08 page 4
+The requirements in Municipal Audit Law are intended for municipal corporations to be financially
+accountable to the public. There are many stakeholders involved in the municipal audit process.
+Government officials understand the annual reporting requirements; independent accountants provide
+timely audit services; the Secretary of State works as a resource for government officials and the audit
+community throughout the year to aid in understanding and ensure compliance; and the people of Oregon
+are informed of their local government’s financial activities.
+Oregon’s Municipal Audit Law requires the Secretary of State to provide summary information on the
+status of audit report filings. This report summarizes the financial reporting activities of municipal
+corporations that submitted an audit report to the Secretary of State for the fiscal year ended June 30,
+2023.
+Audit Report Filings
+Of the 1,840 municipal corporations actively registered in Oregon, 1,197 were expected to file an audit with
+the Secretary of State.
+As shown in Figure 2, 66% of these municipalities filed their audit reports on time or
+within their approved extension deadline. Of the 253 that requested and received extensions, 118 filed their
+report within the extended deadline. As of December 31, 2024, 106 municipalities had not filed a fiscal year
+2023 audit report; these municipalities included two counties, 39 cities, three school districts and
+education service districts (ESDs), five charter schools, 15 fire districts, and 42 special districts.
+Figure 2: Filing status of fiscal year 2023 audit reports
+Audit Report Deficiencies
+Professional auditing standards require independent accountants to communicate, in writing, instances of
+significant deficiencies and material weaknesses to the municipal corporation’s governing body and, by
+rule, provide a copy of the communication to the Secretary of State. A material weakness is a deficiency
+Timely Filed
+56%
+Timely With Extenson
+10%
+Late Filed
+26%
+Did not ﬁle
+9%
+Oregon Secretary of State February 2025
+Report 2025-08 page 5
+severe enough that there is a reasonable possibility a material misstatement could occur and not be
+prevented, or detected and corrected, on a timely basis. A significant deficiency is less severe than a
+material weakness, yet important enough to merit the attention of the governing body.
+Reported deficiencies generally fall into three broad categories: weaknesses in internal controls related to
+financial reporting; errors and misstatements in the financial statements; and violations of laws, rules, and
+regulations.
+As shown in Figure 3, of the 1,091 municipal audit reports filed for fiscal year 2023, 334 (31%)
+reported one or more audit deficiencies. A total of 639 deficiencies were reported overall, with the majority
+related to weaknesses in internal control. Of the municipalities with deficiencies reported, 82% filed a plan
+of action and 93% filed deficiency communications with the Secretary of State as required. The rate of
+compliance for filing the required plan of action increased this year from the prior high of 79% received in
+2019.
+Figure 3: Required deficiency letters and plans of action; not all were filed
+Internal Control Deficiencies
+At least one significant deficiency or material weakness in internal controls was reported for 334
+municipalities.
+A deficiency exists when the design or operation of controls does not allow management or
+employees, in the normal course of performing their assigned accounting and financial reporting functions,
+to prevent, or detect and correct, financial misstatements on a timely basis. Inadequate segregation of
+duties and the inability to prepare financial statements are common in smaller governments with limited
+staff and remain the most prevalent deficiencies reported.
+Accounting Errors and Misstatements
+Auditors reported one or more significant deficiencies or material weaknesses related to accounting errors
+and misstatements for 128 municipal corporations. Errors and misstatements occurred in several accounts
+and funds. Many could have been detected and corrected timely if the municipal corporation had a stronger
+system of internal control. Some common errors are recording amounts in the wrong account or fund;
+recording purchases of capital assets as expenditures in the year of purchase instead of capitalizing and
+309 273
+25 61
+2023 Deficiency Communication 2023 Plan of Action
+334 Reports with Deﬁciencies
+Filed Not Filed
+Oregon Secretary of State February 2025
+Report 2025-08 page 6
+depreciating over their life expectancy; reporting items at insurance value or fair market value instead of
+historical cost; not reporting transactions at all due to lack of records; or incorrectly depreciating assets.
+There are also misstatements for the failure to recognize and record accruals required for revenues and
+expenditures. Inaccurate reporting makes financial statements less effective for decision making.
+Compliance with Laws, Rules, and Regulations
+Auditors reported one or more instances of significant noncompliance with laws, rules, regulations, or
+grantor requirements for 48 municipal corporations. Ad valorem taxes, such as property taxes, are a major
+source of revenue for most of Oregon’s municipal corporations. As such, municipal corporations are
+required to prepare, adopt, and execute annual or biennial budgets in accordance with Oregon’s Local
+Budget Law. Significant noncompliance with those requirements may result in deficiencies reported by the
+auditor. Other instances of noncompliance may pertain to Oregon’s Public Contracting Code, failure to
+obtain required fidelity bond insurance coverage, or failing to comply with federal or state grant
+requirements.
+Conclusion
+This summary report fulfills the legislative requirements of Oregon’s Municipal Audit Law and presents a
+summary of financial reporting activity as of December 31, 2024. We appreciate the ongoing partnership
+with independent accountants and Oregon municipal corporations in ensuring compliance with the law and
+enhanced transparency.
+We have included the summary information required by law in the following appendices:
+Appendix A  is a list of municipalities that filed timely reports within the six-month statutory deadline or
+within an approved extension deadline.
+Appendix B  is a list of municipal corporations that either filed reports beyond an approved extension of
+time or filed late and did not file a request for an extension.
+Both Appendix A and Appendix B identify whether letters reporting material weaknesses or significant
+deficiencies issued by the independent accountants were received and whether a plan of action adopted by
+the governing body was filed. Both items are required to be filed with the Secretary of State when
+significant or material deficiencies are reported.
+Appendices A and B also include the number and type of material weaknesses and significant deficiencies
+reported by the independent accountants and filed with the Secretary of State.
+Appendix C  is a table showing the municipal corporations that had not filed as of December 31, 2024.
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State February 2025
+Report 2025-08 page 7
+Appendix A: Timely Filed Reports
+Municipal Corporation Name  Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant findings
+Internal
+Control
+Accounting
+Errors
+Noncompliance
+COUNTIES
+CLACKAMAS CO    1
+CLATSOP CO    1 1
+DESCHUTES CO
+DOUGLAS CO
+GRANT CO    5  2
+HARNEY CO
+HOOD RIVER CO    1 1
+JACKSON CO
+JOSEPHINE CO    1
+KLAMATH CO    1 1
+LANE CO
+LINN CO
+MALHEUR CO
+MARION CO 
+MULTNOMAH CO
+POLK CO 
+SHERMAN CO    1
+TILLAMOOK CO    1 1
+UNION CO    1
+WASHINGTON CO    2 1
+WHEELER CO    2
+YAMHILL CO    1 1
+COMMUNITY COLLEGES
+CENTRAL OREGON COMMUNITY
+COLLEGE
+CHEMEKETA COMMUNITY COLLEGE
+CLACKAMAS COMMUNITY COLLEGE
+CLATSOP COMMUNITY COLLEGE
+KLAMATH COMMUNITY COLLEGE
+LANE COMMUNITY COLLEGE 
+LINN-BENTON COMMUNITY COLLEGE
+MOUNT HOOD COMMUNITY COLLEGE    1 1
+OREGON COAST COMMUNITY COLLEGE     2
+PORTLAND COMMUNITY COLLEGE
+ROGUE COMMUNITY COLLEGE
+SOUTHWESTERN OREGON
+COMMUNITY COLLEGE DISTRICT
+TILLAMOOK BAY COMMUNITY COLLEGE    1
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State February 2025
+Report 2025-08 page 8
+Municipal Corporation Name  Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant findings
+Internal
+Control
+Accounting
+Errors
+Noncompliance
+TREASURE VALLEY COMMUNITY
+COLLEGE
+UMPQUA COMMUNITY COLLEGE
+SCHOOL DISTRICTS & ESDs
+BAKER CO SCHOOL DISTRICT 16J
+BAKER CO SCHOOL DISTRICT 5J
+BAKER CO SCHOOL DISTRICT 61
+BENTON CO SCHOOL DISTRICT 17J
+BENTON CO SCHOOL DISTRICT 1J
+CLACKAMAS CO SCHOOL DISTRICT 108    2
+CLACKAMAS CO SCHOOL DISTRICT 12
+CLACKAMAS CO SCHOOL DISTRICT 46
+CLACKAMAS CO SCHOOL DISTRICT 53
+CLACKAMAS CO SCHOOL DISTRICT 62
+CLACKAMAS ESD
+CLATSOP CO SCHOOL DISTRICT 8    2
+COLUMBIA CO SCHOOL DISTRICT 13    2 1
+COLUMBIA CO SCHOOL DISTRICT 1J    2 2
+COLUMBIA CO SCHOOL DISTRICT 47J    1
+COLUMBIA CO SCHOOL DISTRICT 502
+COLUMBIA CO SCHOOL DISTRICT 6J
+COLUMBIA GORGE ESD
+COOS CO SCHOOL DISTRICT 13
+COOS CO SCHOOL DISTRICT 41    2
+COOS CO SCHOOL DISTRICT 54C    4
+COOS CO SCHOOL DISTRICT 8    3 1 1
+COOS CO SCHOOL DISTRICT 9    1 1
+CROOK CO SCHOOL DISTRICT
+CURRY CO SCHOOL DISTRICT 1
+CURRY CO SCHOOL DISTRICT 2CJ
+DESCHUTES CO SCHOOL DISTRICT 1
+DESCHUTES CO SCHOOL DISTRICT 2J
+DOUGLAS CO ESD 
+DOUGLAS CO SCHOOL DISTRICT 130
+DOUGLAS CO SCHOOL DISTRICT 15
+DOUGLAS CO SCHOOL DISTRICT 19
+DOUGLAS CO SCHOOL DISTRICT 34
+DOUGLAS CO SCHOOL DISTRICT 4
+DOUGLAS CO SCHOOL DISTRICT 77
+FOSSIL SCHOOL DISTRICT 21J    2
+GILLIAM CO SCHOOL DISTRICT 25J    1  1
+GRANT CO ESD
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State February 2025
+Report 2025-08 page 9
+Municipal Corporation Name  Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant findings
+Internal
+Control
+Accounting
+Errors
+Noncompliance
+GRANT CO SCHOOL DISTRICT 16J
+GRANT CO SCHOOL DISTRICT 4
+GRANT CO SCHOOL DISTRICT 8
+HARNEY CO SCHOOL DISTRICT 10    1 1
+HARNEY CO SCHOOL DISTRICT 13    1 1
+HARNEY CO SCHOOL DISTRICT 16    1
+HARNEY CO SCHOOL DISTRICT 28    1
+HARNEY CO SCHOOL DISTRICT 3
+HARNEY CO SCHOOL DISTRICT 33    1
+HARNEY CO SCHOOL DISTRICT 7    1
+HIGH DESERT ESD REGION 10
+HOOD RIVER CO SCHOOL DISTRICT    1
+IMBLER SCHOOL DISTRICT 11    1
+JACKSON CO SCHOOL DISTRICT 35
+JACKSON CO SCHOOL DISTRICT 4
+JACKSON CO SCHOOL DISTRICT 549C
+JACKSON CO SCHOOL DISTRICT 94
+JEFFERSON CO ESD
+JEFFERSON CO SCHOOL DISTRICT 4    1
+JEFFERSON CO SCHOOL DISTRICT 41    1
+JEFFERSON CO SCHOOL DISTRICT 509J
+JOSEPHINE CO SCHOOL DISTRICT 7    1 1
+JOSEPHINE CO/THREE RIVERS
+SCHOOL DISTRICT
+KLAMATH CO SCHOOL DISTRICT    2 2
+LAKE CO ESD
+LAKE CO SCHOOL DISTRICT 14
+LAKE CO SCHOOL DISTRICT 18
+LAKE CO SCHOOL DISTRICT 21
+LANE CO SCHOOL DISTRICT 1
+LANE CO SCHOOL DISTRICT 19
+LANE CO SCHOOL DISTRICT 40
+LANE CO SCHOOL DISTRICT 52
+LANE CO SCHOOL DISTRICT 71
+LANE CO SCHOOL DISTRICT 97J
+LINCOLN CO SCHOOL DISTRICT
+LINN CO SCHOOL DISTRICT 55
+LINN CO SCHOOL DISTRICT 552C
+LINN CO SCHOOL DISTRICT 7
+LINN CO SCHOOL DISTRICT 95C
+LINN-BENTON-LINCOLN ESD
+MALHEUR CO SCHOOL DISTRICT 12
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State February 2025
+Report 2025-08 page 10
+Municipal Corporation Name  Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant findings
+Internal
+Control
+Accounting
+Errors
+Noncompliance
+MALHEUR CO SCHOOL DISTRICT 26    2  1
+MALHEUR CO SCHOOL DISTRICT 3
+MALHEUR CO SCHOOL DISTRICT 51    1
+MALHEUR CO SCHOOL DISTRICT 61
+MALHEUR CO SCHOOL DISTRICT 81
+MARION CO SCHOOL DISTRICT 1
+MARION CO SCHOOL DISTRICT 15
+MARION CO SCHOOL DISTRICT 24J
+MARION CO SCHOOL DISTRICT 29J
+MARION CO SCHOOL DISTRICT 45
+MARION CO SCHOOL DISTRICT 4J
+MARION CO SCHOOL DISTRICT 91
+MORROW CO SCHOOL DISTRICT 1    2 2
+MULTNOMAH CO ESD
+MULTNOMAH CO SCHOOL DISTRICT 10J
+MULTNOMAH CO SCHOOL DISTRICT 1J    1 1
+MULTNOMAH CO SCHOOL DISTRICT 3
+MULTNOMAH CO SCHOOL DISTRICT 40
+NORTH CENTRAL ESD    1
+NORTHWEST REGIONAL ESD 
+POLK CO SCHOOL DISTRICT 2
+POLK CO SCHOOL DISTRICT 57
+SOUTH COAST ESD    2 1
+TILLAMOOK CO SCHOOL DISTRICT 101 
+TILLAMOOK CO SCHOOL DISTRICT 56
+TILLAMOOK CO SCHOOL DISTRICT 9
+UMATILLA CO SCHOOL DISTRICT 7
+UMATILLA CO SCHOOL DISTRICT 8R
+UNION CO SCHOOL DISTRICT 1    2 1
+UNION CO SCHOOL DISTRICT 23    11 7 2
+UNION CO SCHOOL DISTRICT 5    2 1
+WALLOWA CO SCHOOL DISTRICT 12    1
+WALLOWA CO SCHOOL DISTRICT 54    1
+WASCO CO SCHOOL DISTRICT 21    2 1
+WASCO CO SCHOOL DISTRICT 29    4 3 1
+WASHINGTON CO SCHOOL DISTRICT 13
+WASHINGTON CO SCHOOL DISTRICT 1J    1  1
+WASHINGTON CO SCHOOL DISTRICT
+23J
+WASHINGTON CO SCHOOL DISTRICT
+48J
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State February 2025
+Report 2025-08 page 11
+Municipal Corporation Name  Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant findings
+Internal
+Control
+Accounting
+Errors
+Noncompliance
+WASHINGTON CO SCHOOL DISTRICT
+511J
+WASHINGTON CO SCHOOL DISTRICT
+88J
+  3 3
+WHEELER CO SCHOOL DISTRICT 1
+WHEELER CO SCHOOL DISTRICT 55    1
+YAMHILL CO SCHOOL DISTRICT 1
+YAMHILL CO SCHOOL DISTRICT 30J
+YAMHILL CO SCHOOL DISTRICT 48J    1
+YAMHILL CO SCHOOL DISTRICT 4J
+YAMHILL CO SCHOOL DISTRICT 8    1
+CHARTER SCHOOLS
+ALLIANCE CHARTER ACADEMY
+ARCO IRIS SPANISH IMMERSION
+CHARTER SCHOOL
+ARMADILLO TECHNICAL INSTITUTE
+BAKER CO SCHOOL DISTRICT 30J    1
+BAKER EARLY COLLEGE    1
+BAKER WEB ACADEMY    1
+BEND INTERNATIONAL SCHOOL, INC
+BETHANY CHARTER SCHOOL
+BRIDGE CHARTER ACADEMY
+CAMAS VALLEY SCHOOL
+CANNON BEACH ACADEMY
+CASCADE HEIGHTS PUBLIC CHARTER
+SCHOOL
+CENTER FOR ADVANCED LEARNING,
+THE
+CITY VIEW CHARTER SCHOOL
+CLACKAMAS ACADEMY OF INDUSTRIAL
+SCIENCE
+COBURG COMMUNITY CHARTER
+SCHOOL
+  1
+COMMUNITY ROOTS SCHOOL
+CRATER LAKE CHARTER ACADEMY
+EAGLE CHARTER SCHOOL    3 1
+EDDYVILLE CHARTER SCHOOL
+EMERSON SCHOOL, THE
+ESTACADA WEB ACADEMY
+EVERGREEN VIRTUAL ACADEMY
+FOUR RIVERS COMMUNITY SCHOOL
+FRONTIER CHARTER ACADEMY
+GILLIAM CO SCHOOL DISTRICT 3
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State February 2025
+Report 2025-08 page 12
+Municipal Corporation Name  Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant findings
+Internal
+Control
+Accounting
+Errors
+Noncompliance
+HARMONY ACADEMY
+HOME SCHOLAR'S ACADEMY OF
+OAKRIDGE AND WESTFIR
+HOWARD STREET CHARTER SCHOOL
+INAVALE COMMUNITY PARTNERS INC
+INSIGHT SCHOOL OF OREGON PAINTED
+HILLS
+JACKSON CO SCHOOL DISTRICT 59
+JACKSON CO SCHOOL DISTRICT 91
+JANE GOODALL ENVIRONMENTAL
+MIDDLE SCHOOL
+KAIROS PDX LEARNING ACADEMY
+KIDS UNLIMITED ACADEMY WHITE CITY
+KINGS VALLEY CHARTER SCHOOL    1 1
+LE MONDE FRENCH IMMERSION PUBLIC
+CHARTER SCHOOL
+LEWIS AND CLARK MONTESSORI
+PUBLIC CHARTER SCHOOL
+LIGHTHOUSE SCHOOL, THE
+LOGOS PUBLIC CHARTER SCHOOL
+LOURDES CHARTER SCHOOL, THE    3 1
+LUCKIAMUTE VALLEY CHARTER
+SCHOOLS
+  2
+M.I.T.C.H. CHARTER SCHOOL
+MADRONE TRAIL CHARTER SCHOOL
+MALHEUR CO SCHOOL DISTRICT 29
+MALHEUR CO SCHOOL DISTRICT 66
+MASTERY LEARNING
+INSTITUTE/ARTHUR ACADEMY -
+GRESHAM
+MASTERY LEARNING
+INSTITUTE/ARTHUR ACADEMY - ST
+HELENS
+MASTERY LEARNING
+INSTITUTE/ARTHUR ACADEMY-DAVID
+DOUGLAS
+MASTERY LEARNING
+INSTITUTE/ARTHUR ACADEMY-
+PORTLAND
+MASTERY LEARNING
+INSTITUTE/ARTHUR ACADEMY-
+REYNOLDS
+MASTERY LEARNING
+INSTITUTE/ARTHUR ACADEMY-
+WOODBURN
+METRO EAST WEB ACADEMY
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State February 2025
+Report 2025-08 page 13
+Municipal Corporation Name  Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant findings
+Internal
+Control
+Accounting
+Errors
+Noncompliance
+MOLALLA RIVER ACADEMY 
+MOUNTAIN VIEW CHARTER ACADEMY
+MULTNOMAH LEARNING ACADEMY
+OPTIMUM LEARNING ENVIRONMENT
+CHARTER SCHOOL
+OREGON CITY SERVICE LEARNING
+ADADEMY
+OREGON FAMILY SCHOOL    1 1
+OREGON FOR QUALITY VIRTUAL
+EDUCATION INC
+OREGON TRAIL PRIMARY ACADEMY
+PAISLEY SCHOOL
+PEOPLE INVOLVED IN
+EDUCATION/SAND RIDGE
+PEOPLE INVOLVED IN
+EDUCATION/SWEET HOME
+PERSONALIZED LEARNING INC
+PORTLAND VILLAGE SCHOOL
+POWELL BUTTE COMMUNITY CHARTER
+RESOURCE LINK CHARTER SCHOOL 
+RIDGELINE MONTESSORI CHARTER
+SCHOOL
+RIVER'S EDGE ACADEMY CHARTER
+SCHOOL
+SILETZ VALLEY SCHOOL
+SILVIES RIVER CHARTER SCHOOL
+SPRINGWATER ENVIRONMENTAL
+SCIENCES SCHOOL
+SUNNY WOLF CHARTER SCHOOL
+THE COTTONWOOD SCHOOL OF CIVICS
+AND SCIENCE
+THE IVY SCHOOL
+UNION CO SCHOOL DISTRICT 15    2  1
+VALLEY INQUIRY CHARTER SCHOOL
+VALLEY SCHOOL OF SOUTHERN
+OREGON
+VIBES PUBLIC CHARTER SCHOOL
+WEST LANE TECHNICAL LEARNING
+CENTER
+  1
+WILLAMETTE CONNECTIONS ACADEMY
+WOODLAND EDUCATIONAL INITIATIVE
+CHARTER SCHOOL
+CITIES
+AMITY
+ARLINGTON    4 1 3
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State February 2025
+Report 2025-08 page 14
+Municipal Corporation Name  Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant findings
+Internal
+Control
+Accounting
+Errors
+Noncompliance
+ASHLAND
+ASTORIA    1 1
+AUMSVILLE
+AURORA
+BANDON
+BAY CITY    5 4 1
+BEAVERTON    2 2
+BEND
+BOARDMAN 
+BROOKINGS
+BROWNSVILLE
+BUTTE FALLS    1
+CANBY 
+CANYON CITY    2
+COLUMBIA CITY    2
+CONDON    1
+COOS BAY
+CORNELIUS
+COVE    2
+DAYTON 
+DAYVILLE    2
+DONALD
+DURHAM
+ECHO    1
+ELGIN    1
+ESTACADA    1 1
+EUGENE
+FOREST GROVE
+FOSSIL    9 6
+GEARHART    1
+GLADSTONE 
+GLENDALE    2 1
+GRANTS PASS 
+GRASS VALLEY    2
+GRESHAM
+HAINES    1
+HALFWAY    1
+HALSEY
+HEPPNER    2  2
+HERMISTON 
+HILLSBORO
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State February 2025
+Report 2025-08 page 15
+Municipal Corporation Name  Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant findings
+Internal
+Control
+Accounting
+Errors
+Noncompliance
+HINES
+HOOD RIVER    2
+HUBBARD
+HUNTINGTON
+IRRIGON
+ISLAND CITY    1
+JACKSONVILLE
+JEFFERSON
+JUNCTION CITY    1 1
+KEIZER
+KLAMATH FALLS 
+LA GRANDE    2 2
+LAKE OSWEGO
+LAKESIDE
+LINCOLN CITY    3 3
+LOWELL 
+LYONS    2
+MANZANITA    2 1 1
+MCMINNVILLE    2 2
+MEDFORD
+MILL CITY    3 3
+MILLERSBURG
+MILTON FREEWATER
+MOLALLA    1 1
+MONMOUTH    2
+MORO    5 3
+MOUNT ANGEL
+MOUNT VERNON    2
+NEHALEM    1
+NORTH BEND    1
+NORTH POWDER
+NYSSA 
+OREGON CITY
+PILOT ROCK    2
+PORTLAND
+PRAIRIE CITY    1 1
+PRINEVILLE 
+RAINIER 
+REDMOND 
+REEDSPORT 
+ROCKAWAY BEACH    4 3
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State February 2025
+Report 2025-08 page 16
+Municipal Corporation Name  Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant findings
+Internal
+Control
+Accounting
+Errors
+Noncompliance
+ROGUE RIVER
+ROSEBURG 
+RUFUS    2  2
+SALEM 
+SANDY
+SCIO    2  1
+SHERIDAN
+SHERWOOD 
+SILVERTON
+SISTERS 
+SODAVILLE    5 2 1
+SPRAY    2
+SPRINGFIELD
+SUBLIMITY
+SUTHERLIN
+TALENT
+THE DALLES
+TIGARD 
+TILLAMOOK
+TOLEDO    1
+TROUTDALE
+UMATILLA
+UNION    3 2
+VALE
+WALLOWA    1
+WASCO    4
+WESTFIR    2  1
+WHEELER    6  2
+WILLAMINA
+WILSONVILLE
+WOOD VILLAGE    1 1
+WOODBURN
+FIRE DISTRICTS
+AMITY RFPD    1
+APPLEGATE VALLEY RFPD 9
+AUMSVILLE RFPD    1  1
+AURORA RFPD
+BANDON RFPD 
+BLACK BUTTE RANCH RFPD
+BROWNSVILLE RFPD    2 2
+CANBY RFPD 62 
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State February 2025
+Report 2025-08 page 17
+Municipal Corporation Name  Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant findings
+Internal
+Control
+Accounting
+Errors
+Noncompliance
+CANNON BEACH RFPD
+CHARLESTON RFPD
+CLACKAMAS CO FIRE DISTRICT 1
+CLATSKANIE RFPD    3
+CLOVERDALE RFPD    6  3
+COBURG RFPD    2
+COLTON RFPD 
+CORBETT FIRE DISTRICT NO. 14
+CORVALLIS RFPD    3 1
+CROOK CO FIRE & RESCUE
+CROOKED RIVER RANCH RFPD
+DAYTON RFPD    2
+DEPOE BAY RFPD
+DESCHUTES CO RFPD 2
+DOUGLAS CO RFPD 2
+EAST UMATILLA FIRE AND RESCUE    1
+ESTACADA RFPD    7 2 2
+EUGENE RFPD 01
+EVANS VALLEY RFPD
+GLIDE RFPD
+GOSHEN RFPD    2
+HALSEY SHEDD RFPD    2
+HARRISBURG RFPD    2
+ILLINOIS VALLEY RFPD
+JACKSON CO RFPD 4    2 2
+JEFFERSON RFPD    2 1
+JUNCTION CITY RFPD    2
+KEIZER RFPD    1 1
+KENO RFPD
+KLAMATH CO RFPD 1    2 1
+LAKE GROVE RFPD
+LANE FIRE AUTHORITY
+LEBANON RFPD
+LOWELL RFPD    1
+LYONS FIRE DISTRICT & AMBULANCE
+SERVICE
+  1  1
+MARION CO RFPD 01
+MCKENZIE FIRE AND RESCUE    1
+MCMINNVILLE RFPD    1
+MEDFORD RFPD    1
+MID-COLUMBIA FIRE & RESCUE
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State February 2025
+Report 2025-08 page 18
+Municipal Corporation Name  Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant findings
+Internal
+Control
+Accounting
+Errors
+Noncompliance
+MILL CITY RFPD     2 1
+MOHAWK VALLEY RFPD    1
+MOLALLA RFPD
+MONROE RFPD    2  1
+MT ANGEL FIRE DISTRICT
+NEHALEM BAY FIRE & RESCUE
+DISTRICT
+  1
+NESTUCCA RFPD
+NETARTS OCEANSIDE RFPD    2
+PHILOMATH RFPD    1 1
+PLEASANT HILL RFPD    2  1
+POLK CO RFPD 1 
+REDMOND FIRE AND RESCUE
+RIVERDALE RFPD
+ROGUE RIVER RFPD
+SANDY RFPD    1 1
+SANTA CLARA RFPD
+SCAPPOOSE RFPD 
+SCIO RFPD    3 1 1
+SEAL ROCK RFPD 
+SILVERTON RFPD
+SIUSLAW VALLEY FIRE & RESCUE    1  1
+SOUTH LANE CO RFPD    2 1 1
+SOUTHWESTERN POLK RFPD
+STAYTON RFPD 
+SUBLIMITY RFPD
+SWEET HOME FIRE & AMBULANCE
+DISTRICT
+TANGENT RFPD
+TRI CITY RFPD 04    2
+TUALATIN VALLEY FIRE & RESCUE
+TURNER RFPD 
+UMATILLA CO FIRE DISTRICT 1 
+VALE RFPD
+WEST SIDE RFPD
+WESTERN LANE FIRE AND EMS
+AUTHORITY
+  4 4
+WILLAKENZIE RFPD    1
+WINSTON-DILLARD RFPD 5
+WOODBURN RFPD
+WY'EAST RFPD    1
+YACHATS RFPD
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State February 2025
+Report 2025-08 page 19
+Municipal Corporation Name  Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant findings
+Internal
+Control
+Accounting
+Errors
+Noncompliance
+OTHER SPECIAL DISTRICTS
+ARNOLD IRRIGATION DISTRICT
+ASSOCIATION OF OREGON COUNTIES
+ASTORIA URBAN RENEWAL AGENCY 
+BAKER CO LIBRARY DISTRICT    1
+BANDON URBAN RENEWAL AGENCY
+BARNEY RESERVOIR JOINT
+COMMISSION
+BAY AREA HEALTH DISTRICT
+BEAVERTON URBAN REDEVELOPMENT
+AGENCY 
+BEND METRO PARKS & REC
+BEND METROPOLITAN PLANNING
+COMMISSION
+BEND URBAN RENEWAL AGENCY
+BENTON SWCD    2
+BLACK BUTTE RANCH COUNTY
+SERVICE DISTRICT
+BLUE MOUNTAIN HOSPITAL DISTRICT
+BOARDMAN PARKS & REC DISTRICT    2
+BORING WATER DISTRICT
+BROOKINGS URBAN RENEWAL AGENCY
+BROOKS COMMUNITY SERVICE
+DISTRICT
+BUELL RED PRAIRIE WATER DISTRICT    2  2
+CANBY URBAN RENEWAL DISTRICT 
+CARLTON URBAN RENEWAL AGENCY
+CENTRAL AND EASTERN OREGON
+JUVENILE JUSTICE CONSORTIUM
+CENTRAL LINCOLN PUD
+CENTRAL OREGON IRRIGATION
+DISTRICT
+CENTRAL OREGON REGIONAL
+HOUSING AUTHORITY
+CHARLESTON SANITARY DISTRICT
+CHENOWITH WATER PUD    3 2
+CHETCO COMMUNITY LIBRARY
+DISTRICT
+CHRISTMAS VALLEY DOMESTIC WATER
+SUPPLY DISTRICT    2 1
+CITY CO INSURANCE SERVICE ADM
+TRUST 
+CITY OF OREGON CITY URBAN
+RENEWAL COMMISSION
+CLACKAMAS 800 RADIO GROUP
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State February 2025
+Report 2025-08 page 20
+Municipal Corporation Name  Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant findings
+Internal
+Control
+Accounting
+Errors
+Noncompliance
+CLACKAMAS CO DEVELOPMENT
+AGENCY
+  1 1
+CLACKAMAS CO ENHANCED LAW
+ENFORCEMENT DISTRICT
+CLACKAMAS CO EXTENSION AND 4-H
+SERVICES DISTRICT
+CLACKAMAS CO SERVICE DISTRICT 5
+CLACKAMAS CO VECTOR CONTROL
+CLACKAMAS RIVER WATER 
+CLACKAMAS SWCD
+CLATSKANIE PUD 
+CLATSOP CARE CENTER HEALTH
+DISTRICT
+CLATSOP CO 4H EXTENSION SERVICE
+DISTRICT
+CLATSOP CO ROAD DISTRICT # 1
+CLATSOP CO RURAL LAW
+ENFORCEMENT DISTRICT
+CLEAN WATER SERVICES OF
+WASHINGTON CO
+COLTON WATER DISTRICT 
+COLUMBIA CORRIDOR DRAINAGE
+DISTRICTS JOINT CONTRACTING
+AUTHORITY
+COLUMBIA DRAINAGE VECTOR
+CONTROL DISTRICT
+COLUMBIA GATEWAY URBAN RENEWAL
+AGENCY
+COLUMBIA GORGE REGIONAL AIRPORT
+COLUMBIA IMPROVEMENT DISTRICT
+COLUMBIA RIVER PUD
+COOS BAY URBAN RENEWAL AGENCY
+COOS BAY/NORTH BEND/CHARLESTON
+VISITORS CONVENTION BUREAU
+COOS CURRY HOUSING AUTHORITY
+COOS SWCD
+COQUILLE VALLEY HOSPITAL DISTRICT
+CORBETT WATER DISTRICT
+COUNTYWIDE LAW ENFORCEMENT
+DISTRICT
+CRESCENT SANITARY DISTRICT 
+CROOK CO PARKS & REC DISTRICT    1 1
+CURRY HEALTH DISTRICT
+CURRY PUBLIC LIBRARY DISTRICT
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State February 2025
+Report 2025-08 page 21
+Municipal Corporation Name  Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant findings
+Internal
+Control
+Accounting
+Errors
+Noncompliance
+DESCHUTES BASIN BOARD OF
+CONTROL
+DESCHUTES CO 911 COMMUNICATIONS
+SERVICE DISTRICT
+DESCHUTES CO EXTENSION & 4H
+SERVICE DISTRICT
+DESCHUTES PUBLIC LIBRARY    3 3
+DESCHUTES VALLEY WATER DISTRICT    1
+DOUGLAS CO 4-H MASTER GARDENER
+&AMP; EXTENSION SERVICE DISTRICT
+DUNTHORPE RIVERDALE SERVICE
+DISTRICT
+EAGLE POINT IRRIGATION DISTRICT    1
+EAGLE VALLEY SWCD    1
+EAST IMPROVEMENT DISTRICT    1
+EAST MULTNOMAH SWCD
+EAST SALEM SERVICE DISTRICT
+EAST UMATILLA CO AMBULANCE AREA
+HEALTH DISTRICT
+  2
+EASTERN OREGON HUMAN SERVICE
+CONSORTIUM
+EMERALD PUD
+EMERGENCY COMMUNICATIONS OF
+SOUTHERN OREGON
+ESTACADA URBAN RENEWAL AGENCY    1 1
+EUGENE URBAN RENEWAL AGENCY
+EUGENE WATER & ELECTRIC BOARD
+FARGO INTERCHANGE SERVICE
+DISTRICT
+FLORENCE URBAN RENEWAL AGENCY 
+FOREST GROVE URBAN RENEWAL
+AGENCY
+FORT ROCK SILVER LAKE SWCD
+FRONTIER REGIONAL 911 AGENCY    1
+FRONTIER TELENET    1
+GILLIAM CO SWCD    1
+GLADSTONE URBAN RENEWAL
+AGENCY 
+GLENEDEN SANITARY DISTRICT
+GOVERNMENT CAMP SANITARY
+DISTRICT
+GRAND PRAIRIE WATER CONTROL
+DISTRICT
+  1
+GRANT CO EXTENSION & 4-H SERVICE
+DISTRICT    1
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State February 2025
+Report 2025-08 page 22
+Municipal Corporation Name  Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant findings
+Internal
+Control
+Accounting
+Errors
+Noncompliance
+GRANT CO TRANSPORTATION DISTRICT 
+GRANT SWCD    2
+GRANTS PASS IRRIGATION DISTRICT
+GRANTS PASS URBAN RENEWAL
+AGENCY
+GREATER ST HELENS AQUATIC
+DISTRICT
+HARBOR SANITARY DISTRICT    2
+HARNEY DISTRICT HOSPITAL
+HARNEY SWCD
+HECETA WATER PEOPLE'S UTILITY
+DISTRICT
+HERMISTON IRRIGATION DISTRICT    1
+HILLSBORO ECONOMIC DEVELOPMENT
+COUNCIL
+HILLSBORO FOREST GROVE
+BEAVERTON TIGARD TUALATIN VALLEY
+JOINT WATER COMMISSION
+HOME FORWARD 
+HOMES FOR GOOD HOUSING AGENCY    1 1
+HOOD RIVER CO 911 COMMUNICATIONS
+DISTRICT
+HOOD RIVER CO TRANSPORTATION    1 1
+HOOD RIVER COMMUNITY PARK & REC
+HOOD RIVER COUNTY LIBRARY
+DISTRICT
+HOOD RIVER SWCD    3 1
+HOOD RIVER URBAN RENEWAL
+AGENCY
+HOUSING AUTHORITY OF CLACKAMAS
+CO    1
+HOUSING AUTHORITY OF JACKSON CO 
+HOUSING AUTHORITY OF LINCOLN CO    1  1
+HOUSING AUTHORITY OF MALHEUR CO
+HOUSING AUTHORITY OF SALEM
+HOUSING AUTHORITY OF UMATILLA CO    1 1
+HOUSING AUTHORITY OF WASHINGTON
+CO 
+ICE FOUNTAIN WATER DISTRICT
+ISLAND CITY AREA SANITARY DISTRICT    1
+JACKSON CO 4-H, MASTER GARDENER
+& AGRICULTURAL SERVICE DISTRICT
+JACKSON CO LIBRARY DISTRICT
+JACKSON CO VECTOR CONTROL
+DISTRICT
+  1
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State February 2025
+Report 2025-08 page 23
+Municipal Corporation Name  Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant findings
+Internal
+Control
+Accounting
+Errors
+Noncompliance
+JACKSON SWCD
+JACKSONVILLE URBAN RENEWAL
+AGENCY
+JEFFERSON CO LIBRARY DISTRICT
+JOSEPHINE CO 911 AGENCY
+JOSEPHONE COUNTY SOLID WASTE
+AGENCY
+JUNCTION CITY WATER CONTROL
+DISTRICT
+KERNVILLE-GLENEDEN BEACH-
+LINCOLN BEACH WATER DISTRICT
+KLAMATH BASIN IMPROVEMENT
+DISTRICT
+  2
+KLAMATH CO DRAIN SERVICE DISTRICT
+KLAMATH CO EMERGENCY
+COMMUNICATIONS DISTRICT
+  1
+KLAMATH CO EXTENSION SERVICE
+DISTRICT
+KLAMATH CO LIBRARY SERVICE
+DISTRICT
+KLAMATH CO ROAD SERVICE DISTRICT
+KLAMATH DRAINAGE DISTRICT    3
+KLAMATH FALLS URBAN RENEWAL
+AGENCY 
+KLAMATH HOUSING AUTHORITY
+KLAMATH IRRIGATION DISTRICT    3
+KLAMATH VECTOR CONTROL DISTRICT    3
+LA GRANDE URBAN RENEWAL AGENCY 
+LA PINE PARK & REC DISTRICT    1 1
+LAKE GROVE WATER DISTRICT
+LAKE OSWEGO REDEVELOPMENT
+AGENCY
+LAKESIDE WATER DISTRICT    2 1 1
+LAKEVIEW SWCD
+LANE TRANSIT DISTRICT 
+LANE WORKFORCE PARTNERSHIP
+LANGELL VALLEY IRRIGATION DISTRICT    5
+LEBANON AQUATIC DISTRICT
+LIBRARY DISTRICT OF CLACKAMAS CO
+LINCOLN CITY URBAN RENEWAL
+AGENCY 
+LINCOLN CO LIBRARY DISTRICT    1 1
+LINN CO 4H AND EXTENSION DISTRICT
+LINN CO EMERGENCY TELEPHONE
+AGENCY
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State February 2025
+Report 2025-08 page 24
+Municipal Corporation Name  Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant findings
+Internal
+Control
+Accounting
+Errors
+Noncompliance
+LINN REGIONAL FUELING FACILITY
+LINN-BENTON HOUSING AUTHORITY
+LONE PINE IRRIGATION DISTRICT
+LOWER UMPQUA HOSPITAL DISTRICT
+MADRAS AQUATIC CENTER
+MALHEUR CO SWCD    3 1 2
+MALHEUR MEMORIAL HEALTH CENTER
+MARION AREA MULTI AGENCY
+EMERGENCY TELECOMMUNICATION
+MARION CO EXTENSION AND 4-H
+SERVICE DISTRICT
+MARION CO HOUSING AUTHORITY 
+MARION SWCD
+MCMINNVILLE URBAN RENEWAL
+AGENCY
+  2 2
+MCMINNVILLE WATER & LIGHT
+DEPARTMENT
+MEDCOM AMBULANCE AUTHORITY
+SERVICE DISTRICT
+  2
+MEDFORD URBAN RENEWAL AGENCY
+MEDFORD WATER COMMISSION
+METRO
+METRO WASTEWATER MANAGEMENT
+COMMISSION
+METROPOLITAN AREA
+COMMUNICATIONS
+MID-COLUMBIA ECONOMIC
+DEVELOPMENT
+MIDDLE FORK IRRIGATION DISTRICT    2
+MID-MULTNOMAH COUNTY STREET
+LIGHTING SERVICE DISTRICT NO. 14
+MID-WILLAMETTE VALLEY CABLE
+REGULATORY COMMISSION
+MID-WILLAMETTE VALLEY COUNCIL OF
+GOVERNMENTS
+MID-WILLAMETTE VALLEY HOMELESS
+ALLIANCE
+MOLALLA URBAN RENEWAL AGENCY
+MONMOUTH INDEPENDENCE
+NETWORK
+MONMOUTH URBAN RENEWAL
+DISTRICT 
+MORROW CO HEALTH DISTRICT
+MORROW CO UNIFIED RECREATION
+DISTRICT
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State February 2025
+Report 2025-08 page 25
+Municipal Corporation Name  Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant findings
+Internal
+Control
+Accounting
+Errors
+Noncompliance
+MT HOOD CABLE REGULATORY
+COMMISSION
+MULINO WATER DISTRICT 1 
+MULTNOMAH CO DRAINAGE DISTRICT 1
+MULTNOMAH COUNTY LIBRARY
+DISTRICT
+NEAH-KAH-NIE WATER DISTRICT
+NEHALEM BAY WASTEWATER AGENCY    3 1
+NESKOWIN REGIONAL SANITARY
+AUTHORITY
+  2
+NESKOWIN REGIONAL WATER DISTRICT    3  1
+NETARTS OCEANSIDE SANITARY
+DISTRICT
+  2  1
+NETARTS WATER DISTRICT    2 1
+NEWPORT URBAN RENEWAL AGENCY
+NORTH BEND CITY HOUSING
+AUTHORITY
+NORTH BEND URBAN RENEWAL
+AGENCY
+  1
+NORTH BETHANY CO SERVICE
+DISTRICT    1 1
+NORTH CLACKAMAS PARKS & REC
+DISTRICT
+NORTH COUNTY RECREATION
+DISTRICT    2
+NORTH GILLIAM CO HEALTH DISTRICT 
+NORTH LINCOLN HEALTH DISTRICT    1
+NORTH MORROW VECTOR CONTROL
+DISTRICT
+  3
+NORTH WASCO CO PARKS & REC
+DISTRICT
+  1
+NORTHEAST OREGON ECONOMIC
+DEVELOPMENT DISTRICT
+  2
+NORTHERN WASCO PUD
+NORTHWEST INTERGOVERNMENTAL
+ENERGY SUPPLY
+NORTHWEST SENIOR & DISABILITY
+SERVICES
+NYSSA ROAD ASSESSMENT DISTRICT 2
+OCEANSIDE WATER DISTRICT    1 1
+OCHOCO IRRIGATION DISTRICT    3
+ODELL SANITARY DISTRICT    2 1
+ONTARIO LIBRARY DISTRICT    1
+OREGON COMMUNITY COLLEGE
+ASSOCIATION
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State February 2025
+Report 2025-08 page 26
+Municipal Corporation Name  Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant findings
+Internal
+Control
+Accounting
+Errors
+Noncompliance
+OREGON INTERNATIONAL PORT OF
+COOS BAY
+OREGON PUBLIC ENTITY EXCESS POOL
+OREGON TRAIL LIBRARY DISTRICT 
+OREGON WATER WONDERLAND UNIT II
+SANITARY DISTRICT
+  2
+OTTER ROCK WATER DISTRICT    2
+OWYHEE IRRIGATION DISTRICT
+PENINSULA DRAINAGE DISTRICT 1
+PENINSULA DRAINAGE DISTRICT 2
+PLEASANT HILL GOSHEN FIRE AND
+RESCUE
+  2
+POLK CO EXTENSION SERVICE DIST 
+POLK SWCD
+PORT OF ASTORIA
+PORT OF BANDON
+PORT OF COLUMBIA COUNTY
+PORT OF GOLD BEACH 
+PORT OF HOOD RIVER
+PORT OF MORROW
+PORT OF PORTLAND
+PORT OF SIUSLAW
+PORT OF THE DALLES    1
+PORT OF TILLAMOOK BAY
+PORT OF TOLEDO 
+PORT OF UMATILLA 
+PORT OF UMPQUA
+POWDER VALLEY WATER CONTROL
+DISTRICT
+  1
+PROSPER PORTLAND
+REDMOND AREA PARK & RECREATION
+DISTRICT
+  2
+REDMOND URBAN RENEWAL AGENCY 
+REEDSPORT URBAN RENEWAL
+AGENCY 
+RIDGEVIEW IRRIGATION DISTRICT
+RIVER ROAD PARKS & REC DISTRICT    4 1 1
+RIVER ROAD WATER DISTRICT
+RIVERGROVE WATER DISTRICT
+ROCKWOOD WATER PUD 
+ROCKWOOD-WEST GRESHAM URBAN
+RENEWAL AREA
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State February 2025
+Report 2025-08 page 27
+Municipal Corporation Name  Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant findings
+Internal
+Control
+Accounting
+Errors
+Noncompliance
+ROGUE VALLEY COUNCIL OF
+GOVERNMENTS
+RURAL LAW ENFORCEMENT DISTRICT
+SALEM AREA MASS TRANSIT DISTRICT 
+SALEM URBAN RENEWAL AGENCY 
+SALISHAN SANITARY DISTRICT    1
+SANDY URBAN RENEWAL AGENCY
+SCAPPOOSE PUBLIC LIBRARY DISTRICT    2
+SEAL ROCK WATER DISTRICT
+SHERMAN CO HEALTH DISTRICT    1
+SHERMAN COUNTY SWCD    1
+SHERWOOD 2021 URBAN RENEWAL
+AGENCY 
+SHERWOOD URBAN RENEWAL AGENCY 
+SILVER FALLS LIBRARY DISTRICT
+SILVERTON URBAN RENEWAL AGENCY
+SISTERS PARK & RECREATION
+DISTRICT 
+SOLID WASTE DISPOSAL SERVICE
+DISTRICT
+SOUTH FORK WATER BOARD
+SOUTH GILLIAM HEALTH DISTRICT    1
+SOUTH SUBURBAN SANITARY DISTRICT    1 1
+SOUTHERN COOS HEALTH DISTRICT
+SPRINGFIELD ECONOMIC
+DEVELOPMENT AGENCY
+SPRINGFIELD UTILITY BOARD
+STANFIELD IRRIGATION DISTRICT    1
+SUNRISE WATER AUTHORITY
+SUNRIVER SERVICE DISTRICT
+SUNSET EMPIRE PARKS & REC
+SUTHERLIN TAX INCREMENT FINANCE
+DISTRICT
+SWALLEY IRRIGATION DISTRICT
+TALENT IRRIGATION DISTRICT
+THE DALLES IRRIGATION DISTRICT    2 1
+TIGARD-TUALATIN AQUATIC DISTRICT
+TILLAMOOK CO 4H & EXTENSION
+SERVICE DISTRICT
+TILLAMOOK CO EMERGENCY
+COMMUNICATIONS DISTRICT
+TILLAMOOK LIGHTWAVE
+INTERGOVERNMENTAL AGENCY 
+TILLAMOOK PUD
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State February 2025
+Report 2025-08 page 28
+Municipal Corporation Name  Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant findings
+Internal
+Control
+Accounting
+Errors
+Noncompliance
+TILLAMOOK SWCD
+TILLAMOOK URBAN RENEWAL AGENCY    2
+TOLEDO URBAN RENEWAL PLAN    1
+TRAINING & EMPLOYMENT
+CONSORTIUM
+  3
+TRI-COUNTY COOPERATIVE WEED
+MANAGEMENT AREA
+TRI-COUNTY METROPOLITAN
+TRANSPORTATION DISTRICT
+TUALATIN HILLS PARKS & REC
+TUALATIN SWCD
+TUALATIN VALLEY WATER DISTRICT
+TUMALO IRRIGATION DISTRICT
+TWIN ROCKS SANITARY DISTRICT    3  2
+UMATILLA CO SPECIAL LIBRARY
+DISTRICT
+UMATILLA MORROW RADIO & DATA
+DISTRICT 
+UNION CO VECTOR CONTROL    1
+UNION SWCD    1
+UPPER WILLAMETTE SWCD    1
+URBAN FLOOD SAFETY & WATER
+QUALITY DISTRICT
+URBAN RENEWAL AGENCY OF THE CITY
+OF TROUTDALE
+VALE OREGON IRRIGATION DISTRICT
+WARMSPRINGS IRRIGATION DISTRICT
+WASCO CO SWCD    1
+WASHINGTON CO CONSOLIDATED
+COMMUNICATIONS AGENCY
+WASHINGTON CO ENHANCED SHERIFF
+PATROL DISTRICT 
+WASHINGTON CO SERVICE DISTRICT
+FOR LIGHTING 1 
+WASHINGTON CO URBAN ROAD
+MAINTENANCE DISTRICT 
+WATER ENVIRONMENT SERVICES
+WEST EXTENSION IRRIGATION
+DISTRICT
+  1
+WEST MULTNOMAH SWCD
+WEST SLOPE WATER DISTRICT
+WEST UMATILLA MOSQUITO CONTROL
+DISTRICT
+  1
+WEST VALLEY HOUSING AUTHORITY
+WESTERN LANE AMBULANCE DISTRICT    2 2
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State February 2025
+Report 2025-08 page 29
+Municipal Corporation Name  Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant findings
+Internal
+Control
+Accounting
+Errors
+Noncompliance
+WESTLAND IRRIGATION DISTRICT    1
+WESTPORT SEWER SERVICE DISTRICT -
+CLATSOP CO
+WHEELER SWCD    1  1
+WHITE CITY ENHANCED LAW
+ENFORCEMENT DISTRICT
+WILLAMALANE PARKS & REC DISTRICT    1 1
+WILLAMETTE INTAKE FACILITIES
+COMMISSION
+WILLAMETTE WATER SUPPLY SYSTEM
+COMMISSION
+WILSONVILLE URBAN RENEWAL
+AGENCY
+WINCHESTER BAY SANITARY DISTRICT
+WINCHESTER WATER CONTROL
+DISTRICT 
+WOODBURN URBAN RENEWAL AGENCY
+YAMHILL CO EXTENSION SERVICE
+DISTRICT 
+YAMHILL SWCD
+Total Timely Filed Reports: 785
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State February 2025
+Report 2025-08 page 30
+Appendix B: Untimely Filed Reports
+Municipal Corporation Name  Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant Findings
+Internal
+Control
+Accounting
+Errors
+Noncompliance
+COUNTIES
+BENTON CO 
+COLUMBIA CO    4 3
+COOS CO 
+CROOK CO 
+GILLIAM CO
+JEFFERSON CO 
+LAKE CO 
+LINCOLN CO    4 4
+MORROW CO    3 1
+UMATILLA CO
+WALLOWA CO    1 1
+WASCO CO 
+COMMUNITY COLLEGES
+BLUE MOUNTAIN COMMUNITY
+COLLEGE 
+COLUMBIA GORGE COMMUNITY
+COLLEGE    8 1 7
+SCHOOL DISTRICTS & ESDs
+BENTON CO SCHOOL DISTRICT 509J
+BENTON CO SCHOOL DISTRICT 7J    1
+CLACKAMAS CO SCHOOL DISTRICT 115
+CLACKAMAS CO SCHOOL DISTRICT 35
+CLACKAMAS CO SCHOOL DISTRICT 3J
+CLACKAMAS CO SCHOOL DISTRICT 7J
+CLACKAMAS CO SCHOOL DISTRICT 86
+CLATSOP CO SCHOOL DISTRICT 1
+CLATSOP CO SCHOOL DISTRICT 10
+CLATSOP CO SCHOOL DISTRICT 30
+CLATSOP CO SCHOOL DISTRICT 4J 
+CURRY CO SCHOOL DISTRICT 17C 
+DESCHUTES CO SCHOOL DISTRICT 6
+DOUGLAS CO SCHOOL DISTRICT 1
+DOUGLAS CO SCHOOL DISTRICT 105
+DOUGLAS CO SCHOOL DISTRICT 116
+DOUGLAS CO SCHOOL DISTRICT 12
+DOUGLAS CO SCHOOL DISTRICT 22    2
+DOUGLAS CO SCHOOL DISTRICT 32
+DOUGLAS CO SCHOOL DISTRICT 70
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State February 2025
+Report 2025-08 page 31
+Municipal Corporation Name  Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant Findings
+Internal
+Control
+Accounting
+Errors
+Noncompliance
+GRANT CO SCHOOL DISTRICT 17
+GRANT CO SCHOOL DISTRICT 3    4
+HARNEY CO ESD REGION XVII    2 2
+HARNEY CO SCHOOL DISTRICT 1J    1 1
+HARNEY CO SCHOOL DISTRICT 4    2 1 1
+HARNEY CO SCHOOL DISTRICT 5    2 2
+INTERMOUNTAIN EDUCATION SERVICE
+DISTRICT
+IONE SCHOOL DISTRICT 2
+JACKSON CO SCHOOL DISTRICT 5    1 1
+JACKSON CO SCHOOL DISTRICT 6    1 1
+JACKSON CO SCHOOL DISTRICT 9
+JEFFERSON CO SCHOOL DISTRICT 8
+KLAMATH FALLS CITY SCHOOLS    1  1
+LAKE CO SCHOOL DISTRICT 7    3 2
+LANE CO SCHOOL DISTRICT 28J
+LANE CO SCHOOL DISTRICT 32
+LANE CO SCHOOL DISTRICT 45J3
+LANE CO SCHOOL DISTRICT 4J    13 10
+LANE CO SCHOOL DISTRICT 66
+LANE CO SCHOOL DISTRICT 68
+LANE CO SCHOOL DISTRICT 69
+LANE CO SCHOOL DISTRICT 76
+LANE CO SCHOOL DISTRICT 79J
+LANE CO SCHOOL DISTRICT 90
+LANE ESD
+LINN CO SCHOOL DISTRICT 129J
+LINN CO SCHOOL DISTRICT 8J    3
+LINN CO SCHOOL DISTRICT 9
+MALHEUR CO SCHOOL DISTRICT 84 
+MALHEUR ESD
+MARION CO SCHOOL DISTRICT 103
+MARION CO SCHOOL DISTRICT 14J
+MARION CO SCHOOL DISTRICT 5
+MULTNOMAH CO SCHOOL DISTRICT 28J
+MULTNOMAH CO SCHOOL DISTRICT 39
+MULTNOMAH CO SCHOOL DISTRICT 51J
+MULTNOMAH CO SCHOOL DISTRICT 7    1
+POLK CO SCHOOL DISTRICT 13J
+POLK CO SCHOOL DISTRICT 21    1 1
+REGION 18 ESD    1
+SHERMAN CO SCHOOL DISTRICT    1
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State February 2025
+Report 2025-08 page 32
+Municipal Corporation Name  Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant Findings
+Internal
+Control
+Accounting
+Errors
+Noncompliance
+SOUTHERN OREGON ESD
+UMATILLA CO SCHOOL DISTRICT 1
+UMATILLA CO SCHOOL DISTRICT 16R
+UMATILLA CO SCHOOL DISTRICT 2
+UMATILLA CO SCHOOL DISTRICT 29RJ
+UMATILLA CO SCHOOL DISTRICT 5
+UMATILLA CO SCHOOL DISTRICT 6
+UMATILLA CO SCHOOL DISTRICT 61
+UMATILLA CO SCHOOL DISTRICT 80
+UNION CO SCHOOL DISTRICT 8J
+WALLOWA CO SCHOOL DISTRICT 21    1
+WALLOWA CO SCHOOL DISTRICT 6    1
+WASCO CO SCHOOL DISTRICT 1     8 7 1
+WASHINGTON CO SCHOOL DISTRICT 15
+WILLAMETTE ESD
+YAMHILL CO SCHOOL DISTRICT 29J
+YAMHILL CO SCHOOL DISTRICT 40
+CHARTER SCHOOLS
+CHILD'S WAY INC    3 1
+CLACKAMAS MIDDLE COLLEGE    1
+CLACKAMAS WEB ACADEMY    1
+COMMUNITY INNOVATION PARTNERS
+DESERT SKY MONTESSORI CHARTER
+SCHOOL 
+EAGLERIDGE HIGH SCHOOL    1
+HOLLA SCHOOL
+HOPE CHINESE CHARTER SCHOOL 
+KNOVA LEARNING
+M.I.T.C.H. SHERWOOD CHARTER
+SCHOOL
+MILWAUKIE ACADEMY OF THE ARTS
+MOSIER COMMUNITY SCHOOL    3
+NETWORK CHARTER SCHOOL    2 1
+NIXYAAWII COMMUNITY SCHOOL
+OREGON CHARTER ACADEMY
+PHOENIX SCHOOL
+SAUVIE ISLAND SCHOOL 
+SOUTH COLUMBIA FAMILY SCHOOL
+TEACH-NW
+THREE RIVERS CHARTER SCHOOL
+TWIN RIVERS CHARTER SCHOOL 
+VILLAGE SCHOOL, THE    1
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State February 2025
+Report 2025-08 page 33
+Municipal Corporation Name  Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant Findings
+Internal
+Control
+Accounting
+Errors
+Noncompliance
+WILLAMETTE LEADERSHIP ACADEMY
+CITIES
+ADAMS
+ATHENA
+BAKER CITY    5 5
+BANKS
+CANNON BEACH
+CANYONVILLE
+CARLTON
+CLATSKANIE    1 1
+COBURG 
+CORVALLIS    1  1
+CRESWELL 
+DALLAS    1 1
+DETROIT    1
+DUNDEE    1 1
+DUNES CITY    3 2 1
+ELKTON
+ENTERPRISE    1
+FALLS CITY
+FLORENCE    2 2
+GATES
+GERVAIS    1  1
+GOLD BEACH    3
+HAPPY VALLEY
+HARRISBURG 
+INDEPENDENCE
+IONE 
+LA PINE 
+LAFAYETTE 
+LEBANON 
+LOSTINE    1
+MADRAS    1 1
+MALIN
+MAYWOOD PARK
+MERRILL    1
+MILWAUKIE    1 1
+MYRTLE CREEK 
+MYRTLE POINT 
+NEWBERG 
+NEWPORT    1
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State February 2025
+Report 2025-08 page 34
+Municipal Corporation Name  Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant Findings
+Internal
+Control
+Accounting
+Errors
+Noncompliance
+OAKLAND    2
+OAKRIDGE    2
+ONTARIO
+PENDLETON    2 2
+PHILOMATH
+PORT ORFORD    2 1
+POWERS
+SEASIDE    1 1
+ST HELENS
+ST PAUL
+STANFIELD    3 3
+STAYTON 
+TANGENT 
+TUALATIN 
+TURNER 
+UKIAH
+VENETA
+VERNONIA    2  2
+WARRENTON
+WEST LINN
+WESTON
+WINSTON 
+YAMHILL 
+YONCALLA 
+FIRE DISTRICTS
+BANKS FIRE DISTRICT 13 
+BOARDMAN FIRE AND RESCUE    1
+CENTRAL OREGON COAST FIRE &
+RESCUE
+FOREST GROVE RFPD
+GASTON RFPD
+HOODLAND RFPD
+JACKSON CO RFPD 3
+LA PINE RFPD    3 1 2
+LEWIS AND CLARK RFPD
+MULTNOMAH CO RFPD 10 
+MULTNOMAH CO RFPD 30J
+NEW CARLTON FIRE DISTRICT
+NORTH DOUGLAS CO FIRE & EMS
+NORTH LINCOLN FIRE & RESCUE # 1    1
+SALEM SUBURBAN RFPD    2
+SISTERS CAMP SHERMAN RFPD
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State February 2025
+Report 2025-08 page 35
+Municipal Corporation Name  Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant Findings
+Internal
+Control
+Accounting
+Errors
+Noncompliance
+UMATILLA RFPD 7-405 
+UPPER MCKENZIE RFPD    1 1
+VERNONIA RFPD 
+WAMIC RFPD    2
+WILLIAMS RFPD    1
+OTHER SPECIAL DISTRICTS
+ARCH CAPE DOMESTIC WATER
+SERVICE DISTRICT
+  3 2 1
+ARCH CAPE SANITARY DISTRICT    2 1 1
+BENTON CO LIBRARY SERVICE
+DISTRICT 
+BENTON COUNTY 911 EMERGENCY
+COMMUNICATIONS SERVICES COUNTY
+SERVICE DISTRICT
+
+BENTON COUNTY AGRICULTURAL
+EXTENSION SERVICES DISTRICT 
+CITY OF HAPPY VALLEY URBAN
+RENEWAL AGENCY
+COLUMBIA CO 4H & EXTENSION
+SERVICE DISTRICT 
+COLUMBIA CO DEVELOPMENT AGENCY 
+COLUMBIA RIVER ESTUARY STUDY
+TASKFORCE
+COLUMBIA SWCD 
+COMMUNITY SERVICES CONSORTIUM    1  1
+COOS BAY NORTH BEND WATER
+BOARD
+COOS CO 4H & EXTENSION SERVICE
+DISTRICT 
+COOS CO AIRPORT DISTRICT    1
+COOS CO LIBRARY SERVICE DISTRICT 
+COOS COUNTY AREA
+TRANSPORTATION DISTRICT
+CORVALLIS URBAN RENEWAL AGENCY    1  1
+CURRY CO SWCD
+DALLAS COMMUNITY DEVELOPMENT
+COMMISSION URBAN RENEWAL
+AGENCY
+
+DESCHUTES CO ROAD AGENCY
+DESCHUTES SWCD
+ECONOMIC DEVELOPMENT COUNCIL
+OF TILLAMOOK CO
+FAIRVIEW WATER DISTRICT    5 3
+FARMERS IRRIGATION DISTRICT    3
+FERN RIDGE LIBRARY DISTRICT
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State February 2025
+Report 2025-08 page 36
+Municipal Corporation Name  Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant Findings
+Internal
+Control
+Accounting
+Errors
+Noncompliance
+GOLD BEACH URBAN RENEWAL
+AGENCY
+GREATER TOLEDO POOL AND
+RECREATION DISTRICT
+  1
+HARBOR WATER PUD    6 1
+HOOD RIVER CO WINDMASTER URBAN
+RENEWAL DISTRICT
+HORSEFLY IRRIGATION DISTRICT    4 1
+HOUSING AUTHORITY OF DOUGLAS CO
+HOUSING AUTHORITY OF YAMHILL CO
+INDEPENDENCE URBAN RENEWAL
+AGENCY
+JEFFERSON CO SWCD
+JOSEPHINE COMMUNITY LIBRARY
+DISTRICT
+JOSEPHINE HOUSING & COMMUNITY
+DEVELOPMENT COUNCIL 
+KLAMATH PROJECT DROUGHT
+RESPONSE AGENCY
+  1
+LA PINE URBAN RENEWAL AGENCY
+LAKE CO LIBRARY DISTRICT    1
+LAKE GROVE PARK DISTRICT
+LAKE HEALTH DISTRICT    2
+LANE COUNCIL OF GOVERNMENTS 
+LANE LIBRARY DISTRICT
+LANE REGIONAL AIR PROTECTION
+AGENCY
+  2 1
+LEAGUE OF OREGON CITIES
+LEBANON URBAN RENEWAL AGENCY 
+LINCOLN CO TRANSPORTATION
+DISTRICT
+1 1
+LINCOLN COUNTY ANIMAL SERVICE
+DISTRICT
+LINCOLN COUNTY SOLID WASTE
+DISPOSAL SERVICE DISTRICT
+1 1
+LUSTED WATER DISTRICT 
+MADRAS REDEVELOPMENT
+COMMISSION 
+MEDFORD IRRIGATION DISTRICT    1
+MID-COLUMBIA HOUSING AUTHORITY &
+COLUMBIA GORGE HOUSING 
+MID-COLUMBIA WATER COMMISSION
+MOLALLA AQUATIC DISTRICT
+MYRTLE CREEK URBAN RENEWAL
+AGENCY
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State February 2025
+Report 2025-08 page 37
+Municipal Corporation Name  Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant Findings
+Internal
+Control
+Accounting
+Errors
+Noncompliance
+NEHALEM BAY HEALTH DISTRICT    1
+NORTH CLACKAMAS CO WATER
+COMMISSION
+NORTH UNIT IRRIGATION DISTRICT
+NORTHEAST OREGON HOUSING
+AUTHORITY
+NORTHWEST OREGON HOUSING
+AUTHORITY
+OREGON CASCADES WEST COUNCIL
+OF GOVERNMENTS 
+PACIFIC CITY JOINT WATER-SANITARY
+AUTHORITY 
+PACIFIC COMMUNITIES HEALTH
+DISTRICT
+PALATINE HILL WATER DISTRICT
+PENDLETON DEVELOPMENT
+COMMISSION 
+PHILOMATH URBAN RENEWAL AGENCY
+PIONEER NURSING HOME HEALTH
+DISTRICT
+  2
+PLEASANT HOME WATER DISTRICT
+PORT OF ALSEA
+PORT OF BROOKINGS HARBOR 
+PORT OF NEWPORT    2 1
+QUALITYLIFE INTERGOVERNMENTAL
+AGENCY 
+RAINBOW WATER DISTRICT
+RALEIGH WATER DISTRICT
+ROGUE VALLEY SEWER SERVICES    1
+ROGUE VALLEY TRANSPORTATION
+DISTRICT
+ROSEBURG URBAN RENEWAL AGENCY
+ROSEBURG URBAN SANITARY
+AUTHORITY 
+RURAL ROAD ASSESS DISTRICT 3
+SANDY DRAINAGE IMPROVEMENT
+COMPANY
+SANTA CLARA WATER DISTRICT
+SANTIAM WATER CONTROL DISTRICT    4
+SEASIDE URBAN RENEWAL AGENCY 
+SISTERS URBAN RENEWAL AGENCY
+SIUSLAW PUBLIC LIBRARY DISTRICT    1
+SOUTH CLACKAMAS TRANSPORTATION
+DISTRICT 
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State February 2025
+Report 2025-08 page 38
+Municipal Corporation Name  Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant Findings
+Internal
+Control
+Accounting
+Errors
+Noncompliance
+SOUTHWEST LINCOLN COUNTY WATER
+PEOPLE'S UTILITY DISTRICT 
+SUBURBAN EAST SALEM WATER    1
+SUTHERLIN WATER CONTROL DISTRICT
+TALENT URBAN RENEWAL AGENCY 
+TIGARD CITY CENTER DEVELOPMENT
+AGENCY
+TILLAMOOK CO TRANSPORTATION
+DISTRICT    3 3
+TRI CITY WATER AND SANITARY
+AUTHORITY
+TUALATIN DEVELOPMENT COMMISSION 
+TUALATIN VALLEY IRRIGATION
+DISTRICT
+  3
+UMPQUA PUBLIC TRANSPORTATION
+DISTRICT
+  3
+VALLEY VIEW WATER DISTRICT
+VENETA URBAN RENEWAL AGENCY 
+WALLOWA CO HEALTH CARE DISTRICT
+WALLOWA LAKE CO SERVICE DISTRICT
+WARRENTON URBAN RENEWAL
+AGENCY
+WASCO CO 4-H EXTENSION SERVICE
+DISTRICT 
+WASCO CO LIBRARY SERVICE DISTRICT 
+WINSTON DILLARD WATER DISTRICT    5 2
+WOOD VILLAGE URBAN RENEWAL
+AGENCY
+YAMHILL COMMUNICATIONS AGENCY 
+Total Untimely Filed Reports: 306
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State February 2025
+Report 2025-08 page 39
+Appendix C: Reports Not Filed as of December 31, 2024
+Municipal Corporation Name  Approved
+Extension  Comments
+COUNTIES
+BAKER CO
+CURRY CO 
+SCHOOL DISTRICTS & ESDs
+COOS CO SCHOOL DISTRICT 31  Report filed January 23, 2025
+MALHEUR CO SCHOOL DISTRICT 8C  Report filed January 13, 2025
+RIVERBEND COMMUNITY SCHOOL
+CHARTER SCHOOLS
+FOREST GROVE COMMUNITY SCHOOL
+REEDSPORT COMMUNITY CHARTER SCHOOL
+SHERIDAN ALLPREP ACADEMY
+SHERIDAN JAPANESE CHARTER SCHOOL
+SOUTHERN OREGON SUCCESS ACADEMY
+CITIES
+ADAIR VILLAGE
+ALBANY
+ANTELOPE
+BURNS
+CASCADE LOCKS
+CAVE JUNCTION
+CENTRAL POINT
+CHILOQUIN
+COQUILLE
+COTTAGE GROVE
+CULVER  Report filed February 18, 2025
+DEPOE BAY
+DRAIN
+DUFUR
+EAGLE POINT
+FAIRVIEW
+GARIBALDI
+GASTON
+GOLD HILL
+HELIX
+JOHN DAY
+JOSEPH
+KING CITY
+LAKEVIEW
+MAUPIN
+METOLIUS 
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State February 2025
+Report 2025-08 page 40
+Municipal Corporation Name  Approved
+Extension  Comments
+MONROE  Report filed January 29, 2025
+MOSIER
+NORTH PLAINS
+PHOENIX
+RIDDLE  Report filed January 31, 2025
+SCAPPOOSE 
+SENECA 
+SHADY COVE
+SILETZ
+SUMPTER
+SWEET HOME
+WALDPORT
+YACHATS 
+FIRE DISTRICTS
+ALBANY RFPD
+CHILOQUIN AGENCY LAKE RFPD
+COLUMBIA RIVER FIRE & RESCUE   Report filed January 17, 2025
+CRESCENT RFPD
+GLENDALE AMBULANCE DISTRICT
+HUBBARD RFPD  Report filed January 28, 2025
+IMBLER RFPD
+JACKSON CO RFPD 5
+JEFFERSON CO RFPD 1
+MIST BIRKENFELD RFPD
+SHERIDAN RFPD
+ST PAUL RFPD  Filed review report, audit required
+TILLAMOOK RFPD  Report filed January 22, 2025
+WEST VALLEY FIRE DISTRICT
+YAMHILL RFPD  Report filed February 7, 2025
+OTHER SPECIAL DISTRICTS
+BAKER VALLEY IRRIGATION DISTRICT
+BASIN TRANSIT SERVICE
+CENTRAL ALBANY REVITALIZATION AREA
+CENTRAL OREGON INTERGOVERNMENTAL COUNCIL
+CENTRAL OREGON LAW ENFORCEMENT SERVICES
+CENTRAL POINT DEVELOPMENT COMMISSION
+CHEHALEM PARKS & REC DISTRICT
+COLUMBIA 911 COMMUNICATIONS DISTRICT
+COQUILLE URBAN RENEWAL AGENCY
+CRYSTAL SPRINGS WATER DISTRICT
+CURRY CO PUBLIC TRANSIT SERVICE DISTRICT
+EAST FORK IRRIGATION DISTRICT
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State February 2025
+Report 2025-08 page 41
+Municipal Corporation Name  Approved
+Extension  Comments
+GLIDE-IDLEYLD SANITARY DISTRICT  Filed review report, audit required
+GREEN AREA WATER AND SANITARY AUTHORITY
+JEFFERSON CO EMERGENCY MEDICAL SERVICE
+JOHN DAY URBAN RENEWAL AGENCY
+JOHN DAY/CANYON CITY PARKS & REC  Filed review report, audit required
+KLAMATH SWCD  Filed review report, audit required
+LYONS-MEHAMA WATER DISTRICT
+MCNULTY WATER PUD
+MID-COLUMBIA CENTER FOR LIVING
+MILES CROSSING SANITARY SEWER DISTRICT
+NORTH CENTRAL PUBLIC HEALTH DISTRICT
+NORTHERN OREGON CORRECTIONS
+OAK LODGE WATER SERVICES AUTHORITY
+OAK LODGE WATER SERVICES DISTRICT
+ONTARIO RECREATION DISTRICT
+PARKDALE SANITARY DISTRICT
+PORT OF ARLINGTON
+PORT OF CASCADE LOCKS
+PORT OF GARIBALDI
+PORT OF PORT ORFORD 
+ROGUE RIVER VALLEY IRRIGATION DISTRICT
+SHASTA VIEW IRRIGATION DISTRICT
+SOUTH CENTRAL OREGON ECONOMIC DEVELOPMENT
+DISTRICT
+SUNSET EMPIRE TRANSPORTATION DISTRICT
+THREE SISTERS IRRIGATION DISTRICT
+URBAN RENEWAL AGENCY OF THE CITY OF PHOENIX
+WHITE RIVER HEALTH DISTRICT
+WICKIUP WATER DISTRICT
+YACHATS URBAN RENEWAL DISTRICT 
+YOUNGS RIVER LEWIS & CLARK WATER
+Total Reports Not Filed: 106
+About the Report
+Oregon Secretary of State February 2025
+Report 2025-08 page 42
+ABOUT THE SECRETARY OF STATE AUDITS DIVISION
+The Oregon Constitution provides that the Secretary of State shall be, by virtue of the office, Auditor of
+Public Accounts. The Audits Division performs this duty. The division reports to the Secretary of State and
+is independent of other agencies within the Executive, Legislative, and Judicial branches of Oregon
+government. The Secretary of State has constitutional authority to audit all state officers, agencies, boards
+and commissions as well as administer municipal audit law.
+Audit team
+Teresa Furnish, CISA, Deputy Director
+Amy John, CPA, Audit Manager
+Dacia Smith, Program Lead
+Secretary of State Tobias Read
+Audits Director Steve Bergmann
+This report is intended to promote the best possible
+management of public resources.
+Copies may be obtained from:
+Oregon Audits Division
+255 Capitol St NE, Suite 180
+Salem OR 97310
+(503) 986-2255
+audits.sos@oregon.gov
+sos.oregon.gov/audits

@@ -1,0 +1,393 @@
+State of Oregon
+OREGON INTERMEDIATE TERM POOL
+An Investment Pool of the State of Oregon
+Financial Statements
+For the Year Ended June 30, 2022
+This page intentionally left blank
+OREGON INTERMEDIATE TERM POOL
+TABLE OF CONTENTS
+Page
+Independent Auditor’s Report .......................................................................................................... 1-3
+Financial Statements:
+Statement of Net Position .......................................................................................................... 4
+Statement of Changes in Net Position ....................................................................................... 6
+Notes to Financial Statements .............................................................................................. 8-12
+Other Reports
+Report on Internal Control over Financial Reporting
+and on Compliance and Other Matters .................................................................................... 14 -15
+This page intentionally left blank.
+Shemia Fagan Secretary of State
+Cheryl Myers Deputy Secretary of State, Tribal Liaison
+Kip Memmott Audits Director
+255 Capitol St. NE Suite 180
+Salem OR 97310
+(503) 986-2255
+sos.oregon.gov/audits
+Independent Auditor’s Report
+The Honorable Kate Brown
+Governor of Oregon
+The Honorable Tobias Read, State Treasurer
+Oregon Investment Council
+Report on the Audit of the Financial Statements
+Opinion
+We have audited the financial statements of the Oregon Intermediate Term Pool, an external investment
+pool of the State of Oregon, as of and for the year ended June 30, 2022, and the related notes to the
+financial statements, as listed in the table of contents.
+In our opinion, the accompanying financial statements referred to above present fairly, in all material
+respects, the financial position of the Oregon Intermediate Term Pool, as of June 30, 2022, and the
+changes in its financial position for the year then ended in accordance with accounting principles
+generally accepted in the United States of America.
+Basis for Opinion
+We conducted our audit in accordance with auditing standards generally accepted in the United States of
+America (GAAS) and the standards applicable to financial audits contained in Government Auditing
+Standards, issued by the Comptroller General of the United States. Our responsibilities under those
+standards are further described in the Auditor’s Responsibilities for the Audit of the Financial Statements
+section of our report. We are required to be independent of the Oregon State Treasury and the Oregon
+Intermediate Term Pool, and to meet our other ethical responsibilities, in accordance with the relevant
+ethical requirements relating to our audit. We believe that the audit evidence we have obtained is
+sufficient and appropriate to provide a basis for our opinion.
+Emphasis of Matter
+As discussed in Note 1, the financial statements present only the Oregon Intermediate Term Pool and do
+not purport to, and do not, present fairly the financial position of the Oregon State Treasury or the State
+of Oregon as of June 30, 2022, or the changes in its financial position for the year then ended in
+accordance with accounting principles generally accepted in the United States of America. Our opinion is
+not modified with respect to this matter.
+Responsibilities of Management for the Financial Statements
+Management is responsible for the preparation and fair presentation of these financial statements in
+accordance with accounting principles generally accepted in the United States of America , and for the
+design, implementation, and maintenance of internal control relevant to the preparation and fair
+presentation of financial statements that are free from material misstatement, whether due to fraud or
+error.
+Auditor’s Responsibility for the Audit of the Financial Statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are
+free from material misstatement, whether due to fraud or error, and to issue an auditor’s report that
+includes our opinion. Reasonable assurance is a high level of assurance but is n ot absolute assurance and
+therefore is not a guarantee that an audit conducted in accordance with GAAS and Government Auditing
+Standards will always detect a material misstatement when it exists. The risk of not detecting a material
+misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve
+collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
+Misstatements are considered material if there is a substantial likelihood that , individually or in the
+aggregate, they would influence the judgment made by a reasonable user based on the financial
+statements.
+In performing an audit in accordance with GAAS and Government Auditing Standards, we
+• exercise professional judgment and maintain professional skepticism throughout the audit.
+• identify and assess the risks of material misstatement of the financial statements, whether due
+to fraud or error, and design and perform audit procedures responsive to those risks. Such
+procedures include examining, on a test basis, evidence regarding the amounts and the
+disclosures in the financial statements.
+• obtain an understanding of internal control relevant to the audit in order to design audit
+procedures that are appropriate in the circumstances, but not for the purpose of expressing an
+opinion on the effectiveness of the Oregon State Treasury’s internal control. Accordingly, no
+such opinion is expressed.
+• evaluate the appropriateness of accounting policies used and the reasonableness of significant
+accounting estimates made by management, as well as evaluate the overall presentation of the
+financial statements.
+We are required to communicate with those charged with governance regarding, among other mat ters,
+the planned scope and timing of the audit, significant audit findings, and certain internal control-related
+matters that we identified during the audit.
+Other Reporting Required by Government Auditing Standards
+In accordance with Government Auditing Standards, we have also issued our report dated
+September 15, 2022, on our consideration of the Oregon State Treasury’s internal control over financial
+reporting and on our tests of its compliance with certain provisions of laws, regulations, contracts, and
+grant agreements and other matters. The purpose of that report is solely to describe the scope of our
+testing of internal control over financial reporting and compliance and the results of that testing, and not
+to provide an opinion on the effectiveness of the Oregon State Treasury’s internal control over financial
+reporting or on compliance. That report is an integral part of an audit performed in accordance with
+Government Auditing Standards in considering the Oregon State Treasury’s internal control over
+financial reporting and compliance.
+State of Oregon
+September 15, 2022
+State of Oregon
+OREGON INTERMEDIATE TERM POOL
+Statement of Net Position
+June 30, 2022
+(Dollars in Thousands)
+Assets:
+Cash and Cash Equivalents 4,050$
+Investments 303,154
+Due from Broker on Sale 11,685
+Accrued Interest Receivable 1,603
+Total Assets 320,492
+Liabilities:
+Payable for Investments Purchased 9,939
+Total Liabilities 9,939
+Net Position:
+Held in Trust for Participants 310,553
+Total Net Position 310,553$
+The accompanying notes are an integral part of the financial statements.
+This page intentionally left blank
+State of Oregon
+OREGON INTERMEDIATE TERM POOL
+Statement of Changes in Net Position
+For the Year Ended June 30, 2022
+(Dollars in Thousands)
+Additions
+Investment Earnings:
+Interest, Dividends and Other 7,940$
+Net Decrease in Fair Value of Investments (33,091)
+Securities Lending Income 14
+Total Investment Earnings (25,137)
+Less Investment Costs:
+Investment Activity Costs (Note 4) 234
+Securities Lending Costs 4
+Net Investment Earnings (25,375)
+Participant Account Transactions:
+Participants' Contributions 94,462
+Participants' Withdrawals (59,820)
+Net Increase as a Result of Participant Transactions 34,642
+Change in Net Position Held in Trust for Participants 9,267
+Net Position - Beginning 301,286
+Net Position - Ending 310,553$
+The accompanying notes are an integral part of the financial statements
+This page intentionally left blank
+OREGON INTERMEDIATE TERM POOL
+Notes to Financial Statements
+June 30, 2022
+(1) Summary of Significant Accounting Policies
+Reporting Entity   The Oregon Intermediate Term Pool (“Pool”) is an intermediate term fixed income
+investment vehicle.  Several state agencies and one non-agency entity participate in the Pool, thus it is an
+external investment pool as defined in Statement No. 31 of the Governmental Accounting Standards Board,
+Accounting and Financial Reporting for Certain Investments and for External Investment Pools.
+The Pool is not registered with the U.S. Securities and Exchange Commission as an investment company.
+The State’s investment policies are governed by Oregon Revised Statutes and the Oregon Investment Council
+(Council).  The State Treasurer is the investment officer for the Council and is responsible for all funds
+entrusted to the Oregon State Treasury (OST).  These funds must be invested, and the investments managed,
+as a prudent investor would, exercising reasonable care, skill and caution.  Investments in the Pool are further
+governed by guidelines approved by the Council, establishing diversification percentages and specifying the
+types and maturities of investments.  The Pool guidelines permit securities lending transactions as well as
+investments in repurchase and reverse repurchase agreements.  Pool guidelines are discussed in greater detail
+in the Investments section of Note 2.
+The Pool is authorized under ORS 293.861 and ORS 293.863.  Standards for investment of the pool may be
+found in ORS 293.701 to 293.857.  Pursuant to ORS 293.863(5), state agencies have the opportunity to
+participate in this investment pool subject to application requiring evidence of statutory authority to invest in
+the Pool and subsequent approval by the OST.  The portion of the Pool belonging to external participants is
+reported in an investment trust fund in the State’s Annual Comprehensive Financial Report.
+Basis of Accounting   These statements are prepared using the economic resources measurement focus and
+the accrual basis of accounting.  Trade date accounting is observed, which means that purchases and sales of
+securities are recorded on the day the trade takes place with a corresponding payable to or receivable from
+the broker.  Changes in the fair value of investments are recognized daily.  The fair value of investments is
+determined daily and is equal to market price.
+Cash and Cash Equivalents   Investments with original maturities of three months or less are considered
+cash equivalents and are reported at amortized cost, which approximates fair value.  Cash Equivalents also
+include any cash held with the custodian, and amounts invested in the Oregon Short Term Fund (OSTF),
+which is an external investment pool open to state agencies and local governments that acts as a demand
+deposit account.
+Investments   Investments with remaining maturities of less than ninety days are carried at amortized cost,
+provided that the fair value of these instruments is not significantly affected by the impairment of the credit
+standing of the issuer or by other factors.  Amortized cost approximates fair value.  Investments with longer
+maturities are carried at fair value.
+Participants’ equity; distributions of interest    The value of each participant’s investment is determined on
+a proportional basis to the net market value of the entire portfolio.   Shares of the Pool represent a divisible
+interest in the net value of underlying investments, accrued income and expenses. Interest income and capital
+gains are not distributed to participants but are reflected in the underlying net position.
+OREGON INTERMEDIATE TERM POOL
+Notes to Financial Statements
+June 30, 2022
+(2) Investments
+Investments   On June 30, 2022, the Pool reported investments of $307.2 million of which $4.0 million is
+classified as Cash and Cash Equivalents on the Statement of Net Position.  The Pool’s guidelines establish
+the Pool’s permitted investments and parameters for managing the various types of risk associated with these
+investments (see the current portfolio guidelines at ( https://www.oregon.gov/treasury/invested-for-
+oregon/pages/oregon-intermediate-term-investments.aspx#OITP.) The different risks will be discussed
+below.
+Schedule of Investment Characteristics
+(Dollars in Thousands)
+Investment Type Par Value
+Reported
+Amount
+Weighted Average
+Coupon
+Weighted Average
+Modified Duration
+Cash and Cash Equivalents (1)  $  4,050  $   4,050 1.15 0.51
+Asset-Backed Securities  59,861  56,600 2.46 1.93
+Commercial Mortgage-Backed Securities  5,780  5,425 2.48 1.95
+U.S. Agency Commercial Mortgage-Backed Securities  32  32 2.17 0.44
+U.S Agency Residential Mortgage-Backed Securities  22,474  10,437 3.54 7.36
+Municipal Debt  475  475 3.62 2.46
+Corporate Debt  84,488  81,422 4.24 3.21
+U.S. Treasury Debt  151,635  148,763 2.57 4.45
+Total 328,795$   307,204$    3.01 3.66
+(1) Cash and Cash Equivalents include $4,050 invested in the OSTF.
+A. Interest rate and Credit risk
+Interest rate risk is the risk that changes in interest rates will adversely affect the fair value of an investment.
+OST Investment staff manages this risk by limiting the duration of investments held by the Pool.  The portfolio
+guidelines require that the portfolio’s modified duration, a measure of interest rate risk, shall not exceed three
+years. The weighted average duration for the Pool at June 30, 2022 was 3.66 years.  The maximum maturity
+for any single investment should not be greater than 10.25 years from settlement date, with exceptions for
+asset-backed securities, mortgage-backed securities, and commercial mortgage-backed securities. These
+securities use weighted average life (WAL) as a proxy for maturity and are limited to a WAL of five years,
+or less, at the time of purchase.
+Credit risk is the risk that an issuer or other counterparty to an investment will not fulfill its obligation.  The
+Pool’s guidelines require that all investments meet minimum ratings requirements at the time of purchase.
+Minimum required ratings are subject to investment type as dictated by the Pool’s guidelines.
+Corporate notes and municipal debt must be rated investment grade or higher at time of purchase.  Foreign
+government securities are required to have a minimum credit rating of AA- or Aa3 by at least two Nationally
+Recognized Statistical Rating Organizations (NRSROs).  Structured securities such as asset-backed and
+mortgage-backed securities must be rated AAA at the time of purchase.
+OREGON INTERMEDIATE TERM POOL
+Notes to Financial Statements
+June 30, 2022
+Securities downgraded below investment grade can be retained at the Senior Investment Officer’s discretion.
+Rating groups are determined using the lowest actual rating from an NRSRO and are shown below:
+B. Custodial credit risk
+Custodial credit risk for investments is the risk that, in the event of the failure of the counterparty to a
+transaction, the pool will not be able to recover the value of an investment or collateral securities in the
+possession of an outside party.  The Pool’s guidelines provide that investments are delivered to and held by
+a third-party custodian, which holds the Pool’s securities in the State of Oregon’s name.  All trades where
+applicable are executed by delivery vs. payment (DVP) to ensure that securities are deposited in an eligible
+financial institution prior to the release of funds.
+C. Concentration of credit risk
+Concentration of credit risk is the risk of loss attributed to the magnitude of a fund’s investment in a single
+issuer.  The Pool guidelines provide that the maximum that may be invested in any one issuer, as a percentage
+of the Pool’s total investments is five percent, excluding the OSTF, U.S. Treasuries or U.S. Federal Agencies
+or instrumentalities.  The Pool may invest up to 100 percent in those securities.   On June 30, 2022, the Pool
+did not hold investments with any one issuer that exceeded these limits.  The schedule below lists issuers
+where holdings are greater than 5 percent at the parent level.
+Issuer Name Reported Amount Percent of Holding
+U.S Treasury  $   148,824 48.4%
+Schedule of Parent Leve Issuers - Holdings Greater Than Five Percent
+(Dollars in Thousands)
+Investment Type
+Weighted
+Average
+Modified
+Duration
+Reported
+Amount AAA AA A BBB BB Not Rated
+Asset-Backed Securities 1.93 56,600$    29,716$     6,217 $    12,049 $     2,707$    - $      5,911$
+Commercial Mortgage-Backed Securities 1.95 5,425   4,207   -    -    -  -   1,218
+U.S. Agency Commercial Mortgage-Backed Securities (1 ) 0.44 32  -  -   -    -  -  32
+U.S. Agency Residential Mortgage-Backed Securities (1 ) 7.36 10,437   -  -   1,549   -  -   8,889
+Municipal Debt 2.46 475  475   -  -   -  -  -
+Corporate Debt 3.21 81,422   -  -   21,252    59,410  759   -
+U.S. Treasury Debt 4.45 148,763  148,763   -   -    -   -   -
+External Investment Pool (2) 0.51 4,050   -  -   -    -  -  4,050
+Total 307,204$   183,161$     6,217$   34,850 $   62,117$     759$    20,100$
+(1 )U.S. federal debt carries an implicit guarantee of the U.S. Government.  For credit quality rules, federal debt is considered to be highest quality, except when rated differently.
+(2) T he Oregon Short Term Fund is not rated by the credit ratings agencies.  T he composite credit quality rating of the OST F's holdings was  AA at June 30, 2022.
+Interest Rate Risk and Credit Risk
+(Dollars in Thousands)
+OREGON INTERMEDIATE TERM POOL
+Notes to Financial Statements
+June 30, 2022
+D. Foreign currency risk
+The Pool guidelines prohibit investments that are not U.S. dollar-denominated; therefore, the Pool is not
+exposed to this risk.
+(3) Securities Lending
+The OST has authorized its custodian to act as its agent in the lending of the Pool’s securities pursuant to a
+form of loan agreement, in accordance with Pool investment policies.  There have been no significant
+violations of the provisions of the securities lending agreement.  The State’s securities lending agent lent
+short-term and fixed income securities and received as collateral U.S. dollar-denominated cash.  Borrowers
+were required to deliver cash collateral for each loan equal to not less than 102 percent of the market value
+of the loaned security.  The State may pledge or sell the collateral securities received only in the event of a
+borrower default.  The State has the ability to impose restrictions during the year on the amount of the loans
+that the securities lending agent made on its behalf, but did not impose any such limits during the year ended
+June 30, 2022.  The State is fully indemnified by its securities lending agent against losses due to borrower
+default.  There were no losses during the year from the failure of borrowers to return loaned securities.
+The Pool’s lending agent uses a fund to reinvest cash collateral received on behalf of the OITP and other
+Oregon state agencies managed by the OST, exclusive of the Oregon Public Employees Retirement Fund.
+There were no securities on loan at June 30, 2022.
+The State and borrowers maintained the right to terminate all securities lending transactions on demand.  As
+a consequence, the maturities of investments made with cash collateral generally do not match the maturities
+of the securities loans.  As of June 30, 2022, the State had no credit risk exposure to borrowers related to
+securities on loan.
+(4) Management Fees
+In accordance with ORS 293.718, the OST may deduct monthly 0.435 basis points of the most recent market
+value of assets under management for administration and portfolio management.  For the year ended June 30,
+2022 the OST charged the Pool a monthly rate of 0.435 basis points based on assets under management in
+the Pool.  Fees are deducted from investment income before distributions to participants.  Fees and other
+expenses charged to the Pool totaled $234 thousand for the year ended June 30, 2022.
+(5) Fair Value Measurements
+Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability in an
+orderly transaction between market participants at the measurement date.  Observable inputs are developed
+based on market data obtained from sources independent of the reporting entity.  Unobservable inputs are
+developed based on the best information available about the assumptions market participants would use in
+OREGON INTERMEDIATE TERM POOL
+Notes to Financial Statements
+June 30, 2022
+pricing the asset.  The classification of securities within the fair value hierarchy is based upon the activity
+level in the market for the security type and the inputs used to determine their fair value, as follows:
+ Level 1 – Unadjusted quoted prices for identical instruments in active markets.
+ Level 2 – Quoted prices for similar instruments in active markets; quoted prices for identical or
+similar instruments in markets that are not active; and model-derived valuations in which all
+significant inputs are observable.
+ Level 3 – Valuations derived from valuation techniques in which significant inputs are unobservable.
+Level 1 Level 2 Lev el 3 Total
+Investments:
+Asset-Backed Securities -$    56,600$   -$   56,600$
+Commercial Mortgage-Backed Securities -  5,425 - 5,425
+U.S. Agency Commercial Mortgage-Backed Securities -  32                      - 32
+U.S. Agency Residential Mortgage-Backed Securities -  10,437 - 10,437
+Municipal Debt -  475                    - 475
+Corporate Debt -  81,422 - 81,422
+U.S. Treasury Debt -  148,763  - 148,763
+Total -$   303,154 $    -$  303,154 $
+Assets and Liabilities at Fair Value as of June 30, 2022
+Fair Value Measurements
+(Dollars in Thousands)
+The Pool’s investments, other than those with remaining maturities of fewer than ninety days, are valued
+using the latest bid prices or evaluated quotes from independent pricing vendors.  The third-party vendors use
+a variety of methods when pricing these securities that incorporate relevant observable market data to arrive
+at an estimate of what a buyer in the marketplace would pay for a security under current market conditions.
+Investments with remaining maturities of fewer than ninety days are carried at amortized cost, which
+approximates fair value.  All of the Pool’s investments at June 30, 2022 are considered level 2.
+OTHER REPORTS
+Shemia Fagan Secretary of State
+Cheryl Myers Deputy Secretary of State, Tribal Liaison
+Kip Memmott Audits Director
+255 Capitol St. NE Suite 180
+Salem OR 97310
+(503) 986-2255
+sos.oregon.gov/audits
+Independent Auditor’s Report on Internal Control over
+Financial Reporting and on Compliance and Other Matters
+Based on an Audit of Financial Statements Performed in
+Accordance With Government Auditing Standards
+The Honorable Kate Brown, Governor of Oregon
+The Honorable Tobias Read, State Treasurer
+Oregon Investment Council
+We have audited, in accordance with the auditing standards generally accepted in the United States of
+America and the standards applicable to financial audits contained in Government Auditing Standards
+issued by the Comptroller General of the United States, the financial statements of  the Oregon
+Intermediate Term Pool, an external investment pool of the State of Oregon , as of and for the year
+ended June 30, 2022, and the related notes to the financial statements, which collectively comprise the
+Oregon Intermediate Term Pool’s basic financial statements, and have issued our report thereon dated
+September 15, 2022.
+Report on Internal Control over Financial Reporting
+In planning and performing our audit of the financial statements, we considered the Oregon State
+Treasury’s (department) internal control over financial reporting (internal control) as a basis for
+designing audit procedures that are appropriate in the circumstances for the purpose  of expressing our
+opinion on the financial statements, but not for the purpose of expressing an opinion on the
+effectiveness of the department’s internal control over the Oregon Intermediate Term Pool.
+Accordingly, we do not express an opinion on the effectiveness of the department’s internal control
+over the Oregon Intermediate Term Pool.
+A deficiency in internal control exists when the design or operation of a control does not allow
+management or employees, in the normal course of performing their assigned functions, to prevent, or
+detect and correct, misstatements on a timely basis. A material weakness is a deficiency, or a
+combination of deficiencies, in internal control, such that there is a reasonable possibility that a
+material misstatement of the entity’s financial statements will not be prevented or detected and
+corrected on a timely basis. A significant deficiency is a deficiency, or a combination of deficiencies, in
+internal control that is less severe than a material weakness, yet important enough to merit attention
+by those charged with governance.
+Our consideration of internal control was for the limited purpose described in the first paragraph of this
+section and was not designed to identify all deficiencies in internal control that might be material
+weaknesses or significant deficiencies. Given these limitations, during our audit we did not identify any
+deficiencies in internal control that we consider to be material weaknesses. However, material
+weaknesses or significant deficiencies may exist that were not identified.
+Report on Compliance and Other Matters
+As part of obtaining reasonable assurance about whether the Oregon Intermediate Term Fund’s
+financial statements are free from material misstatement, we performed tests of its compliance with
+certain provisions of laws, regulations, contracts, and grant agreements, noncompliance with which
+could have a direct and material effect on the financial statements. However, providing an opinion on
+compliance with those provisions was not an objective of our audit, and accordingly, we do not express
+such an opinion. The results of our tests disclosed no instances of noncompliance or other matters that
+are required to be reported under Government Auditing Standards.
+Purpose of this Report
+The purpose of this report is solely to describe the scope of our testing of internal control and
+compliance and the results of that testing, and not to provide an opinion on the effectiveness of the
+department’s internal control or on compliance. This report is an integral part of an audit performed in
+accordance with Government Auditing Standards in considering the department’s internal control and
+compliance. Accordingly, this communication is not suitable for any other purpose.
+State of Oregon
+September 15, 2022

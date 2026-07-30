@@ -1,0 +1,2110 @@
+Secretary of State Bev Clarno
+Audits Division Director Kip Memmott
+Department of Human Services
+Oregon Can More Effectively Use Family Services to
+Limit Foster Care and Keep Children Safely at Home
+July 2020
+Report 2020-26
+Department of Human Services
+Oregon Can More Effectively Use Family
+Services to Limit Foster Care and Keep
+Children Safely at Home
+What We Found
+1. Effective preventive services can keep children at home, increase family
+well-being, and reduce costs, racial disparities, and child deaths. (pg. 12
+)
+2. Case workers within the Department of Human Services (DHS) Child
+Welfare division are faced with high workloads and tight deadlines, and
+struggle to help parents access and engage in in effective services to
+prevent removals. (pg. 17
+)
+3. Oregon’s disparate system of child and family services, with services
+offered by multiple programs and agencies, makes it more difficult for
+Child Welfare to reduce child abuse and preserve families. (pg. 17
+)
+4. The availability and quality of crucial services vary substantially by
+geographic area. These services include in-home safety services, mental
+health care, substance use disorder treatment, and affordable housing, all
+addressing key reasons children enter foster care. (pg. 26)
+5. Child Welfare can more effectively manage provider performance and
+match families with appropriate services. (pg. 32
+)
+What We Recommend
+We made 10 recommendations to DHS to work with its partners to improve
+coordination and focus on child abuse prevention, help caseworkers stabilize
+and reunify families, and improve service access in rural areas. The agency
+also needs to better use data to identify effective providers, address service
+gaps, improve provider performance, and provide clear reports to
+policymakers on service availability and effectiveness.
+State funding is uncertain given the economic effects of COVID-19. We included
+recommendations that do not require substantial resources but can help shift
+Child Welfare’s focus to keeping more children safely at home.
+DHS agreed with nine of our recommendations and partially agreed with one.
+Their response can be found at the end of the report.
+Why This Audit is
+Important
+» Keeping children out of
+foster care can prevent life-
+long harm, provided
+effective services can
+stabilize their families.
+» Oregon’s child welfare
+system removes children at
+a higher rate and returns
+them to foster care more
+often than the national
+average, adding to already
+high caseworker workloads.
+Children also receive fewer
+post-investigation services
+than the national average.
+» Congress’s new “Family
+First” act directs states to
+deliver evidence-backed
+family services that support
+parents and children,
+helping to keep children out
+of foster care or return them
+home quickly.
+» More efficient and effective
+services are critical to
+maximize child safety, family
+well-being, and the limited
+dollars available for services.
+The Oregon Secretary of State Audits Division is an independent, nonpartisan organization that conducts audits based on
+objective, reliable information to help state government operate more efficiently and effectively. The summary above should be
+considered in connection with a careful review of the full report.
+Oregon Secretary of State | Report 2020-26 | July 2020 | Page 1
+Introduction
+This audit focuses on how Child Welfare and its partners
+within and outside the Department of Human Services (DHS)
+can more effectively and economically use family services to
+safely limit foster care and keep more families intact. Service
+improvement can help bolster struggling parents and
+children. By reducing children removed to foster care,
+improving services can also help reduce the shortfall of
+foster homes and high Child Welfare caseloads documented
+in our 2018 foster care audit.
+Child Welfare is part of DHS, which has a budget of $12.6 billion per biennium, more than 9,000
+employees, and five operating divisions, of which Child Welfare is one. Its director is appointed
+by the Governor, who has a human services policy advisor in her office. DHS serves some of
+Oregon’s most vulnerable residents, including neglected and abused children, families in
+poverty, and elderly people living alone. Sixteen districts across the state do most of the hands-
+on work with clients, backed by management and central office staff. The shared services office
+includes contracting, financial services, and internal audits, which supports both DHS and the
+Oregon Health Authority (OHA). DHS and OHA were a single agency until 2009.
+The Office of Child Welfare has a budget of $1.35 billion per biennium and approximately 3,200
+employees. It runs a child abuse and neglect hotline, investigates reports of neglect and abuse,
+and provides services to families and children when a child’s safety is threatened. Caseworkers
+from the office’s Child Protective Services (CPS) unit remove children from a home if they
+believe it is not safe for them to remain, sending them to foster care in group settings or in
+individual homes with relatives or strangers.
+Oregon Child Welfare at a glance
+• 10,887 children spent at least
+one day in foster care
+• 89,451 abuse reports received
+• 9,048 cases founded for abuse
+• 2,820 of 13,674 victims
+removed from their homes
+- Numbers as of 2019
+Oregon Secretary of State | Report 2020-26 | July 2020 | Page 2
+Judges approve or reject these removal decisions and monitor steps Child Welfare has taken to
+prevent removal. After the state is granted custody, the goal of permanency caseworkers is to
+reunify children with their families or to have stable families adopt them or act as guardians.
+Child Welfare services for children, youth, adults, and families aim to promote child well-being
+and family stability, whether in the child’s family home, or in foster care.
+Child Welfare provides direct services to clients, but also relies on other
+agencies and providers
+Within Child Welfare, families and children can receive services before a child is removed from
+the home, for “family stabilization,” or after a child enters foster care, for family reunification.
+Most of the current family services are delivered for reunification, after children are removed
+and placed into foster care. Once children are in DHS custody, in either foster care or in-home
+supervision, courts can order parents to participate in services. Before children enter DHS
+custody, services are voluntary.
+From 2014 to 2019, our analysis indicates Child Welfare nearly doubled its direct spending on
+family services — services designed to facilitate family stabilization or reunification — from
+roughly $24 million in 2014 to $44 million in 2019. Providers contracted by Child Welfare and
+DHS typically provide these services.
+Much of this 2019 spending came from two programs: In-Home Safety and Reunification
+Services (ISRS) and Strengthening, Preserving, and Reunifying Families services (SPRF), a
+program the Legislature created in 2011. Both programs are reflected in Figure 1; however,
+SPRF is not a single line item in the chart. Instead, SPRF services span multiple categories such
+as housing, parent training, meeting facilitation, and front end intervention, among others. In
+2019, total SPRF expenditures were $13.6 million. Continued SPRF funding after 2020 is
+uncertain.
+Figure 1: Most spending in 2019 came from the ISRS program
+Child Welfare Reunification & Retention Services 2019 Spending (in millions)
+In-Home Safety and Reunification (ISRS) $9.9
+Parent Mentoring and Counseling $7.2
+Housing $7.2
+Parent Training and Support $5.5
+Alcohol and Drug Treatment $4.1
+Domestic Violence $3.9
+Child Care & Respite Care $2.4
+Meeting Facilitation for Child Visits/Disputes $2.0
+Front End Intervention at CPS Stage $1.7
+Source: Auditor analysis of actual 2019 expenditures in the state’s accounting system.
+Clients also receive services from outside Child Welfare
+In addition to services Child Welfare provides, parents and children also heavily rely on services
+from other agencies and programs. Child Welfare does not pay for these services so their costs
+are not included in Child Welfare’s expenditure data. However, caseworkers and Child Welfare
+officials often cited three services as important in our interviews:
+Oregon Secretary of State | Report 2020-26 | July 2020 | Page 3
+Physical, mental, and addiction recovery care: Coordinated Care Organizations (CCOs),
+regulated by OHA, pay for physical and behavioral health services under Medicaid. The majority
+of children and youth in foster care are eligible for Medicaid. This includes counseling, mental
+health treatment, and addiction treatment, services typically provided by counties or providers
+contracted by counties.
+Self-Sufficiency support within DHS: Among other services, Self-Sufficiency Programs
+provides Temporary Assistance for Needy Families, a cash payment coupled with job search
+assistance to low- or no-income families; Supplemental Nutrition Assistance Program food
+assistance; and Family Support and Connections services aimed at preventing child abuse, such
+as parenting classes, help building social supports, and housing and transportation assistance.
+Developmental Disabilities support within DHS: The Office of Developmental Disabilities
+Services provides assistance for adults and children diagnosed with neurological conditions such
+as autism, cerebral palsy, epilepsy, and low IQ. Services include help with communication,
+grooming, and safety and social skills. The office’s services, primarily funded by Medicaid, do not
+include specific training in parenting skills, but they can help clients live independently and be
+more successful parents.
+Many more agencies and community providers deliver broader preventive services
+Child Welfare gets most involved in providing services during and after investigations into child
+abuse and neglect. A larger range of services provided by federal, state, and local entities can
+help families before they come to Child Welfare’s attention and before abuse and neglect occur.
+The services from OHA, CCOs, DHS Self-Sufficiency, and DHS Developmental Disabilities
+divisions are instrumental in the broader prevention of child abuse and help families that may
+be at greater risk of being involved with Child Welfare.
+County governments provide on-the-ground mental health care, federally funded Women-
+Infant-Children assistance and other family support programs. The Oregon Youth Authority
+provides services for youth.
+The federal government, local housing agencies, and Oregon Housing and Community Services
+provide affordable housing programs. Services though schools, Education Service Districts, and
+the Oregon Department of Education benefit both children and parents, including Early Head
+Start, parent engagement, and home visiting programs for parents of infants.
+Oregon’s community service providers, from local agencies to non-profits, are a backbone for
+prevention of child abuse. Some are governmental, including teachers and school counselors,
+public school nurses, home nurses, and county-funded health clinics. Others may be funded by
+both government contracts and donors, including faith-based groups, food pantries, domestic
+violence women’s shelters, relief nurseries, and advocacy centers. Doctors, psychiatrists, and
+counselors, both private and working for community organizations, also have a central role.
+Child Welfare’s General Fund support has grown substantially, though COVID-
+19 reductions could significantly reduce spending
+State taxpayers have made large investments in Child Welfare in recent years, reinforcing the
+need to make sure the office’s funding is spent efficiently and effectively. Reductions related to
+COVID-19 could also substantially reduce spending for the 2019-21 biennium.
+Child Welfare’s budget has increased 58% in the past four biennia, more than the 40% increase
+in total state expenditures in that time. Most of that $500 million increase — 82% — came from
+Oregon Secretary of State | Report 2020-26 | July 2020 | Page 4
+the state’s General Fund, not federal funding. General Fund dollars for Child Welfare have risen
+110% since July 2013, nearly triple the rate of increase in Oregon’s total General Fund.
+The division’s staffing, expressed as full-time equivalents (FTE), rose by a third during that time
+to 3,222 in the latest budget, including a planned increase of roughly 460 FTE for the current
+biennium. These staffing increases were, in part, to help address caseworker overload. However,
+the staff increase was smaller —142 FTE — compared to current service levels at the beginning
+of the biennium.1 Also, as we noted in our follow-up to the 2018 audit, even the increases in the
+2019-21 biennium, were they all to take place as planned, are not enough to meet national Child
+Welfare workload standards.
+Figure 2: General Fund spending has driven the growth in Child Welfare’s budget and staff
+Source: Legislative Fiscal Office budget documents. Numbers for the 13-15 and 15-17 bienniums are actual dollars, while numbers for the
+17-19 and and 19-21 bienniums are budgeted dollars because actuals are not yet available.
+For Child Welfare, budgeted spending has been about 5% less than actual dollars spent, meaning
+actual spending in the current 2019-21 biennium would likely be lower than budgeted in normal
+conditions. More significantly, cuts related to COVID-19 could substantially reduce funds for the
+2021 fiscal year, the last year of the current biennium. In May 2020, at the Governor’s request,
+DHS and other agencies proposed cuts for the 2021 fiscal year absent COVID-19 assistance from
+the federal government and use of state reserve funds. DHS outlined $65.9 million in cuts to
+Child Welfare, more than a third of the total budget increase for the current biennium. Many of
+these cuts could reduce services to families.
+Actual spending details drawn from the state’s financial accounting system show both spending
+categories that have grown and the categories that take up the bulk of Child Welfare’s budget.
+From 2014 to 2019, Child Welfare expenditures rose by about $150 million. About half of that
+increase was for staff. Adoption and foster care payments, retention and reunification services,
+and administration all accounted for about 13% to 15% each of the total increase.
+1 In the budget process, the current service level for staff in an upcoming biennium is an estimate of the number of staff it would take
+to do the same work approved in the previous biennium. When staff are added in the middle of the previous biennium, as they were
+for Child Welfare in the 2017-19 biennium, the estimated current service level estimate for the next biennium increases.
+1,000
+1,500
+2,000
+2,500
+3,000
+3,500
+4,000
+$0
+$100,000,000
+$200,000,000
+$300,000,000
+$400,000,000
+$500,000,000
+$600,000,000
+$700,000,000
+$800,000,000
+13-15 Biennium 15-17 Biennium 17-19 Biennium 19-21 Biennium
+Federal Funds General Funds FTE (right axis)
+Oregon Secretary of State | Report 2020-26 | July 2020 | Page 5
+In 2019, about half of Child Welfare’s actual expenditures went to salaries and benefits. Another
+quarter paid for monthly payments to foster or adoptive parents, helping them cover expenses for
+children in their care.
+Figure 3: Most of Child Welfare’s 2019 spending was for staff and payments to foster and adoptive parents
+Source: Auditor analysis of 2019 expenditures in the state’s accounting system.
+Outside Child Welfare, the new Student Success Act approved by the 2019 Legislature includes
+some additional funding for preventive services. The Act provides a projected $2 billion per
+biennium for K-12 education and early learning through a new commercial activities tax.
+Preventive programs scheduled to receive funding include Early Head Start ($22.3 million in the
+2019-21 biennium), relief nurseries ($2.8 million), parenting education ($1 million), and Healthy
+Families Oregon ($2 million), a home visiting program for new mothers. However, as with Child
+Welfare’s budget, reductions in economic activity related to COVID-19 may mean less money is
+raised and available to spend.
+The federal Family First Act emphasizes using evidence-based services to keep
+families together and children out of foster care
+The Family First Prevention Services Act, signed into law in February 2018, aims to use federal
+dollars to help states shift their Child Welfare systems to prevention, reduce foster care
+placements, and improve children’s prospects by placing them in family foster care settings and
+limiting congregate care placements.2 Chapin Hall, a consulting group focused on child and
+family well-being, calls the Family First Act the “most significant child welfare law to pass in 20
+years.”
+Among other provisions, the Act:
+• Helps pay for eligible evidence-based preventive services. It gives states the option to
+use federal Title IV-E funding — the major federal source of money for Child Welfare —
+to pay for half the cost of services provided to children at risk of entering foster care,
+their parents and relative caregivers. In the past, absent waivers from the federal
+government, the funding was focused on services after children were removed from
+their homes. States can also use another pot of federal money, Title IV-B, to help pay for
+2 Congregate Care: A placement setting of group home or institution. These settings may include child care institutions, residential
+treatment facilities, or maternity homes.
+$0 $100,000,000 $200,000,000 $300,000,000
+Court/Legal Services
+Other Support Services
+Residential Care
+Administration
+Retention/Reunification Services
+Adoption and Foster Care Payments
+Salaries and Benefits
+Oregon Secretary of State | Report 2020-26 | July 2020 | Page 6
+family services while children and youth are in foster care, and for up to 15 months after
+they are reunified with their families.
+• Targets problems that are key factors in removals. The federal government will
+reimburse states for mental health treatment, substance use disorder treatment and
+prevention, and in-home, skill-based parenting programs, all services designed to
+address major reasons why children are removed from their homes.
+• Seeks to improve foster care. It provides grants to states to recruit and retain high-
+quality foster parents.
+• Strengthens requirements for residential care. It restricts federal reimbursement for
+children with high needs placed in group care to facilities that meet Qualified Residential
+Treatment Program standards — as does a new Oregon law.3 As of June 2020, four of
+Oregon’s 14 providers had completed accreditation. According to Child Welfare officials,
+nine of the remaining 10 providers were expected to be accredited by a July 1, 2020,
+deadline, but COVID-19 delayed accreditation team visits. Under a short-term
+provisional accreditation that takes effect July 1, 2020, DHS estimates that Oregon will
+have enough qualified residential treatment program beds for the 200 to 210 children
+needing them by the deadline.
+The federal government expects states to partner with providers of mental health, substance use
+disorder treatment, and early childhood programs, along with courts, to increase prevention
+services and reduce the number of children in foster care.
+Oregon has until September 2021 to submit a five-year plan on how it will implement and
+execute Family First requirements. Child Welfare expects to make limited changes initially, in
+part to gain experience with supporting services ranked as evidence-based by federal
+researchers, then make incremental changes going forward. An estimated $6.2 million in
+transition money from the federal government will help maintain services levels as the state
+implements Family First.
+Oregon should be able to expand its efforts later, particularly if its services are found to be
+evidence-based and if cooperation between Oregon agencies providing and paying for services
+improves. The biggest initial contribution of the Act beyond higher group care standards may be
+its push for a more preventive system, one that addresses the root causes of child abuse and
+neglect.
+Safely reducing removals can benefit children, even if families have substantial problems
+Deciding whether to remove children from their home or leave them there presents risk, no
+matter what caseworkers choose. Leaving children in an abusive home can result in harm or
+even death — from 2018 to mid-2020, DHS issued 63 reports on children in Oregon who died
+within 12 months of child welfare involvement and had remained in their homes. For the past
+six years, at least one in five incidents investigated by Child Welfare was founded for child abuse
+or neglect, amounting to more than 10,000 children a year. Nearly half those children were
+younger than 6 years old. The trauma from child maltreatment has been linked to risky health
+behaviors, chronic health conditions, and early death. In many removal cases, caseworkers told
+us, removal into foster care is the clear safe choice.
+3 ORS 419B.356 – Qualified residential Treatment program becomes operative on July 1, 2020, and applies to placements of children
+or wards occurring on or after July 1, 2020.
+Oregon Secretary of State | Report 2020-26 | July 2020 | Page 7
+However, the effects of removing children from their homes and families is also substantial, a
+fact recognized by federal and state protections of family rights. Under federal law, children are
+to be placed in the most family-like setting, even if families have substantial problems or
+maltreatment has occurred.
+Figure 4: Federal laws emphasize a preference for keeping families intact
+Source: National Conference of State Legislatures.
+Some research, albeit dated, suggests children in comparable circumstances have less favorable
+outcomes if they are removed. A 2007 study found children assigned to CPS investigators with
+relatively high removal rates were more likely to be placed in foster care, and had higher
+delinquency rates, teen birth rates, and lower earnings than
+similar children assigned to investigators with low removal
+rates. A 2010 study found that children placed in out-of-
+home care had higher rates of post-traumatic stress disorder
+than children who received in-home services. Research on
+younger children indicates children placed in foster care
+often exhibit more problem behaviors than children not
+removed, particularly if children are unfamiliar with their
+foster caregivers.
+According to experts in childhood trauma, a break in parent-child attachment is highly traumatic
+for children, even those maltreated by their parents. Foster care placements can also remove
+children from their school and community, a social safety net that includes teachers, neighbors,
+extended family, friends, faith groups, sports teams, and others who provide critical support.
+Foster care can split sibling groups into separate homes,
+and send children and youth through multiple placements
+— 41% of Oregon’s 6,771 children in foster care as of May
+2020 already had three or more placements. Former
+foster children interviewed for the audit cited frequent
+moves as one of the most traumatic aspects of foster care.
+Our interviews also emphasized that many foster children succeed. However, long-term
+outcomes for foster children are relatively poor and extend well into adulthood, particularly for
+those who age out of the system without a permanent home. Studies have identified higher rates
+of imprisonment, mental health disorders, unemployment, and homelessness, among other
+measures.5
+4 Kimberly Howard et al.: Early Mother-Child Separation, Parenting, and Child Well-Being in Early Head Start Families.
+5 Joseph J. Doyle Jr: Child Protection and Adult Crime: Using Investigators Assignment to estimate Causal Effects of Foster Care
+Peter J. Pecora et al.: Improving Family Foster Care: Findings from the Northwest Foster Care Alumni Study
+“We have some amazing foster
+parents, but the fact is they are
+not the parents of these children.
+Kids can get really close to them
+and they can help, but kids want
+their parents.”
+- CPS caseworker
+“At every (foster) home, I would wait
+a little longer to unpack my bags.”
+- Former foster child with multiple
+placements
+Oregon Secretary of State | Report 2020-26 | July 2020 | Page 8
+Child Welfare management faces substantial challenges, including lawsuits,
+intense scrutiny, and high turnover in leadership positions
+In recent years, Child Welfare has faced scrutiny from legislators, attorneys, the Governor’s
+Office, the media, and auditors, all highlighting problems the agency needs to address. Societal
+issues, from COVID-19 to rising housing prices, also complicate Child Welfare’s mission to
+empower children and families to live independent, safe, and healthy lives.
+Figure 5: Child Welfare has faced numerous challenges in recent years
+COVID-19
+Impacts
+DHS had reduced in-person visits between children in foster care and their parents and
+providers and caseworkers were often working with clients by phone. Domestic violence
+calls to crisis lines spiked amid stay-at-home orders and job losses. At the same time, calls to
+the Oregon’s Child Abuse Hotline dropped dramatically amid school closures, raising
+concerns that abuse could go unreported. In Oregon, school personnel make about 20% of
+calls to the hotline.
+State economists say funding for Child Welfare and other government programs will fall
+because of the slow economy and reduced state tax collections. The CARES Act, the federal
+bill to address COVID-19 impacts, provides forgivable loans for nonprofit service providers
+and a $45 million, 15% bump in Title IV-B funds for abuse prevention, family preservation,
+placement permanency, and worker training. As of the writing of this report, Congress had
+not passed specific aid to help state governments weather revenue sho rtfalls.
+Legislative
+Oversight
+Among other steps, the Legislature has changed Child Welfare’s system of providing services
+to at-risk families, successfully pressed DHS to move forward on a centralized abuse hotline,
+and raised substantial issues about Child Welfare’s practice of sending some high-needs
+children to out-of-state residential treatment facilities.
+Lawsuits
+Focused on
+Operations
+In 2016, a lawsuit challenged Child Welfare’s practice of temporarily housing some youth in
+hotels instead of foster or group homes. A 2018 settlement agreement has reduced hotel
+use, though 37 children were housed in hotels in the first three months of 2020. The broader
+problem of limited placements for high-needs youth also remains.
+In April 2019, 10 foster children backed by advocates sued the state alleging poor treatment
+of foster children and foster parents. The suit, still ongoing, seeks reduced caseloads and
+thorough, swift plans for services when children enter foster care. Similar, successful suits in
+other states have increased Child Welfare staffing.
+Governor’s
+Intervention
+After the latest lawsuit was filed, the Governor created a Child Welfare oversight board and
+hired consultants to focus on issues such as out-of-state placements and agency hiring. The
+consultants finished their $3.5 million job in December 2019. By late June 2020, Child
+Welfare reported four youth in out-of-state placements, down from 86 in April 2019, and
+expected to have no out-of-state placements by the end of the month.
+Leadership
+turnover
+The Office of Child Welfare has had four directors since 2015. The latest director, a former
+foster child herself, arrived from Maryland in November 2019.
+Oregon Secretary of State | Report 2020-26 | July 2020 | Page 9
+Secretary of
+State
+Performance
+Audit
+In January 2018, the Audits Division issued a critical audit of Child Welfare, report 2018-05,
+“Foster Care in Oregon: Chronic management failures and high caseloads jeopardize the
+safety of some of the state’s most vulnerable children.” It found an inadequate number of
+suitable foster care homes, low staffing, high caseloads and worker turnover, and repeated
+DHS failures to adequately implement new programs.6
+The Audits Division issued a follow-up to that audit in June 2019, report 2019-24, “DHS has
+made important improvements, but extensive work remains to ensure c hild safety.” It
+concluded that DHS made progress on all 24 of the audit’s recommendations. However, it
+also found that staff remained overburdened and the state still lacks enough foster homes
+and residential beds for high-needs children.7
+6 Report 2018-05: "Foster Care in Oregon: Chronic management failures and high caseloads jeopardize the safety of some of the
+state’s most vulnerable children."
+7 Report 2019-24: "DHS Has Made Important Improvements, but Extensive Work Remains to Ensure Child Safety."
+Oregon Secretary of State | Report 2020-26 | July 2020 | Page 10
+Audit Results
+The Child Welfare division of DHS has many responsibilities, foremost among them ensuring
+that children are safe, attending to children in state custody, and helping the foster parents who
+support them. Services provided to families — parents of origin and their children — can help
+improve safety, reduce removals, and reduce demand on a strained foster care system.
+Family services are not a panacea, but we found effective services can make a substantial
+difference in addressing chronic neglect and reducing racial disparities in foster care. Services
+can help the state save money by reducing removals of children from their homes. Family
+services can also help ensure child safety when children return to their homes from foster care
+or in cases where caseworkers identify concerning behavior, but it does not meet the standard
+for removing a child.
+Oregon’s Child Welfare system ranks low on some key family measures, results that better use of
+services could help address. Yet caseworkers face substantial obstacles to helping families
+access services, including high workloads, limited authority, and the need to cross numerous
+jurisdictional boundaries to get families the help they need. Key services to prevent removals,
+including treatment for mental health and substance use disorders, are limited and vary by
+geographic area. Child Welfare can also more effectively manage services to gauge which
+services are performing best, improve provider performance, and match families with the
+services that are most likely to help them.
+Oregon’s Child Welfare system ranks low on some key family measures
+Oregon falls behind other states and national averages on some important family outcomes.
+Oregon places more children into foster care, children re-enter foster care at a higher rate, and
+wait times for services are longer than the national average. Oregon’s maltreatment recurrence
+rate, which focuses on children who had a second report of maltreatment six months after an
+original substantiated report, was more than double the national average in 2017.
+Effective and timely family services could help improve Oregon’s performance, helping families
+retain their children and providing help that reduces foster care re-entry and repeat
+maltreatment.
+Removal rates measure the number of children removed and entering foster care as a
+proportion of all children or of children in poverty. Oregon’s average removal rates for children
+in poverty over the last five years are particularly high relative to the national average, as
+depicted in Figure 6. Nationwide, accounting for poverty can provide a fairer basis of
+comparison for Child Welfare. Researchers estimate that rates of child abuse and neglect are five
+times higher for children in families who are living in poverty.
+Figure 6: Oregon falls behind national averages on key measures
+Source: OR-Kids, Children’s Bureau, AFCARS, Annie E. Casey Foundation Kids Count.
+0 5 10 15 20 25 30
+Removals per 1,000 Children
+(5-Year Average)
+Removals per 1,000 Children in Poverty
+(5-Year Average)
+% of Foster Care Re-Entry
+after 12 Months (5-Year Average)
+% of Maltreatment Recurrence
+Within 6 Months 2017
+National
+Oregon
+Oregon Secretary of State | Report 2020-26 | July 2020 | Page 11
+In 2018, children and their families in Oregon had to wait longer to start receiving Child Welfare
+services — on average, 55 days. The national average is 32 days, with a handful of states having
+a wait time of about two weeks or less. Wait times for services is a constant issue that
+caseworkers report across the state.
+Oregon children, both victims of child abuse and children found not to be victims, also received
+fewer post-investigation services after Child Welfare responded than the national average in
+2018. To be included in this metric, the services had to be delivered within 90 days of the
+disposition of the child abuse or neglect report. Services included family preservation, family
+support, and foster care.
+Figure 7: Fewer Oregon children received post-investigation services
+Source: Children’s Bureau.
+It is important to note that Oregon does well on some key family outcomes. As of 2017, the
+state’s rate of foster children in group and institutional care (4.7%) was considerably lower than
+the national average, and its rate of children in relative foster care (35%), as opposed to living in
+regular foster care, was slightly better than the national average. Oregon’s rates remained about
+the same in 2019, according to DHS.
+Some overall state trends are also encouraging, assuming child safety is maintained. In 2018 and
+2019, the number of children leaving foster care was greater than children entering care, and
+removal rates per thousand children declined in both those years.
+The overall number of children entering foster care also declined in the past few years, despite
+an increase in calls to the child abuse hotline and referrals for investigation. The number of child
+abuse or neglect victims able to remain in their family homes rose. This is a positive outcome
+when safety threats to children can be managed with in-home safety plans and support services
+help parents build better relationships with their children.
+Figure 8: Despite increased hotline calls, more children exited foster care than entered in 2018 and 2019
+Source: Child Welfare Data books and OR-Kids.
+0 10 20 30 40 50 60 70
+Children (Victims) Receiving
+Postresponse Services
+Children (Non-Victims) Receiving
+Postresponse Services
+Percentage of Children
+National
+Oregon
+10,000
+20,000
+30,000
+40,000
+50,000
+60,000
+1,000
+1,500
+2,000
+2,500
+3,000
+3,500
+4,000
+4,500
+2013 2014 2015 2016 2017 2018 2019
+Children entering foster care Children leaving foster care
+Hotline Calls- Assigned to CPS Hotline Calls- Closed at Screening
+Oregon Secretary of State | Report 2020-26 | July 2020 | Page 12
+A federal government review in 2016 addressed Oregon’s performance
+The federal Children’s Bureau periodically reviews the performance of state child welfare
+systems. For Oregon’s most recent review, in 2016, the bureau determined that all seven
+outcome areas evaluated were not “in substantial conformity” and needed improvement, a
+common result for many states. In the latest round of evaluations, Oregon ranked relatively well
+— from 10th to 25th — on seven key family measures among states, though researchers caution
+that limited case reviews used for the evaluations make state comparisons less reliable.
+Oregon ranked lower — 36th — on children receiving adequate physical and mental health
+services, and 42nd in protecting children from abuse and neglect. In addition, Oregon’s results for
+the two outcome measures most related to family stability indicated room for improvement:
+1. Children are safely maintained in their homes whenever possible and appropriate.
+Oregon reviewers judged this outcome substantially achieved in 60% of the 96 foster
+care and in-home cases reviewed, including 14 of the 30 in-home cases reviewed.
+2. Families have enhanced capacity to provide for their children’s needs. This outcome
+was substantially achieved in just 42% of the 96 cases, again including 14 of the 30 in-
+home cases.
+Effective preventive services can help reduce costs, address chronic neglect,
+lessen risks of child death, and reduce racial disparities in foster care
+We found evidence that effective services can help reduce costs, in the long term and potentially
+the short term. Our review of cases involving child deaths found examples where preventive
+services could have helped reduce the risk of the worst outcome. Research also suggests that
+services can help reduce the high number, relative to their population in Oregon, of African-
+American and American Indian children in Oregon’s foster care system.
+The evidence did not suggest that services are a panacea for families in the Child Welfare system.
+Parents can struggle with long-running mental health issues and substance use disorders.
+Abusive and neglectful behavior can pass from generation to generation. Families can reject
+offers of help, or fail to complete service programs.
+However, services provided to families can help improve safety, reduce removals, and reduce
+demand on a strained foster care system.
+Our conversations with caseworkers and our limited case reviews highlighted both effective and
+ineffective intervention. For example:
+• In early 2018, a mother abusing drugs received a full slate of preventive services,
+including drug rehabilitation, parent mentoring, and mental health services, at a cost to
+Child Welfare of just under $280,000. She did not complete any of the programs,
+however, and her two children remaining in the home, ages 11 and 3, were removed and
+placed in separate foster homes.
+• Between 2018 and the end of 2019, a single mother with two children on the autism
+spectrum was reported for neglect after leaving her children home alone while she went
+to work. In addition, the home was in an “unlivable” state and the children were not
+attending school. After a short removal, Child Welfare spent about $2,500 on an in-home
+plan that included a safety service provider who knew the children and checked in on
+them regularly. The provider and a case worker helped the mother navigate not only
+child welfare but self-sufficiency, online education, Medicaid, and Social Security
+insurance services. The family was re-united and Child Welfare case was dismissed.
+Oregon Secretary of State | Report 2020-26 | July 2020 | Page 13
+• In mid-2019, a mother of a young child was homeless and addicted to drugs at the time
+of the CPS assessment. She received front-end services, child care assistance, and a
+placement in a residential treatment facility that allows her to keep her child with her.
+She is participating in all services to date, with a Child Welfare preventive service cost so
+far of about $7,000.
+Effective services can help reduce costs
+Some services have been shown at the national level to be not only effective overall in helping
+children stay safe and families stay together, but cost-effective for society and for taxpayers. A
+cost-effective designation means these services have the potential to both save money and
+improve lives.
+At the national level, the Casey Institute and the Washington State Institute for Public Policy
+have both analyzed the cost-effectiveness of programs that can help prevent child abuse, with
+the Washington institute periodically analyzing programs nationally at the behest of the state
+Legislature.8
+Cost-effective services include nurse family partnerships, parent-child interaction therapy, and
+trauma-focused cognitive behavioral therapy, all available in Oregon at limited levels, and
+Homebuilders Intensive Family Preservation Services, which is not. For parent-child interaction
+therapy, specifically for families in child welfare, the Washington institute found costs savings of
+about $25,000 per case over decades, including $10,000 in taxpayer benefits, compared to
+program costs of less than $2,000. The largest savings were long-term, mostly avoiding reduced
+earnings tied to child abuse and neglect.
+Other analyses suggest potential for short-term cost savings within Child Welfare
+as well, if services are effective in safely preventing removals to foster care or
+returning children to their homes. For example, Utah’s Division of Child and
+Family Services estimated in 2014 that for the annual costs of placing a single
+child in foster care, 11 families could receive in-home services.
+Short-term cost savings is not the only variable in selecting a service, but it is important in the
+Child Welfare budget framework. As the federal Children’s Bureau notes: “(J)urisdictions
+struggling with funding are sometimes reluctant to direct money toward prevention efforts
+when programs for children already in the system, such as foster care, have many funding
+needs.”
+At this point, Oregon does not have clear data tying service spending to child welfare outcomes.
+However, the costs of foster care in comparison to service costs indicate that prevention services
+have the potential to save money in the short term as well as the long term.
+For example, a research study found that Oregon’s relief nurseries are effective at helping
+families likely to be involved with child welfare reduce risks of abuse and improve family
+functioning.
+9 A separate 2009 Casey Family Programs analysis concluded that respite care for
+children to help parents in crisis, a common relief nursery offering, helped reduce time in foster
+care. In our contract review, a relief nursery contract we examined charged roughly $550 per
+family each month for service navigation, employment assistance, communications with
+8 Casey Institute, Cost Effective Foster Care Reduction; Washington State Institute for Public Policy, Benefit-Cost Results.
+9 Relief Nurseries provide services to families with very young children at high risk of involvement with the child welfare system.
+Services include early childhood education, home visits, parent education classes and support groups, respite care, case
+management, and assistance accessing basic resources and other community services. Some Relief Nurseries provide mental health
+treatment for adults and children, play therapy, and other intensive programming designed to meet the needs of children and
+families.
+Oregon Secretary of State | Report 2020-26 | July 2020 | Page 14
+caseworkers, home visits, and other services. That compares to foster care payments ranging
+from $693 to $1,755 a month. The base rate is already considered a low reimbursement
+compared to the actual costs of taking care of a child.10
+Similarly, a contract for a residential drug treatment center that houses both children and
+parents cost Child Welfare about $30,000 a year per family; a local Child Welfare office review
+found it to be effective. At the range of foster care reimbursements — $8,300 a year to $21,000 a
+year — keeping the child out of foster care would save money in 16 months to four years.
+These costs are likely incomplete, both on the prevention side and the foster care side. Many
+families and children need multiple services, whether the child is in foster care or at home.
+Effective services could help reduce risks of child deaths and address chronic neglect cases
+Child Welfare’s Critical Incident Response Team (CIRT) evaluates child deaths and issues public
+reports when the victim, their siblings, or another child in the household have been involved
+with Child Welfare within 12 months of the fatality. We reviewed 71 of the public reports issued
+between 2014 and the spring of 2020. We then analyzed 12 cases from 2018 to early 2020 in-
+depth. At our request, the CIRT staff provided confidential internal review documents associated
+with the cases. We separately gathered and analyzed Child Welfare service spending on these
+cases.
+Our review found significant issues, including cases with extensive Child Welfare history and
+clear service gaps. We cannot conclude that the deaths would have been averted had a full suite
+of services been available and received. The families had multiple challenges and CIRT reviewers
+raised other concerns outside service provision, including caseworker overload, improper
+screening decisions at the Child Abuse Hotline, and caseworker difficulties completing
+comprehensive assessments of families. However, the review did indicate that DHS either did
+not have service available or did not use the service tools at its disposal in these cases to help
+reduce the risk of child deaths and injury.
+For example:
+• A child died in a fire of the motorhome in which the family’s children were sleeping. The
+motorhome had no electricity; candles were used for light and a wood stove for heat. The
+mother also died trying to rescue the child. From 2005 to 2017, the family was reported
+to Child Welfare 17 times, the latest in 2017, and at least three of the reports cited
+concerns about the children’s living conditions. The last investigation came in 2014. Case
+file and spending records show no money was spent on services for the family until after
+the child’s death. Services that may have helped include navigation services around
+housing, parenting classes, parent mentors, and foster care prevention services.
+• An infant living in an isolated rural area died of malnutrition and dehydration. The infant
+was on an inappropriate diet that the parent had been warned about, but the family
+preferred alternative treatments. Child Welfare received 12 reports on the family from
+2010 to 2018, three referenced inadequate or inappropriate medical care. Again, records
+show no services provided to the family until after the child’s death. Services that may
+have helped prevent the incident include parenting classes focused on proper nutrition
+10 The USDA estimates it costs $1,082 a month to raise a middle class child, considerably more than the $693 monthly base rate for
+foster care. Child Welfare pays higher rates as the needs of foster children rise.
+Oregon Secretary of State | Report 2020-26 | July 2020 | Page 15
+and meal planning for infants and children, mental health assessments and treatment,
+and parent mentoring.
+In reviewing recent public reports and confidential review documents, auditors noted missing
+details of services in these reviews. Missing information included how long services were
+provided, whether the client participated, and how effective the services were, which could help
+CIRT identify systemic service issues that contribute to a fatality.
+These cases and the CIRT review also illustrate the struggle that Oregon’s Child Welfare system
+and others nationwide have in dealing with chronic neglect — when caregivers repeatedly do
+not meet a child’s basic physical, developmental, or emotional needs over time. In Oregon,
+neglect in general is the largest category of founded abuse, at 43% in 2018. Founded neglect
+cases also rose 33% from 2013 to 2018, state data shows, and neglect accounts for roughly
+three-quarters of maltreatment fatalities in Oregon and nationwide.
+These cases stop short of physical and sexual abuse, when removal decisions can be more
+straightforward. Oregon’s CIRT team has identified chronic neglect response as a substantial
+issue. In our review, it stood out as a problem that services could help address.
+That conclusion is consistent with advice from the federal Children’s Bureau. The agency
+emphasizes early intervention services that focus on basic family needs along with improving
+substance use disorder and mental health treatment programs, housing services, and early
+childhood centers as important steps to reduce chronic neglect. Chronic neglect cases also
+require in-depth family assessments, rather than focusing on a particular instance and report as
+Child Welfare systems typically do.
+Oregon’s CIRT team is working with the University of Kentucky and the National Partnership for
+Child Safety to develop strategies for improving child safety and preventing fatalities. That work
+is important. Other steps that could help increase the focus on preventive services include
+focusing more on services in CIRT reviews — both services provided and services that might
+have helped — and expanding summary discussions of effective services in public reports on
+CIRT cases to include both services paid for by Child Welfare and services provided outside the
+agency.
+Effective family services are one key to reducing persistent racial disparities in foster care
+Nationwide and in Oregon, American Indian and African-American children are placed in foster
+care in higher numbers relative to their populations. That disproportionality is long-running and
+the causes and potential remedies are complex, extending well beyond Child Welfare. Experts
+say that family supports and services, timely and culturally appropriate, are one of many steps
+that can help reduce the gaps.
+In Oregon, hotline calls come in at a considerably higher rate for American Indian and African-
+American children, a disparity that runs through the system all the way to the number of
+children entering foster care.
+Child Welfare experts say potential explanations for this disparity include higher poverty levels
+— poverty and related instability in housing and employment are risk factors for abuse. Other
+potential causes include racial bias in hotline reporting and child welfare practices, and lack of
+resources for families of color. In addition, hotline reporting may be higher in part because
+higher poverty means more contact with government agencies that provide benefits, raising the
+family’s visibility to potential reporters.
+Oregon Secretary of State | Report 2020-26 | July 2020 | Page 16
+Figure 9: More American Indian and African-American children are in Oregon’s Child Welfare system relative
+to population
+Child Welfare Data*
+2019 Calendar Year
+American
+Indian / Alaska
+Native
+Black or
+African
+American
+White  Hispanic
+Asian /
+Pacific
+Islander
+Child population 13,843 32,354 586,049 192,664 48,709
+% of total population 2% 4% 67% 22% 6%
+Child hotline reports last 12 mos. 3,672 6,110 71,294 12,509 2,186
+% reports filed 4% 6% 74% 13% 2%
+Founded abuse cases last 12 mos. 409 561 7,305 1,709 209
+% founded cases 4% 6% 72% 17% 2%
+Entered foster care last 12 mos. 146 141 2,085 658 63
+% foster care entries 5% 5% 67% 21% 2%
+* Data is for children, reports, and cases with an identified race.
+Source: Auditor analysis of Oregon’s Results Oriented Management (ROM) data.
+Overrepresented groups may also receive fewer services or have more trouble accessing them,
+according to the Children’s Bureau. Removals can also increase if parents are unable to access
+services to prevent removal that are outlined in their case plans. A lack of culturally appropriate
+services — a gap Oregon Child Welfare has identified — can also reduce engagement and
+participation.
+OR-Kids data indicates spending on parent-based services, such as stabilization, mentoring,
+and parent training, was approximately equal for American Indian, African-American, and
+white children, at about $1,700 per case on average from 2014 to 2019. Parent-focused spending
+was lower, at $1,300 a case, for separate cases of children covered under the federal Indian Child
+Welfare Act, which requires that caseworkers make more active efforts to connect families with
+services. However, this may be because the case-specific data did not include tribal government
+spending.
+These spending results, absent data on accessibility and effectiveness of the services, are not
+definitive. Yet, even equal spending on services may not be equitable, given the significantly
+higher rate of American Indian and African-American children in foster care in Oregon.
+Confederated Tribes of Grand Ronde found service approach helped reduce foster care
+placements
+To address these disparities, the Children’s Bureau, the National Council of Juvenile and Family
+Court Judges, and other experts recommend providing more preventive services, including more
+culturally appropriate services, for families involved with or at risk of entering Child Welfare.
+In Oregon, the Confederated Tribes of Grande Ronde took this approach starting in 2009,
+expanding preventive services for families. By 2017, tribal officials reported that admissions to
+foster care dropped by 50%.
+However, the tribal government’s social services manager told the Legislature it took four to six
+years to see substantial outcomes and to have families who need help voluntarily contact the
+program. According to the manager, it takes time to train staff to enhance skills to engage
+Oregon Secretary of State | Report 2020-26 | July 2020 | Page 17
+families, build capacity to support the needs of families, and get parents to trust in the intentions
+of child welfare.
+Child Welfare practices and Oregon’s dispersed network of child and family
+services across agencies create obstacles to helping families
+Child Welfare’s primary focus is child safety, not family preservation. However, its mission also
+includes empowering families, and caseworkers are required to make reasonable efforts11 to
+avoid removals, including providing services. The office’s brochure for parents promises that
+they can apply to any service they qualify for and plan services with a caseworker’s help, though
+it does not guarantee eligibility for the services.
+Those standards, however, can be difficult to meet. CPS caseworkers — juggling high caseloads,
+short timelines, and challenging investigations — struggle to focus on services for families.
+Engaging families is difficult, particularly so for CPS workers. Parents often see them in a
+negative light because of their investigative role and the potential for them to remove children.
+Support from service providers for engagement and family observation is limited.
+CPS also has a limited scope for providing services for families already involved with Child
+Welfare. As a result, some families need services from other programs within DHS, including
+Self-Sufficiency and Developmental Disabilities. Some families also need services from other
+agencies, such as OHA and state and local housing agencies. These services can reduce risk for
+families that have had Child Welfare involvement and, more broadly, in families at risk of Child
+Welfare involvement in the future. Yet given Oregon’s dispersed network of services across
+agencies, those connections are often difficult to navigate.
+CPS caseworkers are not well-positioned to engage families in services that would prevent
+removal
+CPS workers investigate cases referred from the Child Abuse Hotline. Those investigations
+include interviewing alleged victims and family members, as well as “collateral contacts,” such as
+teachers, doctors, and others who can add perspective. Caseworkers are expected to assess
+family functioning in-depth in order to determine whether children are safe and what services
+might help families function better.
+Beyond the expected depth of investigations, CPS caseworkers at the front-end of Child Welfare
+cases face other substantial challenges to connecting families with services, as noted in Figure
+10. Those obstacles range from high workloads that limit time spent with clients to limited crisis
+assistance.
+11 Reasonable efforts are not specifically defined by law. Reasonable efforts include providing appropriate services to assist the
+parents in adjusting their circumstances or conditions to allow the child to either remain in the home or to be returned to the home.
+What is reasonable depends on the circumstances of each individual case.
+Oregon Secretary of State | Report 2020-26 | July 2020 | Page 18
+Figure 10: CPS caseworkers face substantial obstacles to connecting families with services
+Obstacle Details
+High caseworker
+workloads and turnover
+Our 2018 audit found that high caseloads in Child Welfare put huge pressure on
+caseworkers, many of whom are new and inexperienced. DHS has hired more
+caseworkers and, in our field visits, some field staff said their office’s workloads
+dropped because of new hiring. However, Child Welfare’s staffing increases in the
+last budget did not bring the agency up to national standards , and high workloads
+and limitations on time spent with clients were primary concerns raised in our
+field visits.
+DHS does not have accurate caseload data, another issue identified in our 2018
+audit. Its monthly reports to the Governor show that turnover has significantly
+eroded new hiring gains approved in the last budget. According to Child Welfare’s
+March 2020 report to the Governor, new caseworker hires totaled 327 for the 12
+months ended February 2020. In that span, 137 caseworkers departed as of
+February and another 62 were promoted, reducing the net increase to 128, or
+about 40% of the original total.
+Child Welfare’s new 24/7 central hotline, implemented during 2019, has also
+resulted in more referrals to field offices and more investigations, further
+increasing workloads.
+Extensive data entry and
+casework procedures
+Paperwork and data entry take significant caseworker time, reducing the time
+caseworkers can spend with families. As documented in our recent IT audit, the
+OR-Kids case management system, used to retrieve and enter case information, is
+cumbersome to work with and hindered by usability issues. 12 This has resulted in
+worker dissatisfaction and distrust of the primary tool required for case
+management work, the audit found.
+Investigation procedures are extensive and time-consuming — the caseworker
+procedure manual is more than 1,900 pages long. The manual includes lengthy
+procedures for documenting assessments, assessing child safety and family
+functioning, and evaluating domestic violence. The 33-page domestic violence
+section spells out 91 sample questions for the victim alone.
+Caseworkers have also been focused on reducing overdue assessments, often on
+lower priority cases, further increasing workload.
+cont. next page
+12 Report 2020-01: “Oregon’s Child Welfare Information System is Adequate for Case Management, but Enhancements are needed to
+Improve Usability.”
+Oregon Secretary of State | Report 2020-26 | July 2020 | Page 19
+Tight front-end deadlines
+CPS caseworkers have 60 days to complete what is expected to be an in -depth
+assessment of a family. The 60-day time frame also applies to building case plans
+for an unsafe child and establishing family services that could help keep children in
+their family home. When it comes to receiving services that would help a family
+stay together, that time frame can be unrealistic, field staff told us. Addiction
+treatment has limited availability, and waitlists for services such as mental health
+treatment and stable housing can extend well beyond two months. As noted
+earlier, the average wait to initially receive services in Oregon was 55 days,
+compared to the national average of 32.
+If children are in immediate danger and a CPS caseworker must initiate a
+protective action that requires a parent, caregiver or child to leave the home,
+caseworkers have just 10 days to help families create an in-home safety plan that
+allows the family to reunify. Otherwise caseworkers must file a juvenile court
+petition within 10 days for temporary custody. The tight deadline, caseworker
+workload, and a lack of intensive safety service providers make it more difficult to
+prepare an in-home plan. The deadline can be extended by 30 days with
+supervisor and program manager approval if the alleged perpetrator agrees.
+Lack of safety support
+services for families
+Caseworkers and their supervisors consistently told us that having more safety
+support at the beginning of cases — contractors or other qualified people who can
+check in frequently or stay with families — would help greatly in reducing
+removals. Busy caseworkers do not have time for frequent check ins with families,
+raising risks if children are left in a potentially unsafe home. Reliable relatives and
+friends can fill that role, but staff told us many families involved with Child
+Welfare do not have those connections.
+ISRS, the In-Home Safety and Reunification Services program, includes contract
+safety providers to work with families and keep an eye out for child safety.
+However, their availability varies across the state. Field staff also said the
+contractor visits, which occur several times a week and typically only during the
+day, can be too infrequent to assure caseworkers that children are safe. Providers
+that do provide more intensive services are quickly overbooked. In Multnomah
+County, demand for a safety service provider that caseworkers realized could help
+prevent removals surged and took up much of the district’s budget for services.
+Other services that could help with family engagement at the front end, including
+parent mentors and service navigators, are focused primarily at the permanency
+stage of the case, after children have already been removed. Workers also cite a
+lack of services and supports for families with English as a second language.
+Limited crisis assistance
+and quick coordination
+across agencies and
+programs
+CPS responds quickly. Other programs, agencies and service contractors
+frequently do not. Addiction support is inconsistent in availability across the state.
+Quick coordination to help clients in crisis access services is also difficult, with long
+wait times for mental health and housing services, and a time-consuming process
+to qualify parents and children for developmental disabilities services. A common
+sentiment in our field visits was that Child Welfare is the provider of last resort in
+a system that has failed families long before Child Welfare’s involvement. Our
+upcoming audit of children’s mental health will focus on shortfalls in mental health
+services for children, another substantial concern for Child Welfare field staff.
+Limited quality of services
+and varied service
+availability around the
+state
+Please see report section below titled, “Service availability, access, and quality are
+limited and vary substantially by geographic area” for additional discussion of
+service challenges in Oregon.
+Oregon Secretary of State | Report 2020-26 | July 2020 | Page 20
+All told, these challenges increase the chances of child
+removal, and make it less likely that CPS workers will be able
+to move families into in-home cases. The in-home cases, with
+or without DHS taking custody of the child, still require
+significant effort and are difficult to set up and monitor given
+workload demands, field staff told us.
+High workload and limited support also limit caseworkers’
+ability to understand and help families, which can increase
+caseworker turnover. Child Welfare’s Leveraging Intensive
+Family Engagement (LIFE) program, which focuses on reunifying families after a child is
+removed, has seen strong staff retention, the program’s manager said.
+We identified potential solutions from research, service effectiveness ratings, and interviews
+inside and outside DHS, including interviews with other agencies and other states. The changes
+range from low intensity — lower cost, fewer staff required, fewer organizational obstacles, or
+less time to implement — to high intensity, with more significant effort, more costs, or more
+staff required.
+Aside from increased caseworker staffing, a harder task given COVID-19 budget reductions,
+remedies for front-end challenges detailed in Figure 11 range from expanding training to
+significantly increasing caseworker support.
+Figure 11: We identified both low- and high-intensity potential solutions to front-end challenges
+Lower-Intensity Solutions
+• Assign assessment write-ups to case aides or other support personnel when caseworkers conclude that
+cases do not involve safety threats to children.
+• Provide more training on parent engagement and motivational interviewing for co ntractors or providers
+and caseworkers. Motivational interviewing is rated as evidence-based under Family First and is part of
+Washington, D.C.’s prevention strategy.
+• Have existing providers, such as parent trainers, mental health contractors and addiction specialists,
+accompany caseworkers on initial family assessments in neglect cases or visit the family shortly thereafter.
+Higher-Intensity Solutions
+• Develop protocols with Self-Sufficiency, Developmental Disabilities, mental health providers, and CCOs to
+spell out responsibilities, timelines for action, and procedures in Child Welfare cases. Include this level of
+detail in contracts with service providers as well.
+• Increase front-end positions to increase family engagement, either through contractors or Child Welfare
+personnel, such as parent mentors and family engagement specialists.
+• Station direct support personnel in Child Welfare offices for areas that require high levels of expertise, such
+as mental health, domestic violence, and developmental disabilities. A CCO representative, for example,
+can help coordinate care.
+• Provide more intensive safety support services when a safety threat is identified. The Family First
+Clearinghouse has certified one intensive support contractor, Homebuilders, as evidence-based. In other
+states:
+o Oklahoma’s program includes clinicians that actively help families engage in services
+after a safety threat is identified, going beyond just referring families to services.
+o Maryland’s interagency family preservation services unit includes staff available for
+24/7 family support.
+“What it takes to move families
+forward is really intense
+engagement with families. That’s
+what people come here to do,
+that’s why people work here.
+With their workload, that’s the
+hardest thing for them to do.”
+- Child Welfare manager
+Oregon Secretary of State | Report 2020-26 | July 2020 | Page 21
+Child Welfare is statutorily limited in the scope of family services it can provide
+Child Welfare faces significant limitations on services it can
+offer. Once a case is referred from the hotline, CPS
+caseworkers can offer service referrals and bring in addiction
+and domestic violence specialists to help. However, they
+generally must determine a child is in present danger or a
+safety threat to a child exists before offering in-home family
+services that the division will pay for. Also, services stop or
+extend for just a short time after the safety threat is gone.
+By law, Child Welfare also cannot serve a pregnant mother
+who is taking drugs until her baby is born, a factor in several
+of the CIRT death cases we reviewed. Under Oregon law,
+health care providers are required to encourage and facilitate voluntary counseling, drug
+therapy, and other assistance to a patient in order to avoid having the child, when born, become
+subject to protective services. Other states have taken stricter approaches and provided more
+supports. Twenty-three states and the District of Columbia consider substance abuse during
+pregnancy to be child abuse under child welfare statutes, according to a May 2020 report by the
+Guttmacher Institute. Nineteen states have created or funded drug treatment programs
+specifically targeted to pregnant women; Oregon is not among them, the Guttmacher Institute
+found.
+As noted later in this section, the state is expanding Project Nurture, a promising program for
+pregnant women with substance use disorders. Oregon’s new contracts with CCOs to cover
+Medicaid members also include pregnant women as a priority population, along with individuals
+with substance use disorders in need of withdrawal management or in medication assisted
+treatment. These are potentially significant improvements.
+Until 2017, some Child Welfare districts had a “differential response” track that broadened their
+ability to provide services. Under that model, which is common across the nation, referrals from
+the Child Abuse Hotline were slotted into one of two categories: “traditional” cases needing an
+investigation and cases where risks were high in a family, but a full investigation that required a
+conclusion on whether abuse occurred was not required. That second group was slotted into
+alternative response, receiving services if they wanted them, help connecting to the services, and
+continued monitoring of their status. However, the Legislature effectively eliminated differential
+response in 2017, requiring a full investigation of all cases, because of concerns that the model
+was endangering children and increasing caseworker workloads. Child Welfare officials said the
+model required caseworkers to complete more thorough family assessments and increase
+collaboration to engage families.
+The hotline and caseworkers can still refer families to services. Caseworkers are required to do
+so when an investigation is closed and they believe the family has “moderate to high needs” and
+still needs assistance. However, services are voluntary, and caseworkers do not continue to
+check in on the families.
+That unserved but still risky group is likely substantial. Alternative Response was not operating
+statewide when it ended, but it was used for nearly 7,200 cases a year at its peak, and
+caseworkers defined nearly 5,000 cases as “moderate to high needs” in 2015. Caseworker
+tabulation of the moderate-to-high-needs designation has dropped to near zero, case records
+indicate, but in 2019 investigations concluded as “unable to determine” totaled more than 5,000
+cases. In these inconclusive cases, by definition caseworkers have found “some indication the
+abuse occurred,” but not enough to justify a founded conclusion of abuse.
+“We would like to get (in-home)
+services in right away to teenage
+parents or parents just feeling
+overwhelmed by parenting,
+parents just at their wits end —
+maybe they’ve got a 9-year-old in
+charge of three younger kids. But
+parenting support is not available
+unless there’s a safety threat.”
+- CPS caseworker
+Oregon Secretary of State | Report 2020-26 | July 2020 | Page 22
+Oregon’s disparate system of services makes it more difficult to focus on reducing child
+abuse and preserving families
+Child Welfare is responsible for addressing child abuse, yet its limited ability to serve families
+means it cannot be held solely responsible for child abuse prevention. In Oregon, the services
+needed to prevent and address child abuse are scattered among state, local, and nonprofit
+agencies and programs. To succeed, the state needs a coordinated community approach to
+reducing child abuse.
+However, Oregon’s disparate system makes it more difficult to coordinate services, though
+coordination is a must for child and family safety and for helping families address their needs,
+according to guidance from the federal Children’s Bureau.
+In 2017 guidance, the bureau wrote: “The incidence of child maltreatment is deeply influenced
+by poverty, violence, and substance use. While separate programs to alleviate these issues are
+helpful in preventing maltreatment, system-wide collaboration and data sharing across multiple
+service sectors — child welfare, juvenile justice, early childhood, education, public health, and
+the behavioral and mental health fields — are essential to improving child and family safety and
+well-being on a broad scale.”
+Oregon’s recent efforts to upgrade coordination of services for children with distinctive mental
+or behavioral health needs is a significant step. The “System of Care” approach includes
+centralized statewide policy development and planning. If executed well, the effort could help
+address some of the most severe cases in Child Welfare or, preferably, stop them from arriving
+there in the first place. Early Learning Hubs under the Oregon Department of Education’s Early
+Learning Division include services for families as well as children, and provide a potential
+community base for broader sets of services. Family First calls for coordination among agencies,
+and DHS’s preparation of a five-year Family First plan that focuses on keeping families together
+may help clarify roles and responsibilities both within the agency and with other agencies.
+Oregon officials have already concluded that the lack of a coordinated approach is costly and
+inefficient.
+However, Oregon does not have an in-depth strategic or long-
+term plan for reducing child abuse that encompasses the
+many players involved, including DHS, OHA, early education
+and parenting programs, juvenile justice programs, judges,
+attorneys, parents, foster parents, and other stakeholders.
+Child Welfare’s Family First plan may make some strides in
+this direction, though it is not clear whether the plan will
+include involvement and commitments from other agencies or other programs within DHS. At
+the ground level, the state lacks cross-agency liaisons who could help coordinate and link clients
+to services between its complex systems, when busy caseworkers cannot.
+Coordination and shared accountability is particularly crucial because many of the evidence-
+backed and cost-effective services that can help reduce child abuse lie outside Child Welfare.
+That list includes: nurse family partnerships and mental health services through OHA; functional
+family therapy through juvenile justice; and Healthy Families Oregon early home visiting
+services through the Oregon Department of Education’s Early Learning Division.
+In addition, many families that have contact with Child Welfare receive public assistance from
+other programs outside Child Welfare, such as Medicaid medical coverage, SNAP food assistance,
+and TANF cash benefits for families in poverty. In 2018, 83% of the children who had contact
+with Child Welfare received Medicaid or SNAP benefits. The federal Women, Infants, and
+Children program also has the ability to reach a large proportion of children at greater risk of
+“When every other system has
+narrowed or closed their doors,
+we’re the one left with the child
+at the end of the day.”
+- District family services manager
+Oregon Secretary of State | Report 2020-26 | July 2020 | Page 23
+maltreatment. A strategic plan can help ensure the Child Abuse prevention efforts are going to
+the most effective and efficient services. During the audit, we also saw several encouraging state
+and community level prevention practices that can link well with Child Welfare, and could be
+considered when developing an effective strategy.
+• Family Support and Connections Services in DHS’s Self Sufficiency Office provides parent
+skill training for any family receiving TANF cash assistance. Child Welfare and TANF
+populations overlap — about a third of the Child Welfare caseload is on TANF, and the
+Family Support program is specifically designed to reduce child abuse. In general, Child
+Welfare works closely with Self Sufficiency; the two programs share district offices.
+However, the Family Support program is relatively small, funded at about $4.5 million in
+the latest biennium. It serves about half the estimated need, DHS says.
+• Oregon is expanding the Project Nurture program, which serves pregnant women with
+substance use disorders, into five counties. The project, a coalition of Oregon maternity
+care providers, substance use treatment providers, and CCOs, provides clinical care, peer
+mentoring, and links to social services that continue through the first year post-partum.
+An April 2020 study found implementation of Project Nurture in Multnomah County was
+associated with an increase in prenatal visits among pregnant women with opioid use
+disorder and decreased foster care placements for the year after children were born. The
+study also found potential savings of $300,000 a year in the county from reduced foster
+care costs. In 2019, with the Governor’s support, the Legislature expanded the program
+into four more counties at a cost of $2.5 million.
+• Several states, including California, have used “Care Portal” to better connect Child
+Welfare to the community. The faith-based service fills internet-based requests from
+caseworkers to help families, with beds and other goods as well as services such as pest
+extermination and financial planning. Its focus includes helping biological families and
+preventing children from entering foster care. Oklahoma officials said the service had
+saved the state $3 million in its fourth year, with little spending on the state’s side for
+support.
+• Child Welfare is working with and assessing the performance of Safe Families for
+Children, a nonprofit that tries to prevent removal of children by providing host families
+for children of families in need, giving parents time to address crises or their own issues.
+The group also includes volunteers who provide transportation and other support. Safe
+Families can help a range of families involved with Child Welfare, from families under
+investigation to families referred from the Child Abuse Hotline who have not been
+investigated.
+At the county level, Yamhill County is trying to coordinate services using federal, state, and local
+money to keep families together. The effort includes the county’s human services department, its
+CCO, Child Welfare, nonprofit service providers, the county’s early learning hub, schools,
+physicians and others.
+The service array is extensive. CCO staff collect and help coordinate referrals to county health
+clinics, connecting patients with public health nurses, Healthy Families early home visiting, a
+Head Start Relief Nursery, and Women-Infant-Children programs. Service integration teams,
+paid for by the county and the CCO and staffed by the CCO, provide financial support for families’
+basic needs. Pregnant women can get psychosocial as well as physical assessments, and a
+community health worker hub supports families with complex medical needs. Safe Families for
+Children is operating in the county. The county also has three relief nursery sites focused on
+pregnant mothers and mothers with children up to age 5. It has five drug treatment and
+Oregon Secretary of State | Report 2020-26 | July 2020 | Page 24
+recovery homes and a family stabilization house, with recovery mentors available and around-
+the-clock peers in the home. Child Welfare can refer willing families to services after screening
+and during or after investigations. Child Welfare data is also helping community providers
+decide where to do outreach for preventive services, such as handing out free diapers to start
+building a relationship with community families in need. For several years, the county has
+shown relatively strong performance on Child Welfare metrics.
+Nationwide, some states have made major structural efforts to coordinate
+services and eliminate obstacles. Washington State, for example, created a new
+Department of Children, Youth and Families, pairing Child Welfare with early
+learning and juvenile justice to focus on services and better use of data to
+measure outcomes and prioritize children most at risk. The move came after a
+2016 Blue Ribbon Commission report that pointed out problems with scattered
+services.
+Texas has a prevention and early intervention agency. Over time, New Jersey has
+developed procedures to pay for needed behavioral treatment services first, then figure
+out who will pay.
+At the county level, Allegheny County, in Pennsylvania, established 28 Family Support Centers in
+economically disadvantaged areas to support parents and young children and studies have
+found some evidence of fewer maltreatment investigations in areas served by the centers.
+Washington, D.C., is taking a similar approach.
+These are among a number of potential changes that could help Oregon coordinate services,
+preserve families, and reduce child abuse. Other potential solutions include:
+• Establishing cross-agency system service navigators who help caseworkers and clients
+access services across programs and agencies, and community or cross-agency liaisons
+who build relationships between different agencies and providers.
+• Developing best practices within Child Welfare for increasing community involvement in
+Child Abuse prevention and work with district managers to implement them.
+• Expanding Family Support and Connections Services and community relief nursery
+services, coordinating with Child Welfare’s family services.
+• Working to maximize cooperative in-home cases in Child Welfare, providing an in-home
+staffing structure.
+• Establishing a family preservation and prevention unit within DHS or across agencies
+that can respond to Child Welfare cases and expand to helping willing families access and
+engage in services.
+Oregon Secretary of State | Report 2020-26 | July 2020 | Page 25
+Parent Mentors who “know what it’s like to lose your child”
+Christa Scaggs Child Welfare involvement included having her daughter
+taken from her custody, Child Welfare cases in two counties, and an eight -
+year struggle to overcome her drug addiction.
+Today, more than two years clean and living with her daughter again,
+Scaggs is a parent mentor with Morrison Child and Family Services. As a
+mentor, she helps other parents with addictions navigate Child Welfare,
+helping them do what it takes to get their children back.
+“We’ve been there,” Scaggs said. “We know what it’s like to lose your
+child.”
+We spoke with Scaggs and three other Morrison Services mentors who
+serve under a contract with Child Welfare. All have had their children
+removed in the past due to their addictions, one of the top reasons for child removals in Oregon. All are  at least
+two years sober.
+The idea is that the mentors will have an easier time connecting with parents, boost parent engagement in
+services, and help them navigate the confusing Child Welfare system. Having been engaged with Child Welfare
+themselves and now as service providers, they also see problems in the system from a unique perspective.
+Among them:
+Scarce Support: In order to keep their children at home, parents involved with Child Welfare often have to find
+someone outside the family who can support them and check in to make sure the children are safe. Mentors
+can help fill that need, using a strength-based approach to encourage parents. “Most of our clients don’t have
+anybody positive in their life,” said mentor Nicole York, whose own case moved more quickly because she had
+a parent mentor.
+Communication Gaps: Communication between parents and caseworkers can be limited, so mentors act as a
+bridge. Mentor Josh Russell experienced that as a client, when he and his wife struggled with opioid addictions,
+their baby was removed, and they desperately wanted information. Now, he said, he plays damage control for
+busy caseworkers. “I try to tell my clients, if you’re not hearing from them, you’re probably doing great.”
+Service Engagement: Getting addicted parents engaged in services can be hard. Once in the door, parents face
+a high turnover rate among treatment providers. “Even if someone is ready (for treatment), it takes a long time
+to get engaged,” said Amber Barker, a mentor who had two children in foster care. “You just get comfortable
+with someone, then they leave.”
+Insufficient Services: Parents need more services, the mentors said, including parenting classes, domestic
+violence support, psychiatric evaluations, and help for homeless families.
+Currently, the mentors are used only to help families reunify after children are removed. The mentors and
+parent advocates say it would help to make connections earlier in the process, when addicted parents are first
+involved with Child Welfare and trying to keep their children.
+Addiction recovery is difficult, and success is not assured. Portland State University studies of parent mentors
+have been inconclusive, not showing improvements in Child Welfare outcomes, but identifying more parent
+engagement in recovery activities and connections to support networks. Scaggs and the other mentors say it’s
+a team effort.
+“I’m an eight-year project, with multiple relapses,” Scaggs said. “But a caseworker at the end wouldn’t give up
+on me. A lost cause can make it.”
+Christa Scaggs, parent mentor
+Oregon Secretary of State | Report 2020-26 | July 2020 | Page 26
+Service availability, access, and quality are limited and vary substantially by
+geographic area
+When working with families, caseworkers face gaps in the availability of crucial services, access
+delays that contribute to removals and longer wait times for family reunification, and service
+quality problems that limit service effectiveness. These problems arise across the state, but are
+often greater in rural areas. They affect both services paid for by Child Welfare and services
+covered by other agencies, such as Medicaid services under OHA.
+We found that Child Welfare faces shortfalls with the very services that caseworkers say are
+most important for keeping families together and returning children quickly to their homes:
+substance use disorder treatment, mental health treatment, and affordable housing. Services to
+assist parents, such as In-home Safety and Reunification Services, parent mentors, and
+navigators, also vary substantially by county.
+Figure 12 shows top reasons caseworkers give for removals (multiple reasons can be given for
+one case). Mental health problems are not called out specifically, but field staff told us mental
+health issues are often a contributing factor to removals.
+Figure 12: Top reasons for child removal include neglect, parent drug abuse, and inadequate housing
+Source: Fiscal Year 2019 data from Oregon Child Welfare’s Results Oriented Management (ROM) website at the University of Kansas.
+Front-end services and other assistance services for parents paid for by Child Welfare vary
+substantially by county
+In-home Safety and Reunification Services (ISRS) are Oregon’s primary source of assistance to
+parents involved in Child Welfare at risk of having their children placed in foster care. The
+agency also pays directly, under its Strengthening and Preserving Families Program, for services
+that help parents, such as parent mentors, system navigators, and parent training, typically after
+their children are removed.
+The odds of families with a Child Welfare case receiving these services varies around the state.
+As shown in Figure 13, we analyzed spending and service provision by case and by county for
+navigators, mentors, and ISRS services in a selection of urban, rural, mixed, and remote rural
+counties from 2014 to 2019. Average spending per case did not show a clear pattern, but this
+limited analysis showed the percentage of cases receiving services was greater in Multnomah
+0 500 1,000 1,500 2,000 2,500
+All Others
+Abandon
+Sexual Abuse
+Child Behavior
+Parent Incarceration
+Parent Alcohol Abuse
+Physical Abuse
+Parent Incapacity
+Domestic Violence
+Inadequate Housing
+Parent Drug Abuse
+Neglect
+Oregon Secretary of State | Report 2020-26 | July 2020 | Page 27
+County. Navigator services were absent or minimal in three of the nine counties we analyzed.
+Statewide, parent mentors are concentrated in a small number of counties, none rural or remote.
+Figure 13: Spending by case and by county on key parent services paid for by Chi ld Welfare, 2014 to 2019
+County Type
+Average
+amt spent
+per case on
+navigators
+Average
+amt spent
+per case on
+mentoring
+Average
+amt spent
+per case
+on ISRS
+% of total
+cases with
+navigator
+services
+% of total
+cases with
+mentoring
+services
+% of total
+cases with
+ISRS
+services
+Columbia Mix 3,318 1,605 3,697 4.3% 1.5% 5.0%
+Yamhill Mix 2,617 1,079 6,246 0.1% 12.3% 5.5%
+Coos Rural 3,345 771 1,616 4.8% 4.8% 7.5%
+Douglas Rural 2,318 840 1,889 3.3% 0.1% 8.6%
+Jefferson Remote - - 2,166 0.0% 0.0% 4.5%
+Malheur Remote 3,423 633 2,788 15.4% 1.6% 6.5%
+Wallowa Remote - 3,063 2,778 0.0% 1.3% 5.1%
+Washington Urban 1,186 3,101 2,316 3.1% 14.2% 7.8%
+Multnomah Urban 2,357 1,407 2,108 8.7% 21.7% 22.0%
+Source: Spending data from OR-Kids case management system; auditor calculations.
+DHS gives its 16 districts leeway in deciding how to spend money, which may account for some
+of these differences. The available number of providers relative to demand may also be higher in
+some areas, including Multnomah County — a 2016 federal review found parent engagement
+and in-home services among the services inconsistently available across the state. DHS has
+allocated a 5% differential increase in 16 rural counties to help support services in smaller
+communities.
+Child Welfare faces problems with mental health service availability, access, and quality
+Mental health spending for families on the Oregon Health Plan (Medicaid) is largely covered by
+CCOs across the state and outside Child Welfare’s control. OHA oversees the CCOs, which receive
+state and federal money for physical, mental, and substance use disorder health care through the
+Oregon Health Plan.
+At DHS, data from OHA tracking mental and behavioral health services provided to families
+involved with Child Welfare is extremely limited. DHS and OHA officials disagree on the reasons
+for this, but it is clear the data or communication problems underlying this lack of information
+for helping to identify specific Child Welfare service gaps and trends have not been resolved.
+At a broader level, the Oregon Office of Rural Health at Oregon Health and Science University
+does identify potential gaps in service by analyzing the prevalence of mental health providers
+across the state. Its latest analysis, released in August 2019, counted psychologists, clinical social
+workers, family therapists, nurse practitioners, psychiatrists, and other mental health providers
+per 1,000 people in 130 primary care service areas.
+The analysis found that 22 of the areas, all classified as rural or remote, had no mental health
+providers at all. Another 49 service areas, all but one of them considered rural or remote, had
+0.5 providers per 1,000 people or fewer. In urban areas, the average was 1.71 providers per
+1,000 people, nearly triple the overall rate in rural and remote areas. Figure 14 maps out these
+gaps. On the map, white areas have the most providers; blue areas have none.
+Oregon Secretary of State | Report 2020-26 | July 2020 | Page 28
+Figure 14: Mental health providers are scarce in many areas of the state
+Source: Oregon Office of Rural Health. For more detailed map, please see https://www.ohsu.edu/media/106461
+During our visits to Child Welfare offices, we heard substantial concerns about the availability of
+mental health care from rural and urban offices. Field staff in some offices pointed to months-
+long wait lists for psychiatric evaluations and for mental health services following those
+evaluations, including a lottery system in one rural area. A 2019 internal survey by Child Welfare
+also documented concerns about long waitlists, even for crisis-related services, and an OHA
+official told us timelines for services do not meet Child Welfare’s needs. OHA said it has hired a
+complex care coordinator and an analyst who work with Child Welfare coordinators to improve
+access to complex care for youths involved with Child Welfare
+.
+In rural areas, these problems are compounded by long
+travel times and limited hours — a particular issue when
+parents are working. Rural areas can also face the problem
+of having a single provider of mental health care and
+addiction services. If clients have already tried them once,
+they are often reluctant to try again, caseworkers said.
+The quality of mental health services is also a substantial
+issue, according to our visits, Child Welfare’s survey, and
+our discussions with providers. Therapists are often inexperienced, short of expertise on
+trauma-informed care, low-paid, and, as in Child Welfare itself, turnover is high, forcing clients
+to start over multiple times. Provider cancelations can be frequent. Services paid for under
+Medicaid are limited to those approved through the Health Evidence Review Commission.
+OHA requires CCOs to track and report how long it takes them to provide an assessment of
+children after they enter foster care. However, CCOs do not report data on how rapidly children
+actually receive mental health care after the assessment. They report no data on services
+provided to adults in the system, and none for children who are not removed.
+Providers told us that CCO pay rates are too low to support a more stable workforce. Child
+Welfare can make improvements, too, they said. Caseworkers are often difficult to reach or
+“It takes weeks, months to get
+services in place for children, and
+the adult system is even longer.
+There’s no way to keep a family
+intact because services are months
+and months out.”
+- Child Welfare supervisor
+Oregon Secretary of State | Report 2020-26 | July 2020 | Page 29
+hesitant to share information. Child Welfare contracts are not flexible enough to allow for
+enhanced services when needed. The timelines for services are short, only two months under In-
+home Safety and Reunification Services family stabilization contracts, making it difficult to make
+lasting progress.
+As noted earlier, OHA has developed new five-year contracts with CCOs that now include
+priority populations for timely care, among them individuals with substance use disorders,
+foster children or children in the custody of DHS, children with early signs of behavioral
+problems, and pregnant women and parents with dependent children. These changes could help
+improve service availability within Child Welfare.
+Addiction treatment services have diminished and access varies significantly based on a
+client’s location
+Unlike mental health care, addiction treatment efforts in Child Welfare include teams of staff and
+contractors who help connect parents and youth with services. Child Welfare established
+Addiction Recovery Teams in 1991, with contracted service providers in Child Welfare offices
+who can accompany caseworkers on calls and act as immediate advocates.
+However, those teams have dwindled. As of this report, Child Welfare has no contracted services
+for the teams in 15 of 36 counties, all of them rural. The remaining counties have had service
+reductions in the past five to eight years, or have reduced the amount they can pay providers,
+affecting quality of service. Larger branches still have skilled contract providers who can work
+alongside staff. For example, the Multnomah County district has contracts for seven alcohol and
+drug outreach workers, and Multnomah and Washington counties have a combined contract for
+six counselors. District 9, with a main office in The Dalles, covers five counties with one
+Addiction Recovery Team contract provider.
+In 2019, the Legislative Policy Research Office mapped contracted substance use disorder
+treatment providers across Oregon; see Figure 15. The analysis showed a tight cluster in and
+around Portland and the I-5 corridor, with relatively few in other parts of the state.
+Additional treatment centers for opioid addiction, funded by the federal government, have
+helped, and demand is less in rural areas. In our interviews, however, Child Welfare staff in
+Ontario, Coos Bay, Roseburg, Klamath Falls, The Dalles, and Albany all pointed to shortfalls in
+addiction treatment that have affected their cases. Child Welfare’s 2019 survey also found that
+access to substance use disorder services was among the top three caseworker concerns in
+seven of 16 districts, all rural or partially rural.
+One area where the disparity in service access shows up starkly is in residential substance use
+disorder treatment programs for parents that allow young children to remain with them, known
+informally as “Mommy and Me” programs. The programs also include parent skills training and
+transition mentors. In our fieldwork, several offices said they had seen strong results from the
+programs and that they are useful in avoiding foster care placements and returning children
+home. The centers are not spread throughout the state, but people who need the services can go
+to centers outside their CCO coverage area.
+However, our analysis of OHA data suggests that parent placements in the treatment centers
+vary significantly, depending on the client’s CCO. In 2018, among 13 CCOs with complete data,
+placements in the programs ranged from a low of 0.1 placement per 1,000 members in a central
+Oregon CCO to a high of 3.1 placements per 1,000 members in a southern Oregon CCO. The
+highest overall placement rate came for parents enrolled in Fee-for-Service Medicaid, and not
+covered by a CCO, at more than three times the statewide average.
+Oregon Secretary of State | Report 2020-26 | July 2020 | Page 30
+Figure 15: Substance use disorder treatment providers are concentrated in the Portland area
+Source: Analysis by Jamie Hinsz of the Legislative Policy Research Office.
+High housing costs also increase the risk of removals and longer stays in foster care
+Inadequate housing can increase removals or increase stays in foster care in three ways:
+• Inadequate housing is a top reason for removals, though it is almost always combined
+with other factors, such as neglect and drug abuse;13
+• Supervised in-home cases, less intrusive than a removal, are only allowed if the parents
+and children live in “a home-like setting”; and
+• Inadequate housing delays children returning home from foster care, even if parents
+have addressed other problems that led to removal.
+Housing related hardships have been linked with CPS involvement and child maltreatment in a
+number of studies. A recent study found that, regardless of other financial hardships, housing
+instability is a unique family stressor that can lead to harsh and neglectful parenting.14
+Child Welfare is trying to address the problem. In some districts, housing navigators and
+contractors help families work through affordable housing challenges, helping them pay rent,
+utility deposits, and application fees, and address poor rental histories and criminal records that
+13 Inadequate housing definition per federal Children’s Bureau: Housing facilities were substandard, overcrowded, unsafe or
+otherwise inadequate resulting in their not being appropriate for the parents and child to reside together. Also includes
+homelessness.
+14 Slack, K. S., Font, S., Maguire-Jack, K., & Berger, L. M. (2017). Predicting child protective services (CPS) involvement among low-
+income U.S. families with young children receiving nutritional assistance. International journal of environmental research and public
+health, 14(10), [1197].
+Oregon Secretary of State | Report 2020-26 | July 2020 | Page 31
+make renting difficult. Other districts have contracted for specific
+slots in affordable housing programs for Child Welfare clients.
+The housing problem is tough to resolve, however. In Oregon, it is
+a statewide issue, not limited to just rapidly growing urban areas,
+according to the Oregon Office of Economic Analysis. Rural
+Oregon incomes are on par with rural American incomes, but
+home prices are 30% higher in rural Oregon and rents are 16%
+higher. Causes included faster growth in Oregon, limited
+construction, and growth in vacation homes and rentals in some areas.
+We heard housing concerns in every district we visited, including concerns about long wait lists
+and lottery programs. Child Welfare’s survey found much the same, with caseworkers in 11 of 16
+districts listing housing as the top service gap, and all but one listing it in the top three.
+The problems are large, but smaller solutions specific to Child Welfare can help
+Solving issues such as housing, mental health, and addiction treatment availability is well
+outside Child Welfare’s control. However, some potential solutions particular to Child Welfare
+can help. For example, discussions with parents and Child Welfare’s own survey indicated better
+caseworker communication around service availability and more information on case and safety
+plans would help. Parents also noted delays in referrals to services from Child Welfare, a
+particular concern under tight deadlines faced by front-end investigators.
+Other solutions, drawn from research, stakeholder suggestions, Child Welfare officials, and
+officials in other states, include:
+• Add additional publicly reported performance metrics for CCOs around the Child Welfare
+population that tie into Family First goals; station CCO assessors in DHS branches; or
+shift responsibility for coverage of Child Welfare families to just one CCO to enhance
+accountability.
+• Work with the Oregon Office of Rural Health and other stakeholders to quantify needs
+for providing Child Welfare mental health and addiction treatment services in
+underserved areas.
+• Shift more toward telemedicine in rural areas, tapping Child Welfare’s and OHA’s
+increased experience with online communications as part of its COVID-19 response.
+• Increase efforts to provide transportation in rural areas. District 10, based in Redmond,
+runs a volunteer-based driving service to help clients make appointments.
+• Where expert providers are scarce, including in rural areas, consider contracting directly
+with therapists and other experts or bringing experts onto staff in DHS
+district offices. Oklahoma, for example, has embedded mental health
+experts for consultation in each of their five child welfare regions, with
+the costs paid half by its mental health office and half by child welfare.
+• Use dedicated housing vouchers for Child Welfare clients.
+• Provide clear reports to state leadership and policymakers on service access, availability,
+and effectiveness throughout the state, working with OHA and programs within DHS to
+identify services outside Child Welfare as well.
+• Increase central management leadership in working with providers to address issues,
+such as communications with field staff, contract flexibility, and access to services. These
+procedures vary by district.
+“Housing is a large and
+uncontrollable factor in
+placement and family
+decisions. It is very difficult
+to get families into housing;
+there just isn’t enough.”
+- Child Welfare permanency
+caseworker
+Oregon Secretary of State | Report 2020-26 | July 2020 | Page 32
+Child Welfare can more effectively manage provider performance and match
+families with appropriate services
+Child Welfare has some strong practices to build on in managing service contractor performance
+and efficiently delivering services to clients who are most likely to benefit from them.
+Some service contracts, particularly for front-end In-home Safety and Reunification Services,
+include performance measures that tie directly to important Child Welfare outcomes, including
+keeping children at home and returning them home quickly. Individual contract managers in
+districts have developed tailored methods for monitoring contractors. The DHS Office of
+Reporting, Research, Analytics and Implementation (ORRAI) provides performance information,
+and DHS contract consultants are helping with specific issues. ORRAI, with significant statistical
+knowledge, has begun to analyze services to determine if they make a difference in key child
+welfare outcomes, such as keeping children at home.
+However, we also found important shortfalls in Child Welfare’s performance management,
+including the division’s ability to determine which services are working best and with which
+families. Needed improvements include higher and more consistent standards for managing
+service contracts, contracts that more clearly spell out expectations of providers, better tracking
+of service performance, and better use of data to evaluate and allocate services. These shortfalls
+may extend to DHS as a whole, though we did not evaluate contracts or contract management in
+other programs.
+The State of Oregon’s procurement manual sets the baseline for contract performance
+management. It emphasizes a performance-based contractor statement of work on the front end,
+and a plan that includes how the agency will document, monitor and control contract
+performance. The contract manager’s primary role, according to state guidelines, is to monitor
+performance throughout the life of the contract, including contractor progress reports,
+appropriate on-site reviews, and written surveys of clients.
+Child Welfare can more effectively manage provider performance
+We reviewed large Child Welfare contracts and interviewed 10 central and district contract
+administrators, in addition to contract administrators interviewed during field visits. We found
+three key issues that Child Welfare can address to better meet the state’s standards and manage
+contracts to improve family services.
+1. Limited central oversight leads to wide variations in contract oversight
+The contract management system, like Child Welfare, is largely decentralized, with the 16
+districts in the state taking unique approaches. In larger districts, entire teams may oversee
+contracts. In smaller districts, they may be assigned to one worker with multiple duties. Some
+districts have regular meetings with contractors to give and
+receive feedback. Contract administrators in other districts
+have little contact with service providers.
+Some administrators expressed confidence that they were
+on top of contract performance. Others administering large
+contracts emphatically said they were not. A 2018 DHS
+internal audit concluded that contract administrators were
+not complying with training policies in some cases and did
+not have sufficient knowledge of the job.
+“We have a huge gap of
+knowledge and experience and
+skill. Some administrators are
+doing amazing contract
+management, and then it’s all the
+way down to people who are
+brand new with 100 other things
+on their plate.”
+- District contract administrator
+Oregon Secretary of State | Report 2020-26 | July 2020 | Page 33
+Central oversight of district contract management is limited, with little guidance on performance
+management for contract administrators and limited involvement in quality control and
+improvement for service providers.
+2. Provider contracts do not enable strong performance oversight and improvement
+In 13 of 17 cases in our review of large contracts, the contracts included clearly defined
+performance metrics. However, these large contracts did not include other requirements that
+could help improve results over time:
+• With one exception, contracts only required contractors to report issues involving single
+clients, not monthly or periodic summaries of overall contractor performance, success at
+engaging clients, and the contractor’s efforts to improve results and client engagement.
+• Also with one exception, the contracts did not require that contractors meet or
+correspond regularly with Child Welfare to discuss overall performance issues or
+obstacles to improving performance.
+• The contracts do not require that Child Welfare and the contractors agree on goals tied
+to the metrics in the contracts, only that contactors report results of individual cases.
+• Only one of the contracts we reviewed included a requirement to survey clients served
+and report results to Child Welfare.
+Finally, several large contracts did not spell out expectations for how many hours contractors
+will spend with clients, beyond a minimum of spending at least one hour to be reimbursed. For
+contractors not paid by the hour, this lack of specify can allow contractors to work less than
+Child Welfare expects and receive the same amount of money.
+3. Child Welfare needs to improve its outcome measurement and analysis
+Key outcomes in Child Welfare include keeping children safe, keeping families together if
+possible, and returning children to their families as quickly as possible. With the exception of In-
+Home Safety and Reunification Services contracts, the performance metrics in contracts we
+reviewed did not focus on these outcomes. Instead, they focused on whether clients met
+particular service goals or accessed services.
+The contract administrators we spoke with said they would like more detail on outcome results
+for families served by their contractors to help them determine which contractors are most
+effective. ORRAI has the skills to provide this analysis. However, ORRAI’s staff serve all of DHS
+and may not have the personnel to gather data, analyze service performance, and help
+implement changes in the field over time given budget challenges.
+As noted earlier, in the case of mental health and addiction treatment services paid for by CCOs,
+data or communication problems have limited data from OHA to help DHS track services
+provided and outcomes.
+Contract administrators also said they want to know more about how successfully contractors
+engage clients, a critical and difficult task in Child Welfare. As it stands now, contractors may
+report not achieving a particular goal, but it is not clear why, or which contractors are doing well
+at engaging clients and which are not.
+ORRAI sends analyses to district contract managers on the monthly results of Child Welfare
+contracts in their districts and all other districts over time, a strong practice. However, some
+contract administrators were not aware of it. The analysis also does not identify which providers
+Oregon Secretary of State | Report 2020-26 | July 2020 | Page 34
+and districts are getting the best results statewide, or providers with results improving over
+time, information that could be shared and discussed statewide.
+We analyzed this data and found substantial differences in performance between counties and
+between providers offering the same service. Child Welfare could use this information to identify
+high and low performers and initiate improvement discussions.
+For example, the success rate by county for In-Home Safety and Reunification Services to
+stabilize families ranged from 60% to 92% for counties with at least 100 instances of the service
+in the latest three-year time period. Provider success rates on those services, again for providers
+with at least 100 instances of service provision, ranged from 52% to 97%.
+The performance of mentoring contractors with at least 50 instances of providing services
+ranged from 27% to 73%, and the performance of service navigation contractors with at least
+100 instances of providing services ranged from 44% to 75%.
+Some of these differences may be due to inconsistent reporting between providers. However,
+differences in county performance could also contribute to substantial differences we found in
+overall outcome results between counties, including differences in overall removal rates. In our
+analysis, removal rates and other outcome measures varied substantially across Oregon
+counties, with five-year average removal rates ranging from 2% to 19%. Analyzing and following
+up on these overall outcome results would also improve Child Welfare’s performance
+management.
+Healthy Families Oregon, a home visiting program offered through the Oregon Department of
+Education’s Early Learning Division, provides a strong example of outcome measurement and
+transparent reporting for a program devoted to preventing child abuse. The program’s public
+reports include details of program evaluations and details on service delivery indicators, parent
+surveys, success rates based on participant demographics, and family outcomes, all by county.
+Outcome examples include participants reporting reduced parenting stress, participants reading
+to their children three times a week or more, and participants establishing their children with
+primary care providers.
+Enhancing existing data initiatives could help improve contractor performance and better
+match families with appropriate services
+Some promising data initiatives are in process in Child Welfare, including three that stood out
+for their potential to improve service performance and delivery.
+Performance-based pay. ORRAI and Child Welfare are trying a performance-based payment
+system for the contract with Safe Families, the provider who takes care of children temporarily
+for parents in need. ORRAI will compare outcomes with Safe Families clients to outcomes with a
+statistically derived set of comparable clients in the system to see whether Safe Families made a
+difference, with Safe Families in line for bonus payments if they have. This approach incentivizes
+performance, backed by in-depth analysis. However, it adds risk and uncertainty for providers.
+Overall performance analysis. Earlier in 2020, ORRAI analyzed Strengthening, Preserving, and
+Reunifying Families (SPRF) service performance for the Legislature. For the first time since the
+program was established in 2011, the analysis went beyond whether providers met service
+goals. Instead, ORRAI assessed whether clients receiving different types of SPRF services were
+better able to keep children at home after they returned from foster care compared to 300 runs
+against matched clients who did not receive the services. The conclusions had limitations — for
+example, a service might not be effective overall, but be very effective with important subsets of
+clients. Yet the analysis was a first step toward identifying services that help families the most.
+Oregon Secretary of State | Report 2020-26 | July 2020 | Page 35
+Facilitation of family meetings, parenting skills instruction, and specialists to help navigate social
+service agencies and transportation were services contractors performed most strongly.
+Service matching. ORRAI is delving deeply into “predictive analytics,” a statistical approach that
+uses deep analysis of data from past cases and results to predict future outcomes and help with
+making decisions in the present. For Child Welfare, ORRAI is working on analytic models to help
+inform:
+• Child Abuse hotline screeners about the relative risk of children face of being placed in
+foster care;
+• CPS caseworkers about the probability of child safety risks and future allegations if a
+child remains in their home after a founded allegation; and
+• Caseworkers about the risks children face of returning to foster care if they are reunified
+with their families.
+In a service context, this data analysis could help match services to families most likely to
+succeed with those services given their history and circumstances. With limited services
+available, accurate analytics would help allocate service more efficiently. However, we heard
+substantial concerns, within and outside Child Welfare, about racial and ethnic bias
+contaminating predictive analytic conclusions and biasing current decisions. ORRAI leaders say
+they have taken extensive steps to correct for bias to avoid perpetuating it through predictions,
+but neither the full predictive analytics program nor the bias calculations have received an
+independent review.
+Improving management of service providers is one part of shifting to a preventive approach that
+can keep more children safe and more families together. As detailed in our 2018 foster care
+audit, Child Welfare and DHS management have struggled to sustain initiatives over time. Our
+recommendations, beginning on the next page, are designed to help ensure that Child Welfare
+makes some relatively rapid improvements that the division and its families receive support
+from other agencies and programs, and that Oregon sustains a preventive focus long-term.
+Oregon Secretary of State | Report 2020-26 | July 2020 | Page 36
+Recommendations
+This audit has focused on services for families with children involved in Child Welfare. The
+recommendations below focus on lower-cost efforts that should improve family prospects and
+reduce the load on the foster care system. The recommendations are directed at DHS
+management and Child Welfare management. However, to succeed, Child Welfare needs
+persistent support from Oregon’s leaders and the division’s most important partners, within
+DHS, in other state agencies, and in communities statewide.
+1. Establish collaboration protocols with partner divisions and agencies that set common
+goals, procedures, and timelines for action on Child Welfare referrals and at the front end
+of open cases.
+2. Use data analysis and input from staff, parents, and other stakeholders to identify the
+types of services and providers that are most successful and cost-efficient, including
+alternatives for improving front-end family engagement, service coordination, and safety
+services.
+a. Provide ORRAI with enough capacity to credibly evaluate service outcomes and
+staffing needs, identify the most effective services, and conduct outreach to help
+districts improve performance management.
+3. Identify and implement alternatives to reduce caseworker workload. Potential
+alternatives include reducing time spent on data entry and other administrative
+activities and making case procedures more accessible and user friendly.
+4. Develop contract measures at the district and central office level that set goals for
+provider timeliness, access, quality, and reporting of overall performance. Set clear
+performance management guidelines for contract administrators.
+5. Work with contracted providers to develop diverse delivery options that address service
+gaps in rural areas and other underserved areas, such as delivering services online or
+virtually when appropriate.
+6. Work with OHA, CCOs, and other stakeholders to quantify needs for mental health and
+addiction treatment services in underserved areas, ensure adequate coverage, and
+establish data sharing for CCO-provided services in Child Welfare cases. Also work with
+OHA to develop publicly reported CCO performance metrics that tie to Family First goals.
+7. Ensure that ORRAI’s efforts to account for racial bias receive an independent review,
+either through peer-reviewed studies or commissioned experts.
+8. Incorporate detailed information on services for CIRT team evaluation of CIRT cases,
+including whether key services within or outside Child Welfare were effective or
+available.
+9. Provide biennial reports to state leadership and policymakers on service access,
+availability, and effectiveness throughout the state, drawing on improved performance
+information.
+10. Incorporate the previous recommendations into development of the new five-year
+Family First prevention plan for ongoing inclusion in periodic Child and Family Services
+plans.
+Oregon Secretary of State | Report 2020-26 | July 2020 | Page 37
+Objective, Scope, and Methodology
+Objective
+The objective of this audit was to examine how Oregon can more effectively and economically
+use family services to safely prevent the placement of children into the foster care system.
+Scope
+The audit focused on Child Welfare’s performance nationally and internally; how Child Welfare
+is preparing to meet federal Family First Act requirements; how the state can best increase
+service availability; how DHS can best increase the effectiveness of its service delivery; and how
+DHS can best determine families to serve and services to provide.
+Methodology
+To address our objectives, our methodology included, but was not limited to: conducting
+interviews and research; visiting DHS field offices; analyzing Child Welfare spending, staffing,
+and performance in districts, statewide, and nationally; reviewing laws, regulations, and Child
+Welfare procedures; reviewing Child Welfare budgets; reviewing contract documents;
+benchmarking against other states; and analyzing Child Welfare data, within Oregon and
+nationally.
+Interviews and Visits
+We conducted interviews with legislative officials, officials in the Governor’s Office, Child
+Welfare leadership and staff, DHS Developmental Disabilities leadership, DHS Self Sufficiency
+leadership, OHA officials, the district managers of 14 DHS district offices, and leadership and
+staff of ORRAI. We visited 10 of the 16 districts from around the state, where we interviewed
+caseworkers, supervisors, contract administrators, and other staff as well as service providers,
+and accompanied caseworkers as they performed their work.
+We also conducted interviews with Child Welfare stakeholders, among them:
+• Parents currently or formerly involved with child welfare;
+• Former foster children;
+• Attorneys involved with the system;
+• Casey Family Programs;
+• Service Employees International Union, Local 503;
+• Oregon Court Appointed Special Advocates (CASA);
+• National Coalition for Child Protection Reform;
+• Oregon Alliance;
+• Oregon Foster Youth Connections;
+• County officials;
+• Children First for Oregon; and
+• The Oregon Judicial Department’s Citizen Review Board.
+Analysis of Oregon Child Welfare Performance
+We obtained and analyzed Adoption and Foster Care Analysis and Reporting System and
+National Child Abuse and Neglect Data System data from the National Data Archive on Child
+Abuse and Neglect at Cornell University. Readers should exercise caution in evaluating state-to-
+state comparisons, as each state has its own Child Welfare statutes and policies.
+Oregon Secretary of State | Report 2020-26 | July 2020 | Page 38
+We also examined the federal Child and Family Service Review of Oregon Child Welfare in 2016
+and compared results to those in other states. As noted earlier in this report, the accuracy of the
+comparisons is hampered by small sample sizes of cases used to gauge performance.
+Spending Reviews
+We evaluated spending from three sources: Child Welfare budgets; actual spending from
+financial data in the state’s financial accounting system; and spending data from OR-Kids, the
+case management system for DHS. We examined trends in spending, differences in spending by
+county, and relative amounts of spending for different expense categories. We also evaluated
+staffing over time from budget documents. All three types of Child Welfare spending data do not
+include costs associated with treatment or services not paid for by Child Welfare. Some costs, for
+example, are covered under Medicaid or private insurance, and are not direct Child Welfare
+expenditures.
+Case Reviews
+We judgmentally selected and reviewed confidential records for 12 cases from 2018 to 2020
+evaluated by Child Welfare’s CIRT, which evaluates child deaths when the victim, their siblings
+or another child living in the household have interacted with Child Welfare within 12 months of
+the fatality. We also examined cases recommended by caseworkers and other field staff that
+illustrated both potential issues with services and the potential for services to benefit families. In
+addition, we examined cases with both high and low amounts of service expenditures listed in
+OR-Kids. The conclusions from these judgmental, non-statistical samples cannot be extended to
+represent the entire Child Welfare population. However, combined with interviews, research,
+and data analysis, the work did allow us to draw reasonable conclusions about service impacts
+in CIRT cases, and both the potential and limitations of family services.
+Benchmarking Other States
+We determined other states to research and speak with by evaluating the national performance
+data detailed above and by researching individual promising practices across the nation. We
+spoke with Child Welfare officials in Washington, D.C., and in nine states: Arizona, Delaware,
+Kansas, Oklahoma, Tennessee, Texas, Vermont, Virginia, and Washington state.
+Contract Reviews
+We judgmentally selected 17 of Child Welfare’s largest service provider contracts for review,
+focusing on a diversity of geography and type of services provided. We then interviewed 10
+contract administrators overseeing a subset of those contracts. As a judgmental, non-statistical
+sample, the conclusions from this work alone cannot be extended to represent the entire
+population of Child Welfare contracts. However, combined with field visits, additional research,
+and additional interviews, our methodology did enable us to draw reasonable conclusions about
+common issues and challenges in Child Welfare’s contract management.
+Internal Control Review
+We determined that the following internal controls were relevant to our audit objective.15
+• Control Environment
+o We considered management’s responsibility for overseeing provision of effective
+and efficient family services.
+15 Auditors relied on standards for internal controls from the U.S. Government Accountability Office, report GAO-14-704G.
+Oregon Secretary of State | Report 2020-26 | July 2020 | Page 39
+o We considered management’s responsibility to assign clear duties to particular
+staff to ensure effective and efficient services.
+• Risk Assessment
+o We considered whether management has defined clear objectives around service
+provision to enable identification of risks and response to risks.
+• Control Activities
+o We considered whether management had defined objectives around service
+provision and set control activities through policy to achieve those objectives.
+• Information and Communication
+o We considered whether management uses quality information to achieve its
+service provision objectives.
+o We considered whether management has internally and externally communicated
+the quality information needed to achieve service provision objectives.
+• Monitoring Activities
+o We considered whether management is monitoring the system of controls around
+service provision and the results of service provision.
+o We considered whether management has remediated internal control deficiencies
+on a timely basis.
+Deficiencies with these internal controls were documented in the results section of this report.
+Data Reliability
+We obtained OR-Kids data from DHS and performed limited data reliability procedures. The OR-
+Kids data is stored in the Child Welfare data warehouse and also includes Child Welfare case
+expenditures. We relied on the conclusions drawn from our office’s recent audit of the OR-Kids
+system, report 2020-01.
+16 That audit assessed the reliability of the agency’s Child Welfare data
+and found that while the system is able to capture information needed to support program goals,
+it is not user friendly.
+We obtained and analyzed Adoption and Foster Care Analysis and Reporting System and
+National Child Abuse and Neglect Data System data from the National Data Archive on Child
+Abuse and Neglect via Cornell University. The data was used in accordance with its Terms of Use
+Agreement license. The Administration on Children, Youth and Families, the Children’s Bureau,
+the original dataset collection personnel or funding source, the National Data Archive on Child
+Abuse and Neglect, Cornell University and their agents or employees bear no responsibility for
+the analyses or interpretations presented. For OR-Kids and national data sets, we determined
+that the data were sufficiently reliable for the purposes of this audit.
+We conducted this performance audit in accordance with generally accepted government
+auditing standards. Those standards require that we plan and perform the audit to obtain
+sufficient, appropriate evidence to provide a reasonable basis for our findings and conclusions
+based on our audit objectives. We believe that the evidence obtained provides a reasonable basis
+for our findings and conclusions based on our audit objectives.
+We sincerely appreciate the courtesies and cooperation extended by officials and employees of
+DHS and its Child Welfare division during the course of this audit.
+16 Report 2020-01: “Oregon’s Child Welfare Information System is Adequate for Case Management, but Enhancements are needed to
+Improve Usability.”
+Department of Human Services
+Office of Child Welfare Program
+550 Capitol St NE, E-16
+Salem, OR 97301
+Phone: 503-945-5600
+TTY: 503-945-6214
+Fax: 503-373-7032
+June 25, 2020
+Kip Memmott, Director
+Secretary of State, Audits Division
+255 Capitol St. NE, Suite 500
+Salem, OR 97310
+Dear Mr. Memmott,
+This letter provides a written response to the Audits Division’s final draft audit report titled
+“Oregon Can More Effectively Use Family Services to Limit Foster Care and Keep Children Safely
+at Home.”
+We appreciate the investment the Secretary of State’s office has made to ensure a thorough
+review of Oregon’s child welfare system as a whole and its ability to keep children safely at
+home and reduce the need for foster care.
+DHS Child Welfare has drafted a Child Welfare Vision for Transformation with contributions
+from staff, partners, families and youth our goal is to achieve true transformation built on core
+values and a belief that children do best growing up in a family. The Family First Prevention
+Services Act of 2018, which is referenced throughout this report, presents a new opportunity
+for child welfare systems to build and utilize tools, collaborations, and processes that will align
+with the vision to make transformative changes that support families so more children are able
+to remain safely with their parents, families and communities.
+Success will require everybody, including young people, birth and foster parents, child welfare
+professionals, community partners and providers, policy makers and courts. Everyone has a role
+to play with the child welfare agency in finding solutions and strategies, making progress and
+improving outcomes and experiences within the broader child welfare system.
+Below is our detailed response to each recommendation in the audit.
+Oregon
+Kate Brown, Governor
+RECOMMENDATION 1
+Establish collaboration protocols with partner divisions and agencies that set common
+goals, procedures, and timelines for action on Child Welfare referrals and at the front end
+of open cases.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation
+activities
+Name and phone number of specific
+point of contact for implementation
+Agree
+06/30/21
+Lacey Andresen,
+Lacey.L.Andresen@dhsoha.state.or.us
+Narrative for Recommendation 1
+DHS Child Welfare has already begun this work with the Office of Developmental Disabilities
+Services, working with the young people in foster care who experience temporary lodging.
+DHS Child Welfare will continue the work of identifying additional opportunities to develop
+collaboration protocols to set common goals, procedures and timelines for action on Child
+Welfare referrals.
+RECOMMENDATION 2
+Use data analysis and input from staff, parents, and other stakeholders to identify the
+types of services and providers that are most successful and cost-efficient, including
+alternatives for improving front-end family engagement, service coordination, and safety
+services.
+a. Provide ORRAI with enough capacity to credibly evaluate service outcomes and
+staffing needs, identify the most effective services, and conduct outreach to help
+districts improve performance management.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation
+activities
+Name and phone number of specific
+point of contact for implementation
+Agree
+December 2023
+Paul Bellatty
+paul.t.bellatty@dhsoha.state.or.us
+and/or Kirsten Kolb
+kirsten.c.kolb@dhsoha.state.or.us
+Narrative for Recommendation 2
+The Office of Reporting, Research, Analytics and Implementation (ORRAI) will first need to
+determine if there is enough data for an evaluation, then complete program evaluation/service
+effectiveness for each program/service.  The second step will be to automate the evaluation
+and determine the population best served by the program. The final step is running the models
+by individual/family, to determine the most appropriate program/service for optimal outcome.
+Partners will be included to provide information about program, data, focused services, etc.
+This is a multi-phased effort that begins with service effectiveness through program evaluation
+and service matching and will require automation to be effective. The entire process would
+take 2-3 years if started immediately.
+It is also important to note that this recommendation is dependent on fiscal and staffing
+resources that are currently not available. Budget restrictions in the wake of Covid-19 may
+require the target date for this recommendation to be adjusted.
+RECOMMENDATION 3
+Identify and implement alternatives to reduce caseworker workload. Potential alternatives
+include reducing time spent on data entry and other administrative activities and making
+case procedures more accessible and user friendly.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation
+activities
+Name and phone number of specific
+point of contact for implementation
+Agree
+6/30/21
+Lacey Andresen
+Lacey.L.Andresen@dhsoha.state.or.us
+Narrative for Recommendation 3
+In collaboration with partners, youth and parent mentors, Child Welfare has developed a new
+Family Report that significantly reduces workload to caseworkers. The new Family Report
+combines the case plan and reports to the juvenile court and legal parties, two very lengthy
+documents.
+The Child Welfare Policy Unit is currently analyzing the structure, accessibility and usefulness of
+the Child Welfare Procedure Manual. Since March 2020, Child Welfare has convened several
+workgroups that include field staff and central office policy staff, to document the business
+process flow for a journey through child welfare involvement. This information is being used to
+identify and inform procedural updates that create more efficiency in practice to then be
+reflected in the Procedure Manual. Revisions to the Child Welfare Procedure Manual are on
+track for implementation within the next year.
+Additionally, DHS Child Welfare will analyze work assignments to caseworkers to determine
+whether there is opportunity for using case aides in a consistent manner.
+RECOMMENDATION 4
+Develop contract measures at the district and central office level that set goals for
+provider timeliness, access, quality, and reporting of overall performance. Set clear
+performance management guidelines for contract administrators.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number of
+specific point of contact for
+implementation
+Agree
+12/31/2020
+Belit Burke
+Belit.Burke@dhsoha.state.or.us
+Narrative for Recommendation 4
+The Child Welfare Contracts Team, in collaboration with district level contract administrators,
+will develop a charter or work agreement that establishes goals for consistent quality,
+performance management and overall performance.
+RECOMMENDATION 5
+Work with contracted providers to develop diverse delivery options that address service
+gaps in rural areas and other underserved areas, such as delivering services online or
+virtually when appropriate.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number of
+specific point of contact for
+implementation
+Agree
+9/30/2020
+Belit Burke
+Belit.Burke@dhsoha.state.or.us
+Narrative for Recommendation 5
+DHS Child Welfare recognizes the benefits in delivering some services online and virtually
+especially in the wake of the COVID-19 global pandemic. Ongoing, the Child Welfare Contracts
+Team will request contracted providers to consider enhancing service delivery options that
+include implementing online or virtual options to address service gaps.
+It should also be noted that not all services are effective through online or virtual settings.
+Contracted providers and the clients they serve have varying degrees of access, skill, and
+infrastructure to support consistent and effective service provision and participation through
+online or virtual services.
+RECOMMENDATION 6
+Work with OHA, CCOs, and other stakeholders to quantify needs for mental health and
+addiction treatment services in underserved areas, ensure adequate coverage, and
+establish data sharing for CCO-provided services in Child Welfare cases. Also work with
+OHA to develop publicly reported CCO performance metrics that tie to Family First goals.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number of
+specific point of contact for
+implementation
+Agree
+1/1/2021
+Katie Beck,
+Katie.Beck@dhsoha.state.or.us
+Narrative for Recommendation 6
+The Oregon Health Authority policy advisor to the Child Welfare Executive Leadership is
+convening a Medicaid/Child Welfare work group. That work group will be taking on
+implementing each component of this recommendation.
+RECOMMENDATION 7
+Ensure that ORRAI’s efforts to account for racial bias receive an independent review, either
+through peer-reviewed studies or commissioned experts.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number of
+specific point of contact for
+implementation
+Agree
+12/31/2023
+Paul Bellatty
+paul.t.bellatty@dhsoha.state.or.us
+and/or Kirsten Kolb
+kirsten.c.kolb@dhsoha.state.or.us
+Narrative for Recommendation 7
+An abstract for the 2020 Annual Meeting of the Society of Risk Analysis has been submitted.
+Assuming abstract acceptance, a peer-reviewed manuscript would then be published in the
+Conference Proceedings. Additionally, the manuscript will be posted on the open source journal
+repository, facilitating broad review and criticism of the developed procedures. Given the
+potentially slow pace of the peer-review process, it is anticipated to take up to 2 years to
+complete this process.
+RECOMMENDATION 8
+Incorporate detailed information on services for CIRT team evaluation of CIRT cases,
+including whether key services within or outside Child Welfare were effective or
+available.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree
+12/31/2023
+Tami Kane-Suleiman,
+Tami.J.Kane-Suleiman
+@dhsoha.state.or.us
+Narrative for Recommendation 8
+The Child Fatality Prevention and Review Program will take immediate steps to incorporate
+changes to the case file summary template to prompt the gathering of detailed information
+about services provided by or outside the agency, and whether they were available and
+effective.  In addition, service discussion will be added to the CIRT meeting agenda to ensure
+detailed information on services will be provided and discussed during the CIRT meeting. These
+changes can be implemented within the next few months.
+While availability of service is fairly simple to determine, determining effectiveness of services
+is nearly impossible to do without a robust program evaluation criterion. In Recommendation 2,
+ORRAI is identifying nearly 3 years needed to develop and implement a process that determines
+effective and cost-efficient services.
+RECOMMENDATION 9
+Provide biennial reports to state leadership and policymakers on service access,
+availability, and effectiveness throughout the state, drawing on improved performance
+information.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation
+activities
+Name and phone number of specific
+point of contact for implementation
+Agree
+06/30/2021, annually
+thereafter
+Lacey Andresen
+Lacey.L.Andresen@dhsoha.state.or.us
+Narrative for Recommendation 9
+Child Welfare submits an Annual Progress and Services Report (APSR) to the Children’s Bureau.
+The APSR is a narrative report on progress made towards meeting each goal and objective
+approved in the 5-Year Plan/Child and Family Services Plan (CFSP). It documents changes in
+goals and objectives and narrates a description of the services to be provided in the coming
+year, as well as other program information required by the federal Program Instruction. These
+reports are submitted to the Governor’s office for approval prior to submission to Children’s
+Bureau. Upon approval from the Children’s Bureau, the report will be shared with key
+legislators on House and Senate Human services committees and posted to the DHS website.
+RECOMMENDATION 10
+Incorporate the previous recommendations into development of the new five-year
+Family First prevention plan for ongoing inclusion in periodic Child and Family Services
+plans.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number of
+specific point of contact for
+implementation
+Partially Agree
+12/31/2020
+Belit Burke
+Belit.Burke@dhsoha.state.or.us
+Narrative for Recommendation 10
+While many of the recommendations will naturally contribute to the Family First prevention
+plan, numbers 7, 8, and 9 are outside of the scope of the Federal Program Instructions for the
+Family First State Plan.  The charter guiding the Family First Prevention Plan work addresses the
+remaining recommendations as part of implementation.
+Please contact Kathy Steiner at 503-385-7135 or Kathy.steiner@dhsoha.state.or.us with any
+questions.
+Sincerely,
+Rebecca Jones Gaston
+Child Welfare Director
+cc: Fariborz Pakseresht, Director, DHS
+Eric Moore, Chief Financial Officer, DHS
+Pat Allen, Director, Oregon Health Authority
+Lacey Andresen, Deputy Director, Child Welfare
+Audit Team
+William Garber, CGFM, MPA, Deputy Director
+Jamie Ralls, CFE, ACDA, Audit Manager
+Ian Green, M.Econ, CGAP, CFE, CISA, Audit Manager
+Scott Learn, MS, CIA, Principal Auditor
+Kathy Davis, Staff Auditor
+Bentley Walker, MSFA, Staff Auditor
+Laken Harrel, MPH, Hatfield Resident Fellow
+About the Secretary of State Audits Division
+The Oregon Constitution provides that the Secretary of State shall be, by virtue of the office, Auditor of Public
+Accounts. The Audits Division performs this duty. The division reports to the elected Secretary of State and is
+independent of other agencies within the Executive, Legislative, and Judicial branches of Oregon government.
+The division has constitutional authority to audit all state officers, agencies, boards and commissions as well as
+administer municipal audit law.
+This report is intended to promote the best possible management of public resources.
+Copies may be obtained from:
+Oregon Audits Division
+255 Capitol St NE, Suite 500 | Salem | OR | 97310
+(503) 986-2255
+sos.oregon.gov/audits

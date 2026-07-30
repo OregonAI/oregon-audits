@@ -1,0 +1,723 @@
+Recommendation Follow-up Report
+Portland Public Schools
+PPS Has Made Progress, but Must Take Further
+Steps to Reduce Inequities at High-Poverty Schools
+March 2022
+Report 2022-10
+Portland Public Schools (PPS) partially implemented 13 of the 15 recommendations from our 2019 audit focused on
+improving the performance of struggling schools and implemented two. The audit included recommendations to PPS
+and the Oregon Department of Education (ODE). This follow-up report covers recommendations to PPS; a separate
+report, issued in September 2021, covered ODE recommendations. Follow-up reports are a status check on agency
+actions, not full audits under government auditing standards.
+The COVID-19 pandemic has posed large challenges for PPS and other districts, including a shift to online instruction,
+school staff shortages, increased student needs, and high educator workload and stress. Prioritizing pandemic
+response delayed action on several recommendations.
+Findings from the original audit
+• PPS does relatively poorly with African-American, Latino, and economically disadvantaged students.
+• Contributing to inequities at high-poverty schools: high turnover, high teacher absences, low teacher
+experience, and a disconnect between teachers and administrators on managing student conduct.
+• PPS needs to develop a clear budget, report investment results, and compare spending to peer districts.
+Improvements noted
+• The district has improved support for high-poverty schools, adding training, student and family support, and
+staff such as counselors and assistant principals. (pg. 9)
+• The district prioritized racial equity (pg. 3) and increased investment in instructional staff development. (pg. 4)
+• PPS developed a strategic plan (pg. 3) and improved budget transparency (pg.11), benchmarking against in-
+state districts (pg. 10), purchasing card management (pg. 12), and contract management (pg. 13)
+Remaining areas of concern
+• Despite high principal turnover, the district is not detailing or publicly discussing turnover, teacher experience,
+and initiative overload at high-poverty schools, all key equity issues. (pg. 5)
+• The district needs to address transfer and hiring issues that promote high turnover and lower teacher
+experience at high-poverty schools. (pg. 7)
+• The district’s public analysis of benchmarking and spending is not detailed enough to identify potential savings
+areas and help shift money to the classroom. (pg. 10)
+• Since the audit, the school board has not ensured district management addresses some key equity issues at
+high-poverty schools (pg. 15), analyzes potential savings areas in depth (pg. 16), or tracks teacher issues with
+student conduct and classroom disruption. (pg. 16)
+Report Highlights
+Portland Public Schools
+PPS Has Made Progress, but Must Take Further Steps to
+Reduce Inequities at High-Poverty Schools
+Follow-up to Audit Report 2019-01 (report two of two)
+Oregon Secretary of State | Report 2022-10 | March 2022 | page 1
+Introduction
+The purpose of this report is to follow up on the recommendations we made to Portland Public Schools
+(PPS) as included in audit report 2019-01, "ODE and PPS Must Do More to Monitor Spending and
+Address Systemic Obstacles to Student Performance, Particularly at Struggling Schools." This report
+pertains only to those recommendations made to PPS; a separate follow-up report, released in
+September 2021, addressed recommendations made to ODE.
+The Oregon Audits Division conducts follow-up procedures for each of our performance audits. This
+process helps assess the impact of our audit work, promotes accountability and transparency within
+state government, and ensures audit recommendations are implemented and related risks mitigated to
+the greatest extent possible.
+We use a standard set of procedures for these engagements that includes gathering evidence and
+assessing the efforts of the auditee to implement our recommendations; concluding and reporting on
+those efforts; and employing a rigorous quality assurance process to ensure our conclusions are
+accurate. We determine implementation status based on an assessment of evidence rather than self -
+reported information. This follow-up is not an audit, but a status check on the agency’s actions, and
+therefore does not adhere to the full set of government auditing standards.
+To ensure the timeliness of this effort, the division asks all auditees to provide a timeframe for
+implementing the recommendations in our audit reports. We use this timeframe to schedule an d
+execute our follow-up procedures.
+Our follow-up procedures evaluate the status of each recommendation and assign it one of the
+following categories:
+Implemented/Resolved: The auditee has fully implemented the recommendation or otherwise
+taken the appropriate action to resolve the issue identified by the audit.
+Partially implemented: The auditee has begun taking action on the recommendation, but has
+not fully implemented it. In some cases, this simply means the auditee needs more time to fully
+implement the recommendation. However, it may also mean the auditee believes it has taken
+sufficient action to address the issue and does not plan to pursue further action on that
+recommendation.
+Not implemented: The auditee has taken no action on the recommendation. This could mean
+the auditee still plans to implement the recommendation and simply has not yet taken action; it
+could also mean the auditee has declined to take the action identified by the recommendation
+and may pursue other action, or the auditee disagreed with the initial recommendation.
+The status of each recommendation and results of our follow-up work are detailed in the following
+pages.
+We sincerely appreciate the courtesies and cooperation extended by officials and employees of PPS
+during the course of this follow-up work.
+Oregon Secretary of State | Report 2022-10 | March 2022 | page 2
+About the Secretary of State Audits Division
+The Oregon Constitution provides that the Secretary of State shall be, by virtue of the office, Auditor
+of Public Accounts. The Audits Division performs this duty. The division reports to the elected
+Secretary of State and is independent of other agencies within the Executive, Legislative, and Judicial
+branches of Oregon government. The division has constitutional authority to audit all state officers,
+agencies, boards and commissions as well as administer municipal audit law.
+Report team
+Andrew Love, CFE, Audit Manager
+Scott Learn, MS, CIA, Principal Auditor
+T. Cornforth, Staff Auditor
+Oregon Secretary of State | Report 2022-10 | March 2022 | page 3
+Recommendation Implementation Status
+Recommendations to PPS Management
+Develop a strategic plan that sets concrete performance measures for
+improved student outcomes and discusses in depth the staffing, resources,
+interim steps, and improvements to the district’s operations and
+organizational culture needed to reach those outcomes.
+Partially
+implemented
+PPS recently developed a more full-fledged strategic plan. It specifies four broad district priorities,
+including priorities that could help shift the district’s organizational culture and improve operations:
+racial equity and social justice; inclusive and differentiated learning for every child; professional
+excellence and support; and embracing change. The plan also includes 17 performance measures for
+improving student outcomes and diversifying and improving the educator workforce.
+The current plan is a significant improvement over the documentation of district strategy noted in the
+original audit. However, the performance measures do not yet have specific, quantitative goals. For
+example, they mention narrowing test score gaps for Black and Native American students through
+2025, but do not specify a numerical goal, meaning even a slight reduction would meet the goal as
+stated. The plan also does not discuss the staffing or resources needed to reach the goals or whether
+district leaders believe current staffing and resources are adequate. In February 2022, the district’s
+board did include three specific goals in a contract extension for the superintendent. The extension ties
+potential retirement annuity bonuses to year-over-year increases of three percentage points in
+reading test scores for Black third-graders, in reading scores for students in underserved races and
+ethnicities
+1 in third grade, and in math scores for Black fifth-graders.
+PPS also reported some recent district-specific student outcomes in a December 2021 board work
+session.2 This data showed increases in graduates’ post-secondary preparation, such as increased
+completion of Career Technical Education (CTE) courses across all racial and ethnic groups. However,
+results for the district-administered reading and math tests given to elementary and middle school
+students in Fall 2021 were concerning. White, Asian, and multiracial students did relatively well, with
+white students exceeding grade level targets at every grade level tested, but underserved students by
+race and ethnicity scored well below target levels on average. For example, the average 8th grade
+score for Black students in reading was at the level expected in winter of 5th grade — a deficit of more
+than two grades — and the average 8th grade score for Latino students was at the level expected at
+winter of 6th grade. Average math scores for Black and Latino students showed even larger deficits,
+with a deficit of nearly four grades for Black students.
+National evidence the district presented also indicates declines in student performance during  the
+pandemic have been far steeper in early grades at high-poverty schools than at low-poverty schools,
+and far steeper for Black, Hispanic, and American Indian-Alaska Native students. Our original audit
+1 Students in the underserved race/ethnicity group include American Indian/Alaska Native, Black/African-American,
+Hispanic/Latino, and Native Hawaiian/Pacific Islander students.
+2 The district’s presentation is posted online.
+Oregon Secretary of State | Report 2022-10 | March 2022 | page 4
+identified a similarly concerning pattern of achievement results at PPS, finding PPS did relatively well
+compared to peer districts with white students who were not classified as economically disadvantaged,
+increasing the district’s overall results, and relatively poorly with African -American and Latino students
+who were classified as economically disadvantaged.
+In developing a common core curriculum for schools, ensure adequate
+training for teachers — particularly new or inexperienced teachers. Implemented
+The district’s 2021-22 budget shows a $10 million increase in investments for instructional staff
+development since the original audit, rising from roughly $25 million in 2018-19 to more than $35
+million budgeted for 2021-22. This increase was due in part to increased state funding from the Student
+Success Act, passed after the original audit was released, and from federal funding for COVID- 19
+response. Spending on improvement of instruction also increased substantially.
+District officials stated professional learning courses are available throughout the year, with courses
+differentiated for inexperienced and experienced teachers. Supports targeted for new teachers include
+mentoring and direct coaching, as well as a New Educator Orientation series, at which  training is
+provided on the district’s Guaranteed and Viable Curriculum. New Educator Orientation conducted at
+struggling or high-poverty schools includes two additional training days before the typical contract
+year begins, district officials said, though they did not provide supporting documentation as requested
+detailing the nature of this additional training.
+These investments in staff development are substantial, meeting the recommendation’s call for
+adequate training. However, the district’s planned core curriculum improvements are still in process
+(pg. 14
+), leaving substantial work to be done, and the extent of educator training in existing core
+curriculum is not clear from documents the district provided. 3 Core curriculum training was also
+impacted by the pandemic. It prompted the district to focus on training in online instruction methods
+and led to decreased staffing, increased student need, and increased teacher workload and stress,
+reducing educators’ capacity for training. A January 2022 report from Oregon’s statewide teachers’
+union pointed to staff shortages at districts across the state that have significantly increased teacher
+workload and asked for short-term district flexibility on professional development requirements.
+4 At
+PPS, an October 2021 survey by the Portland Association of Teachers indicated 80% of educators
+reported high workloads and 70% reported high or severe stress levels.
+3 A media report published in January 2022 that focused on Black and Latino students at PPS concluded that most PPS
+elementary educators involved in literacy instruction had not yet begun a voluntary, 100-hour training in new science-based
+reading instruction methods.
+4 Oregon Education Association, “Education at a Breaking Point: Ringing the Alarm on the Historic Staffing Crisis Within Oregon’s
+Public Schools.”
+Oregon Secretary of State | Report 2022-10 | March 2022 | page 5
+Regularly track teacher and principal turnover and the number of initiatives
+at schools and publicly report on it, with a particular focus on high-poverty
+schools.
+Partially
+implemented
+Our original audit found high-poverty schools, which include many underserved students, face
+disproportionately high principal and teacher turnover, disproportionately low teacher experience, and
+disproportionately high initiative overload, all contributing to educational inequities.
+However, the district has made relatively little progress on this recommendation when it comes to
+focusing on high-poverty schools. PPS publicly presented a report on teacher and administrator
+retention and turnover, disaggregated by race of educator, part of the district’s focus on increasing the
+number of educators of color. Yet, the analysis only presented turnover districtwide, and contained no
+information on high-poverty or other individual schools. At the 2021 Audit Committee’s request, made
+after we submitted follow-up questions, the district provided a list of administrator turnover at high-
+poverty schools and schools designated for improvement, though it does not appear the board publicly
+reviewed or discussed this data.
+Our own analysis indicates turnover among principals at high-poverty Title I schools since our audit has
+been substantial, with 76% of the principals at Title I schools in 2018-19 no longer at the same schools
+in 2020-21. The original audit documented the importance of principal stability for student
+achievement, prompting us to recommend the district track turnover and publicly discuss it.
+The original audit also documented relatively high levels of initiative overload and uncoordinated
+initiatives at Title I schools, which are provided additional support under federal law. District officials
+said the new strategic plan provides clearer expectations that will help schools focus on specific,
+measurable initiatives over time. District officials provided no evidence the district is tracking or
+reporting on the number of initiatives at individual schools.
+Prioritize development and stability of effective principals by providing
+incentives and additional support, particularly at high-poverty schools.
+Supports include reducing turnover of principal supervisors, stabilizing
+district leadership, improving collaboration between principals and central
+administrators, improving hiring practices, streamlining initiatives, increasing
+collaboration between central office departments, and evaluating initiative
+results.
+Partially
+implemented
+The district has taken steps to improve support for principals, such as establishing a support team that
+crosses departments and conducting monthly professional development meetings wit h principals. In
+addition, the district brought in the University of Virginia Partnership for Leadership in Education to
+help principals and teachers at PPS schools designated for improvement by the state.  The annual
+Successful Schools Survey contained an administrator satisfaction survey for the first time in 2021,
+with results showing administrators rate staff-family relationships and school climate favorably. The
+district has also:
+Oregon Secretary of State | Report 2022-10 | March 2022 | page 6
+• Added social workers and counselors funded by state Student Investment A ccount money
+at all schools, and instructional specialists and assistant principals at high -poverty schools.
+• Increased contracts with community providers to help support students and families at
+high-poverty schools.
+• Added 11 new special education teachers and 12 new special education para- educators in
+2020-21, in addition to staff added in 2019-20.
+• Continued equity funding provisions that add funding for high-poverty schools and
+decrease their students per staff member. In the 2021-22 budget, Title I and CSI schools are
+projected to receive about $10,500 per student, while other schools are project to receive
+about $7,700 per student. The number of students per staff member is also lower.
+However, results from the 2021 Successful Schools Survey show substantial improvement is still
+needed. In particular, school administrators rated the district unfavorably for 1.) extent of district’s
+request for input when making decisions; 2.) the value of available professional learning, and 3.)
+feedback from the district. A separate PPS equity audit focused on current and former school and
+district administrators of color, supported by The Leadership Academy and completed in August 2021,
+also identified substantial concerns. Among them: an absence of consistent support for administrators
+of color from the leaders above them; a feeling of being “isolated and invisible;” a feeling their feedback
+is not welcomed within the district; and a sense they are accepted to a lesser degree than white
+colleagues and reprimanded to a more significant degree.
+The district did not provide evidence of efforts to reduce initiative overload or to improve evaluation of
+initiative results. As discussed in the previous recommendation, principal turnover at high-poverty
+schools has been high since our original audit.
+Maintain a consistent feedback loop with teachers, educational assistants,
+parents, and other stakeholders regarding student conduct issues,
+particularly as they affect Title I schools and other high-poverty schools.
+Address teacher concerns about lack of clarity in school policies and lack of
+consistent behavior standards.
+Partially
+implemented
+The original audit noted student conduct issues are relatively common at high -poverty schools and a
+substantial source of frustration to teachers at these schools. Helped by money from the state’s new
+Student Investment Account, PPS has significantly increased spending on services that should help
+address student conduct issues, including special education, attendance and soc ial work services, and
+counseling. In terms of feedback loops between teachers and district administrators, the district
+highlights regular meetings with the Portland Association of Teachers (PAT), and a new section on its
+online discipline reporting form that includes room for teacher comments and suggestions. The district
+has also established an annual contractor-administered survey of students, teachers, and parents, and
+made access to the results publicly available online. As part of proposed revisions to the district’s
+student conduct and discipline policy, the district engaged with teachers, students, staff, school
+administrators, and families.
+However, evidence indicates the district still has problems with classroom disruptions, student conduct
+and teacher communication, with significant work in these areas still in process. In the 2019 -20 district
+Oregon Secretary of State | Report 2022-10 | March 2022 | page 7
+survey results, PPS teachers ranked the district below the national norm for responses in five of seven
+categories, including school climate and staff-leadership relationships. The survey report does not
+summarize results for Title I or high-poverty schools. The new student conduct and discipline policy has
+yet to be adopted after the PAT raised concerns and the district’s latest report on student discipline,
+for the 2018-19 school year, found the rate of students expelled or suspended out of school increased
+for every racial and ethnic group from 2016-17 to 2018-19. African Americans and Native Americans
+had the highest expulsion and in-school suspension rate in 2018-19, each at 11.3%.
+In terms of communication with teachers, it is not clear if district leadership regularly receives feedback
+from teachers aside from the monthly meetings with PAT leadership mentioned above. A districtwide
+teacher coaching and development plan for Title I schools is not expected to be fully deployed until the
+2021-22 school year. The district’s Behavior Collaboration Team no longer meets, and a new Reimagine
+Discipline Committee is in initial stages. Finally, the district is still developing a social-emotional learning
+plan.
+At the same time, the statewide teachers’ union report issued in January 2022 said disrupted learning
+issues have “skyrocketed” from already high pre-pandemic levels as students returned to school after
+months of social isolation and heightened family stress.
+In our original audit, we found that student conduct issues hit high-poverty schools the hardest. In a
+2018 survey of licensed educators, concerns about managing student conduct were higher a t PPS than
+at other Oregon districts. Within PPS, concerns were significantly higher at high-poverty schools,
+where teachers were less likely to agree that they could focus on students with minimal interruptions,
+that the school environment was safe, and that students at their school followed rules of conduct.
+Work with union officials to address transfer and hiring issues that promote
+high turnover and lower teacher experience at high-poverty schools. Also
+address remaining contract issues raised in the recent investigation of
+teacher misconduct, including retention of educator records and reducing
+administrative obstacles to filing a complaint.
+Partially
+implemented
+The original audit found district practices promote higher teacher turnover and lower teacher
+experience at high-poverty schools with large populations of underserved students, including a higher
+proportion of new teachers at these schools. The district said it plans to work with the PAT on
+proposals to provide targeted staffing, professional development, and incentives to work at designated
+high-poverty schools for educators, but bargaining on these issues has been delayed by the pandemic.
+The district also cited a PAT contract provision that allows PPS to make an exception to seniority
+preference to retain educators of color over an employee with more seniority but who is not a person
+of color when staffing reductions occur. District officials said this practice results in less turnover, but
+provided no data to support this statement. Similarly, district officials also state educator experience is
+tracked, but provided no evidence this information was compiled in a meaningful way, presented to the
+board, or used to improve transfer and hiring practices.
+Since the original audit, the district has taken several steps to address concerns over handling of
+teacher sexual misconduct. The district’s changes came in response to an independent investigation
+Oregon Secretary of State | Report 2022-10 | March 2022 | page 8
+commissioned in 2017 by the school board in the case of a long-time teacher suspected of sexual
+misconduct. The investigation identified weaknesses in district practices. Among the positive changes
+that resulted:
+• The PPS board developed and adopted a new Professional Conduct Between Adults and
+Students policy.
+• The district designated a School Compliance Officer at each school, trained to receive
+reports, support investigations, and ensure mandatory reporting.
+• The district developed training emphasizing the need to report potential misconduct and
+details reporting procedures.
+• The district implemented an electronic, centralized document tracking system in 2019 that
+permanently keeps documents related to staff misconduct allegations and investigations -
+together and easily searchable by employee name, a more reliable, complete rec ord than in
+the past.
+• New language in the PAT contract requires a trained, qualified investigator investigate
+sexual conduct issues.
+• A timeline extension in the PAT contract from three to six years for removing “Letters of
+Expectation,” including those issued in response to inappropriate behavior, from files
+accessible to principals and other building administrators.
+District officials said the centralized database will allow human resource and legal staff to monitor
+issues and review records for patterns of conduct, supported by improved reporting from the
+designated School Compliance Officers. The district worked with one of the investigators in developing
+its approach. In an interview, the investigator said the district has made substantial improvements,
+including making it clearer all concerns need to be reported to human resources, establishing a
+comprehensive centralized system that retains even complaints deemed unfounded, and developing a
+strong human resource department commitment to following through on harassment and misconduct
+issues.
+However, the district’s actions and the new PAT agreement do not address all the independent
+investigation’s recommendations. In our judgment, the key gap that remains is assurance school
+compliance officers, usually a principal or vice principal, will be aware of prior misconduct concerns
+about an educator so they can watch for improper conduct. The PAT agreement still requires purging
+of some documents from on-site files easily available to school administrators when a teacher transfers
+schools or gets a new supervisor at their school. Also, as noted above, the agreement allows purging of
+some documents short of final employee discipline from easily available files after six years. The
+independent investigative report recommended the district eliminate these provisions to allow current
+and subsequent supervisors to be more aware of potential problems and to increase their ability to see
+patterns of behavior over time. In an October 2019 memo, PPS officials told the s chool board that
+automatic purging of personnel file documents is not part of the district’s agreements with other
+employee unions.
+District officials said human resources retains all documents, will allow access to school administrators
+who request it, and will notify the compliance officers of significant prior concerns about teachers when
+a principal or teacher is new to the school. However, this notification practice is not in policy and was
+not discussed in the training materials PPS provided. In our judgment, the lack of written policies or
+Oregon Secretary of State | Report 2022-10 | March 2022 | page 9
+procedures increases the risk appropriate notification of school administrators could diminish over
+time, as human resource personnel turn over and the urgency driven by the investigation diminishes,
+raising risks for students.
+While working to improve instructional quality, address other obstacles that
+create inequities at high-poverty schools. Strategies include changes to
+attendance rules, boundary changes, and practices that could encourage
+retention of high-quality principals and teachers at high-poverty schools,
+such as additional pay, enhanced training, and additional classroom support.
+Partially
+implemented
+PPS has taken steps to address obstacles that create inequities at high -poverty schools. However, two
+key steps — related to additional pay and enrollment balancing — are still pending, and it is not clear if
+the steps already taken have improved retention. The district did not provide evidence it is analyzing
+retention at high-poverty schools or other schools designated as needing improvement.
+• Classroom Support: The district added social workers and counselors funded by Student
+Investment Account money from the state at all schools, as well as instructional specialists
+and assistant principals at high-poverty schools. It also increased contracts with
+community providers to students and families at high-poverty schools, and continued
+equity funding provisions that add funding for high-poverty schools and decrease their
+students per staff member.
+• Enhanced Training: The district has partnered with the University of Virginia to provide
+enhanced training to teachers and school leaders at Title I schools and additional schools
+designated as needing improvement. These schools, typically high-poverty, received
+additional professional development training in 2020-21 focused on curriculum, social-
+emotional supports, and leadership development. PPS officials said they renewed the
+University of Virginia partnership for the 2021-22 school year.
+• Additional Pay: The district has implemented incentive payments for substitute teachers at
+18 high-poverty schools. As noted in the previous recommendation, the district is exploring
+a proposal to provide incentives for educators to work at high-poverty schools. Principals
+are not included in this proposal.
+• Attendance Rules and Boundary Changes: PPS debuted a school enrollment balancing
+effort in the district's southeast area designed to improve building utilization. However, the
+district has not fully addressed enrollment balancing in areas with concentrations of high -
+poverty schools. The original audit noted Title I schools at PPS tend to have far fewer
+students compared to the number of classrooms in their buildings, which can reduce
+elective and non-basic courses. It’s efforts to date have focused on southeast Portland,
+including re-opening a long-closed middle school in 20201 to help balance enrollment and
+offer more electives for students.
+Oregon Secretary of State | Report 2022-10 | March 2022 | page 10
+Investigate and report on potential savings areas in depth, includin g the level
+of executive administration, use of substitute teachers and educational
+assistants due to educator absences, health benefits, bus services, legal
+services, and building utilization.
+Partially
+implemented
+To identify where PPS might be able to redirect dollars to the classroom, the original audit highlighted
+several administrative, benefit, and substitute costs that were fast growing or high relative to Oregon
+peer districts. The district has reduced costs in several of these areas. Budget docum ents show General
+Fund costs for legal services and early retirement benefits declined from 2018 -19 to 2021-22, the last
+budget adopted. The district plans to solicit new bus services designed to improve operational
+efficiency. The district’s school enrollment balancing effort, noted in the previous recommendation,
+should improve building utilization.
+However, the district's 2021-22 budget does not report on potential savings, highlight them, or explain
+changes in depth, even as budgeted costs for student transportation, executive administration,
+licensed substitutes, retiree health insurance, and group health insurance increased from 2018 -19 to
+2021-22. According to PPS officials, leaders drill down into detailed savings areas in senior leadership
+team meetings and internal budget development sessions, but the district provided no evidence of in -
+depth examinations or reports on potential savings in these areas.
+Conduct regular and public peer benchmarking to identify potential savings
+areas and spending challenges. Identify peer districts using objective criteria,
+such as enrollment, level of poverty, and other demographic factors.
+Partially
+implemented
+As part of quarterly financial reports to the school board, PPS produces a peer comparison an d
+benchmark analysis based on other Oregon districts with over 10,000 students. District finance staff
+meet regularly with peers from other districts in this 10,000-student group to discuss benchmarking on
+revenue and expenditures. PPS also participates in the Council of the Great City Schools benchmarking
+project, which allows PPS to compare its operations and performance to other large districts across the
+nation.
+Despite these benchmarking efforts, PPS provided no evidence the work has been used to iden tify
+savings areas and address spending challenges. District officials state benchmarking is used in internal
+discussions, but this process is not transparent to the public or to policymakers. While the district has
+publicly released benchmarking results, these are limited in choice of peer districts and level of financial
+detail. Although PPS contributes district data to the Council of the Great City Schools project, the
+district provided no evidence spending data from other urban schools in the project — including urban
+peers with demographics more comparable to PPS than other Oregon districts — were used for
+benchmarking.
+Oregon Secretary of State | Report 2022-10 | March 2022 | page 11
+Make its budget more clear and transparent to the public, including staffing
+and spending by program over time, key performance indicators, and analysis
+of key initiative outcomes.
+Partially
+implemented
+The district’s 2021-22 budget includes several sections that make it clearer and more transparent.
+• The budget now includes sections discussing significant budget additions narratively,
+without numbers, and high-level spending changes for major programs or expenses.
+• An addendum to the 2020-21 budget called "School Reports" includes detailed information
+on individual school staffing, a by-school summary of personnel for administration, support,
+and the classroom, and identification of schools targeted for school improvement efforts
+by ODE.
+• The budget also includes forecasted revenues and spending for three years, a positive step
+toward improving transparency.
+PPS continues to include extensive data on budgeted staffing, particularly at individual schools.
+However, some weaknesses identified in the original audit remain. The district still does not include
+easily understandable summaries on districtwide staffing trends or a clear breakdown of staffing and
+costs for schools versus staffing and costs for staff who do not work directly with scho ols. In contrast,
+as noted in the original audit, Seattle Public Schools clearly details districtwide costs for direct services
+to schools versus support services conducted by administrators and other staff who do not work
+directly in schools. Seattle also summarizes districtwide staff totals over three years in easy-to-
+understand categories, such as "elementary teacher," "counselor," and "director/supervisor."
+The 2021-22 PPS budget contains less information on key performance indicators than the 2018 -19
+budget, which included graduation rates disaggregated by race and ethnicity and suspensions and
+expulsions by race and ethnic group. The board’s goals for student performance are mentioned in the
+budget, but actual results are not included. This gap is partly due to reduced student assessments
+during the pandemic. District officials said they plan to add more performance indicators in the 2022 -23
+budget.
+In the original audit, we also noted the Beaverton School District’s budget has analyses of results and
+spending on key student performance investments, something the PPS budget lacks. According to PPS
+management, Measures of Academic Progress (MAP) test results and progress on initiatives under the
+state’s new Student Investment Account are reported to the board. Based on the evidence provided,
+these do not appear to involve a transparent, in-depth analysis of key initiative outcomes and
+corresponding spending strategies like Beaverton.
+For the 2022-23 budget year, the district has developed a draft reallocation rubric that district officials
+say will help it abandon programs not meeting defined criteria, such as demonstrating clear results and
+effectively serving underserved students.
+Oregon Secretary of State | Report 2022-10 | March 2022 | page 12
+Improve controls over purchasing card use. Improvements include requiring
+management review for at least non-standard and high-dollar transactions,
+and improving policy guidance on appropriate businesses purposes,
+taxpayer-funded meals, parties, student incentives, gifts, and use of unusual
+merchants. Also, the district should improve aggregate analysis of card use
+data to identify spending trends and unusual transactions.
+Implemented
+PPS has significantly improved its policies and procedures related to purchasing cards. New directives
+and procedures established since the original audit add supervisor reviews of transactions and
+considerable controls over purchases of meals, gifts, parties, and refreshments. The district also
+implemented new merchant category code restrictions for controlling prohibited transactions,
+established a new districtwide Amazon Prime account to improve purchasing transparency, and
+updated purchasing card appearance, guidance, and trainings aimed toward reducing infractions.
+The district’s Office of the Internal Performance Auditor recently completed a p urchasing card audit to
+address concerns such as those raised in our original audit. The district also performs a monthly
+purchasing card review that includes some analysis of purchasing trends and unusual transactions, such
+as examining:
+• key vendors;
+• high dollar transactions;
+• activity of cardholders with notable infraction histories; and
+• cardholders with unusual volumes of activity or dollar amounts charged.
+Employees with purchasing cards have increased from 385 in March 2018 to 486 in April 2021,
+underscoring the importance of maintaining and enhancing card controls.
+Ensure consistent performance evaluation depth and quality by training
+administrators to set high expectations and improve the depth of reviews.
+Periodically review evaluations for quality.
+Partially
+implemented
+PPS officials said the district has increased training for building administrators on teacher performance
+evaluations and developed a new evaluation tool for distance learning during the pandemic. The Office
+of School Performance and the Human Resources office review evaluations for quality, district officials
+said, and target performance evaluations with low ratings to provide additional support and feedback.
+However, it is not clear how much of this effort is new since our original audit. The district also did not
+provide evidence the depth and quality of evaluations has improved.
+Oregon Secretary of State | Report 2022-10 | March 2022 | page 13
+Adopt policies and practices that ensure strong management of contract and
+grant performance, particularly for non-competitive contracts and initiatives
+directly serving students, including consolidating contract management
+responsibilities.
+Partially
+implemented
+The district has focused substantial effort on improving management of contract and grant
+performance, but still has gaps in better managing contract performance.
+In 2020, PPS internal auditors issued a thorough report and made recommendations to better focus the
+district on improving contractor performance. Many of their recommendations focused on a new Scope
+of Work template, which the district has begun using for contracts that originate in the Central Office
+and involve the provision of support services to students and families with the goal of raising student
+achievement. The template is intended to improve performance management of these important
+services — typically Racial Equity and Social Justice (RESJ) initiatives — by including detailed
+information on scope, deliverables, and performance measures as part of the contract. The district also
+implemented a new contract management system accessible to all staff who work with contracts and
+expanded annual mandatory contract training that covers drafting an appropriate scope of work,
+deliverables, performance management, contract oversight, and review and documentation of contract
+performance and outcomes.
+Although the use of the new template represents an improvement since the original audit, the actual
+contracts issued with the template do not appear to include outcome performance- based measures in
+some key cases. We reviewed the templates for three RESJ contracts approved during the October
+2020 board meeting covering three important student service providers. Instead of outcome measures
+focused on student performance, they included only process-based measures, such as number of
+students served and numbers of hours per student. District officials said they are working to develop
+an evaluation framework for these and similar contracts in coming years. However, it is not clear if this
+framework will require actual outcome measures focused on improving student  performance, which do
+not appear to be required by a district policy or administrative directive.
+Another concern raised in the original audit was the district’s oversight of contracted alternative
+schools, which accounted for about 75% of the district’s dropouts. In the two cases we reviewed during
+the audit, the only thorough site visit documentation the district could provide dated to 2014. The
+documentation for the largest provider included a sparse school improvement plan and a site visit
+checkbox review by the district that checked yes for two contract requirements that did not appear to
+have been fulfilled. The district also could not provide documentation it followed up on the significant
+recommendations made in an outside review of the school. For this audit follow -up, the district said a
+new Request for Proposals for alternative schools will include updated performance measures, but it is
+not clear if these updates will address the limited oversight identified in the original audit.
+District officials said there has been a reduction in non-competitive contracts recently, but provided no
+evidence of improvements to management of non-competitive contracts, or of efforts to consolidate
+contract management responsibilities outside of contracts pertaining to RESJ initiatives.
+Oregon Secretary of State | Report 2022-10 | March 2022 | page 14
+Use the strategic planning process to evaluate the most effective and
+efficient use of contracts designed to increase student performance.
+Partially
+implemented
+As part of the strategic planning process undertaken since the original audit, the district has prioritized
+RESJ, a shift the district’s Citizen’s Budget Review Committee said has improved the district’s focus on
+underserved students. The district said it has increased funding by 62% for contracts providing family
+engagement, wraparound services, mentoring, and crisis response. The district has consolidated
+management of RESJ contracts for students and families under a senior RESJ advisor, and reviewed
+RESJ contracts for effectiveness and efficiency.
+These are significant steps. However, steps for improved performance management tied to these
+crucial contracts are still in process, and in our judgment the effectiveness of these steps remains
+uncertain. For example, district officials said the district implemented a coordinated evaluation
+framework to measure and report success, but the district’s documentation consisted of a link to
+website showing only the number of hours of service provided by individual c ontractors and the
+number of students served. It contained no information about whether student performance increased.
+The district reported efforts to collaborate with other funders of the same contractors to track impact,
+including Meyer Memorial Trust, Multnomah County, and the Portland Children’s Levy, but that effort
+appears to still be in progress as well. A third initiative designed to analyze the efficiency of PPS
+contracts focused on improving student performance, in which the district plans to ana lyze students
+served and not served at each school receiving RESJ contract services, is also underway. Officials
+stated this work is in progress but was disrupted by the pandemic.
+Six-Part Recommendation to the PPS School Board
+The PPS Board should ensure that district administrators prioritize key steps
+to improve the efficiency and effectiveness of district operations, including:
+Building an effective common core curriculum based on state standards and
+ensuring adequate school support and accountability for performance.
+Partially
+implemented
+PPS began redesigning the district’s curriculum in 2017. Several components of this new curriculum, the
+Guaranteed and Viable Curriculum (GVC), have been designed and implemented. The board has
+discussed or been presented with information on several subject areas of GVC since 2019, including
+climate/environmental justice, dyslexia, ethnic studies, health education, middle school science, and
+social emotional learning. GVC areas of language arts, math, health, and scie nce appear to be in various
+stages of development and deployment. The board has also taken steps to improve student support
+and accountability as the GVC is implemented, including the adoption of four performance goals, three
+of which focus on improving the performance of underserved students. As noted on pg 4, the district’s
+2021-22 budget substantially increased spending for instructional staff development and improvement
+of instruction. In addition, the district’s $1.2 billion bond approved by voters in November 2020 set
+aside $53.4 million for new curriculum materials and textbooks.
+However, the GVC status of some major subject areas are unclear as of this report, and the 2020-21
+Audit Committee chair’s response to our follow-up questions stated the board requested but had
+Oregon Secretary of State | Report 2022-10 | March 2022 | page 15
+received no evidence the district is tracking feedback from schools on GVC implementation  in
+classrooms. In our judgment, given the importance of effective implementation of the new curriculum,
+this is a significant gap in district practice, full board oversight, and public transparency. As noted in the
+original audit, implementing a consistent curriculum across schools helps teachers and districts set
+expectations and pinpoint problems. Consistent curriculum and teaching materials also improve equity
+for students who move between schools.
+PPS staff report they are developing an electronic tracking and reporting system for tracking progress
+on the board’s performance goals, but COVID interrupted student testing that would have provided the
+necessary data. PPS did report some recent district-specific student outcomes in a December 2021
+board work session (pg. 3).
+The PPS Board should ensure that district administrators prioritize key steps
+to improve the efficiency and effectiveness of district operations, including:
+Developing a strategic plan that focuses on long-term investment and
+measurement of results. The plan should also address the district’s
+organizational culture, including improving the district’s feedback loops and
+trust between central administrators, principals and teachers.
+Partially
+implemented
+The district has completed substantial work on a Strategic Plan. An updated Strategic Plan was shared
+with the board in June 2021, but the plan did not yet have measurable annual SMART goals or results
+metrics. District officials said they will be developed during the 2021-22 school year.
+The district has taken steps to measure organizational culture and gather feedback from principals and
+teachers. The Audit Committee response stated the board received some access to the school climate
+survey dashboard and they received updates on school climate survey results for 2020. However, there
+is no evidence the board has discussed efforts to strengthen feedback loops between the central office
+and schools, despite evidence (pg. 6
+) that the district still has significant problems with student
+conduct and teacher communication.
+The PPS Board should ensure that district administrators prioritize key steps
+to improve the efficiency and effectiveness of district operations, including:
+Addressing inequities at high-poverty schools, such as high turnover, low
+teacher experience, and initiative overload.
+Partially
+implemented
+PPS has added staff at high-poverty schools and, as noted in the original audit, added support
+instructors to support teachers and fill substitute gaps at high-poverty schools. The board reports
+that, along with district staff, it has discussed improvement strategies to support schools in board
+meetings and in executive sessions.
+At the 2021 Audit Committee’s request, made after we submitted follow-up questions, the district
+provided a list of administrator turnover at high-poverty schools and schools designated for
+improvement, though it does not appear the board publicly reviewed or discussed this data. The board
+does not appear to have received or reviewed any data on teacher turnover in these schools, teacher
+experience levels relative to experience levels in other schools, or initiative overload at high -poverty
+Oregon Secretary of State | Report 2022-10 | March 2022 | page 16
+schools and other schools designated for improvement. In our judgment, this is a significant gap in
+board oversight and public transparency, particularly given the board’s equity focus. O ur original audit
+found high-poverty schools face disproportionately high principal and teacher turnover,
+disproportionately low teacher experience, and disproportionately high initiative overload.
+The PPS Board should ensure that district administrators prioritize key steps
+to improve the efficiency and effectiveness of district operations, including:
+Improving the transparency and impact of the district’s budget, including
+objective peer comparisons, analysis of results, and analysis of potential
+savings areas.
+Partially
+implemented
+Since the original audit, the board has taken several important steps that should help improve the
+budget’s transparency and impact. The board established an internal audit office, approved purchase of
+Cloud Service budget software expected to improve monitoring and analysis of spending patterns and
+authorized the adoption of software that allows analysis and spending comparisons with peer districts.
+The board has also received reports on its performance goals, but results for the goals were not
+included in the most recent budget. There is no evidence the board has discussed detailed
+benchmarking results or potential savings areas in depth with district management. The board also
+received a list of projects funded by the state Student Investment Account, but it was an initial
+progress report and did not analyze results or cost effectiveness in any detail.
+The PPS Board should ensure that district administrators prioritize key steps
+to improve the efficiency and effectiveness of district operations, including:
+Tracking and addressing teacher and principal issues with student discipline
+practices and priorities.
+Partially
+implemented
+The district has begun steps to address discipline issues, with the board extensively involved in a
+proposed revision of the district’s student conduct and discipline policy during the  2019-20 school
+year. That process included feedback from parents, teachers, principals, and other school
+administrators, such as listening sessions and work sessions with the board’s policy committee.
+However, it is unclear how much feedback the district received from teachers at the 38 Title I schools
+and other schools needing improvement during the student conduct policy process. The district’s
+listening sessions specifically included feedback from teachers at Cleveland, Lincoln, and Madison high
+schools. These schools are not among the 38 schools identified as Title I or schools needing
+improvement, though Jefferson and Roosevelt high schools are. The original audit found significant
+discipline-related concerns among teachers at Title I schools.
+It is also unclear if district leadership regularly receives ongoing feedback from teachers aside from
+monthly meetings with PAT union leaders, and whether the district performs ongoing tracking of
+teacher and principal concerns with student discipline practices and priorities. The Audit Committee’s
+response to our follow-up questions stated district officials did not respond to recent requests for this
+information. In our judgment, this omission is also a significant gap in board oversight and public
+transparency. As with teacher turnover, teacher experience, and initiative overload at high -poverty
+Oregon Secretary of State | Report 2022-10 | March 2022 | page 17
+schools, teacher and principal issues with student discipline disproportionately affect high -poverty
+schools, creating additional educational inequities.
+The PPS Board should ensure that district administrators prioritize key steps
+to improve the efficiency and effectiveness of district operations, including:
+Improving control of purchasing card transactions, contract performance
+management, and the oversight of key contracts.
+Partially
+implemented
+The district and board have made significant progress on improving oversight of purchasing card
+transactions. However, oversight of key contracts remains limited.
+In 2020, the board passed a new purchasing card policy covering numerous problem areas identified in
+the original audit, such as meals, refreshments, gifts, and parties. The board also approved internal
+audits on contracting at the district and on purchasing card controls. In October 2020, the district
+began publicly posting specialized Scope of Work information for each student, instructional, or family
+engagement contract on the board.
+Some of the board’s contract oversight practices remain a concern. The board currently does not
+review any non-competitive contracts under $150,000; staff told the Audit Committee it was time
+intensive to create the reports and they no longer would be provided. In addition, the performance of
+multi-year contracts solicited with a Request for Proposals process — including key contracts for
+services to underserved students and their families — are not annually reviewed by the board but are
+subject to what the district describes as a rigorous review when the contract is initiated.
+For contracted alternative schools, The board’s Charter School and Alternative Programs Commit tee
+annually reviews high-level outcome data, but does not review results for individual schools, school
+improvement plans, or site reviews by staff. The original audit found limited site visit documentation
+and no evidence the district had followed up on recommendations made in an outside review of the
+district’s largest alternative school.
+Conclusion
+Since the original audit was issued in January 2019, PPS has made significant progress in several key
+areas despite complications posed by the pandemic. The district developed a strategic plan, improved
+management of purchasing cards and contracts, and increased investments in teacher professional
+development. Helped by increased state and federal funding, PPS also increasing support staff and
+contracts providing student and family support at high-poverty schools.
+However, our follow-up work indicates PPS management needs to do more in key areas, among them:
+• Focusing on high principal and teacher turnover and low teacher experience at high -
+poverty schools.
+• Addressing transfer and hiring issues that promote high turnover and lower teacher
+experience at high-poverty schools.
+• Establishing a clear and candid feedback loop with teachers on student conduct issues and
+classroom disruption at high-poverty schools.
+• Conducting in-depth and public benchmarking of spending against comparable peers.
+Oregon Secretary of State | Report 2022-10 | March 2022 | page 18
+Our final recommendation was addressed to the PPS School Board. Although we found some
+indications of strong oversight by the board, we also found significant gaps . On spending, the board has
+not ensured management is benchmarking or investigating in depth to identify savings areas and direct
+more money to the classroom. On equity issues, the board does not appear to have focused on
+principal turnover at high-poverty schools or received or reviewed any information on teacher
+turnover in high-poverty schools, teacher experience levels relative to experience levels in other
+schools, initiative overload, teacher and principal issues with student discipline , or school feedback on
+implementation of the district’s new curriculum.
+Making progress in these areas requires tackling difficult and potentially controversial staffing and
+financial issues. However, doing so can help increase the performance of the district’s African -
+American, Latino, and economically disadvantaged students, an area where the original audit found PPS
+lagged its peers. Given national trends and the PPS-specific achievement testing during the COVID-19
+pandemic, it is likely many of these students have suffered significant academic setbacks during the
+pandemic, further increasing the urgency of reducing inequities at the di strict’s high-poverty schools.
+This report is intended to promote the best possible management of public resources.
+Copies may be obtained from:
+Oregon Audits Division
+255 Capitol St NE, Suite 500
+Salem OR 97310
+(503) 986-2255
+audits.sos@oregon.gov
+sos.oregon.gov/audits

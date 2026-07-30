@@ -1,0 +1,267 @@
+S
+tate of Oregon
+OREGON INTERMEDIATE TERM POOL
+A
+n Investment Pool of the State of Oregon
+F
+inancial Statements
+For the Year Ended June 30, 2023
+This page intentionally left blank
+OR
+EGON INTERMEDIATE TERM POOL
+TABLE OF CONTENTS
+Page
+Independent Auditor’s Report .......................................................................................................... 1-3
+Financial Statements:
+Statement of Net Position .......................................................................................................... 4
+Statement of Changes in Net Position ....................................................................................... 6
+Notes to Financial Statements .............................................................................................. 8-12
+Other Reports
+Report on Internal Control over Financial Reporting
+and on Compliance and Other Matters ..................................................................................... 14-15
+T
+his page intentionally left blank.
+Independent Auditor’s Report
+Report on the Audit of the Financial Statements
+
+
+
+
+Other Reporting Required by Government Auditing Standards
+State of Oregon
+OREGON INTERMEDIATE TERM POOL
+Statement of Net Position
+June 30, 2023
+(Dollars in Thousands)
+Assets:
+Cash and Cash Equivalents 135$
+Investments 310,574
+Accrued Interest Receivable 1,716
+Total Assets 312,425
+Liabilities:
+Total Liabilities -
+Net Position:
+Held in Trust for Participants 312,425
+Total Net Position 312,425$
+The accompanying notes are an integral part of the financial statements.
+This page intentionally left blank
+State of Oregon
+OREGON INTERMEDIATE TERM POOL
+Statement of Changes in Net Position
+For the Year Ended June 30, 2023
+(Dollars in Thousands)
+Additions
+Investment Earnings:
+Interest, Dividends and Other 11,921$
+Net Decrease in Fair Value of Investments (10,899)
+Securities Lending Income 78
+Total Investment Earnings 1,100
+Less Investment Costs:
+Investment Activity Costs (Note 4) 211
+Securities Lending Costs 42
+Net Investment Earnings 847
+Participant Account Transactions:
+Participants' Contributions 12,320
+Participants' Withdrawals (11,295)
+Net Increase as a Result of Participant Transactions 1,025
+Change in Net Position Held in Trust for Participants 1,872
+Net Position - Beginning 310,553
+Net Position - Ending 312,425$
+The accompanying notes are an integral part of the financial statements
+This page intentionally left blank
+OREGON INTERMEDIATE TERM POOL
+Notes to Financial Statements
+June 30, 2023
+(1) Summary of Significant Accounting Policies
+Reporting Entity   The Oregon Intermediate Term Pool (“Pool”) is a n intermediate term fixed income
+investment vehicle.  Several state agencies participate in the Pool. During the year ended June 30, 2023 the
+Pool did not have any non-agency entity participants, thus it is an internal investment pool.
+The Pool is not registered with the U.S. Securities and Exchange Commission as an investment company.
+The State’s investment policies are governed by Oregon Revised Statutes and the Oregon Investment Council
+(Council).  The State Treasurer is the investment officer fo r the Council and is responsible for all funds
+entrusted to the Oregon State Treasury (OST).  These funds must be invested, and the investments managed,
+as a prudent investor would, exercising reasonable care, skill and caution.  Investments in the Pool are further
+governed by guidelines approved by the Council, establishing diversification percentages and specifying the
+types and maturities of investments.  The Pool  guidelines permit securities lending transactions as well as
+investments in repurchase and reverse repurchase agreements.  Pool guidelines are discussed in greater detail
+in the Investments section of Note 2.
+The Pool is authorized under ORS 293.861 and ORS 293.863.  Standards for investment of the pool may be
+found in ORS 293.701  to 293.857.  Pursuant to ORS 293.863 (5), state agencies have the opportunity to
+participate in this investment pool subject to application requiring evidence of statutory authority to invest in
+the Pool and subsequent approval by the OST.
+Basis of Accounting   These statements are prepared using the economic resources measurement focus and
+the accrual basis of accounting.  Trade date accounting is observed, which means that purchases and sales of
+securities are recorded on the day the trade takes place with a corresponding payable to or receivable from
+the broker.  Changes in the fair value of investments are recognize d daily.  The fair value of investments is
+determined daily and is equal to market price.
+Cash and Cash Equivalents   Investments with original maturities of three months or less are considered
+cash equivalents and are reported at amortized cost, which app roximates fair value.  Cash Equivalents also
+include any cash held with the custodian, and amounts invested in the Oregon Short  Term Fund (OSTF),
+which is an external investment pool open to state agencies and local governments that acts as a demand
+deposit account.
+Investments   Investments with remaining maturities of  less than ninety days are carried at amortized cost,
+provided that the fair value of these instruments is not significantly affected by the impairment of the credit
+standing of the issuer or by other factors.  Amortized cost approximates fair value.  Investments with longer
+maturities are carried at fair value.
+Participants’ equity; distributions of interest    The value of each participant’s investment is determined on
+a proportional basis to the net market value of the entire portfolio.   Shares of the Pool  represent a divisible
+interest in the net value of underlying investments, accrued income and expenses. Interest income and capital
+gains are not distributed to participants but are reflected in the underlying net position.
+OREGON INTERMEDIATE TERM POOL
+Notes to Financial Statements
+June 30, 2023
+(2) Investments
+Investments   On June 30, 2023, the Pool reported investments of $310.7 million of which $135 thousand is
+classified as Cash and Cash Equivalents on the Statement of Net Position.  The Pool’s guidelines establish
+the Pool’s permitted investments and parameters for managing the various types of risk associated with these
+investments (see the current portfolio guidelines a t (https://www.oregon.gov/treasury/invested-for-
+oregon/pages/oregon-intermediate-term-investments.aspx#OITP.) T h e different risks will be discussed
+below.
+Schedule of Investment Characteristics
+(Dollars in Thousands)
+Investment Type Par Value
+Reported
+Amount
+Weighted Average
+Coupon
+Weighted Average
+Modified Duration
+Cash and Cash Equivalents (1)  $                   135  $                  135 4.05 0.42
+Asset-Backed Securities                  35,100                 33,101 3.10 2.60
+Commercial Mortgage-Backed Securities                    4,513                   4,057 4.82 2.64
+U.S Agency Residential Mortgage-Backed Securities                  19,746                 17,047 4.78 6.36
+Municipal Debt                    2,658                   2,636 4.85 2.80
+Corporate Debt                  82,168                 76,598 4.36 4.16
+U.S. Treasury Debt                181,624               177,135 3.62 4.10
+Total 325,944$            310,709$           3 .84 4.05
+(1) Cash and Cash Equivalents include $135 invested in the OSTF.
+A. Interest rate and Credit risk
+Interest rate risk is the risk that changes in interest rates will adversely affect the fair value of an investment.
+OST Investment staff manages this risk by limiting the duration of investments held by the Pool.  The portfolio
+guidelines require that the portfolio’s modified duration, a measure of interest rate risk, shall not exceed three
+years. The weighted average duration for the Pool at June 30, 2023 was 4.05 years.  The maximum maturity
+for any single investment should not be greater th an 10.25 years from settlement date, with exceptions for
+asset-backed securities,  mortgage- backed securities,  and commercial mortgage -backed securities. These
+securities use weighted average life (WAL) as a proxy for maturity and are limited to a WAL of five  years,
+or less, at the time of purchase.
+Credit risk is the risk that an issuer or other counterparty to an investment will not fulfill its obligation.  The
+Pool’s guidelines require that all investments meet minimum ratings requirements at the time of pu rchase.
+Minimum required ratings are subject to investment type as dictated by the Pool’s guidelines.
+Corporate notes and municipal debt must be rated investment grade or higher at time of purchase.  Foreign
+government securities are required to have a minimum credit rating of AA- or Aa3 by at least two Nationally
+Recognized Statistical Rating Organizations (NRSROs) .  Structured securities such as asset -backed and
+mortgage-backed securities must be rated AAA at the time of purchase.
+OREGON INTERMEDIATE TERM POOL
+Notes to Financial Statements
+June 30, 2023
+Securities downgraded below investment grade can be retained at the Senior Investment Officer’s discretion.
+Rating groups are determined using the lowest actual rating from an NRSRO and are shown below:
+B. Custodial credit risk
+Custodial credit risk for investments is the risk that, in the event of the failure of the counterparty to a
+transaction, the pool will not be able to recover the value o f an investment or collateral securities in the
+possession of an outside party.  The Pool’s guidelines provide that investments are delivered to and held by
+a third-party custodian, which holds the Pool’s securities in the S tate of Oregon’s name.  All trad es where
+applicable are executed by delivery vs. payment (DVP) to ensure that securities are deposited in an eligible
+financial institution prior to the release of funds.
+C.  Concentration of credit risk
+Concentration of credit risk is the risk of loss attributed to the magnitude of a fund’s investment in a single
+issuer.  The Pool guidelines provide that the maximum that may be invested in any one issuer, as a percentage
+of the Pool’s total investments is five percent, excluding the OSTF, U.S. Treasuries or U.S. Federal Agencies
+or instrumentalities.  The Pool may invest up to 100 percent in those securities.   On June 30, 2023, the Pool
+did not hold investments with any one issuer that exceeded these limi ts.  The schedule below lists issuers
+where holdings are greater than 5 percent at the parent level.
+Issuer Name Reported Amount Percent of Holding
+U.S Treasury  $                    177,187 57.0%
+Schedule of Parent Leve Issuers - Holdings Greater Than Five Percent
+(Dollars in Thousands)
+Investment Type
+Weighted
+Average
+M
+odified
+Duration
+Reported
+Amount AAA AA A BBB BB No t Rated Exe mpt
+Asset-Backed Securities 2.60 33,101 $      13,642 $     12,509 $     4,992 $       1,958 $       - $           - $           - $
+Commercial Mortgage Backed Securities 2.64 4,057           3,075          -              499             483             -              -              -
+U.S. Agency Residential Mortgage-Backed Securities (1) 6.36 17,047         -              15,540        1,507          -              -              -              -
+Municipal Debt 2.80 2,636           2,636          -              -              -              -              -              -
+Corporate Debt 4.16 76,598         -              -              32,089        43,770        739             -              -
+U.S. Treasury Debt 4.10 177,135       -              -              -              -              -              -              177,135
+External Investment Pool (2) 0.42 135              -              -              -              -              -              135             -
+Total 310,709 $    19,353 $     28,049 $     39,087 $     46,211 $     739 $          135 $          177,135 $
+(1) U.S. federal debt carries an implicit guarantee of the U.S. Government.  For credit quality rules, federal debt is considered to be highest quality, except when rated differently.
+(2) The Oregon Short Term Fund is not rated by the credit ratings agencies.  The composite credit quality rating of the OSTF's holdings was  AA at June 30, 2023.
+Interest Rate Risk and Credit Risk
+(Dollars in Thousands)
+OREGON INTERMEDIATE TERM POOL
+Notes to Financial Statements
+June 30, 2023
+D. Foreign currency risk
+The Pool guidelines prohibit investments that are not  U.S. dollar-denominated; therefore, the Pool is not
+exposed to this risk.
+(3)  Securities Lending
+The OST has authorized its custodian to act as its agent in the lending of the Pool ’s securities pursuant to a
+form of loan agreement, in accordance with Pool  investment policies.  There have been no significant
+violations of the provisions of the securities lending agreement.   The State’s securities lending agent lent
+short-term and fixed income securities and received as collateral U.S. dollar -denominated cash.  Borrowers
+were required to deliver cash collateral for each loan equal to not less than 102 percent of the market value
+of the loaned security.  The State may  pledge or sell the collateral securities received only in the event of a
+borrower default.  The State has the ability to impose restrictions during the year on the amount of the loans
+that the securities lending agent made on its behalf, but did not impose any such limits during the year ended
+June 30, 2023.  The State is fully indemnified by its securities lending agent against losses due to borrower
+default.  There were no losses during the year from the failure of borrowers to return loaned securities.
+The Pool’s lending agent uses a fund to reinvest cash collateral received on behalf of the OITP and other
+Oregon state agencies managed by the OST, exclusive of the Oregon Public Employees Retirement Fund.
+There were no securities on loan at June 30, 2023.
+The State and borrowers maintained the right to terminate all securities lending transactions on demand.  As
+a consequence the maturities of investments made with cash collateral generally do not match the maturities
+of the securities loans.  As of June 30, 2023, the State had no credit risk exposure to borrowers  related to
+securities on loan.
+(4)     Management Fees
+In accordance with ORS 293.718, the OST may deduct monthly 0.435 basis points of the most recent market
+value of assets under management for administration and portfolio management.  For the year ended June 30,
+2023 the OST charged the Pool a monthly rate of 0.435 basis points based on assets under management in
+the Pool.  Fees are deducted from investment income before distributions to participants.  Fees and other
+expenses charged to the Pool totaled $211 thousand for the year ended June 30, 2023.
+(5)   Fair Value Measurements
+Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability in an
+orderly transaction between market participants at the measurement date.   Observable inputs are developed
+based on market data obtained from sources independent of the reporting entity.  Unobservable inputs are
+developed based on the best information available about the assumptions market participants would use in
+OREGON INTERMEDIATE TERM POOL
+Notes to Financial Statements
+June 30, 2023
+pricing the asset.  The classific ation of securities within the fair value hierarchy is based upon the activity
+level in the market for the security type and the inputs used to determine their fair value, as follows:
+• Level 1 – Unadjusted quoted prices for identical instruments in active markets.
+• Level 2 – Quoted prices for similar instruments in active markets; quoted prices for identical or
+similar instruments in markets that are not active; and model- derived valuations in which all
+significant inputs are observable.
+• Level 3 – Valuations derived from valuation techniques in which significant inputs are unobservable.
+Lev el 1 Lev el 2 Lev el 3 Total
+Investm ents:
+Asset-Backed Securities -$                   33,101$             -$                   33,101$
+Commercial Mortgage-Backed Securities -                     4,057                 -                     4,057
+U.S. Agency Residential Mortgage-Backed Securities -                     17,047               -                     17,047
+Municipal Debt -                     2,636                 -                     2,636
+Corporate Debt -                     76,598               -                     76,598
+U.S. Treasury Debt -                     177,135             -                     177,135
+Total -$                  310,574$         -$                  310,574$
+Assets and Liabilities at Fair Value as of June 30, 2023
+Fair Value Measurements
+(Dollars in Thousands)
+The Pool’s investments, other than those with remaining maturities of fewer than ninety days, are valued
+using the latest bid prices or evaluated quotes from independent pricing vendors.  The third-party vendors use
+a variety of methods when pricing these securities that incorporate relevant observable market data to arrive
+at an estimate of what a buyer in the marketplace would pay for a security under current market conditions.
+Investments with remaining maturities of fewer than ninety days are carried at amortized cost, which
+approximates fair value.  All of the Pool’s investments at June 30, 2023 are considered level 2.
+OTHER REPORTS
+Independent Auditor’s Report on Internal Control over
+Financial Reporting and on Compliance and Other Matters
+Based on an Audit of Financial Statements Performed in
+Accordance With Government Auditing Standards
+Report on Internal Control over Financial Reporting
+Report on Compliance and Other Matters
+Purpose of this Report

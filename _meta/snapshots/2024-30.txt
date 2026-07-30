@@ -1,0 +1,2224 @@
+VETERANS’  LOAN  PROGRAM
+ANNUAL  FINANCIAL  REPO RT
+AN ENTERPRISE FUND OF THE OREGON DEPARTMENT OF VETERANS' AFFAIRS
+FOR THE YEAR ENDING JUNE 30 , 2024
+Annual Financial Report
+Veterans’ Loan Program
+Enterprise Fund of the
+Oregon Department of Veterans’ Affairs
+An Agency of the State of Oregon
+For The Fiscal Year Ended
+June 30, 2024
+Dr. Nakeia Daniels
+Director
+Nicole Dolan
+Interim Chief Financial Officer
+TTAABBLLEE  OOFF  CCOONNTTEENNTTSS
+INTRODUCTORY SECTION
+Letter of Transmittal ....................................................................................................................... ii
+Organization Chart ........................................................................................................................ v
+FINANCIAL SECTION
+Independent Auditor's Report…………………………………………………………………...……....2
+Management’s Discussion and Analysis……………………………………………………………….5
+Veterans’ Loan Program Basic Financial Statements
+Statement of Net Position – Proprietary Fund .............................................................................. 9
+Statement of Revenues, Expenses, and Changes in Fund Net Position - Proprietary Fund ..... 10
+Statement of Cash Flows - Proprietary Fund ............................................................................. 11
+Notes to the Financial Statements.............................................................................................. 13
+STATISTICAL SECTION
+Assets, Liabilities and Net Position – 10-Year Historical Data ................................................... 32
+Revenues, Expenses, and Changes in Net Position – 10-Year Historical Data ........................ 34
+Principal Balance of Bonds Outstanding .................................................................................... 36
+Loans and Contracts Outstanding .............................................................................................. 37
+Loan and Contract 90+ Day Delinquencies ................................................................................ 38
+Loans and Contracts Outstanding by County ............................................................................. 39
+OTHER REPORTS
+Report on Internal Control and Compliance  .............................................................................. 42
+Oregon Department of Veterans’ Affairs
+Director’s Office
+700 Summer Street NE
+Salem, Oregon 97301
+Phone (503) 373‐2383
+www.oregon.gov/odva
+ii
+October 11, 2024
+To the Honorable Tina Kotek and Citizens of the State of Oregon:
+We are pleased to provide you with the Ann ual Financial Report of the Oregon Department of
+Veterans' Affairs (the "Department") Loan Program Enterprise fund, for the fiscal year ended June
+30, 2024.
+This report is organized and presented in four sections. The  Introductory Section includes this
+transmittal letter and an organizational chart. The  Financial Section  includes the independent
+auditor's report, management’s discussion and analysis, the financial statements and
+accompanying notes. The Statistical Section  includes selected financial and programmatic
+information, much of which is presented on a multi-year basis. The Other Reports section includes
+the independent auditor’s report on compliance and internal control over financial reporting.
+Department management assumes full responsibility for the completeness and reliability of the
+information contained in this report, based upon a comprehensive framework of internal control that
+it has established for this purpose.  Because the cost of internal c ontrol should not exceed
+anticipated benefits, the objective is to provide reasonable, rather than absolute, assurance that the
+financial statements are free of any material misstatements.
+The Oregon Secretary of State Audits Division audited the Department’s Loan Program Enterprise
+Fund for the year ended June 30, 2024.  Their unmodified opinion on the Enterprise Fund financial
+statements is included in the Financial Section of this report.
+Management’s discussion and analysis (MD&A) immediately follows the independent auditor’s
+report and provides a narrative introduction, overview and analysis of the basic financial statements.
+This letter of transmittal is designed to complement the MD&A and should be read in conjunction
+with it.
+OREGON ECONOMY
+Recent Trends –  According to excerpts from the June 2024 Oregon Economic and Revenue
+Forecast from the Oregon Office of Economic Analysis (OEA):
+Economic Summary
+The U.S. economy remains in an inflationary economic boom, albeit one that has cooled
+somewhat over the past year and a half. Real GDP is growing above potential, putting
+resources to use faster than they are being created or expanded. Both employment and
+income gains continue, allowing households to spend even as prices are rising faster than
+the Federal Reserve’s target. Even as households report being pessimistic about the
+economy, and consumer confidence is low, spending continues apace.
+Oregon Department of Veterans’ Affairs
+Director’s Office
+700 Summer Street NE
+Salem, Oregon 97301
+Phone (503) 373‐2383
+www.oregon.gov/odva
+iii
+Inflation and the Federal Reserve
+To date there has yet to be significant slowing in the economy that would lead to inflation
+returning to the Federal Reserve’s two percent target. Given the strong economic growth,
+inflation has perked back up in recent months, leading to year-over-year inflation holding
+steady around three percent. This is slower than the rate of inflation back in 2022, in large
+part due to healing supply chains, and somewhat slower wage gains, but still not enough to
+bring inflation fully back to target, at least not yet.
+Outlook
+Historically Oregon’s economy has grown at an above-average rate compared to nation
+overall. Oregon is generally more volatile, with local recession deeper, and expansions
+stronger than those experienced in the typical state. The pandemic cycle has been different.
+The initial economic shock was about the same size in Oregon as it was nationally. Over the
+entire cycle to date, Oregon’s economy in terms of jobs and income is in the middle of the
+pack across all states. Furthermore, over the past year Oregon’s payroll job growth has been
+among the lowest, with essentially no job growth in that time. This is nearly unheard of in the
+state’s modern history. Oregon personal income growth is relatively stronger than that,
+ranking 16th fastest across all states, with wage gains ranking 27th fastest in the past year.
+Even so, it is clear that Oregon’s macroeconomy is not outpacing the nation so far this cycle.
+MAJOR INITIATIVES
+Current Service Efforts and Accomplishments - Article XI-A of the Oregon Constitution outlines
+the broad duties of the Department. The primary Oregon Revised Statutes (ORS) governing the
+Department are Chapters 406 through 408.
+The Veterans' Loan Program provides home loans to Oregon veterans at favorable interest rates.
+Both federal and State laws govern eligibility requirements on who may receive a veterans' home
+loan. As of June 30, 2024, this Program had approximately 1,560 mortgage loans and contracts
+outstanding, with a principal balance of approximately $390.6 million.
+FINANCIAL INFORMATION
+Enterprise Fund - The Veterans' Loan Program is an enterprise fund which is used to account for
+the Department’s business-type activities.
+At June 30, 2024, the Veterans' Loan Program had approximately $589 million in assets (primarily
+consisting of cash and cash equivalents and loan and contract receivables) and approximately $447
+million in liabilities  (primarily consisting of general obligation bonds) . Revenues from the
+Department's home loan program are primarily generated through interest on loans originated and
+investment income. These revenues are used to pay interest expense on outstanding debt and
+related program and administrative expenses.
+Oregon Department of Veterans’ Affairs
+Director’s Office
+700 Summer Street NE
+Salem, Oregon 97301
+Phone (503) 373‐2383
+www.oregon.gov/odva
+iv
+Debt Administration -  The Department, with the approval of the State Treasurer's office, has
+authority to issue general obligation bonds to fund the home loan program. The Department's
+general obligation bonds are rated as part of the State of Oregon's general obligation bond program.
+As of June 30, 2024, the Department's long-term general obligation bonds were rated as follows:
+Moody's Investor Service Aa1
+Fitch Ratings   AA+
+Standard & Poor's  AA+
+As of June 30, 2024, the Department had approximately $415 million (par value) in outstanding
+bonds. During fiscal year 2024, approximately $50 million in new bonds were issued and
+approximately $25 million in bonds were retired.
+Cash Management - All monies collected by the Department are turned over to the State Treasurer,
+who is responsible for the control of cash and the investment of State funds (excluding funds held
+by the loan cancellation life insurance carrier).  On June 30, 2024, the Department's Loan Program
+cash, cash equivalents  (excluding securities lending collateral),  and investments totaled
+approximately $179 million.
+The Oregon Investment Council, of which the State Treasurer is a member, establishes investment
+policy for all State of Oregon funds. To further Oregon's economic growth, the Council's continuing
+policy has been to invest locally when investments of comparable yield, quality, and maturity can
+be found in state without damaging portfolio diversity. Fortunately for Oregonians, State-imposed
+safeguards minimize the dangers of investing in highly leveraged financial instruments that have
+been a cause of national concern. The State Treasurer pools all available cash into the Oregon
+Short-Term Fund from which investments are made in a variety of financial instruments.
+Acknowledgements -  The preparation of this report reflects the combined efforts of the
+Department's staff. The professionalism, commitment, and effort of the individuals involved are very
+much appreciated.
+Respectfully submitted,
+_________________________  _________________________
+Dr. Nakeia Daniels   Nicole Dolan
+Director    Chief Financial Officer
+Aging
+- Oregon Veterans’ Homes – The Dalles
+- Oregon Veterans’ Homes – Lebanon
+- Conservatorship & Rep Payee
+- Veteran Volunteer Program
+- Aging Veteran Outreach
+GOVERNOR’S OFFICE
+DIRECTOR’S OFFICE
+DEPUTY DIRECTOR
+*ADVISORY COMMITTEE
+STRATEGIC
+COMMUNICATIONS
+INTERNAL AUDITOR
+LEGISLATIVE & POLICY
+INFORMATION SERVICESFINANCIAL SERVICES HUMAN RESOURCESAPPEALS & SPECIAL
+ADVOCACYAGING VETERAN SERVICES STRATEGIC PARTNERSHIPS
+- Claims and Appeals
+- Training, Certification & Outreach
+- LGBTQ+ Veterans
+- Women Veterans
+- Houseless Veterans
+- Tribal Veterans
+- Incarcerated Veterans
+- Grants
+- Veteran Services Grant
+- Campus Vet Resource Center Grant
+- Veteran Educational Bridge Grant
+- Vet Emergency Financial Assistance
+- State Approving Agency
+- Home Loan Program
+- Facility and Construction
+- Financial Management
+- Accounting & Cashiers
+- Information Services
+- Records & Information Management
+- Human Resources
+- Public Information Office
+- Front Desk Reception Office
+*The Advisory Committee is a nine-member advisory body appointed by the
+Governor for four-year terms. The committee advises the Director concerning
+matters of the operations of the Department and issues affecting veterans and
+their dependents and survivors who reside in the state.
+ADVISORY COMMITTEE MEMBER TERM EXPIRES
+James A. Gardner November 30, 2024
+Christine Gittins September 30, 2023
+John F. Howard March 15, 2024
+Reynold L. Leno March 15, 2024
+Nell Stamper November 30, 2023
+Bob Van Voorhis April 30, 2023
+Christina V. Wood November 17, 2024
+Christopher Waine March 15, 2026
+Vacant Position
+Revised Aug 2023
+ORGANIZATIONAL CHART 2023-25 BIENNIUM
+v
+This page intentionally left blank
+FINANCIAL SECTION
+Kip Memmott
+Division Director
+255 Capitol St NE, Ste 180
+Salem, Oregon 97310
+LaVonne Griǆn-Valade Cheryl Myers Information (503) 986-2255
+Oregon Secretary of State  Deputy Secretary & Tribal Liaison sos.oregon.gov/audits
+Independent Auditor’s Report
+The Honorable Tina Kotek
+Governor of Oregon
+Dr . Nakeia Daniels, Director
+Oregon Department of Veterans’ Aǅairs
+Report on the Audit of the Financial Statements
+Opinion
+We have audited the ﬁnancial statements of the Veterans’ Loan Program, an enterprise fund of the State of
+Oregon, Department of Veterans’ Aǅairs (department), as of and for the year ended June 30, 2024, and the
+related notes to the ﬁnancial statements, as listed in the table of contents.
+In our opinion, the accompanying ﬁnancial statements referred to above present fairly , in all material
+respects, the ﬁnancial position of the Veterans’ Loan Program, as of June 30, 2024, and the changes in its
+ﬁnancial position and cash ﬂows for the year then ended in accordance with accounting principles generally
+accepted in the United States of America.
+Basis for Opinion
+We conducted our audit in accordance with auditing standards generally accepted in the United States of
+America (GAAS) and the standards applicable to ﬁnancial audits contained in Government Auditing
+Standards, issued by the Comptroller General of the United States. Our responsibilities under those
+standards are further described in the Auditor’s Responsibilities for the Audit of the Financial Statements
+section of our report. We are required to be independent of the department, and to meet our other ethical
+responsibilities, in accordance with the relevant ethical requirements relating to our audit. We believe that
+the audit evidence we have obtained is suǆcient and appropriate to provide a basis for our opinion.
+Emphasis of Matter
+As discussed in Note 1, the ﬁnancial statements present only the Veterans’ Loan Program and do not
+purport to, and do not, present fairly the ﬁnancial position of the State of Oregon or the department, as of
+June 30, 2024, the changes in its ﬁnancial position or its cash ﬂows for the year then ended in accordance
+Audits Division
+with accounting principles generally accepted in the United States of America. Our opinion is not modiﬁed
+with respect to this matter .
+Responsibilities of Management for the Financial Statements
+Management is responsible for the preparation and fair presentation of these ﬁnancial statements in
+accordance with accounting principles generally accepted in the United States of America, and for the
+design, implementation, and maintenance of internal control relevant to the preparation and fair
+presentation of ﬁnancial statements that are free from material misstatement, whether due to fraud or error .
+Auditor’s Responsibility for the Audit of the Financial Statements
+Our objectives are to obtain reasonable assurance about whether the ﬁnancial statements as a whole are
+free from material misstatement, whether due to fraud or error , and to issue an auditor’s report that includes
+our opinion. Reasonable assurance is a high level of assurance but is not absolute assurance and therefore
+is not a guarantee that an audit conducted in accordance with GAAS and Government Auditing Standards
+will always detect a material misstatement when it exists. The risk of not detecting a material misstatement
+resulting from fraud is higher than for one resulting from error , as fraud may involve collusion, forgery ,
+intentional omissions, misrepresentations, or the override of internal control. Misstatements are
+considered material if there is a substantial likelihood that, individually or in the aggregate, they would
+inﬂuence the judgment made by a reasonable user based on the ﬁnancial statements.
+In performing an audit in accordance with GAAS and Government Auditing Standards, we
+ exercise professional judgment and maintain professional skepticism throughout the audit.
+ identify and assess the risks of material misstatement of the ﬁnancial statements, whether due to
+fraud or error , and design and perform audit procedures responsive to those risks. Such
+procedures include examining, on a test basis, evidence regarding the amounts and the
+disclosures in the ﬁnancial statements.
+ obtain an understanding of internal control relevant to the audit in order to design audit procedures
+that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the
+eǅectiveness of the department’s internal control. Accordingly , no such opinion is expressed.
+ evaluate the appropriateness of accounting policies used and the reasonableness of signiﬁcant
+accounting estimates made by management, as well as evaluate the overall presentation of the
+ﬁnancial statements.
+We are required to communicate with those charged with governance regarding, among other matters, the
+planned scope and timing of the audit, signiﬁcant audit ﬁndings, and certain internal control-related matters
+that we identiﬁed during the audit.
+Required Supplementary Information
+Accounting principles generally accepted in the United States of America require that the management’s
+discussion and analysis be presented to supplement the basic ﬁnancial statements. Such information is
+the responsibility of management and, although not a part of the basic ﬁnancial statements, is required by
+Audits Division
+the Governmental Accounting Standards Board who considers it to be an essential part of ﬁnancial
+reporting for placing the basic ﬁnancial statements in an appropriate operational, economic, or historical
+context. We have applied certain limited procedures to the required supplementary information in
+accordance with auditing standards generally accepted in the United States of America, which consisted of
+inquiries of management about the methods of preparing the information and comparing the information for
+consistency with management’s responses to our inquiries, the basic ﬁnancial statements, and other
+knowledge we obtained during our audit of the basic ﬁnancial statements. We do not express an opinion or
+provide any assurance on the information because the limited procedures do not provide us with suǆcient
+evidence to express an opinion or provide any assurance.
+Other Information
+Management is responsible for the other information included in the report. The other information
+comprises the introductory and statistical sections but does not include the basic ﬁnancial statements and
+our auditor’s report thereon. Our opinion on the basic ﬁnancial statements does not cover the other
+information, and we do not express an opinion or any form of assurance thereon.
+In connection with our audit of the basic ﬁnancial statements, our responsibility is to read the other
+information and consider whether a material inconsistency exists between the other information and the
+basic ﬁnancial statements, or the other information otherwise appears to be materially misstated. If, based
+on the work performed, we conclude that an uncorrected material misstatement of the other information
+exists, we are required to describe it in our report.
+Other Reporting Required by
+In accordance with Government Auditing Standards, we have also issued our report dated
+October 11, 2024, on our consideration of the department’s internal control over ﬁnancial reporting and on
+our tests of its compliance with certain provisions of laws, regulations, contracts, and grant agreements
+and other matters. The purpose of that report is solely to describe the scope of our testing of internal control
+over ﬁnancial reporting and compliance and the results of that testing, and not to provide an opinion on the
+eǅectiveness of the department’s internal control over ﬁnancial reporting or on compliance. That report is
+an integral part of an audit performed in accordance with Government Auditing Standards in considering
+the department’s internal control over ﬁnancial reporting and compliance.
+State of Oregon
+October 11, 2024
+State of Oregon
+Oregon Department of Veterans’ Affairs
+Veterans’ Loan Program
+Management’s Discussion and Analysis
+This section of the Oregon Department of Veterans’ Affairs’ (the “Department”) Loan
+Program Annual Financial Report presents our discussion and analysis of financial
+performance for the Veterans’ Loan Program Proprietary Fund during the fiscal year
+ended June 30, 2024. The selected financial data presented was derived primarily from
+the financial statements of the Veterans’ Loan Program, which have been audited.
+FINANCIAL HIGHLIGHTS
+OVERVIEW OF THE FINANCIAL STATEMENTS
+This discussion and analysis is intended to serve as an introduction to the Veterans’ Loan
+Program’s basic financial statements. The basic financial statements include proprietary
+fund financial statements and notes to the financial statements. The Veterans’ Loan
+Program’s basic financial statements do not include department-wide financial statements
+since only the Veterans’ Loan Program proprietary fund is audited within this Annual
+Financial Report.
+The Department does have an audit ed Annual Financial Report on the
+Veterans’ Home Program and that proprietar y fund and a minimal portion of governmental
+funds that are included in the State of Oregon Annual Comprehensive Financial Report.  Those
+reports are located respectively at:
+o http://www.oregon.gov/odva/INFO/Pages/AnnualReports.aspx
+o http://www.oregon.gov/das/Financial/Acctng/Pages/Pub.aspx
+ The Veterans’ Loan Program’s proprietary fund financial statements include a major
+enterprise fund, which operates similarly to  business activities and follow an accrual
+basis of accounting.
+ The notes to the financial statements provide additional information essential to a full
+understanding of the data provided in the Veterans’ Loan Program’s proprietary fund
+financial statements.
+OVERVIEW OF THE PROPRIETARY FUND FINANCIAL POSITION & OPERATIONS
+Assets
+Total assets at June 30, 2024 were approximately $589.4 million, an increase of $29.1
+million from June 30, 2023. The change in assets  consists primarily of a $20.1 million
+2024 2023 (In Millions) Percentage
+Net Position 135.5 $        135.3 $  0.2 $            0.15%
+Revenues 20.9 $          19.9 $    1.0 $            5.03%
+Expenses 21.9 $          19.8 $    2.1 $            10.61%
+General Obligation Bond
+Debt (par value) 414.9$        390.4 $  24.5 $          6.28%
+Mortgage Loan Originations 82.2$          73.9 $    8.3 $            11.23%
+(In Millions) Change
+decrease in cash and equivalents in addition to a $47.8 million increase in mortgage loans
+receivable.
+Liabilities
+Total liabilities at June 30, 2024, were $447.3 million, an increase of $29.9 million from
+June 30, 2023. The change in liabilities consists primarily of an increase of $24.5 million
+in net bonds payable.
+Statement of Net Position
+The Veterans’ Loan Program’s proprietary fund financial position and operations for the
+past two years are summarized below based on the information included in the basic
+financial statements.
+Veterans’ Loan Program - Proprietary Fund
+Statement of Net Position
+Loans Receivable
+Total mortgages and other loans receivable increased by $47.8 million in fiscal year 2024.
+This increase was primarily due to an increase in loan origination volume.
+Bonds Payable
+Bonds Payable increased by $24.5 million (par value) from June 30, 2023 to June 30,
+2024. During fisc al year 2024, the Department issued approximately 50.0 million and
+retired approximately $25.5 million in general obligation bonds. For additional details, see
+the Debt Administration section of the Management’s Discussion and Analysis.
+Net Position
+Total Net Position increased by approximately $0.2 million in fiscal year 2024.  Revenues
+and transfers in exceeded expenses and transfers out resulting in an increase of net
+position.  Increases in interest expense were offset by transfers in from the Veterans
+Home Program.
+2024 2023 Change %  Change
+Asse ts:
+Current and Other Assets 582,460,168$  554,409,131$  28,051,037$   5.06%
+Capital Assets 6,924,128 5,866,446 1,057,682   18.03%
+Total Assets 589,384,296$  560,275,577$  29,108,719   5.20%
+Deferred Outflow of Resources 1,935,132$      1,604,451$      330,681$     20.61%
+Liabilities:
+Long Term Liab ilities 423,528,923$  395,432,043$  28,096,880$   7.11%
+Other Liabilities 23,763,965 21,946,047 1,817,918   8.28%
+Total Liabilities 447,292,888$  417,378,090$  29,914,798$   7.17%
+Deferred Inflow of Resources 8,575,293$      9,218,419$      (643,126)$      -6.98%
+Net Position:
+Net Investment in Capital Assets 6,924,128$      5,866,446$      1,057,682$     18.03%
+Restricted for OPEB 161,810    136,591   25,219     18.46%
+Unrestricted 128,365,309 129,280,482 (915,173)   -0.71%
+Total Net Position 135,451,247$  135,283,519$  167,728$     0.12%
+Business Type Activit
+y
+The results of operations for the Veterans’ Loan Program’s proprietary fund is presented
+below:
+Veterans’ Loan Program - Proprietary Fund
+Statement of Revenues, Expenses, and Changes in Net Position
+2024 2023 Change % Change
+Revenues:
+Interest Income:
+Mortgage Loans  $       10,871,946  $       10,513,520  $        358,426 3.41%
+Investment Income:      8,156,216      5,183,842   2,972,374 57.34%
+LCLI Premium Revenue    109,013    122,013  (13,000) -10.65%
+LCLI Processing Fee      72,000  76,767    (4,767) -6.21%
+Other Fees and Charges      1,292,543      3,562,566  (2,270,023) -63.72%
+Conservatorship Fees    419,193    469,063  (49,870) -10.63%
+Total Revenues  $       20,920,911  $       19,927,771  $        993,140 4.98%
+Expe nse s:
+Bond Interest  $       11,260,488  $         8,996,580  $     2,263,908 25.16%
+Salaries and Other Payroll      6,333,190      5,120,180   1,213,010 23.69%
+Bond Costs    734,728      1,331,051     (596,323) -44.80%
+Securities Lending Investment Expense      13,974  13,871    103 0.74%
+Real Estate Owned Expense   13  -      13
+100.00%
+Services and Supplies      1,565,740      2,573,085  (1,007,345) -39.15%
+LCLI Claims & Admin. Expense      71,171    156,573  (85,402) -54.54%
+Depreciation    205,657    260,864  (55,207) -21.16%
+Bad Debt     (569)     (71,627)   71,058 -99.21%
+Special Payments      56,609  -   56,609 100.00%
+Other      1,614,759      1,427,671      187,088 13.10%
+Total Expenses  $       21,855,760  $       19,808,248  $     2,047,512 10.34%
+Operating Income (Loss)  $      (934,849)  $       119,523  $    (1,054,372) -882.15%
+Non-Operating Revenues (Expenses)
+Gain/(Loss) on Extinguishment of Debt  $       580,855    472,046      108,809 23.05%
+Leases Incurred      -  12,262  (12,262) -100.00%
+Interest Expense - Pension Related Debt  $        (17,899)  $        (22,988)  $       5,089 -22.14%
+Total Non-Operating Rev enues (E xpenses)  $       562,956  $       461,320  $        101,636 22.03%
+Income (Loss) before Transfers & Contributions (371,893)$      580,843$         $       (952,736) -164.03%
+Transfers & Contributions
+Net Transfers from Veterans' Home Program    739,140  -      739,140 100.00%
+Net Transfers to Dept. of Admin Services   (199,519)   (203,600)     4,081 -2.00%
+Total Transfers & Contributions  $       539,621  $      (203,600)  $        743,221 -365.04%
+Increase (Decrease) in Net Position  $       167,728  $       377,243  $       (209,515) -55.54%
+Net Position – Beginning  $     135,283,519  $     134,906,276  $        377,243 0.28%
+Net Position – Ending  $     135,451,247  $     135,283,519  $        167,728 0.12%
+Business Type Activity
+Revenues and Expenses
+The Veterans’ Loan Program’s revenue is generated principally from interest earned on
+mortgage loans and investment income. In fiscal year 2024, revenue generated through
+the Veterans’ Loan Program totaled approximately $20.9 million, of which approximately
+$19.0 million, or 90.9% is from interest income earned on loans and investments.
+Expenses of the Veterans’ Loan Program consist primarily of interest expense on debt
+incurred to fund lending programs and operational expenses. The total expenses for
+Veterans’ Loan Program activities totaled approximately $21.9 million, of which
+approximately $11.3 million, or 52% is bond interest expense and $6.3 million, or 29%, is
+salaries and other payroll expenses.
+Change in Net Position
+The change in net position for the year ended June 30, 2024 resulted in an increase of
+approximately $0.2 million.
+Debt Administration
+The Oregon Constitution and Oregon Revised Statutes permit general obligation bonds to
+be issued on the Department’s behalf to provide funds for home loans to eligible Oregon
+veterans.
+The Department had approximately $414.9 million (par value)  in outstanding general
+obligation bonds as of June 30, 2024. During fiscal year 2024, approximately 50.0 million
+in new general obligation bonds were issued and $25.5 million in bonds were retired.
+Information on the Department’s long-term debt can be found in the Notes to the Financial
+Statements (Note 5 and 6).
+Requests for Information
+This financial report is designed to provide a general overview of the Oregon
+Department of Veterans’ Affairs’ finances for all those with an interest in the
+Department’s finances. Questions concerning any of the information provided in this
+report or requests for additional financial information should be addressed to the Chief
+Financial Officer, Oregon Department of Veterans’ Affairs, 700 Summer Street N.E.,
+Salem, Oregon 97301.
+Business-Type
+Activity -
+Enterprise Fund
+Assets
+Current Assets
+Cash and Cash Equivalents $ 100,562,665
+Cash and Cash Equivalents - Restricted 4,163,576
+Securities Lending Cash Collateral 242,603
+Investments  12,107,631
+Receivables:
+Mortgage Loans Receivable (Net) 10,470,019
+Accrued Interest 1,830,223
+Loan Cancellation Life Insurance Premiums 4,597
+Other 41,605
+Due from Other Funds 403,472
+Prepaid Expenses 8,324
+Total Current Assets 129,834,715
+Noncurrent Assets
+Cash and Cash Equivalents - Restricted 62,180,122
+Mortgage Loans Receivable (Net) 380,093,159
+Other Receivable 2,045,215
+Derivative Instrument - Interest Rate Swap 8,145,147
+Net OPEB Asset - RHIA Plan - Restricted 161,810
+Capital Assets:
+Building, Property and Equipment 11,242,847
+Construction in Progress 1,533,757
+Works of Art and Historical Treasures 627,021
+SBITAs 124,560
+Amortization SBITAs (41,961)
+Accumulated Depreciation (6,562,096)
+Total Noncurrent Assets 459,549,581
+Total Assets 589,384,296
+Deferred Outflows of Resources
+Pension Related 1,929,755
+OPEB Related 5,377
+Total Deferred Outflows of Resources 1,935,132
+Liabilities
+Current Liabilities
+Accounts Payable $ 369,301
+Subscription-Based IT Obligation 24,612
+Loan Cancellation Life Insurance Payable 2,234
+Due to Other Funds 3,102
+Deposit Liabilities 4,161,342
+Accrued Interest on Bonds 1,274,123
+Obligations under Securities Lending 242,603
+Pension-Related Debt 66,314
+Compensated Absences Payable 269,120
+Bonds Payable-Maturing Within One Year (Net) 17,351,214
+Total Current Liabilities 23,763,965
+Noncurrent Liabilities
+Bonds Payable-Maturing After One Year (Net) 404,825,871
+Pension-Related Debt 186,869
+Subscription-Based IT Obligation 57,986
+Net Pension Liability 4,773,659
+Compensated Absences Payable 144,911
+Excess Interest and Arbitrage Rebate Payable 13,474,885
+Total OPEB Liability - PEBB Plan 64,742
+Total Noncurrent Liabilities 423,528,923
+Total Liabilities 447,292,888
+Deferred Inflows of Resources
+Hedging Derivative 8,145,147
+Pension Related 377,450
+OPEB Related 52,696
+Total Deferred Inflows of Resources 8,575,293
+Net Position
+Net Investment in Capital Assets 6,924,128
+Restricted for OPEB 161,810
+Unrestricted 128,365,309
+Total Net Position $ 135,451,247
+The accompanying notes are an integral part of the financial statements.
+June 30, 2024
+Veterans' Loan
+Program
+Oregon Department of Veterans' Affairs
+Veterans' Loan Program
+Statement of Net Position
+Proprietary Fund
+Oregon Department of Veterans' Affairs
+Veterans' Loan Program
+Statement of Revenues, Expenses, and Changes in Fund Net Position
+Proprietary Fund
+For the Year Ended June 30, 2024
+Operating Revenues
+Interest Income:
+Mortgage Loans $ 10,871,946
+Investment Income 8,156,216
+Loan Cancellation Life Insurance Premiums 109,013
+Loan Cancellation Life Insurance Processing Fee 72,000
+Other Fees and Charges 1,292,543
+Conservatorship Fees 419,193
+Total Operating Revenues 20,920,911
+Operating Expenses
+Bond Interest 11,260,488
+Salaries and Other Payroll 6,333,190
+Bond Expenses 734,728
+Securities Lending Investment Expense 13,974
+Real Estate Owned Expense 13
+Services and Supplies 1,565,740
+Claims Expense - Loan Cancellation Life Insurance 71,171
+Depreciation and Amortization 205,657
+Bad Debt (569)
+Special Payments 56,609
+Other 1,614,759
+Total Operating Expenses 21,855,760
+Operating Income (Loss) (934,849)
+Non-operating Revenues (Expenses)
+Gain/(Loss) on Extinguishment of Debt 580,855
+Interest Expense - Pension Related Debt (17,899)
+Total Non-operating Revenues (Expenses) 562,956
+Income (Loss) before Transfers & Contributions (371,893)
+Transfers & Contributions
+Net Transfers from Veterans' Homes Trust Fund 739,140
+Transfers to Dept. of Administrative Services (199,519)
+Total Transfers & Contributions 539,621
+Increase (Decrease) in Net Position 167,728
+Net Position - Beginning 135,283,519
+Net Position - Ending $ 135,451,247
+The accompanying notes are an integral part of the financial statements.
+Business-Type
+Activity - Enterprise
+Fund
+Veterans' Loan
+Program
+Oregon Department of Veterans' Affairs
+Veterans' Loan Program
+Statement of Cash Flows
+Proprietary Fund
+For the Year Ended June 30, 2024
+Business-Type
+Activity -
+Enterprise Fund
+Veterans' Loan
+Program
+Cash Flows from Operating Activities:
+Receipts from Customers 834,947 $
+Receipts from Other Funds for Services 962,458
+Loan Principal Repayments 36,674,522
+Loan Interest Received 15,568,634
+Payments to Employees for Services (6,061,265)
+Payments to Suppliers (581,268)
+Payments to Other Funds for Services (2,743,644)
+Loans Made (83,571,419)
+Net Cash Provided (Used) in Operating Activities (38,917,037)
+Cash Flows from Noncapital Financing Activities:
+Proceeds from Bond Sales 50,000,000
+Principal Payments on Bonds (25,475,000)
+Interest Payments on Bonds (11,545,744)
+Bond Issuance Costs (735,482)
+Lease Payments (10,980)
+SBITA Payments (23,209)
+Interest - Leased Assets (205)
+Interest - SBITA (2,309)
+Principal Payments on Pension-Related Debt (75,223)
+Interest Payments on Pension-Related Debt (17,899)
+Transfers from Other Funds 739,140
+Net Cash Provided (Used) in Noncapital Financing Activities 12,853,089
+Cash Flows from Capital and Related Financing Activities:
+Acquisition of Capital Assets (1,165,887)
+Net Cash Provided (Used) in Capital and Related Financing Activities (1,165,887)
+Cash Flows from Investing Activities:
+Interest on Investments and Cash Balances 7,130,212
+Investment Income from Securities Lending 13,974
+Investment Expense from Securities Lending (13,974)
+Net Cash Provided (Used) in Investing Activities 7,130,212
+Net Increase (Decrease) in Cash and Cash Equivalents (20,099,623)
+Cash and Cash Equivalents - Beginning 187,005,986
+Cash and Cash Equivalents - Ending 166,906,363$
+Reconciled to Statement of Net Position:
+Cash and Cash Equivalents - Current 100,562,665$
+Cash and Cash Equivalents - Current, Restricted 4,163,576
+Cash and Cash Equivalents - Noncurrent, Restricted 62,180,122
+Cash and Cash Equivalents - Ending (shown above) 166,906,363$
+(Continued on next page)
+The accompanying notes are an integral part of the financial statements.
+Oregon Department of Veterans' Affairs
+Veterans' Loan Program
+Statement of Cash Flows
+Proprietary Fund
+For the Year Ended June 30, 2024
+Business-Type
+Activity -
+Enterprise Fund
+Veterans' Loan
+Program
+(Continued from prior page)
+Reconciliation of Operating Income to Net Cash Provided (Used)
+by Operating Activities:
+Operating Income (934,849)
+Adjustments to Reconcile Operating Income to Net Cash Provided (Used)
+by Operating Activities:
+Depreciation/Amortization of Property and Equipment 187,762
+Amortization of Leased Assets 14,083
+Amortization of SBITAs 3,812
+Amortization of Bonds (480,018)
+Bad Debt Expense (569)
+Investment Income Reported as Operating Revenue (7,861,460)
+Interest Expense Reported as Operating Expense 11,740,506
+Bond Costs Reported as Operating Expense 734,728
+Net Changes in Assets and Liabilities:
+Accounts and Interest Receivable (89,162)
+Loans, Contracts and Other Receivable (47,478,166)
+Other Receivable (6,183)
+Net OPEB Asset - RHIA Plan (10,428)
+Accounts Payable 562,134
+Lease Interest 205
+SBITA Interest 2,309
+Arbitrage Payable 4,415,906
+Compensated Absences Payable 27,967
+PERS Contribution - RHIA 1
+PERS Contribution - RHIPA (13)
+Net Pension Liability 1,318,759
+Total OPEB Liability (191,665)
+Deferred Outflow of Resources
+Related to Pensions (224,488)
+Deferred Inflow of Resources
+Related to Pensions (617,739)
+Related to OPEB (30,470)
+Total Adjustments (37,982,188)
+Net Cash Provided (Used) by Operating Activities (38,917,037)$
+Noncash Investing and Capital and Related Financing Activities:
+Net Change in Fair Value of Investments 577,805 $
+Total Noncash Investing and Capital and Related Financing Activities 577,805$
+The accompanying notes are an integral part of the financial statements.
+Oregon Department of Veterans’ Affairs
+Veterans’ Loan Program
+Proprietary Fund
+Notes to the Financial Statements
+June 30, 2024
+1. Summary of Significant Accounting Policies
+Reporting Entity
+The Department is a part of the State of Oregon reporting entity. The Department operates under
+the provisions of the Oregon Constitution Arti cle XI-A and primarily Oregon Revised Statutes
+(ORS) chapters 406, 407, and 408. The Department’s Director is appointed by the Governor with
+input from the Advisory Committee and is subject to confirmation by the Oregon Senate. The
+Director must be a veteran chosen on the basis of his or her executive and administrative ability.
+The Advisory Committee is a nine-member board, appointed by the Governor that acts in an
+advisory capacity to the Director concerning all matters upon which the Director requests counsel.
+The State Legislature has significant ability to influence funding, approve the Department’s
+budget, and pass laws governing the Department.
+In 1944 Oregon voters approved a constitutional amendment that authorized the creation of a
+Veterans' home and farm loan program. A year later the Department was established to
+administer this program. The Department's home loan program (Veterans' Loan Program)
+provides home purchase and home improvement loans  at favorable interest rates to eligible
+veterans, within the limitations set forth in Oregon’s Constitution and applicable laws. The
+Veterans' Loan Program is operated through earnings on program loans, which are financed
+through the sale of tax-exempt general obligation bonds. These bonds are then retired through
+principal and interest payments received from borrowers and earnings from invested funds.
+The Veterans' Loan Program is classified as a proprietary fund activity.   The basic financial
+statements and notes presented herein include only the proprietary fund activities of the Veterans’
+Loan Program.
+Measurement Focus of Accounting and Basis of Presentation
+The accounts of the Department are organized on the basis of funds. A fund is defined as a fiscal
+and accounting entity with a self-balancing set of accounts recording assets, liabilities, and
+equities, which are segregated for the purpose of carrying on specific activities or attaining certain
+objectives in accordance with special regulations or restrictions.
+The Veterans' Loan Program is accounted for as a Proprietary fund. The focus of Proprietary fund
+measurement is upon determination of operating income, changes in net position, financial
+position, and cash flows, which is similar to private-sector business. Proprietary funds are
+presented using the accrual basis of accounting and the flow of economic resources
+measurement focus. Under the accrual basis of accounting, revenues are recognized when they
+are earned and expenses are recognized when the liabilities are incurred.
+The basic financial statements and notes presented have been prepared in conformity with
+generally accepted accounting principles (GAAP) as prescribed by the Governmental Accounting
+Standards Board (GASB).
+Budgetary Process
+The Oregon Legislature approves budgets for a biennial period. Operating expenses are subject
+to limitation and certain bond related expenses are subject to administrative limitation. Both types
+of limitations lapse at the end of the biennium. For budgetary purposes, these transactions are
+recognized when received or paid in cash as opposed to when they are susceptible to accrual.
+Oregon Department of Veterans’ Affairs
+Veterans’ Loan Program
+Proprietary Fund
+Notes to the Financial Statements (continued)
+June 30, 2024
+Cash and Cash Equivalents
+Cash and Cash Equivalents include: cash on hand, cash in the Oregon Short-Term Fund (OSTF),
+cash deposits held by the State’s fiscal agent for payment of matured bonds and coupons, and
+cash deposits held by the agency’s loan cancellation life insurance carrier. All monies held in the
+OSTF are considered to be cash equivalents, which is a cash and investment pool having
+characteristics of a demand deposit account.
+Receivables
+Receivables are shown net of an allowance for uncollectible accounts. Receivables included are
+amounts due that represent revenues earned or accrued in the current period. Types included in this
+classification relate to interest, mortgage loans receivable, loan cancellation life insurance premiums,
+and other miscellaneous receivables.
+Loan Cancellation Life Insurance
+The Department offers Loan Cancellation Life Insurance (LCLI) to approved borrowers and their
+spouses through a contract with a private insurance company. Historically subsidized from the
+Oregon War Veterans’ Fund (a dedicated fund of the Department created under Article XI-A of
+the Oregon Constitution) , the Department collects the premiums from borrowers and remits
+collected premiums, less an administrative fee, to the private insurance company. Upon the death
+of an insured person, either the account balance will be paid in full, or the amount of insurance in
+force will be paid and applied toward the account balance.
+The Loan Cancellation Life Insurance Contingency Fund is a special fund consisting of amounts
+generated by the group policy and interest earned on the fund balance. Monies in the LCLI
+account are held and controlled by the insurance carrier during the contract period. The fund
+stabilizes rate experience developed under the group loan cancellation life insurance policy. An
+annual accounting of premiums, claims, administrative costs, and interest earnings is provided by
+the insurance carrier for the fund at June 30.
+Real Estate Owned
+Properties acquired through foreclosure proceedings or by acceptance of deeds in lieu of foreclosure
+are recorded at cost. Cost is defined as the outstanding principal balance of the mortgage loan or
+contract on the date of foreclosure.
+Prepaid Expenses
+Prepaid expenses consist of postage on hand at year-end.
+Capital Assets
+Capital assets are recorded at cost. Depreciation is calculated using the straight-line method.  Gain
+or loss on the sale of an asset is determined by taking the difference between the carrying value
+(cost less depreciation) and the sale price. The Veterans' Building is depreciated over its useful life
+(50 years) . Building-related assets are capitalized and then depreciated over the remaining
+estimated life of the building.  Furniture, equipment, depreciable works of art, land improvements,
+and data processing hardware and software costing $5,000 or more are capitalized and then
+depreciated over a useful life of five years (10 years for art work and land improvements).
+Oregon Department of Veterans’ Affairs
+Veterans’ Loan Program
+Proprietary Fund
+Notes to the Financial Statements (continued)
+June 30, 2024
+Compensated Absences Payable
+Accumulated vacation leave and compensatory time (comp time) leave is recorded as an expense
+and a liability of those funds as the benefits accrue to the employees. No liability is recorded for
+unpaid accumulated sick leave benefits as the State does not pay any amounts when employees
+separate from state service.
+Excess Interest and Arbitrage Rebate Payable
+The Department recognizes a liability in its financial records for any excess mortgage interest and
+investment earnings arising from the use of tax-exempt bond proceeds. The Department records
+the excess mortgage interest and investment earnings as a reduction of revenue.
+Net Investment in Capital Assets
+This is the Capital Asset component of Net Position (equity) net of accumulated depreciation.
+Operating Revenues and Expenses
+Operating revenues include interest and fees on program loans, as well as earnings on cash and
+investments. Administrative expenses, depreciation related to capital assets, and bond program
+related expenses are considered operating expenses. All revenues and expenses not meeting
+this definition would be reported as non-operating revenues and expenses.
+Bond Expenses
+Bond premiums and discounts associated with a particular bond issue are amortized over the life
+of the bond issue using the bonds outstanding method of amortization. These expenses are
+charged or credited to interest expense.
+Miscellaneous bond expenses are primarily recorded as expenses when incurred. Included in
+bond expenses are fees related to variable rate demand bonds, expenses of the matured bond
+and coupon account with the State’s Fiscal Agent, and bond attorney fees.
+Expenses of variable rate demand bonds include Standby Bond Purchase Agreement
+commitment fees and remarketing agent fees. These fees are payable quarterly in arrears.
+2. Deposits and Investments
+Deposits
+Cash and cash equivalents for the Veterans’ Loan Program as of June 30, 2024, are included in
+the table below:
+Total
+June 30, 2024
+Book Balance - Cash and Cash Equivalents
+Current unrestricted  $ 100,562,665
+Current restricted         4,163,576
+Noncurrent restricted       62,180,122
+Combined Book Balance  $ 166,906,363
+Bank Balance - Cash and Cash Equivalents  $ 168,587,041
+Oregon Department of Veterans’ Affairs
+Veterans’ Loan Program
+Proprietary Fund
+Notes to the Financial Statements (continued)
+June 30, 2024
+As of June 30, 2024, the Veterans’ Loan Program had a combined total of $156,333,020 held in
+demand accounts with the State Treasurer and invested in the Oregon Short-Term Fund
+(“OSTF”). The Oregon State Treasury (“OST”) manages the OSTF, which is an external cash and
+investment pool that is available for use by all state funds (involuntary participation) and eligible local
+governments. The State does not have a formal policy regarding custodial credit risk for cash
+deposits.  However, banking regulations and Oregon law establish the insurance and collateral
+requirements for deposits in the OSTF.
+Additional information about the OSTF, including its audited financial statements, can be found
+at: https://www.oregon.gov/treasury/public-financial-services/oregon-short-term-
+funds/pages/default.aspx or by writing to the Oregon State Treasury, 867 Hawthorne Ave SE,
+Salem, OR 97301-5241.
+In addition, the Department held $12,254,020 with an insurance carrier as a reserve for loan
+cancellation life insurance. These monies are uncollateralized and are not insured under FDIC
+protection.  The Department is required to keep on deposit an amount not less than the annual
+premium with additional insurance charges becoming effective if the balance drops below 200% of
+annual premiums. At June 30, 2024, the Department estimated that required balance to be
+$216,000. That amount is included as Cash and Cash Equivalents – Noncurrent, Restricted. The
+remainder of the balance at the insurance carrier is unrestricted and is included in Cash and Cash
+Equivalents – Current. For additional information on these monies see Note 1 “Loan Cancellation
+Life Insurance.”
+Investments
+The Department’s investment policy allows inve stment in the Oregon Intermediate Term Pool
+(“OITP”) as well as other investments. However, the Department has chosen to only invest in
+OITP, an external investment pool managed by OST. OITP is “not rated” as an investment and
+not registered with the U.S. Securities and Exchange Commission as an investment company.
+Additional information about OITP, including its audited financial statements, can be found at:
+https://www.oregon.gov/treasury/invested-for-oregon/Pages/Oregon-Intermediate-Term-
+Investments.aspx.
+The State’s investment policies are governed by Oregon Revised Statutes and the Oregon
+Investment Council (the “Council”). The State Treasurer is the investment officer for the Council
+and is responsible for all funds entrusted to OST. These funds must be invested, and the
+investments managed, as a prudent investor would, exercising reasonable care, skill and caution.
+Investments in OITP are further governed by guidelines approved by the Council, establishing
+diversification percentages and specifying the types and maturities of investments.
+OITP measures its investments at fair value in accordance with standards, the Department reports
+its share based on the fair value provided by OITP.
+Interest rate risk is the risk that changes in interest rates will adversely affect the fair value of an
+investment. OST Investment staff manages this ri sk by limiting the duration of investments held
+by OITP. The portfolio guidelines require that the portfolio’s modified duration, a measure of
+interest rate risk, shall not exceed three years. The duration for OITP at June 30, 2024, was 3.43
+years.
+Oregon Department of Veterans’ Affairs
+Veterans’ Loan Program
+Proprietary Fund
+Notes to the Financial Statements (continued)
+June 30, 2024
+Credit risk is the risk that an issuer or other counterparty to an investment will not fulfill its
+obligation. OITP guidelines require that all investments meet minimum ratings requirements at
+the time of purchase.
+Restricted Assets
+Included in Cash and Cash Equivalents are amounts designated as restricted.  Restrictions on the
+Department’s cash can arise from Oregon's constitutional provision or enabling legislation, federal
+tax law relating to bond proceeds, bond covenants, deposit liabilities and from certain other
+contractual arrangements. The primary purpose of the restricted assets will be to meet upcoming
+debt service requirements and other restricted purposes. As of June 30, 2024, the Veterans’ Loan
+Program had restricted assets of $66,343,698.
+Securities Lending
+In accordance with State of Oregon investment policies, state agencies may participate in securities
+lending.  Currently, the Department does not have any of its own securities lending activity.  However,
+the Department received an allocated share related to the OSTF securities lending activity. As of
+June 30, 2024, there were no securities lending activities to disclose for the OITP.
+Securities lending information related to the Department’s Loan Program is provided in the
+following table:
+OSTF
+Securities Lending Cash and Noncash Collateral  $           1,916,980
+Securities on Loan  $           1,878,631
+Investments Purchased with Cash Collateral  $              242,634
+Securities on Loan:
+U.S. Agency 87.39%
+Domestic Fixed Income                   12.61%
+100.00%
+Additional information about OSTF and OITP securities lending can be found in the audited financial
+statements.  See links previously provided above.
+3. Mortgage Loans Receivable
+Mortgage loans receivable are secured by real property, which is repossessed if the receivable
+becomes uncollectible. Most loan agreements made during the period from May 1971 through
+December 1991 contain a provision authorizing the Department to adjust the interest rate. Loan
+agreements (excluding contracts) made subsequent to December 1991 have fixed interest rates.
+The loan receivable portfolio at June 30, 2024, is approximately $391 million. All mortgaged property
+is located within Oregon. The Department uses the allowance method to estimate uncollectible
+mortgage loans receivable. The allowance is periodically adjusted by management to accommodate
+changes in economic conditions, nonperforming assets, historical loss experience, and other
+conditions that may affect the ultimate collectability of the mortgage loans. In 2024 the Department
+Oregon Department of Veterans’ Affairs
+Veterans’ Loan Program
+Proprietary Fund
+Notes to the Financial Statements (continued)
+June 30, 2024
+determined the balance of the allowance account to be in line with potential losses for the remaining
+loan portfolio. Accordingly, the account balance at June 30, 2024, is approximately $0 dollars.  The
+balance of the allowance account represents approximately 0.00 percent of gross loans receivable.
+The following table details the mortgage loans receivable and allowance accounts as disclosed on
+the Statement of Net Position for June 30, 2024.
+Included in mortgage loans receivable are loans that will not amortize at their current monthly
+payment amounts. These loans became non-amortizing primarily through borrowers’ choosing to
+extend the repayment term of their loans in lieu of accepting increased monthly principal and interest
+installments resulting from loan interest rate increases. The option to allow a borrower to extend the
+repayment life of the loan rather than accept an increase in the monthly principal and interest
+installment amount was the result of
+legal action brought against the Department by the Associated
+Oregon Veterans in 1985.  As of June 30, 2024, there were 22 non-amortizing accounts with an
+aggregate principal balance of approximately $2.77 million. This represents ap proximately 0.71
+percent of the total net loans receivable.
+Troubled Debt Restructurings
+The Department makes every reasonable attempt to keep a borrower in the home purchased
+under the Veterans’ Loan Program.  In order to avoid foreclosure, one method of working with
+borrowers is to temporarily reduce loan paym ents for borrowers. This is allowed under ORS
+407.095. During the year ended June 30, 2024, the Department had no borrowers that required
+this relief.
+Mortgage Insurance
+The Department requires borrowers to obtain private mortgage insurance on loans
+made subsequent to December 1991 if the original loan amount exceeds 80% of the lesser of the
+appraised value of the property or the purchase price.  As of June 30, 2024, the Department had
+166 insured accounts with six private mortgage insurers totaling approximately $69.8 million.  The
+majority of insured accounts are with Mortgage Guaranty Insurance Corporation (MGIC) with
+89.8%.  As of June 30, 2024, the Moody’s ratings for MGIC was "A3".
+Deferred Payment Obligations
+Deferred Payment Obligations (DPOs) have been established through regulatory action for
+certain Mortgage Insurers to settle current mortgage insurance claims with a combination of cash
+and withholding a portion of each claim.  The intent of DPOs is to ensure the Mortgage Insurer
+has sufficient ability to pay all current and future claims.
+Current Noncurrent Total
+Loans Receivable 10,470,019 $        380,093,159 $      390,563,177 $
+Less: Allowance for Principal Losses -                      -                      -
+Net Loans Receivable 10,470,019 $        380,093,159 $      390,563,177 $
+June 30, 2024
+Oregon Department of Veterans’ Affairs
+Veterans’ Loan Program
+Proprietary Fund
+Notes to the Financial Statements (continued)
+June 30, 2024
+Effective March 31, 2009, the Illinois
+Department of Insurance required that all valid claims under
+Triad's mortgage guaranty insurance policies be paid at 60% in cash and 40% by the creation of
+a deferred payment obligation.  As of December 31, 2013, the court supervising the rehabilitation
+of Triad approved a plan to increase the percentage of cash paid on valid settlements from 60%
+to 75%. If the financial position of Triad permits, the Illinois Department of Insurance will allow
+Triad to continue to increase the amount of cash paid on each claim.  As of June 30, 2024, the
+Department had $305,496 as a deferred payment obligation from Triad.
+Real Estate Owned
+The Department has no properties acquired through foreclosure or acceptance of deeds in lieu
+of foreclosure as of June 30, 2024.
+4. Capital Assets
+The following table provides detail on the balances and activities of the Veterans’ Loan Program
+capital assets for the year ended June 30, 2024:
+Beginning Ending
+Balance Increases Decreases Balance
+Capital Assets Not Being Depreciated:
+Construction in Progress 86,132 $     1,447,626$   -$  1,533,757 $
+Works of Art & Historical Treasures 627,021$      - $   - $ 627,021$
+Total Capital Assets Not Being Depreciated 713,153  1,447,626    - 2,160,778
+Capital Assets Being Depreciated:
+Buildings, Property & Equipment 11,242,847
+-     -  11,242,847
+Total Capital Assets Being Depreciated 11,242,847   -     -   11,242,847
+Leases and SBITAs
+Equipment Leases 47,499  (47,499)   - $
+SBITAs (Subscription Based IT Agreements) 334,845 (210,286)    124,560 $
+Total leases and SBITAs 382,344   - (257,785) 124,560
+Amortization of Lease and SBITAs -
+Equipment Leases (30,596)   (14,083)  44,679  - $
+SBITAs (Subscription Based IT Agreements) (66,969)   (3,812)   28,820   (41,961)
+Total Amortization (97,565)    (17,895)  73,499  (41,961)
+Less Accumulated Depreciation:
+Buildings, Property & Equipment (6,374,334)    (187,762)   - (6,562,096)
+Total Accumulated Depreciation (6,374,334)     (187,762)   - (6,562,096)
+Total Capital Assets Being Depreciated, Net 4,868,513     (187,762)   -               4,680,751
+Total Capital Assets Being Amortized, Net 284,779$      (17,895)$      (184,286)$     82,598$
+Total Capital Assets, Net 5,866,446$   1,241,968$   (184,286)$     6,924,128$
+Removing SBITAs from Buildings, Property & Equipment and Accumulated Depreciation has changed the beginning balances
+from FY23
+Depreciation and Amortization expense at June 30, 2024 was $205,657.
+GASB 87
+Under GASB 87, ODVA (Oregon Department of Veterans’ Affairs) recognizes long-term leased
+equipment as capital assets.  As of June 30, 2024, no long term leases remain.
+Oregon Department of Veterans’ Affairs
+Veterans’ Loan Program
+Proprietary Fund
+Notes to the Financial Statements (continued)
+June 30, 2024
+GASB 96
+Under GASB 96, Subscription Based IT Arrangements which meet certain criteria must be
+recognized as Capital Assets.  ODVA contracts with a number of software companies for
+necessary software to maintain efficient operations.
+5. Bonds Payable and Debt Service
+The table below provides a summary of general obligation bond transactions of the Department
+for the fiscal year ended June 30, 2024:
+Bonds Payable (Par) at June 30, 2023     $                     390,355,000
+Bonds Issued                         50,000,000
+Bonds Retired                        (25,475,000)
+Bonds Payable (Par) at June 30, 2024  $                   414,880,000
+Shown below are the components of net bonds payable as disclosed on the Statement of Net
+Position for June 30, 2024:
+Current  Noncurrent  Total
+Bonds Payable (Par)  $        16,910,000  $   397,970,000  $     414,880,000
+Premium on Bonds Sold                 441,214           6,855,870             7,297,084
+Net Bonds Payable  $        17,351,214  $   404,825,870  $     422,177,084
+The following schedule summarizes future debt service requirements to maturity as of
+June 30, 2024:
+Fiscal Year Principal Interest Total
+2025 16,910,000               15,133,146               32,043,146$
+2026 17,690,000               14,703,213               32,393,213$
+2027 17,720,000               14,278,145               31,998,145$
+2028 17,870,000               13,791,824               31,661,824$
+2029 17,975,000               13,298,226               31,273,226$
+2030-2034 72,685,000               59,588,867               132,273,867$
+2035-2039 87,765,000               45,255,411               133,020,411$
+2040-2044 74,125,000               28,841,738               102,966,738$
+2045-2049 53,085,000               15,572,244               68,657,244$
+2050-2054 38,135,000               4,571,789                 42,706,789$
+2055-2059 920,000                    21,275                      941,275$
+TOTAL 414,880,000$           225,055,878$           639,935,878$
+Oregon Department of Veterans’ Affairs
+Veterans’ Loan Program
+Proprietary Fund
+Notes to the Financial Statements (continued)
+June 30, 2024
+Shown below are the outstanding bond issues and their final maturities (in fiscal years) as of
+June 30, 2024:
+Original
+Coupon Rates   Final
+Series Dated From To Issued Outstanding Maturity
+93 (2014 G) 3-Dec-14 0.7 3.90% $25,965,000  $19,845,000  2040
+95 (2015 P) 19-Nov-15 **  25,140,000 25,140,000 2037
+96 (2015 Q) 19-Nov-15 2 5.00% 34,215,000 2,215,000 2046
+97A (2016 J) 7-Dec-16 0.85 3.55% 22,310,000 10,210,000 2031
+97B (2016 K) 7-Dec-16 3.9 4.05% 17,500,000 2,040,000 2037
+98A (2017 N) 11-Oct-17 1.35 5.00% 15,275,000 8,315,000 2030
+98B (2017 O) 11-Oct-17 ##  23,300,000 15,800,000 2041
+99B (2017 Q) 11-Oct-17 0.95 3.50% 33,955,000 7,730,000 2048
+100 (2017 U) 20-Dec-17 1.3 3.70% 73,885,000 60,015,000 2045
+101 (2017 V) 20-Dec-17 1.2 4.00% 29,235,000 7,965,000 2049
+103 (2018 F) 28-Nov-18 1.95 4.25% 39,195,000 5,145,000 2049
+104 (2019 R) 13-Nov-19 1.1 3.50% 28,990,000 15,570,000 2050
+105A (2020 I) 24-Jun-20 0.65 2.15% 30,165,000 27,085,000 2035
+105B (2020 J) 24-Jun-20 ##  11,565,000 11,565,000 2039
+106B (2020 L) 24-Jun-20 0.5 3.50% 11,650,000 5,685,000 2051
+106C (2020 M) 24-Jun-20 ##  11,435,000 11,435,000 2045
+107 (2021 N) 18-Nov-21 2.375 2.60% 7,500,000 7,500,000 2043
+108 (2021 O) 18-Nov-21 0.15 3.00% 38,675,000 33,730,000 2052
+109 (2022 D) 10-Aug-22 1.45 5.00% 28,145,000 25,420,000 2052
+110 (2022 E) 10-Aug-22 ##  11,000,000 11,000,000 2045
+111 (2023 E) 11-Apr-23 2.5 5.50% 52,410,000 51,470,000 2053
+112 (2024 E) 23-May-24 3.15 4.63% 50,000,000 50,000,000 2054
+Total Bonds Outstanding as of June 30, 2024   $414,880,000
+** Interest rates are adjusted weekly ba sed on the weekly rate determined by the Remarketing Agent, not to exceed
+12%. The interest rate at the end of the fiscal year was 3.85% for Series 95.
+ ## Interest rates are adjusted daily based on the daily rate determined by the Remarketing Agent, not to exceed 12%.
+The interest rate at the end of the fiscal year was 4.90% for Series 98B, Series 105B, and Series 106C. The rate was
+4.70% for Series 110.
+On May 23, 2024, the Department issued $50,000,000 (par value) of fixed rate General
+Obligation Bonds.
+Oregon Department of Veterans’ Affairs
+Veterans’ Loan Program
+Proprietary Fund
+Notes to the Financial Statements (continued)
+June 30, 2024
+6. Demand Bonds
+Included in long-term debt at June 30, 2024 are the following State of Oregon, General Obligation,
+Veterans' Welfare Bonds (Variable Rate), along with selected terms of their Standby Bond
+Purchase Agreements (“SBPAs”):
+Series
+Outstanding
+Bond Principal
+Amount
+Liquidity
+Provider
+Scheduled
+Termination
+Date
+Maximum
+Interest
+Commitment
+Commitment
+Fee
+Series 95
+(2015 Series P) $   25,140,000
+U.S. Bank National
+Association 5/17/2027 34 days/12% 0.310%
+Series 98B
+(2017 Series O)   $   15,800,000
+U.S. Bank National
+Association 4/7/2025 34 days/12% 0.320%
+Series 105B
+(2020 Series J)   $  11,565,000
+U.S. Bank National
+Association 5/17/2027 34 days/12% 0.310%
+Series 106C
+(2020 Series M)   $  11,435,000
+U.S. Bank National
+Association 5/17/2027 34 days/12% 0.310%
+Series 110
+(2022 Series E)   $  11,000,000
+JP Morgan
+Securities 8/09/2027 34 days/12% 0.275%
+These bonds are general obligations of the State of Oregon and are payable from revenues and
+reserves of the Veterans' Loan Program. The bondholder may tender these bonds on specified
+dates at a price equal to principal plus accrued interest.
+The Department's Remarketing Agent is authorized to use their best effort to sell the repurchased
+bonds at face value by adjusting the interest rate on a daily or weekly basis based on their
+applicable mode. The designated Remarketing Agent for such bonds will determine the interest
+rate borne by each series of bonds.   The Department pays its designated Remarketing Agent a
+remarketing fee for this service:
+Series
+Outstanding Bond
+Principal Amount
+Designated
+Remarketing
+Agent
+Remarketing
+Mode
+Remarketing
+Fee
+Series 95
+(2015 Series P)  $   25,140,000
+U.S. Bank National
+Association Weekly 0.050%
+Series 98B
+(2017 Series O)  $   15,800,000
+U.S. Bank National
+Association Daily 0.050%
+Series 105B
+(2020 Series J)              $   11,565,000
+U.S. Bank National
+Association Daily 0.050%
+Series 106C
+(2020 Series M)              $   11,435,000
+U.S. Bank National
+Association Daily 0.050%
+Series 110
+(2022 Series E)              $   11,000,000
+JP Morgan
+Securities Daily 0.050%
+In the event the bonds cannot be remarketed, they will be purchased as specified by the
+respective SBPA.  Under the SBPAs for Series 95, 98B, 105B and 106C (“Series 95, 98B, 105B
+& 106C SBPAs”), U.S. Bank National Association, will commit to purchase any Series 95, 98B,
+Oregon Department of Veterans’ Affairs
+Veterans’ Loan Program
+Proprietary Fund
+Notes to the Financial Statements (continued)
+June 30, 2024
+105B or 106C unremarketed bonds, subject to certain conditions set forth in the SBPAs. Under
+the SBPA for Series 110, JP Morgan Securiti es will commit to purchase any Series 110
+unremarketed bonds, subject to certain conditions set forth in the SBPA.
+If a tender advance did occur under the Series 95, 98B, 105B, 106C & 110 SBPAs, it would accrue
+interest at the bank’s base rate (either the prime lending rate plus 1%, the federal funds rate plus
+2%, the SIFMA rate plus 1% or 7% for the time period 31 days after the purchase date and
+thereafter, whichever is higher) for the time period up to 30 days; at the bank’s base rate plus 1%
+for the time period covering 31 days up to 90 days; at the bank’s base rate plus 1.5% for the time
+period thereafter.  If the tender advance is in default, interest would accrue at the bank’s base
+rate plus 3%. Interest on tender advances must generally be repaid before the principal portion
+of a tender advance is repaid. In most cases, tender advances are required to be paid off on the
+earliest to occur of (a) the date the applicable bonds are paid in full; (b) the conversion date of all
+or a portion of the applicable bonds to a fixed rate, an indexed rate or a non-covered interest rate;
+or (c) the effective date of delivery of a substitute alternative liquidity facility. Tendered bonds that
+are unremarketed by the 91
+st day after the purchase date of the tender advance must be paid in
+full over a four-year period in eight equal (or nearly equal) semi-annual installments, unless and
+until the bonds are remarketed or redeemed. If repayment of any tender advances does not occur
+within the specified timeframes contained in the Series 95, 98B, 105B, 106C & 110 SBPAs, a
+default would have occurred.
+No tender advances or draws have been necessary to purchase unremarketed bonds under the
+Series 95, 98B, 105B, 106C & 110 SBPAs for fiscal year 2024. Therefore, no tender advances or
+draws were outstanding as of June 30, 2024.
+Each bank's present purchase commitment consis ts of the payment of the purchase price equal
+to the principal and accrued interest, if any, on the bonds of the applicable series tendered for
+purchase and not remarketed on the purchase date. The purchase commitment of each bank may
+be reduced from time to time upon occurrence of certain events specified in the SBPAs. The
+Department is required to pay a commitment fee, which is payable quarterly in arrears.
+7. Derivative Instruments – Interest Rate Swaps
+The Department has interest rate swaps in connection with its Loan Program General Obligation
+Bonds, 2015 Series P (Veterans’ Welfare Bonds Series 95) (the “Series 95 swap”) and its Loan
+Program General Obligation Bonds, 2020 Series J (Veterans’ Welfare Bonds Series 105B) and
+2020 Series M (Veterans’ Welfare Bonds Series 106C) (the “Series 105B & 106C swap”) and
+2022 Series E (Veterans’ Welfare Bonds Series 110). The swaps and underlying floating-rate
+bonds together create “synthetic” fixed-rate debt.
+The Department did not have any maturities of derivatives during fiscal year 2024. During the
+fiscal year the fair value of the Series 95 swap decreased by $304,642. The fair value of the
+Series 105B & 106C swap increased by $361,086. The fair value of Series 110 decreased by
+$46,614.
+The fair value balance of the interest rate swaps is reported as a hedging derivative and deferred
+inflow of resources on the Statement of Net Position. The fair value of the swaps as of June 30,
+2024 are positive. The fair value of the interest rate swaps is estimated using the zero-coupon
+Oregon Department of Veterans’ Affairs
+Veterans’ Loan Program
+Proprietary Fund
+Notes to the Financial Statements (continued)
+June 30, 2024
+method.  This method calculates the future payments required by the swaps, using the forward
+interest rates implied by the yield curve for the floating leg of the swaps and the fixed rate of the
+swaps for the fixed leg of the swaps. These payments are then discounted using the spot rates
+implied by the current yield curve for a hypothetical zero-coupon rate bond due on the date of
+each future net settlement payment on the swaps. The fair value is categorized as Level 2 within
+the fair value hierarchy – which includes quoted prices for similar instruments in active markets;
+quoted prices for identical or similar instruments in markets that are not active; and model-derived
+valuations in which all significant inputs are observable.
+Hedging Instruments
+On June 30, 2024, the Department has the following derivative instruments outstanding:
+Type
+Objective
+Notional
+Amount
+Effective
+Date
+Termination
+Date Terms Fair Value
+Pay – fixed
+interest
+rate swap
+Hedge of changes
+in cash flows on the
+Series 95 bonds,
+specifically related
+to changes in
+municipal tax-
+exempt interest
+rates
+$25,140,000 12/1/2020 12/1/2036
+Pay
+1.0115%;
+Receive
+100% USD-
+SIFMA*
+Municipal
+Swap Index
+$ 3,150,413
+Pay – fixed
+interest
+rate swap
+Hedge of changes
+in cash flows on the
+Series 105B &
+106C bonds,
+specifically related
+to changes in
+municipal tax-
+exempt interest
+rates
+$23,000,000 6/1/2021 12/1/2044
+Pay 1.165%;
+Receive
+100% USD-
+SIFMA*
+Municipal
+Swap
+Index**
+$ 4,828,105
+Pay – fixed
+interest
+rate swap
+Hedge of changes
+in cash flows on the
+Series 110 bonds,
+specifically related
+to changes in
+municipal tax-
+exempt interest
+rates
+$11,000,000 8/10/2022 6/1/2045
+Pay 2.524%;
+Receive
+70% +
+0.08%
+SOFR
+Index***
+$ 166,629
+* Securities Industry and Financial Markets Association (resets weekly)
+**   Receive 100% SIFMA from July 1, 2021 until June 1, 2029 then 70% of 1-month IBOR (Inter Bank Offered Rate)
+from July 1, 2029 until the termination date.
+***   Receive 70% of USD-SOFR-Compound + .08% (Secured Overnight Financing Rate) until the termination date.
+The Series 95 swap was structured with the option where the Department has the right to “cancel”
+or terminate the swap at par on the first day of each June and December, in whole or in part
+commencing June 1, 2025. The Department may also terminate the Series 105B & 106C swap
+on the first day of each June and December commencing on June 1, 2029.  The department may
+Oregon Department of Veterans’ Affairs
+Veterans’ Loan Program
+Proprietary Fund
+Notes to the Financial Statements (continued)
+June 30, 2024
+terminate the Series 110 swap on the first day of each June or December beginning on June 1,
+2031.  These options enhance ass et/liability matching and provide flexibility to adjust the
+outstanding notional amounts of the swaps over time. The use of derivatives, including interest
+rate swaps, involves certain risks. These risks include, but are not limited to:
+Credit Risk – is the risk that a counterparty will not fulfill its obligations. The Department’s Series
+95 swap is with Bank of America, N.A. (the “Series 95 swap counterparty”), which is rated A+ and
+Aa1 by S&P and Moody’s respectively. The Series 105B, 106C & 110 swap is with The Bank
+of New York Mellon (the “Series 105B, 106C & 110 swap counterparty”), which is rated AA- and
+Aa1 by S&P and Moody’s respectively.
+If the Series 95 swap co unterparty’s credit rating falls below certain levels, the Serie s 95 swap
+counterparty is required to post collateral to the lower of the following ratings:
+S&P Rating Moody’s Rating Threshold
+Minimum Transfer
+Amount
+AA- or higher Aa3 or higher Infinite $ 1,000,000
+A+ A1 $ 10,000,000 $ 1,000,000
+A A2     $   5,000,000 $ 1,000,000
+A- A3 $   2,500,000 $ 1,000,000
+BBB+
+or below or not rated
+Baa1
+or below or not rated
+$ - $100,000*
+*Minimum Transfer Amount shall be $0 if, and for so long as, neither Moody’s nor S&P rate the long-term unsecured,
+unsubordinated,
+debt securities of Bank of America, N.A.
+If the Series 105B, 106C & 110 swap counterp
+arty’s credit rating falls below certain levels, the
+Series 105B, 106C & 110 swap counterparty is required to post collateral to the lower of the
+following ratings:
+S&P Rating Moody’s Rating Threshold
+Minimum Transfer
+Amount
+AA- or higher Aa3 or higher Infinite $ -
+A+ A1 $ 10,000,000 $ 1,000,000
+A A2  $   5,000,000 $ 1,000,000
+A- A3 $   2,500,000 $ 1,000,000
+BBB+
+or below or not rated
+Baa1
+or below or not rated
+$ - $100,000*
+*Minimum Transfer Amount shall be $0 if, and for so long as, neither Moody’s nor S&P rate the long-term unsecured,
+unsubordinated,
+debt securities of The Bank of New York Mellon.
+Since the fair value of the swaps as of June 30, 2024, are positive, but the threshold applicable
+to the ratings by S&P and Moody’s has not been exceeded, the Series 95 swap counterparty and
+the Series 105B, 106C and 110 swap counterparty are not required to post collateral.
+According to the State of Oregon Swap Policy, the State may require collateralization or other
+credit enhancements to secure any or all swap payment obligations, where the Oregon State
+Oregon Department of Veterans’ Affairs
+Veterans’ Loan Program
+Proprietary Fund
+Notes to the Financial Statements (continued)
+June 30, 2024
+Treasurer determines such security is necessary to  limit the credit risk or otherwise protect the
+interests of the State.
+Interest Rate Risk – is the risk that changes in interest rates will adversely affect the fair values
+of a government’s cash flows.  The Department is exposed to interest rate risk on its pay-fixed,
+receive variable interest rate swaps.  As the SIFMA Municipal Swap Index rate decreases, the
+Department’s net payments on the swaps increases.
+Basis Risk – is the risk that arises when variable rates of a hedging derivative instrument and a
+hedged item are based on different reference rates.  The variable-rate debt hedged by the
+Department’s interest rate swaps are variable-rate demand obligation (“VRDO”) bonds. The
+Series 95 VRDO bonds are remarketed weekly. The Series 105B, Series 106C and Series 110
+VRDO bonds are remarketed daily. The Department is exposed to basis risk on its pay-fixed
+interest rate swaps that are hedging the VRDO bonds, because the variable-rate payments
+received by the Department are based on a rate other than the interest rates the Department pays
+on the VRDO bonds.  At June 30, 2024, the interest rate on the Department’s Series 95 VRDO
+bonds is 3.85%, the interest rate on the Series 105B and Series 106C VRDO bonds is 4.90% and
+the interest rate on the Series 110 VRDO bonds is 4.70% while the SIFMA Municipal Swap Index
+rate is 3.88%.
+Termination Risk – is the risk that a hedging derivative instrument’s unscheduled end will affect a
+government’s asset and liability strategy or will present the government with potentially significant
+unscheduled termination payments to the counterparty.  The Department or its counterparties
+may terminate the interest rate swap if the other party fails to perform under the terms of the
+respective contract.
+Cash Flows
+As interest rates fluctuate, variable rate bond interest payments and net swap payments will differ
+between the fixed payments paid to the counterparties and the variable rate paid to the
+Department. Using interest rates as of June 30, 2024, debt service requirements of the variable
+rate debt (on the notional amount of the swaps) and net swap payments are as follows:
+Principal Interest Total
+2025 1,730,000                2,586,604                 (1,736,887) 2,579,717
+2026 1,800,000                2,522,408                 (1,690,498) 2,631,910
+2027 1,855,000                2,452,454                 (1,639,240) 2,668,214
+2028 1,895,000                2,383,796                 (1,583,586) 2,695,210
+2029 1,940,000                2,303,743                 (1,529,871) 2,713,872
+2030-2034 10,450,000              10,366,477               (6,805,310) 14,011,167
+2035-2039 19,750,000              7,145,617                 (4,331,015) 22,564,602
+2040-2044 18,070,000              2,688,283                 (1,425,350) 19,332,933
+2045 1,650,000                40,717                             (3,516) 1,687,201
+TOTAL $ 59,140,000 $ 32,490,099 $ (20,745,273) $ 70,884,826
+Fiscal
+Year
+Interest
+Rate Swap
+(Net)
+Oregon Department of Veterans’ Affairs
+Veterans’ Loan Program
+Proprietary Fund
+Notes to the Financial Statements (continued)
+June 30, 2024
+Contingent Features
+If the State of Oregon’s unsecured, unenhanced general obligation debt rating reaches certain
+levels, the Department is required to post collateral to the lower of the following ratings:
+S&P Rating Moody’s Rating Threshold Minimum Transfer
+Amount
+(Series 95)
+Minimum Transfer
+Amount
+(Series 105B, 106C
+& 110)
+A- or higher A3 or higher Infinite
+$100,000
+$  -
+BBB+
+or below
+Baa1
+or below
+$ -      $100,000*   $100,000*
+*Minimum Transfer Amount shall be $0 if, and for so long as, neither Moody’s nor S&P rate the applicable Department’s debt.
+8. Changes in Long Term Liabilities
+The following table provides detail on the long-term liability activity as of June 30, 2024:
+9. Interfund Transactions
+At June 30, 2024, the Veterans’ Loan Program had outstanding interfund receivables of $403,472.
+$348,866 of which was due from the Veterans' Home Program for services performed by Department
+employees related to the operation of the Oregon Veterans' Home. The balances are shown as a
+“Due from Other Funds” on the Statement of Net Position.
+Beginning Ending Due Within
+Balance Increases Decreases Balance One Year
+Bond Principal 390,355,000 $   50,000,000 $   (25,475,000)$   414,880,000 $
+Bond Premium 8,357,957          -                   (1,060,872)       7,297,084
+Bond Discount -                     -                   -                    -
+Total Bonds Payable 398,712,957      50,000,000      (26,535,872)     422,177,084      17,351,214
+Pension-Related Debt 328,405             (75,223)             253,182             66,314
+Net Pension Liability 3,335,539          2,199,044        (760,923)           4,773,659         -
+Compensated Absences Payable 386,063            363,282           (335,315)          414,030             269,120
+GASB 87 Leases 16,903               -                   (16,903)            -                     -
+SBITAs 287,273             18,384             (223,059)          82,598               24,612
+Excess Interest & Arbitrage 8,826,479         13,474,885     (8,826,479)        13,474,885        -
+Rebate Payable
+Total OPEB Liability 67,733               8,704               (11,694)            64,743               -
+Total Long-Term Liabilities 411,961,351$   66,064,298 $   (36,785,468)$   441,240,182 $   17,711,260 $
+Oregon Department of Veterans’ Affairs
+Veterans’ Loan Program
+Proprietary Fund
+Notes to the Financial Statements (continued)
+June 30, 2024
+10. Employee Retirement Plan
+Plan Description
+As part of the State of Oregon, the Public Em ployees Retirement System (PERS) provides
+defined benefit and defined contribution retirement plans to Loan Program employees.  PERS is
+a cost-sharing multiple-employer defined benefit pension plan. All benefits of PERS are
+established by the legislature pursuant to ORS Chapters 238 and 238A. Tier One/Tier Two
+Retirement Benefit plan, established by ORS Chapter 238, is closed to new members hired on or
+after August 29, 2003. The Oregon Public Service Retirement Plan (OPSRP), established by ORS
+Chapter 238A, provides benefits to members hired on or after August 29, 2003. The Individual
+Account Program (IAP) is a defined contribution plan.  Beginning January 1, 2004, all member
+contributions are deposited into the members IAP account.  The pension plans provide pension
+benefits, death benefits and disability benefits.
+PERS issues a publicly available Annual Compr ehensive Financial Report (ACFR) that can be
+obtained at http://www.oregon.gov/pers/Pages/Financials/Actuarial-Financial-Information.aspx
+Contributions
+PERS funding policy provides for monthly employer contributions at actuarially determined
+rates. These contributions, expressed as a percentage of covered payroll, are intended to
+accumulate sufficient assets to pay benefits when due. The rates in effect for the fiscal year
+ended June 30, 2024, for state agencies general service members were 21.24% for Tier
+One/Tier Two and 16.97% for OPSRP.  The IAP member contribution as set by statute is 6%
+and is currently paid by the employee.
+Pension Liabilities, Pension Expense, and Deferred Outflows of Resources, and Deferred
+Inflows of Resources Related to Pensions
+At June 30, 2023, the State of Oregon reported a liability of $5.66 billion for its proportionate share
+of the net pension liability. The net pension liability was measured as of June 30, 2023, and the
+total pension liability used to calculate the net pension liability was determined by an actuarial
+valuation as of December 31, 2021. The State's proportion of the net pension liability was based
+on a projection of the State's long-term share of contributions to the pension plan relative to the
+projected contributions of all participating entities, actuarially determined. At June 30, 2023, the
+State’s proportion was 30.2%, which increased from the 29.8% proportion measured as of June
+30, 2022.
+As part of the State of Oregon, the Loan Program was allocated a percentage (.0218%) of the
+State’s proportionate share in the plan as follows:
+Oregon Department of Veterans’ Affairs
+Veterans’ Loan Program
+Proprietary Fund
+Notes to the Financial Statements (continued)
+June 30, 2024
+Pension-Related Debt
+Prior to the formation of the PERS State and Local Government Rate Pool (SLGRP), the State
+and community colleges were pooled together in the State and Community College Pool (SCCP),
+while local government employers participat ed in the Local Government Rate Pool
+(LGRP). These two pools combined to form the SLGRP effective January 1, 2002. The unfunded
+actuarial liability (UAL) attributable to the SCCP at the time the SLGRP was formed is maintained
+separately from the SLGRP and is reduced by contributions and increased for interest charges at
+the assumed interest rate. The pre-SLGRP liability is essentially a debt owed to the SLGRP by
+the SCCP employers. The balance of the pre-SLGRP pooled liability attributable to the State is
+being amortized over the period ending December 31, 2027.
+11. Lease Commitment and Receivables
+The Department leases office space to other state agency tenants at its headquarters in Salem.
+For the fiscal year ended June 30, 2024, the total rental income received from tenants was
+$962,458.
+12. Risk Financing
+The State of Oregon administers property and ca sualty insurance programs covering State
+government through its Central Services Fund (Insurance Fund). The Insurance Fund services
+claims for direct physical loss or damage to State property; tort liability claims brought against the
+State, its officers, employees, or agents; wo rker's compensation; employee dishonesty; and
+Deferred Outflow Deferred Inflow
+of Resources of Resources
+Differences between expected and actual experience 233,446 $          18,928 $
+Changes in assumptions 424,064             3,162
+Net difference between projected and actual earnings on investments 85,802              -
+Changes in proportion and differences between contributions and
+proportionate share of contributions 523,183             355,361
+Subtotal 1,266,496          377,450
+Net deferred Outflow (Inflow) of Resources before contributions
+subsequent to measurement date 889,045
+Contributions subsequent to measurement date 663,260
+Net Deferred Outflow (Inflow) of Resources 1,552,305 $
+Lease Lease Future
+Effective Date Termination Date Rental Income
+Tenant 1 March 1, 2020 February 28, 2025 143,709 $
+Tenant 2 November 8, 2019 November 30, 2028 2,850,920$
+Total 2,994,629 $
+Oregon Department of Veterans’ Affairs
+Veterans’ Loan Program
+Proprietary Fund
+Notes to the Financial Statements (continued)
+June 30, 2024
+faithful performance coverage for certain key positions required by law to be covered, and other
+key positions.
+As a state agency, the Department participates in the Insurance Fund. The cost of servicing
+insurance claims and payments is covered by charging an assessment to each State entity based
+on its share of services provided in a prior period. The total statewide assessment for the cost of
+servicing is based on independent biennial actuarial forecasts and administrative expenses, less
+any available fund balance in the Insurance Fund from the prior biennium.
+Risk Management Division of the Department of Administrative Services is the State’s manager
+for self-insurance, insurance and risk control. Risk Management Division investigates, evaluates
+and resolves claims for damage to state property and for loss or injury to the public arising out of
+state activities. Division staff consult with and advise state agencies on claim related loss control
+issues. State agencies are responsible for informing Risk Management Division in a timely fashion
+when they become aware that property or liability damage has occurred.
+During the fiscal year ended June 30, 2024 there were no significant reductions in insurance
+coverage in any risk category. Also, for the past ten fiscal years (July 1,2014 through June 30,
+2024) there have been no claims that exceeded the Department’s property or liability coverage.
+13. Subsequent Events
+As of October 16, 2024, the Department has no subsequent events.
+STATISTICAL SECTION
+Oregon Department of Veterans' Affairs
+Assets, Liabilities and Net Position - Unaudited
+Veterans' Loan Program
+For the Fiscal Years Ended 2015 - 2024
+ASSETS & DEFERRED OUTFLOWS June 30, 2024 June 30, 2023 June 30, 2022 June 30, 2021
+Current Assets
+Cash and Cash Equivalents (1) $ 100,562,665 $ 93,621,505 $ 83,502,956             $ 107,464,132
+Cash and Cash Equivalents - Restricted 4,163,576
+3,666,521
+3,320,998               3,195,707
+Securities Lending Cash Collateral 242,603
+72,539
+857,459
+560,948
+I
+nvestments 12,107,631
+11,529,826
+11,488,929             12,333,627
+Investments - Restricted
+Receivables:
+Mortgage Loans and Contracts Receivable 10,470,019
+9,638,353
+8,983,021               8,567,346
+Accrued Interest 1,830,223
+1,444,567
+1,078,327               1,062,805
+LCLI Premiums 4,597
+6,785
+6,338
+6,928
+O
+ther 41,605
+89,655
+128,089
+194,374
+D
+ue from Other Funds 403,472
+264,790
+307,543
+343,861
+R
+eal Estate Owned -
+Prepaid Expenses 8,324
+11,574
+7,641
+17,738
+T
+otal Current Assets $ 129,834,715
+$ 120,346,115
+$ 109,681,301           $ 133,747,466
+Noncurrent Assets
+Cash and Cash Equivalents - Restricted $ 62,180,122 $ 89,717,960 $ 71,825,874             $ 83,810,611
+Mortgage Loans and Contracts Receivable (Net) 380,093,159
+333,117,948
+289,655,634           266,820,295
+Other Receivable 2,045,215
+2,954,600
+5,028,903               2,361,783
+Derivative Instrument - Interest Rate Swap 8,145,147
+8,135,917
+7,031,286               1,488,213
+Net OPEB Asset - RHIA Plan 161,810
+136,591
+152,991
+23,011
+N
+et Pension Asset -
+Capital Assets:
+Building, Property and Equipment 11,367,407
+11,625,192
+11,208,451             11,130,254
+Construction in Progress 1,533,757
+86,132
+-
+Works of Art and Historical Treasures 627,021
+627,021
+627,021
+627,021
+A
+ccumulated Depreciation (6,604,057) (6,471,899) (6,211,035)             (5,999,848)
+Total Noncurrent Assets $ 459,549,581
+$ 439,929,462
+$ 379,319,125           $ 360,261,340
+Deferred Outflow of Resources
+Hedging Derivative $ $ $ $ -
+P
+ension Related 1,929,755
+1,585,906
+1,580,223               1,603,367
+OPEB Related 5,377
+18,545
+19,227
+27,093
+T
+otal Deferred Outflow of Resources 1,935,132
+1,604,451
+1,599,450               1,630,460
+TOTAL ASSETS & DEFERRED OUTFLOWS $ 591,319,428
+$ 561,880,028
+$ 490,599,876           $ 495,639,266
+LIABILITIES & DEFERRED INFLOWS
+Current Liabilities
+Accounts Payable $ 369,301 $ 598,030 $ 35,720 $ 96,521
+Leas
+e Obligations - 15,171
+21,021
+-
+Subscription-Based IT Obligation 24,612
+134,893
+LC
+LI Premium Payable 2,234
+10,767
+6,358
+LC
+LI Claims Payable -
+Due to Other Funds 3,102 99,822
+D
+eposit Liabilities 4,161,342
+3,666,521
+3,310,231               3,189,349
+Accrued Interest on Bonds 1,274,123 1,079,648 670,120 696,205
+O
+bligations Under Securities Lending 242,603
+72,539
+857,459
+560,948
+P
+ension-Related Debt 66,314
+64,571
+65,035
+61,334
+C
+ompensated Absences Payable 269,120
+247,080
+232,827
+263,162
+E
+xcess Interest and Arbitrage Rebate Payable -
+Bonds Payable - Maturing Within One Year (Net) 17,351,214
+16,067,594
+15,474,562             14,303,648
+Matured Bonds Payable -
+Total Current Liabilities $ 23,763,965
+$ 21,946,047
+$ 20,677,742             $ 19,277,347
+Noncurrent Liabilities
+Bonds Payable - Maturing After One Year (Net) $ 404,825,871 $ 382,645,363 $ 315,057,910           $ 324,015,267
+Subscription-Based IT Obligation 57,986
+152,380
+P
+ension-Related Debt 186,869
+263,834
+353,980
+431,855
+N
+et Pension Liability 4,773,659 3,335,539 2,599,289               4,711,809
+Compensated Absences Payable 144,911
+138,983
+130,965
+141,703
+E
+xcess Interest and Arbitrage Rebate Payable 13,474,885
+8,826,479
+7,611,316               10,041,642
+Net OPEB Liability - RHIPA Plan 8,599
+Total O
+PEB Liability - PEBB Plan 64,742
+67,733
+71,633
+96,576
+Leas
+e Obligations 1,732
+18,966
+O
+ther Postemployment Benefits Obligation (Net) -
+Derivative Instrument - Interest Rate Swap -
+Total Noncurrent Liabilities $ 423,528,923
+$ 395,432,043
+$ 325,844,059           $ 339,447,451
+TOTAL LIABILITIES $ 447,292,888
+$ 417,378,090
+$ 346,521,801           $ 358,724,798
+Deferred Inflow of Resources
+Hedging Derivative $ 8,145,147 $ 8,135,917 $ 7,031,286               $ 1,488,213
+Pension Related 377,450
+999,337
+2,029,349               107,049
+O
+PEB Related 52,696
+83,165
+111,164
+24,950
+T
+otal Deferred Inflow of Resources 8,575,293
+9,218,419
+9,171,799               1,620,212
+NET POSITION
+Net Investment in Capital Assets $ 6,924,128
+$ 5,866,446
+$ 5,624,437               $ 5,757,427
+Restricted for OPEB 161,810
+136,591
+152,991
+23,011
+N
+et Assets, Unrestricted 128,365,309
+129,280,482
+129,128,848           129,513,818
+TOTAL NET POSITION $ 135,451,247
+$ 135,283,519
+$ 134,906,276           $ 135,294,256
+TOTAL LIABILITIES, DEFERRED INFLOWS AND NET POSITION $ 591,319,428
+$ 561,880,028
+$ 490,599,876           $ 495,639,266
+(1) Current Cash and Cash Equivalents amounts have been adjusted for deposit liabilities.
+June 30, 2020 June 30, 2019 June 30, 2018 June 30, 2017 June 30, 2016 June 30, 2015
+$ 107,937,547           $ 109,175,030         $ 84,384,687            $ 86,895,236           $ 102,196,365       $ 88,290,771
+3,887,427               3,913,498             3,445,301              3,107,741             2,848,532           2,532,900
+2,614,659               4,164,292             3,175,631              1,017,020             7,174,060           10,291,763
+11,985,204             11,333,230           10,683,342            10,709,272           10,613,753         10,296,884
+- -
+-
+- - -
+10,053,418             10,433,755           9,926,645              - - -
+1,286,518               1,401,495             1,247,464              1,167,666             1,131,097           1,101,323
+8,144
+10,135
+23,478 16,442
+32,899
+53,734
+140,845
+47,605
+243,755 23,440
+9,563
+50,777
+178,075
+90,840
+94,707 87,272
+105,539              110,081
+-
+-
+-
+259,586
+424,720              196,585
+2,743
+5,896
+4,665 8,575
+14,133
+5,241
+$
+138,094,580           $ 140,575,776         $ 113,229,675          $ 103,292,250         $ 124,550,661       $ 112,930,059
+$ 74,016,597             $ 29,011,526           $ 64,724,859            $ 52,093,642           $ 69,855,033         $ 85,073,503
+337,869,323           357,506,594         321,510,937          295,521,511         261,187,668       236,597,114
+930,283
+683,073
+3,767,345              2,335,640             1,413,881           2,637,961
+- -
+403,600 245,110
+- -
+50,530
+29,507
+13,603 - - -
+- -
+-
+- - 507,702
+11,187,151
+10,107,274           9,891,950              9,004,597             9,132,222           9,107,786
+- 3,187
+627,021
+627,021
+627,021 627,021
+627,021              627,021
+(
+5,872,673)             (5,718,064)            (5,568,352)             (5,448,479)           (5,501,146)         (5,392,363)
+$ 418,808,232           $ 392,250,118         $ 395,370,963          $ 354,379,042         $ 336,714,679       $ 329,158,724
+$ 497,488
+$ 297,215
+$ -
+$ -
+$ 763,043              $ 1,391,681
+1,299,310               1,254,344             1,359,565              2,246,768             396,597              187,905
+13,667
+28,738
+25,794
+-
+-
+-
+1,810,465
+1,580,297             1,385,359              2,246,768             1,159,640           1,579,586
+$ 558,713,277           $ 534,406,191         $ 509,985,997          $ 459,918,060         $ 462,424,980       $ 443,668,369
+$ 304,272
+$ 139,326  $ 86,208 $ 114,532  $ 118,401              $ 49,112
+-
+-
+-
+- - -
+8,780
+22,910
+14,543 27,227
+18,059
+26,024
+-
+-
+-
+45,708
+- 25,166
+-
+-
+-
+- - -
+3,878,646               3,890,587             3,430,757              3,080,514             2,830,472           2,506,875
+854,351
+997,600
+916,761 667,278
+579,261              467,235
+2,614,659
+4,164,292             3,175,631              1,017,020             7,174,060           10,291,763
+58,128
+56,018
+40,100 33,200
+25,300
+29,900
+231,259
+217,763
+235,512 239,928
+242,503              231,008
+-
+-
+-
+- - 111,793
+14,162,679
+13,792,285           13,045,401            8,386,825             6,883,474           4,621,160
+-
+-
+-
+- - -
+$ 22,112,774             $ 23,280,781           $ 20,944,913            $ 13,612,232           $ 17,871,530         $ 18,360,036
+$ 386,439,456           $ 362,887,787         $ 342,783,322          $ 298,811,581         $ 297,180,572       $ 275,544,308
+501,592
+560,397
+625,521 672,474
+713,539              734,282
+3,852,506
+3,275,369             3,891,047              4,295,159             1,538,316           -
+124,524
+112,181
+126,814 129,192
+130,579              119,004
+8,811,678
+9,638,437             10,599,876            20,660,816           22,845,548         21,941,769
+22,881
+32,339
+49,224 - - -
+103,274
+115,666
+107,538 - - -
+- -
+-
+114,450
+112,087              119,930
+497,488
+297,215
+-
+- 763,043              1,391,681
+$ 400,353,399           $ 376,919,391         $ 358,183,342          $ 324,683,672         $ 323,283,684       $ 299,850,974
+$ 422,466,173           $ 400,200,172         $ 379,128,255          $ 338,295,904         $ 341,155,214       $ 318,211,010
+-
+-
+403,600
+245,110
+-
+-
+183,664
+184,094
+32,509
+40,813
+374,548              979,659
+27,964
+13,058
+9,180
+-
+-
+-
+211,628
+197,152
+445,289
+285,923
+374,548              979,659
+$
+5,941,499               $ 5,019,418             $ 4,950,619              $ 4,183,139             $ 4,258,097           $ 4,342,444
+50,530
+29,507
+13,603 - - -
+130,043,447           128,959,942         125,448,231          117,153,094         116,637,121       120,135,256
+$ 136,035,476           $ 134,008,867         $ 130,412,453          $ 121,336,233         $ 120,895,218       $ 124,477,700
+$ 558,713,277           $ 534,406,191         $ 509,985,997          $ 459,918,060         $ 462,424,980       $ 443,668,369
+3
+Oregon Department of Veterans' Affairs
+Revenues, Expenses and Changes in Net Position - Unaudited
+Veterans' Loan Program
+For the Fiscal Years Ended 2015 - 2024
+June 30, 2024 June 30, 2023 June 30, 2022 June 30, 2021
+OPERATING REVENUES
+Mortgage Loan Interest Income $ 10,871,946 $ 10,513,520 $ 11,844,958        $ 10,092,947
+Contract Interest Income 208
+Investment Income 8,156,216 5,183,842 455,117             2,119,590
+Gain on Sale of Foreclosed Property -
+Loan C
+ancellation Life Insurance Premiums 109,013 122,013 136,895             161,434
+Loan Cancellation Life Insurance Processing Fees 72,000 76,767 66,000 72,000
+Other Fees and Charges 1,292,543 3,562,566 3,419,054          2,985,887
+Conservatorship Fees 419,193 469,063 418,607             432,285
+TOTAL OPERATING REVENUES $ 20,920,911 $ 19,927,771 $ 16,340,631        $ 15,864,351
+OPERATING EXPENSES
+Bond Interest $ 11,260,488 $ 8,996,580 $ 7,901,444          $ 8,957,712
+Salaries and Other Payroll 6,333,190 5,120,180 4,314,746          5,048,660
+Bond Expenses 734,728 1,331,051 814,254             (381,644)
+Securities Lending Investment Expense 13,974 13,871 2,498 1,191
+Real Estate Owned Expense 13
+-
+1,685 -
+Serv
+ices and Supplies 1,565,740 2,573,085 2,015,755 1,532,279
+Claims Expense - Loan Cancellation Life Insurance 71,171 156,573 300,770             273,555
+Depreciation 205,657 260,864 211,187             192,919
+Bad Debt (569)
+(71,627) 31,428 (20,124)
+Special Payments 56,609 -
+Ot
+her 1,614,759 1,427,671 1,551,028          870,861
+TOTAL OPERATING EXPENSES $ 21,855,760 $ 19,808,248 $ 17,144,795        $ 16,475,409
+OPERATING INCOME (LOSS) $ (934,849) $ 119,523 $ (804,164)            $ (611,058)
+NONOPERATING INCOME (EXPENSES)
+Interest Expense - Pension Related Debt (17,899)
+(22,988)
+(24,416)
+(38,750)
+Leases Incurred 12,262
+Gain/(Loss) on Early Extinguishment of Debt 580,855 472,046 612,893             -
+TO
+TAL NONOPERATING INCOME (EXPENSES) 562,956 461,320 588,477             (38,750)
+INCOME (LOSS) BEFORE TRANSFERS (371,893) 580,843 (215,687)            (649,808)
+TRANSFERS
+Net Transfers from Lottery Fund $ $ $ $ 85,817
+Net Transfers to Dept. of Administrative Services (199,519) (203,600) (172,293)            (178,371)
+Net Transfers from Veterans' Home program 739,140 -
+N
+et Transfers to Veterans' Rural Transp. Grant -
+C
+apital Contributions 1,142
+TOTAL TRANSFERS 539,621 (203,600) (172,293)            (91,412)
+CHANGE IN NET POSITION $ 167,728 $ 377,243 $ (387,980)            $ (741,220)
+NET POSITION
+Beginning Net Position $ 135,283,519 $ 134,906,276 $ 135,294,256       $ 136,035,476
+Prior Period Adjustment -
+-
+-
+-
+C
+umulative Effect of Change in Accounting Principle -
+-
+-
+-
+Beginning N
+et Position, Restated $ 135,283,519 $ 134,906,276 $ 135,294,256       $ 136,035,476
+Ending Net Position $ 135,451,247 $ 135,283,519 $ 134,906,276       $ 135,294,256
+June 30, 2020 June 30, 2019 June 30, 2018 June 30, 2017 June 30, 2016 June 30, 2015
+$ 14,586,593        $ 14,987,375         $ 22,000,659         $ 13,302,684         $ 9,926,312           $ 9,573,211
+1,857 4,174 6,420 11,033 23,118 36,952
+4,
+180,569          4,399,745          2,983,359          2,017,506          1,744,597          1,317,488
+-
+38,474 207,875             7,143 44,415 37,528
+190,
+103             227,190 270,555             304,246             351,809             418,580
+72,000 72,000 72,000 72,000 72,000 72,000
+2,
+540,376          2,893,531          2,276,040          1,979,856          2,080,470          2,349,133
+464,659             452,217             503,471             534,731             489,585             392,206
+$ 22,036,157        $ 23,074,706        $ 28,320,379        $ 18,229,199        $ 14,732,306        $ 14,197,098
+$ 11,615,666        $ 11,212,762        $ 9,508,093          $ 8,299,193          $ 7,009,347          $ 5,999,144
+5,077,542          4,030,200          4,588,032          5,391,885          6,033,621          3,966,905
+1,019,122          558,622             1,657,852          1,009,223          1,184,177          1,174,810
+24,840 60,052 19,234 7,675 31,957 12,050
+19,709 75,420 44,121 17,833 138,901
+1,509,643          1,476,316          1,356,698          1,379,273          1,541,746          1,205,305
+375,840             646,456             526,411             450,938             1,247,875          1,170,815
+154,609             149,711             119,874             115,289             108,783             104,244
+(29,554)              (126,193)            (313,706)            (539,102)            (244,749)            (600,374)
+-
+-
+-
+-
+-
+-
+893,536             1,409,209          1,412,369          1,370,564          1,139,726          1,081,046
+$ 20,641,954        $ 19,436,844        $ 18,950,277        $ 17,529,059        $ 18,070,316        $ 14,252,846
+$ 1,394,203          $ 3,637,862          $ 9,370,102          $ 700,140             $ (3,338,010)         $ (55,748)
+(43,559)              (42,321)              (43,835)              (50,496)              (50,122)              (51,837)
+-
+-
+-
+-
+-
+-
+(43,559)              (42,321)              (43,835)              (50,496)              (50,122)              (51,837)
+1,350,644          3,595,541          9,326,267          649,644             (3,388,132)         (107,585)
+$ 475,000             $ -
+$ -
+$ -
+$ -
+$ -
+(176,040)            (181,544)            (187,783)            (208,629)            (194,350)            (203,543)
+-
+-
+-
+-
+- -
+-
+(485)
+-
+-
+-
+-
+377,005             182,902 -
+-
+-
+-
+675,965             873 (187,783)            (208,629)            (194,350)            (203,543)
+$ 2,026,609          $ 3,596,414          $ 9,138,484          $ 441,015             $ (3,582,482)         $ (311,128)
+$ 134,008,867      $ 130,412,453      $ 121,336,233      $ 120,895,218      $ 124,477,700      $ 125,711,830
+-
+-
+-
+-
+-
+3,958
+-
+-
+(62,264)              -
+-
+(926,960)
+$
+134,008,867      $ 130,412,453      $ 121,273,969      $ 120,895,218      $ 124,477,700      $ 124,788,828
+$ 136,035,476      $ 134,008,867      $ 130,412,453      $ 121,336,233      $ 120,895,218      $ 124,477,700
+3
+Oregon Department of Veterans' Affairs
+Veterans' Loan Program
+Unaudited
+Principal Balance of Bonds Outstanding
+$-
+$100
+$200
+$300
+$400
+$500
+$600
+2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+Outstanding Bonds  (Millions)
+June 30
+Fixed Rate Synthetic Fixed Variable Rate
+Source: Statistical Reports and Financial Statements of the Oregon Department of Veterans' Affairs.
+Oregon Department of Veterans' Affairs
+Veterans' Loan Program
+Unaudited
+Loans and Contracts Outstanding
+1,000
+2,000
+3,000
+4,000
+5,000
+$0
+$50
+$100
+$150
+$200
+$250
+$300
+$350
+$400
+2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+Number of Outstanding Accounts
+Total Balance Loans and Contracts  (Millions)
+June 30
+MILLIONS ACCOUNTS
+Source: Statistical Reports and Financial Statements of the Oregon Department of Veterans' Affairs.
+3ϳ
+Oregon Department of Veterans' Affairs
+Veterans' Loan Program
+Unaudited
+Loan and Contract 90+ Day Delinquencies
+0.00%
+1.50%
+3.00%
+4.50%
+6.00%
+7.50%
+9.00%
+2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+Percent  Delinquent
+June 30
+Federal VA FHA Conventional ODVA
+Source: Statistical Reports of the Oregon Department of Veterans' Affairs.
+90+ Day Delinquencies include past due loans and loans in foreclosure. Comparison includes Oregon data only.
+3ϴ
+Oregon Department of Veterans’ Affairs
+Veterans’ Loan Program
+Unaudited
+Loans and Contracts Outstanding by County
+As of June 30, 2024
+Total Loans & Contracts Outstanding: 1,560
+Source:  Statistical Reports of the Oregon Department of Veterans’ Affairs
+OTHER REPORTS
+Kip Memmott
+Division Director
+255 Capitol St NE, Ste 180
+Salem, Oregon 97310
+LaVonne Griǆn-Valade Cheryl Myers Information (503) 986-2255
+Oregon Secretary of State  Deputy Secretary & Tribal Liaison sos.oregon.gov/audits
+Independent Auditor’s Report on Internal Control over Financial
+Reporting and on Compliance and Other Matters Based on an
+Audit of Financial Statements Performed in Accordance With
+The Honorable Tina Kotek
+Governor of Oregon
+Dr . Nakeia Daniels, Director
+Oregon Department of Veterans’ Aǅairs
+We have audited, in accordance with the auditing standards generally accepted in the United States of
+America and the standards applicable to ﬁnancial audits contained in Government Auditing Standards
+issued by the Comptroller General of the United States, the ﬁnancial statements of the Veterans’ Loan
+Program, an enterprise fund of the State of Oregon Department of Veterans’ Aǅairs, as of and for the year
+ended June 30, 2024, and the related notes to the ﬁnancial statements, which collectively comprise the
+Veterans’ Loan Program’s basic ﬁnancial statements, and have issued our report thereon dated
+October 11, 2024.
+Report on Internal Control over Financial Reporting
+In planning and performing our audit of the ﬁnancial statements, we considered the Oregon Department of
+Veterans’ Aǅairs’ (department) internal control over ﬁnancial reporting (internal control) as a basis for
+designing audit procedures that are appropriate in the circumstances for the purpose of expressing our
+opinion on the ﬁnancial statements, but not for the purpose of expressing an opinion on the eǅectiveness of
+the department’s internal control. Accordingly , we do not express an opinion on the eǅectiveness of the
+department’s internal control.
+A deﬁciency in internal control exists when the design or operation of a control does not allow management
+or employees, in the normal course of performing their assigned functions, to prevent, or detect and
+correct, misstatements on a timely basis. A material weakness is a deﬁciency , or a combination of
+deﬁciencies, in internal control, such that there is a reasonable possibility that a material misstatement of
+the entity’s ﬁnancial statements will not be prevented, or detected and corrected, on a timely basis. A
+signiﬁcant deﬁciency is a deﬁciency , or a combination of deﬁciencies, in internal control that is less severe
+than a material weakness, yet important enough to merit attention by those charged with governance.
+Audits Division
+Our consideration of internal control was for the limited purpose described in the ﬁrst paragraph of this
+section and was not designed to identify all deﬁciencies in internal control that might be material
+weaknesses or signiﬁcant deﬁciencies. Given these limitations, during our audit we did not identify any
+deﬁciencies in internal control that we consider to be material weaknesses. However, material weaknesses
+or signiﬁcant deﬁciencies may exist that were not identiﬁed.
+Report on Compliance and Other Matters
+As part of obtaining reasonable assurance about whether the department’s ﬁnancial statements are free
+from material misstatement, we performed tests of its compliance with certain provisions of laws,
+regulations, contracts, and grant agreements, noncompliance with which could have a direct and material
+eǅect on the ﬁnancial statements. However , providing an opinion on compliance with those provisions was
+not an objective of our audit, and accordingly , we do not express such an opinion. The results of our tests
+disclosed no instances of noncompliance or other matters that are required to be reported under
+Government Auditing Standards.
+Purpose of this Report
+The purpose of this report is solely to describe the scope of our testing of internal control and compliance
+and the results of that testing, and not to provide an opinion on the eǅectiveness of the department’s
+internal control or on compliance. This report is an integral part of an audit performed in accordance with
+Government Auditing Standards in considering the department’s internal control and compliance.
+Accordingly , this communication is not suitable for any other purpose.
+State of Oregon
+October 11, 2024
+Serving Oregon Veterans Since 1945 ͮϳϬϬ^ƵŵŵĞƌ^ƚƌĞĞƚE
+ͮ^ĂůĞŵ͕KƌĞŐŽŶϵϳϯϬϭͮ,ĞĂĚƋƵĂƌƚĞƌƐϴϬϬϴϮϴϴϴϬϭTheOregonDepartmentofVeterans’Aīairs(ODVA)intendstocomplywiththeAmericanswithDisabiliƟesAct(TheADA),PL101-336.TheADAprovidesthatnoqualiĮedpersonwithadisabilityshallbekeptfromparƟcipaƟonin(orbedeniedabeneĮtof)theservices,programs,oracƟviƟesofODVAbecauseofthatdisability.ForaddiƟonalinformaƟonorhowtoĮleacomplaint,pleasecontactODVA’sADAcoordinatorat503-373-2380.ThisinformaƟonisalsoavailableinalternateformats,uponrequest.

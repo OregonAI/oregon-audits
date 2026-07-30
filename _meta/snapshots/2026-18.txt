@@ -1,0 +1,286 @@
+High School Graduation and College and Career Readiness Fund
+Biennial Financial Report
+For Biennium Ended June 30, 2025
+Table of Contents
+Financial Section ............................................................................................................................. 2
+Independent Auditors’ Report ..................................................................................................... 3
+Basic Financial Statements .......................................................................................................... 6
+Balance Sheet – June 30, 2025 ................................................................................................. 6
+Statement of Revenues, Expenditures, and Changes in Fund Balance
+For the Biennium Ended June 30, 2025 .................................................................................... 7
+Notes to the Financial Statements ........................................................................................... 8
+Report on Internal Control over Financial Reporting and on Compliance on Other Matters ... 11
+Steve Bergmann
+Division Director
+255 Capitol St NE, Ste 180
+Salem, Oregon 97310
+Tobias Read Michael Kaplan Information (503) 986-2255
+Oregon Secretary of State  Deputy Secretary of State sos.oregon.gov/audits
+Independent Auditor’s Report
+The Honorable Tina Kotek
+Governor of Oregon
+Dr . Charlene Williams, Director
+Oregon Department of Education
+Report on the Audit of the Financial Statements
+Opinion
+We have audited the ﬁnancial statements of the High School Graduation and College and Career
+Readiness Fund, a special revenue fund of the State of Oregon, Department of Education, as of and for the
+biennium ended June 30, 2025, and the related notes to the ﬁnancial statements, as listed in the table of
+contents.
+In our opinion, the accompanying ﬁnancial statements referred to above present fairly , in all material
+respects, the ﬁnancial position of the High School Graduation and College and Career Readiness Fund, a
+special revenue fund of the State of Oregon, Department of Education, as of June 30, 2025, and the
+changes in its ﬁnancial position for the biennium then ended in accordance with accounting principles
+generally accepted in the United States of America.
+Basis for Opinion
+We conducted our audit in accordance with auditing standards generally accepted in the United States of
+America (GAAS) and the standards applicable to ﬁnancial audits contained in Government Auditing
+Standards, issued by the Comptroller General of the United States. Our responsibilities under those
+standards are further described in the Auditor’s Responsibilities for the Audit of the Financial Statements
+section of our report. We are required to be independent of the State of Oregon, Department of Education,
+and to meet our other ethical responsibilities, in accordance with the relevant ethical requirements relating
+to our audit. We believe that the audit evidence we have obtained is suǆcient and appropriate to provide a
+basis for our opinion.
+Emphasis of Matter
+As discussed in Note 1, the ﬁnancial statements present only the High School Graduation and College and
+Career Readiness Fund and do not purport to, and do not, present fairly the ﬁnancial position of the State of
+Oregon or the Department of Education, as of June 30, 2025, the changes in its ﬁnancial position for the
+Audits Division
+biennium then ended in accordance with accounting principles generally accepted in the United States of
+America. Our opinion is not modiﬁed with respect to this matter .
+Responsibilities of Management for the Financial Statements
+Management is responsible for the preparation and fair presentation of these ﬁnancial statements in
+accordance with accounting principles generally accepted in the United States of America, and for the
+design, implementation, and maintenance of internal control relevant to the preparation and fair
+presentation of ﬁnancial statements that are free from material misstatement, whether due to fraud or error .
+Auditor’s Responsibility for the Audit of the Financial Statements
+Our objectives are to obtain reasonable assurance about whether the ﬁnancial statements as a whole are
+free from material misstatement, whether due to fraud or error , and to issue an auditor’s report that includes
+our opinion. Reasonable assurance is a high level of assurance but is not absolute assurance and therefore
+is not a guarantee that an audit conducted in accordance with GAAS and Government Auditing Standards
+will always detect a material misstatement when it exists. The risk of not detecting a material misstatement
+resulting from fraud is higher than for one resulting from error , as fraud may involve collusion, forgery ,
+intentional omissions, misrepresentations, or the override of internal control. Misstatements are
+considered material if there is a substantial likelihood that, individually or in the aggregate, they would
+inﬂuence the judgment made by a reasonable user based on the ﬁnancial statements.
+In performing an audit in accordance with GAAS and Government Auditing Standards, we
+ exercise professional judgment and maintain professional skepticism throughout the audit.
+ identify and assess the risks of material misstatement of the ﬁnancial statements, whether due to
+fraud or error , and design and perform audit procedures responsive to those risks. Such
+procedures include examining, on a test basis, evidence regarding the amounts and the
+disclosures in the ﬁnancial statements.
+ obtain an understanding of internal control relevant to the audit in order to design audit procedures
+that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the
+eǅectiveness of the Oregon Department of Education’s internal control. Accordingly , no such
+opinion is expressed.
+ evaluate the appropriateness of accounting policies used and the reasonableness of signiﬁcant
+accounting estimates made by management, as well as evaluate the overall presentation of the
+ﬁnancial statements.
+We are required to communicate with those charged with governance regarding, among other matters, the
+planned scope and timing of the audit, signiﬁcant audit ﬁndings, and certain internal control-related matters
+that we identiﬁed during the audit.
+Other Reporting Required by
+In accordance with Government Auditing Standards, we have also issued our report dated May 14, 2026,
+on our consideration of the Oregon Department of Education’s internal control over ﬁnancial reporting and
+Audits Division
+on our tests of its compliance with certain provisions of laws, regulations, contracts, and grant agreements
+and other matters. The purpose of that report is solely to describe the scope of our testing of internal control
+over ﬁnancial reporting and compliance and the results of that testing, and not to provide an opinion on the
+eǅectiveness of the Oregon Department of Education’s internal control over ﬁnancial reporting or on
+compliance. That report is an integral part of an audit performed in accordance with Government Auditing
+Standards in considering the Oregon Department of Education’s internal control over ﬁnancial reporting
+and compliance.
+State of Oregon
+May 14, 2026
+Oregon Department of Education
+High School Graduation and College and Career Readiness Fund
+Balance Sheet
+June 30, 2025
+ASSETS
+Cash and Cash Equivalents 24,539,621
+Due from Other Funds 37,644,025
+TOTAL ASSETS
+$62,183,646
+LIABILITIES AND FUND BALANCE
+Liabilities:
+Accounts Payable 61,202,062
+Total Liabilities 61,202,062
+Fund Balance:
+Restricted by:
+Enabling Legislation 981,584
+Total Fund Balance 981,584
+TOTAL LIABILITIES AND FUND BALANCE
+$62,183,646
+The notes to the financial statements are an integral part of this statement.
+Oregon Department of Education
+High School Graduation and College and Career Readiness Fund
+Statement of Revenues, Expenditures, and Changes in Fund Balance
+For the Biennium Ended June 30, 2025
+REVENUES
+Other                          57,780
+Total Revenues                            $57,780
+EXPENDITURES
+Current:
+Education:
+Salaries and Wages                        2,313,959
+Services and Supplies                              59,570
+Distribution to Local School Districts                    339,927,258
+Distribution to Non-Governments                      13,832,444
+Total Expenditures                  $356,133,231
+Excess (Deficiency) of Revenues Over (Under)
+Expenditures       ($356,075,451)
+OTHER FINANCING SOURCES (USES)
+Transfers from General Fund                     147,234,632
+Transfers from Other Funds                     177,644,025
+Total Other Financing Sources (Uses)                     324,878,657
+Net Change in Fund Balance          ($31,196,794)
+Fund Balance - Beginning                        32,178,377
+Fund Balance - Ending                            $981,584
+The notes to the financial statements are an integral part of this statement.
+Notes to the Basic Financial Statements – Governmental Funds
+June 30, 2025
+Note 1 – Summary of Significant Accounting Policies
+The accompanying financial statements of the Oregon Department of Education’s High School
+Graduation and College and Career Readiness Fund (Fund) have been prepared in conformity
+with generally accepted accounting principles for governments as prescribed by Governmental
+Accounting Standards Board (GASB).
+A. Reporting Entity
+The High School Graduation and College and Career Readiness Fund was initiated by ballot
+Measure 98 entitled High School Success in November 2016 with the measure passing with
+65% voter support. The Fund was established pursuant to House Bill 2246 (2017). The
+purpose of the Fund is to improve the graduation rates and college and career readiness of
+all high school students in Oregon.
+The High School Graduation and College and Career Readiness Fund program is
+administered by the Oregon Department of Education (ODE). The Fund consists of several
+activities to establish or expand programs in three specific areas: Dropout Prevention,
+Career and Technical Education and College Level Education Opportunities. The intent is to
+improve student progress toward graduation beginning with grade 9, increase the
+graduation rates of high schools and improve high school graduates’ readiness for college
+and career.
+B. Basis of Presentation
+ODE programs and accounts are organized by funds, each of which is a separate accounting
+entity. The funds utilize a separate set of self-balancing accounts to record the assets,
+liabilities, fund balance, revenues and expenses of their program activities. ODE’s High
+School Graduation and College and Career Readiness Fund program is classified as a
+governmental fund.
+Governmental funds focus on how cash and other financial resources that can be readily
+converted to cash flow in and out and the balance remaining at year-end that are available
+to spend. Thus, the governmental fund statements provide a detailed short-term view that
+helps to determine whether there are more or less financial resources that can be spent in
+the near future to finance ODE’s programs.
+C. Measurement Focus and Basis of Accounting
+The basic financial statements for the Fund are presented as a governmental fund. As such,
+the Fund is accounted for using the current financial resources measurement focus and the
+modified accrual basis of accounting. Revenues are recognized when they are both
+measurable and available. Revenues are considered available when they are collectible
+within the current year or soon enough thereafter to pay liabilities existing at the end of the
+year. For this purpose, ODE considers revenues as available, if they are collected within 90
+days of the end of the current fiscal year. Expenditures generally are recognized when a
+liability is incurred, as under accrual accounting.
+D. Budgetary Process
+The Oregon Legislature approves ODE’s budget on a biennial basis. The High School
+Graduation and College and Career Readiness Fund program expenditures are monitored
+against approved budgets, quarterly allotments and cash balances. Limitations lapse at the
+end of the biennium. The Emergency Board of the Legislature approves any necessary
+increases in budgets when the Legislature is not in session. The Fund has continuous
+spending authority under ORS 327.856.
+E. Cash and Cash Equivalents
+All monies of the Fund are deposited with the State Treasury, which is responsible for
+maintaining these deposits in accordance with Oregon law. The Fund considers all such
+deposits to be cash and cash equivalents. The Fund has no other cash deposits or
+investments.
+F. Fund Equity
+The difference between assets and liabilities is labeled “Fund Balance” on the governmental
+fund financial statements. Fund balance is reported as Restricted, which are the result of
+constraints imposed by law through constitutional provisions or enabling legislation or by
+parties outside the State, such as creditors, grantors, contributors or laws or regulations of
+other governments. Enabling legislation authorizes the State to levy, assess, charge, or
+otherwise mandate payment from external resource providers and includes a legally
+enforceable requirement that those resources be used only for specific purposes stipulated
+by the legislation.
+Note 2 – Cash and Cash Equivalents
+On June 30, 2025, the book balance of cash and cash equivalents was $24,539,621 and the bank
+balance was $30,058,970. All cash in the Fund is deposited in demand accounts with the State
+Treasurer in the Oregon Short-Term Fund (OSTF), a cash and investment pool for use by all
+state agencies.
+The custodial credit risk for deposits is the risk that, in the event of a bank failure, the State
+Treasurer will not be able to recover deposits or will not be able to recover collateral securities
+that are in the possession of an outside party. ODE does not have a policy regarding custodial
+credit risk for deposits; however, the insurance and collateral requirements for deposits in the
+OSTF are established by banking regulations and Oregon law.
+A separate financial report for OSTF is prepared by the Treasurer. Copies of the report may be
+obtained by writing to the Oregon State Treasury, 867 Hawthorne Avenue SE, Salem, Oregon
+97301, or from www.oregon.gov/Treasury.
+Note 3 – Commitments
+As of June 30, 2025, the Fund has active grant agreements obligated in the amount of
+$366,365,214 and has disbursed a total of $349,356,048 to districts and charter schools that
+serve students in grade 9 through grade 12. The amount of undisbursed grant commitments is
+$17,009,166.
+Note 4 – Interfund Transactions
+Transfers are used to move (1) revenues collected by one fund to the fund authorized by
+statute or the State’s budget to expend them, and (2) unrestricted revenues collected by the
+General Fund for various programs accounted for in other funds according to State budget
+requirements.
+In the 2023 legislative sessions, House Bill 5014 was passed, appropriating $147,234,632 from
+the General Fund to the Fund during the 2023-25 biennium.
+In the 2023 legislative session, House Bill 5014 was passed requiring $162,927,214 to be
+transferred from the Fund for Student Success to the Fund during the 2023-25 biennium.
+In the 2023 legislative session, Senate Bill 5506 was passed appropriating an additional
+$14,716,811 Other Funds limitation, to be transferred from the Student Success Statewide
+Education Initiatives Account in the Fund for Student Success.
+Steve Bergmann
+Division Director
+255 Capitol St NE, Ste 180
+Salem, Oregon 97310
+Tobias Read Michael Kaplan Information (503) 986-2255
+Oregon Secretary of State  Deputy Secretary of State sos.oregon.gov/audits
+Independent Auditor’s Report on Internal Control over Financial
+Reporting and on Compliance and Other Matters Based on an
+Audit of Financial Statements Performed in Accordance With
+The Honorable Tina Kotek
+Governor of Oregon
+Dr . Charlene Williams, Director
+Oregon Department of Education
+We have audited, in accordance with the auditing standards generally accepted in the United States of
+America and the standards applicable to ﬁnancial audits contained in Government Auditing Standards
+issued by the Comptroller General of the United States, the ﬁnancial statements of the High School
+Graduation and College and Career Readiness Fund, a special revenue fund of the State of Oregon,
+Department of Education, as of and for the biennium ended June 30, 2025, and the related notes to the
+ﬁnancial statements, which collectively comprise the High School Graduation and College and Career
+Readiness Fund’s basic ﬁnancial statements, and have issued our report thereon dated May 14, 2026.
+Report on Internal Control over Financial Reporting
+In planning and performing our audit of the ﬁnancial statements, we considered the Oregon Department of
+Education’s (department) internal control over ﬁnancial reporting (internal control) as a basis for designing
+audit procedures that are appropriate in the circumstances for the purpose of expressing our opinion on the
+ﬁnancial statements, but not for the purpose of expressing an opinion on the eǅectiveness of the
+department’s internal control. Accordingly , we do not express an opinion on the eǅectiveness of the
+department’s internal control.
+A deﬁciency in internal control exists when the design or operation of a control does not allow management
+or employees, in the normal course of performing their assigned functions, to prevent, or detect and
+correct, misstatements on a timely basis. A material weakness is a deﬁciency , or a combination of
+deﬁciencies, in internal control, such that there is a reasonable possibility that a material misstatement of
+the entity’s ﬁnancial statements will not be prevented, or detected and corrected on a timely basis. A
+signiﬁcant deﬁciency is a deﬁciency , or a combination of deﬁciencies, in internal control that is less severe
+than a material weakness, yet important enough to merit attention by those charged with governance.
+Our consideration of internal control was for the limited purpose described in the ﬁrst paragraph of this
+section and was not designed to identify all deﬁciencies in internal control that might be material
+Audits Division
+weaknesses or signiﬁcant deﬁciencies. Given these limitations, during our audit we did not identify any
+deﬁciencies in internal control that we consider to be material weaknesses. However, material weaknesses
+or signiﬁcant deﬁciencies may exist that were not identiﬁed.
+Report on Compliance and Other Matters
+As part of obtaining reasonable assurance about whether the department’s ﬁnancial statements are free
+from material misstatement, we performed tests of its compliance with certain provisions of laws,
+regulations, contracts, and grant agreements, noncompliance with which could have a direct and material
+eǅect on the ﬁnancial statements. However , providing an opinion on compliance with those provisions was
+not an objective of our audit, and accordingly , we do not express such an opinion. The results of our tests
+disclosed no instances of noncompliance or other matters that are required to be reported under
+Government Auditing Standards.
+Purpose of this Report
+The purpose of this report is solely to describe the scope of our testing of internal control and compliance
+and the results of that testing, and not to provide an opinion on the eǅectiveness of the department’s
+internal control or on compliance. This report is an integral part of an audit performed in accordance with
+Government Auditing Standards in considering the department’s internal control and compliance.
+Accordingly , this communication is not suitable for any other purpose.
+State of Oregon
+May 14, 2026

@@ -1,0 +1,596 @@
+Secretary of State Bev Clarno
+Audits Division Director Kip Memmott
+Multiple Agencies
+By Appropriately Administering Measure 76 Funds,
+Oregon Is Advancing Constitutional Goals for State
+Parks and Natural Resources
+December 2020
+Report 2020-43
+Multiple Agencies
+By Appropriately Administering Measure 76
+Funds, Oregon Is Advancing Constitutional Goals
+for State Parks and Natural Resources
+What We Found
+1. Agencies are complying with grant expenditure requirements. (pg. 10)
+2. Agencies evaluate, award, and monitor grants effectively. (pg. 10)
+3. The Oregon Parks and Recreation Department has taken steps to prepare
+for a potential reallocation of funds. (pg. 12)
+4. Agencies’ performance data demonstrates progress on constitutional
+achievements. (pg. 13)
+What We Recommend
+The Oregon Constitution requires the Secretary of State Audits Division to
+regularly audit any state agency that receives moneys from the parks and
+natural resources fund. The stated intent of the audit is to address the
+financial integrity, compliance with applicable laws, efficiency and
+effectiveness of the use of the moneys.
+We found agencies receiving these funds have adequate processes and
+procedures in place to ensure the funds are achieving the stated
+constitutional purpose. As such, we have no recommendations to offer.
+Why This Audit is
+Important
+» Parks and natural resources
+are two of Oregon’s
+irreplaceable assets that
+benefit all citizens. Voters
+passed Measure 76 in 2010,
+amending the state
+Constitution to protect these
+assets.
+» Measure 76 designates 15%
+of Lottery revenues to a fund
+for that purpose. Recently,
+that fund has exceeded
+$95 million per year.
+» Much (39%) of the
+Measure 76 Fund is dedicated
+to grant programs.
+» Appropriate procedures and
+tracking are necessary to
+ensure grant dollars are spent
+appropriately and completely.
+» Measure 76 also amended
+the Constitution to require a
+regular audit of these moneys.
+The Oregon Secretary of State Audits Division is an independent, nonpartisan organization that conducts audits based on
+objective, reliable information to help state government operate more efficiently and effectively. The summary above should be
+considered in connection with a careful review of the full report.
+Oregon Secretary of State | Report 2020-43 | December 2020 | Page 1
+Introduction
+Oregon’s natural beauty and resources have long been an integral part of the state’s identity.
+Much of the state’s robust tourism industry relies on access to parks and outdoor recreational
+opportunities. The many natural resources found in the state — including timber, water, fish,
+and wildlife — have been the foundation of Oregon’s economy for decades. Beyond economic
+interests, Oregonians pride themselves on the natural beauty of the state and enjoy ready access
+to its many forests, hiking trails, waterways, beaches, and more. Maintaining the health and
+availability of the outdoors is critical to the state and its citizens.
+Recognizing this fact, and desiring to continue investments in these areas, voters passed
+Measure 76 in 2010 and amended the Oregon
+Constitution. The Parks and Natural
+Resources Fund receives 15% of net lottery
+revenues, about $100 million per year, and
+divides it equally between the parks and
+natural resources subaccounts.
+Parks funding is “distributed for the public
+purposes of financing the protection, repair,
+operation, and creation of state, regional and
+local public parks, ocean shore and public
+beach access areas, historic sites and
+recreations areas.”1 Natural resource funding
+is for “the restoration and protection of native
+fish and wildlife, watersheds and water
+quality in Oregon.”
+Measure 76 also amended the Constitution to require a regular audit of the moneys. Per Article
+XV, section 4c, the Secretary of State “shall regularly audit any state agency that receives moneys
+from the parks and natural resources fund... to address the financial integrity, compliance with
+applicable laws, efficiency and effectiveness of the use of the moneys.”
+Six Oregon agencies receive money from this fund and were therefore included in this audit: the
+Oregon Parks and Recreation Department (OPRD), the Oregon Watershed Enhancement Board
+(OWEB), the Oregon Department of Fish and Wildlife (ODFW), the Oregon State Police (OSP), the
+Oregon Department of Environmental Quality (DEQ), and the Oregon Department of Agriculture
+(ODA).
+1 Oregon Constitution, Article XV, Section 4, Paragraph 10
+2 Oregon Constitution, Article XV, Section 4, Paragraph 10
+Oregon’s parks and natural resources are two of the state’s
+most valuable assets.
+Source: OWEB.
+Oregon Secretary of State | Report 2020-43 | December 2020 | Page 2
+Oregon has dedicated funding to conservation for over 20 years
+The same principles in Measure 76 were first implemented in 1998, when voters passed
+Measure 66. The passage of Measure 76 made some changes over the previous iteration of the
+fund, the most significant being that, while Measure 663 required minimum amounts to be spent
+on capital expenditures, Measure 76 removed that requirement and replaced it with minimum
+amounts to be for local and regional grants.
+Measure 76 is not the only funding source for park management and conservation efforts by the
+state. Many others exist, such as the state’s General Fund and federal funds used by the six
+agencies receiving Measure 76 funds and by other agencies.
+Figure 1: Oregon entities receiving Measure 76 funds also receive other resources
+Source: Legislative Fiscal Office detailed analysis of the 2017-19 Legislatively Adopted Budget.
+The appropriations for both the Measure 66 and Measure 76 Fund have generally trended
+upward since inception, beginning with $111 million in the first full biennium (2001-03) and
+growing to $193 million for the 2017-19 biennium. Beginning in spring 2020, the COVID-19
+pandemic caused a decrease in lottery revenues, which may lead to reduced funding for the
+current and future biennia.
+Six agencies use Measure 76 funds for a variety of operational purposes
+Currently, the Measure 76 Fund is dispersed to six agencies. Since it is a funding source with
+broad goals it allows for the participating agencies to implement unique structures and
+programs.
+The fund is divided equally between the parks subaccount, which is allocated entirely to OPRD,
+and the natural resources subaccount, which is split among the remaining five agencies. The
+Constitution further divides these subaccounts into separate portions for grants and operations.
+Most of our audit procedures focused on the portions pertaining to grants as operational
+expenditures, which are primarily for payroll and services and supplies, appeared to have a
+lower risk. The grants portions generally must be awarded to entities other than the state for
+specific purposes, such as the construction of a local park or the completion of a wetland
+3 The Audits Division performed audits of Measure 66 funds. These can be found on our website. They are reports no. 2010-27, 2008-
+20, 2007-01, 2005-17, and 2002-46.
+$-
+$50
+$100
+$150
+$200
+$250
+$300
+$350
+$400
+$450
+OPRD OWEB ODA OSP ODFW DEQ
+Millions
+M76 Operations M76 Grants Other Resources
+Oregon Secretary of State | Report 2020-43 | December 2020 | Page 3
+restoration project. The operations portions have fewer restrictions and may be used by state
+agencies for costs such as payroll or rent.
+Figure 2: The Measure 76 Fund is allocated to several agencies for grants and  operations
+Source: Oregon Constitution, Article XV, Section 4.
+OPRD uses Measure 76 funds to manage state parks and keep parks affordable and
+accessible
+OPRD’s mission is to provide and protect outstanding natural, scenic, cultural, historic, and
+recreational sites for the enjoyment and education of present and future generations. The
+agency focuses on protecting Oregon’s special outdoor and historic places, providing
+opportunities for great experiences and sustaining Oregon’s quality outdoor recreation and
+heritage resources for the future. OPRD is led by the seven-member Parks and Recreation
+Commission.
+To accomplish its mission, OPRD provides one of the most popular state park systems in the
+nation — more than 250 properties providing more than 50 million visits a year — and manages
+other key recreation and heritage programs. These include Oregon’s public ocean shore, scenic
+waterways and bikeways, the State Historic Preservation Office, archaeology services, and
+historic cemeteries. OPRD programs serve Oregon communities directly with grants and
+guidance related to outdoor recreation, museums, and historic downtown revitalization.
+OPRD has about 600 full-time equivalent
+staff, with many employees being seasonal.
+In recent years, OPRD’s budget has been
+approximately $100 million per year.
+Measure 76 funds are nearly half of OPRD’s
+revenues. Other significant revenues are park
+service fees, recreational vehicle registration
+fees, and federal funds.
+In spring 2020, the COVID-19 pandemic
+caused a significant decrease in revenues, as
+both the Measure 76 lottery revenues and
+park service fees fell. This has forced OPRD
+to cut costs in many areas and lay off a portion of its workforce. As of October 2020, OPRD is still
+responding to this budget shortfall as the situation develops.
+Per the Oregon Constitution, OPRD must use at least 12% of the Measure 76 funds for grants; the
+remaining 88% is used by the agency for operations. All of the grant money is used for the Local
+Government Grant Program, which helps local governments gain or improve parklands. The
+grant program is described in more detail later in this report.
+Kayakers enjoy Collier Memorial State Park.
+Source: OPRD.
+Oregon Secretary of State | Report 2020-43 | December 2020 | Page 4
+OWEB uses Measure 76 funds to help accomplish its mission to protect natural resources
+OWEB’s mission is to help protect and restore healthy
+watersheds and natural habitats that support thriving
+communities and strong economies. The agency accomplishes
+this largely through grants to help Oregonians take care of
+local streams, rivers, wetlands, and natural areas. OWEB is led
+by an 18-member citizen board drawn from the public at large,
+tribes, and federal and state natural resource agency boards
+and commissions.
+OWEB has about 30 full-time equivalent staff operating under
+an annual budget of $55 million. Measure 76 funds comprise
+approximately 60% of OWEB’s revenues. Other significant
+revenues are federal funds (primarily through the Pacific Coast
+Salmon Recovery Fund grant program) and salmon license
+plate revenues.
+Much like OPRD, OWEB was also affected by revenue shortfalls
+as a result of the COVID-19 pandemic. In response, the agency
+paused financial awards and budget decisions.
+OWEB is required to use at least 65% of the Measure 76 funds from the natural resources
+subaccount for a variety of grant programs. The remainder of OWEB’s portion, which is
+approximately 4% of the natural resources subaccount, is used for operations — which
+primarily consists of grant-making and coordinating conservation efforts with many
+stakeholders. The most significant grant type is restoration, which is for projects that improve
+waterway or watershed habitat in a specific area using actions like adding beneficial plants to a
+stream bank or removing fish passage barriers like irrigation dams. Other grant types that
+support restoration activities are technical assistance, monitoring, operating capacity, and
+stakeholder engagement. These grants are described in more detail later in this report.
+Four other agencies with a role in protecting natural resources also receive Measure 76
+funds
+ODA’s mission is to ensure healthy natural resources, environment, and economy through the
+inspection and certification, regulation, and promotion of agriculture and food.
+ODA annually receives about $4.1 million in
+Measure 76 funds, representing about 7% of its
+revenues. Recently, ODA used about 70% of these
+funds for invasive species management programs
+and 30% for water quality programs. ODA also
+provides technical advice and helps to select
+grantees for two Measure 76 grant programs: the
+Oregon State Weed Board grants and the Soil and
+Water Conversation District grants.
+The mission of OSP is to serve the State of Oregon
+with a diverse workforce dedicated to the
+protection of people, property, and natural
+resources. The agency enforces the traffic laws on the state’s roadways, investigates and solves
+crimes, conducts post-mortem examinations and forensic analysis, and provides background
+checks and law enforcement data. OSP is also charged with regulating hunting, fishing, the
+OWEB protects Oregon’s streams.
+Source: OWEB.
+ODA fights invasive species such as spotted knapweed.
+Source: ODA.
+Oregon Secretary of State | Report 2020-43 | December 2020 | Page 5
+handling of hazardous materials and fire codes, educating the public on fire safety, and enforcing
+fish, wildlife, and natural resource laws.
+One of the larger agencies to receive Measure 76 funds, OSP annually
+receives about $4 million in Measure 76 funds, representing about 2%
+of OSP’s revenues, all of which goes to the agency’s Fish and Wildlife
+Division. This division is comprised of 135 troopers who enforce
+hunting, fishing, and other natural resource laws.
+OSP’s Fish and Wildlife Division is not to be confused with ODFW,
+which regulates the harvest, health, and enhancement of native species
+populations. The agency manages fish hatcheries and wildlife areas,
+conducts research, and educates the public.
+ODFW annually receives about $2.6 million in Measure 76 funds,
+representing about 1% of its revenues, and uses these funds for a
+variety of programs. A common theme of these programs is native species conservation, which is
+accomplished by monitoring, data analysis, planning, policymaking, and on-the-ground projects.
+The final agency to receive Measure 76 funds is DEQ, whose mission is to be a leader in
+restoring, maintaining and enhancing the quality of Oregon's air, land and water.
+DEQ is a regulatory agency receiving annually about $2.3 million in Measure 76 funds,
+representing about 1% of its revenues, all of which is used in the Water Quality Division on the
+Water Quality Monitoring, Water Quality Permitting, and Total Maximum Daily Load programs.
+These programs aim to maintain and improve the quality of Oregon’s water resources.
+Oregon uses grants as a powerful tool to fulfill the goals of Measure 76
+Granting is an important function to many government agencies. It helps to extend the reach of
+an agency’s funds beyond what the government can do by itself. By granting, an agency involves
+more stakeholders, getting collaboration from entities with similar goals that might not have
+been involved in the absence of grants.
+It also allows the leveraging of funds to secure “matching.” For example, the grantor may
+contribute $10,000 to a project contingent on a matching contribution by the grantee of $5,000.
+This creates a project worth $15,000 that fulfills the grantor’s goals without having to spend as
+much money.
+The constitutionally required Measure 76 grant programs are assigned to OPRD and OWEB.
+OWEB enlists the assistance of ODA in administering parts of its Measure 76 grant program. The
+specifics of these grants are covered in greater detail in the Audit Results section of this report.
+Grant offerings require planning, effort, and coordination
+A typical grant offering involves the following phases and steps. These can vary depending on
+the types of grants.
+A state trooper inspects crab
+pots, enforcing wildlife laws.
+Source: OSP.
+Oregon Secretary of State | Report 2020-43 | December 2020 | Page 6
+Pre-Award Phase: In planning, the grantor considers their objectives for the cycle and
+dedicates resources to the grant offering. The grantor also writes rules and applications to
+prepare. In advertising, the grantor notifies the public of the grant offering and encourages
+eligible entities to apply. This is followed by the application step, wherein potential grantees
+complete and submit applications, often using a web interface. Finally, the awarding step: The
+grantor reviews applications and selects awardees using a process that gives all applicants equal
+opportunities and funds the best grant proposals. This often involves a technical or eligibility
+review by staff in the grantor agency and a review by a committee of staff and volunteer
+stakeholders. Those reviews will result in recommendations. The ultimate selection of awardees
+is made by an appointed board or, if authority has been delegated, by grantor management.
+Award Phase: This phase begins with notification, when the grantor notifies the applicant that
+they have selected their project for funding. This allows the applicant to begin preparing the
+project. The grantor will advise the grantee not to expend funds until an agreement is signed by
+both parties. This is followed by the grant writing step. The grantor drafts a grant agreement,
+which is a legally binding contract between the parties that describes the required actions for
+each party. Finally, the execution step is where both grantor and grantee sign the agreement and
+commit to the contract.
+Post-Award Phase: Once the grant has been awarded, the grantee performs the project as
+written, periodically notifying the grantor of its progress. The grantor may conduct site visits
+and review documentation in what is considered the performance and monitoring step and is
+followed by the reimbursement step, where the grantee submits reimbursement requests. (This
+step applies to reimbursement basis grants, where the grantor only pays the grantee after the
+grantee incurs costs. Some grants are not on a reimbursement basis, allowing payments in
+advance of the time costs are incurred.) Finally, there is the closeout step. The grantee submits a
+final report and a final reimbursement request, if applicable. These items demonstrate
+completion of the project work. The grantor reviews these submissions to their satisfaction and
+considers the report closed.
+Oregon Secretary of State | Report 2020-43 | December 2020 | Page 7
+Agencies use Key Performance Measures to evaluate progress for use of
+Measure 76 funds
+Measure 76 funds are used for operational purposes to meet constitutional achievements.
+Agencies use key performance measures that are reported annually to the Legislature in
+showing progress toward these achievements.
+Key performance measures are the primary expression of an agency performance. They are
+high-level, outcome-oriented performance measures state agencies use to report externally to
+the Legislature and interested citizens. These measures communicate in quantitative terms how
+well the agency is achieving its mission and goals.
+Oregon Secretary of State | Report 2020-43 | December 2020 | Page 8
+Audit Results
+The Oregon Constitution requires the Secretary of State Audits Division to regularly audit any
+state agency that receives moneys from the parks and natural resources fund to address the
+financial integrity, compliance with applicable laws, efficiency and effectiveness of the use of the
+moneys. This audit focused on grant administration as this was a recent constitutional
+requirement.
+We found the three Oregon agencies administering grants have adequate processes in place to
+track grant expenditure requirements and are effectively evaluating, awarding, and monitoring
+these grants. We also found OPRD has taken steps to prepare for a potential reallocation of
+funds. Finally, we found the performance metrics of each agency demonstrate progress on
+constitutional achievements.
+Agencies have a process to track grant expenditure requirements
+Measure 76 funds have constitutional requirements to be spent in certain ways. Of the funding
+received, OPRD is to spend no less than 12% for local and regional grants to either acquire
+property for — or to develop or improve — public parks, natural areas, or outdoor recreation
+areas. OWEB is to spend no less than 65% on grants to entities other than state or federal
+agencies for projects restoring watersheds and fish or wildlife habitats.
+We found agencies have adequate processes in place to track grant expenditures to ensure they
+are meeting constitutional requirements. Both OPRD and OWEB use coding in the state’s
+accounting system to track grant money to ensure the constitutional requirement is met. Both
+agencies also have processes to ensure that the required revenue is appropriately recorded.
+Expenditures are also coded to ensure the required amount of money is spent on grants.
+Agencies evaluate, award, and monitor grants effectively
+OPRD awards grants for local governments’ park projects
+The Measure 76 allocation for
+OPRD grants goes entirely to the
+Local Government Grant Program.
+This program creates grants to
+local governments for projects
+that develop, rehabilitate, acquire,
+or plan for park and recreation
+facilities. Grants may be used, for
+example, to purchase a new city
+park, restripe a tennis court for
+pickleball, clear an overgrown
+trail, or engineer a plan for a city
+park.
+The Local Government Grant
+Program has one grant cycle per
+year. Grants are typically between
+$25,000 and $1 million. In 2019,
+there were 33 grants awarded for a total of $6.62 million.
+A technical review is completed by OPRD staff for all grant applications. Applications requesting
+$75,000 or more are also reviewed by the Local Government Grant Advisory Committee, which
+Baker City residents playing on the Geiser Pollman Park Playground.
+Source: OPRD.
+Oregon Secretary of State | Report 2020-43 | December 2020 | Page 9
+has 10 members. The committee scores applications using criteria based on administrative rule
+that includes demonstration of user benefits, public interest, conformance with local and state
+planning guidelines, cost/benefit, environmental assessments, project increase in outdoor
+recreation in the area, and accommodation for people with disabilities.4 For applications
+requesting less than $75,000, OPRD staff review and score using a similar process. The
+committee and staff present these to the OPRD director for approval and then forward them to
+the Parks and Recreation Commission for final approval.
+Once grants are awarded and agreements are executed, projects are usually paid on a
+reimbursement basis, with receipts and proof of payment being required for reimbursement.
+Projects typically last around two years. Grantees are often required to submit progress reports
+throughout the project and a final progress report at the close of the project. Reporting often
+includes before and after pictures of the project site.
+We reviewed OPRD’s processes for the Local Government Grant Program and found them
+sufficient to ensure grant applications are adequately evaluated, and grants are adequately
+awarded and monitored. We also reviewed grant documentation and found OPRD complied with
+its established processes.
+OWEB awards grants for various conservation activities with assistance from ODA
+OWEB uses Measure 76 funds for a variety of grant programs. Some of the grant types include
+land and water acquisition, restoration, stakeholder engagement, technical assistance,
+monitoring, focused investment partnership, and operating capacity.
+All grant payments from the natural resource subaccount are paid through OWEB. Of the
+$67.6 million for the 2017-19 biennium, $9.75 million (14.4%) were grants processed with the
+assistance of ODA ($3 million for noxious weed control grants and $6.75 million for the Soil and
+Water Conservation District capacity grants).
+Many of the OWEB grant applications are reviewed by one of six regional review teams, each of
+which consists of approximately 15 expert volunteers. This review may include an on-site visit.
+The regional team meets to discuss the projects and then recommends one of the following:
+fund, fund with conditions, do not fund, or defer. This decision is based on a variety of factors,
+including the criteria established in administrative rule, success of project completion, benefit to
+watershed function, habitat and quality, and cost/benefit.5 Each team member scores each
+project. These scores are aggregated and a prioritized list of projects is summarized for the
+OWEB board. The OWEB board then votes to award the projects.
+The ODA weed grants are reviewed by staff at both ODA and OWEB. The grants are then
+reviewed and approved by the Oregon State Weed Board. The board presents recommendations
+for funding to OWEB, who awards the grants based on those recommendations. Grantees receive
+payments of 50% at agreement, 25% at the mid-term, and 25% at final reporting. Most grant
+agreements have terms of about 18 months. Grantees must submit detailed invoices and reports
+at mid-term and closeout of the grant.
+The ODA Soil and Water Conservation District grants are split into two types — district
+operations grants and statement of work grants. For the most part, the funds are split equally
+between all conservation districts in the state. The grants are paid in advance, with expenditure
+details due before the next payment. For monitoring, conservation districts submit various
+4 See OAR 736-006-0145 for the full administrative rule.
+5 For the full administrative rules, see OAR 695-010-0030 and -0060.
+Oregon Secretary of State | Report 2020-43 | December 2020 | Page 10
+reports to OWEB and ODA. Those reports have details about complaints, landowner interactions,
+projects, and conservation practices.
+Some of the grants are monitored on-site each year. Grantees are often required to submit
+progress reports throughout the project and a final progress report is required at the close of the
+project. Reporting often includes before and after pictures of the project site, as well as data
+about the project. Examples of common types of data collected are GPS data for inclusion in the
+Oregon Watershed Restoration Inventory and number of acres treated for weed control.
+Once awarded, most projects are paid on the reimbursement basis, although advance payments
+are sometimes allowed. If there are advanced payments, they are no more than 120 days in
+advance of project initiation and additional funding will not be provided until project support
+from the grantee is provided for the advance funding.
+We reviewed OWEB and ODA’s processes for their grant programs and found them sufficient to
+ensure grant applications are adequately evaluated, and grants are adequately awarded and
+monitored. We also reviewed grant documentation and found OWEB and ODA complied with its
+established processes.
+OPRD has taken steps to prepare for a potential reallocation of funds
+A requirement of the Constitution is that the allocation for grants be increased once the fund
+rises above a certain threshold. That threshold is 150% over the 2009-11 biennium amount.
+Currently, OPRD must spend 12% of the parks subaccount and OWEB must spend 65% of the
+natural resources subaccount on grants. If the threshold is exceeded, these percentages increase
+to 25% and 70%, respectively. The increase is much more significant for OPRD (a 108%
+increase) than for OWEB (a 7% increase).
+Forecasts made during the early stages of our audit suggested that the threshold could be
+exceeded as early as the 2020-21 biennium. Should this occur, OPRD will need to plan and
+OWEB collects before and after photos from grantees to monitor projects. One such project restored a natural waterway by
+breaching of an old, unused dike.
+Source: OWEB.
+Oregon Secretary of State | Report 2020-43 | December 2020 | Page 11
+reallocate resources to comply with the Constitutional requirement. OPRD has initiated
+discussions to make the needed changes.
+However, the COVID-19 pandemic in spring 2020 caused a decrease in lottery revenues,
+delaying the change in the grant funds reallocation. It is unclear when lottery revenues will
+return to pre-pandemic levels and continue growing to trigger the reallocation. We made
+inquiries and performed some analyses, but suspended further work since the reallocation was
+not forthcoming.
+Agencies’ performance data demonstrates progress on constitutional
+achievements
+As part of our review, we read the Constitution, read agencies’ annual performance progress
+reports6, and inquired of the agencies. We compared agencies’ performance data to the
+achievements in the Constitution.
+The Constitution describes the purposes of the parks subaccount as follows:
+“…[T]he legislative assembly shall appropriate all of the moneys in the parks subaccount …
+to achieve all of the following:
+(a) Provide additional public parks, natural areas or outdoor recreational areas to meet
+the needs of current and future residents of the State of Oregon;
+(b) Protect natural, cultural, historic and outdoor recreational resources of state or
+regional significance;
+(c) Manage public parks, natural areas and outdoor recreation areas to ensure their long-
+term ecological health and provide for the enjoyment of current and future residents of
+the State of Oregon; and
+(d) Provide diverse and equitable opportunities for residents of the State of Oregon to
+experience nature and participate in outdoor recreational activities in state, regional,
+local or neighborhood public parks and recreation areas.”
+OPRD reports to the Legislature annually using the following key performance measures:
+• Park visitation: Visitors per acre of Oregon Parks and Recreation Department property.
+• Heritage program benefits: Number of properties, sites, or districts that benefit from an
+OPRD-managed heritage program.
+• Grant programs: Percent of Oregon communities that benefit from an OPRD-managed
+grant program.
+• Property acquisition: Park lands and waters acquired by OPRD as a percentage of the
+total goal, otherwise known as the recreation lands index.
+• Facilities backlog: Percent reduction in facilities backlog since 1999.
+• Customer satisfaction: Percent of customers rating their satisfaction with the agency's
+customer service as "good" or "excellent"; overall customer service, timeliness, accuracy,
+helpfulness, expertise and availability of information.
+• Commission best practices: Percent of total best practices met by the State Parks and
+Recreation Commission.
+We concluded these measures are adequate to demonstrate the level at which OPRD is fulfilling
+the constitutional achievements.
+6 These reports are available at https://www.oregonlegislature.gov/lfo/APPR/Forms/AllItems.aspx
+7 Oregon Constitution, Article XV, Section 4a(1).
+Oregon Secretary of State | Report 2020-43 | December 2020 | Page 12
+The Constitution describes the purposes of the Natural Resources subaccount as follows:
+“…[T]he legislative assembly shall appropriate all of the moneys in the natural resources
+subaccount … to accomplish all of the following:
+(a) Protect and Improve water quality in Oregon’s rivers, lakes, and streams by restoring
+natural watershed functions or stream flows;
+(b) Secure long-term protection for lands and waters that provide significant habitats for
+native fish and wildlife;
+(c) Restore and maintain habitats needed to sustain healthy and resilient populations of
+native fish and wildlife;
+(d) Maintain the diversity of Oregon’s plants, animals and ecosystems;
+(e) Involve people in voluntary actions to protect, restore and maintain the ecological
+health of Oregon’s lands and waters; and
+(f) Remedy the conditions that limit the health of fish and wildlife, habitats and
+watershed functions in greatest need of conservation.”8
+OWEB reports to the Legislature annually using the following key performance measures:
+• Operations: The percentage of total funding used in agency operations.
+• Funding from other sources: The percent of funds contributed from other sources on
+OWEB funded restoration projects.
+• Grant-making across Oregon: Percent of Oregon's 76 sub-basins within which
+Oregonians benefit from OWEB's grant programs.
+• Timeliness of grant-making: The percent of open solicitation grant agreements executed
+within one month after Board award.
+• Fish populations: The percentage of monitored native fish species that exhibit increasing
+or stable levels of abundance.
+• Watershed council governance: Percent of OWEB-funded watershed councils that
+demonstrate effective organizational governance and management using OWEB merit
+criteria.
+• Payments: The percentage of complete grant payment requests paid within 24 days.
+• Streamside habitat: The number of riparian stream miles restored or enhanced as a
+result of OWEB-funded grants.
+• Upland habitat: Acres of upland habitat restored or enhanced as a result of OWE- funded
+grants.
+• Native species habitat and water quality: Percent of restoration, acquisition, or technical
+assistance funding invested to address habitat for threatened, endangered, or species of
+concern, or water-quality concerns identified.
+• Native fish habitat quantity: Miles of fish habitat opened as a result of completed fish
+passage projects funded through OWEB grants.
+• Customer service: Percent of customers rating their satisfaction with the agency's
+customer service as "good" or "excellent": overall customer service, timeliness, accuracy,
+helpfulness, expertise, and availability of information.
+We concluded these measures are adequate to demonstrate the level at which OWEB is fulfilling
+the constitutional achievements.
+8 Oregon Constitution, Article XV, Section 4b(1)
+Oregon Secretary of State | Report 2020-43 | December 2020 | Page 13
+Recommendations
+The Oregon Constitution requires the Secretary of State Audits Division to regularly audit any
+state agency that receives moneys from the parks and natural resources fund. The stated intent
+of the audit is to address the financial integrity, compliance with applicable laws, efficiency and
+effectiveness of the use of the moneys.
+We found the agencies receiving these funds have adequate processes and procedures in place
+to ensure the funds are achieving the stated constitutional purpose. As such, we have no
+recommendations to offer.
+Oregon Secretary of State | Report 2020-43 | December 2020 | Page 14
+Objective, Scope, and Methodology
+Objectives
+The objectives of this audit were to:
+• Determine whether granting agencies are complying with the minimum grant
+requirements.
+• Determine whether agencies have effective grant administration processes to
+(1) evaluate and award grants that further the purposes outlined in Measure 76 and
+(2) monitor grants to ensure they are meeting the objectives of the grant award.
+• Determine whether OPRD is prepared for an increase in grant funding.
+• Present information on agencies' performance data used to support achievement of
+constitutional goals.
+Scope
+Our scope was limited to the use of Measure 76 funds. Only OPRD, OWEB, and ODA are involved
+in the distribution of grant funds, so the majority of our work was limited to those agencies.
+Most of our procedures were limited to the 2017-19 biennium.
+Methodology
+To address the audit objectives, we interviewed key staff, management, and board members at
+OPRD, OWEB, ODA, OSP, ODFW, DEQ, and the Legislative Fiscal Office.
+We reviewed relevant constitutional requirements, laws, regulations, and legal opinions. We
+obtained and reviewed budget, accounting, and performance reports. We obtained an
+understanding of applicable internal controls, especially as they pertained to grant processes.
+We tested to ensure that the agencies had a process to ensure the 12% and 65% grant
+requirements were met. We reviewed budgeted amounts and data from the state accounting
+system.
+We did not test operational funds. Based on our interviews with agency staff and review of data,
+operational funds appear reasonable and allowable for the use of Measure 76.
+We obtained grant data from OPRD, OWEB, and ODA, then performed limited data reliability
+testing. During the 2017-19 biennium, about 900 grants were awarded by these agencies. We
+selected random statistical and nonstatistical samples of grant applications and grant
+agreements.
+We tested a total of 116 grant applications using the following tests:
+• Was an eligibility or technical review completed?
+• Was scoring criteria used? (Or, was project evaluation documentation retained?)
+• Was the grant for a Measure 76 purpose?
+We tested a total of 109 grant agreements using the following tests:
+• Did the board approve the grant?
+• Was the grant for a Measure 76 purpose?
+• Was the grant agreement signed by the agency and the grantee?
+• Were selected reimbursement requests for the grant payments appropriately approved
+(the request is related to the grant and appropriate detail is submitted)?
+Oregon Secretary of State | Report 2020-43 | December 2020 | Page 15
+• Did the total payments not exceed the maximum dollars in the agreement as amended?
+• Did monitoring during the project occur (or were deliverables throughout the project
+met)? (Or, was a progress report submitted before the end of the project?)
+• Was correct closeout documentation retained (e.g. pictures, copy of deed, etc.) and were
+grant objectives met?
+We conducted this performance audit in accordance with generally accepted government
+auditing standards. Those standards require that we plan and perform the audit to obtain
+sufficient, appropriate evidence to provide a reasonable basis for our findings and conclusions
+based on our audit objectives. We believe that the evidence obtained provides a reasonable basis
+for our findings and conclusions based on our audit objectives.
+We sincerely appreciate the courtesies and cooperation extended by officials and employees of
+OPRD, OWEB, ODA, OSP, ODFW, DEQ, and the Legislative Fiscal Office during the course of this
+audit.
+Audit Team
+Mary Wenger, CPA, Deputy Director
+Kelly Olson, CPA, Audit Manager
+Michelle Rock, CPA, Lead/Principal Auditor
+Aaron Hiddleson, Staff Auditor
+David Drohman, CPA, Staff Auditor
+About the Secretary of State Audits Division
+The Oregon Constitution provides that the Secretary of State shall be, by virtue of the office, Auditor of Public
+Accounts. The Audits Division performs this duty. The division reports to the elected Secretary of State and is
+independent of other agencies within the Executive, Legislative, and Judicial branches of Oregon government.
+The division has constitutional authority to audit all state officers, agencies, boards and commissions as well as
+administer municipal audit law.
+This report is intended to promote the best possible management of public resources.
+Copies may be obtained from:
+Oregon Audits Division
+255 Capitol St NE, Suite 500 | Salem | OR | 97310
+(503) 986-2255
+sos.oregon.gov/audits

@@ -1,0 +1,261 @@
+Single-Employer Other Postemployment Benefits (OPEB) Plan
+Schedule of OPEB Amounts
+As of and for the Fiscal Year Ended June 30, 2019
+Retiree Health Insurance Premium Account Single-Employer OPEB Plan
+Schedule of OPEB Amounts
+As of and for the Fiscal Year Ended June 30, 2019
+Table of Contents
+Page(s)
+Independent Auditor’s Report .................................................................................................................... 1-2
+Schedule of OPEB Amounts ......................................................................................................................... 3
+Notes to the Schedule of OPEB Amounts ................................................................................................. 4-8
+www.mgocpa.com
+Macias Gini & O’Connell LLP
+3000 S Street, Suite 300
+Sacramento, CA 95816
+Independent Auditor's Report
+To the Honorable Kate Brown
+Governor of Oregon
+To the Public Employees Retirement Board of the
+Tigard, Oregon
+We have audited the columns titled net OPEB liability, total deferred outflows of resources, total deferred
+inflows of resources, and OPEB expense (specified column totals) included in the accompanying schedule
+of Other Postemployment Benefits (OPEB) amounts  (schedule) of the Oregon Public Employees
+Retirement System  (System) Retiree Health Insurance Premium Account (RHIPA) Single -Employer
+Defined Benefit OPEB Plan (Plan),  as of and for the fiscal year ended June 30, 201 9, and the related
+notes.
+Management’s Responsibility for the Schedule
+Management is responsible for the preparation and fair presentation of the  schedule in accordance with
+accounting principles generally accepted in the United States of America; this includes the design,
+implementation, and maintenance of internal control relevant to the preparation and fair presentation of
+the schedule that is free from material misstatement, whether due to fraud or error.
+Auditor’s Responsibility
+Our responsibility is to express opinions on the specified column totals included in the schedule of OPEB
+amounts based on our audit. We conducted our audit in accordance with  auditing standards generally
+accepted in the United States of America . Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether the schedule is free from material misstatement.
+An audit involves performing procedures to obtain audit evidence about the amounts and disclosures for
+the specified column totals included in the schedule  of OPEB amounts.  The procedures selected depend
+on the auditor’s judgment, including the assessment  of the risks of material misstatement of the  specified
+column totals included in the schedule  of OPEB amounts, whether due to fraud or error. In making those
+risk assessments, the auditor considers internal control relevant to the entity’s preparation and  fair
+presentation of the specified column totals included in the schedule  of OPEB amounts in order to design
+audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an
+opinion on the effectiveness of the entity’s internal control.  Accordingly, we express no such opinion. An
+audit also includes evaluating the appropriateness of accounting policies used and the reasonableness of
+significant accounting estimates made by management, as well as evaluating the overall p resentation of
+the specified column totals included in the schedule of OPEB amounts.
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for
+our audit opinions.
+Opinions
+In our opinion, the schedule referred to above present s fairly, in all material respects, the net OPEB
+liability, the total deferred outflows of resources, total deferred inflows of resources, and OPEB expense
+for the Oregon Public Employees Retirement System Retiree Health Insurance  Premium Account
+(RHIPA) Single-Employer Defined Benefit Other Postemployment Benefits Plan as of and for the fiscal
+year ended June 30, 2019, in accordance with accounting principles generally accepted in the United
+States of America.
+Other Matter
+We have audited, in accordance with standards generally accepted in the United States of America, the
+financial statements of the fiduciary activities and the proprietary activities of the Oregon Public
+Employees Retirement System as of and for the fiscal year ended June 30, 2019, and our report thereon
+dated December 16, 2019, expressed unmodified opinions on those financial statements.
+Restriction on Use
+Our report is intended solely for the information and use of the System’s management, the Audit
+Committee, the Public Employees Retirement Board, the State of Oregon  and their auditors and is not
+intended to be and should not be used by anyone other than these specified parties.
+Sacramento, California
+February 24, 2020
+OPEB Expense
+Employer
+Number Employer Name Net OPEB Liability
+Changes in
+Assumptions
+Total Deferred
+Outflows of Resources
+Differences between
+Expected and Actual
+Experience
+Net Difference
+between Projected
+and Actual
+Investment Earnings
+Total Deferred
+Inflows of Resources Total OPEB Expense
+1000 State Agencies 25,331,334$               303,472$                303,472$  2,407,723$  91,536$  2,499,259$  3,370,538$
+Total for All Entities 25,331,334$               303,472$                303,472$  2,407,723$  91,536$  2,499,259$  3,370,538$
+Oregon Public Employees Retirement System Retiree
+Health Insurance Premium Account
+Single-Employer Other Postemployment Benefits Plan
+Schedule of OPEB Amounts
+As of and for the Fiscal Year Ended June 30, 2019
+Deferred Inflows of ResourcesDeferred Outflows of Resources
+The accompanying notes are an integral part of this schedule.
+Single-Employer Other Postemployment Benefits Plan
+Notes to the Schedule of OPEB Amounts
+As of and for the Fiscal Year Ended June 30, 2019
+Note 1 - Description of Plan
+A. Organization
+Oregon Public Employees Retirement System ( PERS or the System) administers a single-employer defined
+benefit Other Postemployment Benefits (OPEB) plan (Plan) for units of state government (Employer), with
+the state as one employer . Plan assets may be used to pay the benefits of the employees of any state
+agency that provides OPEB through the Plan. Contributions are mandatory for each state agency. As of June
+30, 2019, there are 109 participating state agencies.
+PERS is administered in accordance with Oregon Revised Statutes (ORS) Chapter 238, Chapter 238A, and
+Internal Revenue Code Section 401(a). The Oregon Legislature has delegated authority to the Public
+Employees Retirement Board (Board) to administer and manage the System. All members of the Board are
+appointed by the Governor and confirmed by the State Senate. The Governor designates the chairperson.
+One member must be a public employer manager or a local elected official, one member must be a union-
+represented public employee or retiree, and three members must have experience in business
+management, pension management, or investing.
+B. Plan Membership
+The Retiree Health Insurance Premium Account (RHIPA) was established by ORS 238.415 and requires the
+Board on or before January 1 or each year to calculate the average difference between the health insurance
+premiums paid by retired state employees and health insurance premiums paid by active state employees.
+To be eligible to receive this monthly payment toward the premium cost the member must: (1) have eight
+years or more of qualifying service with a state agency in the System at the time of retirement , or (2) are
+receiving a disability pension calculated as if they had eight or more years of qualifying service but are not
+eligible for federal Medicare coverage. RHIPA was closed to new entrants hired on or after August 29, 2003.
+As of June 30, 2019, retired RHIPA plan participants receiving benefits totaled 905. As of June 30, 201 9,
+there were 13,982 active members who meet the requirements to receive RHIPA benefits when they retire.
+Inactive members are not eligible for these benefits.
+Note 2 - Summary of Significant Accounting Policies
+Governmental Accounting Standards Board (GASB) Statement No. 75
+Employers participating in the Plan are required to report OPEB information in their financial statements
+for fiscal periods beginning on or after June 15, 201 7, in accordance with Governmenta l Accounting
+Standards Board (GASB) Statement No. 75, Accounting and Financial Reporting for Postemployment
+Benefits Other Than Pensions (GASB 75).
+The requirements of this statement incorporate provisions intended to reflect the effects of transactions
+and events related to OPEB in the measurement of employer liabilities for OPEB and recognition of OPEB
+expense and deferred outflows of resources and deferred inflows of resources related to OPEB.
+The Schedule of OPEB Amounts under GASB 75 report prepared by PERS’ third-party actuaries, along with
+PERS audited financial statements, provide the required information for financial reporting related to PERS
+OPEB provided through the Plan  as of and for the fiscal year ended June 30, 2019 (the measurement
+period).
+Single-Employer Other Postemployment Benefits Plan
+Notes to the Schedule of OPEB Amounts
+As of and for the Fiscal Year Ended June 30, 2019
+Basis of Accounting
+The accompanying schedule of OPEB amounts was prepared in accordance with U.S. generally accepted
+accounting principles as applicable to governmental organizations. In doing so, PERS adheres to the
+reporting requirements established by the GASB.
+Use of Estimates in the Preparation of the Schedule
+The preparation of th e schedule of OPEB amounts in conformity with accounting principles generally
+accepted in the U.S. requires management to make estimates and assumptions that affect certain amounts
+and disclosures. Actual results could differ from those estimates.
+Note 3 - Net OPEB Liability and Actuarial Assumptions and Methods
+The components of the employer’s net OPEB liability, in millions, are as follows:
+Net OPEB - RHIPA (As s et) (in M illions )
+As  of June 30, 2019
+Total OPEB - RHIPA Liability $ 72.0
+Plan Fiduciary Net Position 46.7
+Employer's  Net OPEB - RHIPA Liability $ 25.3
+Plan net position as a percentage of
+Total OPEB - RHIPA Liability 64.9 %
+Single-Employer Other Postemployment Benefits Plan
+Notes to the Schedule of OPEB Amounts
+As of and for the Fiscal Year Ended June 30, 2019
+Actuarial Methods and Assumptions
+Actuarial valuations of an ongoing plan involve estimates of the value of projected benefits and assumptions
+about the probability of events far into the future. Actuarially determined amounts are subject to continual
+revision as actual results are compared to past expectations and new estimates are made about the future.
+Experience studies are performed as of December 31 of even numbered years.  The m ethods and
+assumptions shown above are based on the 2016 Experience Study, which reviewed experience for the four-
+year period ended on December 31, 2016.
+Actuarial M ethods  and As s umptions
+RHIPA
+Valuation date December 31, 2017
+Measurement date June 30, 2019
+Experience Study 2016, published July 26, 2017
+Actuarial assumptions:
+Actuarial cost method Entry Age Normal
+Inflation rate 2.50 percent
+Long-term expected rate of return 7.20 percent
+Discount rate 7.20 percent
+Projected salary increases 3.50 percent
+Retiree healthcare participation 8-14 Years of Service: 10.0%
+15-19 Years of Service: 18.0%
+20-24 Years of Service 23.0%
+25-29 Years of Service: 29.0%
+30+ Years of Service: 38.0%
+Healthcare cost trend rate Applied at beginning of plan year, starting with 7.5%
+for 2017, decreasing to 5.2% for 2024, increasing to
+6.2% for 2029, and decreasing to an ultimate rate of
+4.2% for 2093 and beyond.
+Mortality H ealthy retirees and beneficiaries:
+RP-2014 Healthy annuitant, sex-distinct, generational
+with Unisex, Social Security Data Scale, with collar
+adjustments and set-backs as described in the valuation.
+Active members:
+RP-2014 Employees, sex-distinct, generational with
+Unisex, Social Security Data Scale, with collar
+adjustments and set-backs as described in the valuation.
+Disabled retirees:
+RP-2014 Disabled retirees, sex-distinct, generational
+with Unisex, Social Security Data Scale.
+Single-Employer Other Postemployment Benefits Plan
+Notes to the Schedule of OPEB Amounts
+As of and for the Fiscal Year Ended June 30, 2019
+Discount Rate
+The discount rate used to measure the total OPEB liability of the Plan was 7.20 percent. The projection of
+cash flows used to determine the discount rate assumed that contributions are made at the contractually
+required rates, as actuarially determined. Based on those assumptions, the Plan’s fiduciary net position was
+projected to be available to make all projected future benefit payments of current Plan members.
+Therefore, the long -term expected rate of return on Plan investments was applied to all periods of
+projected benefit payments to determine the total OPEB liability.
+Long-Term Expected Rate of Return
+To develop an analytical basis for the selection of the long-term expected rate of return assumption, in July
+2017 the PERS Board reviewed long -term assumptions developed by both Mi lliman’s capital market
+assumptions team and the Oregon Investment Council’s (OIC) investment advisors. Each asset class
+assumption is based on a consistent set of underlying assumptions, and includes adjustment for the
+inflation assumption. These assumpti ons are not based on historical returns, but instead are based on a
+forward-looking capital market economic model.  For more information on the Plan’s portfolio, assumed
+asset allocation, and the long-term expected rate of turn for each major asset class, c alculated using both
+arithmetic and geometric means, see PERS’ audited financial statements at:
+https://www.oregon.gov/pers/Documents/Financials/CAFR/2019-CAFR.pdf
+Depletion Date Projection
+GASB 75 generally requires that a blended discount rate be used to measure the total OPEB liability (the
+actuarial accrued liability calculated using the individual entry age normal cost method). The long -term
+expected return on p lan investments may be used to discount liabilities to the extent that the plan’s
+fiduciary net position (fair value of assets) is projected to cover benefit payments and administrative
+expenses. A 20-year high quality (AA/Aa or higher) municipal bond rate must be used for periods where the
+fiduciary net position is not projected to cover benefit payments and administrative expenses. Determining
+the discount rate under GASB 75 will often require that the actuary perform complex projections of future
+benefit payments and asset values. GASB 75 (paragraph 39) does allow for alternative evaluations of
+projected solvency, if such evaluation can reliably be made. GASB does not contemplate a specific method
+for making an alternative evaluation of sufficiency; it is left to professional judgment.
+The following circumstances justify an alternative evaluation of sufficiency for the OPEB Plan:
+• PERS has a formal written policy to calculate an Actuarially Determined Contribution (ADC), which
+is articulated in the actuarial valuation report.
+• The ADC is based on a closed, layered amortization period, which means that payment of the full ADC
+each year will bring the plan to a 100 percent funded position by the end of the amortization period
+if future experience follows assumption.
+• GASB 75 specifies that the projections regarding future solvency assume that plan assets earn the
+assumed rate of return and there are no future changes in the plan provisions or actuarial methods
+and assumptions, which means that the project ions would not reflect any adverse future
+experience which might impact the plan’s funded position.
+Single-Employer Other Postemployment Benefits Plan
+Notes to the Schedule of OPEB Amounts
+As of and for the Fiscal Year Ended June 30, 2019
+Based on these circumstances, it is our third -party actuary’s opinion that the detailed depletion date
+projections outlined in GASB 75 would clearly indicate that the fiduciary net position is always projected to
+be sufficient to cover benefit payments and administrative expenses.
+Deferred Inflows of Resources and Deferred Outflows of Resources
+Differences between expected and actual experience and changes  in assumptions are amortized over the
+average remaining service lives of all plan participants, including retirees, determined as of the beginning
+of the respective measurement period. The Employer is required to recognize OPEB expense based on the
+balance of the closed period “layers” attributable to each measurement period. The average remaining
+service lives determined as of the beginning of each measurement period are described below:
+Fiscal Year ended June 30, 2019 – 6.7 years
+Fiscal Year ended June 30, 2018 – 6.9 years
+Fiscal Year ended June 30, 2017 – 7.2 years
+The difference between projected and actual earnings is amortized over a closed five-year period.
+Deferred inflows of resources and deferred outflows of resources are calculated at the Plan level.  For the
+measurement period ended June 30, 2019, there was:
+• A difference between expected and actual experience.
+• A difference due to changes of assumptions.
+• A difference between projected and actual earnings. One -year’s amortization is recognized in the
+employer’s total OPEB expense for the measurement period.
+Employer contributions made after the measurement date are not reflected in the schedule of OPEB
+amounts. Appropriate treatment of such amounts is the responsibility of the Employer.
+If you have questions about this report or need additional financial information, please contact the Financial
+and Administrative Services Division Administrator at PO Box 23700, Tigard, Oregon  97281-3700.

@@ -27,3 +27,10 @@ site/
 credentials.json
 
 .DS_Store
+
+# Source PDFs are NOT committed; frontmatter declares snapshot_policy: hash-only.
+# 242 PDFs total 767 MiB and one is 182 MiB, over GitHub's 100 MB per-file hard limit.
+# The committed .txt extractions (29 MiB) are what provenance verifies against, so the
+# source_sha256 and full-text coverage checks are unaffected. Re-fetch any PDF from the
+# document's source_url with: python3 src/ingest_audits.py --only <report-no> --refetch
+_meta/snapshots/*.pdf

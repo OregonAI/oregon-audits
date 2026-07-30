@@ -1,0 +1,168 @@
+Oregon Health Insurance Marketplace
+FINANCIAL STATEMENTS
+For the Fiscal Year Ended June 30, 2022
+Oregon Health Authority
+500 Summer St. NE
+Salem, OR 97301
+Page i
+Table of Contents
+FINANCIAL SECTION:  Page
+I. INDEPENDENT AUDITOR’S REPORT 1
+II. BASIC FINANCIAL STATEMENTS:
+a. Balance Sheet 4
+b. Statement of Revenues, Expenditures, and Changes in Fund Balance 5
+c. Notes to the Basic Financial Statements 6
+III. Other Reports:
+a. Report on Internal Control over Financial Reporting and on Compliance 10
+and Other Matters
+Independent Auditor’s Report
+Report on the Audit of the Financial Statements
+
+
+
+
+Other Reporting Required by Government Auditing Standards
+THE OREGON HEALTH INSURANCE MARKETPLACE (OHIM)
+Balance Sheet
+Governmental Fund
+June 30, 2022
+THE OREGON HEALTH INSURANCE MARKETPLACE (OHIM)
+Statement of Revenues, Expenditures and Changes in Fund Balance
+Governmental Fund
+For the Year Ended June 30, 2022
+THE OREGON HEALTH INSURANCE MARKETPLACE (OHIM)
+Notes to the Basic Financial Statements
+For the Year Ended June 30, 2022
+Note 1 – Summary of Significant Accounting Policies
+A – Purpose of Organization
+The Patient Protection and Affordable Care Act (ACA) of 2010 required each state to establish
+a health insurance marketplace, an online marketplace that enables individuals and employers
+to shop, compare plans, and access financial assistance to help pay for insurance coverage.
+States were permitted to implement their own marketplaces (referred to as state-based
+marketplaces or SBMs), choose to have a hybrid marketplace (referred to as state-based
+marketplaces using the federal platform or SBM-FPs), or states could elect to participate in the
+federal marketplace (referred to as the federally facilitated marketplace or FFM). Oregon first
+elected to implement a state-based marketplace to meet the unique needs of Oregonians and
+its insurance market. In late 2014, Oregon transitioned into an SBM-FP.
+In 2011, Senate Bill 99 established the Oregon Health Insurance Exchange Corporation (Cover
+Oregon) as a public corporation to be governed by a board of directors. Upon implementation,
+Cover Oregon was fully dependent on federal grant funding for its operational expenditures
+through Dec. 31, 2014, and partially thereafter.
+In 2015, Senate Bill 1 abolished Cover Oregon and its board of directors, and transferred its
+duties, functions, and powers to the Department of Consumer and Business Services (DCBS),
+an existing state agency.  SB 1 also established the Health Insurance Exchange Fund, also
+known as the Marketplace Fund. Oregon Revised Statute 741 restricts the use of these funds to
+the operation of Oregon Health Insurance Marketplace (OHIM). The OHIM Fund is a special
+revenue fund that is used to account for and report the proceeds of specific revenue sources
+that are restricted or committed to expenditure for specified purposes other than debt service or
+capital projects. The activities of this fund are rolled up into the Consumer Protection special
+revenue fund for the statewide financial reporting purposes. The OHIM Fund is fully self-funded,
+using per-member-per-month (PMPM) assessments for operations.
+In 2021, Senate Bill 65 directed the transfer of the OHIM program, including its resources and
+liabilities, to the Oregon Health Authority (OHA). OHIM program staff were transferred to OHA
+on July 1, 2021. DCBS and OHA entered an interagency agreement (IAA) for DCBS to ensure
+continuity of services to support OHIM.
+These financial statements are representative of the OHIM Fund only, a program within OHA.
+B – Basis of Accounting
+The accompanying financial statements of the Oregon Health Insurance Marketplace are
+reported using the current financial resources measurement focus and the modified accrual
+basis of accounting. These financial statements have been prepared in conformity with Generally
+Accepted Accounting Principles (GAAP) in the United States of America for governmental funds.
+Revenues are recognized when they are both measurable and available. Revenues are
+THE OREGON HEALTH INSURANCE MARKETPLACE (OHIM)
+Notes to the Basic Financial Statements
+For the Year Ended June 30, 2022
+considered available when they are collectible within the current year or soon enough thereafter
+to pay liabilities existing at the end of the year. For this purpose, revenues are considered
+available if they are collected within 90 days of the end of the current fiscal year. Expenditures
+generally are recognized when a liability is incurred, as under accrual accounting. Revenues for
+OHIM come from PMPM assessments from insurance carriers that participate in the OHIM
+program.
+Accordingly, revenues are recorded when earned, and expenditures are recorded when a liability
+is incurred, regardless of when cash was received or paid.
+C – Deposits and Investments
+Cash deposits that are held in a cash management or investment pool are classified as cash
+and cash equivalents when the pool has the general characteristics of a demand deposit
+account. Cash and cash equivalents consist of cash and investments held by the office of the
+State Treasurer in the Oregon Short Term Fund (OSTF). Additional information about the OSTF
+can be found in the OSTF financial statements at
+https://www.oregon.gov/treasury/public-financial-services/oregon-short-term-
+funds/pages/default.aspx
+D – Receivables & Payables
+Receivables consist of revenues earned or accrued in the current period and are shown net of
+estimated uncollectable accounts. Payables consist of amounts owed to vendors for operational
+expenditures and other state agencies for services received.
+E – Use of Estimates
+OHIM used estimates and assumptions in preparing financial statements in accordance with
+GAAP. The preparation of the financial statements required management to make certain
+estimates and assumptions that affect the reported amounts of assets and liabilities at the date
+of the financial statements, and the reported amounts of revenues and expenditures during the
+reporting period. As such, actual results could differ from the estimates included in the
+accompanying financial statements.
+F – Fund Balance
+The difference between assets and liabilities, plus deferred inflows of resources, is labeled “Fund
+Balance” on the financial statements. The Health Insurance Exchange Fund balance is
+restricted. Restricted fund balances are the result of constraints imposed by the law through
+constitutional provisions or enabling legislation or by parties outside state government, such as
+creditors, grantors, contributions, or laws or regulations of other governments.
+THE OREGON HEALTH INSURANCE MARKETPLACE (OHIM)
+Notes to the Basic Financial Statements
+For the Year Ended June 30, 2022
+Note 2 – Deposits and Investments
+OHIM Participation in the Oregon Short-Term Fund Held at Treasury
+The Oregon State Treasury maintains the Oregon Short-Term Fund (OSTF), a cash and
+investment pool that is available for use by the Marketplace Fund. Because the pool operates
+as a demand deposit account, the Marketplace Fund portion of the OSTF is classified on the
+financial statements as cash and cash equivalents.
+Custodial Credit Risk for Deposits
+The custodial credit risk for deposits is the risk that, in the event of a depository financial
+institution failure, OHIM will not be able to recover deposits that are in the possession of an
+outside party. OHIM does not hold any deposits or investments outside of the Oregon State
+Treasury. Deposits held by the Oregon State Treasury are either insured or collateralized under
+the Public Funds Collateralization Program. For more information, refer to the Oregon State
+Treasury  website at  https://www.oregon.gov/treasury/public-financial-services/public-
+depository-information/pages/default.aspx. Banking regulations and Oregon law establish the
+insurance and collateral requirements for deposits in the OSTF.
+The OHIM bank balance at the Oregon State Treasury was $7,384,108 as of June 30, 2022.
+Investments
+OHIM has investments only in OSTF held by the Oregon State Treasury.
+Note 3 – Receivables and Payables
+Receivables
+The following table disaggregates receivable balances reported in the financial statements as
+accounts and other receivables at June 30, 2022.
+Payables
+The following table disaggregates payable balances reported in the financial statements as
+accounts payable and other current liabilities at June 30, 2022
+THE OREGON HEALTH INSURANCE MARKETPLACE (OHIM)
+Notes to the Basic Financial Statements
+For the Year Ended June 30, 2022
+Note 4 – Risk Management
+OHIM is subject to the risk of loss from various events, including, but not limited to, natural
+disasters, destruction of assets, errors, omission, and injuries to employees. To mitigate the risk
+of loss from various events, OHIM participates in and is covered under the State of Oregon’s
+self-insurance and commercial insurance program as administered by the Department of
+Administration Services (DAS) Enterprise Goods and Services Division, Risk Management
+Section. As such, OHIM is responsible to provide updated property, equipment, and fixture
+values to DAS Risk Management.
+Note 5 – Assessment Revenue
+Each year by March 31, the per-member-per-month medical and dental assessment rates need
+to be set for qualified health plans sold through the federal exchange. The rates are set to cover
+OHIM’s planned expenditures for that plan year. There is a risk to assessment revenues from
+federal or legal actions that may reduce enrollment in qualified health plans.  For calendar years
+2020 through 2023, the rates are $5.50 for medical and 36 cents for dental.
+Note 6 – Insurance Providers Rebate
+Oregon Revised Statute (ORS) 741.105(3)(b) limits OHIM’s fund balance to six months of
+budgeted expenditures. Any balance in excess of six months of expenditures will be credited to
+insurers in a manner described in Oregon Administrative Rule (OAR) 945-030-0020. The
+distribution of the credit is based on the billing date and billed amounts during the biennium for
+firms that were offering plans through the end of the biennium. The monthly credit is the total
+rebate, per insurer, divided over 12 months. The total rebate based on the fund balance at the
+end of the 2019-21 biennium is $1,482,448. The rebate has been applied to insurers’ monthly
+invoices beginning in January 2022.
+Independent Auditor’s Report on Internal Control over
+Financial Reporting and on Compliance and Other Matters
+Based on an Audit of Financial Statements Performed in
+Accordance With Government Auditing Standards
+Report on Internal Control over Financial Reporting
+Report on Compliance and Other Matters
+Purpose of this Report

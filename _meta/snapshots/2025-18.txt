@@ -1,0 +1,1673 @@
+Department of Administrative Services
+Without a Comprehensive
+Compliance Function, DAS
+Cannot Effectively Monitor
+High-Risk Contracts or
+Mitigate Contracting Risks
+July 2025
+Report 2025-18
+Secretary of State Tobias Read
+Audits Director Steve Bergmann
+Audit Summary
+Department of Administrative Services
+Without a Comprehensive Compliance Function, DAS Cannot
+Effectively Monitor High-Risk Contracts or Mitigate Contracting
+Risks
+OBJECTIVE
+The objectives of this audit were to:
+1. Identify further steps the Department of Administrative Services (DAS) can take to enhance statewide adherence
+to the Public Contracting Code and support effective contract management.
+2. Determine whether DAS is taking appropriate steps to fully implement a statewide eProcurement system that
+meets the goals outlined in the 2018 legislative session.
+SCOPE
+This audit covers DAS State Procurement Services’ controls framework for public contracting (including compliance and
+monitoring) and customer service delivery. It also covers progress made by DAS and partnering agencies to meet the intent
+of OregonBuys, as shared with the Legislature in 2018. The audit scope does not include a review of specific contracts,
+agencies exempt from DAS procurement authority, vendors, or grant agreements.
+Oregon state agencies use procurement and contracting to acquire critical goods and services.
+Public procurement and contracting come with substantial, inherent risks and require effective oversight to be efficient,
+secure, and equitable.
+DAS oversees public procurement and contracting for the state of Oregon and holds primary authority over most state
+purchasing and contracting decisions.
+DAS adopted the OregonBuys eProcurement enterprise system to modernize public procurement in Oregon and more
+effectively capture state spending.
+During fiscal year 2024, OregonBuys housed over 40,000 transactions totaling $2.14 billion.
+Oregon lacks a comprehensive, centralized procurement and contracting compliance program.  (pg. 18)
+DAS has the authority to perform compliance reviews of most state contracts but has not established a comprehensive,
+centralized compliance program to identify or prevent risky procurement and contracting decisions. As a result, DAS may
+not effectively identify or mitigate agency contracting issues that can lead to inefficient spending or noncompliance with
+regulations or even jeopardize program initiatives. Establishing a compliance function in Oregon is aligned with best
+practice and ensures public dollars are well spent.
+Why this audit is important
+What we found
+DAS needs to improve customer service in its State Procurement Services program.  (pg. 22)
+Agency survey respondents report the DAS State Procurement Services program does not provide consistent and high-
+quality customer service to state agencies. Respondents noted poor procurement training, outdated manuals and
+templates, inexperienced staff, and sluggish, sometimes conflicting communication from DAS. These challenges slow
+issue resolution and foster frustration and misunderstandings. Resolving these issues would support DAS’s intention to set
+and monitor high standards of accountability around state procurement.
+OregonBuys performs most of its intended functions but does not capture all state spend.  (pg. 26)
+OregonBuys is meeting many of its proposed goals. Most state agencies are now using the system and most of the
+functions proposed to the Oregon Legislature can be performed. However, OregonBuys does not capture all state spend,
+limiting DAS’s ability to make informed strategic sourcing decisions. State agencies also noted several persistent
+operational challenges, from difficulties with basic system navigation to burdensome testing requirements. In addition,
+OregonBuys does not support all necessary aspects of contract management. While not a function of OregonBuys, DAS
+should consider the benefits of implementing a contract lifecycle management system for itself and state agencies.
+To enhance statewide compliance with the Public Contracting Code and support the effective administration of public
+contracts, DAS should:
+1. Coordinate with the Legislature and key partnering agencies to create a centralized statewide procurement and
+contracting compliance program informed by a robust risk analysis. DAS and its partners should consider
+compliance functions that include:
+a. Reviewing a sample of agency contracts on a routine schedule to promote and confirm timeliness,
+adherence to contract stipulations, and compliance with the Public Contracting Code.
+b. Reviewing a sample of procurements on a routine schedule to confirm compliance with the Public
+Contracting Code.
+c. Reviewing agency contract compliance policies, procedures, and practices, and providing direct feedback
+for improvement based on existing statute, administrative rules, and best practices.
+d. Evaluating common issues identified during compliance reviews for inclusion in DAS training priorities and
+guidance development as well as delegation decisions that fall under DAS authority.
+To improve and adequately resource agency support services delivered by DAS State Procurement Services, DAS should:
+2. Develop more consistent, accessible, and robust service delivery to support state agencies with procurement,
+contracting, and training needs. This should include:
+a. Establishing service level standards and ensuring all DAS State Procurement Services staff receive
+sufficient, timely, and regular training on state procurement rules and expectations to enhance program
+consistency.
+b. Establishing a centralized administrative support mechanism to track, triage, and respond to agency
+questions and requests regarding services, OregonBuys, training and guidance resources, statewide and
+agency policies, contract administration, and more as needed.
+c. Delivering timely, accurate, and appropriate informational updates to agencies regarding DAS services and
+resources, policy updates, OregonBuys, guidance and training, and more as needed.
+d. Collecting feedback from partnering agencies on ways to enhance and target services to better meet
+agency needs.
+e. Including partnering agencies in ongoing efforts to revise, develop, and update DAS procurement and
+contract training, guidance documents and templates to stay current with statute and state policy.
+3. Review the utilization of staff and other resources in the State Procurement Services program and make
+adjustments based on that review. This may include requesting additional FTE from the Legislature where
+What we recommend
+appropriate to consistently perform its full suite of services, including managing the ongoing operation of
+OregonBuys. This review should include:
+a. Determining whether DAS State Procurement Services has sufficient administrative support for key
+functions, such as training development.
+b. Ensuring staff resources are properly aligned with program needs.
+c. Evaluating the need to utilize contracted services to review and analyze workload and service delivery.
+To ensure the OregonBuys eProcurement system is fully operational and to maximize benefits to the state, DAS should:
+4. Create a sufficient resource plan for the ongoing development and operation of OregonBuys and use the plan to
+obtain and direct funds and staffing.
+5. Coordinate with the Department of Justice, Enterprise Information Services, and members of the Designated
+Procurement Officers Advisory Council to perform an assessment of OregonBuys which includes:
+a. Reviewing agency policies and practices’ changes to inform DAS’s efforts to standardize procurement
+processes among agency users.
+b. Creating more agency-specific reporting customizations to help meet state and federal reporting
+requirements.
+c. Evaluating and equitably managing state resources for quarterly release testing to support more sufficient
+and balanced agency participation.
+d. Analyzing spend data within OregonBuys as well as spend data residing in external sources to support
+informed reporting and strategic sourcing effort.
+e. Identifying common external system workarounds and finding ways to minimize and mitigate their use.
+6. Coordinate with Periscope Holdings and agency partners to clarify DAS and vendor customer service roles and
+expectations and revise DAS support protocols with state agencies using OregonBuys. These changes should
+address communication needs and challenges and should include:
+a. Giving agency users prompt, consistent, and well-coordinated support from DAS and Periscope Holdings
+to address questions and issues about the OregonBuys system or state procurement process.
+b. Providing agency users involved in OregonBuys quarterly release testing with clear and timely
+communication on testing priorities, requirements, and timeframes.
+7. Coordinate with the Department of Justice, Enterprise Information Services, and the Designated Procurement
+Officers Advisory Council to conduct a benefits and feasibility study on adopting an enterprise-wide contract
+management system. The study must prioritize system security and DAS must report findings to the Legislature.
+a. Based on study results and Legislative direction, determine whether to adopt an enterprise-wide contract
+management system and identify critical next steps.
+8. Monitor, assess, and regularly report to the Legislature on progress made to capture and analyze spend data in
+OregonBuys and efforts to utilize spend data from other sources in this analysis.
+DAS agreed with all of our recommendations. The response can be found at the end of the report.
+Agency response
+Read the full audit report
+Scan the QR code to read the full audit report, including the agency response, on our website.
+Introduction
+Oregon Secretary of State July 2025
+Report 2025-18 page 1
+State agencies must be good stewards of public funds. This means purchases and public contracts by
+state agencies must be as efficient, effective, and equitable as possible, while supporting the mission of
+state government. Procurement and contracting must also adhere to state laws, rules, and policies.1
+Failure to do so puts agencies at a heightened risk of fraud, wasted funds, delays or cancellations on
+critical projects, legal liability, and eroding public trust.
+Procurement and contracting enables state agencies to acquire critical
+goods and services
+Virtually any enterprise must acquire goods and services or work with vendors to accomplish its mission.
+Most Oregon state agencies conduct procurements, and many enter directly into contracts with
+businesses, nonprofits, and members of the public to more efficiently serve Oregonians.
+Public procurement and contracts are critical for delivering essential public services
+State agencies and employees provide numerous critical public services, from regulating industrial air
+pollutants to inspecting foster homes to dispersing unemployment funds. These functions, and many
+others performed by the state, require employees to access materials and services necessary to meet the
+demands placed upon them.
+Agencies must frequently purchase goods and services like office supplies, software and IT equipment,
+and janitorial services. Some need to procure more specialized types of items or services to meet a specific
+agency function. For example, the Oregon Department of Transportation is statutorily authorized to
+procure and contract for building and construction as it relates to the agency’s mission of constructing and
+maintaining state highways.
+In Oregon, there are seven procurement methods state agencies can use. The appropriate method is
+generally determined by statutorily set thresholds.
+1 Procurement is the process of obtaining goods, services, or property, whether it is for a one-time purchase or a contractual
+agreement with specified terms and conditions. A contract is an agreement between two or more parties which creates an obligation
+to do or not to do a particular thing.
+Oregon Secretary of State July 2025
+Report 2025-18 page 2
+Figure 1: Oregon's procurement methods can inform project scope and process
+Procurement Method Description
+Small Procurement $25,000 or less. Does not require competition. Can direct award.
+Intermediate Procurement Between $25,000 and $250,000. Competitive solicitation.
+Sole Source Procurement Only one contractor awarded. No competition.
+Special Procurement
+The Department of Administrative Services approves these. They
+are described as a form of cooperative procurement. This method
+can be used as a workaround for active contracts requiring
+redoing or when certain contracts expire or are near expiring and
+there is not enough time to allow for renewal without disrupting
+services or payments.
+Emergency Procurement Immediate unforeseen need. Address impacts of emergency.
+Competitive Sealed Bids
+Formal process for contracts over $250,000. Lowest responsive,
+responsible bidder awarded.
+Competitive Sealed
+Proposals
+Formal process for contracts over $250,000. Request For
+Proposal includes criteria an agency will use to determine who is
+awarded the contract.
+Note: These statutory thresholds were increased, effective January 1, 2024; see 2023 Senate Bill 1047.
+Source: DAS OAR 125-247-0200(5)
+Effective public procurement and contracting emphasizes security, efficiency, and
+equity
+There are many requirements when conducting procurements and managing contracts. Spending public
+dollars comes with certain risks, such as waste, fraud, or misappropriation of funds. A secure, streamlined,
+and transparent process makes the system more efficient and supports equitable, timely, and fiscally
+responsible outcomes.
+To make sure a state agency or program is effectively meeting its mission and goals, public procurement
+and contracting should be conducted efficiently. This is achieved by following standards, rules, and
+procedures, as well as establishing systems configured with streamlined and effective workflows. Robust
+security standards are needed to address the risk of misuse or abuse of public funds.
+In the process of procuring goods or services, when competition is appropriate, there should be fair, open,
+and equitable opportunity for all vendors to bid on an agency’s posted solicitation.
+2 Healthy competition
+assures agencies can achieve the best possible value for taxpayer funds. A fair and transparent process
+mitigates the risk of liability that may come if vendors perceive favoritism — not to mention it ensures public
+trust in the procurement process.
+Some states incorporate specific requirements, incentives, and programs to ensure bidding opportunities
+are equitable — that is, accessible to vendors who may face inequities, barriers, or challenges in obtaining
+2 Solicitation means a written or oral request for offers (bids), proposals, statements of qualifications, or other information from
+individuals or entities (vendors).
+Oregon Secretary of State July 2025
+Report 2025-18 page 3
+contracts with state government. States vary greatly in their programs and policies in trying to encourage
+business with a variety of business communities.3
+Enterprise-wide eProcurement systems ensure efficiency and security in the
+procurement and contracting process
+eProcurement systems allow for procure-to-pay functionality and house essential procurement and
+contract documentation.4 They also remove paper-based, manual processes; streamline user access,
+automate process workflows, and spend analysis; and improve transparency and reporting.
+Modern eProcurement systems should provide robust security so information can be protected against
+security breaches, inappropriate user access, and unauthorized payments or system actions. Systems
+should support consistent utilization by all necessary partners with few variations in workflows. This allows
+the state to obtain data and reports for spend analysis and trends.
+An eProcurement system may be adopted as a pre-built, “off-the-shelf” system that allows limited
+customization and is designed to serve multiple customers — in the public sector, this could include
+multiple states and municipalities. Some states opt to build their own eProcurement systems, which allow
+for specific customization to support each state’s unique requirements and regulations. In a 2022 survey
+conducted by the National Association of State Procurement Officials (NASPO), 40 of the 42 responding
+states indicated they were using an eProcurement or Enterprise Resource Planning system, with four of
+the states having implemented their own in-house customized system.5
+Some states have also incorporated contract lifecycle management tools within their eProcurement
+systems. This allows for the main activities of a contract and its day-to-day management to be captured in
+one system where procurement is initiated.
+3 In Oregon, this work is carried out by the Office of Procurement Equity and the Certification Office for Business Inclusion and
+Diversity. See pg. 8 for more information.
+4 Procure-to-Pay is the procurement process from beginning to end, including requisition (request), sourcing, purchase orders, and
+invoicing.
+5 2022 NASPO Survey of State Procurement Practices Report. Enterprise Resource Planning systems generally support statewide
+human resource needs, timekeeping, and other essential business operations
+Oregon Secretary of State July 2025
+Report 2025-18 page 4
+Figure 2: Oregon has a defined contract lifecycle workflow process
+Source: DAS
+DAS oversees Oregon’s public procurement system and has primary
+authority over most purchasing and contracting decisions
+With some exceptions, the Department of Administrative Services (DAS) has the ultimate authority and
+responsibility over statewide procurement and contracting, even when procurement authority is delegated
+to state agencies. DAS notes one of its key roles is to “set and monitor high standards of accountability to
+ensure that state government uses tax dollars effectively.” The agency works with executive state agencies
+in furthering the Governor’s vision and delivering the Governor’s agenda.
+DAS houses several core statewide functions, including State Procurement Services
+DAS provides administrative guidance and support to most of Oregon’s state agencies, boards, and
+commissions. Some of the key offices within DAS include the Chief Operating Office, the Chief Human
+Resource Office, and the Chief Financial Office, which provides financial oversight for the executive
+Oregon Secretary of State July 2025
+Report 2025-18 page 5
+branch, as well as responsibility over statewide fiscal policy, budget, and accounting systems. Enterprise
+Information Services also provides statewide governance and oversight of IT systems.
+DAS also hosts the Enterprise Goods and Services Division, which houses the State Procurement
+Services program. The Enterprise Goods and Services Division provides a range of business services to
+state and local government entities, including services for procurement and contracting of goods and
+services with the business community.
+Figure 3: DAS State Procurement Services, the unit that oversees statewide procurement and contracting, is
+housed under the Enterprise Goods and Services division
+Source: DAS 2025-27 Agency Requested Budget
+The State Procurement Services program plays a central role in supporting and developing Oregon’s
+public procurement system and managing statewide initiatives. The program is led by the State Chief
+Procurement Officer and provides agencies with procurement and contract administration trainings. The
+program also provides agencies with support and guidance, such as online resources for agencies to
+access, including the state’s procurement manual, instructional guides, forms, templates, and checklists.
+State Procurement Services represents about 10% of the Enterprise Goods and Services Division’s
+allotted budget. The division’s adopted budget for 2023-25 is just over $250 million with 275 positions.
+Funding for State Procurement Services comes from various sources, specifically: Vendor Collected
+Administrative Fees, Oregon Cooperative Procurement Program membership fees, and charges leveraged
+on state agencies for services delivered. Costs are assessed and allocated to state agencies based on the
+Division’s FTE authority in the biennial adopted budget.
+Oregon Secretary of State July 2025
+Report 2025-18 page 6
+Figure 4: The legislatively approved budgets for the Enterprise Goods and Services Division increased about 30%
+from 2017 to 2023
+2017-19 2019-21 2021-23 2023-25 (adopted)
+General Fund  -- -- -- 4,832,000
+Other Funds  105,270,244 115,590,709 139,246,608 127,870,143
+Other Funds (NL)  89,616,836 116,321,671 169,374,573 118,776,165
+Total Funds  $194,887,080  $231,912,380  $308,621,181  $251,478,308
+Positions  242 263 276 275
+FTE 241.63 253.98 272.79 271.82
+Source: Oregon Legislature (LABs)
+State Procurement Services led the statewide rollout of Oregon’s eProcurement system, OregonBuys, in
+2021. The program also manages the OregonBuys contract and is largely responsible for working with the
+vendor and participating state agencies to ensure successful ongoing operations. Program staff help run
+the process to update and test OregonBuys to make sure it is effective, efficient, and equitable while
+staying in compliance with the state’s Public Contracting Code.
+Additionally, State Procurement Services:
+• Can administer contracts on behalf of certain agencies and assist with contract negotiations.
+• Develops and administers both mandated and optional procurement and contract administration
+trainings for agency staff.
+• Provides online resources and tools to aid in procurement and contracting work, such as the
+state’s procurement manual, how-to guides, checklists, templates, and forms.
+• Provides general guidance and support related to contract lifecycle management.
+Oregon’s Public Contracting Code
+Oregon’s Public Contracting Code is established in Oregon Revised Statutes (ORS) 279A, 279B, and
+279C. These laws define and detail the types of procurements and contracts state agencies can enter
+into and other specific requirements agencies must follow. Key principles of the code encourage
+impartial and open competition, instill public confidence through ethical and fair dealing, promote
+efficient use of state resources, and encourage stability and accountability. The code generally applies
+to most public contracts that occur in Oregon, though there are numerous exemptions for federal,
+Tribal, university, and other kinds of contracts.
+ORS 279A.010 defines a public contract as “a sale or other disposal, or a purchase, lease, rental or
+other acquisition, by a contracting agency of personal property, services, including personal services,
+public improvements, public works, minor alterations, or ordinary repair or maintenance necessary to
+preserve a public improvement.” Additionally, “procurement includes each function and procedure
+undertaken or required to be undertaken by a contracting agency to enter into a public contract,
+administer a public contract and obtain the performance of a public contract under the Public
+Contracting Code.”
+Oregon Secretary of State July 2025
+Report 2025-18 page 7
+• Administers statewide price agreements and multiple contracts under its purview, such as those
+for goods, services, information technology and capital construction projects.6
+State Procurement Services staff and management participate in monthly meetings with the Designated
+Procurement Officers Advisory Council and a separate OregonBuys Champion group to collaborate,
+provide updates, and learn of concerns or issues agencies are experiencing.7 They also manage the
+Oregon Forward program, establishing contracts with specific qualified vendors who employ individuals
+with disabilities. The State Procurement Services program configures online catalogs in OregonBuys for
+the statewide price agreements and the Oregon Forward program, allowing agency users and other
+partners to easily find their respective listed goods and services and procure them within the system.
+DAS is working to address widespread disparities found in a recent study of Oregon’s
+public contract award decisions
+In 2022, DAS initiated a statewide disparity study to assess whether businesses owned by minorities,
+women, and service-disabled veterans faced barriers in the state’s procurement and contracting
+processes.8 DAS contracted with a research consultant to conduct the study. The study reviewed policies
+and processes, measured disparities in different types of procurements or contracts, and established a
+baseline, or benchmark, for the state to assess future progress in addressing the identified gaps. The
+results released in November 2023 showed significant disparities in public contracting for the identified
+groups.
+The Office of Procurement Equity within DAS was tasked with evaluating and implementing the
+recommendations from the disparity study designed to reduce disparities in public procurement and
+contracting in Oregon.
+9 The team performs vendor and agency outreach, conducts research and data
+analysis, and strategizes initiatives and policies to better support and promote business with vendors who
+have faced barriers in working with the state, including those certified as disadvantaged, or owned by
+minorities, women, and veterans, as well as emerging small businesses.10
+In collaboration with the Office of Procurement Equity, State Procurement Services is analyzing spend
+data for reporting on the state’s total spend, including the required transparency reports that are published
+online annually.11 DAS’s data and research staff pull data from multiple systems, including OregonBuys
+6 A DAS Statewide Price Agreement is a master agreement for the procurement of products or services for use by all state entities.
+These consist of one or more vendor’s products or services at negotiated prices and are available for state agencies as well as local
+and national government partners. These agreements are intended to be competitive, low-cost agreements with vendors for
+commonly purchased and contracted goods and services, with an overall intent of saving the state money. DAS Website
+7 The Designated Procurement Officers Advisory Council meets monthly and is represented by roughly 40 state agencies, boards,
+and commissions. The OregonBuys Champion group meets regularly concerning OregonBuys system processes, updates, and
+issues.
+8 Oregon’s disparity study report; overviews and presentations on study results.
+9 DAS website for the Office of Procurement Equity.
+10 Oregon has the Certification Office for Business Inclusion and Diversity (COBID). COBID certifies disadvantaged businesses,
+businesses owned by minorities, women, and veterans, as well as emerging small businesses. COBID policy requires all state
+agencies conducting a public contract with a value of $10,000 or more to post bidding opportunities to these certified business and
+post contract awards that meet or exceed this dollar threshold. State agencies are required to provide opportunities for bidding and
+competing on public contracts to COBID-certified businesses.
+11 Oregon’s transparency website.
+Oregon Secretary of State July 2025
+Report 2025-18 page 8
+and work to align and correlate spend data from multiple sources to identify total spend, purchasing trends,
+opportunities for cost savings, as well as assessing equity gaps and disparities.
+Oregon's Public Contracting Code provides structure and oversight to state purchasing
+and contracts
+Public procurement functions may look very different from state to state, but most still share some
+structural and programmatic similarities. For example, roughly three-fourths of U.S. states have a central
+procurement office with statutory purchasing authority, and most of them can delegate portions of that
+authority to other state agencies. Most states also have green purchasing initiatives and supplier diversity
+initiatives.
+Contracting Pitfalls and Lessons Learned
+Poorly managed contracts can undermine the most well-intended public projects, waste public dollars,
+and tie up state resources for years at a time.
+Cover Oregon
+In June 2011, the Oregon Legislature approved the creation of an Oregon-based health insurance
+exchange program called Cover Oregon. It was intended to be a one-stop online portal for Oregonians
+to select their health insurance as well as automatically enroll in other state programs such as food
+stamps through an online marketplace. It planned to launch in late 2013.
+A third-party quality assessor identified issues with the project plan and chosen vendor from the outset.
+The assessor immediately and continually flagged several high risks related to Cover Oregon, many of
+which came to fruition in the following months. While the contract and related project work had a degree
+of external oversight through the assessor, several key recommendations were not implemented by the
+Oregon Health Authority.
+Numerous unaddressed issues and poor accountability all contributed to the system failing to operate
+by its go-live date. Rollout was delayed for months, and in the end the final product could not meet its
+original intent. Plagued by persistent technical problems, Cover Oregon was shut down in April 2014. It
+ultimately cost an estimated $300 million to stand up a system that failed in part due to poor contract
+and project management. Media coverage at the time emphasized the chaotic project rollout and
+Oregonians’ frustrations trying and failing to use the system to enroll in health insurance.
+Following the costly and public fallout of Cover Oregon, DAS initiated the Stage Gate Oversight Model
+to make sure future Oregon IT projects followed a standardized set of procedures. Other enterprise
+systems, such as OregonBuys, have ultimately benefited from the use of the Stage Gate Model and the
+lessons of Cover Oregon.
+Oregon Secretary of State July 2025
+Report 2025-18 page 9
+Oregon’s Public Contracting Code defines the state’s procurement and contracting authority. Like most
+other states, the code is generally in line with the bedrock principles outlined in the Model Procurement
+Code for State and Local Governments promoted by the American Bar Association.12
+With some exceptions, ultimate responsibility over state procurement and contracting decisions in Oregon
+lies with DAS, even when its procurement authority is delegated to state agencies.13 The DAS Director’s
+procurement authority is delegated to the State Chief Procurement Officer. In turn, the officer has the
+authority to delegate procurement authority to Designated Procurement Officers working in other state
+agencies. The delegation to agency officers can be based on a cost threshold (this applies to small and
+intermediate procurements) or upon the type of procurement (this can include emergency procurements,
+federal procurements not exceeding $250,000, and several other specific procurement types). Agencies
+can also seek approval from DAS to use SPOTS cards.
+Some agencies are fully exempted from DAS procurement authority, while some have partial exemptions.
+Fully exempted agencies include the Secretary of State’s Office, Oregon State Treasury, Oregon State
+Lottery, and Oregon’s legislative and judicial departments. Several agencies have special procurement
+authority outlined in statute. For instance, the Oregon Department of Transportation has statutory authority
+over certain contracts related to transportation, infrastructure, and road projects.
+Many agencies have procurement, contracting, and accounts payable staff who are involved in everyday
+purchasing and contracting activities for the agency. Agency contract administrators require training,
+education, and experience to manage a contract. Accounts payable staff ensure payments for purchases
+and contracts are accurate and made on time. Some very small agencies and boards with limited staffing
+depend on DAS to perform some of these functions.
+Oregon state agencies under DAS procurement authority that intend to obtain goods or services must
+consult the Oregon’s Buy Decision priority list when reviewing their options. The list prioritizes different
+types of procurements agencies must consider before procuring through the open market or conducting a
+competitive, open bidding process with the general vendor community.
+12 The Model Procurement Code for State and Local Governments was first adopted by the American Bar Association in 1979 and
+revised in 2000. The principles outlined in the code include competition, meeting ethical standards, equal treatment of bidders, and
+stability and accountability. Best practices include establishing a centralized procurement authority and appointing a chief
+procurement officer, developing training, outlining acceptable methods of source selection and the responsibilities of all involved
+parties, and retaining procurement records in accordance with retention guidelines, among others.
+13 OAR 125-246-0170 (1)(e) states the DAS director is ultimately responsible for the procurement of the agencies, which includes
+contract administration. OAR 125-246-140(1) reiterates this responsibility and states delegations of authority in accordance with OAR
+125-246-0170 do not relieve the department of this responsibility.
+14 State P-Card of Oregon Transaction System (or SPOTS) cards are credit cards that may be used for typically small or immediate
+purchases in the day-to-day work of agency staff. The cards may have a credit limit up to $50,000 and can only be used by authorized
+employees. They can be used for certain state price agreements purchases but cannot replace required purchase orders. DAS State
+Procurement Services manages the Master Agreement with U.S. Bank and the Chief Financial Office issues overall policy guidance.
+The Master Agreement outlines incentive share rebates to agencies based on volume sales and prompt payments. Per state policy,
+agencies may increase their rebates by increasing volume sales on SPOTS cards and making weekly payments against high dollar
+monthly purchases. Agencies may also treat the SPOTS rebate as a reduction of expense, with possible exceptions for federal funds.
+Oregon Secretary of State July 2025
+Report 2025-18 page 10
+Figure 5: State agencies have to follow a priority purchasing method process called the Buy Decision before
+engaging in open market procurements
+DAS shares key procurement and contracting responsibilities with other state agencies to mitigate
+contracting risks. The Department of Justice’s role is to clarify procurement and contracting requirements
+in model rules, which includes the department’s specific role in conducting legal sufficiency reviews of
+Oregon Secretary of State July 2025
+Report 2025-18 page 11
+public contracts. These reviews are statutorily required when a public contract, or an amendment of one,
+exceeds the total value of $250,000, or $150,000 for IT projects and investments.15
+Following the costly fallout of Cover Oregon, another measure of oversight was introduced for state IT
+projects that meet certain thresholds or are determined to be high risk. This process is called the Stage
+Gate Oversight Model, which is conducted by DAS Enterprise Information Systems and the Legislative
+Fiscal Office. This process encompasses four stages, each requiring approval for transition to the next
+stage, with the final stage being execution of a project. This oversight framework has built-in controls and
+criteria to identify and mitigate risks as a project progresses through each stage. It also includes continual
+readiness assessments based on performance metrics with assigned roles and responsibilities in
+managing a project.
+15 OAR 137-045-0030
+Contracting Pitfalls and Lessons Learned
+Without well-developed administrative processes and proper oversight, issues with public contracts
+can be overlooked and expose vulnerable populations to undue harm
+Department of Human Services
+In November 2023, media outlets reported on a contract initiated by a Department of Human Services
+district office with a non-profit providing temporary lodging supervision and prevention services to
+children in Oregon’s child welfare system. While the contract started in a single district office, several
+other districts began utilizing the nonprofit’s services under the management of the original contract
+administrator. The contract was amended four times with the Not to Exceed limit expanding from
+$500,000 to $12 million to account for anticipated costs of services. The nonprofit received more than
+$7 million before DHS terminated the contract in December 2023 following media scrutiny and reports
+of behavioral and security concerns about the nonprofit’s staff and leadership.
+A Child Welfare After Action report on the incident released by the DHS Office of Resiliency and
+Emergency Management in April 2024 indicated several DHS administrative gaps impacting the
+management and oversight of the contract. These include a general lack of guidance around multi-
+district contracting, incomplete training and guidance on contract administration, and insufficient
+resources dedicated to contract administration. The report made several recommendations, including
+building out the department’s contract administrator workforce, establishing workgroups to better
+define roles and processes in contract administration and background checks, and developing a policy
+to address multi-district contracting and centralization criteria.
+These failings highlight how critical effective contract administration and oversight can be, especially
+when hiring contractors to provide specialized services to vulnerable populations where safety and
+support is paramount.
+Oregon Secretary of State July 2025
+Report 2025-18 page 12
+Public procurement in Oregon has undergone substantive changes
+following the introduction of OregonBuys
+Prior to the rollout of a statewide eProcurement system, Oregon used an older system that was not
+intuitive, automated, or capable of end-to-end procurement functionality. Agencies relied on inefficient,
+fragmented systems and procedures, some of which were paper-based and were not used to effectively
+analyze and report on statewide spend.
+OregonBuys was pitched as a more efficient solution to this problem. However, implementing an enterprise
+eProcurement system is no easy feat. It is a complex, challenging process that faces many barriers,
+encompassing the landscape of IT, organizational culture, and procurement program supports, workflows,
+and configurations. DAS took several years to roll out and implement OregonBuys.
+DAS sought to modernize public procurement in Oregon with a statewide eProcurement
+system
+In 2015, DAS and nine other state agencies collaborated to establish business requirements and conduct a
+Request for Proposal, resulting in a price agreement with Periscope Holdings, Inc, for a cloud-based
+software-as-a-service eProcurement system.16 These agencies recognized the need for a more efficient
+procurement system and formed the Grassroots Project with the aim of adopting an eProcurement
+platform that could benefit each of them, with the potential to be configured for a statewide enterprise
+system in the future. The Grassroots Project pooled project resources to procure OregonBuys with a basic
+framework of common requirements they could all use.
+In 2018, DAS proposed OregonBuys as an end-to-end statewide eProcurement solution to the Legislature.
+OregonBuys was promoted as an efficient, streamlined system that would provide automated end-to-end
+procurement with configurations for approval pathways, automated workflows, online shopping catalogs,
+and a streamlined Request for Proposal process. One of the key system benefits DAS proposed was
+effectively capturing state spend so data could be used to inform and improve strategic sourcing efforts,
+which includes negotiating price agreements to better meet the actual purchasing demand of state
+agencies.
+In 2018, our office also conducted an IT audit of DAS’s Chief Information Office, looking at the state’s
+procurement system and its associated challenges. The audit recommended DAS adopt an enterprise
+eProcurement system, but without making specific recommendations on vendors or software options. The
+audit findings further reinforced the need to modernize statewide procurement.
+The Legislature authorized OregonBuys as a statewide system, and DAS initiated a new contract with
+Periscope Holdings in 2019. To bypass potentially significant development and implementation costs,
+DAS and Periscope Holdings adopted a unique funding model. Periscope Holdings agreed to take on the
+platform’s development and implementation costs, as well as providing training and helpdesk support to
+16 Periscope Holdings, Inc. Website
+17 Secretary of State Audits Division report 2018-45: “Significant Cost Savings Can Be Achieved by Modernizing Oregon’s
+Procurement Systems and Practices.”
+Oregon Secretary of State July 2025
+Report 2025-18 page 13
+agencies. In exchange, Oregon agreed to gradually pay back Periscope Holdings through an adjusting
+percentage of the state’s vendor fee collected from statewide price agreement vendors.18
+DAS conducted a multi-phased OregonBuys rollout, with the first phase going live in July 2021 and the
+second phase starting in September 2021. By September 2023, most participant agencies were online and
+using full system functionality. Two separate yet concurrent processes were followed during the system’s
+implementation, the first being the Stage Gate Approval Process. Each project going through this process
+must pass through four stage gates before it is considered fully implemented. As of the time of this report,
+OregonBuys has completed the first three stage gates and is in the process of completing stage gate 4,
+finalizing the official closeout of the project. This project’s closure transitions OregonBuys from
+implemented to operational status.
+Figure 6: From a small collaboration of agencies to a full statewide adoption, OregonBuys has been implemented
+as the state’s eProcurement system
+2015
+Grassroots Project Contract: OregonBuys contract
+initiated for 10 agencies.
+2018
+DAS presented OregonBuys to Legislature for
+statewide adoption, and the Legislature approves.
+2018
+A Secretary of State IT audit recommends adopting a
+statewide eProcurement system to replace ORPIN.
+2019
+DAS contracts with OregonBuys vendor, Periscope
+Holdings, Inc., for an enterprise contract.
+SEPTEMBER 2021 TO AUGUST 2022
+OregonBuys Wave 1 rollout of a group of state
+agencies, boards, and commissions.
+OCTOBER 2022 TO MAY 2023
+OregonBuys Wave 2 rollout of a group of state
+agencies, boards, and commissions.
+MARCH 2023 TO SEPTEMBER 2023
+OregonBuys Wave 3, final project rollout of state
+agencies, boards, and commissions.
+NOVEMBER 2023
+DAS sends a notice of security concerns to
+OregonBuys vendor.
+2024
+DAS enters into contract renewal negotiations with
+OregonBuys vendor.
+The implementation process was the two-phase introduction of the system’s business functions.
+OregonBuys was initially rolled out to all state agencies and Oregon Cooperative Procurement Program
+(OrCPP) members with a basic configuration, called Phase I. This included posting solicitations, receiving
+and awarding project bids, and housing agency contracts.  When that process was complete, state
+agencies rolled onto a more robust configuration (known as Phase II) that provides full end-to-end
+procurement functionality, such as submitting invoices for payment and generating spend data and
+reports.
+18 Oregon pays the OregonBuys vendor through a funding model utilizing the state’s price agreement vendor fee, which is applied to
+most vendors of statewide price agreements. Periscope Holdings is currently receiving 2% of the fee.
+Oregon Secretary of State July 2025
+Report 2025-18 page 14
+DAS rolled Phase II of OregonBuys out to state agencies in three “waves,” or groupings, with each planned
+at different times with guidance, communications, and issue tracking to allow DAS to identify and address
+operational and system configuration concerns as they occurred.
+OregonBuys interfaces with other systems, but its existing framework prevents easy
+customization
+While OregonBuys is the system of record for contracts, the state’s financial management system,
+R*STARS, is the system of record for payments. There is a two-way interface between OregonBuys and
+R*STARS; approved invoices are sent daily out of OregonBuys to R*STARS and then details are sent back
+to OregonBuys to auto-update payment status, after the approved payments sent from the financial
+system to vendors.
+OregonBuys also has an interface with the COBID office for helping agencies provide the required
+notifications related to procurements exceeding $10,000. With this built-in interface, agencies do not have
+to do a separate notification to the Governor’s Advisor for the COBID program. Lastly, there is an interface
+in OregonBuys with the Oregon Department of Transportation’s Teams system, which is its own distinct
+financial system.
+Figure 7: There are several systems that interface with OregonBuys
+OregonBuys is an “off-the-shelf” product, meaning it has a basic framework supported by the vendor and
+can be utilized by multiple states and entities, but cannot readily be customized to suit all the nuances of
+different state’s specific procurement requirements or terminology. Multiple states currently contract with
+the same vendor for their enterprise eProcurement systems. For this reason, the system is not configured
+to mirror Oregon’s Public Contracting Code, requiring DAS to establish additional guidance and resources
+to agencies. This includes a “crosswalk” of system terminology to help agencies navigate the system and
+comply with Oregon’s procurement and contracting laws and policies.
+OregonBuys
+State Financial
+Management
+System - R*STARS
+COBID -
+promoting
+business
+opportunities
+TEAMS - ODOT
+system interface
+Oregon Secretary of State July 2025
+Report 2025-18 page 15
+DAS’s contract with Periscope Holdings lays out terms of agreement for system framework and
+functionality, as well as vendor provisions of training and helpdesk support, including levels of support and
+required response times. In the contract, the vendor is to conduct annual spend analysis and make
+recommendations to DAS. Additionally, as outlined in the contract, the vendor is to conduct quarterly
+releases to the system, which include fixes and system enhancements. The contract contains detailed and
+specific timeframes for the state to conduct testing for these quarterly releases.
+Some executive branch agencies are not fully utilizing OregonBuys
+Some agencies under DAS procurement authority are granted temporary exceptions from adopting full
+system functionality. As of April 2025, DAS approved Phase II functionality exceptions for four agencies:
+the Oregon Department of Corrections, Department of Fish and Wildlife, Parks and Recreation
+Department, and the Employment Department, with the latter delaying Phase II implementation due to
+agency resource needs. The Oregon Department of Transportation also has a partial Phase II exception for
+highway construction contracts. Exceptions around agency participation in Phase II functionality (which
+includes requisitions, purchase orders, receiving, and invoicing) limit spend capture in the eProcurement
+system.
+Agencies that have partial exemptions from DAS procurement authority may also opt to limit their use of
+OregonBuys to specific functions or specific kinds of procurements and not adopt full functionality across
+the board.
+Additionally, some fully exempt agencies have chosen to limit their use of OregonBuys to Phase I
+functions, such as posting solicitations. These agencies have adopted alternative systems to support
+broader procurement and contracting needs. According to DAS, eleven other entities, largely comprised of
+small boards and commissions, have chosen not to adopt the system’s full functionality.
+Audit Results
+Oregon Secretary of State July 2025
+Report 2025-18 page 16
+Auditors found several opportunities for DAS to improve its procurement and contracting oversight, agency
+customer support service delivery, and management of the OregonBuys eProcurement system.
+DAS has the authority to audit state procurement and contract compliance risks. However, DAS does not
+have a comprehensive centralized compliance program and does not conduct routine reviews of Oregon
+state agencies’ procurement and contracting activities. This means DAS is generally not aware of poor
+contract management practices that could jeopardize program initiatives or lead to inefficient spending or
+noncompliance with regulations. Establishing a comprehensive contract compliance program would be an
+effective mechanism to consistently and systematically address or prevent these concerns.
+In a survey of state agencies, respondents reported services provided by DAS’s State Procurement
+Services program, such as training, guidance documents, and contract management support, are
+inconsistent and under-resourced to meet the state’s needs. Agencies reported out-of-date materials and
+trainings, slow communication, and staff lacking procurement expertise. These problems slow down issue
+resolution, lead to misunderstandings, and undermine DAS’s intention to set and monitor high standards of
+accountability around state funds.
+OregonBuys is achieving many of the intended functions proposed to the Oregon Legislature in 2018;
+however, there is much room for improvement. DAS is still resolving a number of system limitations that
+undermine OregonBuys’ ability to capture and analyze spend and support DAS’s efforts to employ
+effective strategic sourcing strategies that reduce the cost of contracted goods and services. Procurement
+officials at other agencies say the system is difficult to navigate and does not support all aspects of their
+work. OregonBuys continues to undergo frequent changes and updates.19 These ongoing challenges
+prevent the state from maximizing all the potential benefits of an eProcurement system.
+DAS does not have a comprehensive centralized compliance function to
+identify or prevent agency contract failures
+DAS has some oversight components built into its existing procurement service array, such as agency
+training and certification requirements, policy development, and support services. However, while DAS has
+the authority to audit state agency procurement and contract compliance risks, it has not formally
+established a function to perform routine compliance reviews. Unless DAS receives requests from the
+Governor’s Office or requests from state agencies for direct support, such as using a special procurement
+process to mitigate a contracting issue, DAS lacks an effective mechanism to identify and prevent costly
+and time-consuming contract failures from occurring.
+Developing such a function is in line with best practice and could mitigate the significant risks that
+accompany state government contracting and purchasing. A compliance program could also inform DAS’s
+efforts to develop guidance and resources for agencies, as well as confirm delegated authority is
+appropriately and responsibly deployed.
+19 Under the OregonBuys quarterly configuration release schedule, some specific concerns detailed in the report findings could
+potentially be addressed by the time this report is released or in the months following, while others could take much longer to fully
+resolve. When possible, the audit team noted where progress to address specific system issues has been made or is underway.
+Oregon Secretary of State July 2025
+Report 2025-18 page 17
+Several other states have established centralized compliance programs, which conduct statewide reviews
+to identify and address risks. As these programs vary significantly in structure, design, and specific areas of
+focus, the State of Oregon has the opportunity to develop its own program to ensure efficient and effective
+use of public funds.
+DAS does not proactively and routinely use its authority to evaluate agency compliance
+with the Public Contracting Code
+While a statewide compliance program is not explicitly laid out in statute or rule, DAS (as well as the
+Secretary of State’s Office and Legislature) has the authority under administrative rule to conduct
+performance audits that can identify where compliance is lacking. DAS may revoke procurement authority
+delegated to agencies if there are indicators of noncompliance or other deficiencies identified through an
+audit. To retain their delegated authority, agency procurement officers are required to monitor procurement
+operations and make sure staff are trained and certified.
+Despite the delegation of authority, DAS is still responsible for all aspects of the state procurement
+system.20 The State Chief Procurement Officer is responsible for monitoring the state’s source decisions,
+procurements, contract development, awards, compliance, overall state spend, and more. While some of
+these specific duties are shared with delegated officers, the State Chief Procurement Officer who oversees
+the State Procurement Services program is tasked with monitoring the statewide procurement system to
+optimize savings for the state.
+DAS told auditors the agency reviews certifications for delegated agencies. When agencies reach out to
+DAS for assistance, it can also initiate a special procurement process to guarantee payment and avoid
+disruption of service delivery or goods through a contract that may have expired or is undergoing
+renegotiation or amendments. DAS may also be alerted by other entities of suspected mismanagement at
+an agency, wherein DAS may review contract or procurement practices and provide recommended
+actions.
+However, apart from the certification reviews, DAS does not perform routine compliance audits of
+procurement or contracting activities and has not developed any formal compliance review processes or
+established a comprehensive compliance program. Nor has the special procurement process been
+standardized to address common or recurrent issues. For example, the agency does not routinely assess
+nonexempt and partially exempt state agencies to certify they are meeting the requirements in state law.
+Instead, DAS intervenes only when state agencies or the Governor’s Office specifically request its
+services.
+Without an established and routine compliance function, DAS does not have an effective mechanism to
+identify and deter poor purchasing and contract management practices and cannot evaluate whether
+agencies are fair and equitable in their award decisions. DAS cannot systematically identify fraudulent
+activity or prevent the waste and abuse of public funds or evaluate whether agencies are following the
+Public Contracting Code and their own policies and procedures.
+If a routine compliance monitoring program were established, significant issues of noncompliance could be
+proactively identified and addressed. If strategically deployed statewide and used to inform training and
+20 See pgs. 4 through 12 to learn more about DAS procurement authority.
+Oregon Secretary of State July 2025
+Report 2025-18 page 18
+agency guidance, a compliance monitoring program could help prevent these kinds of issues from
+happening in the future. In some cases, this could lead to DAS removing or reducing delegated
+procurement authority. DAS could also identify trends of noncompliance and areas of general confusion or
+disagreement that could inform statewide training and policy development. The introduction of
+OregonBuys also provides the state with a powerful tool that could support conducting agency reviews of
+procurement and contracting activity and decisions. This potential has not yet been explored.
+No other entity in Oregon is doing this work on an enterprise scale. According to our survey, state agencies
+do not regularly perform independent compliance reviews of contracts. In some cases, this function is
+performed by an internal auditor or a consultant, but most agencies are dependent on the standard
+contract lifecycle management process. While this process does provide some assurance that standard
+contract steps are outlined in policies and an approval process is in place, process alone cannot ensure
+that agencies are in compliance or efficiently and effectively administering contracts.
+Considering neither DAS, the Legislature, nor any other state entity currently hosts a statewide compliance
+program, introducing such a program would require extensive planning and development and may need an
+infusion of staff resources. The total need for resources, and decisions on where to host such a program
+and what specific areas of risk it might focus on, still need to be determined. However, establishing a
+statewide compliance program could provide key oversight lacking in the framework of the state’s
+procurement system, which is otherwise generally in line with the current best practices.
+Establishing a centralized statewide compliance function is a best practice and several
+other states have one in place
+According to the National Association of State Procurement Officials, it is a best practice for state central
+procurement authorities to conduct regular compliance reviews. Several states have established programs
+or processes for conducting these reviews. Regular performance monitoring to help identify and remediate
+issues is also a recognized best practice for organizations under the COSO model (Committee of
+Sponsoring Organizations of the Treadway Commission).21
+The audit team identified several states with a central procurement or contracting compliance function,
+although their focus and structure vary. Some are prescriptive and robust, while others are less formalized.
+Several are housed in an administrative agency, like DAS. However, some states have independent
+21 The COSO model is an integrated framework that organizations utilize to design, implement, and maintain systems of internal
+controls, including conducting risk assessments, developing and implementing methods and procedures to mitigate identified risks,
+and performing routine monitoring activities to assure those established controls are effectively, efficiently, and ethically working in
+mitigating organizational risks.
+Without an established and routine compliance function, DAS does not have an effective mechanism
+to identify and deter poor purchasing and contract management practices  and cannot evaluate
+whether agencies are fair and equitable in their award decisions. DAS cannot systematically identify
+fraudulent activity or prevent the waste and abuse of public funds or evaluate whether agencies are
+following the Public Contracting Code and their own policies and procedures.
+Oregon Secretary of State July 2025
+Report 2025-18 page 19
+boards that conduct regular reviews, while others engage an entity like the State Auditor or Attorney
+General to perform or assist with periodic reviews.
+Figure 8: Audit research indicated at least 23 states (in blue) have a compliance function overseeing statewide
+procurement or contracting
+Arizona’s  central procurement office has a compliance team that includes training specialists. The team
+conducts routine procurement performance audits of each agency at least once every three years. Audits
+look at a random sampling of agency contracts and purchasing documentation. This program follows a
+formal corrective action process for findings of noncompliance. Findings from these audits inform and
+customize the department’s training program.
+Some states, such as Connecticut , have a separate policy board charged with oversight and compliance
+monitoring. The Connecticut State Contracting Standards Board has oversight authority over statewide
+procurement and contracting. The board performs triennial audits of agencies to review their compliance
+with state contracting and procurement laws and rules.
+North Carolina  has a Risk and Compliance team in its central procurement office. The team conducts
+routine compliance reviews of agencies' purchasing practices, which can impact an agency’s delegated
+purchasing authority, either by reducing or increasing it. Each agency undergoes a compliance review
+every 18 months. These reviews focus on agencies’ direct pays, purchase orders, procurement card
+purchases, and risk assessments, as well as the agency’s own procurement and purchasing card manuals
+or policies. Findings from these reviews inform the procurement training unit.
+South Carolina’s  central procurement office has a separate audit unit. The unit conducts reviews of
+agencies’ internal controls, such as policies and procedures, as well as a sample review of transactions
+Oregon Secretary of State July 2025
+Report 2025-18 page 20
+and procurements to ensure controls are being followed. They review agencies’ internal and external
+audits, purchasing card transactions, and procurements. They do not look at contract administration or
+management. Agencies in this state are also required to conduct their own monitoring and review of their
+transactions, which the procurement audit team includes in their audit consideration and assessment.
+Washington State  is currently rolling out a new, systemic risk assessment process of state agencies with
+delegated procurement authority that focuses on compliance. The central procurement office established a
+compliance scoring system for various procurement and contract regulations and policy. The central
+procurement agency also created a risk-rating system for agency delegations. This developing process
+involves continual stakeholder engagement and feedback. In the first rollout of this program, three to six
+contracts will be selected per agency, with an initial focus on compliance with supplier diversity and
+environmental policies. Other areas of focus may include areas of prior noncompliance, costly or high-
+profile procurements, or solicitations that have been protested by vendors.22
+Agencies report DAS’s service is inconsistent and often does not meet the
+state’s procurement and contracting needs
+Within DAS, the State Procurement Services program under the State Chief Procurement Officer provides
+training, guidance, and support to state agencies. However, the program lacks staff and other resources
+needed to meet agency needs and deliver consistent, high-quality customer service. These issues slow
+down issue resolution, lead to misunderstandings, and undermine DAS’s intention to set and monitor high
+standards of accountability around state funds. Working with the Legislature to staff up State Procurement
+Services and take strategic steps to improve its customer service, including communication, training, and
+staff expertise, could help DAS enhance oversight of agency procurements, contracts, and contracting
+practices and build stronger relationships with partnering agencies.
+Auditors surveyed Designated Procurement Officers at 29 agencies who participate in the DAS-supported
+Designated Procurement Officers Advisory Council to obtain feedback about using the OregonBuys
+eProcurement system, the quality of general procurement and contracting support services provided by
+DAS State Procurement Services, and agency contracting practices. Interviews were also conducted with
+procurement and financial services staff at DAS and several other agencies.
+DAS State Procurement Services provides a range of procurement and contracting
+support services, but the quality and availability are inconsistent
+The State Procurement Services program provides support and resources to state agencies such as
+trainings, guidance documents and standardized templates, a procurement manual, monthly meetings
+with agency procurement officers, administering contracts on behalf of some small agencies, and
+establishing statewide price agreements and other types of contract awarding and administering. These
+services are important for effective and transparent state procurement and contract management, and
+must be consistent, accessible, and aligned with Oregon law and current best practices.
+22 A vendor protest of a solicitation is a formal process where they may contest some component of the solicitation document or
+process, or they may contest the agency’s decision to award a contract to a competing vendor.
+Oregon Secretary of State July 2025
+Report 2025-18 page 21
+Agencies that responded to our survey said several of these services are helpful. These services include
+help with purchases and contracts, special procurement support, serving on the Designated Procurement
+Officer Advisory Council and OregonBuys Champions Group, and developing and providing access to the
+state procurement manual, templates, and price agreement buyers’ guides.
+However, agencies also noted gaps and deficiencies in the services provided. While some complaints were
+specific to OregonBuys, several agencies pointed to other issues with State Procurement Services that
+impact the program’s ability to provide the level of service needed by agency partners.
+Training s provided by State Procurement Services raised several concerns, but much -needed
+update s are underway . DAS is required to establish training standards and provide training and
+instruction so procurement staff statewide have the skills and knowledge to comply with the Public
+Contracting Code and DAS procurement policies.23 While the agency offers dozens of self-directed and
+instructor-led courses, survey respondents noted several concerns with the available trainings:
+• Available training formats were limited and training coordinators often lacked knowledge about the
+subject matter and relevant procurement expertise. Respondents wanted a wider variety of training
+formats available to agency staff, including more live and interactive options, as well as courses
+focused on IT procurements and general trainings for non-procurement staff to promote better
+general understanding.
+• Some procurement courses were unclear, inaccurate and out-of-date with current state law, or not
+aligned with certification requirements. These trainings did not reference existing DAS templates
+or use real world examples that would be meaningful to participants.
+DAS is aware of these concerns; the agency told the audit team it has been in the process of revamping the
+training program to incorporate best practices and involve procurement staff. DAS also told Designated
+Procurement Officers Council members it intends to start using more training methods, such as in-person,
+live virtual, and pre-recorded. Some of these enhanced offerings are in development by DAS. Greater
+communication with agency partners like the Department of Justice and better awareness of trainings
+already offered would help DAS as it updates and refines its training program.
+Figure 9: Agencies rated the quality of DAS contract administration trainings marginally higher than
+procurement trainings
+23 125-246-0170(3)(b)(G)
+1 2 3 4 5
+Survey  Responses (29
+Total)
+1 star = Low 5 stars = High
+DAS procurement trainings
+DAS contract administration trainings
+Oregon Secretary of State July 2025
+Report 2025-18 page 22
+Survey results indicate communication with S tate Procurement Services is slow and inconsistent
+and the program needs more procurement expertise.  One of the most cited concerns among survey
+respondents was slow and sometimes conflicting communication on the part of State Procurement
+Services staff. Respondents said some DAS staff were knowledgeable and responsive, but others lacked a
+similar understanding of their needs and would give them incorrect advice. Respondents said the program
+appeared to be understaffed, had a high turnover, and did not have enough trained and experienced
+procurement professionals on board.
+Some survey responses pointed out specific program needs that are not fully developed. For example,
+DAS lacks metrics for meeting agency needs and has not involved the Designated Procurement Officers
+Council in strategic planning. Some respondents wanted DAS to set up a ticketing or triage system to
+manage agency requests and issues related to procurement. While State Procurement Services has a
+central email for questions and support requests, DAS acknowledged it did not have the necessary
+administrative support to triage incoming requests.
+One of DAS’s primary tools is its website. While agencies considered it easier to navigate than
+OregonBuys and appreciated the availability of online resources — such as the online procurement
+manual and templates — these documents were out-of-date and did not include recent statutory or rule
+changes. Some online resources have been outdated for several years and likely do not reflect recent
+changes in statute and rule that impact state procurement.
+Improving service delivery supports the agency’s mission and vision, which emphasize leadership,
+collaboration, and service delivery. The DAS 2024-2027 Strategic Plan outlines four high-level goals for the
+agency, starting with available, accessible, responsive, and transparent customer service.24
+These goals highlight DAS’s approach to its work and the recognition that agencies desire a collaborative
+relationship rather than a top-down management model. That desire must be balanced with DAS’s
+responsibility to oversee and confirm the implementation of statewide policies and monitor the productive
+use of state funds. DAS, like all other state agencies, ultimately serves and is accountable to the public.
+State Procurement Services’ growing responsibilities and staffing levels undermine its
+ability to meet state agency support needs
+As of 2025, State Procurement Services saw the scope and complexity of its demands and workload grow,
+although staff coverage has remained stagnant. The program must have sufficient and appropriately
+targeted staffing and resources to meet its responsibility of overseeing state procurement and providing
+quality services.
+24 DAS 2024-2027 Strategic Plan
+One of the most cited concerns among survey respondents was slow and sometimes conflicting
+communication on the part of State Procurement Services staff . Respondents said some DAS staff
+were knowledgeable and responsive, but others lacked a similar understanding of their needs and
+would give them incorrect advice.
+Oregon Secretary of State July 2025
+Report 2025-18 page 23
+OregonBuys created a particular resource burden for State Procurement Services as they continue to work
+through its challenges. Total staffing within the program is roughly the same now as it was in 2017, prior to
+the OregonBuys rollout. DAS requested five additional FTE in 2019 to support the OregonBuys rollout, but
+only two were permanent positions. Furthermore, existing program staff absorbed additional duties and
+responsibilities when the program lost five administrative support roles in recent years.
+Figure 10: State Procurement Services staffing has remained stagnant during a period of growing demands and
+responsibilities
+2017-19 2019-21 2021-23 2023-25
+Positions  60 66 64 61
+FTE 59.63 66 63.33 60.38
+Source: DAS Agency Request Budgets
+Outside of implementing a new eProcurement system, other changes and mandates have contributed to
+higher workloads within the State Procurement Services program. These include the creation of the Office
+of Procurement Equity, changes in statutes and rules raising procurement thresholds, a legislative
+mandate for developing grant administration training, and Governor Kotek’s executive order in late 2024.
+The audit team could not reasonably determine whether State Procurement Services lacked staff coverage
+compared to other states, as state programs have numerous and complex statutory, administrative, and
+structural differences. However, the State Chief Procurement Officer commissioned a staffing time study of
+its three main work units in summer 2024, the results of which support the assertion that the program lacks
+adequate staff coverage to meet workload demands. The time study measured available staff hours
+against project demands and found the program to be short of approximately 14 full-time equivalent
+positions to support its current workload. The additional demands being placed on the program may also
+necessitate a review of how its available resources can be most efficiently aligned to support high-quality
+service delivery.
+While OregonBuys meets many of its proposed goals, the system does not
+capture all state spend and presents additional operational challenges
+OregonBuys was originally proposed to the Legislature to be an efficient, automated, end-to-end
+procurement system that would allow for more detailed tracking and reporting on state spend.26
+OregonBuys has accomplished much of its original intent; however, state spend capture and the system’s
+ability to support strategic sourcing remain incomplete.
+Auditors found OregonBuys poses persistent operational and configuration challenges for DAS and
+agency users. These include limitations on the system’s ability to capture spend data, reporting limitations,
+and other operational challenges. Additionally, OregonBuys is unable to fully support contract lifecycle
+25 Executive Order 24-31 requires Project Labor Agreements between labor organizations and construction contractors on project
+terms and conditions, including working conditions, worker roles, and compensation. This order also requires contract thresholds for
+utilizing COBID or disadvantaged businesses higher than those measured in the 2023 disparity study, and tracking tools to collect
+data and report to DAS.
+26 For more information on how OregonBuys originated, see pgs. 13 through 17.
+Oregon Secretary of State July 2025
+Report 2025-18 page 24
+management. DAS, in coordination with partnering agencies, must continue seeking resolutions to these
+issues to maximize the benefits of the system for the state.
+OregonBuys can do most of the functions it was intended to perform
+Most state agencies are currently using OregonBuys. As of January 2025, approximately 80 agencies,
+boards, and commissions are using the system, which houses over 400 statewide price agreements. Over
+50,000 vendors are also using OregonBuys. For fiscal year 2024, OregonBuys hosted over 40,000
+separate transactions totaling $2.14 billion.27
+Adopting OregonBuys has required many agencies to review and update internal procurement and
+contracting policies and procedures and take on some additional workload to ensure OregonBuys invoices
+are properly processed and reconciled with payment data in the R*STARS statewide financial system.
+Figure 11: Most of OregonBuys’ functions promoted to the Oregon Legislature in 2018 have been substantially met
+Substantially Met                Partially Met
+ End-to-end procurement   State spend capture
+ Price agreement catalogs   Strategic sourcing
+ Vendor access (self -service)
+ Sourcing configuration
+ Automate RFP/bid process
+ Automate with workflows and
+approvals
+ Remove manual paper process
+According to DAS’s reporting on key performance measures for OregonBuys, the number of agencies
+entering procurement data into the system almost doubled from 28 to 50 between fiscal year 2021 and
+fiscal year 2024, with increases every year in between. According to DAS staff, that number is likely higher
+as of January 2025. This suggests agencies are increasingly using the system’s full functionality. Some of
+those not using full functionality have specific temporary exceptions in place, but many smaller agencies
+and boards may lack appropriate staffing resources to use the system or depend on DAS to perform
+procurement and contracting work on their behalf.
+27 Oregon Transparency website.
+Oregon Secretary of State July 2025
+Report 2025-18 page 25
+OregonBuys’s ability to capture state spend via SPOTS cards and intergovernmental
+agreements is still incomplete
+While most forms of state spend are now capturable in OregonBuys, state credit card (commonly known as
+a SPOTS card) purchases and expenditures tied to intergovernmental agreements are not. Some agencies
+frequently use SPOTS cards to make immediate and necessary purchases (such as tools and other
+supplies when in the field) rather than placing orders through OregonBuys that may require a wait time.
+This suggests there could be a significant amount of spend data that is not captured in the OregonBuys
+system.
+DAS knew early on that managing SPOTS card purchases directly through OregonBuys may not be
+feasible. At the time of this report, a solution has yet to be identified. The agency considered workarounds
+to track SPOTS card spend without burdening agency staff who need to make timely purchases. In 2021,
+DAS explored a potential solution called a “card vault” to store SPOTS card user data, but it was ultimately
+abandoned due to concerns that in order to meet industry security requirements, the workload on agencies
+would be untenable.
+DAS told the audit team they were exploring alternative approaches in late 2024, including functionality
+allowing an agency to pay for a purchase outside of OregonBuys and then manually close out the purchase
+order in the system. In January 2025, DAS told members of the Designated Procurement Officers Advisory
+Council they should not expect to see SPOTS card payments incorporated into OregonBuys.
+DAS is not currently able to align SPOTS card spend data with OregonBuys spend data to track and
+monitor those expenditures. U.S. Bank, the SPOTS card vendor, reportedly does not capture price
+agreement numbers or other data specific to SPOTS card purchases on price agreements, nor is DAS able
+to narrow down the data provided to specific items being purchased, as they are not consistently tracked
+by manufacturer or product numbers. SPOTS card purchasing data captures the total amount spent on a
+transaction, but not necessarily the items purchased. Therefore, purchasing on statewide and agency price
+agreements cannot be entirely captured in OregonBuys, nor in the SPOTS card vendor application. Due to
+these limitations, DAS has to pull this data from vendors' self-reported quarterly Volume Sales Reports.
+DAS plans key updates to OregonBuys in 2025 to resolve functionality concerns
+Those changes include:
+• Updating some reporting and data analysis features for agency users;
+• Expanding the online marketplace and creating a more user-friendly experience;
+• Improving the user interface, including accessibility features and links to key documents; and
+• Greater process standardization around contract entry in the system, which could improve
+overall system reporting functionality, support strategic sourcing efforts, and lead to faster
+vendor payments.
+DAS is not currently able to align SPOTS card spend data with OregonBuys spend data  to track
+and monitor those expenditures.
+Oregon Secretary of State July 2025
+Report 2025-18 page 26
+Aligning data streams from OregonBuys with those provided by U.S. Bank would allow the state to better
+understand how SPOTS card money is spent. A certain proportion of SPOTS card spend goes to statewide
+price agreement products and services; but without aligning data sets, the state cannot determine how
+much. Having this information could help DAS negotiate statewide price agreements more effectively and
+gain a clearer understanding of the true demand for specific goods and services statewide.
+Figure 12: Prior to OregonBuys, DAS recommended adopting a statewide eProcurement system to improve spend
+data tracking
+Source: 2018 Senate Committee on General Government and Accountability
+Some other types of spend data are not captured in OregonBuys. Administrative rules require
+intergovernmental agreements, known as ORS 190 Agreements, to be uploaded into OregonBuys or
+another approved eProcurement system.28 However payments for interagency agreements, a specific type
+of intergovernmental agreement, must still be processed directly through R*STARS. To minimize the risk
+of incorrect payments, DAS now requires all intergovernmental agreement payments under ORS 190 to
+occur outside of OregonBuys. Additionally, OregonBuys does not currently track funds set aside by
+agencies to pay for future goods and services (called encumbrances). The system can track funds set
+aside for future use, but according to DAS, agency processes differ too much to make effective use of this
+feature. Tracking these amounts was not specifically promised; however, agencies may struggle to
+determine how much they spend on contracts to avoid going over their limits.
+As originally intended, some other purchases, such as utility payments and employee reimbursements, are
+still paid by agencies directly through R*STARS or other payment methods. As mentioned on page 27,
+system adoption (and the associated capture of state spend) is an ongoing process. While agencies are
+28 OAR 125-246-0365(1)
+Oregon Secretary of State July 2025
+Report 2025-18 page 27
+demonstrating growing familiarity with OregonBuys, the system’s Transition Guidance states that non-
+procurement items will continue to be paid for “using existing agency methods.”
+Finally, key performance measures set by the Legislature may far exceed the ability of OregonBuys to
+show sourced addressable spend overall. 29 The 2024 key performance measures assume the state can
+source and track 90% of spend through the system; according to DAS, industry targets for “best-in-class”
+eProcurement systems are 60%. The agency recommended the measure be revised in line with industry
+targets, starting with a 45% target for 2025 as the first year of data collection, analysis and reporting, and
+increasing to 60% each year after. While not articulating a total percentage of spend, NASPO also
+suggests that having 80% of transactions in the system can support reaching system maturity – a process
+that can take two or more years from the date of full implementation.
+DAS continues to pursue resolutions to persistent data capture, testing, and security
+challenges
+While DAS considers OregonBuys fully implemented, both DAS and the system’s vendor continue to
+monitor and address issues on at least a quarterly basis. However, some issues have proven to be
+persistent, which affects agency users’ ability to accurately input and track procurement information.
+State spend data is captured in multiple systems that are not fully integrated, limiting DAS’s ability
+to identify purchasing trends or make informed  strategic sourcing decisions.  DAS continues to
+grapple with capturing accurate spend totals. The OregonBuys system was intended to provide effective
+data and reporting for management purposes — particularly for the ability to analyze state spend to better
+understand how much is being spent categorically and what agencies' needs truly are. This information
+would inform the negotiations of statewide price agreements, helping the state reduce costs on routinely
+procured goods and services.
+However, OregonBuys data is not easy to analyze or synthesize in relation to data from other spend-
+capturing systems. There are currently no universal expectations in place for using system codes (such as
+product or manufacturing codes) that allows for cross comparisons of the spend data from other systems.
+Since SPOTS card spend is still outside the system and several agencies are still not using OregonBuys’s
+full functionality, data must be extracted and correlated between several systems and sources. These
+sources include: OregonBuys, vendors’ volume sales reports, U.S. Bank SPOTS card reports, R*STARS,
+and archival data from ORPIN. The data from each source must be validated and must be comparable so it
+can be integrated and analyzed. Key data points must all be present and any differences in how the data is
+categorized must be accounted for.
+According to DAS, there is currently no easy or straightforward way to automatically synthesize these
+disparate data streams so they are properly and accurately aligned. These limitations slow efforts to
+validate and perform quality data analysis that can inform strategic sourcing, especially with regard to
+negotiating statewide price agreements.
+29 Sourced addressable spend is the portion of an entity’s total spend that can be utilized for strategically negotiating contracts with
+specific suppliers.
+Oregon Secretary of State July 2025
+Report 2025-18 page 28
+Quarterly release process failed to prevent issues with some updates  before they were  deployed
+statewide . The OregonBuys vendor deploys system updates to their clients (in this case, Oregon state
+agencies) on a quarterly release schedule. Clients are allowed a specific number of days to perform testing
+at two points during the release cycle. Periscope Holdings encouraged all standard business processes to
+go through testing on this schedule, but DAS noted they did not find this approach effective or timely. DAS
+opted to establish a set of standard invoice and financial interface tests that are conducted during all
+releases and then focus on testing new and updated functionality to catch defects and train users on the
+changes.
+As of October 2024, 24 staff from eight state agencies, including DAS, were invited to assist with testing.
+Some staff involved in testing told the audit team they consider it a substantial burden, and the testing
+window (about 20 days) does not give them enough time to thoroughly run through the recommended
+tests. DAS reported that the vendor is sometimes late to alert them of all changes that end up being
+released, leading to some changes going through that have not been adequately tested (if at all).
+While most system updates are successful, occasional issues that likely should have been identified during
+testing have slipped through. One update in April 2024 resulted in an unexpected change to account
+coding in the financial interface and caused significant issues across the state. Roughly 70% of the active
+transactions in the system failed to interface correctly with R*STARS. Agency staff had to fix the errors
+manually, which took a significant amount of time.
+Sometimes, unanticipated system issues arise after an update. Following the April 2024 update, the open
+bids tool stopped routinely updating with the latest agency solicitations and notices. This meant that
+system users were not always seeing the most up-to-date information related to these solicitations. DAS
+alerted Periscope Holdings of the issue, and Periscope created a script to update the list every day at 6
+a.m. until the issue was resolved in the subsequent release. These and other issues caused or triggered by
+the updates, depending on the severity, should be addressed immediately or in future updates.
+DAS appears to be taking a more cautious approach to OregonBuys system updates following the April
+2024 coding issue. In September 2024, DAS chose to delay the scheduled update due to issues identified
+during testing. Other states that went live on the scheduled release date experienced multiple issues that
+had to be resolved by the vendor.
+The OregonBuys system was intended to provide effective data and reporting for management
+purposes  — particularly for the ability to analyze state spend to better understand how much is being
+spent categorically and what agencies' needs truly are.
+However, OregonBuys data is not easy to analyze or synthesize  in relation to data from other
+spend-capturing systems.
+Some staff involved in testing told the audit team they consider it a substantial burden  and the testing
+window (about 20 days) does not give them enough time  to thoroughly run through the
+recommended tests.
+DAS reported the vendor is sometimes late to alert them of all changes that end up being released,
+leading to some changes going through that have not been adequately tested (if at all).
+Oregon Secretary of State July 2025
+Report 2025-18 page 29
+System security concerns are still being resolved.  In November 2023, DAS notified the vendor —
+Periscope Holdings — that OregonBuys was not in full compliance with industry and state security
+standards and requirements. Specifically, the vendor needed to ensure OregonBuys maintained a
+complete audit trail of user activity. A system able to track “audit events” can identify inappropriate or
+unusual activity. Certain agency users should be able to access detailed audit logs in the system and follow
+individual user activity, such as a vendor submitting a proposal by a set deadline.
+Additionally, according to the DAS notification, Periscope Holdings only assessed one-third of the
+system’s security controls annually, but state standards require all security controls in the system to be
+assessed every year. According to DAS, not testing all security controls meant the agency could not
+determine if OregonBuys met security requirements. Since the OregonBuys system did not allow
+authorized purchasers (like Oregon) to generate their own user audit reports, this raised the risk of security
+breaches not being identified or addressed timely.
+At the time of DAS’s notification in November 2023, the system was implemented and nearing the end of
+its original contract. DAS extended the contract period with Periscope Holdings in 2024 to address these
+concerns. On February 14, 2025, DAS sent the vendor a letter of resolution stating the agency was
+satisfied the vendor had fully resolved several security concerns and had provided a satisfactory plan to
+remedy the remaining defaults, which was included as part of OregonBuys’s renegotiated contract. This
+resolution allows DAS to finalize the system’s implementation process, transitioning its status to
+operational.30
+OregonBuys presents ongoing operational challenges for many agency users
+As frequent and routine users of OregonBuys, Designated Procurement Officers at state agencies have
+key insight into how it serves agency needs. According to procurement officers who responded to our
+survey, OregonBuys is generally functional and supports basic components of their work, but the system
+presents ongoing operational challenges for users.
+Figure 13: The majority of survey respondents rated OregonBuys 2 out of 5 or lower for ease of use and navigability
+30 See report page 13 for more information on the OregonBuys project implementation.
+14%
+54%
+25%
+7%
+How did agencies rate OregonBuys's
+ease of use and navigability?
+(1=lowest score / 5 = highest score)
+Oregon Secretary of State July 2025
+Report 2025-18 page 30
+Overall, the system’s ease of use and navigability was rated low by survey respondents, the majority of
+whom rated it 2 out of 5 or lower. None rated it 5 out of 5. Furthermore, few respondents said the system
+had improved since its implementation in September 2023; several said it had not substantially changed
+and, in some respects, had even become more difficult to use.
+Core functions , like the search function, did not work as anticipated or needed. Several survey
+respondents considered the search function to be unreliable because it required precise inputs or would
+need multiple queries to find certain items, contract documents, and vendors. Two-thirds of respondents
+said they were not always able to locate important procurement or contract documents in OregonBuys.
+Only six respondents said they could always find what they were looking for. Examples of key documents
+and resources survey respondents had a difficult time locating include Master Blanket Purchase Orders,
+statewide price agreements, and completed requisitions.
+31 DAS reports raising this concern with the
+vendor, who has been taking steps to improve the search function and enable agencies to search by
+contracts.
+Agency users  think OregonBuys is complex, difficult to navigate, and not intuitive . While frequent
+users can overcome the learning curve for basic processes, OregonBuys is challenging for staff not
+routinely using the system, which can include staff responsible for administering key contracts. Additional
+processes and updates are not considered effective in making the system easier to use, as users must
+continually adapt to the changes. Agencies have responded by creating workarounds outside OregonBuys
+to complete tasks that should be accomplished within the system in order to meet key deadlines.
+Agencies also noted in the survey and in interviews that additional staff time was required on the part of
+financial services staff to reconcile OregonBuys invoice and purchase order data with R*STARS data. The
+two system applications communicate with each other, but according to DAS, reconciliation is a standard
+control to confirm information matches prior to payment authorization. As of this audit, reconciliation work
+is largely a manual process. While it may be necessary, this can create an additional workload burden for
+agencies that regularly use the OregonBuys system, since regular use requires the agency to perform
+more reconciliations.
+Reporting capabilities are limited, requiring additional assistance  from DAS . Respondents said
+agencies often cannot easily customize or build the kinds of reports they need, including reports covering
+remaining contract balances, payments, and the status of invoices. Most agencies must request these
+reports from DAS, which has enhanced user access but also has limited staff dedicated to support.
+According to DAS, most of the system’s built-in reports are configured to provide users with a PDF.
+Agencies can also request a report that exports to a data file that the agency can filter and analyze.
+It is difficult to communicate within the OregonBuys system . Delays in the processing of invoices and
+receipts can lead to late payments to vendors. For example, accounts payable staff are not notified through
+31 Within OregonBuys, a Master Blanket Purchase Order is a single contract (including price agreements and intergovernmental
+agreements) an agency can issue multiple change orders against. A requisition is an internal request for goods and services.
+While frequent users can overcome the learning curve for basic processes, OregonBuys is
+challenging for staff not routinely using the system , which can include staff responsible for
+administering key contracts.
+Oregon Secretary of State July 2025
+Report 2025-18 page 31
+OregonBuys when they need to convert a receipt. To address this, DAS has created a weekly report,
+available to interested agencies, for capturing purchase orders received in the prior week. If the wrong user
+in the system approves an invoice, it can stall out instead of alerting the user that an approved staff person
+must process the invoice. Respondents also noted it is difficult to initiate change orders or make
+midstream adjustments to contracts, which can lead to longer processing times.
+DAS does not have a coordinated agency support  system with  the OregonBuys vendor . Part of
+DAS’s contract with Periscope Holdings includes the vendor receiving and responding to agency system
+requests through a support desk. While survey respondents say the vendor support desk is generally
+helpful and responsive, its offerings are limited and not well versed in Oregon’s procurement needs and
+requirements.
+Figure 14: Periscope Holdings and DAS received mixed reviews on the quality of support provided to agencies
+using OregonBuys
+Note: Some survey responses were filtered out as not all responses provided were quantifiable.
+DAS does not have its own support desk set up for OregonBuys users, although DAS staff receive Oregon
+business or procurement process-related escalations from Periscope Holdings’ support representatives
+and meet with Periscope’s support leadership teams bi-weekly to review tickets. In addition, DAS staff
+respond to agencies that reach out directly with support requests.
+However, compared to the vendor, survey respondents did not consider DAS to be responsive or timely in
+providing support and communication. The overall knowledge, responsiveness, and helpfulness of DAS
+support was dependent on the person they could reach. DAS and Periscope Holdings have not developed
+0 2 4 6 8 10
+Never
+Rarely
+Sometimes
+Often
+Very often
+Always
+Survey Responses (26 Total)
+Are DAS and Periscope providing timely and appropriate support to agencies
+using OregonBuys?
+DAS State Procurement Services
+Periscope Holdings Inc
+Oregon Secretary of State July 2025
+Report 2025-18 page 32
+a robust, coordinated approach to agency support. Survey respondents reported having to reach out to
+both entities multiple times and sometimes getting different answers from each.
+These issues can trigger the use of external workarounds to ensure payments are made on time and
+changes to contracts are processed in a timely manner. According to survey respondents, this is
+particularly true for more complex procurements and contracts. These challenges undermine efforts to
+capture a full and accurate picture of state spend, and if unaddressed, could dissuade agencies from using
+the OregonBuys system to its full capacity.
+OregonBuys does not support all aspects of contract lifecycle management
+OregonBuys is the state system of record for most state contracts. However, while solicitations, final
+contract awards, and contract amendments are stored in OregonBuys, other key contract information,
+such as Department of Justice legal reviews, are not captured in the system. According to DAS, some
+agency partners are reluctant to store confidential documents in OregonBuys and agencies have been
+advised against it. Additionally, documents uploaded into the system are static, meaning they cannot be
+edited within the system. Agencies also report issues when attempting to update or replace contract and
+procurement files, which can slow down or complicate contract workflow.
+OregonBuys in its current state is not designed or intended to facilitate contract lifecycle management.
+While the vendor offers a module for contract management, DAS opted against adopting the module
+during contract negotiations. DAS intended to focus its efforts on the successful rollout and stabilization of
+a statewide eProcurement system that could capture and report on state spend. Adoption of the module at
+that time was considered an additional complication and was not carried forward in the final version of the
+contract. DAS expressed the intent to eventually adopt a statewide contract management system.
+Figure 15: Not all key contract information is currently stored in OregonBuys
+In OregonBuys  Outside of OregonBuys
+Oregon does not have a statewide contract management system. Some agencies have their own contract
+management systems that can support key components of contract lifecycle management, but most
+agencies that responded to our survey are reliant on alternative tools such as Excel or Smartsheet. The
+Oregon Secretary of State July 2025
+Report 2025-18 page 33
+storage of some key contract documents and administration of essential tasks are largely occurring
+outside of OregonBuys. Agencies may have policies and procedures in place to ensure these steps
+happen, but the lack of a centralized contract management system makes any kind of broad external
+review of contract practices challenging. The information available in OregonBuys may not be sufficient to
+provide insight into areas that need improvement.
+Other states have centralized contract management systems, some of which are integrated with or built
+into their eProcurement systems. This includes states using the same system vendor as Oregon.
+Incorporating a contract lifecycle management configuration is considered a best practice and promotes
+efficiency and transparency around contract expenses, milestones, and day-to-day activities and
+administration. It could also allow an oversight body to more easily and efficiently monitor agencies'
+performance and compliance with contract management. A contract management system or module,
+particularly one that could successfully integrate with OregonBuys, would likely enhance the overall
+usefulness of the eProcurement system for agencies and allow DAS to provide greater oversight of
+statewide spend and contracting practices and outcomes.
+A robust contract lifecycle management process reduces risk
+Every component of a contract must be managed, from execution to final closure or renewal.
+Following best practices throughout a contract’s lifecycle helps to keep projects on point and avoids
+inadequate product or service delivery and potential legal issues. Good contract management
+encourages competition, meets ethical standards, promotes equal treatment of bidders, and
+encourages stability and accountability within the process. Key components of robust contract
+management might include routine and frequent communications and check-ins with the vendor, buy-
+in on key decisions, comprehensive documentation, clear reporting expectations, verifications of
+obtained goods or services, and timely vendor payments. Contract conditions and expectations should
+be clearly outlined and understood by all involved parties, and the administration of the contract should
+include routine monitoring and reporting on vendor performance.
+When key components are missing in the administration of a contract, the contract could run the risk of
+failure. Not only is this costly to the state, but it could result in an agency not meeting the needs of the
+people and communities it serves. Should issues occur during the implementation of a contract, a
+lessons-learned review at contract close can help identify the challenges in order to prevent similar
+occurrences on future projects. Using a secure contract management system that supports contract
+conditions, workflow, and communication needs can help mitigate potential contract challenges and
+support contract reviews.
+Recommendations
+Oregon Secretary of State July 2025
+Report 2025-18 page 34
+To enhance statewide compliance with the Public Contracting Code and support the effective
+administration of public contracts, DAS should:
+1. Coordinate with the Legislature and key partnering agencies to create a comprehensive, centralized
+statewide procurement and contracting compliance program informed by a robust risk analysis. DAS
+and its partners should consider compliance functions that include:
+a. Reviewing a sample of agency contracts on a routine schedule to promote and confirm
+timeliness, adherence to contract stipulations, and compliance with the Public Contracting
+Code.
+b. Reviewing a sample of procurements on a routine schedule to confirm compliance with the
+Public Contracting Code.
+c. Reviewing agency contract compliance policies, procedures, and practices, and providing
+direct feedback for improvement based on existing statute, administrative rules, and best
+practices.
+d. Evaluating common issues identified during compliance reviews for inclusion in DAS training
+priorities and guidance development as well as delegation decisions that fall under DAS
+authority.
+To improve and adequately resource agency support services delivered by DAS State Procurement
+Services, DAS should:
+2. Develop more consistent, accessible, and robust service delivery to support state agencies with
+procurement, contracting, and training needs. This should include:
+a. Establishing service level standards and ensuring all DAS State Procurement Services staff
+receive sufficient, timely, and regular training on state procurement rules and expectations to
+enhance program consistency.
+b. Establishing a centralized administrative support mechanism to track, triage, and respond to
+agency questions and requests regarding services, OregonBuys, training and guidance
+resources, statewide and agency policies, contract administration, and more as needed.
+c. Delivering timely, accurate, and appropriate informational updates to agencies regarding DAS
+services and resources, policy updates, OregonBuys, guidance and training, and more as
+needed.
+d. Collecting feedback from partnering agencies on ways to enhance and target services to better
+meet agency needs.
+e. Including partnering agencies in ongoing efforts to revise, develop, and update DAS
+procurement and contract training, guidance documents and templates to stay current with
+statute and state policy.
+3. Review the utilization of staff and other resources in the State Procurement Services program and
+make adjustments based on that review. This may include requesting additional FTE from the
+Recommendations
+Oregon Secretary of State July 2025
+Report 2025-18 page 35
+Legislature where appropriate to consistently perform its full suite of services, including managing the
+ongoing operation of OregonBuys. This review should include:
+a. Determining whether DAS State Procurement Services has sufficient administrative support
+for key functions, such as training development.
+b. Ensuring staff resources are properly aligned with program needs.
+a. Evaluating the need to utilize contracted services to review and analyze workload and service
+delivery.
+To ensure the OregonBuys eProcurement system is fully operational and to maximize benefits to the state,
+DAS should:
+4. Create a sufficient resource plan for the ongoing development and operation of OregonBuys and use
+the plan to obtain and direct funds and staffing.
+5. Coordinate with the Department of Justice, Enterprise Information Services, and members of the
+Designated Procurement Officers Advisory Council to perform an assessment of OregonBuys which
+includes:
+a. Reviewing agency policies and practices’ changes to inform DAS’s efforts to standardize
+procurement processes among agency users.
+b. Creating more agency-specific reporting customizations to help meet state and federal
+reporting requirements.
+c. Evaluating and equitably managing state resources for quarterly release testing to support
+more sufficient and balanced agency participation.
+d. Analyze spend data within OregonBuys as well as spend data residing in external sources to
+support informed reporting and strategic sourcing efforts.
+e. Identifying common external system workarounds and finding ways to minimize and mitigate
+their use.
+6. Coordinate with Periscope Holdings and agency partners to clarify DAS and vendor customer service
+roles and expectations and revise DAS support protocols with state agencies using OregonBuys.
+These changes should address communication needs and challenges and should include:
+a. Giving agency users prompt, consistent, and well-coordinated support from DAS and
+Periscope Holdings to address questions and issues about the OregonBuys system or state
+procurement process.
+b. Providing agency users involved in OregonBuys quarterly release testing with clear and timely
+communication on testing priorities, requirements, and timeframes.
+7. Coordinate with the Department of Justice, Enterprise Information Services, and the Designated
+Procurement Officers Advisory Council to conduct a benefits and feasibility study on adopting an
+Recommendations
+Oregon Secretary of State July 2025
+Report 2025-18 page 36
+enterprise-wide contract management system. The study must prioritize system security and DAS
+must report findings to the Legislature.
+a. Based on study results and Legislative direction, determine whether to adopt an enterprise-
+wide contract management system and identify critical next steps.
+8. Monitor, assess, and regularly report to the Legislature on progress made to capture and analyze
+spend data in OregonBuys and efforts to utilize spend data from other sources in this analysis.
+Objective, Scope, and Methodology
+Oregon Secretary of State July 2025
+Report 2025-18 page 37
+OBJECTIVE
+• Identify further steps DAS can take to enhance statewide adherence to the Public Contracting
+Code and support effective contract management.
+• Determine whether DAS is taking appropriate steps to fully implement a statewide eProcurement
+system that meets the goals outlined in the 2018 legislative session.
+SCOPE
+This audit covers progress made by DAS and partnering agencies to meet OregonBuys’s intent shared
+with the Legislature in 2018. It also covers State Procurement Services’ controls framework for public
+contracting (including compliance and monitoring) and customer service delivery. The audit scope does
+not include a review of specific contracts, agencies exempt from DAS procurement authority, vendors, or
+grant agreements.
+METHODOLOGY
+To meet our objective, we performed the following procedures:
+• Reviewed relevant Oregon statutes, rules, policies, agency budgets, council meetings and
+legislative sessions, informational reports, DAS communications, DAS-provided procurement and
+contract management trainings, and other OregonBuys and DAS materials as relevant (including
+contract materials);
+• Reviewed key documents, including DAS Stage Gate Oversight Model, DAS IT system security
+standards, the OregonBuys eProcurement system contract with Periscope Holdings, Inc. and
+Notice to Cure, and the OregonBuys quarterly configuration testing procedures, among others;
+• Interviewed DAS leadership and staff in the following programs: State Procurement Services,
+Office of Procurement Equity, State Financial Services, and Statewide Management Financial
+Systems;
+• Interviewed partnering agencies and programs, including: Department of Justice, Legislative
+Fiscal Office and the state’s Budget and Management section, Oregon State Lottery, Oregon
+Department of Transportation, Oregon Department of Forestry, the Oregon Secretary of State
+Business Services Division and State Archives, and Oregon State Treasury;
+• Interviewed representatives in the Oregon State Legislature;
+• Interviewed and conducted a survey among participating members of the DAS Designated
+Procurement Officers Advisory Council;
+• Interviewed leadership and used data and reports from the National Association of State
+Procurement Officials;
+• Researched compliance programs and functions in other states, including interviews with five
+states; and
+• Researched eProcurement, contracting, and compliance standards and best practices.
+Oregon Secretary of State July 2025
+Report 2025-18 page 38
+INTERNAL CONTROL REVIEW
+We determined that the following internal controls were relevant to our audit objective.32
+• Control Environment
+o We reviewed DAS organizational structure, governance, and authority, looking at 2017 to
+2025-27 organizational charts, agency budgets including requested budget detail, and
+staffing information for State Procurement Services.
+• Risk Assessment
+o We interviewed DAS leadership, staff, and relevant stakeholders.
+o We reviewed statutes, administrative rules, legislation, executive orders, and other
+relevant policies.
+o We considered whether management identifies, analyzes, and responds to risks related to
+achieving the objectives for statewide procurement and contracting.
+• Control activities
+o We evaluated DAS service and support resources to state agencies, DAS internal
+processes, communications, training program, and assessed DAS’s oversight role and
+functions for reducing statewide contacting and procurement risks.
+• Information and communication
+o We reviewed online communications, council meetings, and published informational
+resources provided by DAS related to statewide procurement and contracting and the
+OregonBuys eProcurement system.
+• Monitoring activities
+o We evaluated whether DAS routinely monitors or reviews agencies’ procurements or
+contracts to assess for and mitigate risks.
+Deficiencies with these internal controls were documented in the results section of this report.
+We conducted this performance audit in accordance with generally accepted government auditing
+standards. Those standards require that we plan and perform the audit to obtain sufficient, appropriate
+evidence to provide a reasonable basis for our findings and conclusions based on our audit objectives. We
+believe that the evidence obtained provides a reasonable basis for our findings and conclusions based on
+our audit objectives.
+We sincerely appreciate the courtesies and cooperation extended by officials and employees of DAS and
+other state agencies during the course of this audit.
+32 Auditors relied on standards for internal controls from the U.S. Government Accountability Office, report GAO-14-704G.
+Oregon Secretary of State July 2025
+Report 2025-18 page 39
+ABOUT THE SECRETARY OF STATE AUDITS DIVISION
+The Oregon Constitution provides that the Secretary of State shall be, by virtue of the office, Auditor of
+Public Accounts. The Audits Division performs this duty. The division reports to the Secretary of State and
+is independent of other agencies within the Executive, Legislative, and Judicial branches of Oregon
+government. The Secretary of State has constitutional authority to audit all state officers, agencies, boards
+and commissions as well as administer municipal audit law.
+Audit team
+Olivia Recheked, MPA, Audit Manager
+Bonnie Crawford, MPA, Principal Auditor
+Christina Nichols, Senior Auditor
+Department of Administrative Services
+Enterprise Goods & Services | State Procurement Services
+1225 Ferry Street
+Salem, Oregon 97301-4285
+PHONE: 503-378-4642
+FAX: 503-373-1626
+Mission: Lead state agencies through collaboration in service of Oregonians.
+2 July, 2025
+Steve Bergmann, Director
+Secretary of State, Audits Division
+255 Capitol St. NE, Suite 180
+Salem, OR 97310
+Dear Mr. Bergmann,
+This letter provides a written response to the Audits Division’s final draft audit report titled
+“Without a Comprehensive Compliance Function, DAS Cannot Effectively Monitor High-Risk
+Contracts or Mitigate Contracting Risks”.
+DAS agrees with the recommendations and appreciates the opportunity to respond.
+Below is our detailed response to each recommendation in the audit.
+RECOMMENDATION 1
+Coordinate with the Legislature and key partnering agencies to create a centralized statewide
+procurement and contracting compliance program informed by a robust risk analysis. DAS and its
+partners should consider compliance functions that include:
+a. Reviewing a sample of agency contracts on a routine schedule to promote and
+confirm timeliness, adherence to contract stipulations, and compliance with the
+Public Contracting Code.
+b. Reviewing a sample of procurements on a routine schedule to confirm
+compliance with the Public Contracting Code.
+c. Reviewing agency contract compliance policies, procedures, and practices, and
+providing direct feedback for improvement based on existing statute,
+administrative rules, and best practices.
+d. Evaluating common issues identified during compliance reviews for inclusion in
+DAS training priorities and guidance development as well as delegation decisions
+that fall under DAS authority.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree
+6/30/2027
+Stephen Nelson
+971-719-1680
+July 2, 2025   Page | 2
+Narrative for Recommendation 1
+In collaboration with key agency partners, DAS will assess the requirements and resources
+necessary to implement a procurement and contracting compliance evaluation program. DAS
+will perform a risk assessment to prioritize evaluation areas and develop and execute a work plan
+possible within existing resources.  DAS may consider consultant advice for portions of this
+work. DAS will develop scalable work plans for a more comprehensive compliance program and
+will submit funding requests to the legislature for consideration.
+RECOMMENDATION 2
+Develop more consistent, accessible, and robust service delivery to support state agencies with
+procurement, contracting, and training needs. This should include:
+a. Establishing service level standards and ensuring all DAS State Procurement
+Services staff receive sufficient, timely, and regular training on state
+procurement rules and expectations to enhance program consistency.
+b. Establishing a centralized administrative support mechanism to track, triage,
+and respond to agency questions and requests regarding services, OregonBuys,
+training and guidance resources, statewide and agency policies, contract
+administration, and more as needed.
+c. Delivering timely, accurate, and appropriate informational updates to agencies
+regarding DAS services and resources, policy updates, OregonBuys, guidance
+and training, and more as needed.
+d. Collecting feedback from partnering agencies on ways to enhance and target
+services to better meet agency needs.
+e. Including partnering agencies in ongoing efforts to revise, develop, and update
+DAS procurement and contract training, guidance documents and templates to
+stay current with statute and state policy.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of
+contact for
+implementation
+Agree
+6/30/2027
+Stephen Nelson
+971-719-1680
+Narrative for Recommendation 2
+While we agree with the intent and spirit of the recommendation, resource constraints require a
+plan to prioritize the use of resources.  DAS will develop a comprehensive plan to prioritize and
+implement recommended improvements that will include scope, schedule, and budget.  The plan
+will be developed in consultation with partner agencies and will include the staffing analysis
+from recommendation #3.
+RECOMMENDATION 3
+July 2, 2025   Page | 3
+Review the utilization of staff and other resources in the State Procurement Services program
+and make adjustments based on that review. This may include requesting additional FTE from
+the Legislature where appropriate to consistently perform its full suite of services, including
+managing the ongoing operation of OregonBuys. This review should include:
+a. Determining whether DAS State Procurement Services has sufficient
+administrative support for key functions, such as training development.
+b. Ensuring staff resources are properly aligned with program needs.
+c. Evaluating the need to utilize contracted services to review and analyze
+workload and service delivery.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of
+contact for
+implementation
+Agree
+6/30/2027
+Stephen Nelson
+971-719-1680
+Narrative for Recommendation 3
+This work will be completed as part of the plan and funding request from recommendation #2.
+RECOMMENDATION 4
+Create a sufficient resource plan for the ongoing development and operation of OregonBuys
+and use the plan to obtain and direct funds and staffing.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of
+contact for
+implementation
+Agree
+6/30/2027
+Stephen Nelson
+971-719-1680
+Narrative for Recommendation 4
+The DAS eProcurement team will develop a long-range plan for the operation of OregonBuys.
+This work will be related to plan and funding request in recommendation #2.
+RECOMMENDATION 5
+Coordinate with the Department of Justice, Enterprise Information Services, and members of
+the Designated Procurement Officers Advisory Council to perform an assessment of
+OregonBuys which includes:
+a. Reviewing agency policies and practices’ changes to inform DAS’s efforts to
+standardize procurement processes among agency users.
+July 2, 2025   Page | 4
+b. Creating more agency-specific reporting customizations to help meet state and
+federal reporting requirements.
+c. Evaluating and equitably managing state resources for quarterly release testing
+to support more sufficient and balanced agency participation.
+d. Analyze spend data within OregonBuys as well as spend data residing in
+external sources to support informed reporting and strategic sourcing efforts.
+e. Identifying common external system workarounds and finding ways to
+minimize and mitigate their use.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of
+contact for
+implementation
+Agree
+6/30/2027
+Stephen Nelson
+971-719-1680
+Narrative for Recommendation 5
+This will be included in the work related to the plan and funding request in recommendation #2
+and aligns with the work in recommendation #4.
+RECOMMENDATION 6
+Coordinate with Periscope Holdings and agency partners to clarify DAS and vendor customer
+service roles and expectations and revise DAS support protocols with state agencies using
+OregonBuys. These changes should address communication needs and challenges and should
+include:
+a. Giving agency users prompt, consistent, and well-coordinated support from
+DAS and Periscope Holdings to address questions and issues about the
+OregonBuys system or state procurement process.
+b. Providing agency users involved in OregonBuys quarterly release testing with
+clear and timely communication on testing priorities, requirements, and
+timeframes.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of
+contact for
+implementation
+Agree
+6/30/2026
+Stephen Nelson
+971-719-1680
+Narrative for Recommendation 6
+DAS will produce a report detailing the agreements with the OregonBuys contractor that will
+provide clear lines of delineation for support structures to address questions and issues related to
+July 2, 2025   Page | 5
+OregonBuys along with release management planning.  This will include the evaluation of
+common issues and enterprise-wide support requests.
+RECOMMENDATION 7
+Coordinate with the Department of Justice, Enterprise Information Services, and the
+Designated Procurement Officers Advisory Council to conduct a benefits and feasibility study
+on adopting an enterprise-wide contract management system. The study must prioritize system
+security and DAS must report findings to the Legislature.
+a. Based on study results and Legislative direction, determine whether to adopt
+an enterprise-wide contract management system and identify critical next
+steps.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of
+contact for
+implementation
+Agree
+12/31/2027
+Stephen Nelson
+971-719-1680
+Narrative for Recommendation 7
+DAS will consider this with our partners in the Department of Justice, Enterprise Information
+Services, and the Designated Procurement Officers Advisory Council.  This will be included in
+the report described in recommendation #2.
+RECOMMENDATION 8
+Monitor, assess, and regularly report to the Legislature on progress made to capture and
+analyze spend data in OregonBuys and efforts to utilize spend data from other sources in this
+analysis.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of
+contact for
+implementation
+Agree
+Upon Request by
+Legislature
+Stephen Nelson
+971-719-1680
+Narrative for Recommendation 8
+DAS will provide ongoing updates to Legislature.
+Please contact Stephen Nelson, State Chief Procurement Officer, at 971-719-1680 with any
+questions.
+Sincerely,
+Stephen Nelson, Chief Procurement Officer,
+Department of Administrative Services
+Secretary of State Tobias Read
+Audits Director Steve Bergmann
+This report is intended to promote the best possible
+management of public resources.
+Copies may be obtained from:
+Oregon Audits Division
+255 Capitol St NE, Suite 180
+Salem OR 97310
+(503) 986-2255
+audits.sos@oregon.gov
+sos.oregon.gov/audits

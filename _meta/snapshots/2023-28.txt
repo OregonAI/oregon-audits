@@ -1,0 +1,413 @@
+State of Oregon
+OREGON LOCAL GOVERNMENT
+INTERMEDIATE FUND
+An Investment Pool of the State of Oregon
+Financial Statements
+For the Year Ended June 30, 2023
+This page intentionally left blank
+OREGON LOCAL GOVERNMENT INTERMEDIATE FUND
+TABLE OF CONTENTS
+Page
+Independent Auditor’s Report .......................................................................................................... 1-3
+Financial Statements:
+Statement of Net Position .......................................................................................................... 4
+Statement of Changes in Net Position ....................................................................................... 5
+Notes to Financial Statements .............................................................................................. 7-11
+Other Reports
+Report on Internal Control over Financial Reporting
+and on Compliance and Other Matters ..................................................................................... 13-14
+This page intentionally left blank.
+LaVonne Griffin-Valade Secretary of State
+Cheryl Myers Deputy Secretary of State, Tribal Liaison
+Kip Memmott Audits Director
+255 Capitol St. NE Suite 180
+Salem OR 97310
+(503) 986-2255
+sos.oregon.gov/audits
+Independent Auditor’s Report
+The Honorable Tina Kotek
+Governor of Oregon
+The Honorable Tobias Read, State Treasurer
+Oregon Investment Council
+Report on the Audit of the Financial Statements
+Opinion
+We have audited the financial statements of the Oregon Local Government Intermediate Fund , an
+external investment pool of the State of Oregon, as of and for the year ended June 30, 2023, and the
+related notes to the financial statements, as listed in the table of contents.
+In our opinion, the accompanying financial statements referred to above present fairly, in all material
+respects, the financial position of the Oregon Local Government Intermediate Fund, as of June 30, 2023,
+and the changes in its financial position for the year then ended in accordance with accounting principles
+generally accepted in the United States of America.
+Basis for Opinion
+We conducted our audit in accordance with auditing standards generally accepted in the United States of
+America (GAAS) and the standards applicable to financial audits contained in Government Auditing
+Standards, issued by the Comptroller General of the United States. Our responsibilities under those
+standards are further described in the Auditor’s Responsibilities for the Audit of the Financial Statements
+section of our report. We are required to be independent of the Oregon Local Government Intermediate
+Fund, and to meet our other ethical responsibilities, in accordance with the relevant ethical requirements
+relating to our audit. We believe that the audit evidence we have obtained is sufficient and appropriate
+to provide a basis for our opinion.
+Emphasis of Matter
+As discussed in Note 1, the financial statements present only the Oregon Local Government Intermediate
+Fund and do not purport to, and do not, present fairly the financial position of the State of Oregon or the
+Oregon State Treasury, as of June 30, 2023, or the changes in its financial position for the year then
+ended in accordance with accounting principles generally accepted in the United States of America. Our
+opinion is not modified with respect to this matter.
+Responsibilities of Management for the Financial Statements
+Management is responsible for the preparation and fair presentation of these financial statements in
+accordance with accounting principles generally accepted in the United States of America , and for the
+design, implementation, and maintenance of internal control relevant to the preparation and fair
+presentation of financial statements that are free from material misstatement, whether due to fraud or
+error.
+Auditor’s Responsibility for the Audit of the Financial Statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are
+free from material misstatement, whether due to fraud or error, and to issue an auditor’s report that
+includes our opinion. Reasonable assurance is a high level of assurance but is not absolute assurance and
+therefore is not a guarantee that an audit conducted in accordance with GAAS and
+Government Auditing
+Standards will always detect a material misstatement when it exists. The risk of not detecting a material
+misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve
+collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
+Misstatements are considered material if there is a substantial likelihood that, individually or in the
+aggregate, they would influence the judgment made by a reasonable user based on the financial
+statements.
+In performing an audit in accordance with GAAS and
+Government Auditing Standards, we
+• exercise professional judgment and maintain professional skepticism throughout the audit.
+• identify and assess the risks of material misstatement of the financial statements, whether du e
+t
+o fraud or error, and design and perform audit procedures responsive to those risks. Such
+procedures include examining, on a test basis, evidence regarding the amounts and th e
+d
+isclosures in the financial statements.
+• obtain an understanding of internal control relevant to the audit in order to design audit
+procedures that are appropriate in the circumstances, but not for the purpose of expressing an
+opinion on the effectiveness of the Oregon State Treasury’s internal control. Accordingly, no
+such opinion is expressed.
+• evaluate the appropriateness of accounting policies used and the reasonableness of significant
+accounting estimates made by management, as well as evaluate the overall presentation of th e
+f
+inancial statements.
+We are required to communicate with those charged with governance regarding, among other mat ters,
+the planned scope and timing of the audit, significant audit findings, and certain internal control -related
+matters that we identified during the audit.
+Other Reporting Required by Government Auditing Standards
+In accordance with Government Auditing Standards, we have also issued our report dated
+August 29, 2023, on our consideration of the Oregon State Treasury’s internal control over financial
+reporting and on our tests of its compliance with certain provisions of laws, regulations, contracts, and
+grant agreements and other matters. The purpose of that report is solely to describe the scope of our
+testing of internal control over financial reporting and compliance and the results of that testing, and not
+to provide an opinion on the effectiveness of the Oregon State Treasury’s internal control over financial
+reporting or on compliance. That report is an integral part of an audit performed in accordance with
+Government Auditing Standards in considering the Oregon State Treasury’s internal control over
+financial reporting and compliance.
+S
+tate of Oregon
+August 29, 2023
+State of Oregon
+OREGON LOCAL GOVERNMENT INTERMEDIATE FUND
+Statement of Net Position
+June 30, 2023
+(Dollars in Thousands)
+Assets:
+Cash and Cash Equivalents 374$
+Investments 226,510
+Accrued Interest Receivable 1,543
+Security Lending Collateral (Note 3) 1,822
+Total Assets 230,249
+Liabilities:
+Accrued Expenses 54
+Obligations Under Security Lending (Note 3) 1,822
+Total Liabilities 1,876
+Net Position:
+Held in Trust for Participants 228,373
+Total Net Position 228,373$
+The accompanying notes are an integral part of the financial statements.
+State of Oregon
+OREGON LOCAL GOVERNMENT INTERMEDIATE FUND
+Statement of Changes in Net Position
+For the Year Ended June 30, 2023
+(Dollars in Thousands)
+The accompanying notes are an integral part of the financial statements
+Addi ti ons
+Investment Earnings:
+Net decrease in fair value of investments (3,790)$
+Interest, dividends, and other 6,170
+Security lending incom e 123
+Total Investment Earnings 2,503
+L ess I nv estm ent Costs
+Investm ent activity costs (Note 4) 299
+Security lending costs 112
+Net Investment Earnings 2,092
+Participant Account Transactions
+Participants' Withdrawals (7,581)
+Net Decrease as a Result of Participant Transactions (7,581)
+Change in Net Position Held in Trust for Participants (5,489)
+Net Position - Beginning 233,862
+Net Position - Ending 228,373$
+This page intentionally left blank
+OREGON LOCAL GOVERNMENT INTERMEDIATE FUND
+Notes to Financial Statements
+June 30, 2023
+(1) Summary of Significant Accounting Policies
+Reporting Entity The Oregon Local Government Intermediate Fund (“Fund”) is an intermediate term fixed
+income investment vehicle.  The Oregon Short Term Fund and several local governments participate in this
+program, thus it is an external investment pool as defined in Statement No. 31 of the Governmental
+Accounting Standards Board, Accounting and Financial Reporting for Certain Investments and for External
+Investment Pools.
+The Fund is not registered with the U.S. Securities and Exchange Commission as an investment company.
+The State’s investment policies are governed by Oregon Revised Statutes and the Oregon Investment Council
+(Council).  The State Treasurer is the investment officer for the Council and is responsible for all funds
+entrusted to the Oregon State Treasury (OST).  These funds must be invested, and the investments managed,
+as a prudent investor would, exercising reasonable care, skill and caution.  Investments in the Fund are further
+governed by guidelines approved by the Council, establishing diversification percentages and specifying the
+types and maturities of investments.  The Fund  guidelines permit securities lending transactions as well as
+investments in repurchase and reverse repurchase agreements.  Fund guidelines are discussed in greater detail
+in the Investments section of Note 2.
+The Fund is authorized under ORS 294.  Standards for investment of the Fund may be found in ORS 293.701
+to 293.857.  Pursuant to ORS 294, local governments  meeting requirements established by OST have the
+opportunity to participate in this investment fund subject to application and subsequent approval by the OST.
+The portion of the Fund belonging to external participants is reported in a custodial fund in the State’s Annual
+Comprehensive Financial Report.
+Basis of Accounting   These statements are prepared using the economic resources measurement focus and
+the accrual basis of accounting.  Trade date accounting is observed, which means that purchases and sales of
+securities are recorded on the day the trade takes place with a corresp onding payable to or receivable from
+the broker.  Changes in the fair value of investments are recognized daily .  The fair value of investments is
+determined daily and is equal to market price.
+Cash and Cash Equivalents   Investments with original maturities of three months or less are considered
+cash equivalents and are reported at amortized cost, which approximates fair value.  Cash Equivalents also
+include any cash held with the custodian.
+Investments   Investments with remaining maturities of less than ninety days are carried at amortized cost,
+provided that the fair value of these instruments is not significantly affected by the impairment of the credit
+standing of the issuer or by other factors.  Amortized cost approximates fair value.  Investments with longer
+maturities are carried at fair value.
+Participants’ equity; distributions of interest   The value of each participant’s investment is determined on a
+proportional basis to the net market value of the entire portfolio.   Shares of the Fund represent a divisible
+interest in the net value of underlying investments, accrued income and expenses. Interest income and capital
+gains are not distributed to participants but are reflected in the underlying net position.
+OREGON LOCAL GOVERNMENT INTERMEDIATE FUND
+Notes to Financial Statements
+June 30, 2023
+(2) Investments
+Investments   On June 30, 2023, the Fund reported investments of $227 million, of which $0.4 million is
+classified as Cash and Cash Equivalents on the Statement of Net Position.  The Fund’s guidelines establish
+the Fund’s permitted investments and parameters for managing the various types of risk associated with these
+investments (see the current portfolio guidelines a t https://www.oregon.gov/treasury/invested-for-
+oregon/pages/oregon-intermediate-term-investments.aspx.)  The d ifferent risks will be discussed below.
+A. Interest rate and Credit risk
+Interest rate risk is the risk that changes in interest rates will adversely affect the fair value of an investment.
+The risk is managed by limiting the duration of investments held by the Fund.  The portfolio guidelines require
+that the portfolio maintain a weighted average duration, a measure of interest rate risk, of +/- 20% (percent)
+relative to the duration of the Bloomberg 1-5 Year Government/Credit Index (Benchmark). The duration for
+the Fund and the Benchmark at June 30, 2023 was 2.73 years and 2.71 years, respectively.  The maximum
+maturity for any single investment should not be greater than 10.25 years from settlement date, with
+exceptions for asset -backed securities,  mortgage-backed securities,  and commercial mortgage -backed
+securities. These securities use weighted average life (WAL) as a proxy for maturity and are limited to a WAL
+of five years, or less, at the time of purchase.
+Credit risk is the risk that an issuer or other counterparty to an investment will not fulfill its obligation.  The
+Fund’s guidelines require that all investments meet minimum ratings requirements at the time of purchase.
+Minimum required ratings are subject to investment type as dictated by the Fund’s guidelines.
+Corporate notes and municipal debt must be rated investment grade or higher at time of purchase.  Foreign
+government securities are required to have a minimum credit rating from S&P of AA-, Moody’s of Aa3, or
+Fitch of AA-.  Structured securities such as asset-backed and mortgage-backed securities must be rated AAA
+at the time of purchase.
+Schedule of Investment Characteristics
+(Dollars in Thousands)
+Investment Type Par Value
+Reported
+Amount
+Weighted Average
+Coupon
+Weighted Average
+Modified Duration
+Cash and Cash Equivalents 374$                   374$                   5.36 0.01
+Asset-Backed Securities 11,354                10,919                4.60 1.27
+Federal Agency Debt 910                     843                     1.17 1.83
+Federal Agency Mortgages 13,571                12,942                2.67 2.26
+Commercial Mortgage-Backed Securities 14,134                13,590                5.49 1.16
+Corporate Debt 118,088              111,547              2.87 2.12
+U.S. Treasuries 80,065                76,669                2.91 4.22
+Total 238,496$            226,884$            3.11 2.73
+Reported Amount is a combination of amortized cost and fair value.  See Note 1.
+OREGON LOCAL GOVERNMENT INTERMEDIATE FUND
+Notes to Financial Statements
+June 30, 2023
+Fund guidelines allow securities downgraded below investment grade to be retained at the discretion of the
+external manager.  At no time should the weighted, average credit quality of the Fund be more than one rating
+category below that of the Benchmark.  At June 30, 2023 the weighted average credit quality of both the Fund
+and of the Benchmark was AA.  Rating groups, determined using the lowest actual rating from S&P, Moody’s
+or Fitch, are shown below:
+B. Custodial credit risk
+Custodial credit risk for investments is the risk that, in the event of the failure of the counterparty to a
+transaction, the fund will not be able to recover the value of an investment or collateral securities in the
+possession of an outside party.  The Fund’s investments are delivered to and held by a third-party custodian,
+which holds the Fund’s securities in the State of Oregon’s name.  All trades where applicable are executed
+by delivery vs. payment (DVP) to ensure that securities are deposited in an eligible financial institution prior
+to the release of funds.
+C. Concentration of credit risk
+Concentration of credit risk is the risk of loss attributed to the magnitude of a fund’s investment in a single
+issuer.  The Fund guidelines provide that the maximum that may be invested in any one issuer, as a percentage
+of the Fund ’s total investments is three percent, excluding U .S. Treasuries or U .S. Federal Agencies or
+instrumentalities.  The Fund may invest up to 100 percent in those securities.   On June 30, 2023, the Fund
+did not hold investments with any one issuer that exceeded these limits.
+D. Foreign currency risk
+The Fund guidelines prohibit investments that are not  U.S. dollar-denominated; therefore, the Fund is not
+exposed to this risk.
+Interest Rate Risk and Credit Risk
+(Dollars in Thousands)
+Investment Type
+Weighted
+Average
+Modified
+Duration
+Reported
+Amount AAA AA A BBB BB Not Rated
+Short Term Investment Fund (1) 374$                - $                - $           - $        - $          - $          374 $
+Asset-Backed Securities 1.27 10,919             9,316              1,018          585           -             -             -
+Federal Agency Debt 1.83 843                  -                   843             -           -             -             -
+Federal Agency Mortgages 2.26 12,942             -                   -              -           -             -             12,942
+Commercial Mortgage-Backed Securities 1.16 13,590             13,590            -              -           -             -             -
+Corporate Debt 2.12 111,547           683                 5,387          46,391      54,756        4,142         188
+U.S. Treasuries 4.22 76,669             75,230            -              -           -             -             1,439
+Total 226,884$         98,819$          7,248 $       46,976 $   54,756 $     4,142 $      14,943 $
+(1) The Short Term Investment Fund (STIF) is not rated by the credit ratings agencies.  The average credit quality of the STIF holdings was A1P1 and the weighted
+average maturity of the STIF was 25 days at June 30, 2023.
+OREGON LOCAL GOVERNMENT INTERMEDIATE FUND
+Notes to Financial Statements
+June 30, 2023
+(3)  Securities Lending
+The OST has authorized its custodian to act as its agent in the lending of the Fund ’s securities pursuant to a
+form of loan agreement, in accordance with Fund  investment policies.  There have been no significant
+violations of the provisions of the securities lending agreement.  The State’s securities lending agent lent
+short-term and fixed income securities and received as collateral U.S. dollar- denominated cash.  Borrowers
+were required to deliver cash collateral for each loan equal to not less than 102 percent of the market value
+of the loaned security.  The State may pledge or sell the collateral securities received only in the event of a
+borrower default.  The State has the ability to impose restrictions during the year on the amount of the loans
+that the securities lending agent made on its behalf, but did not impose any such limits during the year ended
+June 30, 2023.  The State is fully indemnified by its securities lending agent against losses due to borrower
+default.  There were no losses during the year from the failure of borrowers to return loaned securities.
+The Fund’s lending agent uses a fund to reinvest cash collateral received on behalf of the OLGIF and other
+Oregon state a gencies managed by the OST , exclusive of the Oregon Public Employees Retirement Fund.
+The balances of securities on loan , cash collateral received and invested collateral at market value are
+presented in the schedule below.
+The State and borrowers maintained the right to terminate all securities lending transactions on demand.  As
+a consequence, the maturities of investments made with cash collateral generally do not match the maturities
+of the securities loans.  As of June 30, 2023, the State had no credit risk exposure to borrowers  related to
+securities on loan.
+(4)     Management and Administrative Fees
+In accordance with ORS 293.718, the OST may deduct monthly 0.435 basis points of the most recent market
+value of assets under management for administration.  For the year ended June 30, 2023 the OST charged the
+Fund a monthly rate of 0. 435 basis points  based on asset s under management in the Fund. Portfolio
+management was administered by a third -party asset manager dur ing the year ended June 30, 20 23 and
+management fees are deducted from investment income before distributions to participants.  Fees and other
+expenses charged to the Fund totaled $299 thousand for the year ended June 30, 2023.
+Schedule of Securities Lending Balances
+Securities on
+Loan at Fair
+Value
+Collateral
+Received
+Invested
+Cash
+Collateral at
+Fair Value
+Corporate Debt 1,786$          1,822 $         1   1,822 $
+Total 1,786$          1,822 $         1,822 $
+1. Cash Collateral $1,822
+(Dollars in Thousands)
+OREGON LOCAL GOVERNMENT INTERMEDIATE FUND
+Notes to Financial Statements
+June 30, 2023
+(5)   Fair Value Measurements
+Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability in an
+orderly transaction between market participants at the measurement date.   Observable inputs are developed
+based on market data obtained from sources indepen dent of the reporting entity.  Unobservable inputs are
+developed based on the best information available about the assumptions market participants would use in
+pricing the asset.  The classification of securities within the fair value hierarchy is based up on the activity
+level in the market for the security type and the inputs used to determine their fair value, as follows:
+• Level 1 – Unadjusted quoted prices for identical instruments in active markets.
+• Level 2 – Quoted prices for similar instruments in active markets; quoted prices for identical or
+similar instruments in markets that are not active; and model- derived valuations in which all
+significant inputs are observable.
+• Level 3 – Valuations derived from valuation techniques in which significant inputs are unobservable.
+Level 1 Level 2 Level 3 Total
+Investments by type:
+Short Term Investment Fund - $                 374$                - $                 374$
+Asset-Backed Securities -                    10,919             -                    10,919
+Federal Agency Debt -                    843                  -                    843
+Federal Agency Mortgages -                    12,942             -                    12,942
+Commercial Mortgage-Backed Securities -                    13,590             -                    13,590
+Corporate Debt -                    111,547           -                    111,547
+U.S. Treasuries -                    76,669             -                    76,669
+Total - $                 226,884$         - $                 226,884$
+Assets and Liabilities at Fair Value as of June 30, 2023
+Fair Value Measurem ents
+(Dollars in Thousands)
+The Fund’s investments, other than those with remaining maturities of fewer than ninety days, are valued
+using the latest bid prices or evaluated quotes from independent pricing vendors.  The third-party vendors use
+a variety of methods when pricing these securities that incorporate relevant observable market data to arrive
+at an estimate of what a buyer in the marketplace would pay for a security under current market conditions.
+Investments with remaining maturities of fewer than ninety days are carried at amortized cost, which
+approximates fair value.  All of the Fund’s investments at June 30, 2023 are considered level 2.
+OTHER REPORTS
+LaVonne Griffin-Valade Secretary of State
+Cheryl Myers Deputy Secretary of State, Tribal Liaison
+Kip Memmott Audits Director
+255 Capitol St. NE Suite 180
+Salem OR 97310
+(503) 986-2255
+sos.oregon.gov/audits
+Independent Auditor’s Report on Internal Control over
+Financial Reporting and on Compliance and Other Matters
+Based on an Audit of Financial Statements Performed in
+Accordance With Government Auditing Standards
+The Honorable Tina Kotek, Governor of Oregon
+The Honorable Tobias Read, State Treasurer
+Oregon Investment Council
+W
+e have audited, in accordance with the auditing standards generally accepted in the United States of
+America and the standards applicable to financial audits contained in Government Auditing Standards
+issued by the Comptroller General of the United States, the financial statements of the Oregon Local
+Government Intermediate Fund, an external investment pool of the State of Oregon , as of and for the
+year ended June 30, 2023, and the related notes to the financial statements, which collectively
+comprise the Oregon Local Government Intermediate Fund’s basic financial statements, and have
+issued our report thereon dated August 29, 2023.
+Report on Internal Control over Financial Reporting
+In planning and performing our audit of the financial statements, we considered the Oregon State
+Treasury’s (department) internal control over financial reporting (internal control) as a basis for
+designing audit procedures that are appropriate in the circumstances for the purpose of expressing our
+opinion on the financial statements, but not for the purpose of expressing an opinion on the
+effectiveness of the department’s internal control. Accordingly, we do not express an opinion on the
+effectiveness of the department’s internal control.
+A deficiency in internal control exists when the design or operation of a control does not allow
+management or employees, in the normal course of performing their assigned functions, to prevent, or
+detect and correct, misstatements on a timely basis. A material weakness is a deficiency, or a
+combination of deficiencies, in internal control, such that there is a reasonable possibility that a
+material misstatement of the entity’s financial statements will not be prevented, or detected and
+corrected on a timely basis. A significant deficiency is a deficiency, or a combination of deficiencies, in
+internal control that is less severe than a material weakness, yet important enough to merit attention
+by those charged with governance.
+Our consideration of internal control was for the limited purpose described in the first paragraph of this
+section and was not designed to identify all deficiencies in internal control that might be material
+weaknesses or significant deficiencies. Given these limitations, during our audit we did not identify any
+deficiencies in internal control that we consider to be material weaknesses. However, material
+weaknesses or significant deficiencies may exist that were not identified.
+Report on Compliance and Other Matters
+As part of obtaining reasonable assurance about whether the department’s financial statements are
+free from material misstatement, we performed tests of its compliance with certain provisions of laws,
+regulations, contracts, and grant agreements, noncompliance with which could have a direct and
+material effect on the financial statements. However, providing an opinion on compliance with those
+provisions was not an objective of our audit, and accordingly, we do not express such an opinion. The
+results of our tests disclosed no instances of noncompliance or other matters that are required to be
+reported under
+Government Auditing Standards.
+Purpose of this Report
+The purpose of this report is solely to describe the scope of our testing of internal control and
+compliance and the results of that testing, and not to provide an opinion on the effectiveness of the
+department’s internal control or on compliance. This report is an integral part of an audit performed in
+accordance with
+Government Auditing Standards in considering the department’s internal control and
+compliance. Accordingly, this communication is not suitable for any other purpose.
+S
+tate of Oregon
+August 29, 2023

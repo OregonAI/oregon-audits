@@ -1,0 +1,525 @@
+2023-24
+Audit Plan
+Oregon Secretary of State | 2023-24 Annual Audit Plan | February 2023 | page 1
+My mission as Oregon's Secretary of State is to build
+trust between the people of Oregon and state
+government so Oregon's public services can make a
+positive difference in peoples' everyday lives. The Audits
+Division is one of the most powerful tools I have to build
+trust, by using accountability to make sure that Oregon's
+public services are making the biggest difference possible
+in the lives of Oregonians who need them most.
+Over the next two years, the division will tackle some of
+the biggest challenges facing our state: drug treatment,
+education, housing, health care, gun violence, and more.
+Additionally, the division will take on new initiatives, such
+as addressing the “time tax” as an audit objective. That
+change will increase our focus on the customer service
+experience Oregonians have when they interact with
+state programs. Over time, recommendations geared
+toward reducing the time tax could have a profound
+impact on public trust in state government while
+improving access to services.
+Audits are powerful tools. With the recommendations we
+make, leaders in Oregon can improve state services,
+ensure equitable use of public resources, and deliver
+meaningful progress for Oregonians.
+Our work in the Audits Division relies on collaboration
+across state government to succeed. This audit plan is a
+collaborative effort that would not be possible without
+Audits Director Kip Memmott, Governor Tina Kotek, the
+Joint Committee on Legislative Audits, and leadership at
+all state agencies. I thank them for their ongoing
+cooperation and encourage all leaders in Oregon to
+prioritize implementing the recommendations from our
+talented audits team.
+I especially want to thank the staff in the division. Their
+exceptional work, commitment to professional standards,
+and willingness to innovate are why the division can have
+the impact it does.
+— Shemia Fagan, Secretary of State
+Performance audits pg. 3
+Air Quality Program Enforcement | Department of Environmental Quality
+Adult Protective Services | Oregon Department of Human Services
+Children’s Mental Health Services | Oregon Health Authority
+Governance and Controls | Department of Early Learning and Care
+Oregon Domestic Violence Programs | Statewide
+Universal Health Care Administrative Costs and Time Tax Risks | Statewide
+Oregon Medical Board
+Sexual Health Care and Reproductive Access | Multiple agencies
+Student Success Act District Performance Monitoring | Department of Education
+Information Technology audits pg. 8
+Cybersecurity audits | Department of Justice
+Oregon License Issuance and Vehicle Registration System Controls | Oregon
+Department of Transportation
+Financial audits  pg. 9
+Statewide Single Audit, financial and federal
+Financial statement audits
+Rollover audits and projects from prior year pg. 10
+Effectiveness and equity of cannabis licensing | Oregon Liquor and Cannabis
+Commission
+Medicaid Pharmacy Benefit Managers | Oregon Health Authority
+Rental assistance program | Oregon Housing and Community Services
+Integrated Eligibility system controls | Oregon Department of Human Services
+State workforce governance and modernization | Statewide
+Oregon’s red flag policy | Department of Justice
+Non-audit
+special projects
+updates on our advisory and
+systemic risk reports, annual
+summary reports, and data
+analytics projects
+see pg. 13
+About the plan
+including details on our risk
+assessment process
+see pg. 15
+Audit Plan at a Glance
+Oregon Secretary of State | 2023-24 Annual Audit Plan | February 2023 | page 3
+New performance audits
+The Audits Division selects new performance audits through an independent risk assessment process ( see pg. 15) and
+in consultation with a wide range of stakeholders: the Governor’s Office, agency directors, members of the Legislature,
+community and advocacy groups, and individual Oregonians. Audits are most successful when there is buy-in and
+collaboration with the auditees and stakeholder feedback is an important way to identify areas of risk within state
+government.
+Beginning this year, several audits will include an objective assessing the risks associated with the “time tax.” The time
+tax is a concept steeped in bureaucracy — the amount of time and effort spent filling out applications, waiting in lines,
+waiting on the phone, in an attempt to receive critical government services. Assessing the associated risks and impacts
+of the time tax is aligned with the Audits Division’s commitment to improving government, addressing systemic
+inequities, and building public trust, and will provide an increased focus on the customer service experience Oregonians
+have when they interact with programs. This objective is also well aligned with Government Auditing Standards , which
+require audits to assess efficiency, effectiveness, and equity regarding the use of public resources.
+Air Quality Program Enforcement
+Department of Environmental Quality
+This audit is next in the queue of audits focusing on risks posed to Oregon by climate change. Air quality permitting has
+been a challenge at the Department of Environmental Quality for many years, in part due to lawsuits and increased
+regulation at the same time as staffing has stagnated or decreased. Implementation of Cleaner Air Oregon and
+greenhouse gas emissions programs could be objectives for this audit. This audit will be designed to help inform the
+new agency director of the current state of air quality enforcement at DEQ, how it compares to other states, and what
+improvements need to be made. The audit will include an objective to follow up on the 2017 audit of the same subject
+and assess whether the agency's reorganization has improved performance. Several legislators requested a
+performance audit of DEQ.
+Oregon Secretary of State | 2023-24 Annual Audit Plan | February 2023 | page 4
+Adult Protective Services
+Oregon Department of Human Services
+The number of older Americans will more than double over the next 40
+years, reaching 80 million in 2040. The number of adults ages 85 and
+older, the group most often needing help with basic personal care, will
+nearly quadruple between 2000 and 2040. This makes the topic of
+elder abuse an important one. Any senior can become a victim of elder
+abuse; most are women, adults that have no family or friends nearby,
+and people with disabilities and memory problems like dementia. Elder
+abuse can take several forms, including neglect, abandonment, and
+physical, emotional, sexual, and financial abuse. This audit may have
+the following objectives: evaluate how ODHS responds to complaints
+against long-term care facilities and home care workers; estimate the
+impact violations and fines have on reducing elder abuse in long-term
+care facilities; assess ODHS’s oversight and monitoring of home care
+workers; and review leading practices other states are using to protect
+seniors from abuse.
+Children’s Mental Health
+Services
+Oregon Health Authority
+The impact of the COVID-19 pandemic on children's mental
+health presents serious and complex risks and challenges
+related to state programs and services. Teen and youth suicide
+rates have increased alarmingly in recent years, exacerbated by
+the effects of the pandemic. The Audits Division has executed
+several audits examining mental health services, including
+performance audits issued in September 2020 and May 2012.
+This audit will leverage prior audit work, including following up
+on progress made on implementing recommendations in prior
+audits. A major focus of this audit will assess state services and
+programs designed to prevent suicide and identify leading
+practices based on emerging studies of youth suicide risks.
+Oregon Secretary of State | 2023-24 Annual Audit Plan | February 2023 | page 5
+Department of Early
+Learning and Care
+Governance and Controls
+Department of Early Learning and Care
+House Bill 3073 (2021) established the Department of Early Learning
+and Care (DELC). The legislative intent for creating DELC was to
+expand and enhance early learning systems and deliver a unified early
+education and child care system in diverse settings. The legislation
+merged five separate state programs into a single department,
+including the Employment Related Day Care program (ERDC). The
+creation of new public entities and programs has inherent risks.
+Establishing proper governance and internal controls is critical for
+agency stability and the ability of the department to meet its mission
+and realize its goals. This real-time audit will examine risks and
+challenges that may hinder DELC from getting off to a strong and
+lasting start as a new state agency. The audit will also provide
+assurance and will be based on a collaborative approach with key
+stakeholders, including agency management.  This audit will also
+follow up on a child care audit issued by the division in 2020.
+Oregon Domestic
+Violence Programs
+Statewide
+This audit will focus on developing a comprehensive risk
+assessment of Oregon’s domestic violence programs and services.
+In consultation with the Oregon Advocacy Commission for Women,
+preliminary risk assessment work has revealed Oregon lacks a
+comprehensive program focused solely on domestic violence.
+Aspects of domestic violence are addressed by other programs but
+there is a high risk of gaps and redundancies with the state's
+approach. Domestic violence rates are increasing and have been
+exacerbated by the pandemic and increasing gun violence.
+Oregon Secretary of State | 2023-24 Annual Audit Plan | February 2023 | page 6
+Universal Health Care
+Administrative Costs and
+Time Tax Risks
+Statewide
+In September 2022, the Joint Task Force on Universal Health
+Care issued its final report and recommendations. This audit
+will examine the administrative savings potentials outlined in
+that report. Savings include reduced administrative costs
+relating to eligibility and lower fraud, waste, and abuse.
+According to the task force, health care providers currently
+spend 13% of their revenues on billing and insurance-related
+administration. Providers have the potential to save significant
+administrative expenses under a single payer system.
+The audit team will also examine the impacts of the “time tax”
+imposed by the existing bureaucratic health care system. The
+people of Oregon spend tens of millions of hours each year
+filling out applications for benefits, waiting on hold, and dealing
+with insurance and medical bills. These burdens fall mostly on
+low-income and disadvantaged populations. This audit will
+assess the varied costs and benefits of a universal health care
+system using data analytics and examine the inequitable
+aspects of the system regarding access, quality, and outcomes.
+Oregon Medical Board
+Oregon Medical Board
+This audit will examine the efficacy of the Oregon Medical Board’s
+investigation process. Inherent public health risks related to the
+board’s span of responsibility have been exacerbated by the
+impacts of the COVID-19 pandemic, the ongoing opioid crisis, and
+either perception of or actual inequitable treatment and outcomes
+from state licensing and enforcement functions. There is
+legislative interest in this audit.
+Oregon Secretary of State | 2023-24 Annual Audit Plan | February 2023 | page 7
+Sexual Health Care and
+Reproductive Access
+Multiple agencies
+Oregon is known to have some of the strongest legal protections for
+reproductive rights in the country. However, ensuring care is accessible
+and equitable requires more than legal protections, and reproductive
+rights are only one component of health care services. This audit will
+examine the availability and accessibility of sexual health care and
+reproductive access statewide and identify possible improvements.
+This audit may review past efforts the Legislature has made to improve
+access, including the Reproductive Health Equity Act of 2017 codifying
+the right to an abortion into state law and a fund established in 2022 to
+advance health equity.
+Student Success Act District
+Performance Monitoring
+Department of Education's Office of Education
+Improvement and Innovation, and selected
+school districts
+This audit will evaluate how effectively the Oregon Department of
+Education’s new Office of Education Improvement and Innovation is
+implementing Student Investment Account requirements to monitor
+school district performance and assist struggling districts. The annual
+$500 million investment account is the largest initiative in the 2019
+Student Success Act, Oregon’s fourth major K-12 reform effort, and
+contains the act’s most critical accountability provisions. When the
+Legislature passed the Student Success Act, it provided the office
+with additional staff focused on state and federal priorities for
+improving student outcomes. In addition to the investment account,
+the office also works on federal Title I school improvement, Measure
+98 High School Success, and new requirements under the federal
+Every Student Succeeds Act. The audit will build upon themes from
+the division’s systemic risk report issued in 2022.
+Oregon Secretary of State | 2023-24 Annual Audit Plan | February 2023 | page 8
+New information technology audits
+Cybersecurity Audits
+Department of Justice
+The division has issued a number of cybersecurity audits at several state
+agencies. The purpose of these audits is to determine whether state
+agencies have effective and efficient IT security frameworks and control
+structures.
+The Department of Justice is the next agency to be reviewed.
+Oregon License Issuance and
+Vehicle Registration System
+(OLIVR) Controls
+Oregon Department of Transportation
+The Oregon License Issuance and Vehicle Registration System (OLIVR) is
+ODOT's new IT system for the Department of Motor Vehicles. This audit will
+examine and test system controls to support work being performed by the
+financial audit team and may also include an accessibility and usability
+objective.
+Oregon Secretary of State | 2023-24 Annual Audit Plan | February 2023 | page 9
+Financial audits
+Statewide Single Audit
+In two parts: Financial and federal
+A single audit is required by the federal government for the federal financial assistance Oregon receives each year.
+These audits determine whether amounts reported in Oregon’s fina ncial statements are materially correct and
+adequately supported; evaluate the state’s administration of major federal programs for compliance with applicable
+laws, rules, and regulations; conclude on whether the Schedule of Expenditures of Federal Awards is fairly presented in
+relation to the state’s financial statements; and review accounting and compliance control procedures.
+The Single Audit, which accounts for a significant portion of the division’s financial work, has two main components.
+The first is a financial audit of the State’s financial statements and reporting on the schedule of expenditures of federal
+awards (SEFA) in relation to those financial statements. The second is a compliance audit of major federal awards
+expended during the fiscal year. Most of Oregon’s biggest agencies are included in this audit.
+Financial statement audits
+The objective of these audits is to review internal accounting and
+compliance control procedures and to obtain reasonable assurance
+about whether the amounts reported in the financial statements are
+materially correct and adequately supported.
+We annually audit the following programs and agencies:
+Oregon State Treasury: Short-Term, Local Government Investment
+Fund, Intermediate Term Pool
+Oregon Business Development Department: Special Public Works
+Fund and Water Fund
+Oregon Department of Energy: Small Scale Energy Loan Program
+Department of Environmental Quality: Clean Water Revolving Fund
+Oregon Department of Higher Education: High School Graduation and
+College and Career Readiness Fund (biennial audit)
+Oregon Health Authority: Oregon Health Insurance Marketplace
+This audit also seeks to verify compliance with programmatic
+requirements set forth by federal regulations, state statute, and the
+Centers for Medicare & Medicaid Services.
+Oregon Housing and Community Services
+Oregon State Lottery
+Oregon Department of Veterans’ Affairs
+Oregon Secretary of State | 2023-24 Annual Audit Plan | February 2023 | page 10
+Rollover performance and IT audits from the 2022-23 plan
+A number of audits initiated by the division in 2022 will continue into 2023.
+DEC 21 FEB 22 MAR 22 MAY 22 AUG 22 JAN-MAR 23
+1st quarter
+APR-JUN 23
+2nd quarter
+JUL-SEP 23
+3rd quarter
+OCT-DEC 23
+4th quarter
+Oregon Liquor and Cannabis Commission: Effectiveness and equity of
+cannabis licensing
+This audit will examine OLCC regulatory oversight of the Oregon cannabis
+industry. Audit objectives include examining the effectiveness and equity of
+OLCC licensing, compliance, and enforcement actions. The audit will likely make
+recommendations for the structure and resources needed to ensure an
+effective licensing and compliance system that supports equitable business
+growth. This audit may also use available disaggregated data regarding
+disproportional impacts.
+Oregon Health Authority: Medicaid Pharmacy Benefit Managers
+Medicaid is inherently high-risk and expensive. This audit will focus on Pharmacy Benefit
+Managers, the middle broker between drug manufacturers, health insurers, and pharmacies.
+Several recent audits of PBMs in other states have focused on the difference between what
+the state’s Medicaid program paid the PBMs and what the PBMs pay pharmacies to dispense
+drugs. In addition to being a high-risk area identified by division staff, several external
+stakeholders, including legislators, have expressed interest in this audit topic.
+Release dates are tentative and subject to change.
+Oregon Secretary of State | 2023-24 Annual Audit Plan | February 2023 | page 11
+DEC 21 FEB 22 MAR 22 MAY 22 AUG 22 JAN-MAR 23
+1st quarter
+APR-JUN 23
+2nd quarter
+JUL-SEP 23
+3rd quarter
+OCT-DEC 23
+4th quarter
+Oregon Housing and Community Services: Rental assistance program
+In December 2021, the Legislature provided emergency funding for rental
+assistance, including approving $215 million in funding to continue renter
+protection. The state is facing criticism for stopping the application process for
+these funds even though it has been reported Oregon was one of the timeliest
+states issuing rental assistance. Issues cited by legislators and other stakeholders
+include technical challenges with rental assistance software and public
+communication challenges. The division has received a letter requestin g an audit of
+the department by the chairs of the Senate and House housing committees.
+Oregon Department of Human Services: Integrated Eligibility (ONE) system
+controls
+The division in 2020 executed a real-time audit of the implementation of the
+Integrated Eligibility system, now referred to as ONE. The system is intended to
+streamline the process by which Oregonians apply for critical social welfare
+services. Overall, that audit found the implementation was proceeding well b ut did
+identify several risks. This project includes objectives to determine the
+appropriateness of system change processes and manual and automated processes
+to ensure the system correctly determines eligibility for critical benefit programs to
+support the division’s mandated federal financial and compliance audit work.
+Oregon Secretary of State | 2023-24 Annual Audit Plan | February 2023 | page 12
+DEC 21 FEB 22 MAR 22 MAY 22 AUG 22 JAN-MAR 23
+1st quarter
+APR-JUN 23
+2nd quarter
+JUL-SEP 23
+3rd quarter
+OCT-DEC 23
+4th quarter
+Statewide: State workforce governance and modernization
+The pandemic fundamentally and permanently changed the Oregon
+state government workforce. This audit will seek to identify and assess
+the evolving workforce environment; offer recommendations for how
+the state can implement progressive, human capital management
+strategies; and provide assurance where the state is implementing
+leading and innovative personnel management practices.
+This audit will include an objective examining mandatory employee
+overtime to ascertain the root causes for this overtime, its impact on
+employees, and to identify possible alternative strategies.
+Department of Justice: Oregon’s red flag policy
+Based on the division’s strategy of addressing emerging risks
+and in response to increasing gun violence in the nation, we
+identified the Red Flag policy advisory project as an
+opportunity to use our skills and resources to provide state
+leadership with timely, high-quality analysis and information
+related to red flag programs. This project includes an
+assessment of Oregon’s approach, an analysis of other state
+red flag programs, and the red flag provision contained in the
+recent federal gun reform legislation.
+Oregon Secretary of State | 2023-24 Annual Audit Plan | February 2023 | page 13
+Non-audit special projects
+The Audits Division has long been a national leader with our audit work and is constantly pursuing
+innovative strategies rooted in our values of transparency and accountability. The division has
+successfully developed and deployed several of these initiatives already, including real-time audits,
+non-audit advisory reports, cybersecurity control audits, high risk systemic reports, and
+recommendation follow-up reports.
+While the division maintains flexibility and may pursue some non-audit projects during the period
+covered by this audit plan, our priorities remain the same: audit work and staff professional
+development and well-being.
+Advisory and systemic risk reports
+These reports are distinct from audits in that they do not strictly adhere to Government Auditing
+Standards. Standards ensure audits are conducted systematically and findings and conclusions are
+accurate and supported by evidence; yet standards also require audits to follow a rigorous process that
+can be time-consuming. Through advisory reports, the division can conduct its work and report results
+in a timelier fashion.
+It is important to note the Audits Division remains committed to ensuring the accuracy of its
+conclusions and findings, even with advisory reports. Therefore, all of our advisory reports follow the
+same quality assurance process as each of the division’s audits. We stand behind our evidence and the
+strength and precision of our conclusions.
+These reports have been highly successful in communicating audit -grade information on many pressing
+issues to the state of Oregon. This included our pilot systemic risk report analyzing risks from multiple
+audits of the Oregon Department of Education. Given the long-term relevancy of those findings and
+their value to the Governor’s Office and legislative leadership, the division plans to pursue additional
+risk reports, including:
+Boards and commissions governance: Oregon utilizes a variety of boards and commissions to assist
+with state governance. The size and scope of the boards and commissions vary greatly , but they share
+similar risks. A performance audit issued in 2012 identified several risks, including inadequate
+segregation of duties, lack of adequate staffing, insufficient training, lack of performance assessment
+and outcome measurement, lack of oversight of directors and professional staff, fraud risks,
+overlapping duties, and a lack of transparency. Since that time, the division has executed a plethora of
+audits involving boards and commissions and many have identified these same risks. This advisory risk
+report would include a systemic root cause assessment of boards and commissions with the goal of
+generating recommendations based on leading practices to ensure state boards and commissions are
+fulfilling their statutory responsibilities in a transparent and effective manner.
+The centralized role of the Department of Administrative Services (DAS) in state government: The
+Department of Administrative Services plays a critical governance role for the state, provides a wide
+range of important services, and is a key control agency for state government. Within this context, the
+division plans to assess whether DAS has an effective governance structure for both its responsibilities
+Oregon Secretary of State | 2023-24 Annual Audit Plan | February 2023 | page 14
+as the state general services agency, and as the lead governance agency led by the state Chief
+Operating Officer. Report objectives may include reviewing whether the agency’s  legal responsibilities
+are clear and if the agency is adopting strategic and operational plans that fully meet its varied
+responsibilities, as well as an objective evaluating what additional duties and authority the state's Chief
+Operating Officer position entails and whether those duties are being effectively executed. The project
+may include an objective examining state procurement practices from a systemic gap , cost, and
+redundancy analysis.
+Multi-state Medicaid eligibility project: While in the early planning stages, the division has been
+discussing a multi-state Medicaid eligibility project with the Washington State Auditor’s Office, the Ohio
+State Auditor’s Office, and the U.S. Health and Human Services Inspector General about a joint project
+examining Medicaid eligibility risks. Other state audit functions many also join the envisioned project.
+Pay Equity Report: In 2015, Portland State University released a report highlighting how women and
+people of color faced wage gaps while working for the State of Oregon. Oregon pa ssed the Pay Equity
+Bill in 2017 that established new requirements for setting starting salaries and encouraging employers
+to perform pay equity analyses. The state has performed two rounds of pay equity adjustments and
+this report analyzes the outcomes of those adjustments to see how well the State of Oregon is closing
+median wage gaps for women and people of color.
+Summary reports
+The division also issues annual reports summarizing three significant programs: the State Government
+Accountability Hotline, the Municipal Audit Program, and the Statewide Single Audit.
+State Government Accountability Hotline: In 1995, the Legislature created the hotline for employees
+and members of the public to report waste, inefficiency, or abuse by state agencies, state emplo yees,
+or persons under contract with state agencies. The hotline was formerly known as the Government
+Waste Hotline. The Audits Division is required to prepare and submit to the Legislature an annual report
+describing the number, nature, and resolution of reports made through the hotline.
+Municipal Audit Program: Oregon’s municipal corporations, as defined by Municipal Audit Law, include
+all counties, cities, school districts, special districts, and public corporations subject to contr ol by local
+governments. Municipal Audit Law provides instructions for the type and submission of annual reports
+that municipal corporations are required to submit to the Secretary of State. The law also requires the
+Secretary of State to prepare an annual summary report detailing which municipal corporations filed
+audit reports as required and which did not.
+Keeping Oregon Accountable: The Audits Division annually audits the State of Oregon’s financial
+statements and compliance with federal program requirements. The federal government requires these
+audits for the financial assistance Oregon receives annually. These audits determine whether amounts
+reported in Oregon’s financial statements are materially correct and adequately supported; evaluate
+the state’s administration of major federal programs for compliance with applicable laws, rules, and
+regulations; conclude on whether the Schedule of Expenditures of Federal Awards is fairly presented in
+relation to the state’s financial statements; and review accounting and compliance control procedures.
+We annually prepare a report summarizing the results of these audits.
+Oregon Secretary of State | 2023-24 Annual Audit Plan | February 2023 | page 15
+About the plan
+The mission of the Oregon Audits Division is to protect the public interest and improve Oregon
+government. A key component of this mission is the division’s annual audit plan, which lists the
+agencies, programs, and topics prioritized for audits in the coming year.
+The annual audit plan demonstrates two key philosophies of the Audits Division: our commitment to
+building public trust and transparency, and our emphasis on being agile and responsive to critical
+issues facing the state. While we are committed to completing the audits listed in the plan, our risk
+assessment process is continuous. The plan is a flexible document, and we will redirect audit resources
+as necessary to address issues as they arise.
+Government audit standards require any audit initiated be completed unless circumstances arise that
+justify its termination. Any decision to terminate an audit must be documented and publicly reported.
+We follow professional standards and guidelines in both developing  and executing this audit plan.
+We select and prioritize audits using a risk-assessment approach
+Audits are all about risk. There will always be inherent risks in state government owing to the size of
+budgets, the vulnerable populations served, and the important work state agencies do in service of
+Oregonians.
+Since we cannot feasibly audit all of state government all the time, we carefully prioritize our resources
+and generally go where the risk is highest. To determine that, our audit plan is developed using a risk-
+assessment process based on specific factors relating to the quality of internal controls and the liability
+and level of exposure to the state of various agencies, programs, or activities.
+• The direction of the elected
+Secretary of State
+• Industry-standard risk assessment
+criteria
+• Previous audits of agency operations
+and internal controls
+• Trend analyses to identify recurring
+audit findings and control deficiencies
+• Audit follow-up and recommendation
+tracking
+• The state’s Single Audit Reports and
+audit management letters
+• Input from elected officials, including
+the Governor’s Office and members
+of the Joint Committee on Legislative
+Audits
+• Emerging risk areas
+• Size of audited agency or
+program
+• Compliance and regulations
+• Pending or recent legislation
+• Complexity of transactions
+• Fiscal sustainability
+• Management accountability
+• Quality of internal control
+system
+• Age of program or operation
+• Audit history
+• Public health and safety
+• Critical infrastructure
+• Short- and long-term strategic
+risks
+• Related litigation and relevant
+case law
+• Input from agency
+management, other public
+sector audit organizations, and
+members of the public
+• Priorities and work products of
+other leading government
+audit functions
+• Topics informed and
+suggested by research
+conducted by Audits Division
+staff
+• Current events and trends,
+financial conditions, and public
+policy issues, including
+emerging policy
+• Equity, inclusion, and diversity
+risks and frameworks
+Oregon Audits Division
+255 Capitol St NE, Suite 180
+Salem OR 97310
+(503) 986-2255
+audits.sos@oregon.gov
+sos.oregon.gov/audits

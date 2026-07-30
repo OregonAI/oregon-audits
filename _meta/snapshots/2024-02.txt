@@ -1,0 +1,810 @@
+Oregon Medical Board
+To Protect Patients and
+Maintain Public Trust, the
+Oregon Medical Board
+Should Further its Efforts to
+Address the Risk of
+Inequitable Disciplinary
+Decisions
+January 2024
+Report 2024-02
+Why this audit is important
+• The Oregon Medical Board (OMB)
+regulates doctors, physician
+assistants, podiatric physicians, and
+acupuncturists, with the mission to
+protect and promote the health,
+safety, and well-being of Oregonians.
+• In addition to licensing and education,
+OMB also investigates and disciplines
+licensees for violating Oregon’s
+Medical Practice Act. The board
+receives roughly 700 to 800
+complaints a year.
+• To protect patients and maintain
+public trust, OMB’s role in
+investigating and disciplining licensees
+requires an assurance of consistency
+and equity in the resulting outcomes
+of these investigations.
+• If licensees are disciplined
+inconsistently or inequitably,
+especially as the result of racial bias
+or discrimination, it can have the
+effect of limiting the representation
+of people of color in medical
+professions. This can contribute to
+continued disparities in medical
+treatment and health outcomes for
+these communities.
+What we found
+1. Medical complaint cases can be complex, often containing specific
+circumstances within the case or the licensee’s history. In some
+instances, two complaint allegations can appear to be similar, but
+have completely different case details that may contribute to
+different board disciplinary outcomes. For example, the same
+procedure performed on two patients with different levels of overall
+health can have very different results. (pg. 11)
+2. While OMB’s investigation process includes many formal policies and
+procedures staff and managers are supposed to follow, its process
+for comparing disciplinary decisions is generally informal and
+intermittent. There is no formal process to help ensure these
+reviews are performed in a standardized way each time. (pg. 12)
+3. Many medical boards in other states, including Washington and
+California, utilize sanctioning guidelines or disciplinary matrices to
+ensure disciplinary decisions are consistent and equitable. Other
+types of health care boards, and other regulatory organizations, also
+use some form of disciplinary guidelines to help improve equity and
+consistency. While OMB utilizes a disciplinary matrix for two specific
+types of complaints, it does not do so for any other complaint
+types. (pg. 12)
+4. OMB’s current data system does not capture complaint information
+in a way that permits the agency to easily analyze its disciplinary
+decisions. While OMB has done qualitative reviews to try to ensure
+consistency, the database hinders OMB’s ability to conduct routine,
+systematic data analysis to help assure the public and licensees that
+similar cases result in consistent and equitable disciplinary
+outcomes. (pg. 14)
+Audit Highlights
+Oregon Medical Board
+To Protect Patients and Maintain Public Trust, the Oregon Medical Board Should
+Further its Efforts to Address the Risk of Inequitable Disciplinary Decisions
+What we recommend
+We made four recommendations to OMB. The board agreed with all of our recommendations. The response can be
+found at the end of the report.
+Oregon Secretary of State | Report 2024-02 | January 2024 | page 1
+Introduction
+The Oregon Medical Board (OMB) was created by the Legislature in 1889. OMB’s mission is to protect
+the health, safety, and well-being of Oregonians by regulating the practice of medicine in a manner that
+promotes access to quality care. OMB licenses and regulates multiple health care professions in
+Oregon. In addition to its licensing functions, OMB supports education and research to support
+licensees in delivering quality medical care. Lastly, and the focus of this audit, OMB is responsible for
+investigating and deciding whether to take action on complaints against licensees that violate the
+state’s Medical Practice Act.
+The Oregon Medical Board regulates the practice of medicine to
+help protect the health and safety of Oregonians
+OMB licenses and regulates several different groups of health professionals. To help ensure Oregonians’
+health, safety, and well-being, the board is at the forefront of evaluating, revising, and enforcing
+medical practice standards, scope, and regulatory oversight while also ensuring the Medical Practice
+Act remains reflective of any changes in health care and regulatory standards.
+Nearly all of OMB’s funding comes from licensee fees
+OMB is an Other-Funded Agency, with 97% of its funds coming from fees for licensure and registration.
+The board’s 2023-25 budget was approved in the amount of $18,442,127. For the two-year licensing
+period, renewal fees for active, practicing licensees range from $326 for acupuncturists up to $580 for
+physicians.1
+Figure 1: OMB is funded solely through Other Funds and does not receive funding from the Legislature
+2019-21 Legislatively
+Approved
+2021-23 Legislatively
+Approved
+2023-25 Legislatively
+Adopted
+Other Funds  $ 14,079,904 $ 17,346,295 $18,442,127
+Positions   41  42 42
+FTE  41.00  42.00 42.00
+Source: 2023-25 Budget Highlights, Oregon Legislative Fiscal Office, September 2023
+The board is composed of 14 members, which includes seven Doctors of Medicine, two Doctors of
+Osteopathic Medicine, one Doctor of Podiatric Medicine, one Physician Assistant, and three public
+members. A bill passed in the 2023 legislative session added an additional Physician Assistant
+representative and reduced the number of Doctors of Medicine representatives from seven to six.
+All board members are appointed by the Governor and confirmed by the Senate. They can serve up to
+two three-year terms. Under the governance of the board, there are 42 positions in several
+departments, including the executive director and medical director. OMB’s departments consist of
+Business, Licensing, Investigations and Compliance, and Administration.
+1 Renewal fee amounts include fees sent to the Oregon Health Authority for prescription monitoring and maintaining a workforce
+database and fees to support the Oregon Health and Science University Library.
+Oregon Secretary of State | Report 2024-02 | January 2024 | page 2
+OMB has many roles and responsibilities in regulating and enforcing the Medical
+Practice Act
+Since its creation in 1889, the Oregon Medical Board has expanded its regulatory oversight to include
+several health care professions. OMB currently licenses and regulates:
+• Doctors of Medicine (MDs);
+• Doctors of Osteopathic Medicine (DOs);
+• Doctors of Podiatric Medicine (DPMs);
+• Physician Assistants (PAs); and,
+• Acupuncturists (LAcs).
+In addition to licensing and regulating, OMB establishes practice standards, education, and scope,
+including for Emergency Medical Services (EMS) providers. OMB oversees licensee monitoring,
+probation, discipline, education, wellness, and remediation.
+Figure 2: In 2022, OMB had over 25,000 licensees under its purview
+MD DO DPM PA LAc
+Active 16,621 2,003 215 2,701 1,503
+Inactive 1,103 115 8 134 57
+Limited2 786 217 13 3 1
+Total 18,510 2,335 236 2,838 1,561
+Source: Oregon Medical Board
+Licenses are renewed every two years. At the time of an initial or renewal application, the licensing unit
+reviews the applicant’s qualifications and any prior investigations or complaints they may have on their
+record. They also review any information available through the National Practitioner Data Bank (NPDB)
+administered by the U.S. Department of Health and Human Services, the Physician Data Center (PDC)
+administered by the Federation of State Medical Boards, as well as conducting a criminal background
+check. If there are any issues discovered during this process, an investigation may be opened into the
+licensee or an initial applicant. During the application process, licensees have the option of inputting
+their demographic information, as required by the Oregon Health Authority per ORS 676.410, which
+enables the board to conduct equity analysis.
+OMB also enforces the state’s Medical Practice Act as outlined in Oregon law.3 When there is potential
+or evident violation of the state’s Medical Practice Act, OMB opens an investigation into the licensee or
+applicant. The board is required to make public certain actions taken against licensees who violate the
+state’s Medical Practice Act, such as license suspensions, license revocations, or corrective action
+agreements. OMB is also required to report disciplinary actions to the National Practitioner Data Bank.
+Public board orders and actions against licensees are published and viewable on OMB’s website or
+available via a public records request.
+2 Limited licenses include scenarios such as postgraduates entering medical training programs, non-practicing providers
+employed as medical school faculty, or visiting out-of-state providers, such as during a declared state of emergency.
+3 Oregon Revised Statutes, Chapter 677
+4 Oregon Medical Board | Board Actions
+Oregon Secretary of State | Report 2024-02 | January 2024 | page 3
+Medical board laws and structures vary from state to state
+Each state determines their own Medical Practice Act. Some state legislation requires clear and
+convincing evidence of a medical practice violation, while other states, like Oregon, require a
+preponderance of evidence. Some states have one regulatory organization in charge of regulating
+medical practitioners. In Oregon, OMB solely regulates its licensees, within the scope of its authority
+under state law. Some other states have separate departments, agencies, boards, or commissions with
+different roles and authority. A licensee may commit a medical practice act violation in one state and
+face discipline, but in another state, their actions may not result in any discipline. These state-by-state
+variations can lead to varied disciplinary outcomes for licensees.
+Other than federal requirements for reporting certain disciplinary actions to the National Practitioner
+Data Bank, there is no substantive federal oversight or policy requirements for medical boards. The
+Federation of State Medical Boards provides a framework, support, policy recommendations, relevant
+medical and regulatory studies, state comparisons, as well as another data hub for medical board action
+reporting. However, state medical boards are not required to be members of the Federation of State
+Medical Boards.
+Many state boards have joined the Interstate Medical Licensure Compact (IMLC). IMLC has explicit rules
+and requirements in regulating licensees, some of which may override state-created laws and rules.
+When one participating state suspends a licensee, it has an automatic, mandated effect on that
+licensee in other participating states in which they practice. Currently, 37 states and two territories
+participate in the compact, with several pending completion of their participation application. Eleven
+states and territories do not participate, including Oregon. According to OMB, Oregon is not a part of
+the compact because some of the IMLC requirements are not as stringent as Oregon’s licensing
+requirements.
+Board composition also varies in each state. Most have one or more public members, who are
+individuals not licensed or regulated by the medical board. The Federation of State Medical Boards
+recommends at least 25% representation of public members. Currently, OMB has 21% public member
+representation.
+OMB enforces Oregon medical laws by investigating complaints
+against licensees
+Another critical OMB function is to investigate complaints against individuals licensed by the board.
+Complaints are reviewed and, if applicable, assigned for investigation. While licensees are required to
+report violations, most investigations come from complaints by patients and people associated with
+patients, such as relatives or patient advocates. An investigation is conducted when there is a potential
+violation of Oregon’s Medical Practice Act.
+Oregon’s Medical Practice Act
+Oregon’s Medical Practice Act consists of 27 separate grounds for discipline or denial of a license. Most of these
+grounds are very specific. Some examples include gross or repeated acts of negligence, chemical substance
+abuse, conviction of a criminal offense, and sexual misconduct.
+Oregon Secretary of State | Report 2024-02 | January 2024 | page 4
+Figure 3: Each written complaint OMB receives follows a defined process
+Source: Oregon Medical Board, January 2024
+There are many stages and potential outcomes of OMB’s investigated cases
+OMB’s investigation unit includes eight investigators, several administrative specialists, an
+investigations supervisor, and the investigations manager. The board receives about 700 to 800
+written complaints annually. According to OMB’s Winter 2023 Newsletter, the board opened 757
+investigations and closed 792 investigated cases in 2022.
+Oregon Secretary of State | Report 2024-02 | January 2024 | page 5
+Complaints submitted to the board are reviewed weekly by a complaint intake committee, which
+determines whether there is potential for a violation. If a complaint is of an egregious nature, it will be
+reviewed with management upon receipt, then assigned to an investigator and prioritized; the
+complaint may require immediate action by the board. If there is an immediate concern for patient
+safety, the board may issue an Interim Stipulated Order to temporarily suspend or restrict a licensee’s
+practice while under investigation. If the licensee refuses to agree to this order, the board can vote to
+suspend their license through an Order of Emergency Suspension. According to OMB, 55 cases opened
+from 2019 to 2022 (about 1.8%) included either an interim stipulated order or emergency suspension.
+By statute, an investigator has 120 days to complete their investigation before submitting an
+investigation report to leadership, though the board can approve extensions to this timeline. While the
+investigation is open, the assigned investigator collects evidence, interviews those with potential
+knowledge of the violation, and then compiles an investigative case report when the investigation has
+concluded. This case summary report does not include any determinations on whether a violation
+occurred or recommend any disciplinary actions. Claims related to malpractice, incompetence, or
+unprofessional conduct are also reviewed by OMB’s medical director, and the board often contracts
+with medical consultants to review medical-related cases and provide an expert opinion. The report
+goes through a quality assurance process that includes several reviews and then goes to the board for
+review and action.
+Figure 4: Complaint cases can be resolved with a variety of outcomes, from case closure with no action up
+to a stipulated or final disciplinary order that may include sanctions and penalties.
+Source: Oregon Medical Board
+No action
+Closed with no action –
+not enough information
+or the allegation does not
+violate the Medical
+Practice Act.
+Closed with confidential
+letter of concern – not
+enough information or
+the allegation does not
+violate the Medical
+Practice Act, but the
+board has concerns about
+the licensee’s actions.
+Disciplinary orders
+Stipulated order –
+negotiated settlement
+between the licensee
+and board with specific
+terms, practice
+restrictions, and/or
+penalties.
+Final order – board
+order with specific
+terms, sanctions, and/or
+penalties following a
+contested case hearing.
+Non-disciplinary
+Corrective action
+agreements – generally
+non-disciplinary, used to
+correct issues in a
+licensee’s practice that
+can be addressed via
+modification and/or
+monitoring. Reportable
+when involving adverse
+findings or connected to
+delivery of health care
+services.
+Limitations and
+suspensions
+Voluntary limitation –
+usually non-disciplinary.
+Licensee signs an
+agreement to restrict a
+specific practice area.
+Interim stipulated
+order – agreement to
+cease or restrict
+practice while under
+investigation.
+Emergency suspension
+– board order to
+suspend a licensee from
+practice pending
+investigation, due to
+concern for patient
+health and safety.
+Oregon Secretary of State | Report 2024-02 | January 2024 | page 6
+When the case report goes to the board, it is first reviewed by the Investigative Committee. This
+committee consists of five to six board members, including one public member. The committee reviews
+evidence and investigative case reports and proposes potential action for the board to take. This
+proposed action is then discussed by the full board. All disciplinary decisions are made by vote of the
+full board.
+If the board finds that a violation occurred, it issues a Notice of Proposed Disciplinary Action. The
+licensee under investigation can either contest the proposed action through an administrative hearing
+or enter into a settlement with OMB, waiving their right to a hearing. If a settlement is reached, the
+board will issue a corrective action agreement, voluntary limitation, or stipulated order. Stipulated
+orders can include penalties, additional educational requirements, limitations on practice, monitoring
+requirements, or other sanctions, potentially including license surrender. Notably, the board considers
+corrective action agreements to be non-disciplinary actions, so they are generally not reported to the
+National Practitioner Data Bank, unless there are adverse findings or a connection to the delivery of
+health care services.
+Figure 5: From 2020-2022, most of OMB’s investigated cases that closed with an order were settled with
+stipulated orders
+2020 % 2021 % 2022 %*
+Automatic Suspensions 1 1% 2 3% 3 3%
+Corrective Action Agreements 13 15% 14 19% 12 13%
+Stipulated Orders 62 74% 58 78% 71 78%
+Voluntary Limitations 0 0% 0 0% 2 2%
+Final Orders 8 10% 0 0% 3 3%
+Total 84 100% 74 100% 91 100%
+*Due to rounding, percentages may may not add up to 100%.
+Source: Oregon Medical Board
+When a licensee decides to contest a Notice of Proposed Disciplinary Action, the case goes to a hearing
+before an Administrative Law Judge. At the conclusion of a contested case hearing, the Administrative
+Law Judge will issue a Proposed Final Order. OMB can revise the terms and conditions of this order
+before issuing a Final Order. The licensee can further contest the Final Order at the Oregon Court of
+Appeals.
+OMB generally learns about licensee misconduct, negligence, or noncompliance
+through complaints by patients and those associated with patients
+Most complaints that lead to investigations come from patients or someone associated with a patient,
+such as a family member or advocate. In fact, more investigations came from complaints by patients
+and their associates than from all other sources. OMB licensees and some health care organizations are
+also required by statute to report potential violations of the Medical Practice Act. OMB reports that
+when it discovers a licensee has not reported a violation, it investigates and may take disciplinary
+action.
+Malpractice lawsuits against OMB licensees are required to be reported to the board, as well. However,
+based on federal regulations and related court decisions, if a malpractice suit is filed against an
+organization, not a specific provider, it is not reportable to the National Practitioner Data Bank or the
+Oregon Secretary of State | Report 2024-02 | January 2024 | page 7
+board. If a provider pays out a negotiated settlement from their own personal funds without
+reimbursement from an insurer, it is also not reportable to the data bank or the board.
+The data bank requires hospitals and health care groups to report formal actions taken against a
+licensee if:
+• the licensee’s conduct impacted or could have impacted patient care; and,
+• the formal action against them is more than 30 days in duration; or,
+• the organization accepts the practitioner’s surrender of clinical privileges or practice
+restriction while under investigation or in lieu of an investigation.
+OMB requires health care facilities to report official actions taken against licensees within 10 days of
+the action. OMB defines an official action as “a restriction, limitation, loss or denial of privileges of a
+licensee to practice medicine, or any formal action taken against a licensee by a government agency or
+a health care facility based on a finding of medical incompetence, unprofessional conduct, physical
+incapacity or impairment.”
+Figure 6: In 2022, more investigations came from complaints by patients or people associated with patients
+than all other sources combined
+Source: Oregon Medical Board, Winter 2023 Newsletter
+At a set cost to state medical boards, the National Practitioner Data Bank offers what it calls
+“Continuous Query” notification reports. These reports are sent to enrolled medical boards within 24
+hours of the data bank receiving adverse information about a practitioner. Information reported to the
+data bank can consist of malpractice lawsuit payments and certain adverse actions against licensees,
+such as a state medical board revoking a doctor’s license. Notifications come to the data bank from
+several types of entities, such as hospitals, malpractice insurers, accreditation organizations, and state
+medical boards. Currently, OMB utilizes this feature for new applicants, licensees under investigation,
+and licensees who have been investigated for sexual misconduct. OMB enrolls such licensees for a 1-
+year period with the exception of licensees investigated for sexual misconduct, who are enrolled for a
+2-year timeframe.
+Patient or Patient Associate
+Malpractice Review
+Oregon Medical Board
+Other Health Care Providers
+Other
+Hospital/Other Health Care Institution
+Self-Reported
+Co-worker/Other Staff
+HPSP/Monitoring Entity
+Pharmacy
+Other Boards
+Insurance Company
+Board/HPSP Noncompliance
+Oregon Secretary of State | Report 2024-02 | January 2024 | page 8
+Contested case hearings can be expensive and are often avoided through negotiated agreements
+between licensees and the board. By the end of fiscal year 2022, OMB had two board orders appealed,
+two appeals upheld, one appeal closed without opinion, and three appeals still pending.
+The Health Professionals’ Services Program monitors licensees with substance use or
+mental health disorders
+In addition to receiving complaints, the board may also learn about licensees’ conduct by other means
+and decide to open an investigation. They may learn of a licensee’s misconduct through other
+reporters, or through a confidential monitoring program called Health Professionals’ Services Program
+(HPSP).
+This confidential monitoring program is for licensees with substance use disorders, mental health
+disorders, or both. The board may order a licensee to enroll in this program after completing an
+investigation. The board establishes the program’s requirements for the licensee to follow. During their
+enrollment period, the licensee is required to meet the criteria established by the board to maintain
+their license to practice. If a licensee fails to meet a requirement, such as failing a urine drug test, the
+program will alert the board, which will then potentially open a new investigation for noncompliance.
+The HPSP also permits licensees to voluntarily self-enroll. The program will evaluate the licensee and
+create an individualized monitoring agreement. When licensees self-refer into this program, OMB will
+not be notified, unless the licensee becomes noncompliant with their monitoring agreement.
+Racism threatens public health, impacting health outcomes and
+representation in the medical and scientific community
+In recent years, the Centers for Disease Control (CDC) has declared racism a serious public health
+threat. According to the CDC, racism obstructs social and economic opportunities, affecting one’s
+housing, education, career, well-being, and health. Health outcomes of underserved communities are
+affected by their community’s representation in health care. The state of Oregon is working toward
+evaluating, revising, and implementing operational strategies and services with a focus on diversity,
+equity, and inclusion; all in a concerted effort to remove entrenched racism and discrimination within
+agencies and to the public they serve.
+The Oregon Wellness Program
+OMB has partnered in pioneering a free provider wellness program to help
+support practitioners facing personal and professional challenges. Called the
+Oregon Wellness Program, it was formally launched in 2018 after OMB
+partnered with health care institutions and a network of professional
+societies.
+The program offers licensees resources through education and research and
+free, confidential counseling and wellness services. This initiative was driven
+by trends in provider burnout, suicides, and impairment. Providers facing
+these challenges with the difficult work they do are not always at their best,
+and it can affect their delivery of care, potentially compromising the health,
+well-being, and safety of Oregonians.
+Oregon Secretary of State | Report 2024-02 | January 2024 | page 9
+Racism is a serious public health threat
+In 2021, when the CDC declared racism a serious public health threat, it emphasized the pervasive
+impacts of structured and interpersonal racism that has been rooted in this country for centuries.
+Racism affects an individual’s ability to obtain housing, education, employment, and wealth — factors
+which experts refer to as the social determinants of health.
+CDC also stresses racism’s impact on the health care industry, in part by reducing the number of people
+of color employed in medical professions. This lack of representation for people of color “deprives our
+nation and the scientific and medical community of the full breadth of talent, expertise, and
+perspectives needed to best address racial and ethnic health disparities.”5
+When health care professionals are disciplined unfairly, including through implicit or explicit bias, it can
+impact both licensees and the larger community. If a sanction is more lenient than typical for a
+violation, it could potentially jeopardize patients receiving care from that licensee. If the board’s
+discipline is harsher than is typical, it can result in the licensee facing undue hardship and, potentially,
+the suspension or cancellation of their license. When this comes as the result of racial discrimination or
+bias, it can have the effect of limiting the representation of people of color in medical professions.
+Ultimately, this can contribute to continued disparities in medical treatment and health outcomes for
+communities of color.6
+Oregon is focused on DEI action planning, strategies, and initiatives
+In recent years, Oregon has encouraged state agencies to incorporate Diversity, Equity, and Inclusion
+(DEI) in their operations and service delivery. In 2021, the State of Oregon’s DEI Action Plan was
+published. It has a specific initial focus on anti-racism and outlines recommendations and resources for
+state agencies to utilize. In early 2023, Governor Tina Kotek issued a letter of expectations for state
+agencies which included a requirement for agencies to create and submit strategic DEI action plans,
+making specific reference to the 2021 DEI Action Plan as a guide to agencies in their development and
+implementation.
+Additionally, the Secretary of State’s Audits Division conducts performance audits with an equity lens.
+Federal performance auditing standards, set by the US Government Accountability Office, compel state
+auditors to include an equity focus when conducting performance audits of government agencies, with
+5 Racism and Health | Minority Health, CDC 2021
+6 Missing Persons: Minorities in the Health Professions, the Sullivan Commission
+Racism and representation in the medical field
+In its declaration of racism as a public health threat, the CDC referenced a report titled Missing Persons:
+Minorities in the Health Professions, a Report of the Sullivan Commission on Diversity in the Healthcare
+Workforce. This report details the impacts and barriers effected by embedded racism and how it hinders
+individuals from underserved communities from attaining education in a health care occupation and
+employment in a medical or scientific field. The report stresses that research shows a community’s health
+outcomes are correlated with that community’s representation in the health care workforce.
+Oregon Secretary of State | Report 2024-02 | January 2024 | page 10
+specific criteria for assessing if an auditee’s “services are provided effectively, efficiently, economically,
+ethically, and equitably.”7
+The Oregon Medical Board has a strategic plan for incorporating DEI in the board’s operations and how
+it regulates licensees. Following the Governor’s request in early 2023 for state agencies to submit a
+strategic DEI plan, OMB completed and submitted its plan in May 2023. The plan includes strategies to
+incorporate DEI in the investigation process, including:
+• Collecting complainant demographics at the conclusion of an investigation;
+• Creating a new complaint category for discrimination; and,
+• Amending board rule to include discrimination as a form of unprofessional conduct.
+In addition to OMB’s new DEI action plan, OMB had previously implemented a continuing education
+requirement for licensees on cultural competency, as required by statute. The board also established a
+cultural competency philosophy statement, which is a detailed explanation of its expectations of
+licensees related to providing culturally competent care to their patients. In 2017, OMB published a
+booklet, “Cultural Competency: A Practical Guide for Medical Professionals,” which was adopted as
+required reading for many educational and training programs and was given the 2018 “Best of Boards
+Award” by the national organization Administrators in Medicine for education and outreach.
+Furthermore, OMB has an established, detailed Affirmative Action policy for hiring and maintaining a
+diverse and inclusive workforce.
+7 Government Accountability Office, GAO-21-368G, Government Auditing Standards: 2018 Revision
+Oregon Secretary of State | Report 2024-02 | January 2024 | page 11
+Audit Results
+Although OMB has some processes in place to try to ensure consistent board decisions, the board does
+not have formal, written procedures or processes for achieving consistent and equitable decisions on
+investigated complaints against licensees.
+OMB has taken steps to reduce the risk of making inconsistent or inequitable sanctioning decisions,
+including implementing sanctioning guides for two specific complaint types. The board also uses an
+informal process to review prior investigated case outcomes in an effort to ensure consistency.
+However, OMB does not conduct routine, systematic analyses of board decisions. Without this, or
+established sanctioning guidelines, OMB and the public cannot be sure investigated cases are decided
+consistently and equitably. The board would benefit from developing and implementing sanctioning
+guidelines for all other types of complaints the board investigates, as well as creating a formal process
+for routine, systematic analysis of their case decisions.
+Due to how complaint information is captured in OMB’s data system, it is difficult to analyze decisions
+for equity and consistency across all cases. For example, many cases include more than one type of
+complaint, but the data system is not configured to identify the primary or main complaint type. This
+impedes OMB’s ability to easily use its data to sort and compare cases with similar complaint types.
+Implementing formal guidelines and case reviews would help OMB
+ensure equity and consistency
+While OMB utilizes some informal procedures for trying to ensure consistency and equity in board
+decisions, as well as using sanctioning guides for two different types of complaints, OMB could provide
+more assurance of consistency and equity by implementing sanctioning guidelines for all types of
+complaints.
+Complaint cases can be complex, with unique circumstances and factors that can
+affect how a licensee is sanctioned
+Medical complaint cases can be thorny, potentially containing specific circumstances within the case or
+the licensee’s history that can make it challenging to compare with other cases. There are many factors
+that can affect the outcome of an investigation. These factors can reduce or increase the level of
+board action.
+For example, the location of a practitioner and type of license can play a part in the board’s decision
+making. If a provider is practicing in a rural or frontier region, the board will consider the community
+standard of care in determining whether the licensee was practicing appropriately. Similarly, an
+acupuncturist licensee may receive a lower monetary penalty for a violation than a physician licensee,
+as their income may be less, so a higher penalty could cause more financial hardship.
+Another possible consideration is whether a licensee is new in their career or has a history of previous
+similar issues. If a licensee is new to their profession and is actively seeking additional experience and
+support, the board may decide to place the licensee on a corrective action agreement to help them
+learn and grow their skills through education or mentoring.
+Oregon Secretary of State | Report 2024-02 | January 2024 | page 12
+In some instances, two complaint allegations can appear to be similar, but the dynamics of the cases
+are completely different and may contribute to different board disciplinary outcomes. For example, the
+same procedure performed on two patients with different levels of overall health can have very
+different results. Similarly, the same surgery performed by two different surgeons can also end with
+different results depending on the experience of the surgeon, the available resources, the patient’s
+condition, and other factors. As a result, these cases could have very different disciplinary outcomes.
+While OMB has formal procedures in many areas, implementing disciplinary guidelines
+and routinely analyzing case decisions would help further equity and consistency
+OMB’s investigation process includes many formal policies and procedures staff and managers are
+expected to follow. These include policies on how the intake committee receives and initially evaluates
+complaints; how investigations should be conducted; and how investigation case summaries should be
+compiled, among other areas.
+All investigation case reports go through multiple reviews, including by the investigation manager,
+medical director, and executive director, before going to the board. Initial recommendations for
+discipline are made by the Investigative Committee — comprised solely of board members — and not
+by investigators or other OMB staff or managers. Although auditors did not test each of these
+procedures, taken together, they appear to provide a useful starting point for promoting equitable and
+consistent decisions.
+In contrast to these formal policies and procedures, OMB’s current process for comparing disciplinary
+decisions is generally informal and intermittent. For example, OMB management indicated the board
+sometimes requests information on past disciplinary outcomes to inform its decision on a current case.
+Oregon Secretary of State | Report 2024-02 | January 2024 | page 13
+OMB managers will then identify similar cases using a combination of keyword searches in the data
+system and staff or manager recall of prior cases.
+However, there are no formal policies or procedures governing this process or specific guidance for
+how to determine case precedence, to help ensure these reviews are performed in a standard way.
+Additionally, they are generally only done when requested by the board, or when OMB managers or
+staff anticipate the board might want this information. Without a formal process for these tasks, as
+well as policies and procedures for routinely conducting systematic reviews of disciplinary decisions, it
+is difficult to be sure the board’s decisions are consistent and equitable.
+To further promote the consistency and equity of disciplinary decisions, many medical boards in other
+states utilize sanctioning guidelines or disciplinary matrices. States with guidelines or matrices include
+Connecticut, North Carolina, Ohio, Virginia, and Oregon’s neighbors Washington and California, among
+others. Like sentencing guidelines used by courts, disciplinary guidelines generally establish the
+minimum and maximum disciplinary sanctions a board will apply for a specific violation or category of
+violations.
+Many other health care-related boards also use disciplinary guidelines or matrices, as well as other
+types of regulatory boards. Auditors found examples of nursing, dental, physical therapy, and other
+health care boards using disciplinary guidelines or matrices in states like Maryland, North Carolina,
+Texas, and Virginia. Other regulatory boards and organizations that use or recommend using
+disciplinary guidelines include the Association of Marital & Family Therapy Boards, National Center for
+State Courts, Transportation Security Administration, and Financial Industry Regulatory Authority.
+Additionally, the Federation of State Medical Boards has noted the importance of efforts to “identify
+best practices for ensuring fairness and incorporating the principles of equity and inclusion in board
+decision making related to licensing and disciplinary action.”
+While OMB uses sanctioning guidelines for two specific types of complaints, it does not use them for
+any other complaint types. When auditors asked OMB about this, management indicated a concern that
+guidelines could not adequately account for the unique circumstances and complexity of each case.
+Disciplinary guidelines we saw in other states included provisions in which the board can deviate from
+the guidelines if necessary. Some boards also set mitigating or aggravating factors that, if present in a
+case, may warrant either a lighter or more stringent disciplinary sanction. Providing this flexibility helps
+preserve a board’s authority and autonomy in making disciplinary decisions and protects against
+potential injustices for cases that may not fit well within disciplinary guidelines.
+8 Federation of State Medical Boards (FSMB) Diversity, Equity, and Inclusion Workgroup Interim Report, 2022.
+California and Washington Utilize Sanctioning Guides
+California uses a detailed, prescriptive disciplinary guidance document that details minimum and maximum
+sanctioning and various conditions to consider for each type of complaint. In contrast, Washington uses a
+disciplinary matrix that determines minimum and maximum sanctioning based on the severity of the violation
+and the risk of or actual harm to patients.
+Oregon Secretary of State | Report 2024-02 | January 2024 | page 14
+Without a disciplinary matrix or guidelines to help guide the board’s disciplinary discussions and a
+regular and systematic process for reviewing past cases, OMB cannot provide convincing assurance to
+the public and licensees that its disciplinary decisions are equitable and consistent. However, the board
+has taken some action to look for potential inequities. OMB’s strategic plan includes an item to evaluate
+equity in “investigative case reviews and final outcomes,” with an expected completion date of
+December 2023. However, according to OMB management, the expected completion date of that
+evaluation has been revised to December 2025 due to other work demands. The board also utilized a
+legal student extern in 2013 to review past cases for consistency of disciplinary outcomes. While that
+review found no significant inconsistencies, the limited nature of this review is not an adequate
+substitute for a regular, robust review process.
+A new data system with robust categorization of complaints will help OMB conduct
+routine, systematic equity analysis of case outcomes
+While OMB is in the process of developing a new data system that will have more data capabilities, the
+board’s current system, TechMed, does not effectively capture complaint detail to allow for
+consistency and equity analysis.
+The data system contains over 50 complaint categories, with most cases containing several different
+types of complaints. Moreover, all complaint types applicable to a case are captured in one data field,
+with no delineation in the data system to identify a primary complaint type or to organize complaint
+types by the most serious or most pertinent allegation included in the case. In the data provided to the
+audit team, there were over 600 combinations of complaint types in the complaint category field,
+making it difficult for auditors to analyze the data in a useful way. Without an effective complaint
+categorization mechanism in its data system, OMB cannot objectively and systematically evaluate
+consistency and equity across all cases.
+Due in part to the limitations with OMB’s complaint data, auditors reviewed a targeted selection of 28
+case files that appeared similar in nature, or which included serious allegations. While no substantial
+discrepancies were found in these cases, the difficulty of identifying cases with similar complaint types
+in the data limited the number of cases auditors could realistically review and impaired the usefulness
+of both the analysis and any conclusions that could be drawn from it.
+OMB is in the process of building and rolling out a new data system to capture licensing and case
+information, which will replace its current system. This process is expected to be finished in 2024. OMB
+management has indicated that while this system is intended to provide similar functionality to their
+current system, it will have the capability to capture different data points. Management has also
+indicated its willingness to make changes to the new system based on this audit’s findings and
+recommendations.
+Oregon Secretary of State | Report 2024-02 | January 2024 | page 15
+Recommendations
+To help ensure investigated cases result in consistent and equitable board decisions, OMB should:
+1. Implement sanctioning guidelines and/or a sanction matrix to help reduce the risk of
+inconsistent and inequitable case decisions;
+2. Add the ability to categorize cases by primary or most serious complaint type, or another
+effective categorization system, to its forthcoming new data system;
+3. Use complaint data to conduct regular, systematic reviews of past cases to help monitor for and
+ensure equity and consistency;
+4. Develop and implement written policies and procedures for analyzing board disciplinary
+decisions for equity and consistency.
+Oregon Secretary of State | Report 2024-02 | January 2024 | page 16
+Objective, Scope, and Methodology
+Objective
+How does the Oregon Medical Board ensure its disciplinary decisions are consistent and equitable for
+cases with similar circumstances and violations?
+Scope
+Complaint cases closed with a disciplinary action, corrective action agreement, or letter of concern for
+the five-year period of January 1, 2017, to December 31, 2021.
+Methodology
+To meet our objective, we performed the following procedures:
+• Analyzed OMB complaint case data and licensee demographic data;
+• Reviewed the board’s policies, procedures, and processes related to investigations and
+disciplinary decisions;
+• Interviewed OMB managers, staff, and Investigative Committee board members, as well as
+stakeholders and other outside groups, such as the Oregon Society of Physician Assistants
+and malpractice attorneys;
+• Reviewed a targeted selection of 28 complaint case files;
+• Obtained audits, reports, and/or documents from other states’ medical or health licensing
+boards, as well as other boards and commissions in Oregon; and
+• Reviewed research, reports, or other documents from related professional organizations
+and outside groups, such as the Federation of State Medical Boards and the National
+Practitioners Data Bank.
+Internal control review
+We determined that the following internal controls were relevant to our audit objective.9
+• Risk Assessment
+• We reviewed policies and procedures, interviewed OMB managers and staff, and
+sent questions related to the board’s strategic goal of consistent disciplinary
+outcomes.
+• Control activities
+• We interviewed OMB managers and evaluated policies and procedures related to
+disciplinary decisions.
+• Monitoring activities
+• We evaluated whether the board regularly analyzes its disciplinary outcomes for
+equity and consistency.
+Deficiencies with these internal controls were documented in the results section of this report.
+9 Auditors relied on standards for internal controls from the U.S. Government Accountability Office, report GAO-14-704G.
+Oregon Secretary of State | Report 2024-02 | January 2024 | page 17
+We conducted this performance audit in accordance with generally accepted government auditing
+standards. Those standards require that we plan and perform the audit to obtain sufficient, appropriate
+evidence to provide a reasonable basis for our findings and conclusions based on our audit objectives.
+We believe that the evidence obtained provides a reasonable basis for our findings and conclusions
+based on our audit objectives.
+We sincerely appreciate the courtesies and cooperation extended by officials and employees of the
+Oregon Medical Board during the course of this audit.
+About the Secretary of State Audits Division
+The Oregon Constitution provides that the Secretary of State shall be, by virtue of the office, Auditor
+of Public Accounts. The Audits Division performs this duty. The division reports to the Secretary of
+State and is independent of other agencies within the Executive, Legislative, and Judicial branches of
+Oregon government. The division has constitutional authority to audit all state officers, agencies,
+boards and commissions as well as administer municipal audit law.
+Audit team
+Olivia Recheked, MPA, Audit Manager
+Stephen Winn, MPP, Principal Auditor
+Christina Nichols, Staff Auditor
+Tina Kotek, Governor
+The mission of the Oregon Medical Board is to protect the health, safety, and wellbeing of Oregon citizens
+by regulating the practice of medicine in a manner that promotes access to quality care.
+Medical Board
+1500 SW 1st Avenue, Suite 620
+Portland, OR  97201-5847
+(971) 673-2700
+FAX (971) 673-2669
+www.oregon.gov/omb
+January 16, 2024
+Kip Memmott, Director
+Secretary of State, Audits Division
+225 Capitol Street NE, Suite 500
+Salem, OR 97310
+Dear Mr. Memmott,
+This letter serves as the Oregon Medical Board’s written response to the Audits Division’s final
+draft audit report titled “To Protect Patients and Maintain Public Trust, the Oregon Medical
+Board Should Further its Efforts to Address the Risk of Inequitable Disciplinary Decisions.”
+The OMB is committed to consistent and equitable outcomes in our investigations. Therefore,
+we agree with the report’s findings and the four recommendations which directly align with the
+OMB’s mission and values, specifically integrity, accountability, excellence, customer service,
+and equity.
+Below is our detailed response to each of the four recommendations in the audit.
+Recommendation 1
+Implement sanctioning guidelines and/or a sanction matrix to help reduce the risk of
+inconsistent and inequitable case decisions.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number of
+specific point of contact for
+implementation
+Agree July 1, 2025
+and ongoing
+Nicole Krishnaswami
+971-673-2700
+Narrative for Recommendation 1: The OMB agrees with this recommendation and the audit’s
+acknowledgment that, “[OMB] cases can be complex, with unique circumstances and factors that
+can affect how a licensee is sanctioned.”
+In 2018, the OMB identified DUII cases and opioid prescribing cases as high-volume, single-
+issue allegations, and the agency developed internal advisory guidelines to assist the board in
+resolving these categories of cases. By the end of this fiscal biennium, the OMB will build upon
+this work to develop additional disciplinary guidelines to efficiently, consistently, and equitably
+review cases with consideration of aggravating factors (e.g. licensee has a pattern of similar
+conduct, has violated prior board orders, etc.) and mitigating factors (e.g. licensee has no history
+of similar issues, is actively engaged in remediation, etc.).
+January 16, 2024
+OMB Response
+Importantly, while the goal of disciplinary guidelines is to ensure equity and consistency, the
+OMB understands that systemic and institutional biases raise the possibility that any matrix or
+algorithm may actually result in inequitable outcomes as has been a concern with Oregon’s
+Measure 11 and many three-strikes laws across the country. The OMB will aim to write
+guidelines that attempt to control for inherent, systemic biases so that they do not result in
+disparate outcomes for historically disadvantaged licensees.
+The guidelines will be used as internal advisory communications to support board members in
+their deliberations, and the board will retain discretion to craft an appropriate resolution in each
+unique case – ranging from closure with no discipline to license revocation – after carefully
+considering each investigation’s specific circumstances.
+Recommendation 2
+Add the ability to categorize cases by primary or most serious complaint type, or another
+effective categorization system, to the agency’s forthcoming new data system.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number of
+specific point of contact for
+implementation
+Agree July 1, 2025 Nicole Krishnaswami
+971-673-2700
+Narrative for Recommendation 2: The OMB agrees with this recommendation and appreciates
+the audit’s recognition of the limitations of the agency’s existing database. The OMB is currently
+developing a new database that will replace its legacy system. Therefore, this is an ideal time to
+reevaluate and revise the current categorization system for complaints.
+The OMB’s new database is projected to deploy in early 2025. Because changing the
+categorization system may be deemed an “enhancement” by the vendor developing the database
+and because of the propensity for IT projects to be delayed, we anticipate completing this
+recommendation by July 1, 2025.  If additional funding is needed to add such an enhancement to
+the project currently underway, the OMB may seek additional expenditure limitation in the
+agency budget.
+Recommendation 3
+Use complaint data to conduct regular, systematic reviews of past cases to help monitor for
+and ensure equity and consistency.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number of
+specific point of contact for
+implementation
+Agree July 1, 2026 Nicole Krishnaswami
+971-673-2700
+Narrative for Recommendation 3: The OMB agrees with this recommendation and that
+regular, systematic reviews of cases will be helpful in monitoring for disparate outcomes. The
+OMB also appreciates the audit’s recognition that such a review is complicated because “two
+complaint allegations can appear to be similar but have completely different case details that may
+contribute to different board disciplinary outcomes.”
+January 16, 2024
+OMB Response
+The OMB’s Strategic Plan and its Diversity, Equity, and Inclusion Action Plan both include
+performing a retrospective analysis similar to this recommendation, and the agency looks
+forward to the increased reporting and data analysis capabilities that will be possible with the
+new database. We estimate a full year’s data will be necessary for meaningful analysis; therefore,
+we will spend the time between now and July 1, 2026, determining the key data collection
+points, performing quality assurance on the data, and developing a framework for analysis of the
+data that aims to explore equity and consistency of disciplinary outcomes.
+Recommendation 4
+Develop and implement written policies and procedures for analyzing board disciplinary
+decisions for equity and consistency.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number of
+specific point of contact for
+implementation
+Agree January 1, 2026 Nicole Krishnaswami
+971-673-2700
+Narrative for Recommendation 4: The OMB agrees with this recommendation and will
+develop policies and procedures for conducting the regular, systematic reviews of disciplinary
+cases (Recommendation 3) to evaluate the board’s equity and consistency in disciplinary
+decisions. The OMB maintains robust procedures for completing its work, and the agency will
+ensure that policies and procedures are in place to solidify this analysis as part of our routine
+process improvement activities.
+Finally, the Oregon Medical Board thanks the audit team from the Secretary of State Audits
+Division for their detailed and comprehensive audit of the OMB’s investigative processes and for
+their professionalism and consideration throughout the review. We are extremely proud of the
+dedicated and thorough work of the board members and staff, and we are pleased that the audit
+provides tangible recommendations for continuing to strengthen our agency.
+Please contact Nicole Krishnaswami at Nicole.Krishnaswami@omb.oregon.gov or 971-673-
+2700 with any questions.
+Sincerely,
+Nicole Krishnaswami
+Executive Director
+cc: Christoffer Poulsen, DO, Board Chair 2024
+Erin Cramer, PA-C, Board Member (Chair 2023)
+Olivia Recheked, MPA, Secretary of State Audits Division, Audit Manager
+Stephen Winn, MPP, Secretary of State Audits Division, Principal Auditor
+Christina Nichols, Secretary of State Audits Division, Staff Auditor
+This report is intended to promote the best possible
+management of public resources.
+Copies may be obtained from:
+Oregon Audits Division
+255 Capitol St NE, Suite 180
+Salem OR 97310
+(503) 986-2255
+audits.sos@oregon.gov
+sos.oregon.gov/audits

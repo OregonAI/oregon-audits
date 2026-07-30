@@ -1,0 +1,1134 @@
+Oregon Department of Corrections and
+Oregon Youth Authority
+Youth and Adults in Close-
+Custody Correctional Facilities
+Need Better Language
+Supports
+July 2026
+Report 2026-20
+Secretary of State Tobias Read
+Audits Director Steve Bergmann
+Audit Summary
+Oregon Department of Corrections and Oregon Youth Authority
+Youth and Adults in Close-Custody Correctional Facilities Need
+Better Language Supports
+OBJECTIVE
+To determine the extent to which the Oregon Department of Corrections (DOC) and the Oregon Youth Authority (OYA)
+identify, communicate, and address language needs during intake to prepare people in close-custody correctional facilities
+to participate in programs and services.
+SCOPE
+This audit focuses on the roughly 30-day intake process that takes place at close-custody correctional facilities run by DOC
+and OYA. The audit scope includes requirements and guidelines for both spoken and signed languages, and examines
+each agency’s data collection, communications, and training from 2023 to 2025, and policies, procedures, practices, and
+contracts current as of 2025. The audit scope does not include analysis of language accessibility needs for processes that
+occur prior to or after intake at a DOC or OYA facility. It also does not include a review of language access barriers
+experienced by those in custody who speak English as a primary language.
+People with limited English proficiency (LEP), including people who communicate in signed languages, face
+communication barriers that, when unaddressed, can lead to disparate outcomes in health, safety, and civil rights. DOC
+and OYA are responsible for thousands of people and have state and federal requirements to address language barriers.
+These agencies provide oversight and treatments ranging from education, programming, and medical and mental health
+care with the goals of rehabilitation and reducing recidivism. Public agencies depend on clear, well-documented policies,
+procedures, and plans to carry out their missions effectively and equitably. This is especially true for language access,
+which is not simply a compliance requirement but a fundamental component of delivering fair and accessible public
+services. Ultimately, these agencies can’t meet their missions of increasing public safety and reducing recidivism, comply
+with legal requirements, or maintain the safety of people in custody and staff without effectively addressing language
+barriers.
+DOC and OYA should improve early identification of language needs.  (pg. 03)
+Formal identification of language needs should occur on the first day of intake. DOC and OYA have not made identifying
+language needs a consistent practice. Both agencies need to clarify how staff should communicate with each other about
+the language needs of those in custody.
+Why this audit is important
+What we found
+DOC and OYA should ensure they meet healthcare -specific requirements.  (pg. 06)
+DOC and OYA risk providing a lower quality of healthcare for people with LEP. Both agencies lack reliable data to know
+whether they are meeting language access requirements and needs.
+DOC and OYA need to build  language accessibility into existing structures and operations.  (pg. 08)
+DOC and OYA should designate coordinators that support monitoring and compliance for the full range of spoken and
+signed language needs. Both agencies need a framework to determine which documents to translate into which languages.
+To ensure language needs are identified early in the intake process, DOC and OYA should:
+1. Place visible signage in key locations to support early identification, such as "I Speak" signage and notice of
+available language services.
+2. Document how and when staff should communicate the language needs of people in custody, including key points
+of contact and processes to inform staff outside of multidisciplinary teams.
+To ensure appropriate language supports are provided in healthcare settings, DOC and OYA should:
+3. Train healthcare employees, including Qualified Mental Health Providers, to ensure they comply with language
+access requirements.
+4. Ensure electronic systems capture information about language needs and interpreter usage in healthcare settings.
+This should include mandatory fields that capture the type of language assistance provided (oral or written) during
+each encounter, if any, including the use of certified medical interpreters or alternatives in compliance with ORS
+413.559 and OAR 950-050-0160.
+To embed language accessibility into existing structures and operations, DOC and OYA should:
+5. Document, regularly update, and periodically review policies that include:
+a. How staff should identify the language supports needed for an individual with LEP.
+b. Coordinating, requesting, and providing interpretation and translated materials.
+c. How to identify vital documents for translation in compliance with legal requirements, including rules of conduct
+and healthcare communications for people in custody who read languages other than English or Spanish.
+d. Compliance with state requirements related to the use of interpreters in healthcare settings.
+e. Standards to help control costs and quality when working with contractors and staff who produce translated
+documents or provide interpretation.
+6. Designate staff to monitor whether language needs are identified and met for each person in custody, and their
+family when required, including those who are deaf or hard of hearing and those who speak some English but may
+need an interpreter in more technical or complex settings.
+7. Train staff and managers who work directly with people with LEP how to identify language needs, access and
+provide the necessary language assistance services, work with interpreters, request document translations, and
+track the use of language assistance services.
+What we recommend
+8. Ensure information is captured about language needs and interpreter usage for people in custody, and their family
+when required, in a way that allows staff to find the information, including mandatory fields for LEP status,
+languages spoken or signed, and the preferred language for written communication.
+To improve language accessibility agency-wide, DOC and OYA management should:
+9. Use data about current and changing language access needs, resource allocation, and compliance with relevant
+requirements to make system-wide improvements.
+Both DOC and OYA agreed with all of our recommendations. The responses can be found at the end of the report.
+Agency response
+Read the full audit report at sos.oregon.gov/audits
+Oregon Secretary of State July 2026
+Report 2026-20 page 1
+Introduction
+Oregon is linguistically diverse
+Oregon’s population is increasingly diverse, and nearly one in six Oregonians speak a language other than
+English at home. Language access, or an individual’s ability to access information, services, and resources
+in their preferred language, is included in several federal and state laws. People with LEP, including people
+with disabilities who communicate in signed languages, face communication barriers that, when
+unaddressed, can lead to disparate outcomes in health, safety, and civil rights.
+The State of Oregon addresses language barriers in many ways
+Agencies in the State of Oregon are required to address language barriers through a broad range of
+accommodations. At DOC and OYA, both contractors and certified bilingual staff provide interpretation and
+translation.
+Source: American Translators Association
+People held in state correctional facilities have a range of language needs
+DOC and OYA run close-custody correctional facilities, which are facilities with 24/7 security and
+operations. Combined, there is capacity for over 14,000 people in these facilities statewide. DOC conducts
+intake at Coffee Creek Correctional Facility in Wilsonville. Coffee Creek is the only correctional facility for
+women, and while there are separate facilities for men at Coffee Creek, they may be assigned to one of
+DOC’s 11 other facilities across the state after intake.1
+1 DOC manages 12 close-custody facilities: Coffee Creek Correctional Facility, Columbia River Correctional Institution, Deer Ridge
+Correctional Institution, Eastern Oregon Correctional Institution, Oregon State Correctional Institution, Oregon State Penitentiary,
+Powder River Correctional Facility, Santiam Correctional Institution, South Fork Forest Camp, Snake River Correctional Institution,
+Two Rivers Correctional Institution, and Warner Creek Correctional Facility.
+Although the terms are often used interchangeably, interpretation and translation are
+distinct.
+Interpretation focuses on speech or signed language.
+Interpreters convert one spoken or signed language to another language. Interpreters provide
+real-time assistance in person and remotely via telephone or video call.
+Translation  focuses on text.
+Translators convert writing from one language to another. End products of translation include
+content for webpages, books, forms, and other documents.
+In both cases, translators and interpreters consider tone, intent, dialect, culture, technical terminology,
+and other key factors as they convey information from one language into another.
+Oregon Secretary of State July 2026
+Report 2026-20 page 2
+Coffee Creek Correctional Facility | Source: DOC
+OYA conducts intake for youth at two different facilities. Oak Creek Youth Correctional Facility in Albany is
+for female youth, and they will stay there while mandated to be in a close-custody setting. MacLaren Youth
+Correctional Facility in Woodburn is for male youth, and they may stay there or be transferred to one of
+three other close-custody correctional facilities after intake.2
+There is some overlap in the age groups present in facilities run by both DOC and OYA. OYA is responsible
+for youth who commit offenses between the ages of 12 and 18 but may house people until the age of 25 in
+its facilities. 42% of all youth in OYA custody are in close-custody correctional facilities, with 39% in
+juvenile close-custody facilities run by OYA and 3% in adult DOC facilities. On average, youth in OYA
+facilities spend just over 1 year in OYA custody compared to the 2000+ days for youth in DOC facilities.
+Oak Creek Youth Correctional Facility | Source: OYA
+The population of people in Oregon’s correctional facilities is diverse and continues to change over time.
+Recently, OYA has had a growing number of youth in custody who only speak Spanish, and DOC has had
+adults in custody who speak less common languages like Chuukese. While the agencies’ need to provide
+services in specific languages will continue to change, their need to address language barriers in general
+will not.
+2 OYA manages five close-custody correctional facilities: Eastern Oregon Youth Correctional Facility, MacLaren Youth Correctional
+Facility, Oak Creek Youth Correctional Facility, Rogue Valley Youth Correctional Facility, and Tillamook Youth Correctional Facility.
+Oregon Secretary of State July 2026
+Report 2026-20 page 3
+Audit Results
+DOC and OYA can’t comply with legal requirements, maintain the safety of people in custody and staff, or
+meet their missions of increasing public safety and reducing recidivism without proactively addressing
+language barriers. In close-custody facilities, staff and people in custody need to effectively communicate
+health and safety information. DOC and OYA also need to provide important information to people in
+custody and their families, such as rules of conduct and avenues for communication like phone calls. DOC
+and OYA’s abilities to address language impact the public because these agencies provide important
+treatments and programming that are meant to support rehabilitation and public safety, such as violence
+reduction and prevention, vocational training, substance abuse programming, and more.
+DOC and OYA should improve early identification of language needs
+DOC and OYA have intake processes that include medical and mental health assessments. Clear
+communication is important for the safety of people in custody and staff during this process. Both agencies
+rely on staff to identify, communicate, and meet the language needs of people in custody but there is not a
+clear expectation that this is one of the first things that should happen or what steps staff should take to do
+so. These gaps increase the risk that people will not receive timely language support.
+Formal identification of language needs should occur on the first day of intake
+Both agencies have staff who work across the intake process – ranging from transportation and security
+personnel to parole and probation officers, to mental and medical health staff – who help identify language
+needs. However, neither agency has a clear, documented expectation for staff to identify and record all
+language needs on the first day of intake and some needs may be identified later or not at all.
+DOC and OYA each have a roughly 30-day intake process. Agency staff may receive short notice before
+someone arrives and limited information on their medical and mental health status, primary language,
+English proficiency, or behavioral concerns that may pose risk for staff and other people in custody. DOC
+does not have any forms or intake procedures to identify primary language on the first day of intake. OYA’s
+intake process includes a cultural services questionnaire where youth self-identify their primary language.
+However, English, Spanish, and Russian are the only listed options, and the cultural services questionnaire
+Oregon Secretary of State July 2026
+Report 2026-20 page 4
+does not always take place on the first day of intake. OYA does not appear to have any other intake
+procedures with the explicit expectation that staff identify and document language needs.
+A person’s first day in custody includes medical and mental health screenings. During these screenings,
+clear communication is essential because staff hold important conversations about a person’s health
+status, including current prescriptions and immediate needs. At both agencies, staff arrange interpretation
+for these assessments when language needs are correctly identified in advance. However, if language
+needs are not accurately identified by this stage, DOC and OYA risk processing people into custody
+without proper supports. For example, some people can answer simple questions in English but may still
+need an interpreter for more complex medical or legal information. As a result, some people who need
+interpreters may not be receiving appropriate, consistent, or timely language services.
+The lack of formal expectations and documentation at both agencies increases the likelihood that language
+needs will be missed or recorded inconsistently. However, DOC has a quality control process that OYA
+lacks: agency staff review a sample of files to check for completeness, including the identification of both
+signed and spoken language needs. While the quality control process can identify missing information, it
+does not address problems or gaps that occur earlier in the intake process, and it does not cover all files. If
+language needs are not identified on the first day, staff and providers could make important assessments
+and determinations without proper understanding and communication. DOC and OYA could improve
+communication, provide better care, and better meet state requirements by making language identification
+and documentation a standard part of the first day of intake.
+DOC and OYA have not made identifying language needs a consistent practice
+DOC and OYA have placed the responsibility and the burden on staff to correctly identify language needs
+and coordinate appropriate language services for people in custody without an adequate system in place
+for staff to do so. In the absence of clear processes, roles, and responsibilities, the way people’s language
+needs are identified, documented, and communicated is largely reactive and the process is not
+standardized. Staff may not have the right knowledge and resources to successfully identify a need and
+coordinate appropriate services. Some staff may make incorrect assumptions about a person’s English
+proficiency.
+Although DOC and OYA both offer a bilingual pay differential, neither agency assigns staff according to the
+language needs of people in custody with LEP. This leaves gaps in bilingual staff availability, particularly
+during night shifts. Staff at both agencies frequently rely on bilingual staff to help identify a person’s primary
+language and engage in basic communication, but many bilingual staff shared they lacked the resources,
+training, and support to more effectively perform these roles.
+Glossaries are an important tool for consistency and clarity.
+Glossaries support consistent and standardized use of terminology, especially technical or specialized
+terminology. Agencies use glossaries to support quality, cost control, and clarity for both interpretation
+and translation. For example, OYA developed a Spanish-English glossary with agency-specific
+terminology in partnership with native Spanish-speaking staff. Although OYA’s glossary is a work in
+progress, it is still an important tool that supports the broad range of communications they coordinate in
+the second most frequently encountered language at the agency. OYA shares the glossary with
+contractors and bilingual staff who provide language services and stores it in a central location for staff
+to access. Bilingual staff who provide interpretation at both agencies expressed the desire for such a
+tool, including many OYA staff who were not aware of this resource.
+Oregon Secretary of State July 2026
+Report 2026-20 page 5
+DOC and OYA could demonstrate their commitment to identifying and meeting language needs through
+simple steps like adding “I Speak” signage in key locations that people in custody encounter at the very
+beginning of intake. This is a low-cost, high-impact change that allows people entering custody to identify
+their own primary language right away. DOC’s current process shows why this matters: some staff ask
+people, in English, what country they are from to determine their primary language. This approach is not
+reliable, and it may be confusing for both staff and people in custody and increase the time and effort it
+takes to correctly identify a person’s primary language. Visible signage also sends a clear message that
+language supports are available and increases the likelihood that language needs are correctly identified.
+Both agencies lack public signage about language services in some key areas.
+Source: Department of Homeland Security
+DOC and OYA need to clarify how staff should communicate with each other about the
+language needs of those in custody
+DOC and OYA both rely on multidisciplinary teams to coordinate care and share information about people
+in custody, including their language needs. These teams include staff from different roles to discuss needs
+and plan services including case management and medical and mental health. This approach is a strength
+and creates regular opportunities for staff to share important information. However, not all staff who
+interact with people in custody are part of these teams and there are gaps in communication.
+Neither agency has clear documentation or processes for sharing information about individuals’ language
+needs with staff outside of core teams. Without a clear process, staff use methods such as verbal updates,
+e-mails, and personal notes. This approach is not effective. For example, youth in OYA custody have been
+transferred to new facilities without appropriate language supports in place because staff were not made
+aware of their language needs. DOC and OYA’s informal processes increase the risk that important
+information about language needs is lost or overlooked, and a person who is identified as needing
+language accommodation may repeatedly encounter staff who are unaware of their needs. Language
+barriers can make people in custody feel isolated, which can be particularly damaging for youth mental
+health. The ability to communicate with the people around them can be a first step towards reducing that
+isolation.
+Oregon Secretary of State July 2026
+Report 2026-20 page 6
+DOC and OYA should document and inform staff how to communicate the language needs of people in
+custody, including key points of contact and staff outside of multidisciplinary teams. Staff should also know
+where to look for this information as needed. By formalizing and standardizing processes, DOC and OYA
+can increase the likelihood that language needs are not only correctly identified and properly
+communicated, but also consistently understood and addressed in a timely manner.
+DOC and OYA should ensure they meet healthcare-specific requirements
+Both agencies are required to meet Oregon’s healthcare-related accessibility requirements, including the
+use of interpreters in healthcare settings. DOC and OYA have taken some steps to provide interpretation
+services, but there are gaps in how well the agencies are meeting requirements, including in how each
+agency captures data about the use of certified interpreters or alternatives. This can increase the risk of
+miscommunication and noncompliance, and make it harder for agencies to ensure people in custody
+receive effective medical and mental healthcare.
+DOC and OYA risk providing a lower quality of healthcare for people with LEP
+People with LEP, including those who use signed languages, experience inequities in Oregon’s healthcare
+system like delays, denials, or exclusion from services because of misunderstood or incomplete
+information due to language differences. Under current practices, DOC and OYA not only risk providing a
+lower quality of care for people with LEP, but they may also be out of compliance with state requirements.
+DOC and OYA are obligated to provide healthcare services to people in custody under standards for similar
+care provided in the community. Generally, Oregon healthcare providers must meet language accessibility
+requirements, including:
+• Using certified medical interpreters from OHA’s registry and documenting what steps are taken
+when a certified medical interpreter is not available;3
+• Training staff on healthcare requirements related to language accessibility;
+• Providing free, accurate, and timely access to language services; and
+• Posting public notice of free language services, including auxiliary aids.4
+3 ORS 413.559 and OAR 950-050-0160
+4 Patient Protection and Affordable Care Act, 45 C.F.R. Part 92 (2010)
+A counselor at OYA describes how language barriers increase isolation for youth in custody.
+Staff can call an interpreter, but youth can’t. These guys live here and can’t initiate communication
+when they have needs, or even when they just want some normalcy. That’s harmful to mental health.
+You can’t always schedule an interpreter in advance when a youth needs to see someone. English-
+speaking kids line up at my door to talk to me – this guy can’t. I can’t check in on him and see how he’s
+doing. He can’t express basic things that the others can, things like “I’m hungry,” or “I don’t like this… ”
+He is very limited in how he can do that. He can’t even come to me just to say, “I miss my mom.” There
+should be a way for him to initiate conversation.
+Oregon Secretary of State July 2026
+Report 2026-20 page 7
+Both agencies have gaps in staff training and policies around language access in healthcare settings.
+While both DOC and OYA have contracts for interpreters, their current practices make it unclear whether all
+healthcare-related requirements are being met.5 OYA has a contract that requires interpreters to be on
+Oregon’s certified medical interpreter’s registry, but only documents whether certified medical interpreters
+are used when they are requested through their Office of Inclusion and Intercultural Relations (OIIR).
+OYA’s contract for certified medical interpreters is an important step but it is not supported by clear policies
+or staff training and development. DOC does not have a requirement in its contracts that interpreters must
+be listed on the registry, and it is unclear when certified medical interpreters are used.
+In Oregon, bilingual staff should not act as healthcare interpreters unless they are the medical provider or
+no certified medical interpreter is available. Providers must document when these instances occur,
+including what steps were taken to find a certified medical interpreter and what alternative option was used.
+Both DOC and OYA lack consistent documentation in line with OAR 950-050-0160 for instances when a
+certified medical interpreter is not available, and providers have not been trained on how to capture this
+information.
+Officer station unit | Source: DOC
+With gaps in documentation, training, and practices, it is unclear to what extent DOC and OYA are
+providing accurate and timely language services. There is a statewide shortage of certified medical
+interpreters which impacts both agencies’ ability to provide timely services, particularly in less common
+languages. Interpreters, especially interpreters for less common languages, are not always available on
+demand. There is a risk of lost staff time and delays for people in custody if staff need to reschedule
+medical and mental health assessments when interpreters are not available. While both agencies can
+schedule interpreters in advance, DOC did not communicate this clearly. Some intake staff at DOC were
+not aware they could schedule interpreters in advance and believed this was due to agency contract
+limitations. Clearer communication could help ensure staff know about the resources available to meet
+people’s language needs.
+Neither DOC nor OYA has clear, documented expectations for when staff can and should interpret in
+medical settings, or how documentation requirements should be met. Without clear policies and
+procedures, staff may rely on informal or ad-hoc processes which can vary widely. In comparison, the
+Washington State Department of Corrections has several policies related to language accessibility,
+including a requirement for bilingual staff to be certified for medical settings. DOC and OYA have done
+5 OAR 950-050-0160
+Oregon Secretary of State July 2026
+Report 2026-20 page 8
+limited work to determine whether it would benefit the agencies to support bilingual staff becoming certified
+medical interpreters. This is a missed opportunity that could address gaps at each agency and help build
+capacity to meet language needs, increase the number of available certified medical interpreters, reduce
+reliance on outside vendors, and create avenues for professional development.
+Both agencies lack reliable data to know whether they are meeting language access
+requirements and needs
+One of the biggest risks of DOC and OYA’s current data practices is they cannot effectively report on
+compliance with state requirements around medical interpreters under ORS 413.559 and OAR 950-050-
+0160. DOC intake staff track interpreter use on handwritten logs, but this information is not consistently
+entered in a database where it could be reviewed by facility or agency management. At OYA, OIIR tracks
+interpreter requests made through their office, but does not otherwise capture interpreter use. As a result,
+neither agency can provide a complete picture of how often interpreters are used, whether those
+interpreters are bilingual staff or contractors, and whether they are certified when used in healthcare
+settings. They also cannot provide documentation for compliance with requirements.
+Poor data collection extends beyond compliance with Oregon’s certified medical interpreter requirements.
+While DOC and OYA leadership may expect staff to identify and document language needs as they interact
+with people in custody, this does not appear to be the case. Both agencies’ data systems can capture
+information about primary language and language accommodations, but staff do not always document this
+information accurately or consistently. From 2022-2025, the number of people whose primary language
+was recorded as “Unknown” was over 20% at DOC and almost 50% at OYA.
+When staff do document language, they often use free-text notes which makes it difficult to search for
+people’s language needs and generate reports. DOC and OYA’s current data practices limit leadership’s
+ability to understand language needs at the facility and statewide levels and allocate resources using a
+data-informed approach. With growing state budget constraints, it is important to understand the
+landscape of services and resources to know where changes need to be made. Leadership should be able
+to easily identify the most common languages at each facility, where interpretation and translation demand
+is highest, and where gaps exist. Without better understanding of language needs, DOC and OYA will likely
+have difficulty effectively planning services, assigning resources, improving language accessibility, and
+meeting compliance requirements.
+DOC and OYA need to build language accessibility into existing structures
+and operations
+Both DOC and OYA have taken steps toward providing language access, but important gaps remain.
+Information about the language needs of people in custody is not consistently documented or shared.
+Policies and procedures are incomplete, and neither agency has a strategy to guide consistent,
+systemwide efforts. Responsibility is not clearly assigned to confirm language needs are met, which makes
+it harder to ensure accountability. In addition, key documents like rules of conduct are only available in
+English and Spanish, with no clear process for deciding what forms to translate into other languages or into
+which additional languages. Strengthening these areas would help both agencies be more consistent, safe,
+and effective when it comes to people in custody and their families with LEP.
+Oregon Secretary of State July 2026
+Report 2026-20 page 9
+OYA and DOC should designate both language access and Americans with Disabilities
+Act (ADA) coordinators to support monitoring and compliance
+When “everyone” is responsible for identifying and communicating language needs, the practical result is
+no one is clearly accountable. Neither agency has clearly designated individuals or roles responsible for
+identifying and verifying the full range of spoken and signed language needs are met at each intake facility.
+By making responsibility explicit, agencies can move from fragmented efforts to a coordinated,
+accountable approach to better serve people in custody, their families, and agency staff. Designating
+specific staff or positions to oversee language identification and documentation for both spoken and
+signed languages would create clarity, improve consistency, and ensure language needs are not missed.
+Mural at Oak Creek Youth Correctional Facility | Source: OYA
+A designated ADA coordinator is a requirement under the Americans with Disabilities Act. DOC has
+designated ADA coordinators at each facility and one that oversees compliance across all facilities for
+individuals with disabilities, including those who need sign language interpretation. However, DOC does
+not have comparable positions responsible for spoken languages. This creates an uneven system in which
+one set of needs benefits from centralized oversight, while another relies on informal, decentralized efforts.
+A staff member at Coffee Creek is responsible for sampling files of people in custody to check they are
+complete. She has identified times when people’s spoken language needs have not been identified or
+communicated by the end of the intake process. Without a dedicated language access coordinator, staff
+may be uncertain about processes and expectations, resources may be inconsistently deployed, and gaps
+in service can go unaddressed.
+At OYA, there is no one responsible for overall monitoring and compliance related to language
+accessibility. OYA does not have an ADA coordinator who would be responsible for ensuring effective
+identification and accommodation for youth with disabilities, including those who are deaf or hard of
+hearing. For spoken languages, staff know they can reach out to OIIR to coordinate language services by
+filling out a form for a contracted interpreter and some OIIR staff also provide in-house interpretation and
+translation services. However, one person in OIIR coordinates interpretation requests and it is only part of
+her role. OYA also does not have a quality control process that takes language needs into account. As a
+result, both spoken and signed language needs may go unmet for some youth in custody and their families.
+DOC and OYA need a framework to determine which documents to translate into which
+languages
+People in custody face significant barriers when critical information is unavailable in a form they can
+effectively read, retain, and understand. Currently, DOC and OYA have many documents translated into
+Spanish, the most commonly spoken language after English in most facilities. However, Spanish is not the
+Oregon Secretary of State July 2026
+Report 2026-20 page 10
+only language in use, particularly at DOC where staff have identified a need for Russian and Ukrainian
+materials.
+Oregon’s top five languages after English are currently: Spanish, Vietnamese, Chinese, Russian, and
+Korean. However, the linguistic diversity of Oregon continues to change, and the state’s top 5 languages
+are not necessarily the same as the top languages in cities, counties, facilities, or among populations
+served by a specific agency or program.
+DOC and OYA have identified some high-priority documents for translation into Spanish, such as intake
+forms, assessments, and orientation materials. OYA has been working on making sure materials for youth
+and families, such as some forms, handbooks, and agency policies are in plain language and at
+approximately an 8th-grade reading level. As OYA’s documents get updated into plain language they are
+also re-translated into Spanish, which they hope will lead to increased accessibility for youth and families
+from multiple backgrounds.
+However, neither agency has an effective framework for translation to help address current or future needs.
+They have not clearly identified a set of high-priority documents for translation into languages other than
+Spanish or established a clear methodology for determining which languages should be supported. For
+example, DOC’s intake handbook, which outlines expectations and behavioral standards as well as the
+process to submit grievance forms, is not available in languages other than English and Spanish despite
+demand for written materials in other languages at certain facilities. This limits the ability of people who do
+not speak those languages to fully understand and comply with rules and expectations, and increases the
+risk of disparate outcomes such as disciplinary action.
+Agencies would benefit from establishing a framework for translation that uses demographic and linguistic
+data to determine which languages are most prevalent and where investments would have the greatest
+impact. Without an effective framework, translation efforts are likely to be reactive and lead to gaps in
+health, safety, and civil rights. For agency leadership and state legislators, investing in translation
+infrastructure is a practical step towards reducing communication issues, strengthening accountability and
+transparency, more strategic use of public resources, and ensuring people of all backgrounds have
+meaningful access to critical information.
+Using plain language reduces costs and makes documents more accessible.
+Plain language means using short, simple words that people can easily understand. In Oregon, state
+agencies are required by law (ORS 183.750) to write public materials this way. Plain language matters
+because it helps more people understand information, no matter their reading level or background.
+Jargon and technical terms can be confusing for anyone, in any language. If a document is hard to
+understand in English, it will likely be just as hard—or harder—to understand once it’s translated. Also,
+if agencies don’t tell translators to use plain language or explain who the audience is, translators may
+choose more formal or technical wording, which can make the translated version more difficult to read.
+Oregon Secretary of State July 2026
+Report 2026-20 page 11
+DOC and OYA need to improve their work around language access to more effectively meet their missions
+of supporting rehabilitation to increase public safety. Public agencies depend on clear, well-documented
+policies, procedures, and plans to carry out their missions effectively and equitably. This is especially true
+for language access, which is not simply a compliance requirement but a fundamental component of
+delivering fair and accessible public services. When language access is supported by strong internal
+frameworks, agencies are better positioned to serve diverse communities, reduce legal and operational
+risk, and effectively meet their missions.
+National guidance describes components of an effective framework for translation:
+Identify vital documents
+Agencies should determine which documents are necessary to translate and which ones support
+meaningful access to information. These documents could include:
+• Intake, application, and medical evaluation forms;
+• Written notice of rights as well as orientation and rulebook materials;
+• Documents related to disciplinary action;
+• Documents related to legal proceedings;
+• Consent, complaint, and grievance forms; and
+• Forms for participating in programs, such as counseling and vocational work.
+Establish when documents should be translated into certain languages
+Agencies should use a range of information to decide, such as:
+• The top number of languages spoken within a locale (e.g. facility, agency, state);
+• Population thresholds such as USDOJ’s safe harbor guidance, which is 5% of the population or
+1,000 people, whichever is less; and
+• USDOJ’s 4-factor analysis, which considers: the number or proportion of people with LEP served
+or encountered, the number or proportion of people with LEP in the eligible service population, the
+nature and importance of the program, activity or service, and the resources available and cost to
+the agency.
+Determine who should provide translations and  how it should be done
+Documentation and processes that support translation quality, cost control, and compliance include:
+• Details on who may translate, such as contractors, staff, or volunteers, and their qualifications;
+• Requirements for plain language, machine translation, and website translation;
+• A process for handling written communication with people who speak less common languages;
+• Methods for supporting consistent use of technical terminology, such as a glossary; and
+• Details on how translations should be requested, such as target audience specifications like
+regional language/dialect, reading level, and educational background, as appropriate.
+Oregon Secretary of State July 2026
+Report 2026-20 page 12
+Recommendations
+To ensure language needs are identified early in the intake process, DOC and OYA should:
+1. Place visible signage in key locations to support early identification, such as "I Speak" signage and
+notice of available language services.
+2. Document how and when staff should communicate the language needs of people in custody,
+including key points of contact and processes to inform staff outside of multidisciplinary teams.
+To ensure appropriate language supports are provided in healthcare settings, DOC and OYA should:
+3. Train healthcare employees, including Qualified Mental Health Providers, to ensure they comply
+with language access requirements.
+4. Ensure electronic systems capture information about language needs and interpreter usage in
+healthcare settings. This should include mandatory fields that capture the type of language
+assistance provided (oral or written) during each encounter, if any, including the use of certified
+medical interpreters or alternatives in compliance with ORS 413.559 and OAR 950-050-0160.
+To embed language accessibility into existing structures and operations, DOC and OYA should:
+5. Document, regularly update, and periodically review policies that include:
+a. How staff should identify the language supports needed for an individual with LEP.
+b. Coordinating, requesting, and providing interpretation and translated materials.
+c. How to identify vital documents for translation in compliance with legal requirements,
+including rules of conduct and healthcare communications for people in custody who read
+languages other than English or Spanish.
+d. Compliance with state requirements related to the use of interpreters in healthcare settings.
+e. Standards to help control costs and quality when working with contractors and staff who
+produce translated documents or provide interpretation.
+6. Designate staff to monitor whether language needs are identified and met for each person in
+custody, and their family when required, including those who are deaf or hard of hearing and those
+who speak some English but may need an interpreter in more technical or complex settings.
+7. Train staff and managers who work directly with people with LEP how to identify language needs,
+access and provide the necessary language assistance services, work with interpreters, request
+document translations, and track the use of language assistance services.
+8. Ensure information is captured about language needs and interpreter usage for people in custody,
+and their families when required, in a way that allows staff to find the information, including
+mandatory fields for LEP status, languages spoken or signed, and the preferred language for written
+communication.
+To improve language accessibility agency-wide, DOC and OYA management should:
+9. Use data about current and changing language access needs, resource allocation, and compliance
+with relevant requirements to make system-wide improvements.
+Oregon Secretary of State July 2026
+Report 2026-20 page 13
+Objective, Scope, and Methodology
+OBJECTIVE
+To what extent do the Oregon Department of Corrections and the Oregon Youth Authority identify,
+communicate, and address language needs during intake to prepare people held in close-custody
+correctional facilities to participate in programs and services?
+SCOPE
+This audit focuses on the roughly 30-day intake process that takes place at close-custody correctional
+facilities run by DOC and OYA. The audit scope includes requirements and guidelines for both spoken and
+signed languages, and examines each agency’s data collection, communications, and training from 2023
+to 2025, and policies, procedures, practices, and contracts current as of 2025. The audit scope does not
+include analysis of language accessibility needs for processes that occur prior to or after intake at a DOC or
+OYA facility. It also does not include a review of language access barriers experienced by those in custody
+who speak English as a primary language.
+METHODOLOGY
+To meet our objective, we performed the following procedures:
+• Reviewed current and past state and federal laws and polices related to language access;
+• Reviewed DOC and OYA policies, procedures, and processes related to language access;
+• Interviewed DOC and OYA managers and staff;
+• Observed data systems that capture information about language;
+• Conducted site visits at one DOC and two OYA intake centers; and
+• Reviewed research, reports, and other documents from professional organizations and outside
+groups, such as the Migration Policy Institute and the National Association of State Workforce
+Agencies.
+INTERNAL CONTROL REVIEW
+We determined that the following internal controls were relevant to our audit objective.6
+• Control Environment
+o We interviewed DOC and OYA language access and ADA coordinators, bilingual staff, and
+contract administrators.
+• Risk Assessment
+o We evaluated DOC and OYA strategic plans and information provided by agency
+management.
+6 Auditors relied on standards for internal controls from the U.S. Government Accountability Office, report GAO-14-704G.
+Oregon Secretary of State July 2026
+Report 2026-20 page 14
+• Control activities
+o We evaluated DOC and OYA intake assessment procedures, policies and procedures for
+working with contracted interpreters and translators, bilingual staff testing and support,
+and how language data is captured and used.
+• Information and communication
+o We observed where information is captured about whether language needs are being met
+and the availability of appropriate interpreters.
+• Monitoring activities
+o We evaluated quality control practices and whether information about deficiencies in the
+systems of internal control has been provided to DOC and OYA management.
+We identified deficiencies in each of these areas at both agencies. Deficiencies with these internal controls
+were documented in the results section of this report.
+We conducted this performance audit in accordance with generally accepted government auditing
+standards. Those standards require that we plan and perform the audit to obtain sufficient, appropriate
+evidence to provide a reasonable basis for our findings and conclusions based on our audit objectives. We
+believe that the evidence obtained provides a reasonable basis for our findings and conclusions based on
+our audit objectives.
+We sincerely appreciate the courtesies and cooperation extended by officials and employees of DOC and
+OYA during the course of this audit.
+ABOUT THE SECRETARY OF STATE AUDITS DIVISION
+The Oregon Constitution provides that the Secretary of State shall be, by virtue of the office, Auditor of
+Public Accounts. The Audits Division performs this duty. The division reports to the Secretary of State and
+is independent of other agencies within the Executive, Legislative, and Judicial branches of Oregon
+government. The Secretary of State has constitutional authority to audit all state officers, agencies, boards,
+and commissions.
+Audit team
+Andrew Love, CFE, Audit Manager
+Krystine McCants, M. Econ, CIA, Principal Auditor
+Dorian Pacheco, MPA, Senior Auditor
+Tina Kotek, Governor
+Oregon Department of Corrections
+3723 Fairview Industrial Drive SE 200
+Salem, OR 97302
+Voice: (503) 945-9090
+Oregon
+July 23, 2026
+Steve Bergmann, Director
+Secretary of State, Audits Division
+255 Capitol St. NE, Suite 180
+Salem, OR 97310
+Dear Mr. Bergmann,
+This letter provides a written response to the Audits Division’s final draft audit report titled “Youth and
+Adults in Close-Custody Correctional Facilities Need Better Language Supports.”
+For as long as the Oregon Department of Corrections (DOC) has been in existence, individuals with limited
+English proficiency have been sentenced by the courts to our custody. Although they make up a very small
+percentage of the overall incarcerated population, their ability to complete assessments, understand
+processes, and participate in programs are no less important. Because individuals sentenced to DOC
+custody live, work, and learn within the institutions, the ability to communicate is essential. For many
+years DOC has relied on both certified staff and private agencies for interpreters and translators.
+We appreciate the Secretary of State’s comprehensive review and agree with all nine recommendations
+aimed at strengthening language access for adults in custody. DOC has already begun implementing
+several improvements, including enhanced signage, clearer communication processes, expanded
+training, policy development, and system updates to ensure language needs are consistently identified,
+documented, and addressed across the agency. The department is committed to completing the
+remaining work within the specified timelines and advancing a coordinated, system-wide approach that
+supports equitable access to services for individuals with limited English proficiency, those who are deaf
+or hard of hearing, and others requiring language assistance.
+Below is our detailed response to each recommendation in the audit.
+RECOMMENDATION 1
+Place visible signage in key locations to support early identification, such as "I Speak" signage and
+notice of available language services.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number of specific
+point of contact for implementation
+Agree
+01/31/27
+Shawn Cost-Streety
+503-570-2267
+Narrative for Recommendation 1
+In May 2026, the Department of Corrections installed “I Speak” signage in key locations within the
+department’s Intake Center located at the Coffee Creek Correctional Facility (CCCF), where all adults in
+custody (AICs) are processed into the state’s correctional system following sentencing. Signs have also
+been installed at the two nurses’ stations where AICs undergo medical and mental health testing upon
+arrival. DOC is also in the process of installing “I Speak” signage in the CCCF medical clinic and locations
+where administrative hearings are held. Additionally, staff instructions for accessing a language line are
+being drafted and placed next to “I Speak” signage.
+RECOMMENDATION 2
+Document how and when staff should communicate the language needs of people in custody,
+including key points of contact and processes to inform staff outside of multidisciplinary teams.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number of specific
+point of contact for implementation
+Agree
+08/31/2027
+Shawn Cost-Streety
+(503) 570-2267
+Narrative for Recommendation 2
+DOC staff have historically communicated the language needs, when other than English, of those in
+custody. However, the methods and expectations of communication have not been codified in a formal
+procedural format. The work of drafting such a document to ensure consistency in how and when to
+communicate language needs of AICs is underway.
+RECOMMENDATION 3
+Train healthcare employees, including Qualified Mental Health Providers, to ensure they comply with
+language access requirements.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number of specific
+point of contact for implementation
+Agree
+06/30/2027
+Kevin Bovenkamp
+(971) 209-6721
+Narrative for Recommendation 3
+The Health Services (HS) Division will develop and implement an online training module for all HS staff on
+the importance of, and their responsibility for, complying with language access requirements. The training
+will be mandatory for all staff to complete by 6/30/27. Thereafter, all newly hired employees will complete
+the training as part of their initial orientation requirements.
+RECOMMENDATION 4
+Ensure electronic systems capture information about language needs and interpreter usage in
+healthcare settings. This should include mandatory fields that capture the type of language assistance
+provided (oral or written) during each encounter, if any, including the use of certified medical
+interpreters or alternatives in compliance with ORS 413.559 and OAR 950-050-0160.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number of specific
+point of contact for implementation
+Agree
+04/30/2027 Kevin Bovenkamp
+(971) 209-6721
+Narrative for Recommendation 4
+The Health Services Division will complete the implementation of the Electronic Health Records (EHR)
+system in the coming months, and a data field exists in the EHR system for staff to capture language
+access information for AICs with limited English proficiency (LEP). While the EHR system was not designed
+for the use of this field to be mandatory, Health Services policy will be updated to require it to be utilized.
+The EHR system will have the information clearly visible to all Health Services staff who are working with
+AICs.
+RECOMMENDATION 5
+Document, regularly update, and periodically review policies that include:
+a. How staff should identify the language supports needed for an individual with LEP.
+b. Coordinating, requesting, and providing interpretation and translated materials.
+c. How to identify vital documents for translation in compliance with legal requirements,
+including rules of conduct and healthcare communications for people in custody who read
+languages other than English or Spanish.
+d. Compliance with state requirements related to the use of interpreters in healthcare settings.
+e. Standards to help control costs and quality when working with contractors and staff who
+produce translated documents or provide interpretation.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number of specific
+point of contact for implementation
+Agree 08/2027
+Michelle Axtell
+(971) 990-6663
+Narrative for Recommendation 5
+DOC will develop and maintain policies outlining how staff identify language needs for AICs with limited
+English proficiency, coordinate and provide interpretation and translation services, determine which vital
+documents require translation for adults in custody who read languages other than English or Spanish, and
+ensure compliance with healthcare interpreter requirements. DOC will apply consistent cost and quality
+control standards when working with contractors or staff who provide language services.
+RECOMMENDATION 6
+Designate staff to monitor whether language needs are identified and met for each person in custody,
+and their family when required, including those who are deaf or hard of hearing and those who speak
+some English but may need an interpreter in more technical or complex settings.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number of specific
+point of contact for implementation
+Agree
+08/31/2027
+Ryan Dwyer
+(971) 446-9328
+Narrative for Recommendation 6
+The department has a robust process to monitor language needs of AICs who are deaf or hard of hearing
+and their family members when required. During the intake screening, a designator is entered into the
+state's central database that staff use to track, manage, and process records for all AICs (DOC400). This
+system tracks AICs who use American Sign Language (ASL) to communicate. As deaf or hard of hearing
+AICs move between institutions, email notifications are sent to the AIC Americans with Disabilities Act
+(ADA) coordinator at the receiving facility to facilitate the presence of an ASL interpreter as needed. Each
+facility has a laptop with an ASL program installed and available at all times.  Annually, the Statewide AIC
+ADA Coordinator provides the opportunity for all deaf and hard of hearing AICs to meet in person to ensure
+they are provided with equal access to the department’s programs, services, and activities and ensure that
+their family members have their language needs met, if required.
+As described above in Recommendations 2 and 5, the department will develop and maintain policies
+outlining how staff identify language needs for AICs (and their families, when required) that have limited
+English proficiency, coordinate and provide interpretation and translation services, determine which vital
+documents require translation for adults in custody who read languages other than English or Spanish, and
+ensure compliance with healthcare interpreter requirements. DOC will also apply consistent cost and
+quality control standards when working with contractors or staff who provide language services. DOC will
+identify appropriate staff to monitor and coordinate the limited English proficiency population statewide.
+RECOMMENDATION 7
+Train staff and managers who work directly with people with LEP how to identify language needs, access
+and provide the necessary language assistance services, work with interpreters, request document
+translations, and track the use of language assistance services.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number of specific
+point of contact for implementation
+Agree
+06/30/2027
+Gail Levario
+(971) 600-6131
+Narrative for Recommendation 7
+DOC will develop and implement an online training module to ensure all staff who work directly with the
+AIC population are appropriately trained in how to identify language needs, access necessary language
+assistance services, work with certified staff interpreters, request document translation, and track the use
+of language services. The training will be mandatory for all staff to complete by 6/30/27. Going forward, all
+newly hired employees will complete the training as part of their initial orientation requirements.
+RECOMMENDATION 8
+Ensure information is captured about language needs and interpreter usage for people in custody, and
+their families when required, in a way that allows staff to find the information, including mandatory fields
+for LEP status, languages spoken or signed, and the preferred language for written communication.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number of specific point
+of contact for implementation
+Agree
+08/31/2027
+Shawn Cost-Streety
+(503) 570-2267
+Narrative for Recommendation 8
+DOC staff have historically captured language needs of AICs (and their families, when required) that have
+LEP within various electronic systems. However, this effort has been limited by systems functionality
+making it difficult to ensure all necessary staff have access to needed information. Accurate, complete,
+and efficient capture of non-English language needs - including mandatory fields for LEP status, languages
+spoken or signed, and preferred language for written communication - will require system programming of
+the DOC400.
+As noted in the Oregon Secretary of State’s July 22, 2026, audit report, “DOC’s ability to meet its mission is
+limited by obsolete IT systems.” Due to these systemic issues, we are required to go through a process
+with our IT Department to ensure this added functionality will not cause instability.
+RECOMMENDATION 9
+Use data about current and changing language access needs, resource allocation, and compliance with
+relevant requirements to make system-wide improvements.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number of specific point
+of contact for implementation
+Agree
+08/31/2027
+Ryan Dwyer
+(971) 446-9328
+Narrative for Recommendation 9
+DOC will gather and review data related to language access needs and resource allocation. This
+information will be used to perform updates and adjustments across DOC systems, ensuring ongoing
+compliance with applicable standards and requirements.
+Please contact my Chief of Staff, Jennifer Black, at (503) 569-3318 with any questions.
+Sincerely,
+Mike Reese
+Director
+Oregon Youth Authority
+Office of the Director
+530 Center Street NE, Suite 500
+Salem, OR 97301-3765
+Phone: 503-373-7205
+Fax: 503-373-7622
+www.oregon.gov/OYA
+Level 2 - Limited
+July 24, 2026
+Steve Bergmann, Director
+Secretary of State, Audits Division
+255 Capitol St. NE, Suite 180
+Salem, OR 97310
+Dear Mr. Bergmann,
+This letter provides a written response to the Audits Division’s final draft audit report
+titled “Youth and Adults in Close-Custody Correctional Facilities Need Better Language
+Supports.”
+Below is our detailed response to each recommendation in the audit.
+RECOMMENDATION 1
+Place visible signage in key locations to support early identification, such as "I Speak"
+signage and notice of available language services.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of
+contact for
+implementation
+Agree
+September 1, 2026
+Denessa Martin
+503-801-2074
+Narrative for Recommendation 1
+OYA agrees with this recommendation. By September 1, 2026, OYA will post visible “I Speak”
+signage and notices describing the availability of language-assistance services in youth intake
+areas at the Oak Creek and MacLaren Youth Correctional Facilities. OYA will identify the specific
+locations where signage is needed and establish responsibility for ensuring
+it remains visible, accurate, and available.
+RECOMMENDATION 2
+Document how and when staff should communicate the language needs of people in
+custody, including key points of contact and processes to inform staff outside of
+multidisciplinary teams.
+Level 2 - Limited
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree
+October 31, 2026
+Shannon Myrick
+503-302-7207
+Narrative for Recommendation 2
+OYA will develop and document a standardized process for communicating the language-access
+needs of youth and, when required, their families.
+OYA will review and update the Cultural Services Questionnaire used during intake to ensure it
+captures spoken and signed languages, including American Sign Language, as well as
+interpretation and translation needs. Language information will also be reviewed through the
+Risk/Needs Assessment process at least every 90 days and whenever staff become aware of a
+new or changing need.
+Case Coordinators and Juvenile Parole and Probation Officers (JPPOs) will serve as the primary
+points of contact for language-access information concerning youth and their families. The
+documented process will identify:
+• Where language-access information must be recorded and how staff
+can locate it;
+• When Case Coordinators, JPPOs, and other staff must document or communicate
+new or changing needs;
+• Key points when language needs must be reviewed or shared, including intake,
+case planning, treatment, progress review team meetings, and transfers between
+facilities or programs; and
+• How relevant staff outside multidisciplinary teams will be informed when they are
+responsible for providing services to a youth or family with identified language-
+access needs.
+Case Coordinators and JPPOs will be responsible for ensuring that documented language needs
+are communicated to relevant service providers. Applicable staff will be trained on the process
+and their responsibilities.
+RECOMMENDATION 3
+Train healthcare employees, including Qualified Mental Health Providers, to ensure
+they comply with language access requirements.
+Level 2 - Limited
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree
+December 31, 2026  Dana Hargunani
+971-701-1721
+Narrative for Recommendation 3
+OYA Health Services, in collaboration with Development Services and Facility Services, will
+develop and assign Workday-based training to healthcare employees, including Qualified
+Mental Health Providers.
+The training will address:
+• Healthcare providers’ language-access obligations under ORS 413.559 and OAR
+950-050-0160;
+• How to identify when a youth requires language assistance;
+• How to access and work effectively with qualified or certified healthcare
+interpreters;
+• Appropriate alternatives when a certified healthcare interpreter is unavailable,
+as permitted by applicable requirements; and
+• Requirements for documenting language-assistance services provided during
+healthcare encounters.
+OYA will track completion through Workday and establish expectations for training newly hired
+healthcare employees and providing updates when applicable requirements or agency
+procedures change.
+RECOMMENDATION 4
+Ensure electronic systems capture information about language needs and interpreter
+usage in healthcare settings. This should include mandatory fields that capture the type
+of language assistance provided (oral or written) during each encounter, if any, including
+the use of certified medical interpreters or alternatives in compliance with ORS 413.559
+and OAR 950-050-0160.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree
+January 31, 2027  Dana Hargunani
+971-701-1721
+Narrative for Recommendation 4
+OYA Health Services will collaborate with Information Technology Services and OCHIN, OYA’s
+contracted electronic health record vendor, to develop, test, and implement mandatory fields
+Level 2 - Limited
+within OYA’s electronic health record. OYA Health Services will collaborate with Information
+Technology Services and Oregon Community Health Information Network (OCHIN), OYA’s
+contracted electronic health record vendor, to develop, test, and implement mandatory fields
+within OYA’s electronic health record.
+The fields will document, for each healthcare encounter:
+• The youth’s identified language-access needs;
+• Whether oral or written language assistance was needed and provided;
+• Whether a healthcare interpreter was used;
+• Whether the interpreter met applicable certification or qualification requirements;
+and
+• Any alternative used when a certified healthcare interpreter was unavailable,
+consistent with ORS 413.559 and OAR 950-050-0160.
+OYA will configure the information so it can be reviewed to monitor compliance, identify gaps,
+and inform corrective action. Health Services will establish related documentation expectations
+and communicate them to applicable healthcare staff.
+Implementation will be coordinated with OCHIN and supported by OYA’s Electronic Health
+Records Analyst. OYA is actively recruiting to fill that vacant position and will manage the work
+through Health Services and Information Technology Services during the recruitment process.
+RECOMMENDATION 5
+Document, regularly update, and periodically review policies that include:
+a. How staff should identify the language supports needed for an individual
+with LEP.
+b. Coordinating, requesting, and providing interpretation and translated
+materials.
+c. How to identify vital documents for translation in compliance with legal
+requirements, including rules of conduct and healthcare communications for
+people in custody who read languages other than English or Spanish.
+d. Compliance with state requirements related to the use of interpreters in
+healthcare settings.
+e. Standards to help control costs and quality when working with
+contractors and staff who produce translated documents or provide
+interpretation.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree  October 31, 2026
+Winifred Skinner
+(971) 304-4793
+Level 2 - Limited
+Narrative for Recommendation 5
+OYA maintains an established policy-management system requiring every agency policy to be
+reviewed at least once every two years. Compliance with this review cycle has been
+consistently maintained since 2011 and is monitored quarterly by OYA’s multidisciplinary Policy
+Committee.
+Through this established process, OYA will review the policies and related procedures governing
+language access and make revisions necessary to address:
+• How staff identify an individual’s language-support needs;
+• How interpretation and translated materials are coordinated, requested, and
+provided;
+• How OYA identifies vital documents and determines the languages into which
+they should be translated;
+• Compliance with state requirements governing interpreters in healthcare settings;
+and
+• Quality and cost-management standards for services provided by contractors and
+agency staff.
+As part of the initial review, OYA will identify any policy gaps requiring action before the
+regularly scheduled review date and prioritize interim revisions when necessary to address legal,
+healthcare, safety, or operational risks. Once reviewed and updated, the applicable policies will
+remain subject to OYA’s established two-year review cycle and quarterly monitoring by the
+Policy Committee.
+RECOMMENDATION 6
+Designate staff to monitor whether language needs are identified and met for each
+person in custody, and their family when required, including those who are deaf or hard
+of hearing and those who speak some English but may need an interpreter in more
+technical or complex settings.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree  August 31, 2026  Sandra Santos
+503 779 3938
+Narrative for Recommendation 6
+Level 2 - Limited
+Case Coordinators and Juvenile Parole and Probation Officers will be responsible for monitoring
+whether each youth’s identified language-access needs, and, when required, the needs of the
+youth’s family, are documented, communicated, and addressed throughout the youth’s case.
+Language needs will be reviewed through the Risk/Needs Assessment process at least every 90
+days and whenever staff become aware of a new or changing need. This includes youth who are
+deaf or hard of hearing and youth who may communicate conversationally in English but require
+interpretation for healthcare, treatment, legal, or other technical and complex information.
+Facility and program staff remain responsible for arranging and documenting appropriate
+language assistance when providing services. OIIR will support access to interpretation and
+translation resources and will use its IMPACT review to monitor broader service patterns,
+implementation gaps, and systemwide needs.
+RECOMMENDATION 7
+Train staff and managers who work directly with people with LEP how
+to identify language needs, access and provide the necessary
+language assistance services, work with interpreters, request document translations, and
+track the use of language assistance services.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree
+December 31, 2026
+Shannon Myrick
+503-302-7207
+Narrative for Recommendation 7
+Development Services, in partnership with the OYA Training Academy, OIIR, and
+Communications, will develop and assign Workday-based training to staff and managers whose
+responsibilities include providing or overseeing direct services to youth and families with
+language-access needs.
+The training will address:
+• How to identify spoken and signed language needs;
+• How to access interpretation and translation services;
+• How to work effectively with interpreters;
+• How to request translation of documents;
+• How and where to document language-access needs and services provided; and
+• The responsibilities of Case Coordinators, JPPOs, service providers, and managers
+under OYA’s language-access procedures.
+Level 2 - Limited
+OYA will track training completion through Workday. The training will be incorporated into
+onboarding or role-specific training for newly hired or newly assigned employees, and it will be
+updated when applicable legal requirements, agency policies, or language-access procedures
+change.
+Until structured electronic fields are implemented, staff will document the use of language-
+assistance services through OYA’s designated interim process, including JJIS case notes when
+applicable.
+RECOMMENDATION 8
+Ensure information is captured about language needs and interpreter usage for people
+in custody, and their families when required, in a way that allows staff to find the
+information, including mandatory fields for LEP status, languages spoken or signed, and
+the preferred language for written communication.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree
+December 31, 2026  Griselda Solano
+Salinas (971)304-5751
+Ardell Bailey
+(503)551-9243
+Narrative for Recommendation 8
+OYA will pilot a standardized language-access questionnaire at the Oak Creek and MacLaren
+Youth Correctional Facilities. The questionnaire will identify each youth’s languages spoken or
+signed, interpretation and translation needs, preferred language for written communication,
+and, when required, the language-access needs of the youth’s family.
+By October 31, 2026, OYA will evaluate the pilot, make necessary revisions, and implement a
+standardized interim process for documenting and communicating language-access
+information. The process will establish staff responsibilities and identify where the information
+must be recorded so it is readily available to staff responsible for the youth’s care, supervision,
+treatment, education, and case planning.
+OYA will also work with JJIS, OIIR, Health Services, and Information Technology Services to
+define and implement mandatory, searchable electronic fields that consistently capture
+Level 2 - Limited
+language needs and interpreter usage. Until those enhancements are operational, OYA will use
+the standardized questionnaire, designated JJIS documentation, and existing interpretation-
+request processes to capture and track the information.
+Implementation progress and identified gaps will be monitored through OIIR’s IMPACT review.
+RECOMMENDATION 9
+Use data about current and changing language access needs, resource allocation, and
+compliance with relevant requirements to make system-wide improvements.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree
+October 31, 2026  Griselda Solano Salinas
+(971)304-5751 and Ardell
+Bailey (503)551-9243
+Narrative for Recommendation 9
+OYA currently collects data from interpretation request forms submitted by staff and healthcare
+providers. These data allow the agency to track the volume of requests, languages requested,
+service locations, and whether services are provided to youth or their families.
+OYA will strengthen its analysis and use of language-access data through the Office of Inclusion
+and Intercultural Relations’ (OIIR) IMPACT review (monthly performance management). The
+review will provide ongoing leadership oversight of language-access needs, service utilization,
+resource allocation, implementation progress, and compliance with applicable requirements. It
+will also help OYA identify service gaps, emerging language needs, and differences across
+facilities and programs.
+Findings from the IMPACT review will inform decisions regarding interpreter and translation
+services, contract capacity, staff training, translated materials, technology, and other language-
+access resources. OIIR will identify needed corrective actions, responsible owners, and timelines
+and will report on progress through subsequent IMPACT reviews.
+OYA is also expanding access to interpretation services. The agency currently contracts with
+English2Spanish, Oregon Certified Interpreters Network, Inc., and Linguava to provide virtual and
+in-person interpretation statewide. Language Link provides on-demand telephonic
+interpretation. OYA is also working with Professional Interpreters, Inc. and OYA’s Information
+Technology team to implement a mobile application that would give staff more immediate
+access to interpretation services. Implementation of the application is targeted for October
+2026.
+As JJIS and other agency information systems are enhanced, OYA will work to incorporate
+available language-access information into this monitoring and decision-making process. This
+Level 2 - Limited
+combination of improved data collection and ongoing IMPACT oversight will support data-
+informed, systemwide improvements.
+Please contact Mike Tessean at 971-707-3722 with any questions.
+Sincerely,
+Mike Tessean Director, OYA
+Level 3 - Restricted
+Secretary of State Tobias Read
+Audits Director Steve Bergmann
+Oregon Audits Division
+255 Capitol St NE, Suite 180
+Salem OR 97310
+(503) 986-2255
+audits.sos@sos.oregon.gov
+sos.oregon.gov/audits

@@ -1,0 +1,2036 @@
+Advisory Report
+ODOT Worked Quickly to Oversee the Largest
+Wildfire Debris Removal Operation in State History
+October 2021
+Report 2021-30
+Source: ODOT
+On August 20, 2020, Oregon Governor Kate Brown declared a statewide state of
+emergency due to the imminent threat of wildfire. Within weeks of the declaration, a
+significant windstorm triggered a series of catastrophic wildfires, known generally as
+the Labor Day fires, that burned across significant portions of the state.
+This was the biggest and most expensive emergency disaster event in Oregon
+history, and the state had never before undertaken such a widespread and complex
+recovery effort. The wildfires burned over 1.2 million acres and affected multiple
+counties. Eight of these counties were approved for Federal Emergency
+Management Agency (FEMA) Public Assistance to help with debris removal. The cost
+alone for the cleanup of household hazardous waste, hazardous trees, ash, and
+other debris to safely access and rebuild homes and communities was initially
+estimated at $622 million. Work is estimated to be completed in Summer 2022.
+A newly formed Oregon Debris Management Task Force coordinated debris removal,
+and Oregon Department of Transportation (ODOT) led the removal operations. This
+was the first time ODOT conducted major debris removal operations, a key part of
+the state’s wildfire recovery efforts.
+At the request of ODOT, we performed a limited, review of its hazardous tree
+removal operations due to public concerns over the extent of trees tagged and cut
+down in the fire corridors.
+This report was produced to provide real-time information on recovery operations
+underway. It has undergone the same quality assurance process as audit reports
+from the Oregon Audits Division.
+Continued on next page
+By the Numbers
+Oregon’s wildfire recovery
+operation
+state highway miles to clear
+of hazards
+93,259
+damaged trees inspected as
+of August 19, 2021
+62,042
+trees cut as of August 19,
+2021
+3,080
+lots enrolled for private
+property cleanup as of
+September 29, 2021
+contractors and consultants
+working on the cleanup in
+August 2021
+67%
+of total contract employees
+were Oregonians in August
+2021
+Advisory Report Highlights
+ODOT Worked Quickly to Oversee the Largest Wildfire Debris Removal
+Operation in State History
+Key Areas
+This advisory report answers five questions about the ODOT wildfire debris removal work underway across the state.
+Question 1: Who cut down trees due to the 2020 wildfires on or near highway corridors?
+Answer: ODOT and many other entities were involved in cutting down trees in the fire areas. During emergency
+response, tree cutting crews worked to clear imminent tree hazards, prevent fires from spreading, and open roadways.
+During recovery, with different landowners and easements along Oregon’s highway corridors, there were multiple public
+and private parties who cut down damaged trees. ODOT has been removing trees around the highways to ensure the
+safety of the corridors as well as removing trees to facilitate recovery and rebuilding. (pg. 7)
+Question 2: How was ODOT’s criteria for assessing hazardous trees determined, what were the criteria factors,
+and were any changes made to it during recovery efforts?
+Answer: FEMA has insufficient criteria for what constitutes a hazardous tree from a wildfire event. ODOT’s contractor
+developed hazardous tree removal criteria that used industry and Forest Service publications. ODOT’s criteria builds on
+FEMA’s criteria and additionally considers factors such as a tree’s ability to strike the road, the tree species, fire
+damage to the tree structure, and the likelihood of the tree’s survival. The criteria was revised several times after
+implementation in the field. (pg. 20)
+Question 3: What efforts has ODOT made to preserve and consider ecologically sensitive areas and cultural
+resources when removing hazardous trees?
+Answer: ODOT worked with various stakeholders and incorporated multiple, complex federal and state regulations to
+create an Environmental Protection Plan (EPP). The EPP is the guide used by ODOT, consultants, and contractors to
+address environmental needs while removing hazardous trees. (pg. 27)
+Question 4: What happens to the trees that ODOT had cut on or near highway corridors?
+Answer: ODOT has stored cut trees from its removal operations in the corridors since operations started as the trees
+are the property of the landowner. Much of the trees cut were from Forest Service lands. Under a newly developed
+process, ODOT will sell hazardous trees removed from federal land. (pg. 34)
+Question 5: What mechanisms are in place for evaluating the recovery efforts? (e.g., after action reports for
+continuous improvement mechanisms and capturing lessons learned)
+Answer: The Governor’s Office completed an after action review of emergency response efforts but there is no
+solidified plan for a state-level review of the recovery effort. However, ODOT intends to hire a consultant to conduct
+an after action review on debris removal operations, one part of the state’s recovery efforts. ODOT management
+recognizes there are areas for improvement, and we identified some additional areas that should be considered in
+future planning efforts. (pg. 37)
+ODOT Response
+ODOT agrees with the opportunities listed in the report for continuous improvement. A reply from ODOT is at the end
+of this advisory report. We greatly appreciate the agency’s collaboration and assistance on this review.
+Oregon Secretary of State | Report 2021-30 | October 2021 | page 1
+Introduction
+Wildfires are one of Oregon’s natural hazards that pose a significant threat to
+many Oregon communities. The 2020 Labor Day wildfires burned more than
+1.2 million acres spanning many counties, destroyed more than 5,000 homes
+and businesses, and killed 9 people. The 2020 wildfires were the most
+extreme fires the state has ever experienced in severity and expanse.
+Labor Day fires burned across significant portions of the state
+On August 20, 2020, Oregon Governor Kate Brown declared a statewide state
+of emergency due to the imminent threat of wildfire. Within weeks of the
+declaration, a significant windstorm triggered a series of catastrophic
+wildfires, known generally as the Labor Day fires, that burned across
+significant portions of the state. The Oregon Department of Forestry (ODF)
+describes the Labor Day event as “unparalleled in Oregon’s history.” On the
+morning of September 7, atop an expanding drought and historically low fuel
+moisture and humidity, the National Weather Service issued a red flag warning
+that conditions were ideal for wildfires to start and spread rapidly. On the
+afternoon of September 7, a strong cold front arrived, bringing east-
+northeast winds, which had wind gusts over 106 mph recorded. ODF reported
+this was the strongest three-day wind event during the fire season since at
+least 1950. During this period, both the national and northwest fire
+preparedness levels were at their highest, meaning major incidents had the potential to exhaust all
+agency fire resources. Under these conditions, a number of fires erupted and quickly grew out of
+control. Within 24 hours, there were 12 counties battling extensive fires. Five fires spread west and
+became among the top 20 largest wildfires in Oregon’s history. Five fires — Archie Creek, Beachie
+Creek, Holiday Farm, Lionshead, and Riverside — each grew into megafires (100,000+ acres).
+Over 500,000 Oregonians were placed under some level of evacuation notice as the fires threatened
+and crossed the wildland-urban boundaries. Smoke from the wildfires blanketed much of the state.
+Wildfire smoke emits a wide variety of pollutants into the air, and Oregonians experienced some of the
+worst air quality ever recorded in the state in 2020. Oregon air reached unhealthy, very unhealthy, or
+hazardous levels across the state, with all but one city having never previously experienced hazardous
+air quality. Figure 1 depicts some major events from the state’s response to the 2020 Labor Day fires.
+State Press Conference on
+September 9, 2020:
+“This is truly an all-hands-on-deck
+moment for Oregon... Hundreds of
+homes have been lost and we
+continue to carry out mass
+evacuations across the entire
+state.”
+- Governor Brown
+“… this is a statewide event.
+Absolutely no area in the state is
+free from fire.
+”
+- Doug Grafe, ODF Chief of Fire
+Protection
+“… at this time in western Oregon,
+in fact, anywhere in the state, all
+individuals should be prepared [to
+leave] at a moment’s notice.”
+- Mariana Ruiz-Temple, OSFM
+Deputy Chief State Fire Marshal
+Source: Oregon State Police Source: ODOT
+Oregon Secretary of State | Report 2021-30 | October 2021 | page 2
+Figure 1: Oregon’s emergency response to the Labor Day wildfires
+AUGUST 20, 2020
+Oregon Governor Kate Brown declares a statewide state
+of emergency due to the imminent threat of wildfire.
+SEPTEMBER 7, 2020
+Firefighters respond to the fires and ODOT aiding in
+response.
+SEPTEMBER 7, 2020, to SEPTEMBER 14, 2020
+Governor invokes Emergency Conflagration Act 15 times
+to mobilize resources to protect life and property.
+SEPT. 7
+Beachie Creek @ 10:15 PM
+Lionshead @ 10:15 PM
+SEPT. 8
+2-4-2 @ 1:00 AM
+Holiday Farm @ 2:33 AM
+Powerline @ 1:21 PM
+Pike Road @ 4:00 PM
+North Cascades @ 4:19 PM
+Almeda@ 6:35 PM
+South Obenchain @ 6:35PM
+Riverside @ 8:35 PM
+SEPT. 9
+Chehalem @ 2:13 AM
+Slater @ 10:00 AM
+SEPT. 10
+Archie Creek @ 9:45 PM
+SEPT. 14
+Brattain @ 3:25 PM
+SEPTEMBER 8, 2020
+State Emergency Coordination Center activates to
+support coordination and response efforts.
+Beachie and Lionshead fires merge.
+SEPTEMBER 14, 2020
+Oregon declares a state of emergency.
+SEPTEMBER 15, 2020
+Presidential disaster declaration.
+SEPTEMBER 17, 2020
+Statewide recovery efforts begin. OEM, ODOT, and DEQ
+directors meet to discuss debris.
+SEPTEMBER 19, 2020
+Meeting with OEM, ODOT, DEQ, FEMA, Army Corps, and
+AC Disaster Consulting to discuss debris and start the
+Debris Management Task Force (DMTF).
+SEPTEMBER 19, 2020, to SEPTEMBER 29, 2020
+A lot of coordination and work by the DMTF, building
+knowledge of debris, coordinating with counties
+developing a right of entry process for distributing and
+collecting, placing AC Disaster Consulting staff in each of
+the counties, and working through policy issues (funding,
+contracting authority, etc.).
+SEPTEMBER 29, 2020
+DMTF conduct webinars with counties.
+SEPTEMBER 30, 2020
+Counties affirm state management of debris removal
+operations.
+OCTOBER 4, 2020
+FEMA Administrator meets with Governor Brown and
+tours fire areas.
+OCTOBER 5, 2020
+FEMA Public Assistance Category A is granted for debris
+removal. The Governor’s Wildfire Economic Recovery
+Council convenes.
+OCTOBER 12, 2020
+The Wildfire Recovery Director is appointed.
+OCTOBER 13, 2020
+Wildfire Economic Recovery Team gives presentation
+about debris removal and the “state managed, locally
+coordinated” model.
+OCTOBER 23, 2020
+The Legislative Emergency Board approves funding for
+debris operations, a critical step in moving forward.
+OCTOBER 26, 2020
+Kickoff meeting for the wildfire cleanup team — critical
+shift to recovery operations.
+OCTOBER 28, 2020
+The Governor issues an Executive Order. The State
+Recovery Plan and all State Recovery Functions (SRF)
+are activated.
+SEPT. 9 to
+OCT. 13
+Evacuation
+orders in
+effect in
+various areas
+across the
+state.
+SEPT. 8 to
+SEPT. 18
+Oregon’s air
+quality ranks
+among the
+worst on the
+planet.
+SEPT. 7 to
+SEPT. 10
+Historic
+wind
+event.
+Oregon Secretary of State | Report 2021-30 | October 2021 | page 3
+The Labor Day fires were mostly contained by late September or October. Even when a fire is fully
+contained, it often will keep burning for weeks or months. As of November 4, 2020, ODF reported that
+the six largest fires had stopped growing, but the fires were not fully contained. Figure 2 shows overall
+and individual impacts of the fires.
+Figure 2: Labor Day fires locations and statistics
+Note: This map contains some of the major Labor Day fires but is not a complete representation of all of the fires that erupted
+during the Labor Day wildfire event.
+Source: Oregon Emergency Management and Governor’s Wildfire Economic Recovery Council report, January 2021.
+Overall
+Acres of land burned: 1.2 million
+Homes or housing structures
+destroyed: 4,021
+Structures destroyed: 1,193
+People sought shelter: 2,100
+Lives lost: 9
+Acres Burned by Fire
+2-4-2 Fire: 14,468
+Almeda: 2,977
+Archie Creek: 131,596
+Beachie Creek: 193,566
+Brattain: 50,952
+Echo Mtn.: 2,240
+Holiday Farm: 173,395
+Lionshead: 204,586
+Riverside: 138,151
+Slater: 45,369
+S. Obenchain: 32,671
+Thielsen: 9,951
+Oregon Secretary of State | Report 2021-30 | October 2021 | page 4
+Wildfire recovery efforts begin early to address Labor Day fire destruction
+In emergency management terms, both short- and long-term recovery efforts begin in the midst of
+responding to the emergency, as shown in Figure 3. The September 2020 wildfires required the state to
+address fire recovery on an unprecedented scale in eight counties (Clackamas, Douglas, Jackson,
+Klamath, Lane, Lincoln, Linn, and Marion). As firefighting agencies were working to contain the wildfires,
+state and partner agencies were coordinating needed response resources and preparing for recovery
+operations.
+Figure 3: The recovery process is a continuum of overlapping activities that can span months to years
+Source: FEMA, National Recovery Framework
+Oregon had not previously handled debris of this magnitude that needed to be addressed as a part of
+recovery. There was coordination between multiple governmental groups to provide direction and
+support for recovery efforts to address the magnitude of this event, including:1
+Governor’s Disaster Cabinet
+As a part of the Governor’s disaster management framework, this group makes recommendations to
+the Governor regarding statewide priorities and the allocation of state emergency resources.
+Wildfire Economic Recovery Council
+Comprised of over 40 elected officials, community leaders, congressional members, and state agencies
+charged with evaluating the economic and community needs of Oregonians. The council established a
+regional response team that included representatives from the Federal Emergency Management
+Agency (FEMA), Regional Solutions,2 and key state and local agencies to identify recommendations and
+next steps needed in the areas of housing and sheltering, debris and cleanup, and recovery and
+rebuilding.
+1 See Appendix A for a statewide organizational chart of recovery efforts.
+2 The Regional Solutions program within the Governor’s Office works with state and local government, public and private entities,
+and philanthropic organizations to develop and coordinate regional implementation projects and identify regional priorities for
+community and economic development, address issues and seize opportunities.
+Oregon Secretary of State | Report 2021-30 | October 2021 | page 5
+Oregon Debris Management Task Force
+This task force, which includes the Oregon Office of Emergency Management (OEM), Oregon
+Department of Transportation (ODOT), and Oregon Department of Environmental Quality (DEQ) agency
+directors and deputy directors, was formed to coordinate the removal of household hazardous waste
+and ash and debris, such as hazardous trees, with counties, residents, and property owners. According
+to OEM, a higher level of agency representation was needed to address the extensive policy issues that
+the Debris Management Task Force would undertake.
+Source: ODOT
+The 2020 wildfires are the most expansive and expensive emergency disaster event in Oregon history,
+and the state had never before undertaken such a widespread and complex recovery effort. The cost
+alone for the cleanup of household hazardous waste, hazardous trees, ash, and debris to safely access
+and rebuild homes and communities was initially estimated at $622 million. The state’s focus on
+recovery and rebuilding efforts centered around Oregonians — how to make lives better for those
+affected by the fires and how to help get livelihoods back. Those involved recognized that cleanup
+would be complex and challenging. Part of the process involved key decisions and considerations to be
+made regarding the state’s immediate and long-term role in emergency recovery work, including: total
+cost of cleanup, cash flow and timing, who would perform the work, federally ineligible costs to support
+long-term recovery, and accountability and oversight.
+The resulting policy decisions regarding funding for the cleanup effort in the counties impacted
+included:
+Oregon Secretary of State | Report 2021-30 | October 2021 | page 6
+• removal operations would be state managed, locally coordinated;3
+• all homes and businesses destroyed by the fires would be eligible for state-led cleanup,
+regardless of whether there was federal funding assistance; and
+• foundation concrete removed as a part of site cleanup would be done at the expense of
+the state, which was estimated at $21 million.
+Besides the use of federal funds and State Highway Fund reserves to
+help pay for wildfire debris removal, the Legislative Emergency Board
+(E-Board) started making investments for recovery beginning in late
+September 2020. ODOT was tasked with leading debris cleanup
+activities from the wildfires. On October 23, 2020, the E-Board
+allocated $50 million from the General Fund to ODOT for debris
+removal, which was a final piece needed to get cleanup operations started, and later allotted $7 million
+more in December 2020. ODOT anticipates it will request $83.3 million more from the General Fund to
+cover remaining estimated costs for debris cleanup.
+ODOT organized staff to manage debris operations and contracted with entities to perform the cleanup
+work. Agency management dedicated staff to oversee the work of over 160 contractors and
+subcontractors hired for debris removal operations to evaluate the condition of trees and remove ash,
+debris, and hazardous trees. ODOT hired a contractor to act as an independent monitor of debris
+management activities, as FEMA requires. Also, as a part of their role, the monitor is responsible for
+ensuring cleanup work is conducted in a way that is sensitive to and protective of natural and cultural
+resources.
+At the request of ODOT and with legislative interest, we performed a limited review of its hazardous
+tree removal operations due to public concerns over the extent of trees tagged and cut down in the
+fire corridors. We focused our review on five areas of concern — which entities were involved in cutting
+trees in the fire corridors, the development of the criteria used for identifying hazardous trees,
+environmental protections in place during the tree removal process, tree disposal, and the extent of
+after action reviews to learn and improve debris management operations for the next wildfire event.
+3 State managed, locally coordinated means the state facilitates bringing in resources while cities and counties prioritize what to
+clear, handle permitting issues, remove barriers to the work, and coordinate the right-of-entry process. Under emergency
+management practices, local jurisdictions are initially responsible for response and recovery, but the state will step in to
+coordinate those efforts when more than one county is affected or when local jurisdictions cannot respond. This was the case, as
+the wildfire recovery tasks were too big for all the affected counties to handle on their own, and most did not have the capacity
+and experience to address debris removal. Counties submitted delegations of authority, supporting the state taking on
+responsibility; the Wildfire Economic Recovery Council also supported this approach.
+FEMA indicated the total
+eligible costs of more than
+$570 million could trigger a
+90% reimbursement with
+10% state cost share.
+Oregon Secretary of State | Report 2021-30 | October 2021 | page 7
+2020 Oregon Wildfire Hazardous Tree Removal
+Questions and Answers
+The 2020 wildfires provided Oregon an opportunity to better prepare for future disasters. ODOT
+appears to be doing well managing hazardous tree removal operations; nonetheless, this incident was
+unprecedented in Oregon’s history and the state could learn from the experience to be better
+prepared.
+This report provides the results of our review in the form of questions-and-answers to critical
+questions and risks we identified based on public concerns and conversations or correspondence with
+ODOT and stakeholders.
+Question 1: Who cut down trees due to the 2020 wildfires on or near
+highway corridors?
+Answer: ODOT and many other entities were involved in cutting down trees in the fire
+areas. During emergency response, tree cutting crews worked to clear imminent tree
+hazards, prevent fires from spreading, and open roadways. During recovery, with
+different landowners and easements along Oregon’s highway corridors, there were
+multiple public and private parties who cut down damaged trees. ODOT has been
+removing trees around the highways to ensure the safety of the corridors as well as
+removing trees to facilitate recovery and rebuilding.
+Emergency response for the 2020 wildfires was the largest in Oregon’s history
+Oregon’s Governor, Oregon Department of Forestry, and the Oregon State Fire Marshal (OSFM) led the
+response to the wildfires. Oregon’s Emergency Coordination Center and Joint Information Center were
+activated on September 8, 2020, to support coordination of the expanded response efforts across the
+state. ODF and OSFM leveraged state, regional, and national firefighting resources. The Governor
+declared emergency conflagrations for individual fires as well as one statewide between September 7
+and September 14, which allows mobilizing firefighters to assist local resources battling fires. The
+President declared a Major Disaster Declaration on September 15. FEMA sent requested resources to
+the state to help combat the fires. During the peak of fire activity, there were over 7,500 personnel
+from across the nation and Canada who were assigned to help battle Oregon’s wildfires.
+ODF’s goal for firefighting is to put the fires out quickly, at the smallest possible size, to protect forest
+resources and save lives. Fire-damaged trees can pose a fire hazard to the safety of firefighting crews.
+Tree cutting during emergency response removes imminent hazards along highways and in fire areas to
+ensure safe movement of fire crews through the fire corridor. This includes cutting down trees that
+threaten public roadways and locating, identifying, and mitigating hazardous trees to help create fire
+control lines to help contain and stop the fire’s spread.
+Recovery work starts shortly after emergency response starts. Figure 4 shows the timeline of key
+recovery events that occurred following the emergency response to the wildfires.
+Oregon Secretary of State | Report 2021-30 | October 2021 | page 8
+Figure 4: Oregon’s recovery to the Labor Day wildfires
+SEPTEMBER 7, 2020
+Firefighters respond to wildfires. Roads are closed, and
+evacuation orders are in effect for fire areas.
+Firefighters fell trees that pose risk to public roads and
+locate, identify, and remove any other hazardous trees.
+ODOT, utilities, and others assists in the response.
+Phase 1 tree removal begins as ODOT clears hazards to
+reopen highways but varies based on the fire. As able,
+utilities remove hazardous trees around power
+infrastructure and restore power. As evacuations are
+lifted, public and private landowners can begin removing
+hazardous trees and debris from property, conducting
+their own salvage logging and sales.
+OCTOBER 6, 2020
+Federal Highway Administration (FHWA) issues
+guidance on what is eligible for FHWA ER funds vs
+FEMA Public Assistance (PA) which establishes a
+definition for Phase 1 vs. Phase 2 hazardous tree
+and debris removal long state highway and federal-
+aid transportation routes.
+OCTOBER 17, 2020, to DECEMBER 5, 2020
+EPA conducts initial household hazardous
+waste cleanup, paving the way for additional
+PPDR ash & debris cleanup to take place by
+ODOT contractors.
+OCTOBER 22, 2020, to NOVEMBER 19,2020
+ODOT contracting for a project management
+monitoring firm. CDR awarded the contract.
+NOVEMBER 5, 2020, to NOVEMBER 30, 2020
+ODOT contracting for hazardous tree
+removal prime contractors.
+NOVEMBER 19, 2020
+CDR Maguire, Inc. (CDR) subcontracts with Mason Bruce
+& Girard (MB&G).
+NOVEMBER 13, 2020, to DECEMBER 22, 2020
+ODOT contracting for PPDR ash and debris
+removal prime contractors.
+DECEMBER 22, 2020
+Phase 2 hazardous tree tagging begins.
+JANUARY 1, 2021
+First hazardous tree removal criteria
+developed.
+JANUARY 15, 2021
+First hazardous tree cut; cutting, decking, and
+processing slash begins.
+JANUARY 16, 2021
+First PPDR ash and debris removed.
+JANUARY and FEBRUARY 2021
+ODOT starts planning and negotiating settlement sales
+to transfer title of Forest Service and Bureau of Land
+Management (BLM) timber to ODOT.
+MARCH 14, 2021
+MB&G memo to staff to begin using quality
+control program to perform a second review
+of hazardous trees.
+APRIL 11, 2021, to APRIL 19, 2021
+EPA returns to do additional household hazardous waste
+removal work.
+JULY 29, 2021
+ODOT completes contracts with federal
+entities to purchase timber.
+AUGUST 2021
+ODOT starts advertising for tree sales of the salvage
+timber from the 2020 wildfires.
+SEPT. 27
+to DEC. 30
+DROP
+version 1
+developed.
+SEPT. 7 to
+Early DEC
+Recovery
+Phase 1
+(FHWA ER
+funds the
+work and
+FEMA PA
+Category B.
+OCT 5 to
+Summer
+2022
+Recovery
+Phase 2
+(FEMA PA
+Category A
+approved).
+Oregon Secretary of State | Report 2021-30 | October 2021 | page 9
+Early recovery work focused on hazardous waste and clearing immediate hazards from
+roadways
+Wildfire recovery efforts were separated into two phases: Phase 1 and Phase 2. This was due to the
+different federal funding sources authorized for the recovery work.
+Recognizing the scale of the wildfire emergency event, OEM contracted with AC Disaster Consulting,
+LLC, a private emergency management firm with offices nationwide. AC Disaster Consulting, which has
+national expertise in debris monitoring and management operations, had previously worked with OEM
+as the state’s owner representative on prior declared disasters. The firm assisted the Oregon Debris
+Management Task Force with federal funding processes and information to local governments to make
+decisions on how to do the debris cleanup.
+Phase 1 recovery work started roughly around mid-September 2020 and involved hazardous waste
+removal and initial roadway cleanup. On September 21, 2020, staff from federal and state agencies
+jointly began preliminary damage assessments of public infrastructure and private property.
+DEQ partnered with the US Environmental Protection Agency (EPA) to evaluate property within the
+counties affected by the fires for household hazardous waste and other dangerous substances, and
+safely remove them as necessary.
+4 Examples of hazardous waste include propane tanks, ammunition,
+oil, gasoline, solvents, paints, pesticides, and bulk asbestos. This cleanup work started in mid-October
+4 This work fell under FEMA Public Assistance Category B (Emergency Protective Measures), with the state share coming from
+the General Fund that the Legislature approved in DEQ’s budget. This assistance was granted to the eight counties as well as
+most neighboring counties affected by the fires.
+ODOT embedded during emergency response to Holiday
+Farm Fire
+Unique within the Holiday Farm Fire corridor, ODOT was
+embedded into the emergency response operations.
+Between the time when the fires ignited and September 19,
+2020, the area was in a state of emergency and under the
+control of ODF Fire Command and the Lane County Sheriff.
+During this period, ODOT aided and assessed highway
+conditions, closed roads, and set up roadblocks. At the
+request of Fire Command, ODOT, escorted by firefighters,
+plowed Highway 126 to push rocks and debris out of the
+roadway to help free trapped engines. Fire Command's tree
+cutting crews worked to clear tree hazards from the highway
+and later, Fire Command and ODOT established a joint
+operation with contracted tree cutting crews and ODOT staff
+to remove imminent hazards to the fire crews along the
+highway. ODOT staff remained embedded within the fire
+operations as Fire Command sought to ensure safe travel
+through the highway corridor. On September 20, 2020, the
+emergency abated and ODOT regained control over the
+highway.
+Source: ODOT
+Oregon Secretary of State | Report 2021-30 | October 2021 | page 10
+and was predominantly completed by early December 2020 and paved the way for ODOT’s ash and
+debris removal efforts to then complete site cleanup.5 The household hazardous waste was cleaned up
+at no cost to the property owner.
+Source: ODOT
+Work to reopen highways, which included clearing immediate hazards, was eligible for funding from the
+Federal Highway Administration’s Emergency Relief Program. As the fires were still burning and
+firefighters were trying to gain containment, ODOT began clearing trees and other debris from
+roadways, pushing it off to the side of the road to open one lane of traffic for essential personnel to
+access areas within the corridors.
+While the fires were still active, ODOT staff also began surveying the damage in accessible areas for
+emergency protective measures. ODOT foresters reported tens of thousands of hazardous trees
+needed to be removed and reported it would not be practical to have ODOT foresters mark all those
+trees. In some areas, ODOT worked with contractors to remove immediate danger trees on public and
+private land along the highway rights of way to facilitate highway re-opening. ODOT did not remove
+any trees out of the fire corridors during this time.
+While ODOT was addressing debris impacting the roadways, other parties were in the area assessing
+their properties and some also were cutting down trees. For example:
+5 Property owners who did not sign up while the EPA was doing work in their area were still allowed to participate in the state-led
+cleanup. Property owners had till September 15, 2021, to sign up to participate.
+Oregon Secretary of State | Report 2021-30 | October 2021 | page 11
+• The US Department of Agriculture (USDA) Forest Service assembled a Burned Area
+Emergency Response team of experts in soils, geology, hydrology, engineering, botany,
+recreation, archaeology, wildlife, fisheries, and Geographic Information Systems in late
+September 2020 to assess post-fire effects to their managed lands.
+• Utility companies, which have easements on public and private lands that allow them to
+cut vegetation and trees in order to manage and maintain their power infrastructure,
+were cutting trees.6 ODOT forester reports documented utility companies had crews
+removing trees that threatened powerlines or impacted reconstructing powerlines
+within different fire corridors. Trees that utilities fell were left at the site for the
+property owner.
+• When evacuation orders were lifted — which was dynamic based on address conditions
+— and roads were accessible to the public, private landowners (both individual and
+commercial) were able to address any tree damage on their property.7 They could cut
+and remove trees off their property as they saw fit.
+Source: ODOT
+During the emergency, there was no tracking or quantifying the number or location of trees cut during
+the response and Phase 1 recovery period. There are no reliable figures on the quantities of trees cut
+by whom.
+6 The scope of our review did not include utility easements on federal and private property as these are not lands managed by
+the state. The easements are between the utility companies and federal entities or private landowners.
+7 Evacuation orders were in place as of September 9th and reached their peak on September 12th, when about 698,100 people
+were under some form of evacuation level. The most significant decline in evacuations occurred on September 22nd, and all
+evacuation orders in the state were lifted as of October 14, 2020.
+Oregon Secretary of State | Report 2021-30 | October 2021 | page 12
+Additional recovery work focused on removing widespread hazards to highway safety
+and assisting with personal property cleanup
+When FEMA approved the state for FEMA Public Assistance Category A – Debris Removal8 on October
+5, 2020, debris removal became the responsibility of FEMA and use of funds from the Federal Highway
+Administration’s Emergency Relief Program for roadway cleanup became ineligible. This is where
+recovery efforts started to transition to Phase 2.
+Phase 2 recovery work focused on hazardous tree and ash and debris removal.9
+• Right-of-Way hazardous tree removal (ROW) - removal of cut trees, slash, debris, and
+log decks left from wildfire response efforts and trees located along public roadways
+that would impact travel safety.10 There were nearly 120 miles of highway affected by
+the wildfires.
+• Private Property Debris Removal (PPDR) - removal of ash, debris, and hazardous trees
+from burned properties as well as property soil testing for all cleaned properties for
+individuals who elected to have the state do the cleanup for them. As of September 29,
+2021, there were 3,080 private property lots enrolled for cleanup.
+8 FEMA Public Assistance Category A (Debris Removal) provides funding for the clearance, removal, and disposal of wreckage
+from the emergency work or other disaster-related wreckage (e.g., trees, woody debris, mud, damaged building pieces and
+contents). Government agencies are responsible for the debris removal.
+9 See Appendix C for examples of ODOT’s right-of-way hazardous tree removal and PPDR work.
+10 Where ODOT has rights of way within the fire corridors, the area width varies from 80 to 200 feet; otherwise, there are
+easements that set the area around the paved highway that ODOT maintains to ensure highway safety. The actual work zone for
+the Phase 2 recovery work may extend beyond ODOT’s rights of way or easements.
+As part of its everyday work, ODOT has authority and removes hazardous trees on public and private
+property to ensure the safety of the highways
+As part of regular highway maintenance, ODOT maintenance managers determine immediate tree hazards
+and remove the trees to help maintain a safe and efficient transportation system.
+State laws and rules (ORS 366.365 and OAR 734-035-0150) allow ODOT to cut and remove any tree located
+on private property that threatens the highway and creates an immediate and substantial risk of damage or
+injury, which occurs when the tree:
+• interferes with the safe, unrestricted movement of traffic;
+• is encroaching on the state highway; or
+• is in a condition that creates a reasonable likelihood it will, in the foreseeable future, encroach on
+the state highway to a degree that traffic should be restricted or prohibited from using the highway.
+ODOT is allowed to enter private property to remove the tree if the owner is not readily available; the agency
+must provide a written notice to the property owner after the fact. Trees are left on the property if it
+reasonable to do so, otherwise the owner has 30 days to claim or recover the tree at the property owner’s
+expense.
+ODOT maintains a Memorandum of Understanding with the Forest Service regarding construction,
+maintenance, and operation of state highways within federal forests. As part of this memorandum, ODOT
+may identify and remove imminent hazardous trees, leaving the logs in a safe location to dispose of.
+Oregon Secretary of State | Report 2021-30 | October 2021 | page 13
+AC Disaster Consulting continued providing FEMA Public Assistance Program technical assistance
+during Phase 2. Additionally, the firm provides project management and compliance monitoring for the
+project, as well as providing customer service to PPDR subrecipients and working directly with FEMA to
+facilitate public assistance delivery.
+As part of Phase 2 recovery, a number of
+contractors and consultants were brought in
+to help organize and conduct the debris
+removal work. Beginning in October and
+continuing through December 2020, ODOT
+contracted for debris removal operation
+services. ODOT required all of its contracted
+firms to submit a diversity plan to provide
+opportunities for local and diverse
+contractors.
+ODOT contracted with an external monitoring firm, as FEMA requires monitoring of all debris
+operations as a condition of public assistance. ODOT selected CDR Maguire, Inc. (CDR) through a
+competitive bidding process.12 Monitoring activities eligible for FEMA reimbursement included
+overseeing actual cleanup activities by hazardous tree and debris removal subcontractors;
+documenting hazardous tree and debris removal and related support services from burned areas;
+assisting ODOT in developing a system to review invoices and track costs of removal operations at
+each cleanup site; and ensuring that key people are properly trained to conduct the assigned work.
+CDR subcontracted with Mason, Bruce, & Girard, Inc. (MB&G) for additional arborists and foresters for
+hazardous tree identification. All arborists and foresters were required to have an arborist credential or
+forestry degree as well as at least five years of post-fire assessment in northwest forests.
+13 CDR also
+subcontracted with MB&G and Historical Research Associates Inc. (HRA) for identifying and helping to
+protect environmental and cultural resources during tree removal operations. ODOT pays an hourly
+rate for CDR’s monitoring work.
+Given the large geographic area and immense volume of work, ODOT elected to award the hazardous
+tree and ash and debris removal contracts over multiple operational areas and not as a single statewide
+contract. ODOT contracted with five prime contractors to perform the hazardous tree and debris
+removal work: AshBritt, Inc. and K&E Excavating, Inc. for ash and debris; and Ceres Environmental
+Services, Inc., ECC Constructors, LLC., and Suulutaaq, Inc. for hazardous trees. Examples of FEMA-
+eligible activities performed by prime contractors conducting tree removal services included:
+• mobilizing and demobilizing work crews from the site of operations;
+11 This included promoting and supporting entrepreneurs and small businesses, expanding business development, connecting rural
+communities to urban markets, promoting mentoring for enterprises that are disadvantaged, minority-owned, women-owned,
+emerging small businesses, service-disable veteran’s businesses (DBE, MBE, WBE, ESB, and SDV) that are certified COBID, as well
+as self-certified Small Businesses, and supporting local communities.
+12 ODOT used a modified form of emergency contracting to satisfy FEMA’s requirements for competitive contracting.
+13 A Certified Arborist credential from the International Society of Arboriculture (ISA) or a Forestry degree from a Society of
+American Foresters accredit forestry school as well as at least five verifiable years of post-fire assessment in Northwest conifer
+forests along with mixed deciduous tree stands – for tree health and stability and demonstrated understanding of forest
+management practice.
+While FEMA does not require contractual or aspiration
+goals for diversity, ODOT included goals and values into
+its contracts and required contractors to report
+demographic figures to ensure alignment. For August
+2021, Oregon-based firms reportedly made up 155 of
+the 163 subcontractors (95%). Oregonians make up
+67% of total project employees. The Debris
+Management Task Force also reported greater gender
+diversity than post-disaster recovery work worldwide
+and a higher racial and ethnic diversity than ODOT’s
+Aspiration Diversity Targets for federally funded projects.
+Oregon Secretary of State | Report 2021-30 | October 2021 | page 14
+• removing marketable logs, loading the logs onto trucks, transporting them to
+designated log decking areas, off-loading and decking the logs;
+• transporting debris tree slash to chipping sites, and spreading the chips at designated
+areas for erosion and sediment control purposes; and,
+• controlling traffic around work zones.14
+ODOT’s tree removal prime contractors are paid a set rate based on the size of log or tree for their
+hazardous tree removal work. FEMA requires extensive documentation to substantiate work performed
+and determine reimbursement eligibility. Each tree removed must be cataloged and photographed.15
+Contractor invoices are reviewed by CDR, AC Disaster Consulting, and ODOT prior to payment.
+Contractors are not allowed to remove any tree not previously identified, documented, and marked for
+removal by arborists or foresters. Contractors may be fined $2,000 per tree for removing any
+unmarked tree. As of the beginning of August 2021, seven trees that may have been improperly
+removed were under review by ODOT management.
+To oversee contractor work, ODOT managed the Phase 2 work under the Incident Command System
+(ICS).
+16 CDR, as the project monitor, was also required to staff key positions that reflected ICS’s five
+functional areas: command, operations, planning, logistics, and finance/administration. These contract
+positions supported ODOT’s Incident Management Team; for example, implementing the Debris
+Removal Operations Plan and developing strategies to accomplish incident objectives.17
+Phase 2 recovery work began in December 2020, with contractors ready. Within each fire corridor,
+there were multiple organizations and people on-site involved in the hazardous tree removal process.
+This included CDR arborists identifying and tagging trees, CDR staff recording tree information, MB&G
+staff reviewing tagging trees and consulting on environmental requirements, Historical Research
+Associates consulting on cultural resources, prime contractor crews cutting trees, ODOT staff ensuring
+contractors are adhering to contract terms and resolving issues, AC Disaster Consulting staff making
+sure FEMA reimbursement requirements are being met, and Army Corps of Engineers staff monitoring
+operations for FEMA. Together these contractors have a broad range of environmental, natural
+resource, regulatory, and subject matter expertise. ODOT on-scene incident commanders monitor and
+provide broad oversight of the full operation and all project teams to ensure recovery work is done in
+accordance with contract terms and the Debris Removal Operations Plan. The ODOT on-scene incident
+commanders also have ODOT staff to support them in a variety of operational roles, such as geological
+and forestry expertise, safety, and staff support. Figure 5 shows the staff working within the fire
+corridors and their roles.
+Daily, project teams work their way through fire-impacted corridors to assess, re-assess, and perform
+signoffs for quality control and regulatory compliance before fire-damaged trees are cut. Team
+members meet on site each morning to receive safety and operational briefings, assignments, and
+objectives for the day. In addition to daily field briefings, these project teams stay connected through
+14 Debris tree slash consists of an assortment of tree limbs, non-marketable logs of all sizes, and other vegetative materials.
+15 Full details are shown in Appendix D.
+16 The Incident Command System is a standardized approach to the command, control, and coordination of on-scene incident
+management that provides a common structure within which personnel from multiple organizations can be effective. The
+structure integrates and coordinates procedures, personnel, equipment, facilities, and communications.
+17 See Appendix B for the organizational structure for the hazardous tree and debris removal effort.
+Oregon Secretary of State | Report 2021-30 | October 2021 | page 15
+weekly coordination calls, weekly task force leadership check-ins, and daily oversight and coordination
+with on-scene incident commanders. Figure 6 and Figure 7 show where these teams are working along
+the highways in the three largest fire corridors.
+Figure 5: Numerous staff were involved in the right-of-way hazardous tree work within the fire corridors
+Those Involved in Hazardous Tree Removal
+Operations Within the Fire Corridors Roles and Responsibilities
+Total
+Staff in
+the Fire
+Corridors
+May 2021
+Total
+Staff in
+the Fire
+Corridors
+Aug. 2021
+ODOT Performing oversight and
+management of operations 13 10
+Project Monitoring Consultant
+– CDR
+Tagging damaged trees
+deemed hazardous and
+monitoring that work
+114 67
+Project Monitoring Consultant
+Subcontractor –MB&G
+Conducting tree tagging,
+tree removal quality control
+review, and environmental
+monitoring
+40 35
+Project Monitoring Consultant
+Subcontractor – HRA
+Mapping, monitoring, and
+notifying of cultural
+resources in work zones
+15 10
+Owner’s Representative
+Consultant – AC Disaster
+Consulting
+Monitoring to help ensure
+work meets FEMA
+requirements
+4 2
+Prime Contractors - Suulutaaq,
+Ceres, and ECC
+Cutting the trees tagged as
+hazardous for removal 126 105
+Prime Contractors – Suulutaaq,
+Ceres, and ECC
+Hauling cut trees, debris,
+and processing and decking
+cut logs as well as grinding
+slash into wood chips
+14 27
+Prime Contractors – Suulutaaq,
+Ceres, and ECC
+Providing traffic control for
+safe travel through the fire
+corridors during the removal
+operations
+84 71
+Prime Contractors – Suulutaaq,
+Ceres, and ECC
+Implementing erosion
+control measures 14 3
+US Army Corps of Engineers Providing overall supervision
+for FEMA 8 3
+Totals 432 333
+Source: ODOT
+Oregon Secretary of State | Report 2021-30 | October 2021 | page 16
+Figure 6: Hazardous tree removal along the highway right of way in the three largest fire corridors
+Notes: Figures depict right-of-way trees cut or tagged to be removed as of September 15, 2021. PPDR hazardous trees are not
+included in the figure.
+Source: CDR data.
+Oregon Secretary of State | Report 2021-30 | October 2021 | page 17
+Figure 7: Close up views of sections of right-of-way hazardous tree removal in the largest fire corridors
+The dots represent individual trees inspected by arborists or foresters because the trees had visible
+fire damage. ODOT’s right-of-way work zone varies based on the terrain. One of the farthest distances
+from the road is depicted on each map. According to ODOT, the trees being removed are hazardous
+and within striking distance of the road. Different factors, like the height of the tree and slope of the
+terrain, impact how far from the road trees need to be removed to make the highways safe.
+Notes: Figures depict right-of-way trees cut or tagged to be removed as of September 15, 2021. PPDR hazardous trees are not
+included in the figure.
+Source: CDR data.
+Oregon Secretary of State | Report 2021-30 | October 2021 | page 18
+Figure 8 illustrates what someone might see driving though a fire corridor. One view may include the
+lands of multiple owners. For example, ODOT has easements or rights of way along the highways, and
+utilities may also have easements that overlap in the same area.
+Figure 8: ODOT, private landowners, and utilities perform work visible from the highways – sometimes
+adjacent to or on top of one another – making it difficult to discern whose work the public is viewing
+Note: The distance of ODOT’s work zone from the road varies based on the slope of the terrain and height of trees.
+Source: Auditor-produced representative illustration. Illustrations do not depict a specific location but rather are a compilation of
+photos of damage across multiple 2020 Oregon wildfire work areas.
+Up until at least September 2021, ODOT had not removed trees from the fire corridors as the trees cut
+down from ODOT’s work were legally owned by other entities and no sales had been completed. ODOT
+was awaiting agreements with the Forest Service and Bureau of Land Management (BLM) to transfer
+ownership so it could advertise and sell the timber on the open market. This arrangement is intended
+to expedite removing the timber from the fire corridors where there is limited storage space.
+ODOT’s Phase 2 debris removal responsibilities does not include replanting and restoration of trees in
+the fire affected corridors. Most of the hazardous trees removed were on private or federal lands and it
+is the landowner’s choice of what they want to do on their property. According to ODOT management,
+native grasses, shrubs, forbs, and deciduous tree sprouts have reestablished this past spring in most
+areas where removal work occurred. From collaborative efforts with federal and state partners, it is
+also anticipated that many of the habitat trees left in the corridors will help provide dynamic forest
+conditions for regeneration and growth as well has habitat benefits. There are also some local
+organizations that have programs to partner with private landowners with replanting and restoration
+efforts.
+Phase 2 recovery work was estimated to take around six to 18 months to complete. As of September
+24, 2021, the percentage of completed work was about 66% for hazardous tree removal and 88% for
+clearing individual home and commercial properties. Yet there have been factors affecting the work,
+Oregon Secretary of State | Report 2021-30 | October 2021 | page 19
+such as difficult terrain to access in some corridors, weather conditions, fire season restrictions, and
+concerns with contractor work. For example, Oregon had record-breaking heatwaves in 2021 that
+further stressed fire-damaged trees, fire season restrictions limiting or stopping work in a corridor,
+delays with a prime contractor to complete work, and the changing of the prime contractor working on
+the Beachie/Lionshead and Riverside fire corridors.
+Source: ODOT
+Oregon Secretary of State | Report 2021-30 | October 2021 | page 20
+Question 2: How was ODOT’s criteria for assessing hazardous trees
+determined, what were the criteria factors, and were any changes
+made to it during recovery efforts?
+Answer: FEMA has insufficient criteria for what constitutes a hazardous tree from a
+wildfire event. ODOT’s contractor developed hazardous tree removal criteria that used
+industry and Forest Service publications. ODOT’s criteria builds on FEMA’s criteria and
+additionally considers factors such as a tree’s ability to strike the road, the tree species,
+fire damage to the tree structure, and the likelihood of the tree’s survival. The criteria
+was revised several times after implementation in the field.
+ODOT had criteria and protocols created to assess
+whether damaged trees were hazardous, as FEMA
+criteria was not designed for wildfire disasters
+FEMA has criteria defining what constitutes a hazardous tree, but
+it is geared toward disaster events like hurricanes, ice storms, and
+tornadoes, not wildfires. With no specific FEMA guidance, ODOT
+and AC Disaster Consulting had early conversations with FEMA to
+define a “hazardous tree” in the wildfire landscape to make sure
+the state would be eligible for federal public assistance to help pay
+for the cleanup. A primary goal for ODOT when removing
+hazardous trees is safety for those traveling through the corridors
+and preventing trees that would later fall onto roadways or
+structures. Additional factors considered for tree removal were
+adhering to state and local regulations, laws, and ordinances for
+environmental and historical preservation.
+The 2020 wildfires left many damaged trees adjacent to the
+highways. The number of trees to remove was initially estimated
+at 300,000 and later reduced to around 140,000. With the multiple
+parties involved, ODOT had its contractor, CDR, establish the
+criteria to use in determining which damaged trees are hazardous
+that need to be removed. CDR hired an arborist, in partnership
+with a MB&G forester, to lead in developing the tree removal
+criteria specifications. According to the arborist and forester
+involved, the protocols were formed from researching
+International Society of Arboriculture and Forest Service
+hazardous tree assessment publications, academic papers for
+specific tree species mortality after a wildfire, and criteria used by
+California and other arborists and foresters for similar situations.
+September 7, 2020
+Historic wildfire
+event begins.
+September 27,
+2020
+ODOT begins to
+develop the Oregon
+Wildfire DROP.
+November 17, 2020
+FEMA directs
+ODOT/DMTF to
+proceed with hazard
+tree work for
+reimbursement.
+November 19, 2020
+CDR hired as debris
+monitoring firm;
+CDR hires MB&G as
+sub-contractor.
+January 1, 2021
+CDR completes the
+first version of the
+hazardous tree
+removal criteria.
+Hazardous tree
+removal criteria
+being used in the
+field.
+January 1, 2021
+through May 27
+2021
+Hazardous tree
+removal criteria
+revised 10 times.
+Oregon Secretary of State | Report 2021-30 | October 2021 | page 21
+The first protocols were released in
+early January 2021, and project
+arborists were trained on them. They
+used debris management software
+applications to capture data on
+damaged trees deemed hazardous to
+meet FEMA reimbursement
+documentation requirements. The
+criteria was revised after it was
+implemented in the field as staff
+realized more clarification and
+modifications were needed to
+recognize operational realities in the
+field. The criteria continued to evolve,
+with multiple versions, up until May
+2021. Whenever there were changes
+to the criteria, consultants stated that
+trees were reassessed to make sure
+they met the existing criteria prior to
+being cut down.
+Figure 9 shows the cumulative status
+of inspected trees for all of the fire
+corridors as well as the status of trees
+in the three largest fire corridors. This
+includes trees tagged but yet to be
+cut, trees that have been cut, and
+trees detagged after another review
+deemed them not hazardous.
+Top: A cutting crew member working atop the
+steep cliffs in the Riverside Fire along Highway
+224.
+Bottom: A chainsaw perched on the edge of a
+cliff in the Riverside Fire corridor.
+Source: Suulutaaq, Inc.
+Oregon Secretary of State | Report 2021-30 | October 2021 | page 22
+Figure 9: Cumulative status of inspected damaged trees as of August 19, 2021
+Note: Only trees that suffered damage from the wildfires are inspected and included in the data. The data does include trees withou t visible damage. Additional trees will continue to be assessed as
+the work progresses.
+Source: CDR data.
+All Fires
+-
+29,588
+39,058
+47,682
+57,887
+62,042
+1,714
+11,669
+31,977
+56,008
+68,625
+76,154
+82,647
+89,169
+93,585
+-  50,000  100,000
+Dec
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Inspected Fire-Damaged Trees
+Detagged Cut Pending Cut
+Riverside
+6,863
+13,040
+14,160
+14,673
+15,452
+16,519
+17,588
+-  50,000  100,000
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Inspected Fire-Damaged Trees
+Detagged Cut Pending Cut
+Beachie Creek/Lionshead
+3,030
+5,902
+12,217
+15,718
+18,303
+20,309
+22,154
+22,891
+-  50,000  100,000
+Dec
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Inspected Fire-Damaged Trees
+Detagged Cut Pending Cut
+Holiday Farm
+2,992
+9,357
+17,412
+21,244
+22,947
+24,821
+27,435
+29,255
+-  50,000  100,000
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Inspected Fire-Damaged Trees
+Detagged Cut Pending Cut
+Oregon Secretary of State | Report 2021-30 | October 2021 | page 23
+ODOT criteria includes multiple factors to assess whether
+damaged trees pose a hazard
+Key components of ODOT’s hazardous tree removal criteria
+include FEMA’s definition of a hazardous tree, information about
+specific tree species, the extent of fire
+damage to a tree’s structure,
+characteristics of the terrain, and a
+tree’s likelihood of survival.
+FEMA considers a tree to be hazardous
+if its condition was caused by a
+disaster; it is an immediate threat to
+lives, public health and safety, or
+improved property — meaning any structure, facility, or
+equipment that was built, constructed, or manufactured; it has a
+diameter breast height, or the diameter of a tree taken 4.5 feet
+above the ground line on the uphill side of a tree, of six inches or
+greater; and one or more of the following criteria are met:
+• 50% or more of the branches, leaves, and structures
+extending from the trunk are damaged or destroyed;
+• a split trunk or broken branches exposes the heartwood, or
+central, supporting pillar of a tree;
+• it has fallen or been uprooted within a public-use area; or
+• it is leaning at an angle greater than 30 degrees.
+ODOT’s hazardous tree criteria have several additional factors to
+help assess wildfire damage. A key criterion is whether a tree is
+within what is known as striking distance of the road, which
+considers the height of a tree.18 Arborists assessing trees also look
+at the slope of the landscape and how much a tree leans to
+determine if a tree threatens a road. In addition, they assess:
+• the species of a tree, which provides information about a
+tree’s resilience;
+• the fire damage to a tree’s structure — including the extent to
+which a tree’s branches and leaves has been scorched — bark
+char, which is how much the base of the tree and stem are
+damaged, and whether the root system is burned out or the
+growing part of the trunk is dry or brittle; and
+• insect damage and disease.
+18 Striking distance is defined as 1.5 times the tree’s total height. If a tree is 100 feet tall, the striking distance is 150 f eet from the
+road right of way, defined as the edge of the asphalt. While this is one criteria, the slope of the terrain may necessitate removing
+trees farther than 1.5 times a tree’s total height.
+March 14, 2021
+MB&G issues memo
+to staff to begin
+using QC guide.
+March 20, 2021
+Second and final
+version of QC
+program guide
+issued.
+May 27, 2021
+Current version of
+tree assessment
+protocol, version 10,
+completed.
+June 2, 2021
+Independent
+arborist issues
+report on ODOT
+hazardous tree
+operation.
+Oregon Secretary of State | Report 2021-30 | October 2021 | page 24
+ODOT’s criteria are tailored to the different topography within each fire corridor, which ranges from flat
+and gentle to the presence of vertical cliffs. Collateral trees are cut if needed to safely fell hazardous
+trees in the area. For trees atop steep cliffs, the initial assessment is done using a drone. An analyst
+assesses the data and makes the determination about whether the tree needs to be removed. If it
+does, then cutters rope to the tree to remove it. In this way, Oregon’s drone program, which is
+supported by FEMA, limits the risk to workers.
+Left: Flat ground along Highway 22 in the Beachie Creek/Lionshead Fire corridor.
+Center: Sloped ground along Highway 22 in the Beachie Creek/Lionshead Fire corridor.
+Right: Steep cliffs along Highway 224 in the Riverside Fire corridor.
+ODOT appeared to take measures to conserve trees. The agency uses a three-year timeframe, instead
+of FEMA’s five-year period, for evaluating the potential risk of hazardous trees to roads, which reduced
+the number of trees removed. Additionally, trees on the cusp of being a safety risk were not removed
+and will be monitored to see how they respond to the dry summer months, the ongoing drought, wind
+events, winter storms, and soil erosion due to the fires. Such was the case for the Eagle Creek Fire in
+2016, where additional hazardous trees were removed for years after the fire.
+Oregon’s extreme heat and drought conditions in the summer of 2021 has affected already stressed
+trees that were left within the fire corridors. According to ODOT, the agency plans to take another pass
+through each corridor as part of the final cleanup process, and while FEMA is still helping to pay for the
+removal, to make sure all hazardous trees have been removed. As of mid-August 2021, consultants
+visually estimated there are another 750 trees need to be reassessed as they may now meet the
+criteria to be considered hazardous.
+ODOT instituted a quality control review process for right-of-way tree removal
+As this was the first time the state was conducting this magnitude of debris management work,
+multiple organizations and people were involved with the hazardous tree identification and removal
+(e.g., multiple arborists, tree cutting firms, and consultants), and there was public scrutiny of how trees
+were being identified and removed. MB&G conducted a quality control review process to provide
+assurance and further consistency in hazardous tree determinations. This is not required by FEMA and
+is atypical according to the consultants we spoke with. The purpose of the quality control review was
+Oregon Secretary of State | Report 2021-30 | October 2021 | page 25
+to limit misinterpretation of the tree removal criteria by the many arborists assessing the trees and
+ensure all trees have been identified correctly and only remove trees according to hazardous tree
+criteria.
+The quality control process begins after arborists assess and tag hazardous trees for removal in a fire
+corridor. Personnel from MB&G conduct this process in two phases. First, before cutting operations,
+MB&G arborists or foresters reassess trees that have been marked, or not marked if they note damage
+that appears to meet the hazardous criteria, for removal. Trees that had been previously marked for
+removal can be detagged and trees not previously marked can be newly tagged, in accordance with
+current hazardous tree criteria. Second, during cutting operations, MB&G arborists or foresters work
+directly with the cutters to make a final assessment on the trees and they assist with marking collateral
+trees that may need to be taken out to safely remove hazardous trees.
+Criteria for this quality control process was drafted as of the start of January 2021, at which point no
+trees had been cut, and the final criteria were implemented by early March 2021. As CDR arborists and
+tree cutters were already in the field, there were about 12,400 trees initially cut and removed prior to
+the March implementation of the formal quality control process. The vast majority of trees removed
+(over 80%) were subject to the finalized quality control review process.
+Left: A hazardous tree marked for removal.
+Center: A tree tag.
+Right: Tree tags that have been removed through the quality control process. | Source: CDR
+ODOT had an independent consultant review its hazardous tree identification process
+ODOT retained Washington Forestry Consultants, Inc. to conduct an independent review of the
+agency’s hazardous tree operations. The focus of the review was to help address concerns raised about
+tree operations, how trees were determined to be hazardous, and the qualifications of individuals
+making those determinations. For the evaluation, the consultant reviewed documents used to
+implement and manage the hazardous tree removal program, a sample of trees, qualifications of
+contracted arborists and foresters, and data gathered on hazardous trees for accuracy and
+completeness.
+Oregon Secretary of State | Report 2021-30 | October 2021 | page 26
+The consultant’s June 2021 report19 concluded that no changes were needed to ODOT’s current
+protocols. The review found:
+• ODOT had the necessary operational plan, protocols, contracts, and requirements
+necessary to conduct the operation and provide quality assurance. Protocols and data
+were consistent with industry standards.
+• Over 96% of the trees were correctly marked. This level of agreement was considered
+very good given the variability of the tree populations and tree damage, the difficult
+terrain, and weather challenges.
+• 99% of the trees marked for removal were dead or in poor condition.
+• 98% of the arborists and foresters were qualified to do the work.
+• The quality control review of the trees after the arborists and foresters have inspected
+them was adequate.
+The consultant estimated about 42% of the tree population along the three largest fire corridors had
+been marked for removal, meaning that 58% of the trees were preserved.
+19 Read the independent consultant’s report here.
+Oregon Secretary of State | Report 2021-30 | October 2021 | page 27
+Question 3: What efforts has ODOT made to preserve and consider
+ecologically sensitive areas and cultural resources when removing
+hazardous trees?
+Answer: ODOT worked with various stakeholders and incorporated multiple, complex
+federal and state regulations to create an Environmental Protection Plan (EPP). The EPP
+is the guide used by ODOT, consultants, and contractors to address environmental
+needs while removing hazardous trees.
+ODOT’s statewide Environmental Protection Plan
+incorporated complex regulations and involved input
+from a variety of stakeholders
+Environmental laws are in place to protect human health and
+natural resources, both at a federal and state level. For emergency
+recovery, the Governor can waive environmental regulations.
+While this may have been the case in other states, Oregon
+preserved environmental regulations. Oregon has a wealth of
+natural resources of great importance to its people.
+With limited state plans in place for debris removal, ODOT had to
+rapidly develop an Environmental Protection Plan (EPP), a part of
+its Debris Removal Operations Plan (DROP), to help protect public
+safety, health, and the environment during emergency recovery
+efforts.
+In creating the EPP, ODOT staff faced the challenge of addressing
+an unprecedented crisis while maintaining compliance with a
+myriad of regulations – at least 11 federal and 17 state laws – as
+well as adhering to several forest management plans. The
+requirements can differ or conflict for various areas of the state
+and within specific sites. For example, an environmental goal is to
+move large woody debris into streams to support fish habitat, but
+in FEMA-regulated floodplains, this can trigger extensive analysis
+to ensure there is not a rise in flood waters. This is an example of
+the complex nature of multiple regulations that was addressed in
+developing the EPP.
+ODOT staff hurried to draft an initial version of the EPP in just over
+a month by quickly organizing with state agencies, such as DEQ,
+and federal agencies, such as the Forest Service and Bureau of
+Land Management (BLM), for input on drafts. ODOT also
+coordinated with regulatory agencies to obtain necessary permits
+and clearances, and to bridge competing requirements.
+September 7, 2020
+Historic wildfire
+event begins.
+September 27,
+2020
+ODOT begins to
+develop the Oregon
+Wildfire DROP.
+October 2, 2020
+ODOT Environmental
+Manager tapped to
+lead EPP
+development.
+October 6, 2020
+ODOT begins work
+on EPP
+development.
+December 28, 2020
+Fist iteration of the
+EPP finalized.
+December 30, 2020
+DROP, version 1
+published.
+January 4, 2021
+DROP/EPP training
+held for Phase 2
+personnel.
+January 15, 2021
+First hazardous tree
+cut.
+Oregon Secretary of State | Report 2021-30 | October 2021 | page 28
+Throughout initial drafting and after, ODOT worked with over 13
+regulatory agencies to determine guidelines or obtain permits and
+clearances for project requirements to incorporate into the plan.
+For example:
+• Within a few weeks, ODOT convened a workgroup with the
+Forest Service, BLM, and the Oregon Parks and Recreation
+Department to define a single set of leading management
+practices for hazardous tree removal in scenic corridors, which
+are regulated by overlapping laws and forest management
+plans.
+• ODOT staff coordinated with the U.S. Fish and Wildlife Service
+Migratory Bird Treaty Act Office to clarify permit requirements
+for the project to balance the safety concern of the hazardous
+trees with protections for the birds.
+• ODOT partnered with FEMA to hold meetings with tribal
+governments, Forest Service and BLM archaeologists and
+historians, and the State Historic Preservation Office, and
+shared drafts with tribal governments and agencies for their
+input on the protection of cultural and historic resources.
+• ODOT worked with FEMA and the University of Oregon Museum
+of Natural and Cultural History to gather cultural resource data
+for the affected areas from federal and state agencies. The
+data would be used to help flag known sensitive areas to avoid.
+After the initial EPP draft, ODOT staff acquired additional time to
+continue working on it. ODOT worked with partners and involve
+additional stakeholders in further developing the plan. The agency
+also shared drafts for review and input from key ODOT staff and a
+contractor involved in the plan’s implementation. According to
+agency staff, the first EPP was finalized on December 28, 2020.
+The plan provides guidance for activities such as erosion and
+sediment control, use of equipment, and vegetation clearing. It
+also details many conditions and scenarios under which crews are
+to delay or stop work to consult with ODOT staff and others such
+as FEMA and Forest Service.
+The EPP has continued to evolve. ODOT staff continued to update
+the EPP to address unanticipated scenarios, changing conditions,
+and feedback from the field. Since releasing the latest version in
+March 2021, ODOT staff have issued additional supplemental
+guidance.
+March 10, 2021
+EPP version 2
+produced.
+March 11, 2021
+Interim email
+guidance on fish log
+request process
+issued.
+April 2, 2021
+Interim email
+guidance on large
+wood in tributary
+streams issued.
+June 15, 2021
+Interim email
+guidance on
+removal of large
+trees issued.
+Oregon Secretary of State | Report 2021-30 | October 2021 | page 29
+Cultural resource protection is one area of prominent focus in the EPP. Minimizing impacts to these
+resources is critical for respecting the ancestral homelands of federally recognized tribes and the
+shared history of Oregon lands. According to archeological consultants, the 2020 wildfires spanned
+areas with roughly 300 resources known and uncovered in the field as crews worked to identify
+hazardous trees and clear debris; see Figure 10.
+Figure 10: Within the fire corridors, almost as many archeological resources were inadvertently discovered
+as were previously recorded
+Fire Corridor Previously Recorded
+Archeological Resources
+Inadvertent Discoveries of
+Archeological Resources
+Riverside 33 11
+Beachie Creek/Lionshead 38 33
+Holiday Farm 11 31
+Archie Creek 36 26
+Thielsen 5 3
+2-4-2 43 37
+South Obenchain 14 2
+Totals 166 141
+Note: Figures are as of August 15, 2021, and are subject to change as work continues.
+Source: Historical Research Associates, Inc.
+Consultants noted the fire areas included a wide variety of archaeological sites and artifacts, including
+historic resources from as far back as the 1800s, such as railroad grades, wagon roads, and stone
+foundations, and resources dating back several thousand years such as lithic tools, like arrowheads.
+The EPP includes guidance and processes for archeological monitoring and discovery of potential
+resources, and outlines procedures for preventing damage to resources such as stone tools, ceramics,
+historical logging equipment, and foundations of structures.
+From our communications with stakeholders involved in the recovery efforts, the majority felt their
+input was adequately incorporated, and generally described the EPP as a document that provided
+useful guidance for those in the field. Some noted the plan could use further refinements beyond the
+updates made, and several recommended ODOT incorporate lessons learned into an updated version
+for future disasters. Stakeholders from multiple regulatory agencies working with ODOT on developing
+the EPP praised ODOT staff for their responsive and collaborative communication approach. Some
+highlighted their longstanding effective partnership with ODOT, and commended staff’s openness to
+change to make successful process improvements during recovery efforts.
+ODOT staff, contractors, and consultants took efforts to ensure EPP guidance and
+environmental permits were followed during the tree removal process
+ODOT staff and its contractors and consultants put in measures to help obtain required permits and
+ensure compliance with the EPP and project permits. These measures included: hiring environmental
+consultants to map natural resource locations, training for tree cutting monitors and crew, holding
+regular meetings, and having ODOT and consultant staff onsite while crews were cutting trees.
+Oregon Secretary of State | Report 2021-30 | October 2021 | page 30
+Before tree cutting began, environmental monitors mapped and cataloged natural areas in the fire
+corridors. They used a mapping tool and multiple data sources to identify and record the natural
+resources in the areas. For cultural resources, archeological consultants said they worked closely with
+ODOT, tribal monitors, and FEMA cultural staff to identify and safeguard cultural resources in the areas.
+Both environmental and archeological consultants flagged buffers around sensitive areas, so cutters
+could avoid dropping trees in these areas, and are on site to monitor tree cutting activities.
+ODOT took efforts to ensure all staff involved in recovery efforts understood and adhered to the EPP’s
+guidelines before and after work started. All contractors are contractually obligated to adhere to the
+EPP. Before recovery efforts began in December 2020, ODOT staff stated they met with contractor
+leadership to discuss the EPP requirements in detail, and later met with staff on how to apply the EPP
+in the field. ODOT staff have also held weekly calls with FEMA, environmental and archeological
+consultants, contractors, and the tribes to discuss developments in the field.
+Prior to starting work, all ODOT staff, contractors, and monitors were also asked to take a training on
+the DROP and cultural resources, which highlighted the importance of the EPP and discussed some of
+the provisions. Environmental and archeological consultants are on site to assess conditions and meet
+with cutting crews. Consultants point out flagged environmental and cultural resource areas, discuss
+permit requirements, and any unusual circumstances. Typically, at least one environmental consultant
+and an archaeologist was devoted to each fire corridor to ensure compliance with the EPP and
+protection of cultural sites.
+ODOT designated four regional environmental coordinators to act as the initial point of contact for
+environmental consultants to offer guidance on implementation of EPP when questions or issues arise,
+such as when a cultural site may be impacted. ODOT coordinators also work with regulatory agencies
+and other ODOT staff as needed to ensure permits and clearance is obtained for ODOT projects.
+Forest Service representatives that worked closely with ODOT staff described ODOT as effective at
+making sure needed mitigations were taking place on the landscape and achieving cultural resource
+protections. Multiple stakeholders described ODOT’s efforts to protect nesting birds as effective. A
+tribal representative praised ODOT crew coordination in the field that resulted in cultural resource
+discoveries.
+Oregon Secretary of State | Report 2021-30 | October 2021 | page 31
+Stories in the Field
+Peregrine Falcons
+Tree removal crews paused work near the Big Cliff area of the highway along the Clackamas River to
+allow its team of environmental experts to monitor a known bird nesting site. After three peregrine
+chicks were found nesting in the cliffs, the tree cutting crews temporarily avoided that area of the
+highway to stay out of the chicks’ line of site until they fledged.
+Osprey
+An osprey nest was found perched atop a dead, hazard tree ready to fall into the roadway. Over the
+span of a week, crews worked with the Cascades Raptor Center to monitor, track osprey parent
+behavior, and build a 150-foot pole mimicking the tree to safely relocate the nest.
+Oregon Secretary of State | Report 2021-30 | October 2021 | page 32
+Red Breasted Sap Sucker
+An active red breasted sap sucker nest was in a tree marked for removal on private property. It was
+agreed to cut out part of the tree with the nest and attach it to another log 20 feet off the ground.
+Source: Waferboard posted to Flickr, licensed CC BY 2.0
+Protecting Cultural Resources
+Heavy machinery is not allowed within flagged cultural site boundaries unless it is on paved or gravel
+surfaces, or protective matting is placed under vehicle tires to minimize ground disturbance. Trees are
+picked up and lifted off the ground surface to avoid dragging logs within cultural site boundaries.
+Source: ODOT
+Oregon Secretary of State | Report 2021-30 | October 2021 | page 33
+Culturally Modified Trees (CMTs)
+Indigenous people in the Pacific Northwest
+both past and present modify trees for a
+variety of different purposes, including the
+collection of sap, production of textiles (e.g.,
+basketry, hats, clothing), marking trails or
+locations of cultural importance, and using
+the cambium for food.
+As of August 2021, 163 CMTs had been
+identified in the project including those that
+were previously recorded and relocated,
+according to ODOT’s monitoring
+consultants.
+Within the 242 Fire area, ponderosa pine
+CMTs are a common resource. ODOT’s
+monitoring consultant teamed with the
+Klamath Tribes to ensure that a tribal
+monitor was present with arborists as trees
+were being evaluated and marked as
+hazards. The team effort resulted in the
+identification of over a dozen previously
+unidentified CMTs.
+Source: National Park Service/K. Langley
+Logs for Fish Habitat Improvement Project
+ODOT transferred 30 to 40 large, dead conifer trees
+removed in the Almeda Fire area to the Oregon Department
+of Fish and Wildlife for use in a fish habitat improvement
+project. Large logs in streams improve habitat for native
+fish including salmon, trout, and steelhead and provide
+cover for small fish from predators.
+Source: BLM, posted to Flickr, licensed CC BY 2.0
+Logs in Riparian Areas
+ODOT left a number of cut hazard trees in riparian areas
+and in uplands in both the Archie Creek and Thielsen Fire
+corridors. Logs left in riparian areas, especially when felled
+across small streams, improve fish habitat and logs left in
+upland and riparian areas also provide habitat for a variety
+of small mammals, birds, reptiles, and amphibians. Further,
+these logs release nutrients back to the soil as they
+decompose.
+Oregon Secretary of State | Report 2021-30 | October 2021 | page 34
+Question 4: What happens to the trees that ODOT had cut on or near
+highway corridors?
+Answer: ODOT has stored cut trees from its removal operations in the corridors since
+operations started as the trees are the property of the landowner. Many of the trees cut
+were from Forest Service lands. Under a newly developed process, ODOT will sell
+hazardous trees removed from federal land.
+While ODOT is to maintain safe and reliable transportation on state roads, the lands bordering the sides
+of the roadways are often owned by other entities. Of the fire-damaged trees evaluated along state
+highways, the vast majority of the hazardous trees are on private property or Forest Service public
+lands, not on lands owned by the state or ODOT. When ODOT cuts a hazardous tree along the highway
+corridors, as allowed by easement or state statute, that tree is not state property but belongs to the
+landowner and is therefore the landowner’s responsibility to dispose of or sell. This is true for regular
+highway maintenance as well as wildfire emergency efforts.
+Figure 11 shows trees being cut during Phase 2 operations by ownership. These figures include trees
+cut along the highways as well as on PPDR sites.
+Figure 11: Majority of trees cut and planned to be cut were on private individual and Forest Service lands
+Ownership Percent of Total
+Individual Property Owners 44%
+Forest Service 38%
+BLM 8%
+State Agencies (ODF, ODFW, ODSL, and OPRD) 6%
+Private – Industry 2%
+Local Government 1%
+Other (US Army Corps of Engineers, PGE) Less than 1%
+Note: Figures are as of August 19, 2021, and subject to change as work continues.
+Source: ODOT and CDR data.
+Forest Service and BLM have agreements with ODOT to help expedite timber sales
+The scale of debris from this emergency was something the state and federal partners in the area had
+not previously dealt with. ODOT stacked (decked) and stored marketable logs as part of its removal
+operations. Logs have been decked in the fire corridors since the operations started, and much of that
+timber is Forest Service and BLM property. Some corridors had limited space for decking all the logs.
+After discussions, the Forest Service determined that ODOT would have more flexibility to sell the
+trees quickly on the open market. In early 2021, ODOT began negotiating settlement sales with the
+Forest Service and BLM to transfer title on logs cut on federal lands. ODOT completed property
+transfer agreements by August 2021. The development of these agreements has taken some time due
+to the unprecedented scale of the project and to ensure compliance with both state and federal
+requirements.
+Forest Service agreements with ODOT also included trees cut by utilities during the first phase of the
+recovery in two fire corridors. These trees block or limit access to cut and process trees ODOT is
+responsible for or could create future fire hazards adjacent to the highway system.
+Oregon Secretary of State | Report 2021-30 | October 2021 | page 35
+The sale of trees from federal land is not intended to earn a profit
+— money from the sales will offset tree removal costs. The initial
+cost estimate for overall hazardous tree removal was $296 million.
+We assessed the potential for profit with log sales using Riverside
+as an example, as 95% of the logs in that area belong to the Forest
+Service. In Riverside, the contractor’s cost estimate for hazardous
+tree removal is over $70 million. The appraisal estimates the
+market rate value of the marketable logs from Riverside at nearly
+$1 million, or just 1.4% of the estimated cost of removal, without
+factoring in the price ODOT will pay for the trees. The final value of
+the logs will be determined when logs are actually sold and
+removed from the corridor. If ODOT were to realize a profit on the
+tree sales, any remaining proceeds would go to offset funds that
+would otherwise be provided by FEMA before any cost sharing is
+calculated.
+In other fire corridors, ODOT is cutting a large number of trees on
+private property that pose a threat to the highways or are
+otherwise an imminent public threat. Although disposing of those
+trees is the responsibility of the landowners, they may choose to
+have ODOT remove the trees. In these instances, trees are
+considered donations that ODOT can include in its sales if the
+trees are marketable. Yet the number of donated trees will likely
+come nowhere close to closing the gap between the overall value
+of the wood and the cost to remove it, meaning revenues from
+this cut timber will not cover costs.
+ODOT has been processing slash and some non-
+marketable timber into chips and seeking disposal
+options
+The hazardous tree removal effort, from emergency response and
+recovery combined, involved so many trees that it created a lot of
+slash. There were also non-marketable logs that were heavily
+damaged and unusable for creating wood products. Contractors in
+the field are processing some of these logs and the slash into
+wood chips, but the sheer volume of chips is too much to remain in
+the corridors.
+ODOT had contractors spread wood chips on the forest floor to
+the extent possible, which can vary depending on location. This
+practice helps improve wildlife and riparian habitat, protect soils
+from erosion, promote moisture retention in soil for replanting,
+cover ground disturbed by tree removal activities, and reduce the
+visual impacts of tree removal operations. ODOT’s instructions to
+September 7, 2020
+Responders begin
+cutting and clearing
+hazardous trees and
+debris. Phase 1
+hazardous trees
+felled and
+processed.
+January 15, 2021
+Phase 2 hazardous
+trees felled and
+processed.
+February and
+March 2021
+ODOT begins
+negotiating with
+USFS and BLM for
+salvage timber
+purchase.
+March 30, 2021
+ODOT awards no-
+costs contract for
+Almeda fire woody
+debris removal.
+June 4, 2021
+ODOT executes
+contract with BLM
+to purchase timber.
+July 19, 2021
+ODOT signs no-cost
+agreement for
+Archie Creek fire for
+excess chip removal.
+July 29, 2021
+ODOT executes
+contracts with USFS
+to purchase timber.
+August 23, 2021
+ODOT advertises
+first timber sale
+from hazard tree
+operations.
+Oregon Secretary of State | Report 2021-30 | October 2021 | page 36
+contractors specify that no more than three inches of woody material should be left on the forest floor
+after hazardous tree removal.
+Left: Stack of decked logs.
+Middle: Logs decked and ready for sale.
+Right: Slash, woody debris such as treetops and limbs, is mostly processed into wood chips.
+After operations began around the state, ODOT recognized there is too much material to safely spread
+on the forest floor, creating a possible future fire hazard. As a result, ODOT entered into two
+agreements, one with a biofuel facility and one with a wood products manufacturer, to remove some of
+the excess chip material at no cost to the state: one from the Almeda Fire corridor and the other from
+the Archie Creek Fire. As of September 2021, ODOT is looking for similar opportunities with other
+entities to productively use the wood chips. Otherwise, ODOT may need to burn the excess chips
+remaining in the corridors.
+Oregon Secretary of State | Report 2021-30 | October 2021 | page 37
+Question 5: What mechanisms are in place for evaluating the
+recovery efforts? (e.g., after action reports for continuous
+improvement mechanisms and capturing lessons learned)
+Answer: The Governor’s Office completed an after action review of emergency
+response efforts but there is no solidified plan for a state-level review of the recovery
+effort. However, ODOT intends to hire a consultant to conduct an after action review
+on debris removal operations, one part of the state’s recovery efforts. ODOT
+management recognizes there are areas for improvement, and we identified some
+additional areas that should be considered in future planning efforts.
+ODOT is laying the work for better debris removal operations in future disasters
+Any emergency response and recovery
+should have a period of reflection to look
+over the actions taken and adjust plans to
+be better prepared for the next event.
+Oregon’s 2020 wildfires, and the scale of
+debris removal executed by the state,
+were unprecedented. Much of the planning
+and work was done in a rapid timeframe
+with staff who had little to no prior
+experience with disaster debris
+management. Lessons learned from the
+experience should be carried forward for
+future preparedness efforts, which include
+planning, training, and exercising, to better
+respond and recover from disasters. This
+ongoing emergency management cycle is
+depicted in Figure 12.
+The Governor’s Office completed an after action review of emergency response and initial recovery in
+May 2021. As of the beginning of October 2021, there is no solidified plan for a state-level after action
+review of the full recovery effort. However, ODOT intends to conduct one for debris removal
+operations. In our discussions with those involved with debris cleanup, they recognized areas for
+improvement, such as:
+Exercising state plans to improve planning and preparedness: Oregon’s 2018 Disaster Recovery
+Plan
+20 had never been exercised, and the state’s 2015 Debris Management Plan covered basic policy
+20 State of Oregon Comprehensive Emergency Management Plan (CEMP), Volume IV – State Recovery Plan, March 2018.
+Preparedness
+ResponseRecovery
+Mitigation
+Figure 12: The four phases of emergency management
+operate as a cycle
+Oregon Secretary of State | Report 2021-30 | October 2021 | page 38
+but not operations. As a result,21,22 the state plans contained little about the Disaster Management Task
+Force, which turned out to be a key group for the recovery effort. Key task force members met for the
+first time during the incident and had to identify and learn quickly about debris management, their roles
+and responsibilities, and navigate large policy decisions during an emergency response.
+ICS training for ODOT staff: ODOT plans to identify a core group of people to retain the knowledge
+gained from the September 2020 wildfires and train them to be ready for recovery work in future
+emergencies. The May 2021 after action report, which looked at lessons learned early in the wildfire
+response, noted that people staffing emergency support functions are rarely activated to support
+operations in Oregon’s Emergency Coordination Center. As a result, they struggled to integrate into
+the Incident Command System structure and planning process. ODOT could further consider its
+approach to ICS training and exercising for employees to better ready the agency to respond to
+emergency incidents.
+Precontracting disaster debris monitoring and removal: Other states have contracts in place prior to
+the disaster (precontracts) for debris removal services, allowing operations to start as soon as it is safe
+to conduct work. Having firms precontracted allows the state to involve those firms in annual planning
+work to prepare to respond quickly when disasters occur. Oregon did not have firms retained. ODOT
+leadership and stakeholders both suggested precontracting and developing contract templates ahead
+of time. ODOT leadership reported that its procurement team is researching contacts in other states to
+discuss precontracting later this fall.
+Staggering contract start times: Recovery operations of this nature requires some contractor work to
+be done ahead of other work. For example, assessing and marking hazardous trees must be done
+before cutting crews can remove trees. ODOT recognized it would be better to stagger the timing of
+contracts so that preliminary work like asbestos testing and tagging trees is done before cutting crews
+arrive.
+Allocating field operations staff to the fire corridors differently: ODOT split its field operations into
+north and south branches. In hindsight, ODOT management said they should have further split the
+north branch to better allocate the resources required to manage the large northern fire corridors.
+Codifying Right-of-Entry process: Navigating the legal right-of-entry to properties complicated
+recovery efforts. After disasters, property owners can move debris to public rights of way for
+responders to pick up. FEMA’s own guidance assumes property owners will move debris to public
+spaces. However, wildfires leave behind dangerous hazardous waste on private property making it
+unsafe to cleanup without protective equipment and proper disposal methods. The state’s existing
+21 Planners were brought to Oregon through the Emergency Management Assistance Compact, a national mutual aid system.
+22 Our 2018 audit report, “The State Must Do More to Prepare Oregon for a Catastrophic Disaster,” Report 2018-03, found the
+state needed to do more to prepare, including completing and implementing critical plans, fulfilling minimum standards for an
+effective emergency management program, and adequately staffing the agency charged with coordinating emergency
+management efforts.
+Oregon Secretary of State | Report 2021-30 | October 2021 | page 39
+Debris Management Plan did not consider legal issues surrounding rights of entry to properties needed
+for cleanup efforts.
+Maintaining procedures and protocols: ODOT hurried to develop the Debris Removal Operations Plan,
+the EPP, and hazard tree removal criteria in the aftermath of the wildfires. Stakeholders reported that
+the EPP needs refinement beyond the updates incorporated to-date, and they would like to see a plan
+that has been vetted and approved by all agencies and tribal nations before the next debris-generating
+event.
+ODOT management stated they plan to hire a consultant this fall to facilitate the after action process
+and produce interim and final reports, which will be made public.23 We were told that the after action
+reports will examine all areas of debris mission planning, including permitting and clearances, and
+processes around insurance recovery and FEMA reimbursement. Revising plans and preparing for the
+next disaster are key reasons to produce an after action report.
+24 The consultant will also assist the
+state with updating plans and other documents. ODOT’s goal is to have a useful product to inform pre-
+disaster planning efforts and contracts for spring or summer of 2022, but a final report may take longer
+given the lengthy processes around insurance recovery and FEMA reimbursement.
+ODOT could consider additional areas to help improve debris removal operations
+Given the state’s inexperience with recovery operations and debris management, we expect there will
+be many lessons to learn from this experience. An in-depth examination of these topics is out of the
+scope of work for this report, but they could be addressed in after action reports and improvement
+plans.25
+Quality control documentation: CDR did not have an established method for tracking the quality
+control process for hazardous trees, so MB&G initially used maps then later notes and spreadsheets to
+track and manage efforts along the way. However, there was not reliable or comprehensive data
+maintained to ensure damaged trees had a complete review.
+Internal and cross-stakeholder coordination and communications: Internal communication and the
+coordination between many different jurisdictions and contractors is an area that can often be
+improved upon, especially when there are multiple layers and parties involved during an emergency
+operation. Stakeholders commented on instances of disconnected communications and information
+not being disseminated in a timely manner. We also heard some concerns from counties about not
+23 In 2003, Homeland Security Presidential Directive 5 established that a single, comprehensive approach to domestic incident
+management – the National Incident Management System (NIMS) – to ensure that all levels of government have the capability to
+work efficiently and effectively together. Under NIMS, a primary function of the incident commander is to ensure that after
+action reports are completed.
+24 In its January 2021 report, Oregon’s Wildfire Economic Recovery Council recommended a review of the state recovery plan and
+debris management plan. SB 762, which passed during the 2021 Legislative session, requires the Office of Emergency
+Management to update Oregon’s statewide emergency plan to prepare for or respond to wildfire emergencies.
+25 After action reports and improvement plans include an overview of an emergency event or preparedness exercise, an analysis
+of capabilities, and a list of corrective actions.
+Oregon Secretary of State | Report 2021-30 | October 2021 | page 40
+having accurate and timely information on where PPDR operations were occurring for people in the
+PPDR program.
+Staff, contractors, and monitors training: We reviewed the training required of all ODOT staff,
+contractors, and monitors assigned to recovery efforts prior to starting work. The training covers the
+Debris Removal Operations Plan and cultural resources but contains little information on protecting
+environmental resources. Revising the training to cover both cultural and environmental protections
+and adding an assessment in lieu of a self-attestation of completion, may reduce the risk of contractors
+not understanding key concepts or protection regulations.
+Cultural resource surveys: Stakeholders suggested conducting surveys of sites where cultural
+resources were likely to be discovered, ahead of debris removal work and in addition to the site
+monitoring during operations. Stakeholders also commented on the cultural resources data, noting
+there were issues with the accuracy and reliability of the data. As of August 15, 2021, field crews have
+inadvertently discovered nearly as many new sites as were previously known. Conducting surveys
+ahead of cutting crews could help prevent work stoppages when inadvertent resources are discovered.
+Oregon Secretary of State | Report 2021-30 | October 2021 | page 41
+Project Approach
+This advisory project was conducted to address concerns about ODOT hazardous tree removal
+operations. This report resulted from a research-based project conducted by state auditors.
+We spoke or corresponded with state employees, contractors, and stakeholders involved in debris
+removal, specifically for hazardous trees, including:
+• management and staff on the wildfire recovery crew from ODOT;
+• management, staff, and prior staff from the contracted project monitor (CDR Maguire);
+• managers and staff from the consulting firms (AC Disaster Consulting, LLC; Mason,
+Bruce, & Girard, Inc.; Maul Foster & Alongi, Inc.; and Historical Research Associates, Inc.);
+• management with OEM and DEQ;
+• Oregon’s Wildfire Recovery Director;
+• Oregon Senator Jeff Golden;
+• representatives from the Forest Service and the U.S. Fish and Wildlife Service;
+• representatives from the BLM;
+• environmental specialists from FEMA;
+• an independent reviewer of ODOT’s hazardous tree operation;
+• members of two Oregon’s tribal nations;
+• Public Works, Road Maintenance, and Solid Waste managers from counties within the
+fire corridors;
+• staff from the Oregon State Historic Preservation Office; and
+• Oregonians concerned with hazardous tree removal operations.
+We reviewed state laws and rules for emergency recovery, the Oregon Debris Management Plan within
+the State of Oregon Comprehensive Emergency Management Plan, 2020 wildfire emergency
+declarations, testimony during hearings of the Oregon House Special Committee on Wildfire Recovery
+and Oregon Senate Committee on Natural Resources and Wildfire Recovery, recovery presentations
+and updates, the Governor’s Wildfire Economic Recovery Council report, an after action report on the
+response to the 2020 wildfires, and FEMA materials (e.g., frameworks, debris management guidance,
+public assistance program information).
+Specific to ODOT’s debris removal operations, we reviewed its forester reports, contracts and related
+materials for hazardous tree contractors, Debris Removal Operations Plan (including the EPP), debris
+management tree assessment field guides, debris management quality control program procedures,
+contracted independent report on its hazardous tree operation, chip and woody debris agreements,
+and timber sale contracts. We also reviewed daily incident action plans for debris recovery operations.
+We conducted site visits in June 2021 through the three largest fire corridors: Beachie
+Creek/Lionshead, Holiday Farm, and Riverside. During our visits, we spoke with ODOT on scene incident
+commanders and, as available, contractors and monitoring staff.
+We reviewed wildfire cleanup website information and data provided by ODOT and CDR that tracked
+hazardous tree removal operations. Based on interviews, the data appeared to be reasonable and
+sufficient for our purposes, but we did not test the reliability of the hazardous tree removal data.
+Oregon Secretary of State | Report 2021-30 | October 2021 | page 42
+Lastly, we reviewed the online training provided to recovery participants (ODOT staff, contractors,
+monitors).
+Our limited review did not include evaluating the adequacy of the criteria used to evaluate whether a
+tree was hazardous, testing the application of the hazardous tree removal criteria or the effectiveness
+of natural and cultural resource protections to be in place. Further, the scope of our review did not
+include reviewing the easements between utility companies and federal entities or private landowners.
+We chose to perform this work as a non-audit project to produce this advisory report quickly and
+timely to be as useful as possible. Accordingly, this report does not adhere to the full set of
+government auditing standards. This advisory report has undergone the same rigorous quality
+assurance process as does each audit from the Oregon Audits Division, with auditors not involved in
+the project checking evidence for each assertion in the report. We also consulted with ODOT leadership
+prior to initiating the project, provided the agency with a copy of the report, and gave them the
+opportunity to provide feedback.
+We would like to thank ODOT management and staff for their cooperation as well as the many
+consultants and participants in the recovery efforts that provided their time and information to us for
+this project.
+About the Secretary of State Audits Division
+The Oregon Constitution provides that the Secretary of State shall be, by virtue of the office, Auditor
+of Public Accounts. The Audits Division performs this duty. The division reports to the elected
+Secretary of State and is independent of other agencies within the Executive, Legislative, and Judicial
+branches of Oregon government. The division has constitutional authority to audit all state officers,
+agencies, boards and commissions as well as administer municipal audit law.
+Audit team
+Ian Green, MS Econ., CGAP, CGAP, CFE, CISA, Audit Manager
+Karen Peterson, Lead Auditor
+Amelia Eveland, MBA, Lead Auditor
+Krystine McCants, CIA, MS Econ., Principal Auditor
+Kathy Scott, DrPH, Staff Auditor
+Ariana Denney, MPA, Staff Auditor
+Zak Ostertag, MPP, Staff Auditor
+Oregon Secretary of State | Report 2021-23 | October 2021 | page 43
+Appendix A: Oregon Wildfire Recovery Organizational Chart
+Source: Governor’s Wildfire Economic Recovery Council report, January 2021.
+Oregon Secretary of State | Report 2021-23 | October 2021 | page 44
+Appendix B: Debris Cleanup Organizational Chart
+Appendix B: Debris Cleanup Organizational Chart
+ODOT On Scene
+Incident
+Commander
+ODOT On Scene
+Incident
+Commander
+ODOT On Scene
+Incident
+Commander
+ODOT On Scene
+Incident
+Commander
+ODOT On Scene
+Incident
+Commander
+ODOT On Scene
+Incident
+Commander
+Debris Management Task Force (DMTF)
+Governor
+Wildfire Recovery Director
+(Mid-Oct. 2020 )
+Oregon Department of Transportation
+(SRF 6 – Infrastructure Systems)
+Department of Environmental
+Quality (SRF 7 – Natural and
+cultural Resources)
+Office of
+Emergency
+Management
+ODOT Area Command
+ODOT Wildfire
+Recovery Crew  Owners Representative
+Consultant (ACDC)
+ODOT North Operations
+(Clackamas, Lane, Linn,
+Lincoln, Marion Counties)
+ODOT South Operations
+(Douglas, Jackson, Klamath
+Counties)
+FEMA
+Infrastructure
+Branch (Public
+Assistance)
+Prime Contractors
+(Suulutaaq, Ceres, ECC,
+K&E, AshBritt)
+Wildfire Economic
+Recovery Council
+(Oct – Dec 2020)
+Monitoring Firm
+Consultant (CDR)
+Monitoring Firm
+Consultant
+(MB&G)
+Monitoring Firm
+Consultant
+Monitoring Firm
+Consultant
+Monitoring Firm
+Arborists (CDR)
+US Army Core
+of Engineers
+(USACE)
+PPDR
+Subcontractors
+Tree Service
+Subcontractors
+Governor’s Disaster
+Cabinet
+(Sept. 2020 - ongoing) Legal Council for FEMA
+Reimbursements
+(Baker Donaldson)
+US
+Environmental
+Protection
+Agency (EPA)
+Counties
+Almeda
+Phoenix/Talent
+Archie Creek
+(Hwy 138E)
+Holiday Farm
+(Hwy 126)
+Echo Mt.
+(Hwy 18)
+Beachie Creek/Lionshead
+(Hwy 22)
+2-4-2
+(Hwy 97/Hwy 62)
+Riverside
+(Hwy 224)
+Oregon Secretary of State | Report 2021-23 | October 2021 | page 45
+Appendix C: Recovery Photos
+ODOT photos of private property debris removal and right-of-way hazardous tree removal.26
+26 Additional photos of ODOT’s 2020 wildfire response and recovery are available on the agency’s Flickr account.
+Before (top) and after (bottom) photos from Kane’s Marina in Detroit, Oregon. According to ODOT, the marina is a major economic
+development and tourism driver for the area. The Debris Management Task Force was able to work with the local community to help
+re-open the area by Memorial Day 2021. | Source: ODOT
+Oregon Secretary of State | Report 2021-23 | October 2021 | page 46
+Before (top) and after (bottom) photos the Private Property Debris Removal work done at Salmon Mobile Home Park in Otis,
+Oregon. | Source: ODOT
+Oregon Secretary of State | Report 2021-23 | October 2021 | page 47
+Top: An aerial photo of the right-of-way work zone in Beachie Creek/Lionshead fire corridor.
+Bottom left: Property designated free of household hazardous waste and ready for ash and debris cleanup.
+Bottom right: Ash and debris along Highway 22.
+Source: ODOT
+Oregon Secretary of State | Report 2021-23 | October 2021 | page 48
+Top: An aerial photo of the Holiday Farm right-of-way work zone.
+Bottom left: Crews in personal protective gear gather samples to test for asbestos. Upon clear results, crews will mobilize to begin
+ash and debris removal.
+Bottom right: Crews remove ash and debris from Bear Lake Estates Mobile Home Park in Phoenix, OR.
+Source: ODOT
+Oregon Secretary of State | Report 2021-23 | October 2021 | page 49
+Appendix D: Invoice Documentation
+The documentation for hazardous tree removal is immense. There were over 500 pages of
+documentation for one day of a tree service contractor’s work in one fire corridor. This appendix shows
+supporting documentation for one tree cut and one load hauled on February 16, 2020.
+Documentation for a cut tree
+As the documentation shows, on January 28, 2021, contractors took two pictures of a big leaf maple
+tree in the right-of-way work zone on the Holiday Farm Fire. One picture shows the tree painted for
+removal and the barcode attached to the tree, and a second photo shows the measured diameter of
+the tree. When the tree was cut on February 16, 2021, a printed cut ticket was created, and contractors
+took a third photo showing the remaining tree stump. The contractor logs the ticket number and bar
+code of the tree in a monitoring log for the day. The information for each tree is also entered into a
+table containing 17 columns of information about each tree.
+Source: ODOT.
+Oregon Secretary of State | Report 2021-23 | October 2021 | page 50
+Source: ODOT.
+Oregon Secretary of State | Report 2021-23 | October 2021 | page 51
+Documentation for a load hauled
+Tree service contractors also submit documentation for hauling
+the cut logs to be processed. Each load hauled receives a printed
+load ticket. The loads are also noted in a monitoring log. The load
+hauling information is also entered into a 26-column table of
+information about each load hauled.
+Source: ODOT.
+October 7, 2021
+ODOT Debris Management Task Force Management Response to “Advisory Report: ODOT
+Worked Quickly to Oversee the Largest Wildfire Debris Removal Operation in State History ”
+MANAGEMENT RESPONSE FROM:
+-Mac Lynde, ODOT Deputy Administrator, Delivery & Operations Division;
+-Frank Reading, ODOT Wildfire Cleanup Area Commander, Debris Management Task Force
+The 2020 September wildfires serve as one of Oregon’s most devastating disasters, burning more than one
+million acres, destroying thousands of homes, and claiming the lives of nine Oregonians. Following these
+tragic events, Oregon communities were confronted with an immediate need to remove the structural debris
+left behind and more than one hundred thousand fire-damaged, dead trees blocking roads and interfering
+with rebuilding and recovery efforts.
+Providing the critical first step for helping these communities rebuild, the Oregon Governor’s Office and the
+Wildfire Economic Recovery Council created the Debris Management Task Force (Task Force)—led by
+ODOT for its contract management expertise—to immediately begin work clearing the aftermath of these
+fires, and significant, unprecedented progress continues today. Ahead of the initial eighteen-month schedule,
+90% of home sites have been cleared, 70% of hazard trees have been cut or removed, and communities have
+started rebuilding and moving forward with next steps in their multi-year recovery process.
+As an emergency response operation built to adapt and change over time, the work of the Task Force has
+remained nimble and has evolved to respond to the critical needs of wildfire survivors, operational
+discoveries in the field, emergency management best practices, and important Oregon values such as
+community safety, local jobs, a diverse workforce, and environmental stewardship.
+Earlier this year, as progress ramped up and emergency recovery work was more visible in communities,
+questions were raised specifically about hazard tree removal, the criteria used to determine which trees posed
+safety threats, and the qualifications of the crews making decisions. To further investigate, ODOT sought out
+the assistance of an experienced independent forester and arborist with in-depth hazard tree expertise to
+review this work and make any potential recommendations. The findings from this report provided an ‘A’
+grade to the operation underway and suggested that no substantive changes be made.
+To further investigate as requested by ODOT, this initial review provided context and background for the
+Secretary of State Audits Division to conduct a supplemental independent, multi-month review. ODOT and
+the Task Force appreciate the findings of this review and emphasize the descriptions provided that highlight
+the complex and unprecedented nature of the hazard tree removal process.
+In response to the advisory report
+Throughout, ODOT and the Task Force have appreciated and welcomed the engaged participation of public
+officials, legislative partners, community and advocacy organizations, wildfire survivors and others to inform
+and guide this work. When this work began, there was no detailed playbook available for Oregon, but we all
+came together to efficiently and collaboratively develop a blueprint that can be both carried forward, and
+revised and improved upon as necessary, for years to come in the event of future disasters.
+In response to specific items included in the review, we appreciate both the comprehensive story that was
+shared outlining the details of this complex operation, and the thorough and comprehensive analysis,
+Department of Transportation
+Office of the Director
+355 Capitol St NE
+Salem, OR  97301
+acknowledging that emergency response work will always exist as an iterative and evolving process. The
+review also serves as a definitive summary of the massive undertaking accomplished to date to provide the
+critical first step towards recovery for Oregon’s fire-impacted communities. In the spirit of continuous
+improvement, we support and agree with the opportunities listed in the report and elaborate further below:
+• Future planning: Much has been accomplished for Oregon thus far, and we want to build on
+successes and lessons learned even further in the event of another disaster. This work leveraged a
+broad range of expertise and state and federally required plans to structure and guide operations,
+navigate regulatory frameworks, protect the environment and culturally sensitive areas, and manage
+teams. While no single framework for an event of this scope and magnitude existed previously, the
+past year has provided many lessons to incorporate into an extensive After Action Review process
+and report for future planning efforts. We look forward to ongoing collaborative discussions as we
+plan ahead and reflect.
+• Training and documentation: Due to an immediate and urgent need, the training of more than
+1,200 contractors, crews, and staff occurred simultaneously in real-time, while documenting the many
+items required for federal reimbursement, and while also delivering an emergency response operation
+in the field. In turn, this experience has provided a checklist for responding to and addressing similar
+events. The past year has identified key areas for targeted training opportunities for all crews,
+including ongoing training for implementing project-specific Environmental Protection Plans which
+remains a top priority and opportunity for improvement.
+• Delivering Oregon values and an equitable workforce: Embracing an “Oregon helping Oregon”
+approach, we are proud that our contracting process reflected a strong commitment to Oregon
+values, a diverse workforce, and providing equitable contracting opportunities to a range of
+businesses. This includes building a team of contractors that delivered nearly a thousand local
+Oregon jobs, formed an equitable and diverse workforce, and provided training and apprenticeship
+opportunities for traditionally underserved communities.
+• Contractor capacity and pre-contracting: For future events, having a “bench” of contractors—
+and Oregon-based contractors now skilled in this type of emergency response work—to call upon
+will serve the state well going forward. With this infrastructure now in place, we look forward to
+applying this system for future rapid response when necessary and appreciate the outreach work
+contracting staff undertook to bring new and underserved businesses into the operation.
+Additionally, best practices for oversight and accountability for overseeing such a massive contract
+administration effort were developed. Having created this framework from scratch, Oregon will now
+have the benefit of pre-planning for next time and having contractors ready to go pre-disaster.
+• Organizational development and field operation staffing: Standing up an operation of more
+than a thousand crew members, more than a hundred contracts, and recruiting a core leadership team
+required quickly developing an organizational structure that could adapt along the way. This also
+required a need to recruit top talent quickly, taking many staff away from their regular positions for
+an extended period of time. Similar to having a bench of contractors on-call and available, having a
+dedicated team versed in Incident Command training, and processes and procedures in place for the
+next event, will be critical for future success.
+• Coordination and information flow amongst stakeholders and jurisdictions: Internal
+coordination and communication is a critical part of any emergency response operation. To be
+expected—given the large number of state and federal agencies, contractors, statewide recovery staff,
+county partners and others working towards a common cause at the same time—a brief period of
+creating structure and finding the right “glue” for the most effective internal communication
+channels was navigated and explored.
+As a state-managed, locally-coordinated operation, there were instances where coordination and the
+flow of operational information could have been improved between and amongst state staff, local
+public officials, and field crews. After some initial challenges, however, a cadence was developed as
+the correct stakeholders were plugged into relevant meetings, and as processes and expectations were
+implemented ensuring that information was shared from briefings and then dispersed widely to local
+stakeholders— from weekly coordination meetings, presentations, proactive calls from the call center
+hotline, and the large volume of external communication channels provided digitally, in-person, and
+by mail. Once stakeholders tuned into the operation, learned more about and became comfortable
+with the many coordination tools at their disposal, a rhythm was established, and statewide
+stakeholder coordination and communication improved.
+The unfortunate reality that Oregon may experience another devastating wildfire event in coming years is not
+taken lightly. Looking forward, we invite future discussions and look forward to input and feedback that
+balances a range of perspectives rooted in safety and recovery to further guide all statewide emergency
+response planning. As this work continues to wind down, we will continue to both solicit and apply lessons
+learned, and also investigate or take corrective action in response to any concerns that may arise.
+We want to sincerely thank Oregonians for their collaboration, grit and resilient spirit. Together, this work
+has helped reopen schools, summer camps, local businesses, fish hatcheries and recreation areas. It has
+cleared the way for rebuilding new lives and housing options and kept highways open and free of falling trees
+and other debris while providing wood for habitat, conservation projects and energy programs. Cleanup work
+has strived to equitably provide Oregon jobs while ultimately making sure that no more lives are lost to the
+2020 wildfires.
+We know that there are always opportunities for improvement, and we will continue to build these lessons
+learned into all facets of our work for next time. While we sincerely hope that Oregon never relives this
+traumatic experience, ODOT and the Task Force stand ready to help and we were honored to be called upon
+during Oregon’s time of need.
+This report is intended to promote the best possible management of public resources.
+Copies may be obtained from:
+Oregon Audits Division
+255 Capitol St NE, Suite 500
+Salem OR 97310
+(503) 986-2255
+audits.sos@oregon.gov
+sos.oregon.gov/audits
+Front and back picture courtesy of ODOT

@@ -1,0 +1,2417 @@
+Annual Financial Report
+Enterprise Funds of
+the State of Oregon
+Housing and Community Services
+Department
+For the Year Ended June 30, 2023
+Andrea Bell
+Director
+Dean Criscola
+Controller
+Prepared by:
+Roger Schmidt
+Matthew Harris
+Siora Arce
+Table of Contents
+Financial Section
+Independent Auditor’s Report ........................................................................................................................................... 2
+Basic Financial Statements:
+Statement of Net Position .............................................................................................................................................. 6
+Statement of Revenues, Expenses, and Changes in Fund Net Position ......................................................................... 8
+Statement of Cash Flows ............................................................................................................................................. 10
+Notes to the Financial Statements ................................................................................................................................ 12
+Supplementary Information:
+Combining Schedules - Housing Finance Fund:
+Combining Statement of Net Position - Housing Finance Fund .............................................................................. 34
+Combining Statement of Revenues, Expenses, and Changes in Fund Net Position - Housing Finance Fund ......... 38
+Combining Statement of Cash Flows - Housing Finance Fund ............................................................................... 40
+Statistical Section
+Assets, Deferred Outflows of Resources, Liabilities, Deferred Inflows of Resources, and Net Position ........................ 46
+Revenues, Expenses, and Changes in Net Position ......................................................................................................... 50
+Cash Flows ...................................................................................................................................................................... 52
+Weighted Average Interest Rate - New Mortgage Loans - Single-Family Mortgage Program ....................................... 54
+Principal Program Loan Interest Payers .......................................................................................................................... 55
+Ratio of Outstanding Debt ............................................................................................................................................... 56
+Legal Debt Margin Information ...................................................................................................................................... 57
+Demographic and Economic Data - State of Oregon ...................................................................................................... 58
+Employment Data - State of Oregon ............................................................................................................................... 59
+Loans Outstanding - By Interest Rate ............................................................................................................................. 60
+Loans Outstanding - By Monthly Payment Amount ....................................................................................................... 61
+Loans Outstanding - By County ...................................................................................................................................... 62
+New Mortgage Loans - Single-Family Mortgage Program ............................................................................................. 64
+Average New Mortgage Loan Amount Versus Median Household Income - Single-Family Mortgage Program .......... 65
+Mortgage Loans Paid Off - Single-Family Mortgage Program ....................................................................................... 66
+Number of Employees ..................................................................................................................................................... 67
+Other Reports
+Independent Auditor’s Report on Internal Control over Financial Reporting and on Compliance and Other Matters .......... 70
+Financial Section
+LaVonne Griffin-Valade Secretary of State
+Cheryl Myers Deputy Secretary of State, Tribal Liaison
+Kip Memmott Audits Director
+255 Capitol St. NE Suite 180
+Salem OR 97310
+(503) 986-2255
+sos.oregon.gov/audits
+Independent Auditor’s Report
+The Honorable Tina Kotek
+Governor of Oregon
+Andrea Bell, Director
+Oregon Housing and Community Services Department
+Report on the Audit of the Financial Statements
+Opinion
+We have audited the financial statements of the Elderly and Disabled Housing Fund and Housing Finance
+Fund, which collectively comprise the Housing and Community Service Fund, an enterprise fund of the
+State of Oregon, Housing and Community Services Department (department) as of and for the year
+ended June 30, 2023, and the related notes to the financial statements, as listed in the table of contents .
+In our opinion, the accompanying financial statements referred to above present fairly, in all material
+respects, the financial position of the Housing and Community Services Fund , an enterprise fund of the
+State of Oregon, Housing and Community Services Department, as of June 30, 2023, and the respective
+changes in its financial position and cash flows for the year then ended in accordance with accounting
+principles generally accepted in the United States of America.
+Basis for Opinion
+We conducted our audit in accordance with auditing standards generally accepted in the United States of
+America (GAAS) and the standards applicable to financial audits contained in Government Auditing
+Standards, issued by the Comptroller General of the United States. Our responsibilities under those
+standards are further described in the Auditor’s Responsibilities for the Audit of the Financial Statements
+section of our report. We are required to be independent of the department , and to meet our other
+ethical responsibilities, in accordance with the relevant ethical requirements relating to our audit.  We
+believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our
+audit opinion.
+Emphasis of Matter
+As discussed in Note 1, the financial statements present only the Housing and Community Service Fund
+and do not purport to, and do not, present fairly the financial position of the State of Oregon or the
+Oregon Housing and Community Services Department, as of June 30, 2023, the changes in its financial
+position or its cash flows for the year then ended in accordance with accounting principles generally
+accepted in the United States of America. Our opinion is not modified with respect to this matter.
+Responsibilities of Management for the Financial Statements
+Management is responsible for the preparation and fair presentation of these financial statements in
+accordance with accounting principles generally accepted in the United States of America , and for the
+design, implementation, and maintenance of internal control relevant to the preparation and fair
+presentation of financial statements that are free from material misstatement, whether due to fraud or
+error.
+Auditor’s Responsibilities for the Audit of the Financial Statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are
+free from material misstatement, whether due to fraud or error, and to issue an auditor’s report that
+includes our opinion. Reasonable assurance is a high level of assurance but is not absolute assurance and
+therefore is not a guarantee that an audit conducted in accordance with GAAS and Government Auditing
+Standards will always detect a material misstatement when it exists. The risk of not detecting a material
+misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve
+collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
+Misstatements are considered material if there is a substantial likelihood that, individually or in the
+aggregate, they would influence the judgment made by a reasonable user based on the financial
+statements.
+In performing an audit in accordance with GAAS and Government Auditing Standards, we
+• exercise professional judgment and maintain professional skepticism throughout the audit.
+• identify and assess the risks of material misstatement of the financial statements, whether due
+to fraud or error, and design and perform audit procedures responsive to those risks. Such
+procedures include examining, on a test basis, evidence regarding the amounts and the
+disclosures in the financial statements.
+• obtain an understanding of internal control relevant to the audit in order to design audit
+procedures that are appropriate in the circumstances, but not for the purpose of expressing an
+opinion on the effectiveness of the Housing and Community Services Department’s  internal
+control. Accordingly, no such opinion is expressed.
+• evaluate the appropriateness of accounting policies used and the reasonableness of significant
+accounting estimates made by management, as well as evaluate the overall presentation of the
+financial statements.
+We are required to communicate with those charged with governance regarding, among other mat ters,
+the planned scope and timing of the audit, significant audit findings, and certain internal control -related
+matters that we identified during the audit.
+Supplementary Information
+Our audit was conducted for the purpose of forming an opinion on the financial statements that
+collectively comprise the Housing and Community Service Fund’s basic financial statements. The
+combining financial statements are presented for purposes of additional analysis and are not a required
+part of the basic financial statements. Such information is the responsibility of management and was
+derived from and relates directly to the underlying accounting and other records used to prepare the
+basic financial statements. The information has been subjected to the auditing procedures applied in the
+audit of the basic financial statements and certain additional procedures, including comparing and
+reconciling such information directly to the underlying accounting and other records used to prepare the
+basic financial statements or to the basic financial statements themselves, and other additional
+procedures in accordance with auditing standards generally accepted in the United States of America. In
+our opinion, the combining financial statements are fairly stated, in all material respects, in relation to the
+basic financial statements as a whole.
+Other Information
+Management is responsible for the other information included in the report. The other information
+comprises the statistical section but does not include the basic financial statements and our auditor’s
+report thereon. Our opinion on the basic financial statements does not cover the other information, and
+we do not express an opinion or any form of assurance thereon.
+In connection with our audit of the basic financial statements, our responsibility is to read the other
+information and consider whether a material inconsistency exists between the other information and the
+basic financial statements, or the other information otherwise appears to be materially misstated. If,
+based on the work performed, we conclude that an uncorrected material misstatement of the other
+information exists, we are required to describe it in our report.
+Other Reporting Required by Government Auditing Standards
+In accordance with Government Auditing Standards, we have also issue our report dated October 30,
+2023, on our consideration of the department’s internal control over financial reporting and on our tests
+of its compliance with certain provisions of laws, regulations, contracts, and grant agreements and other
+matters. The purpose of that report is solely to describe the scope of our testing of internal control over
+financial reporting and compliance and the results of that testing, and not to provide an opinion on the
+effectiveness of the department’s internal control over financial reporting or on compliance. That report
+is an integral part of an audit performed in accordance with Government Auditing Standards in
+considering the Housing and Community Services Department’s internal control over financial reporting
+and compliance.
+State of Oregon
+October 30, 2023
+[THIS PAGE INTENTIONALLY LEFT BLANK]
+OREGON HOUSING & COMMUNITY SERVICES DEPARTMENT
+Statement of Net Position
+Proprietary Funds
+June 30, 2023
+Business-Type Activities - Enterprise Funds
+Elderly and
+Disabled Housing
+Housing Finance
+Fund Fund Total
+Assets and Deferred Outflows of Resources
+Assets
+Current Assets
+Cash and Cash Equivalents 1,121,341$         42,246,808$       43,368,149$
+Cash and Cash Equivalents - Restricted 1,979,708           94,311,396         96,291,104
+Securities Lending Cash Collateral 25,843                21,656                47,499
+Accounts Receivable 850                     298,680              299,530
+Accrued Interest Receivable 267,547              5,027,043           5,294,590
+Interfund Receivable -                         47,806                47,806
+Due from Governmental Funds 177                     302,478              302,655
+Prepaid Expenses -                         21,147                21,147
+Loans Receivable 3,277,752           26,084,604         29,362,356
+Acquired Property -                         780,339              780,339
+Total Current Assets 6,673,218           169,141,957       175,815,175
+Noncurrent Assets
+Cash and Cash Equivalents - Restricted 59,270,813         93,833,797         153,104,610
+Investments - Restricted 1,279,736           67,292,900         68,572,636
+Loans Receivable 35,574,970         841,622,231       877,197,201
+Swap Fair Value Asset -                         16,842,159         16,842,159
+Net Other Postemployment Benefits Asset 27,182                180,264              207,446
+Capital Assets (Net) 598                     2,179                  2,777
+Leased Assets (Net) 344                     1,639                  1,983
+Total Noncurrent Assets 96,153,643         1,019,775,169    1,115,928,812
+Total Assets 102,826,861       1,188,917,126    1,291,743,987
+Deferred Outflows of Resources
+Loss on Debt Refundings -                         387,788              387,788
+Related to Pensions 467,197              3,222,279           3,689,476
+Related to Other Postemployment Benefits 3,951                  24,558                28,509
+Total Deferred Outflows of Resources 471,148              3,634,625           4,105,773
+Total Assets and Deferred Outflows of Resources 103,298,009$     1,192,551,751$  1,295,849,760$
+The accompanying notes are an integral part of the financial statements. Continued on the next page
+Continued from the previous page
+Business-Type Activities - Enterprise Funds
+Elderly and
+Disabled Housing
+Housing Finance
+Fund Fund Total
+Liabilities, Deferred Inflows of Resources, and Net Position
+Liabilities
+Current Liabilities
+Accounts Payable 37,681$              1,393,266$         1,430,947$
+Accrued Interest Payable 397,162              14,746,806         15,143,968
+Obligations Under Securities Lending 25,843                21,656                47,499
+Interfund Payable 47,806                -                         47,806
+Due to Governmental Funds 121,887              477,517              599,404
+Unearned Revenue 1,087                  431,160              432,247
+Compensated Absences Payable 66,108                308,268              374,376
+Lease Obligations 351                     1,671                  2,022
+Bonds Payable 1,045,000           67,105,000         68,150,000
+Arbitrage Rebate Liability -                         82,296                82,296
+Pension-related Debt Payable 10,606                37,999                48,605
+Total Current Liabilities 1,753,531           84,605,639         86,359,170
+Noncurrent Liabilities
+Compensated Absences Payable 37,186                173,401              210,587
+Bonds Payable 19,028,098         889,747,311       908,775,409
+Arbitrage Rebate Liability -                         35,635                35,635
+Pension-related Debt Payable 43,333                155,262              198,595
+Net Pension Liability 1,024,689           7,318,524           8,343,213
+Total Other Postemployment Benefits Liability (PEBB) 16,135                92,601                108,736
+Total Noncurrent Liabilities 20,149,441         897,522,734       917,672,175
+Total Liabilities 21,902,972         982,128,373       1,004,031,345
+Deferred Inflows of Resources
+Accumulated Increase in Fair Value
+of Hedging Derivatives -                         16,842,159         16,842,159
+Gain on Debt Refundings -                         41,467                41,467
+Deferred Loan Origination Fees 260,207              3,634,436           3,894,643
+Related to Pensions 306,999              2,192,650           2,499,649
+Related to Other Postemployment Benefits 18,680                117,265              135,945
+Total Deferred Inflows of Resources 585,886              22,827,977         23,413,863
+Net Position
+Net Investment in Capital Assets 591                     2,147                  2,738
+Restricted for Residential Assistance -                         1,141,817           1,141,817
+Restricted for Other Postemployment Benefits 27,182                180,264              207,446
+Restricted by Trust Indentures 79,778,663         151,814,011       231,592,674
+Unrestricted 1,002,715           34,457,162         35,459,877
+Total Net Position 80,809,151         187,595,401       268,404,552
+Total Liabilities, Deferred Inflows
+of Resources, and Net Position 103,298,009$     1,192,551,751$  1,295,849,760$
+OREGON HOUSING & COMMUNITY SERVICES DEPARTMENT
+Statement of Revenues, Expenses, and Changes in Fund Net Position
+Proprietary Funds
+For the Year Ended June 30, 2023
+Business-Type Activities - Enterprise Funds
+Elderly and
+Disabled Housing
+Housing Finance
+Fund Fund Total
+Operating Revenues
+Interest on Loans 1,657,506$         31,030,017$       32,687,523$
+Investment Income 1,729,782           6,516,934           8,246,716
+Administrative Charges and Fees 62,182                7,978,502           8,040,684
+Low Income Housing Tax Credit Fees -                         8,028,128           8,028,128
+Gain (Loss) on Debt Extinguishment -                         1,327,661           1,327,661
+Miscellaneous Revenue 65                       1,657                  1,722
+Total Operating Revenues 3,449,535           54,882,899         58,332,434
+Operating Expenses
+Personal Services 1,820,818           12,246,790         14,067,608
+Services and Supplies 232,441              3,672,132           3,904,573
+Mortgage Service Fees 15,185                2,996,051           3,011,236
+Foreclosure Costs -                         24,621                24,621
+Interest Expense - Bonds 968,743              25,479,446         26,448,189
+Interest Expense - Securities Lending 9,027                  9,088                  18,115
+Other Related Program Expenses -                         3,026,250           3,026,250
+Depreciation/Amortization 1,333                  7,541                  8,874
+Total Operating Expenses 3,047,547           47,461,919         50,509,466
+Operating Income 401,988              7,420,980           7,822,968
+Nonoperating Revenues (Expenses)
+Interest Expense - Pension-related Debt (3,776)                (13,528)              (17,304)
+Interest Expense - Leased Assets (11)                     (53)                     (64)
+Total Nonoperating Revenues (Expenses) (3,787)                (13,581)              (17,368)
+Income Before Transfers 398,201              7,407,399           7,805,600
+Transfers from Other Funds -                         10,000,000         10,000,000
+Transfers to Other State Agencies (51,984)              (315,577)            (367,561)
+Increase in Net Position 346,217              17,091,822         17,438,039
+Net Position - Beginning 80,462,934         170,503,579       250,966,513
+Net Position - Ending 80,809,151$       187,595,401$     268,404,552$
+The accompanying notes are an integral part of the financial statements.
+[THIS PAGE INTENTIONALLY LEFT BLANK]
+OREGON HOUSING & COMMUNITY SERVICES DEPARTMENT
+Statement of Cash Flows
+Proprietary Funds
+For the Year Ended June 30, 2023
+Business-Type Activities - Enterprise Funds
+Elderly and
+Disabled Housing
+Housing Finance
+Fund Fund Total
+Cash Flows from Operating Activities
+Received from Customers 61,332$          16,605,539$    16,666,871$
+Program Loan Principal Repayments 4,315,203       65,015,247      69,330,450
+Program Loan Interest Received 1,641,757       29,838,714      31,480,471
+Program Loans Made -                      (136,638,159)   (136,638,159)
+Payments to Employees for Services (1,352,643)      (9,155,587)       (10,508,230)
+Payments to Suppliers for Goods and Services (284,944)         (6,424,163)       (6,709,107)
+Other Receipts (Payments) 65                   (1,937,684)       (1,937,619)
+Net Cash Provided (Used) in Operating Activities 4,380,770       (42,696,093)     (38,315,323)
+Cash Flows from Noncapital Financing Activities
+Proceeds from Bond Sales -                      114,018,169    114,018,169
+Principal Payments - Bonds (1,575,000)      (37,500,000)     (39,075,000)
+Interest Payments - Bonds (999,248)         (24,353,479)     (25,352,727)
+Bond Issuance Costs -                      (989,191)          (989,191)
+Principal Payments - Pension-related Debt (14,883)           (53,322)            (68,205)
+Interest Payments - Pension-related Debt (3,776)             (13,528)            (17,304)
+Transfers from Other Funds -                      10,000,000      10,000,000
+Transfers to Other State Agencies (50,930)           (335,906)          (386,836)
+Net Cash Provided (Used) in Noncapital Financing Activities (2,643,837) 60,772,743 58,128,906
+Cash Flows from Capital and Related Financing Activities
+Lease Principal Payments (1,306)             (6,305)              (7,611)
+Lease Interest Payments (13)                  (61)                   (74)
+Net Cash Provided (Used) in Capital and Related Financing Activities (1,319)             (6,366)              (7,685)
+Cash Flows from Investing Activities
+Purchase of Investments -                      (130,692,371)   (130,692,371)
+Proceeds from Sales and Maturities of Investments -                      246,326,867    246,326,867
+Interest on Cash and Investments 1,828,852       4,935,878        6,764,730
+Investment Income on Securities Lending 9,027              9,088               18,115
+Interest Paid on Securities Lending (9,027)             (9,088)              (18,115)
+Net Cash Provided (Used) in Investing Activities 1,828,852       120,570,374    122,399,226
+Net Increase (Decrease) in Cash and Cash Equivalents 3,564,466       138,640,658    142,205,124
+Cash and Cash Equivalents Balance - Beginning 58,807,396     91,751,343      150,558,739
+Cash and Cash Equivalents Balance - Ending 62,371,862$   230,392,001$  292,763,863$
+Cash and Cash Equivalents 1,121,341$     42,246,808$    43,368,149$
+Cash and Cash Equivalents - Restricted (Current) 1,979,708       94,311,396      96,291,104
+Cash and Cash Equivalents - Restricted (Noncurrent) 59,270,813     93,833,797      153,104,610
+Total Cash and Cash Equivalents 62,371,862$   230,392,001$  292,763,863$
+The accompanying notes are an integral part of the financial statements. Continued on the next page
+Continued from the previous page
+Business-Type Activities - Enterprise Funds
+Elderly and
+Disabled Housing
+Housing Finance
+Fund Fund Total
+Reconciliation of Operating Income to
+Net Cash Provided by Operating Activities
+Operating Income 401,988$        7,420,980$      7,822,968$
+Adjustments to Reconcile Operating Income to
+Net Cash Provided by Operating Activities
+Capital Asset Depreciation/Amortization 1,333              7,541               8,874
+Investment Income Reported as Operating Revenue (1,729,782)      (6,516,934)       (8,246,716)
+Interest Expense Reported as Operating Expense 977,770          25,488,534      26,466,304
+Bond Issuance Costs Reported as Operating Expense -                      1,041,405        1,041,405
+(Gain) Loss on Debt Extinguishment -                      (1,327,660)       (1,327,660)
+(Increase)/Decrease in Assets:
+Loan Interest Receivable 25,484            (395,332)          (369,848)
+Accounts Receivable (850)                23,021             22,171
+Interfund Receivable 49,270            30,217             79,487
+Due from Governmental Funds (1,517)             270,768           269,251
+Prepaid Expenses -                      (21,147)            (21,147)
+Loans Receivable 4,315,203       (71,241,042)     (66,925,839)
+Acquired Property -                      (780,339)          (780,339)
+Net Other Postemployment Benefits Asset (2,051)             (46,149)            (48,200)
+(Increase)/Decrease in Deferred Outflows of Resources:
+Related to Pensions (69,736)           (682,276)          (752,012)
+Related to Other Postemployment Benefits (65)                  (931)                 (996)
+Increase/(Decrease) in Liabilities:
+Accounts Payable (6,521)             802                  (5,719)
+Interfund Payable (30,217)           (49,270)            (79,487)
+Due to Governmental Funds 121,123          335,620           456,743
+Due to Other Governments -                      (41,180)            (41,180)
+Unearned Revenue 361                 (95,429)            (95,068)
+Compensated Absences Payable 95,404            353,913           449,317
+Net Pension Liability 434,083          3,806,186        4,240,269
+Total Other Postemployment Benefits Liability (3,044)             (8,515)              (11,559)
+Increase/(Decrease) in Deferred Inflows of Resources:
+Deferred Loan Origination Fees (41,593)           279,111           237,518
+Related to Pensions (154,107)         (549,545)          (703,652)
+Related to Other Postemployment Benefits (1,766)             1,558               (208)
+Net Cash Provided (Used) in Operating Activities 4,380,770$     (42,696,093)$   (38,315,323)$
+Noncash Investing, Capital, and Financing Activities
+Net Change in Fair Value of Investments (107,938)$       1,250,622$      1,142,684$
+Foreclosed Property -                      780,339           780,339
+Loan Modifications -                      398,469           398,469
+Total Noncash Investing, Capital, and Financing Activities (107,938)$       2,429,430$      2,321,492$
+OREGON HOUSING & COMMUNITY SERVICES DEPARTMENT
+Notes to the Financial Statements
+Enterprise Funds
+June 30, 2023
+NOTE 1.  Summary of Significant Accounting Policies
+The accompanying financial statements of the Oregon Housing and Community Services Department (OHCSD) have been
+prepared in conformity with generally accepted accounting principles as prescribed by the Governmental Acc ounting
+Standards Board (GASB).
+A.  Reporting Entity
+OHCSD is a part of the State of Oregon reporting entity. OHCSD currently operates under the provisions of
+Sections 456.515 to 456.725 of the Oregon Revised Statutes.
+Through sales of bonds, OHCSD finances home ownership and multi-family units for elderly, disabled, and lower
+to moderate income persons. OHCSD has issued revenue bonds for the Single-Family Mortgage Program
+(Mortgage Revenue Bonds) and Multifamily Housing Revenue Bonds. OHCSD has issued State of Oregon general
+obligation bonds for the Elderly and Disabled Housing Program. State of Oregon general obligation bonds are
+authorized by Oregon Constitution Article XI-I(2).
+The financial statements and notes include only the bonded debt financial activity of OHCSD’s housing bond
+programs. OHCSD operates governmental fund programs which are not included in this report.
+B.  Basis of Presentation - Fund Accounting
+OHCSD programs and accounts are organized by "funds," each of which is a separate accounting entity. Each
+major program utilizes a separate set of self-balancing accounts to record the assets, deferred outflows, liabilities,
+deferred inflows, net position, revenues, and expenses of their activities. OHCSD’s housing bond programs are
+classified in proprietary funds.  Proprietary funds contain two types of funds: Enterprise Funds and Internal
+Service Funds. All housing bond programs of OHCSD are accounted for in the Enterprise Funds.
+Enterprise Funds account for operations that are financed and operated in a manner similar to private business
+enterprises. OHCSD utilizes two enterprise funds which are differentiated primarily by the type of bond financing
+employed to support their respective programs:
+(1) The Elderly and Disabled Housing Fund accounts for programs that are supported by State of Oregon General
+Obligation Bonds. Bond proceeds are used to finance elderly housing and residential facilities for elderly
+households, disabled persons, and their family members. OHCSD is responsible for the administration of this
+program.
+(2) The Housing Finance Fund accounts for programs that are supported by revenue bond financing, including
+the Multifamily Housing and Single-Family Mortgage Programs. Revenue bond proceeds are used to finance
+home ownership and multi-family units for lower and moderate income persons. Also part of the Housing
+Finance Fund are the Combined Program Account and the Housing Finance Account. The Combined
+Program Account is maintained to act as a reserve against possible deficiencies that may arise in the payment
+of debt service or related expenses of the Single-Family Mortgage Program. General and administrative costs
+of these programs are accounted for in the Housing Finance Account. In addition, fee s or other monies
+received by OHCSD in carrying out the responsibilities outlined under Oregon Revised Statu tes 456.548 to
+456.725 are also included in the Housing Finance Account.
+C.  Measurement Focus and Basis of Accounting
+The accounting and financial reporting treatment applied to a fund is determined by its measurement focus. All
+proprietary funds are accounted for using the flow of economic resources measurement focus and are maintained
+on the accrual basis of accounting. Under the accrual basis of accounting, revenues are recognized when earned
+Notes to the Financial Statements   (Continued)
+June 30, 2023
+and expenses are recorded at the time related liabilities are incurred. All assets and liabilities associated with the
+operations of these funds are included on the Statement of Net Position. Assets and liabilities are segregated
+between current and non-current. Net Position is segregated into Net Investment in Capital Assets, Restricted, and
+Unrestricted. The Proprietary fund Statement of Revenues, Expenses, and Changes in Fund Net Position presents
+increases (e.g., revenues) and decreases (e.g., expenses) in net position. This statement segregates operating
+revenue, operating expenses, non-operating revenue and expense, and capital contributions and transfers.
+D.  Budgets
+The Oregon Legislature approves budgets for a biennial period. Operating expenses are subject to limitation and
+bond related expenses are subject to administrative limitation. Both types of limitation lapse at the end of the
+biennium. Budgets are adopted on a basis which differs from generally accepted accounting principles and
+financial reporting standards in the treatment of bond proceeds and loan purchases. For budgetary purposes, these
+transactions are treated on a cash basis and other operating revenues and expenses are on an  accrual basis.
+E.  Cash Equivalents
+For purposes of the Statement of Cash Flows, all OHCSD moneys held in the State Treasury Oregon Short -Term
+Fund and moneys held in money market mutual funds are considered to be cash equivalents. The money market
+mutual funds do not have a floating net asset value (NAV). OHCSD records investments with original maturities
+of three months or less as investments, not cash equivalents.
+F.  Investments
+OHCSD’s investments are stated at fair value. Investment fair value is determined using quoted market prices or
+quoted market prices for similar investments.
+G.  Receivables
+Receivables included are amounts due that represent revenues earned or accrued in the current period. Types
+included in this classification relate to interest, mortgage loans receivable, and other miscellaneous receivables.  If
+the last day or days of the fiscal year are on a weekend and an investment matures that weekend, an accounts
+receivable in the amount of the matured investment is included in the Statement of Net Position.
+H.  Short-term Interfund Receivable/Payable and Due from/to Governmental Funds
+During the course of operations, transactions occur between individual funds for various reasons. Receivable and
+payable transactions between OHCSD’s enterprise funds are classified as "Interfund Receivable" and "Interfund
+Payable" on the Statement of Net Position. Receivables and payables between OHCSD’s enterprise funds and
+OHCSD’s governmental funds are classified as “Due from Governmental Funds” and “Due to Governmental
+Funds” on the Statement of Net Position.
+I.  Acquired Property
+Acquired properties resulting from mortgage foreclosures are stated at the cost. Cost is defined as the outstanding
+balance of the mortgage loan, plus major repairs, less any mortgage insurance payments received. Costs relating to
+the acquisition of such properties are charged to expense as they are incurred.
+Notes to the Financial Statements   (Continued)
+June 30, 2023
+J.  Capital Assets
+Capital assets are reported at historical cost or estimated historical cost if the original cost is not determinable.
+Donated capital assets are reported at their estimated fair market value at the time received. Capital assets costing
+less than $5,000 or having a useful life of less than one year are not capitalized.
+Depreciation or amortization of capital assets is charged as an expense against operations over the estimated useful
+life using the straight-line method of depreciation. The estimated useful life of OHCSD’s capital assets is from
+three to ten years.
+K.  Rebatable Arbitrage
+Internal Revenue Code (IRC) Section 148(f) requires issuers of tax-exempt bonds to rebate investment income
+earned from bond proceeds that exceeds limits established for each bond issue. These limits are based on the bond
+yield as calculated for federal tax purposes for each bond issue and are subject to certain exceptions. Arbitrage
+rebate payments are due not later than 60 days after the end of the fifth anniversary of each bond issue (or other
+date in compliance with IRC Section 148(f)) and every five years thereafter in an amount at least equal to 90 % of
+the calculated arbitrage liability. Final arbitrage rebate payments are due not later than 60  days after the final
+retirement of all bonds in an issue in an amount equal to 100% of the calculated arbitrage liability. OHCSD
+records rebatable arbitrage as a reduction of investment revenue.
+L.  Compensated Absences
+Employees accumulate earned but unused vacation and sick leave benefits. Accumulated vacation leave
+(compensated absences) is recorded as an expense and a liability as the benefits accrue to the employees.
+Employees are not paid for unused sick leave benefits when leaving State service, so no liability is recorded for
+accumulated sick leave benefits.
+M.  Bond Discounts and Premiums
+Bond discount or premium arising from the sale of serial or term bonds is charged or credited to interest expense
+over the life of the related bond issue using the bonds-outstanding method of amortization. The removal of
+unamortized bond discount or bond premium for bonds that are called is recorded in Gain (Loss) on Debt
+Extinguishment on the Statement of Revenues, Expenses, and Changes in Fund Net Position. Bond discounts and
+premiums are included in Bonds Payable on the Statement of Net Position.
+N.  Deferred Debt Refundings
+Deferred debt refunding gains or losses are amortized over the shorter of the life of the new debt or the remaining
+life of the old debt using the bonds-outstanding method of amortization. The bonds-outstanding method of
+amortization most closely approximates the effective-interest method. The removal of unamortized deferred debt
+refunding gains or losses for bonds that are called is recorded in Gain (Loss) on Debt Extinguishment on the
+Statement of Revenues, Expenses, and Changes in Fund Net Position. Loss on Debt Refundings is shown as a
+Deferred Outflow of Resources and Gain on Debt Refundings is shown as a Deferred Inflow of Resources on the
+Statement of Net Position.
+O.  Deferred Loan Origination Fees
+Loan origination fees related to points are deferred and recognized as an adjustment to interest revenue over the
+life of the loan. Deferred loan origination fees are amortized using the interest method and are shown as a Deferred
+Inflow of Resources and on the Statement of Net Position.
+Notes to the Financial Statements   (Continued)
+June 30, 2023
+P.  Restricted Assets
+The use of all cash, cash equivalents, and investments of the Enterprise Fund are generally restricted as to purpose
+and use by the Bond Declarations and Indentures of Trust. The bond program funds are restricted for acquisition of
+loans, payment of debt service, and payment of operating costs. Individual reserve accounts have been established
+to meet certain requirements and the balances of these accounts as of June 30, 2023 were sufficient to meet all
+legal requirements. When both restricted and unrestricted resources are available to use, it is OHCSD’s policy to
+use restricted resources before using unrestricted resources.
+Q.  Operating Revenues and Expenses
+Operating revenues include interest and fees on program loans as well as earnings on cash and investments related
+to OHCSD’s loan programs. Since the principal activity of OHCSD’s Enterprise Funds is lending and bond
+proceeds that have not yet been loaned and required bond reserves are invested, investment income is reported as
+operating revenue. Administrative expenses, depreciation and amortization of capital assets, and bond program
+related expenses are considered operating expenses. Nonoperating revenues and expenses include any gain or loss
+on the disposition of capital assets, leased asset interest expense, and pension-related debt interest payments.
+NOTE 2.  Cash and Cash Equivalents, Investments, and Securities Lending
+Deposits
+On June 30, 2023, the book balance of cash and cash equivalents was $292,763,863 and the bank balance was $292,666,088.
+Monies held in demand accounts with the State Treasurer and amounts in the Oregon Short-Term Fund totaled $114,790,444.
+Additional information about the Oregon Short-Term Fund can be found at
+www.oregon.gov/treasury/public-financial-services/oregon-short-term-funds/Pages/default.aspx.
+The June 30, 2023 bank balance includes $176,388,178 in money market mutual funds held at OHCSD’s trustee. OHCSD
+considers money market mutual funds to be cash equivalents, not investments, and includes them in Cash and Cash
+Equivalents – Restricted on the Statement of Net Position. Information about OHCSD’s money market mutual funds is
+included in the Investments section of this note.
+A total of $1,487,466 is held in money market deposit accounts by OHCSD’s Bond Trustee as agent. These deposits are
+insured by FDIC up to $250,000. Anything above $250,000 is uninsured and uncollateralized. The uninsured and
+uncollateralized deposits are subject to custodial credit risk. Custodial credit risk is the risk that, in the event of a bank failure,
+deposits may not be returned.
+OHCSD does not have a deposit policy.
+Investments
+OHCSD’s Bond Indentures of Trust and investment policy authorize OHCSD to invest in the following types of investments:
+insured or registered securities explicitly or implicitly guaranteed by the U.S. Government; variable rate demand obligations
+of state agencies and Housing Finance Authorities outside of Oregon; and, investment agreements, collateralized or
+uncollateralized, with institutions that are rated by nationally recognized rating agencies and rated at least equal to the i nitial
+rating on the bonds.
+Investments with OHCSD’s Trustee consisted of $14,880,109 in U.S. Treasury securities, $52,322,630 in U.S. Agency
+securities, and $176,388,178 in money market mutual funds. The investments are held by OHCSD’s Bond Trustee in
+OHCSD’s name.
+Investments with the State Treasurer consisted of $828,691 in U.S. Treasury Securities and $451,045 in U.S. Agency
+securities. OHCSD’s investments with the State Treasurer are held with the State Treasurer’s agent in the name of the State
+of Oregon and segregated in the Treasurer’s records in OHCSD’s name.
+Notes to the Financial Statements   (Continued)
+June 30, 2023
+Fair value is categorized within the fair value hierarchy established by generally accepted accounting principles. The
+hierarchy is based on valuation inputs used to measure the fair value of an investment. Level 1 inputs are quoted prices in
+active markets for identical investments; Level 2 inputs are significant other observable inputs; Level 3 inputs are significant
+unobservable inputs. OHCSD’s money market mutual funds are Level 1 and all other investments are Level 2.
+Interest Rate Risk: Interest rate risk is the risk that changes in interest rates will adversely affect the fair value of an
+investment. OHCSD’s investment policy specifies that, in order to mitigate interest rate risk, the investment portfolio shall  be
+structured so that securities mature to meet cash requirements, limiting the need to sell securities on the open market before
+maturity.  As of June 30, 2023, OHCSD had the following investments and maturities:
+Credit Risk: Credit risk is the risk that an issuer or other counterparty to an investment will not fulfill its obligations.
+According to OHCSD’s investment policy, to mitigate credit risk, funds shall be invested in U.S. Treasury securities,
+securities backed by the U.S. Government, or variable rate demand obligations of state agencies and Housing Finance
+Authorities outside of Oregon.
+Concentration of Credit Risk: Concentration of credit risk is the risk of loss attributed to the magnitude of investment in a
+single issuer. On June 30, 2023, 38.48% of OHCSD’s total investments are Federal Home Loan Bank securities, 22.94% are
+U.S. Treasury securities, 15.97% are Federal National Mortgage Association (Fannie Mae) securities, 10.73% are Tennessee
+Valley Authority securities, and 10.28% are Federal Farm Credit Bank securities.
+Securities Lending
+In accordance with State of Oregon investment policies, state agencies may participate in securities lending. OHCSD is
+involved in securities lending only with cash balances invested in the Oregon Short -Term Fund (OSTF). As of June 30, 2023,
+amounts allocated to OHCSD’s Enterprise Funds are as follows:
+Fair Value
+Securites on loan 652,953$
+Securites lending cash and noncash collateral 666,212$
+Investments purchased with cash collateral 47,492$
+Securities on loan from the OSTF included U.S. Treasury securities (12.44%), U.S. Agency securities (80.44%), and
+domestic fixed income securities (7.12%). Additional information about the Oregon Short-Term Fund and securities lending
+can be found in the Oregon Short-Term Fund financial statements at
+www.oregon.gov/treasury/public-financial-services/oregon-short-term-funds/Pages/default.aspx.
+Credit Rating Investment Maturities (in Years)
+Investment Type Moody's Standard &
+Poor's Fair Value Less than 1 1-5 6-10 More than 10
+U.S. Treasury Securities Exempt from Disclosure 15,708,800$   9,404,762$     5,475,346$   -$                 828,692$
+U.S. Agency Securities Aaa AA+ 36,282,530     -                      8,662,674     9,114,004     18,505,852
+U.S. Agency Securities Not Rated Not Rated 16,491,145     16,491,145     -                   -                   -
+Investment Derivative
+_Instruments  Not Rated  Not Rated 90,161            -                      -                   -                   90,161
+Subtotal 68,572,636     25,895,907$   14,138,020$ 9,114,004$   19,424,705$
+Money Market Mutual
+_Funds ** Aaa-mf AAAm 176,388,178
+Total 244,960,814$
+** Included in Cash and Cash Equivalents - Restricted on the Statement of Net Position
+Notes to the Financial Statements   (Continued)
+June 30, 2023
+NOTE 3.  Loans Receivable
+Loans receivable on June 30, 2023 consisted of:
+Loans
+Receivable
+Elderly and Disabled Housing Fund 38,852,722$
+Housing Finance Fund:
+Mortgage Revenue Bonds 839,917,165
+Multifamily Housing Revenue Bonds 26,552,175
+Housing Finance Account 1,237,495
+Total Housing Finance Fund 867,706,835
+Total 906,559,557$
+The Elderly and Disabled Housing Program provides interim and permanent mortgage financing for the construction,
+acquisition, or rehabilitation of structures or facilities which serve elderly or disabled persons and their families.
+Mortgage Revenue Bonds provide financing for single-family homes for at or below median income home buyers.  Loans are
+collateralized by first lien mortgages on the applicable real estate. Of the total mortgage principal balance outstanding on
+June 30, 2023, 57.98% is federally insured or guaranteed, 0.21% is covered by pool insurance and/or private mortgage
+insurance, and 41.81% is uninsured.  Based on prior experience, OHCSD does not anticipate any material loss in the
+collection of mortgage loans receivable or in the disposition of acquired properties.
+Multifamily Housing Revenue Bonds provide interim and permanent mortgage financing for the construction, acquisition, or
+rehabilitation of multi-family housing developments within the State that primarily contain housing units for persons or
+families of lower and moderate income.
+Loans in the Housing Finance Account provide financing for the construction, acquisition and/or rehabilitation of affordable
+housing.
+NOTE 4.  Capital Assets
+A summary of OHCSD’s capital assets on June 30, 2023 is presented in the table below.  OHCSD has no outstanding debt
+related to capital assets.
+Elderly and Disabled Housing Fund Housing Finance Fund
+Beginning
+Balance Increases Decreases
+Ending
+Balance
+Beginning
+Balance Increases Decreases
+Ending
+Balance
+Capital Assets:
+Equipment 1,494$      -$              -$              1,494$      3,905$        -$                -$                3,905$
+Software 26,370      -                -                26,370      151,416      -                  -                  151,416
+Total Capital Assets 27,864      -                -                27,864      155,321      -                  -                  155,321
+Less Accumulated Depreciation/Amortization:
+Equipment (747)          (149)          -                (896)          (1,954)         (390)            -                  (2,344)
+Software (26,370)     -                -                (26,370)     (149,348)     (1,450)         -                  (150,798)
+Total Accumulated Depr/Amort (27,117)     (149)          -                (27,266)     (151,302)     (1,840)         -                  (153,142)
+Capital Assets, Net 747$         (149)$        -$              598$         4,019$        (1,840)$       -$                2,179$
+Notes to the Financial Statements   (Continued)
+June 30, 2023
+NOTE 5.  Leases
+OHCS has entered into lease agreements for office equipment. Equal monthly payments to the lessor are to be made for the
+life of the lease agreements.
+The following table summarizes, as of June 30, 2023, the amounts needed to pay future lease principal and interest payments
+for each fiscal year.
+Fiscal
+Year Ending
+June 30 Principal Interest Total
+2024 2,022$                   7$                          2,029$
+Total 2,022$                   7$                          2,029$
+A summary of OHCSD’s leased assets on June 30, 2023 is presented in the table below.
+Elderly and Disabled Housing Fund Housing Finance Fund
+Beginning
+Balance Increases Decreases
+Ending
+Balance
+Beginning
+Balance Increases Decreases
+Ending
+Balance
+Leased Assets:
+Leased Equipment 4,688$      -$              -$              4,688$      22,562$      -$                -$                22,562$
+Less Accumulated Amortization:
+Leased Equipment (3,160)       (1,184)       -                (4,344)       (15,222)       (5,701)         -                  (20,923)
+Leased Assets, Net 1,528$      (1,184)$     -$              344$         7,340$        (5,701)$       -$                1,639$
+NOTE 6.  Transfers and Interfund Balances
+In fiscal year 2023, $10,000,000 was transferred to the Housing Finance Account from OHCSD’s general fund. The funds are
+for a new down payment assistance loan program. The program will begin in fiscal year 2024.
+The following schedule summarizes interfund receivables and payables for the year ended June 30, 2023:
+Interfund Interfund
+Receivable Payable
+Elderly and Disabled Housing Fund -$                      47,806$
+Housing Finance Fund 47,806               -
+Total 47,806$             47,806$
+Balances between funds are the result of timing differences related to the reallocation of expenses.
+Notes to the Financial Statements   (Continued)
+June 30, 2023
+NOTE 7.  Changes in Long-Term Liabilities
+Long-term liability activity for the fiscal year is as follows:
+Beginning Balance Increases Decreases Ending Balance
+Due Within One
+Year
+Bond Principal 880,640,000$         112,025,000$      38,885,000$        953,780,000$         67,950,000$
+Bond Principal (Direct Placements) 5,195,000               -                           190,000               5,005,000               200,000
+Bond Premium 18,297,533             1,993,169            2,133,904            18,156,798
+Bond Discount (17,893)                   -                           (1,504)                  (16,389)
+Bonds Payable 904,114,640           114,018,169        41,207,400          976,925,409
+Compensated Absences Payable 135,646                  449,317               -                           584,963                  374,376
+Lease Obligations 8,926                      -                           6,904                   2,022                      2,022
+Arbitrage Rebate Liability -                              117,931               -                           117,931                  82,296
+Pension-related Debt Payable 315,405                  -                           68,205                 247,200                  48,605
+Net Pension Liability 4,102,944               6,283,418            2,043,149            8,343,213               -
+Total OPEB Liability 120,295                  14,451                 26,010                 108,736                  -
+Total Long Term Liabilities 908,797,856$         120,883,286$      43,351,668$        986,329,474$         68,657,299$
+NOTE 8.  Pension-Related Debt
+Prior to the formation of the PERS State and Local Government Rate Pool (SLGRP), the State and community colleges were
+pooled together in the State and Community College Pool (SCCP), while local government employers participated in the
+Local Government Rate Pool (LGRP). These two pools were combined to form the SLGRP effective January 1, 2002. The
+unfunded actuarial liability attributable to the SCCP at the time the SLGRP was formed is maintained separately from the
+SLGRP and is reduced by contributions and increased for interest charges at the assumed interest rate. The pre-SLGRP
+liability is essentially a debt owed to the SLGRP by the SCCP employers. The balance of the pre -SLGRP pooled liability
+attributable to the State is being amortized over the period ending December 31, 2027.
+The following table summarizes the amounts necessary to pay OHCSD’s share of future pension-related debt principal and
+interest requirements as of June 30, 2023 for each fiscal year during the next five years. The final principal and interest
+payment will be made in fiscal year 2028.
+Fiscal
+Year Ending
+June 30 Principal Interest Total
+2024 48,605$                 16,232$                 64,837$
+2025 52,016                   12,821                   64,837
+2026 55,667                   9,170                     64,837
+2027 59,574                   5,263                     64,837
+2028 31,338                   1,081                     32,419
+Total 247,200$               44,567$                 291,767$
+Notes to the Financial Statements   (Continued)
+June 30, 2023
+NOTE 9.  Long-Term Debt
+The following table summarizes outstanding bonds by program and series as of June 30, 2023:
+General Obligation Bonds
+Elderly and Disabled Housing Fund
+Original Issue Bonds Outstanding
+Series Due Dates  Amount Beginning Balance Increases Decreases Ending Balance Due Within One
+Year
+1993 C 1994-2026 2.850 5.650% 13,915,000$      1,070,000$             -$                          215,000$              855,000$                220,000$
+1994 B 1996-2026 4.200 6.300% 24,400,000        5,000                      -                            -                            5,000                      -
+1995 A 1996-2026 4.000 6.000% 14,100,000        10,000                    -                            -                            10,000                    -
+1995 B 1997-2027 4.000 5.700% 24,240,000        1,090,000               -                            160,000                930,000                  175,000
+1997 A 1999-2028 4.050 5.375% 8,475,000          5,000                      -                            -                            5,000                      -
+1998 B 2001-2030 3.550 4.875% 10,285,000        5,000                      -                            -                            5,000                      -
+1999 B 2000-2031 3.350 5.250% 4,485,000          5,000                      -                            -                            5,000                      -
+1999 E 2001-2031 5.000 6.250% 19,105,000        10,000                    -                            -                            10,000                    -
+2001 C 2002-2032 2.700 5.300% 25,325,000        5,000                      -                            -                            5,000                      -
+2002 A 2003-2022 1.400 4.650% 10,840,000        205,000                  -                            205,000                -                              -
+2002 B 2003-2024 1.400 4.700% 37,905,000        10,000                    -                            -                            10,000                    -
+2002 C 2003-2043 1.600 5.050% 13,595,000        1,080,000               -                            90,000                  990,000                  -
+2007 A 2008-2048 3.650 4.750% 26,300,000        18,145,000             -                            905,000                17,240,000             650,000
+Subtotal 21,645,000             -                            1,575,000             20,070,000             1,045,000
+Direct Placements
+2003 C 2013-2034 4.350 5.100% 2,930,000          5,000                      -                            -                            5,000                      -
+Subtotal 5,000                      -                            -                            5,000                      -
+Total General Obligation Bonds 21,650,000$           -$                          1,575,000$           20,075,000$           1,045,000$
+Revenue Bonds
+Mortgage Revenue Bonds
+Original Issue Bonds Outstanding
+Series Due Dates  Amount Beginning Balance Increases Decreases Ending Balance Due Within One
+Year
+2013 A 2020-2043 2.200 4.050% 21,885,000$      7,870,000$             -$                          1,510,000$           6,360,000$             830,000$
+2013 B 2014-2034 0.450 5.000% 29,095,000        1,210,000               -                            590,000                620,000                  560,000
+2013 C 2014-2033 0.350 3.564% 61,300,000        3,040,000               -                            885,000                2,155,000               945,000
+2013 D 2018-2043 1.650 4.200% 33,225,000        5,780,000               -                            1,095,000             4,685,000               1,425,000
+2013 F 2033 3.900 3.900% 8,335,000          4,445,000               -                            -                            4,445,000               -
+2014 A 2019-2044 1.550 4.000% 57,710,000        20,210,000             -                            1,550,000             18,660,000             2,455,000
+2014 B 2015-2044 0.300 4.000% 29,960,000        1,865,000               -                            455,000                1,410,000               615,000
+2014 C 2015-2044 0.200 3.750% 30,900,000        10,500,000             -                            770,000                9,730,000               990,000
+2015 A 2019-2036 1.500 3.500% 79,195,000        9,890,000               -                            2,225,000             7,665,000               2,135,000
+2015 C 2045 *** 33,600,000        33,600,000             -                            -                            33,600,000             -
+2016 A 2017-2047 0.550 4.000% 56,275,000        8,755,000               -                            1,675,000             7,080,000               1,600,000
+2016 B 2033 *** 13,140,000        13,140,000             -                            -                            13,140,000             -
+2016 C 2037 *** 15,000,000        15,000,000             -                            -                            15,000,000             -
+2017 A 2018-2047 0.940 4.000% 81,510,000        18,720,000             -                            2,735,000             15,985,000             2,630,000
+2017 C 2039 *** 44,000,000        41,605,000             -                            -                            41,605,000             -
+Continued on the next page
+Interest Range
+Interest Range
+Notes to the Financial Statements   (Continued)
+June 30, 2023
+Mortgage Revenue Bonds Contimued from the previous page
+Original Issue Bonds Outstanding
+Series Due Dates  Amount Beginning Balance Increases Decreases Ending Balance Due Within One
+Year
+2017 D 2022-2048 1.400 3.500% 87,390,000        42,610,000             -                            2,530,000             40,080,000             3,295,000
+2017 E 2018-2040 0.950 3.500% 22,775,000        5,010,000               -                            700,000                4,310,000               675,000
+2017 F 2042-2048 3.650 3.750% 11,440,000        6,450,000               -                            -                            6,450,000               -
+2017 G 2018-2040 1.400 4.000% 43,730,000        17,395,000             -                            1,595,000             15,800,000             1,090,000
+2017 H 2023-2028 2.100 2.800% 16,105,000        16,105,000             -                            1,285,000             14,820,000             2,565,000
+2018 A 2019-2049 1.750 4.500% 62,590,000        29,950,000             -                            700,000                29,250,000             3,350,000
+2018 B 2035-2043 2.900 2.900% 30,000,000        16,080,000             -                            -                            16,080,000             -
+2018 C 2020-2049 1.600 4.500% 87,420,000        42,610,000             -                            550,000                42,060,000             3,150,000
+2018 D 2020-2050 1.900 4.750% 82,885,000        45,375,000             -                            3,825,000             41,550,000             4,505,000
+2018 E 2043 *** 41,000,000        41,000,000             -                            -                            41,000,000             -
+2019 A 2020-2050 1.050 4.000% 99,000,000        83,120,000             -                            3,410,000             79,710,000             4,555,000
+2020 A 2021-2051 0.300 3.500% 47,905,000        35,580,000             -                            2,320,000             33,260,000             3,670,000
+2020 B 2037 *** 24,500,000        24,500,000             -                            -                            24,500,000             -
+2020 C 2021-2052 0.200 3.000% 60,000,000        57,320,000             -                            1,650,000             55,670,000             2,950,000
+2021 A 2022-2052 0.070 3.000% 99,000,000        97,965,000             -                            1,185,000             96,780,000             3,840,000
+2022 A 2025-2051 2.250 4.000% 77,900,000        77,900,000             -                            685,000                77,215,000             815,000
+2022 B 2023-2026 2.650 3.400% 7,000,000          7,000,000               -                            -                            7,000,000               2,000,000
+2022 C 2024-2053 4.592 5.661% 24,810,000        -                              24,810,000           -                            24,810,000             415,000
+2022 D 2047 *** 21,000,000        -                              21,000,000           -                            21,000,000             -
+2022 E 2023 3.625 3.625% 15,000,000        -                              15,000,000           -                            15,000,000             15,000,000
+2023 A 2024-2053 2.800 5.500% 40,005,000        -                              40,005,000           -                            40,005,000             415,000
+2023 B 2025-2036 4.819 5.482% 11,210,000        -                              11,210,000           -                            11,210,000             -
+Total Mortgage Revenue Bonds 841,600,000$         112,025,000$       33,925,000$         919,700,000$         66,475,000$
+***
+Multifamily Housing Revenue Bonds
+Original Issue Bonds Outstanding
+Series Due Dates  Amount Beginning Balance Increases Decreases Ending Balance Due Within One
+Year
+2005 A 2007-2047 3.050 5.000% 9,855,000          3,275,000$             -$                          2,970,000$           305,000$                10,000$
+2010 A 2011-2042 0.900 5.150% 77,705,000        3,235,000               -                            140,000                3,095,000               145,000
+2010 B 2013-2052 0.950 4.875% 16,425,000        8,340,000               -                            135,000                8,205,000               135,000
+2012 A 2013-2032 0.300 3.250% 1,425,000          850,000                  -                            70,000                  780,000                  70,000
+2012 B 2013-2043 0.550 4.125% 35,335,000        1,695,000               -                            70,000                  1,625,000               70,000
+Subtotal 17,395,000             -                            3,385,000             14,010,000             430,000
+Direct Placements
+2004 A 2014-2045 4.300 5.100% 5,120,000          3,780,000               -                            80,000                  3,700,000               90,000
+2006 A 2036 4.620 4.620% 5,680,000          1,410,000               -                            110,000                1,300,000               110,000
+Subtotal 5,190,000               -                            190,000                5,000,000               200,000
+Total Multifamily Housing Revenue Bonds 22,585,000$           -$                          3,575,000$           19,010,000$           630,000$
+Total Revenue Bonds 864,185,000$         112,025,000$       37,500,000$         938,710,000$         67,105,000$
+Total General Obligation and Revenue Bonds 885,835,000$         112,025,000$       39,075,000$         958,785,000$         68,150,000$
+Interest Range
+Interest Range
+Interest rates are adjusted weekly based on the weekly rate determined by the Remarketing Agent, not to exceed 12.00%.  The interest rate at the end of the fiscal year was
+3.95% for 2015 C and 2017 C; 3.97% for 2016 B; 4.04% for 2016 C; 4.08% for 2018 E and 2020 B; and 5.10% for 2022 D.
+Notes to the Financial Statements   (Continued)
+June 30, 2023
+Bonds Payable:
+Bonds payable are presented on the Statement of Net Position at their carrying value. The carrying value is the outstanding
+bond principal plus unamortized bond premium less unamortized bond discount. Bonds payable balances on June 30, 2023
+are summarized below:
+Principal
+Principal
+(Direct Placements)  Premium Discount Bonds Payable
+General Obligation Bonds:
+Elderly and Disabled Housing Fund 20,070,000$           5,000$                    -$                      (1,902)$           20,073,098$
+Revenue Bonds (Housing Finance Fund):
+Mortgage Revenue Bonds 919,700,000           -                              18,156,798        -                      937,856,798
+Multifamily Housing Revenue Bonds 14,010,000             5,000,000               -                        (14,487)           18,995,513
+Total Revenue Bonds 933,710,000           5,000,000               18,156,798        (14,487)           956,852,311
+Total General Obligation and Revenue Bonds 953,780,000$         5,005,000$             18,156,798$      (16,389)$         976,925,409$
+Debt Service Requirements to Maturity:
+The following table summarizes the amounts necessary to pay all future bonded debt principal and interest requirements as of
+June 30, 2023 for each fiscal year during the next five year period ending June 30, 2028 and in five year increments
+thereafter.
+Fiscal Bonds
+Year Ending Direct Placements
+June 30 Principal Interest Principal Interest Total
+General Obligation Bonds
+2024 1,045,000$           934,453$              -$                             255$                        1,979,708$
+2025 1,105,000             881,471                -                               255                          1,986,726
+2026 1,155,000             825,779                -                               255                          1,981,034
+2027 1,160,000             768,901                -                               255                          1,929,156
+2028 995,000                716,985                -                               255                          1,712,240
+2029-2033 4,690,000             2,954,323             -                               1,275                       7,645,598
+2034-2038 6,055,000             1,725,878             5,000                       382                          7,786,260
+2039-2043 2,885,000             468,916                -                               -                               3,353,916
+2044-2048 980,000                129,371                -                               -                               1,109,371                0
+Subtotal 20,070,000$         9,406,077$           5,000$                     2,932$                     29,484,009$
+Revenue Bonds
+2024 66,905,000$         30,176,385$         200,000$                 244,826$                 97,526,211$
+2025 28,665,000           30,501,520           205,000                   235,379                   59,606,899
+2026 30,110,000           29,793,493           220,000                   225,359                   60,348,852
+2027 29,945,000           28,999,405           290,000                   214,122                   59,448,527
+2028 29,600,000           28,194,592           305,000                   200,084                   58,299,676
+2029-2033 161,880,000         126,465,988         1,020,000                824,548                   290,190,536
+2034-2038 177,955,000         97,461,428           1,045,000                579,570                   277,040,998
+2039-2043 170,875,000         65,619,732           1,075,000                319,005                   237,888,737
+2044-2048 149,110,000         35,288,879           640,000                   49,852                     185,088,731
+2049-2053 87,435,000           8,154,936             -                               -                               95,589,936
+2054 1,230,000             33,828                  -                               -                               1,263,828
+Subtotal 933,710,000$       480,690,186$       5,000,000$              2,892,745$              1,422,292,931$
+Total 953,780,000$       490,096,263$       5,005,000$              2,895,677$              1,451,776,940$
+Notes to the Financial Statements   (Continued)
+June 30, 2023
+The interest stated above includes coupon interest OHCSD expects to pay over the life of the bonds outstanding.  Coupon
+interest for revenue bonds is paid semiannually on January 1 and July 1. Coupon interest for general obligation bonds is paid
+February 1 and August 1.
+The Mortgage Revenue Bond indenture identifies the following events that would lead to a default; payment of principal is
+not made when due, payment of interest is not made when due, or OHCSD defaults in the performance of any other
+covenants or agreements included in the bond or indenture and such default continues for 90 days after written notice for
+remedy has been provided to OHCSD by the Trustee. The Trustee may give such noti ce at their discretion or at the written
+request of the owners of not less than 25% in aggregate of the principal amount of the outstanding bonds.
+If a default does occur for Mortgage Revenue Bonds the Trustee may, or upon the written direction of the own ers of not less
+than 51% of the bonds outstanding the Trustee shall, declare via written notice to OHCSD that any principal and interest
+related to that bond is due and payable immediately.
+The Multifamily Housing Revenue Bond indenture identifies the following events that would lead to a default; payment of
+principal is not made when due, payment of interest is not made when due, or OHCSD defaults in the performance of any
+other covenants or agreements included in the bond or indenture and such default continues for 60 days after written notice
+for remedy has been provided to OHCSD by the Trustee, or written notice provided to OHCSD and the Trustee by the
+owners of not less than 25% in aggregate of the principal amount of the outstanding bonds.
+If a default does occur for Multifamily Housing Revenue Bond the Trustee may, or upon the written direction of the owners
+of not less than 25% of the bonds outstanding the Trustee shall, proceed, in its own name, to protect and enforce the rights of
+the bond owners. Protecting and enforcing the rights of the bond owners could include declaring all outstanding bonds due
+and payable.
+As of June 30, 2023, various statutory or constitutional provisions limited the amount of bonds outstanding to $2, 500,000,000
+in revenue bonds and $4,823,464,807 in general obligation bonds.
+Demand Bonds
+Included in OHCSD’s long-term debt is $189,845,000 in variable rate demand bonds. OHCSD’s variable rate demand bonds
+are remarketed weekly by a remarketing agent. Bondholders may elect to tender their bonds by providing written notice to
+the remarketing agent as specified in the Official Statement for the series. On the date that bonds are tendered, the
+remarketing agent will use its best effort to sell the bonds or may purchase the bonds for its own account.
+OHCSD has entered into standby bond purchase agreements with State Street Bank and Trust Company and U.S. Bancorp
+Investments, Inc., together with U.S. Bank Municipal Products Group, a division of U.S. Bank National Association and a
+standby letter of credit and reimbursement agreement with Sumitomo Mitsui Banking Corporation (the “liquidity facilities”)
+to provide liquidity in the event that the remarketing agent is unable to sell the tendered bonds and does not choose to buy the
+bonds for its own account. The liquidity facilities require the liquidity provider to provide funds for the purchase of the
+tendered bonds. On the purchase date the bonds become known as liquidity provider bonds or bank bonds and bear interest at
+the bank rate in accordance with the relevant liquidity facility. The maximum rate for the liquidity facilities is 12%. The
+bonds remain bank bonds until they are sold by the remarketing agent or the remarketing agent purchases them for its own
+account. If the bonds are not remarketed or purchased by the remarketing agent for its own account, mandatory redemption
+installments are to be paid commencing on the first business day of the eighteenth full month following the date the bonds
+became liquidity provider bonds in an amount equal to three-tenths of the initial amount of the liquidity provider bonds
+outstanding, with seven semiannual installments due thereafter in an amount equal to one -tenth of the initial amount of
+liquidity provider bonds outstanding. There were no bank bonds on June 30, 2023.
+Notes to the Financial Statements   (Continued)
+June 30, 2023
+Certain terms of the liquidity facilities and remarketing agreements are listed in the following table:
+Outstanding Expiration Commitment Remarketing
+Series Amount Liquidity Provider Date Fee Remarketing Agent Fee
+MRB* 2015 C 33,600,000$     Sumitomo Mitsui Banking Corporation 01/27/2025 0.2700% J.P. Morgan Securities LLC 0.07%
+MRB 2016 B 13,140,000 State Street Bank and Trust Company 01/27/2025 0.3000% Bank of America Securites, Inc. 0.07%
+MRB 2016 C 15,000,000 State Street Bank and Trust Company 01/27/2025 0.3000% Bank of America Securites, Inc. 0.07%
+MRB 2017 C 41,605,000 State Street Bank and Trust Company 01/27/2027 0.3300% J.P. Morgan Securities LLC 0.07%
+MRB 2018 E 41,000,000 Sumitomo Mitsui Banking Corporation 01/27/2025 0.2700% Bank of America Securites, Inc. 0.07%
+MRB 2020 B 24,500,000 Sumitomo Mitsui Banking Corporation 01/27/2027 0.3100% Bank of America Securites, Inc. 0.07%
+MRB 2022 D 21,000,000 U.S. Bank National Association 10/27/2027 0.2200% ** 0.07%
+* Mortgage Revenue Bonds
+** U.S. Bancorp Investments, Inc., together with U.S. Bank Municipal Products Group, a division of U.S. Bank National Association
+NOTE 10.  Interest Rate Swaps
+OHCSD has entered into pay-fixed, receive-variable interest rate swaps to hedge against changes in variable rate interest and
+to lower borrowing costs compared to fixed-rate bonds. OHCSD had seven swaps at the end of the fiscal year.
+The fair values were estimated using the zero-coupon method. This method calculates the future net settlement payments
+required by the swap, assuming the current forward rates implied by the yield curve correctly anticipate future spot interest
+rates. These payments are then discounted using the spot rates implied by the current yield curve for hy pothetical zero-
+coupon bonds due on the date of each future net settlement on the swap. This methodology is believed to be consistent with
+accepted practice in the market for interest rate swaps. The fair value is categorized as Level 2 within the fair val ue hierarchy
+described in Note 2.
+The fair value of the swaps on June 30, 2023 totaled $16,932,320 and the notional amount totaled $192,240,000. The fair
+value of hedging derivatives totaled $16,842,159. Hedging derivative instrument swaps with positive fair values are shown
+on the Statement of Net Position as Swap Fair Value Asset and Accumulated Increase in Fair Value of Hedging Derivatives.
+During the fiscal year the fair value of hedging derivatives increased by $4,473,249.
+A portion of the MRB 2017 C swap was reclassified from hedging derivative instruments to investment derivative
+instruments when the associated bonds were called. The fair value of the investment derivatives on June 30, 2023 was
+$90,161 and is included in Investments – Restricted on the Statement of Net Position. During the fiscal year the fair value of
+investment derivatives increased by $75,026. A total of $83,977 from investment derivative instruments is included in
+investment income.
+Notes to the Financial Statements   (Continued)
+June 30, 2023
+The following table lists the terms, fair values, counterparty, and credit ratings of the outstanding swaps as of June 30, 2023.
+Fixed Swap
+Notional Effective Rate Termination Counterparty
+Series Amounts Date Paid Variable Rate Received Fair Values Date Counterparty   Rating **
+Hedging Derivative Instruments
+MRB* 2015 C 33,600,000$       9/6/2018 2.751% 70.0% of SOFR@ +.130136% 1,764,734$         7/1/2045 Royal Bank of Canada Aa1 / AA- / AA-
+MRB 2016 B 13,140,000         1/1/2019 1.710% 66.5% of SOFR +.1561292% 870,658              1/1/2033 Royal Bank of Canada Aa1 / AA- / AA-
+MRB 2016 C 15,000,000         1/1/2019 2.000% 66.5% of SOFR +.2261292% 1,194,072           7/1/2037 Royal Bank of Canada Aa1 / AA- / AA-
+MRB 2017 C 41,605,000         7/1/2019 2.407% 70.0% of SOFR +.130136% 1,566,237           7/1/2039 Bank of America, N.A. Aa1 / A+ / AA
+MRB 2018 E 41,000,000         5/4/2019 1.120% @@ 7,698,430           7/1/2043 Bank of America, N.A. Aa1 / A+ / AA
+MRB 2020 B 24,500,000         7/13/2020 0.899% @@@ 3,721,630           7/1/2037 Royal Bank of Canada Aa1 / AA- / AA-
+MRB 2022 D 21,000,000         10/27/2022 4.417% 100% of SOFR + 0.15% 26,398                7/1/2047 Royal Bank of Canada Aa1 / AA- / AA-
+189,845,000       16,842,159
+Investment Derivative Instruments
+MRB 2017 C 2,395,000           7/1/2019 2.407% 70.0% of SOFR +.130136% 90,161                7/1/2039 Bank of America, N.A. Aa1 / A+ / AA
+2,395,000           90,161
+192,240,000$     16,932,320$
+* Mortgage Revenue Bonds
+** Moody's / S&P / Fitch
+@ Secured Overnight Financing Rate
+@@ USD SIFMA (Securities Industry and Financial Markets Association) Municipal Swap Index from the Effective Date weekly to, but excluding,
+January 1, 2028 and 70% of SOFR + .080136% thereafter.
+@@@ USD SIFMA (Securities Industry and Financial Markets Association) Municipal Swap Index from the Effective Date weekly to, but excluding,
+July 1, 2026 and 70% of SOFR + .080136% thereafter.
+The MRB swaps include options giving OHCSD the right to call (cancel) the swaps in whole or in part, depending on the
+exercise date, semiannually on or after July 1, 2023 (2016 B and 2016 C), January 1, 2025 (2015 C), July 1, 2026 (2017 C
+and 2020 B), January 1, 2028 (2018 E), and January 1, 2031 (2022 D). These options provide flexibility to manage the
+prepayments of loans and the related bonds.
+Basis Risk  Basis risk is the risk that arises when variable interest rates on a derivative instrument and the associated bond are
+based on different indexes. All variable interest rates on OHCSD’s tax exempt bonds are determined weekly by a
+Remarketing Agent. OHCSD is exposed to basis risk when the variable rates received, which are based on the SOFR rate or
+the SIFMA rate, do not offset the variable rates paid on the bonds. As of June 30, 2023, the SOFR rate was 4.01% and the
+SIFMA rate was 5.06528%. OHCSD’s variable interest rates as of June 30, 2023 can be found in Note 9.
+Termination Risk  Termination risk is the risk of an unscheduled termination of a swap prior to its planned maturity. OHCSD
+or the counterparty may terminate any of the swaps if the other party fails to perform under the terms of the swap agreement.
+If any of the swaps are terminated, the associated variable-rate bonds would no longer carry synthetic fixed interest rates and
+OHCSD would then be exposed to interest rate risk. Also, if any of the swaps had a negative value at termination, OHCSD
+would be liable to the counterparty for a payment equal to the fair value of the swap.
+Rollover Risk  Rollover risk is the risk that occurs when the swap termination date does not extend to the maturity date of the
+associated debt. OHCSD is not exposed to rollover risk because the swap termination dates match the associated bond
+maturity dates.
+Notes to the Financial Statements   (Continued)
+June 30, 2023
+Hedging Derivative Instrument Payments and Hedged Debt  Using rates as of June 30, 2023, debt service requirements of
+variable-rate debt with interest rate swaps and net swap payments for each fiscal year during the next five year period ending
+June 30, 2028 and in five year increments thereafter are as follows:
+Fiscal
+Year Ending Variable-Rate Bonds Net Swap
+June 30 Principal Interest Payments Total
+2024 -$                          7,056,591$            (3,258,330)$          3,798,261$
+2025 3,340,000              7,814,351              (3,960,859)            7,193,492
+2026 4,010,000              7,670,100              (3,892,706)            7,787,394
+2027 4,120,000              7,510,610              (3,793,514)            7,837,096
+2028 4,240,000              7,346,675              (3,616,782)            7,969,893
+2029-2033 37,250,000            33,130,744            (16,108,049)          54,272,695
+2034-2038 65,490,000            23,190,743            (11,074,812)          77,605,931
+2039-2043 51,340,000            10,354,176            (4,785,017)            56,909,159
+2044-2048 20,055,000            1,727,020              (785,368)               20,996,652
+Total 189,845,000$        105,801,010$        (51,275,437)$        244,370,573$
+Contingencies  OHCSD’s swaps include provisions that require collateral to be posted if the rating on the senior bonds issued
+under the 1988 indenture (Mortgage Revenue Bonds) is not above either Baa1 as determined by Moody’s or BBB+ as
+determined by Standard and Poor’s. If the bonds are at or below these levels, collateral in the amount of the current swap fair
+value (rounded to the nearest $10,000) is required to be posted. The minimum transfer amount is $100,000 or $0 if neither
+rating agency rates the bonds. The total fair value on June 30, 2023 of swaps that include these provisions is $16,932,320. As
+of June 30, 2023 the bonds subject to these provisions are rated Aa2 by Moody’s and are not rated by Standard & Poor’s.
+NOTE 11.  Conduit Debt Obligations
+OHCSD issues conduit debt to facilitate the building of multifamily affordable housing. Bonds issued under the Housing
+Development Revenue Bond program are limited obligations of OHCSD payable only out of the trust estate specifically
+pledged to each bond issue. As of June 30, 2023, the total aggregate amount of Housing Development Revenue Bonds
+outstanding is $1,260,270,984. No recourse may be taken against any properties, funds, or assets of OHCSD for the payment
+of any amounts owing with respect to these bonds. Bond owners will have no right to compel the payment of any amount
+owing with respect to these bonds out of any tax revenues, funds, or other assets of OHCSD or the State of Oregon, other
+than the security pledged to each bond issue.
+Notes to the Financial Statements   (Continued)
+June 30, 2023
+NOTE 12.  Segment Information
+OHCSD issues revenue bonds to finance mortgage loans. Summary financial information for OHCSD’s revenue bonds is
+presented below:
+Multifamily
+Mortgage Housing
+Revenue Revenue
+Bonds Bonds
+Condensed Statement of Net Position
+Assets:
+Other Current Assets 122,710,772$         3,287,888$
+Noncurrent Assets 946,212,425           52,392,952
+Total Assets 1,068,923,197        55,680,840
+Deferred Outflows of Resources 340,288                  47,500
+Liabilities:
+Other Current Liabilities 81,563,871             1,074,474
+Noncurrent Liabilities 871,417,433           18,365,513
+Total Liabilities 952,981,304           19,439,987
+Deferred Inflows of Resources 20,301,563             216,499
+Net Position
+Restricted by Trust Indentures 95,980,618             36,071,854
+Total Net Position 95,980,618$           36,071,854$
+Condensed Statement of Revenues, Expenses, and Changes in Net Position
+Interest on Loans 29,324,928$           1,688,921$
+Investment Income 4,829,467               662,320
+Other Operating Revenues 1,328,765               335
+Operating Expenses (30,552,532)            (1,005,417)
+Operating Income (Loss) 4,930,628               1,346,159
+Transfers Out (1,500,000)              -
+Increase (Decrease) in Net Position 3,430,628               1,346,159
+Beginning Net Postion 92,549,990             34,725,695
+Ending Net Position 95,980,618$           36,071,854$
+Condensed Statement of Cash Flows
+Net Cash Provided (Used) by:
+Operating Activities (52,161,368)$          6,038,493$
+Noncapital Financing Activities 54,256,566             (4,581,067)
+Investing Activities 99,636,587             19,308,189
+Net Increase (Decrease) 101,731,785           20,765,615
+Beginning Cash and Cash Equivalents 58,787,629             5,197,497
+Ending Cash and Cash Equivalents 160,519,414$         25,963,112$
+Notes to the Financial Statements   (Continued)
+June 30, 2023
+NOTE 13.  Restricted Assets
+Restricted asset account balances are as follows:
+Elderly and
+Disabled Housing
+Housing Finance
+Purpose: Fund Fund
+Loan Acquisition -$                            44,833,423$
+Current Debt Service 1,979,708               94,267,880
+Future Debt Service 55,353,415             47,914,304
+Debt Reserves 5,197,134               26,589,466
+Insurance Reserves -                              22,063,149
+Combined Program Account -                              19,594,671
+Residential Assistance -                              175,200
+Total 62,530,257$           255,438,093$
+Statement of Net Position Amounts:
+Restricted Cash and Cash Equivalents – Current 1,979,708$             94,311,396$
+Restricted Cash and Cash Equivalents – Noncurrent 59,270,813             93,833,797
+Restricted Investments -  Noncurrent 1,279,736               67,292,900
+Total 62,530,257$           255,438,093$
+NOTE 14.  Employee Retirement Plans
+The Oregon Public Employees Retirement System (PERS) provides defined benefit and defined contribution retirement plans
+for OHCSD employees. PERS is administered by the Public Employees Retirement Board (Board), as required by Chapters
+238 and 238A of the Oregon Revised Statutes (ORS). PERS is a cost-sharing multiple-employer defined benefit pension
+plan. The Tier One/Tier Two Retirement Benefit Plan, established by ORS Chapter 238, is closed to new members hired on
+or after August 29, 2003. The Oregon Public Service Retirement Plan (OPSRP), established by ORS Chapter 238A, provides
+benefits to members hired on or after August 29, 2003. The Individual Account Program (IAP) is a d efined contribution plan.
+Beginning January 1, 2004, all member contributions are deposited into the member’s IAP account. The pension plans
+provide pension benefits, death benefits and disability benefits.
+PERS funding policy provides for monthly employer contributions at actuarially determined rates. These contributions,
+expressed as a percentage of covered payroll, are intended to accumulate sufficient assets to pay benefits when due. The rate s
+in effect for the fiscal year ended June 30, 2023 were 21.03% for Tier One and Tier Two General Service Members and
+17.12% for OPSRP Pension Program General Service Members.
+The Oregon Public Employees Retirement System annual financial report and Actuarial Valuation is located a t
+www.oregon.gov/pers/Pages/Financials/Actuarial-Financial-Information.aspx.
+At June 30, 2023, the State of Oregon reported a liability of $4.6 billion for its proportionate share of the net pension liability.
+OHCSD’s allocated amount of the proportionate share of the net pension liability for its enterprise funds was $8,343,213.
+The net pension liability was measured as of June 30, 2022 and the total pension liability used to calculate the net pension
+liability was determined by an actuarial valuation as of December 31, 2020. The State’s proportion of the net pension liability
+was based on a projection of the State’s long-term share of contributions to the pension plan relative to the projected
+contributions of all participating employers, actuarially determined. At June 30, 2023, the State’s proportion was 29.83% (the
+State’s proportion at June 30, 2022 was 27.60%). As part of the State of Oregon, OHCSD’s enterprise funds were allocated
+0.18494460% of the State’s proportionate share.
+Notes to the Financial Statements   (Continued)
+June 30, 2023
+For the year ended June 30, 2023, OHCSD recognized pension expense of $3,867,698. At June 30, 2023, OHCSD reported
+deferred outflows of resources and deferred inflows of resources related to pensions from the following:
+Deferred Outflows Deferred Inflows
+of Resources of Resources
+Changes in proportion and differences between fund contributions
+and proportionate share of contributions 892,293$          944,055$
+Difference between expected and actual experience 404,996            52,029
+Net difference between projected and actual earnings on investments -                        1,491,605
+Change in Assumptions 1,309,095         11,960
+Subtotal 2,606,384         2,499,649
+Net Deferred Outflows (Inflows) of Resources before contributions
+subsequent to measurement date 106,735
+Contributions subsequent to measurement date 1,083,092
+Net Deferred Outflows (Inflows) of Resources 1,189,827
+NOTE 15.  Other Postemployment Benefit Plans
+OHCSD’s employees may be eligible to participate in health insurance plans and other benefit plans after retirement,
+collectively known as Other Postemployment Benefits (OPEB).  OPEB plans are offered through the Public Employees
+Retirement System (PERS) as established by Oregon Revised Statutes (ORS) 238.410 and the Public Employees Benefit
+Board (PEBB) as established by ORS 243.302.  The Oregon Public Employees Retirement System annual financial report is
+located at www.oregon.gov/pers/Pages/Financials/Actuarial-Financial-Information.aspx.
+At June 30, 2023, OHCSD reported deferred outflows of resources and deferred inflows of resources related to OPEB from
+the following:
+Deferred Outflows Deferred Inflows
+of Resources of Resources
+Changes in proportion and differences between fund contributions
+and proportionate share of contributions 10,528$            14,806$
+Difference between expected and actual experience -                        43,137
+Net difference between projected and actual earnings on investments -                        15,223
+Change in Assumptions 4,931                62,779
+Subtotal 15,459              135,945
+Net Deferred Outflows (Inflows) of Resources before contributions
+subsequent to measurement date (120,486)
+Contributions subsequent to measurement date 13,050
+Net Deferred Outflows (Inflows) of Resources (107,436)
+Retirement Health Insurance Account plan
+The Retirement Health Insurance Account (RHIA) is a cost-sharing multiple-employer defined benefit OPEB plan
+administered by the Public Employees Retirement Board. The plan provides a payment of up to $60 toward the monthly cost
+of health insurance for eligible PERS members. OHCSD is required by statute to contribute actuarially computed amounts as
+determined by PERS. The rates in effect for the fiscal year ended June 30, 2023 were 0.05% for Tier One and Tier Two
+General Service Members and zero for OPSRP Pension Program General Service Members.
+Notes to the Financial Statements   (Continued)
+June 30, 2023
+At June 30, 2023, the State of Oregon reported an asset of $123.8 million for its proportionate share of the net OPEB asset.
+OHCSD’s allocated amount of the proportionate share of the net OPEB asset for its enterprise funds was $154,242. It is
+shown on the Statement of Net Position as Net Other Postemployment Benefits Asset. The net OPEB asset was measured as
+of June 30, 2022 and the total OPEB asset used to calculate the net OPEB asset was determined by an actuarial valuation as
+of December 31, 2020. The State’s proportion of the net OPEB asset is determined by comparing the State’s actual, legally
+required contributions made during the fiscal year with the total actual contributions made in the fiscal year of all employers.
+At June 30, 2022, the State’s proportion was 34.85% (the State’s proportion at June 30, 2021 was 40.18%). As part of the
+State of Oregon, OHCSD’s enterprise funds were allocated 0.12737794% of the State’s proportionate share. For the year
+ended June 30, 2023, OHCSD recognized OPEB income of $47,803 for RHIA.
+Retiree Health Insurance Premium Account plan
+The Retiree Health Insurance Premium Account (RHIPA) is a single-employer OPEB plan administered by the Oregon
+Public Employees Retirement Board (Board). The plan provides for payment of the average difference between the health
+insurance premiums paid by retired state employees, under contracts entered into by the Board, and health insurance
+premiums paid by active state employees. OHCSD is required by statute to contribute actuarially computed amounts as
+determined by PERS. The rates in effect for the fiscal year ended June 30, 2023 were 0.28% for Tier One and Tier Two
+General Service Members and 0.17% for OPSRP Pension Program General Service Members.
+At June 30, 2023, the State of Oregon reported a net OPEB asset of $34.2 million. The net OPEB asset was measured as of
+June 30, 2022 and the total OPEB asset used to calculate the net OPEB asset was determined by an actuarial valuation as of
+December 31, 2020. As part of the State of Oregon, OHCSD’s enterprise funds were allocated 0.15544736% of the State’s
+internal allocation, which was based on fiscal year 2022 actual contributions. OHCSD’s share of the net OPEB asset for the
+RHIPA plan on June 30, 2023 for its enterprise funds was $53,204. It is shown on the Statement of Net Position as Net Other
+Postemployment Benefits Asset. For the year ended June 30, 2023, OHCSD recognized OPEB income of $7,060 for RHIPA.
+Public Employees’ Benefit Board Plan
+The Public Employees’ Benefit Board (PEBB) plan is a single-employer plan administered by the Oregon Public Employees’
+Benefit Board. The PEBB plan allows qualifying retired employees to continue their “active” health insurance coverage on a
+self-pay basis until they are eligible for Medicare.  Participating retirees pay their own monthly premiums.  The premium
+amount is based on a blended rate that is determined by pooling the qualifying retirees with active employees, thus, creating
+an “implicit” rate subsidy. PEBB does not issue a separate, publicly available financial report.
+At June 30, 2023, the State of Oregon reported a total OPEB liability of $105.6 million. As part of the State of Oregon,
+OHCSD’s enterprise funds were allocated 0.10295626% of the State’s total. The State’s internal allocation of the total OPEB
+liability is based on fiscal year 2023 health insurance premium costs. OHCSD’s share of the total OPEB liability on
+June 30, 2023 for its enterprise funds was $108,736. It is shown on the Statement of Net Position as Total Other
+Postemployment Benefits Liability. For the year ended June 30, 2023, OHCSD recognized OPEB expense of $14,451 for the
+PEBB plan.
+NOTE 16.  Other Commitments
+As of June 30, 2023, OHCSD has made commitments for loans in the Single-Family Mortgage Program totaling
+$35,656,263.
+Notes to the Financial Statements   (Continued)
+June 30, 2023
+NOTE 17.  Risk Financing
+The State or Oregon Department of Administrative Services directs and manages all risk management and insurance
+programs of state government except for employee benefit insurance programs. The state uses both self-insurance and
+commercial insurance policies to insure its risk of loss.
+For more information about risk financing, see the Risk Financing note in the State of Oregon Annual Comprehensive
+Financial Report found at www.oregon.gov/DAS/Financial/Acctng/pages/index.aspx.
+NOTE 18.  Subsequent Events
+On July 1, 2023, OHCSD called the following Mortgage Revenue Bonds prior to maturity:
+Amount Called Amount Called
+2013 Series B 560,000$      2017 Series G 1,090,000$
+2013 Series C 840,000 2018 Series A 2,185,000
+2013 Series D 670,000 2018 Series C 2,060,000
+2014 Series A 615,000 2018 Series D 3,000,000
+2014 Series B 615,000 2019 Series A 2,375,000
+2014 Series C 510,000 2020 Series A 1,595,000
+2015 Series A 2,135,000 2020 Series C 1,305,000
+2016 Series A 1,600,000 2021 Series A 1,330,000
+2017 Series A 2,630,000 2022 Series A 815,000
+2017 Series D 1,620,000 2022 Series C 65,000
+2017 Series E 675,000 2022 Series E 15,000,000
+On September 28, 2023, OHCSD issued the following Mortgage Revenue Bonds:
+Amount Issued
+2023 Series C 127,665,000$
+2023 Series D 20,000,000
+[THIS PAGE INTENTIONALLY LEFT BLANK]
+Supplementary Information
+OREGON HOUSING & COMMUNITY SERVICES DEPARTMENT
+Combining Statement of Net Position - Housing Finance Fund
+June 30, 2023
+Mortgage Housing Combined
+Revenue Revenue Program
+Bonds Bonds Account
+Assets and Deferred Outflows of Resources
+Assets
+Current Assets
+Cash and Cash Equivalents -$                      -$                      -$
+Cash and Cash Equivalents - Restricted 92,812,181        1,499,215          -
+Securities Lending Cash Collateral 2,377                 1,783                 -
+Accounts Receivable -                        -                        -
+Accrued Interest Receivable 4,694,226          145,591             166,868
+Interfund Receivable -                        -                        -
+Due from Governmental Funds -                        -                        -
+Prepaid Expenses -                        -                        -
+Loans Receivable 24,421,649        1,641,299          -
+Acquired Property 780,339             -                        -
+Total Current Assets 122,710,772      3,287,888          166,868
+Noncurrent Assets
+Cash and Cash Equivalents - Restricted 67,707,233        24,463,897        1,487,467
+Investments - Restricted 46,167,517        3,018,179          18,107,204
+Loans Receivable 815,495,516      24,910,876        -
+Swap Fair Value Asset 16,842,159        -                        -
+Net Other Postemployment Benefits Asset -                        -                        -
+Capital Assets (Net) -                        -                        -
+Leased Assets (Net) -                        -                        -
+Total Noncurrent Assets 946,212,425      52,392,952        19,594,671
+Total Assets 1,068,923,197   55,680,840        19,761,539
+Deferred Outflows of Resources
+Loss on Debt Refundings 340,288             47,500               -
+Related to Pensions -                        -                        -
+Related to Other Postemployment Benefits -                        -                        -
+Total Deferred Outflows of Resources 340,288             47,500               -
+Total Assets and Deferred Outflows of Resources 1,069,263,485$ 55,728,340$      19,761,539$
+Multifamily
+Housing
+Finance
+Account Total
+42,246,808$      42,246,808$
+-                        94,311,396
+17,496               21,656
+298,680             298,680
+20,358               5,027,043
+47,806               47,806
+302,478             302,478
+21,147               21,147
+21,656               26,084,604
+-                        780,339
+42,976,429        169,141,957
+175,200             93,833,797
+-                        67,292,900
+1,215,839          841,622,231
+-                        16,842,159
+180,264             180,264
+2,179                 2,179
+1,639                 1,639
+1,575,121          1,019,775,169
+44,551,550        1,188,917,126
+-                        387,788
+3,222,279          3,222,279
+24,558               24,558
+3,246,837          3,634,625
+47,798,387$      1,192,551,751$
+Continued on the next page
+OREGON HOUSING & COMMUNITY SERVICES DEPARTMENT
+Combining Statement of Net Position - Housing Finance Fund
+June 30, 2023 Continued from the previous page
+Mortgage Housing Combined
+Revenue Revenue Program
+Bonds Bonds Account
+Multifamily
+Liabilities, Deferred Inflows of Resources, and Net Position
+Liabilities
+Current Liabilities
+Accounts Payable 682,476$           218$                  -$
+Accrued Interest Payable 14,304,333        442,473             -
+Obligations Under Securities Lending 2,377                 1,783                 -
+Due to Governmental Funds -                        -                        -
+Unearned Revenue 17,389               -                        -
+Compensated Absences Payable -                        -                        -
+Lease Obligations -                        -                        -
+Bonds Payable 66,475,000        630,000             -
+Arbitrage Rebate Liability 82,296               -                        -
+Pension-related Debt Payable -                        -                        -
+Total Current Liabilities 81,563,871        1,074,474          -
+Noncurrent Liabilities
+Compensated Absences Payable -                        -                        -
+Bonds Payable 871,381,798      18,365,513        -
+Arbitrage Rebate Liability 35,635               -                        -
+Pension-related Debt Payable -                        -                        -
+Net Pension Liability -                        -                        -
+Total Other Postemployment Benefits Liability -                        -                        -
+Total Noncurrent Liabilities 871,417,433      18,365,513        -
+Total Liabilities 952,981,304      19,439,987        -
+Deferred Inflows of Resources
+Accumulated Increase in Fair Value
+of Hedging Derivatives 16,842,159        -                        -
+Gain on Debt Refundings 41,467               -                        -
+Deferred Loan Origination Fees 3,417,937          216,499             -
+Related to Pensions -                        -                        -
+Related to Other Postemployment Benefits -                        -                        -
+Total Deferred Inflows of Resources 20,301,563        216,499             -
+Net Position
+Net Investment in Capital Assets -                        -                        -
+Restricted for Residential Assistance -                        -                        -
+Restricted for Other Postemployment Benefits -                        -                        -
+Restricted by Trust Indentures 95,980,618        36,071,854        19,761,539
+Unrestricted -                        -                        -
+Total Net Position 95,980,618        36,071,854        19,761,539
+Total Liabilities, Deferred Inflows
+of Resources, and Net Position 1,069,263,485$ 55,728,340$      19,761,539$
+Housing
+Finance
+Account Total
+710,572$           1,393,266$
+-                        14,746,806
+17,496               21,656
+477,517             477,517
+413,771             431,160
+308,268             308,268
+1,671                 1,671
+-                        67,105,000
+-                        82,296
+37,999               37,999
+1,967,294          84,605,639
+173,401             173,401
+-                        889,747,311
+-                        35,635
+155,262             155,262
+7,318,524          7,318,524
+92,601               92,601
+7,739,788          897,522,734
+9,707,082          982,128,373
+-                        16,842,159
+-                        41,467
+-                        3,634,436
+2,192,650          2,192,650
+117,265             117,265
+2,309,915          22,827,977
+2,147                 2,147
+1,141,817          1,141,817
+180,264             180,264
+-                        151,814,011
+34,457,162        34,457,162
+35,781,390        187,595,401
+47,798,387$      1,192,551,751$
+OREGON HOUSING & COMMUNITY SERVICES DEPARTMENT
+Combining Statement of Revenues, Expenses, and Changes in Fund Net Position -
+Housing Finance Fund
+For the Year Ended June 30, 2023
+Mortgage Housing Combined
+Revenue Revenue Program
+Bonds Bonds Account
+Operating Revenues
+Interest on Loans 29,324,928$      1,688,921$        -$
+Investment Income 4,829,467          662,320             116,451
+Administrative Charges and Fees -                        -                        -
+Low Income Housing Tax Credit Fees -                        -                        -
+Gain (Loss) on Debt Extinguishment 1,327,661          -                        -
+Miscellaneous Revenue 1,104                 335                    25
+Total Operating Revenues 35,483,160        2,351,576          116,476
+Operating Expenses
+Personal Services -                        -                        -
+Services and Supplies 258,862             69,308               -
+Mortgage Service Fees 2,991,036          5,015                 -
+Foreclosure Costs 24,621               -                        -
+Interest Expense - Bonds 24,549,136        930,310             -
+Interest Expense - Securities Lending 3,696                 784                    -
+Other Related Program Expenses 2,725,181          -                        -
+Depreciation/Amortization -                        -                        -
+Total Operating Expenses 30,552,532        1,005,417          -
+Operating Income (Loss) 4,930,628          1,346,159          116,476
+Nonoperating Revenues (Expenses)
+Interest Expense - Pension-related Debt -                        -                        -
+Interest Expense - Leased Assets -                        -                        -
+Total Nonoperating Revenues (Expenses) -                        -                        -
+Income (Loss) Before Transfers 4,930,628          1,346,159          116,476
+Transfers from Other Funds -                        -                        -
+Transfers to Other Funds (1,500,000)        -                        -
+Transfers to Other State Agencies -                        -                        -
+Increase (Decrease) in Net Position 3,430,628          1,346,159          116,476
+Net Position - Beginning 92,549,990        34,725,695        19,645,063
+Net Position - Ending 95,980,618$      36,071,854$      19,761,539$
+Multifamily
+Housing
+Finance
+Account Total
+16,168$             31,030,017$
+908,696             6,516,934
+7,978,502          7,978,502
+8,028,128          8,028,128
+-                        1,327,661
+193                    1,657
+16,931,687        54,882,899
+12,246,790        12,246,790
+3,343,962          3,672,132
+-                        2,996,051
+-                        24,621
+-                        25,479,446
+4,608                 9,088
+301,069             3,026,250
+7,541                 7,541
+15,903,970        47,461,919
+1,027,717          7,420,980
+(13,528)             (13,528)
+(53)                    (53)
+(13,581)             (13,581)
+1,014,136          7,407,399
+11,500,000        11,500,000        **
+-                        (1,500,000)        **
+(315,577)           (315,577)
+12,198,559        17,091,822
+23,582,831        170,503,579
+35,781,390$      187,595,401$
+**  Transfers within the Housing Finance Fund totaling $1,500,000 are not included in the Statement of Revenues, Expenses, and Changes in Fund Net Position on page 8.
+OREGON HOUSING & COMMUNITY SERVICES DEPARTMENT
+Combining Statement of Cash Flows - Housing Finance Fund
+For the Year Ended June 30, 2023
+Mortgage Housing Combined
+Revenue Revenue Program
+Bonds Bonds Account
+Cash Flows from Operating Activities
+Received from Customers 683,192$           -$                      -$
+Program Loan Principal Repayments 60,509,547        4,478,163          -
+Program Loan Interest Received 28,191,392        1,644,641          -
+Program Loans Made (136,638,159)    -                        -
+Payments to Employees for Services -                        -                        -
+Payments to Suppliers for Goods and Services (3,244,752)        (84,646)             -
+Other Receipts (Payments) (1,662,588)        335                    25
+Net Cash Provided (Used) in Operating Activities (52,161,368)      6,038,493          25
+Cash Flows from Noncapital Financing Activities
+Proceeds from Bond Sales 114,018,169      -                        -
+Principal Payments - Bonds (33,925,000)      (3,575,000)        -
+Interest Payments - Bonds (23,347,412)      (1,006,067)        -
+Bond Issuance Costs (989,191)           -                        -
+Principal Payments - Pension-related Debt -                        -                        -
+Interest Payments - Pension-related Debt -                        -                        -
+Transfers from Other Funds -                        -                        -
+Transfers to Other Funds (1,500,000)        -                        -
+Transfers to Other State Agencies -                        -                        -
+Net Cash Provided (Used) in Noncapital Financing Activities 54,256,566        (4,581,067)        -
+Cash Flows from Capital and Related Financing Activities
+Lease Principal Payments -                        -                        -
+Lease Interest Payments -                        -                        -
+Net Cash Provided (Used) in Capital and Related
+Financing Activities -                        -                        -
+Cash Flows from Investing Activities
+Purchase of Investments (117,037,210)    (8,123,963)        (5,531,198)
+Proceeds from Sales and Maturities of Investments 213,562,867      27,080,000        5,684,000
+Interest on Cash and Investments 3,110,930          352,152             568,708
+Investment Income on Securities Lending 3,696                 784                    -
+Interest Paid on Securities Lending (3,696)               (784)                  -
+Net Cash Provided (Used) in Investing Activities 99,636,587        19,308,189        721,510
+Net Increase (Decrease) in Cash and Cash Equivalents 101,731,785      20,765,615        721,535
+Cash and Cash Equivalents Balance - Beginning 58,787,629 5,197,497 765,932
+Cash and Cash Equivalents Balance - Ending 160,519,414$    25,963,112$      1,487,467$
+Cash and Cash Equivalents -$                      -$                      -$
+Cash and Cash Equivalents - Restricted (Current) 92,812,181        1,499,215          -
+Cash and Cash Equivalents - Restricted (Noncurrent) 67,707,233        24,463,897        1,487,467
+Total Cash and Cash Equivalents 160,519,414$    25,963,112$      1,487,467$
+Multifamily
+Housing
+Finance
+Account Total
+15,922,347$      16,605,539$
+27,537               65,015,247
+2,681                 29,838,714
+-                        (136,638,159)
+(9,155,587)        (9,155,587)
+(3,094,765)        (6,424,163)
+(275,456)           (1,937,684)
+3,426,757          (42,696,093)
+-                        114,018,169
+-                        (37,500,000)
+-                        (24,353,479)
+-                        (989,191)
+(53,322)             (53,322)
+(13,528)             (13,528)
+11,500,000        11,500,000        **
+-                        (1,500,000)        **
+(335,906)           (335,906)
+11,097,244        60,772,743
+(6,305)               (6,305)
+(61)                    (61)
+(6,366)               (6,366)
+-                        (130,692,371)
+-                        246,326,867
+904,088             4,935,878
+4,608                 9,088
+(4,608)               (9,088)
+904,088             120,570,374
+15,421,723        138,640,658
+27,000,285 91,751,343
+42,422,008$      230,392,001$
+42,246,808$      42,246,808$
+-                        94,311,396
+175,200             93,833,797
+42,422,008$      230,392,001$
+Continued on the next page
+**  Transfers within the Housing Finance Fund totaling $1,500,000 are not included in the Statement of Cash Flows on page 10.
+OREGON HOUSING & COMMUNITY SERVICES DEPARTMENT
+Combining Statement of Cash Flows - Housing Finance Fund
+For the Year Ended June 30, 2023 Continued from the previous page
+Mortgage Housing Combined
+Revenue Revenue Program
+Bonds Bonds Account
+Multifamily
+Reconciliation of Operating Income to
+Net Cash Provided by Operating Activities
+Operating Income (Loss) 4,930,628$        1,346,159$        116,476$
+Adjustments to Reconcile Operating Income to
+Net Cash Provided by Operating Activities
+Capital Asset Depreciation/Amortization -                        -                        -
+Investment Income Reported as Operating Revenue (4,829,467)        (662,320)           (116,451)
+Interest Expense Reported as Operating Expense 24,552,832        931,094             -
+Bond Issuance Costs Reported as Operating Expense 1,041,405          -                        -
+(Gain) Loss on Debt Extinguishment (1,327,660)        -                        -
+(Increase)/Decrease in Assets:
+Loan Interest Receivable (394,288)           12,443               -
+Accounts Receivable -                        -                        -
+Interfund Receivable -                        -                        -
+Due from Governmental Funds -                        -                        -
+Prepaid Expenses -                        -                        -
+Loans Receivable (75,746,742)      4,478,163          -
+Acquired Property (780,339)           -                        -
+Net Other Postemployment Benefit Asset -                        -                        -
+(Increase)/Decrease in Deferred Outflows of Resources:
+Related to Pensions -                        -                        -
+Related to Other Postemployment Benefits -                        -                        -
+Increase/(Decrease) in Liabilities:
+Accounts Payable 67,671               (10,323)             -
+Interfund Payable (17,821)             -                        -
+Due to Governmental Funds -                        -                        -
+Due to Other Governments -                        -                        -
+Unearned Revenue 6,579                 -                        -
+Compensated Absences Payable -                        -                        -
+Net Pension Liability -                        -                        -
+Total Other Postemployment Benefit Liability -                        -                        -
+Increase/(Decrease) in Deferred Inflows of Resources:
+Deferred Loan Origination Fees 335,834             (56,723)             -
+Related to Pensions -                        -                        -
+Related to Other Postemployment Benefits -                        -                        -
+Net Cash Provided (Used) in Operating Activities (52,161,368)$    6,038,493$        25$
+Noncash Investing, Capital, and Financing Activities
+Net Change in Fair Value of Investments 1,470,986$        267,909$           (488,273)$
+Foreclosed Property 780,339             -                        -
+Loan Modifications 398,469             -                        -
+Total Noncash Investing, Capital, and Financing Activities 2,649,794$        267,909$           (488,273)$
+Housing
+Finance
+Account Total
+1,027,717$        7,420,980$
+7,541                 7,541
+(908,696)           (6,516,934)
+4,608                 25,488,534
+-                        1,041,405
+-                        (1,327,660)
+(13,487)             (395,332)
+23,021               23,021
+48,038               48,038               **
+270,768             270,768
+(21,147)             (21,147)
+27,537               (71,241,042)
+-                        (780,339)
+(46,149)             (46,149)
+(682,276)           (682,276)
+(931)                  (931)
+(56,546)             802
+(49,270)             (67,091)             **
+335,620             335,620
+(41,180)             (41,180)
+(102,008)           (95,429)
+353,913             353,913
+3,806,186          3,806,186
+(8,515)               (8,515)
+-                        279,111
+(549,545)           (549,545)
+1,558                 1,558
+3,426,757$        (42,696,093)$
+-$                      1,250,622$
+-                        780,339
+-                        398,469
+-$                      2,429,430$
+**  Interfund Receivables and Payables within the Housing Finance Fund totaling an increase of $17,821 are not included in the Statement of Cash Flows on page 11.
+[THIS PAGE INTENTIONALLY LEFT BLANK]
+Statistical Section
+The Statistical Section presents information as a context for understanding what the information
+in the financial statements and note disclosures says about OHCSD’s overall financial health.
+Financial Trends
+Pages 46-53 contain trend information to help the reader understand how OHCSD’s financial
+performance has changed over time.
+Revenue Capacity
+Pages 54 and 55 contain information to help the reader understand OHCSD’s most significant
+revenue source, Interest on Loans.
+Debt Capacity
+Pages 56 and 57 contain information to help the reader assess OHCSD’s current levels of
+outstanding debt and the capacity to issue debt in the future.
+Demographic and Economic Information
+Pages 58 and 59 contain demographic, economic, and employment data to help the reader
+understand the environment OHCSD operates in.
+Operating Information
+Pages 60-67 contain information to help the reader understand how the information in the
+financial report relates to activities of OHCSD.
+OREGON HOUSING & COMMUNITY SERVICES DEPARTMENT
+Assets, Deferred Outflows of Resources, Liabilities, Deferred Inflow of Resources, and Net Position
+Enterprise Funds
+Last Ten Fiscal Years
+2023 2022 2021 2020
+Assets
+Cash and Cash Equivalents 43,368,149$        27,541,346$        19,753,000$        13,886,704$
+Cash and Cash Equivalents - Restricted 249,395,714        123,017,393        120,381,648        154,695,669
+Investments - Resticted 68,572,636          182,989,422        254,568,169        223,223,166
+Securities Lending Cash Collateral 47,499                 580,028               301,531               1,248,701
+Accounts Receivable 299,530               321,701               361,983               266,455
+Accrued Interest Receivable 5,294,590            3,343,179            3,880,856            4,518,523
+Interfund Receivable 47,806                 127,293               22,099                 12,862
+Due from Governmental Funds 302,655               573,246               131,442               391,789
+Due from Other State Agencies -                           -                           -                           88,521
+Prepaid Expenses 21,147                 -                           115                      -
+Acquired Property 780,339               -                           122,985               817,484
+Loans Receivable (Net) 906,559,557        839,633,718        855,740,724        982,544,056
+Swap Fair Value Asset 16,842,159          12,368,910          2,687,321            -
+Net Pension Asset -                           -                           -                           -
+Net Other Postemployment Benefits Asset 207,446               159,246               20,903                 72,037
+Capital Assets (Net) 2,777                   4,766                   7,024                   10,214
+Leased Assets (Net) 1,983                   8,868                   -                           -
+Total Assets 1,291,743,987     1,190,669,116     1,257,979,800     1,381,776,181
+Deferred Outflows of Resources
+Accumulated Decrease in Fair Value
+of Hedging Derivatives -                           -                           6,386,956            10,726,213
+Loss on Debt Refunding 387,788               464,599               674,944               1,107,604
+Related to Pensions 3,689,476            2,937,464            2,430,234            1,951,568
+Related to Other Postemployment Benefits 28,509                 27,513                 32,363                 18,462
+Total Deferred Outflows of Resources 4,105,773            3,429,576            9,524,497            13,803,847
+Total Assets and Deferred Outflows of Resources 1,295,849,760$   1,194,098,692$   1,267,504,297$   1,395,580,028$
+Unaudited
+2019 2018 2017 2016 2015 2014
+12,630,562$        9,388,621$          9,915,911$          8,730,328$          10,077,977$        4,060,107$
+65,370,939          68,372,203          59,447,712          80,466,457          66,585,531          64,782,925
+277,597,803        244,508,334        232,640,617        278,624,844        229,912,957        310,056,935
+2,101,856            1,191,697            357,168               2,041,190            4,032,437            3,393,772
+139,932               29,182,712          409,631               131,122               177,215               189,304
+4,133,592            3,924,987            3,729,012            4,209,653            4,618,750            5,443,641
+81,079                 80,220                 16,939                 6,780                   607                      164
+114,050               24,797                 82,468                 23,931                 1,795                   10,979
+-                           -                           -                           -                           -                           -
+4,563                   1,140                   514                      28,996                 675                      8,655
+1,016,875            1,841,751            2,995,957            3,766,377            4,407,890            7,135,654
+954,607,414        834,207,159        804,071,640        847,251,131        918,003,978        1,009,415,693
+-                           1,514,014            899,578               -                           -                           -
+-                           -                           -                           -                           558,607               -
+31,100                 11,451                 -                           -                           -                           -
+43,223                 51,674                 59,925                 62,637                 70,549                 22,340
+-                           -                           -                           -                           -                           -
+1,317,872,988     1,194,300,760     1,114,627,072     1,225,343,446     1,238,448,968     1,404,520,169
+5,221,906            137,728               1,864,021            6,906,793            11,379,103          17,276,495
+1,435,973            1,942,159            1,761,830            2,092,930            2,344,757            2,262,264
+1,386,060            1,183,656            2,170,765            407,457               206,746               -
+40,861                 26,968                 -                           -                           -                           -
+8,084,800            3,290,511            5,796,616            9,407,180            13,930,606          19,538,759
+1,325,957,788$   1,197,591,271$   1,120,423,688$   1,234,750,626$   1,252,379,574$   1,424,058,928$
+Continued on the next page
+OREGON HOUSING & COMMUNITY SERVICES DEPARTMENT
+Assets, Deferred Outflows of Resources, Liabilities, Deferred Inflow of Resources, and Net Position
+Enterprise Funds
+Last Ten Fiscal Years Continued from the previous page
+2023 2022 2021 2020
+Liabilities
+Accounts Payable 1,430,947$          1,374,030$          1,139,884$          1,347,392$
+Accrued Interest Payable 15,143,968          12,064,921          14,575,857          16,540,642
+Obligations Under Securities Lending 47,499                 580,028               301,531               1,248,701
+Interfund Payable 47,806                 127,293               22,099                 12,862
+Due to Governmental Funds 599,404               174,415               24,370                 54,126
+Due to Other Governments -                           41,180                 5,776                   -
+Unearned Revenue 432,247               527,315               643,867               754,469
+Compensated Absences Payable 584,963               135,646               286,347               284,985
+Lease Obligations 2,022                   8,926                   -                           -
+Bonds Payable 976,925,409        904,114,640        979,686,245        1,107,569,224
+Swap Fair Value Liabilty -                           -                           6,386,956            10,726,213
+Arbitrage Rebate Liability 117,931               -                           -                           -
+Pension-related Debt Payable 247,200               315,405               371,238               421,318
+Net Pension Liability 8,343,213            4,102,944            7,030,726            5,804,785
+Net Other Postemployment Benefits Liability -                           -                           11,590                 32,005
+Total Other Postemployment Benefits Liability 108,736               120,295               161,281               153,434
+Net Other Postemployment Benefits Obligation -                           -                           -                           -
+Total Liabilities 1,004,031,345     923,687,038        1,010,647,767     1,144,950,156
+Deferred Inflows of Resources
+Accumulated Increase in Fair Value
+of Hedging Derivatives 16,842,159          12,368,910          2,687,321            -
+Gain on Debt Refunding 41,467                 79,652                 40,482                 -
+Deferred Loan Origination Fees 3,894,643            3,657,125            3,801,580            4,445,934
+Related to Pensions 2,499,649            3,203,301            159,733               276,737
+Related to Other Postemployment Benefits 135,945               136,153               35,963                 40,745
+Total Deferred Inflows of Resources 23,413,863          19,445,141          6,725,079            4,763,416
+Net Position
+Net Investment in Capital Assets 2,738                   13,634                 7,024                   10,214
+Restricted for Residential Assistance 1,141,817            1,130,120            1,256,957            1,257,239
+Restricted for Other Postemployment Benefits 207,446               159,246               20,903                 72,037
+Restricted by Trust Indentures 231,592,674        224,461,170        229,688,722        228,197,707
+Unrestricted 35,459,877          25,202,343          19,157,845          16,329,259
+Total Net Position 268,404,552        250,966,513        250,131,451        245,866,456
+Total Liabilities, Deferred Inflows
+of Resources,  and Net Position 1,295,849,760$   1,194,098,692$   1,267,504,297$   1,395,580,028$
+Unaudited
+Continued from the previous page
+2019 2018 2017 2016 2015 2014
+1,292,103$          609,703$             808,431$             626,684$             495,218$             1,021,618$
+16,741,051          13,660,865          13,031,173          15,411,597          17,957,672          20,477,454
+2,101,856            1,191,697            357,168               2,041,190            4,032,437            3,393,772
+81,079                 80,220                 16,939                 6,780                   607                      164
+64,554                 53,689                 6,959                   50,880                 101,511               47,284
+-                           -                           -                           -                           -                           -
+878,196               998,823               1,130,510            1,265,880            1,402,406            1,539,946
+289,020               344,492               271,186               252,162               276,849               296,128
+-                           -                           -                           -                           -                           -
+1,053,780,476     943,483,358        869,050,314        979,243,468        997,155,163        1,170,857,616
+5,221,906            137,728               1,864,021            6,906,793            11,379,103          17,276,495
+-                           -                           -                           -                           -                           -
+463,993               501,032               531,182               556,146               575,223               600,689
+3,180,583            3,275,674            4,116,951            1,580,442            -                           -
+33,673                 41,439                 -                           -                           -                           -
+182,434               124,593               -                           -                           -                           -
+-                           -                           87,445                 85,234                 92,770                 88,299
+1,084,310,924     964,503,313        891,272,279        1,008,027,256     1,033,468,959     1,215,599,465
+-                           1,514,014            899,578               -                           -                           -
+-                           -                           -                           -                           -                           -
+4,597,314            4,261,350            4,354,736            4,733,476            5,281,561            5,905,347
+178,767               27,367                 39,119                 384,804               1,077,887            -
+14,773                 8,471                   -                           -                           -                           -
+4,790,854            5,811,202            5,293,433            5,118,280            6,359,448            5,905,347
+43,223                 51,674                 59,925                 62,637                 70,549                 22,340
+2,058,567            2,089,298            2,074,043            2,098,015            2,029,118            2,019,413
+31,100                 11,451                 -                           -                           -                           -
+220,241,383        212,669,994        207,706,209        213,665,954        201,453,112        196,447,800
+14,481,737          12,454,339          14,017,799          5,778,484            8,998,388            4,064,563
+236,856,010        227,276,756        223,857,976        221,605,090        212,551,167        202,554,116
+1,325,957,788$   1,197,591,271$   1,120,423,688$   1,234,750,626$   1,252,379,574$   1,424,058,928$
+OREGON HOUSING & COMMUNITY SERVICES DEPARTMENT
+Revenue, Expenses, and Changes in Net Position
+Enterprise Funds
+Last Ten Fiscal Years
+2023 2022 2021 2020
+Operating Revenues
+Interest on Loans 32,687,523$        32,323,454$        35,074,849$        40,963,239$
+Investment Income (Loss) 8,246,716            (4,637,184)           339,398               11,696,263
+Administrative Charges and Fees 8,040,684            9,644,406            7,650,839            5,162,478
+Low Income Housing Tax Credit Fees 8,028,128            9,508,721            5,256,621            3,080,015
+Gain (Loss) on Sale of Foreclosed Property -                           (12,461)                -                           78,721
+Gain (Loss) on Debt Extinguishment 1,327,661            4,417,587            2,694,649            1,939,403
+Miscellaneous Revenue 1,722                   4,911                   26,459                 9,004
+Total Operating Revenues 58,332,434          51,249,434          51,042,815          62,929,123
+Operating Expenses
+Personal Services 14,067,608          8,845,625            7,863,929            8,697,614
+Services and Supplies 3,904,573            4,313,509            2,901,533            3,727,327
+Mortgage Service Fees 3,011,236            2,844,886            2,958,124            3,200,538
+Foreclosure Costs 24,621                 45,154                 143,493               13,605
+Interest Expense - Bonds 26,448,189          26,373,449          29,815,332          33,161,052
+Interest Expense - Securities Lending 18,115                 5,344                   2,266                   39,099
+Interest Expense - Loans -                           -                           -                           -
+Other Related Program Expenses 3,026,250            4,683,512            2,870,685            4,850,144
+Depreciation/Amortization 8,874                   10,776                 3,190                   5,821
+Bad Debt Expense -                           -                           -                           -
+Total Operating Expenses 50,509,466          47,122,255          46,558,552          53,695,200
+Operating Income (Loss) 7,822,968            4,127,179            4,484,263            9,233,923
+Nonoperating Revenue/(Expenses)
+Federal Grant Susbidy -                           -                           74,857                 -
+Gain/(Loss) on Disposition of Capital Assets -                           -                           -                           (27,188)
+Interest Expense - Pension-related Debt (17,304)                (18,378)                (29,168)                (32,788)
+Interest Expense - Leased Assets (64)                       (149)                     -                           -
+Total Nonoperating Revenue/(Expenses) (17,368)                (18,527)                45,689                 (59,976)
+Transfers
+Transfers from Other Funds 10,000,000          -                           -                           -
+Transfers to Other Funds -                           (2,899,555)           -                           -
+Transfers from Other State Agencies -                           -                           -                           88,521
+Transfers to Other State Agencies (367,561)              (374,035)              (264,957)              (252,022)
+Total Transfers 9,632,439            (3,273,590)           (264,957)              (163,501)
+Increase (Decrease) in Net Position 17,438,039$        835,062$             4,264,995$          9,010,446$
+Net Position - Beginning 250,966,513        250,131,451        245,866,456        236,856,010
+Prior Period Adjustment -                           -                           -                           -
+Change in Accounting Principle -                           -                           -                           -
+Net Position - Beginning (Restated) 250,966,513        250,131,451        245,866,456        236,856,010
+Net Position - Ending 268,404,552$      250,966,513$      250,131,451$      245,866,456$
+Unaudited
+2019 2018 2017 2016 2015 2014
+40,504,975$        36,644,795$        39,626,363$        46,381,931$        50,954,045$        52,542,197$
+11,846,649          3,650,448            332,374               6,767,972            3,484,174            4,844,825
+4,358,237            3,295,836            2,537,227            2,111,542            2,444,692            833,012
+3,364,208            2,924,199            1,604,511            1,126,415            3,174,641            1,566,180
+45,379                 146,174               373,502               314,222               288,970               548,575
+984,697               1,129,267            1,039,870            1,034,419            1,311,768            1,329,839
+6,938                   93,062                 358,328               115,962               60,801                 16,350
+61,111,083          47,883,781          45,872,175          57,852,463          61,719,091          61,680,978
+5,712,702            5,206,618            5,126,065            5,828,772            3,868,949            4,250,998
+2,886,332            3,084,561            2,508,940            2,437,292            2,392,345            2,429,232
+2,931,395            2,394,668            2,264,580            2,393,209            2,619,687            2,820,877
+215,168               438,500               616,407               422,662               324,684               995,546
+31,556,074          27,235,723          28,487,108          33,287,518          38,491,579          43,280,173
+95,991                 21,699                 1,974                   22,326                 12,347                 13,410
+-                           -                           -                           -                           -                           24,575
+7,832,586            5,778,673            4,346,935            4,169,306            2,740,696            4,554,711
+8,451                   8,452                   7,910                   7,912                   4,394                   2,034
+-                           -                           33,583                 -                           -                           -
+51,238,699          44,168,894          43,393,502          48,568,997          50,454,681          58,371,556
+9,872,384            3,714,887            2,478,673            9,283,466            11,264,410          3,309,422
+-                           -                           -                           -                           -                           -
+-                           -                           -                           -                           -                           -
+(31,857)                (32,996)                (38,010)                (37,729)                (39,019)                (38,942)
+-                           -                           -                           -                           -                           -
+(31,857)                (32,996)                (38,010)                (37,729)                (39,019)                (38,942)
+-                           -                           -                           -                           -                           -
+-                           -                           -                           -                           -                           -
+-                           -                           -                           -                           -                           -
+(261,273)              (184,404)              (187,777)              (191,814)              (211,415)              (185,435)
+(261,273)              (184,404)              (187,777)              (191,814)              (211,415)              (185,435)
+9,579,254$          3,497,487$          2,252,886$          9,053,923$          11,013,976$        3,085,045$
+227,276,756        223,857,976        221,605,090        212,551,167        202,554,116        214,936,632
+-                           -                           -                           -                           2,979                   (6,448,203)
+-                           (78,707)                -                           -                           (1,019,904)           (9,019,358)
+227,276,756        223,779,269        221,605,090        212,551,167        201,537,191        199,469,071
+236,856,010$      227,276,756$      223,857,976$      221,605,090$      212,551,167$      202,554,116$
+OREGON HOUSING & COMMUNITY SERVICES DEPARTMENT
+Cash Flows
+Enterprise Funds
+Last Ten Fiscal Years
+2023 2022 2021
+Cash Flows from Operating Activities
+Received from Customers 16,666,871$       19,837,627$       13,175,428$
+Program Loan Principal Repayments 69,330,450         167,842,514       222,941,663
+Program Loan Interest Received 31,480,471         31,016,791         34,258,797
+Program Loans Made (136,638,159)      (150,727,831)      (95,332,814)
+Payments to Employees for Services (10,508,230)        (9,350,644)          (7,366,769)
+Payments to Suppliers for Goods and Services (6,709,107)          (7,487,876)          (5,684,303)
+Other Receipts (Payments) (1,937,619)          (3,008,841)          (2,057,220)
+Net Cash Provided (Used) in Operating Activities (38,315,323)        48,121,740         159,934,782
+Cash Flows from Noncapital Financing Activities
+Proceeds from Bond Sales 114,018,169       188,634,844       61,927,675
+Principal Payments - Bonds (39,075,000)        (258,705,000)      (185,740,000)
+Interest Payments - Bonds (25,352,727)        (29,742,816)        (32,682,384)
+Bond Issuance Costs (989,191)             (1,572,368)          (803,477)
+Bond Call Costs -                          (277)                    (596)
+Principal Payments - Loans -                          -                          -
+Interest Payments - Loans -                          -                          -
+Principal Payments - Pension-related Debt (68,205)               (55,833)               (50,080)
+Interest Payments - Pension-related Debt (17,304)               (18,378)               (29,168)
+Federal Grant Subsidy -                          -                          74,857
+Transfers from Other Funds 10,000,000         -                          -
+Transfers to Other Funds -                          (2,899,555)          -
+Transfers from Other State Agencies -                          -                          88,521
+Transfers to Other State Agencies (386,836)             (337,482)             (270,459)
+Net Cash Provided (Used) in Noncapital Financing Activities 58,128,906 (104,696,865)      (157,485,111)
+Cash Flows from Capital and Related Financing Activities
+Acquisition of Capital Assets -                          -                          -
+Lease Payments (7,611)                 (7,753)                 -
+Lease Interest (74)                      (139)                    -
+Net Cash Provided (Used) in Capital and Related Financing Activities (7,685)                 (7,892)                 -
+Cash Flows from Investing Activities
+Purchase of Investments (130,692,371)      (305,323,565)      (380,551,164)
+Proceeds from Sales and Maturities of Investments 246,326,867       369,503,258       346,112,454
+Interest on Cash and Investments 6,764,730           2,827,415           3,541,314
+Investment Income on Securities Lending 18,115                5,344                  2,266
+Interest Paid on Securities Lending (18,115)               (5,344)                 (2,266)
+Net Cash Provided (Used) in Investing Activities 122,399,226       67,007,108         (30,897,396)
+Net Increase (Decrease) in Cash and Cash Equivalents 142,205,124       10,424,091         (28,447,725)
+Cash and Cash Equivalents Balance - Beginning 150,558,739       140,134,648       168,582,373
+Cash and Cash Equivalents Balance - Ending 292,763,863$     150,558,739$     140,134,648$
+Unaudited
+2020 2019 2018 2017 2016 2015 2014
+8,763,454$        8,876,105$        7,079,496$        4,163,809$        3,569,340$         5,721,238$         2,596,251$
+139,616,140      113,960,119      126,654,062      138,955,178      142,159,092       145,611,724       120,322,978
+39,340,959        38,764,669        35,717,096        38,803,932        44,151,928         50,261,428         54,750,757
+(167,580,729)     (233,252,858)     (156,182,704)     (97,014,283)       (71,715,430)        (54,220,431)        (61,116,633)
+(6,488,553)         (5,930,708)         (5,025,280)         (4,707,259)         (4,609,749)          (4,587,915)          (4,175,801)
+(6,787,757)         (5,841,075)         (5,422,079)         (4,650,950)         (4,923,555)          (5,064,173)          (5,182,403)
+(3,391,482)         (5,473,021)         (3,658,826)         (791,680)            47,139                941,970              1,431,972
+3,472,032          (88,896,769)       (838,235)            74,758,747        108,678,765       138,663,841       108,627,121
+177,018,587      216,176,306      280,205,736      134,026,831      211,033,001       31,377,604         139,605,754
+(120,100,000)     (103,615,000)     (203,460,000)     (242,255,000)     (227,045,000)      (202,930,000)      (249,975,000)
+(34,221,158)       (29,029,187)       (27,367,083)       (31,402,394)       (36,186,445)        (40,849,857)        (46,745,465)
+(1,424,262)         (1,677,569)         (1,763,294)         (774,512)            (1,514,836)          (565,215)             (1,409,003)
+-                         -                         -                         -                         -                          -                          -
+-                         -                         -                         -                         -                          -                          (1,500,000)
+-                         -                         -                         -                         -                          -                          (36,729)
+(42,675)              (37,039)              (30,150)              (24,964)              (19,077)               (22,487)               (15,861)
+(32,788)              (31,857)              (32,996)              (38,010)              (37,729)               (39,019)               (38,942)
+-                         -                         -                         -                         -                          -                          -
+-                         -                         -                         -                         -                          -                          -
+-                         -                         -                         -                         -                          -                          -
+-                         -                         -                         -                         -                          -                          -
+(249,712)            (243,488)            (203,500)            (188,958)            (191,894)             (209,314)             (186,039)
+20,947,992        81,542,166        47,348,713        (140,657,007)     (53,961,980)        (213,238,288)      (160,301,285)
+-                         -                         5,445                 (10,844)              -                          (52,603)               (14,500)
+-                         -                         -                         -                         -                          -                          -
+-                         -                         -                         -                         -                          -                          -
+-                         -                         5,445                 (10,844)              -                          (52,603)               (14,500)
+(413,127,785)     (510,891,434)     (498,137,269)     (368,836,911)     (441,963,836)      (289,867,498)      (390,462,021)
+473,542,274      512,301,216      456,787,746      411,676,140      396,996,896       370,368,568       440,622,813
+5,746,359          6,185,498          3,230,801          3,236,713          2,783,432           1,946,456           3,322,682
+39,099               95,991               21,699               1,974                 22,326                12,347                13,410
+(39,099)              (95,991)              (21,699)              (1,974)                (22,326)               (12,347)               (13,410)
+66,160,848        7,595,280          (38,118,722)       46,075,942        (42,183,508)        82,447,526         53,483,474
+90,580,872        240,677             8,397,201          (19,833,162)       12,533,277         7,820,476           1,794,810
+78,001,501        77,760,824        69,363,623        89,196,785        76,663,508         68,843,032         67,048,222
+168,582,373$    78,001,501$      77,760,824$      69,363,623$      89,196,785$       76,663,508$       68,843,032$
+OREGON HOUSING & COMMUNITY SERVICES DEPARTMENT
+Weighted Average Interest Rate - New Mortgage Loans - Single-Family Mortgage Program
+Enterprise Funds Unaudited
+Last Ten Fiscal Years
+2023 2022 2021 2020 2019 2018 2017 2016 2015 2014
+Overall Weighted Average Interest Rate 5.24% 2.86% 2.60% 3.07% 4.05% 3.62% 3.26% 3.44% 3.29% 3.18%
+Mortgage Revenue Bonds 5.24% 2.86% 2.60% 3.07% 4.05% 3.62% 3.26% 3.44% 3.29% 3.09%
+Housing Revenue Bonds - - - - - - - - - 3.30%
+Weighted average interest rate is calculated by multiplying each loan amount by the interest rate
+on the loan, adding all results together, then dividing by the total amount of new loans.
+OREGON HOUSING & COMMUNITY SERVICES DEPARTMENT
+Principal Program Loan Interest Payers
+Enterprise Funds Unaudited
+Current Year and Nine Years Ago
+Fiscal Year 2023 Fiscal Year 2014
+Rank
+Program Loan
+Interest
+Received Rank
+Program Loan
+Interest
+Received
+Emeralde Pointe 1     1,024,111$     3.25% 1     1,150,041$     2.10%
+Beaver State Apartments 2     526,662          1.67% 6     570,356          1.04%
+Autumn Park 3     253,993          0.81%
+Gateway Park Apts 4     214,431          0.68%
+Fifth Avenue Court 5     182,348          0.58%
+The Oaks Apartments 6     80,350            0.26%
+Oakwood Manor Apartments 7     61,419            0.20%
+Rosemont Town Homes 8     58,801            0.19%
+Forest Park Apartments 9     58,287            0.19%
+Westshore 10   55,053            0.17%
+Westridge Meadows Apartments 2     830,611          1.52%
+Willamette Garden Apts 3     818,902          1.50%
+Woodridge Apartments 4     785,905          1.44%
+Troutdale Terrace Apts 5     701,699          1.28%
+Lake Crest Apts 7     486,804          0.89%
+Cascadia Village Retirement Center 8     372,228          0.68%
+The Hazelwood 9     349,139          0.64%
+Buckman Heights Apartments 10   327,860          0.60%
+Total 2,515,455$     8.00% 6,393,545$     11.69%
+Percent of Total
+Program Loan
+Interest Received
+Percent of Total
+Program Loan
+Interest Received
+OREGON HOUSING & COMMUNITY SERVICES DEPARTMENT
+Ratio of Outstanding Debt
+Enterprise Fund Unaudited
+Last Ten Fiscal Years
+Business-Type Activities - Enterprise Funds
+General Percentage
+Fiscal Obligation Revenue of Personal Per
+Year    Bonds (1)     Bonds (2) Total     Income (3)      Capita (3)
+2023 20,075,000$       938,710,000$     958,785,000$        0.36% 226$
+2022 21,650,000 864,185,000 885,835,000 0.34% 208
+2021 22,985,000 937,655,000 960,640,000 0.40% 226
+2020 28,865,000 1,057,515,000 1,086,380,000 0.49% 258
+2019 30,400,000 1,004,675,000 1,035,075,000 0.49% 247
+2018 36,915,000 890,470,000 927,385,000 0.47% 224
+2017 44,710,000 812,105,000 856,815,000 0.46% 209
+2016 50,810,000 917,700,000 968,510,000 0.55% 241
+2015 85,480,000 904,220,000 989,700,000 0.60% 250
+2014 112,615,000 1,049,115,000 1,161,730,000 0.75% 296
+(1)
+Elderly and Disabled Housing Bonds
+(2)
+Mortgage Revenue Bonds, Housing Revenue Bonds (FY 2014 - FY 2021), Multifamily Housing Revenue Bonds, and
+Multiple Purpose Bonds (FY 2014)
+(3)
+Personal Income and Population Source: Bureau of Economic Analysis, U.S. Department of Commerce  (SAINC1)
+https://apps.bea.gov/itable/?ReqID=70&step=1
+Population and Personal Income information can be found on page 58.
+OREGON HOUSING & COMMUNITY SERVICES DEPARTMENT
+Legal Debt Margin Information
+Enterprise Fund Unaudited
+Last Ten Fiscal Years
+Debt Legal
+Fiscal Debt Applicable Debt Percentage
+Year Limit to Limit Margin of Debt Limit
+General Obligation Bonds
+2023 4,823,464,807$     20,075,000$          4,803,389,807$     0.42%
+2022 4,118,468,847 21,650,000 4,096,818,847 0.53%
+2021 3,783,733,523 22,985,000 3,760,748,523 0.61%
+2020 3,578,984,548 28,865,000 3,550,119,548 0.81%
+2019 3,384,375,594 30,400,000 3,353,975,594 0.90%
+2018 3,104,548,584 36,915,000 3,067,633,584 1.19%
+2017 2,795,635,633 44,710,000 2,750,925,633 1.60%
+2016 2,530,877,318 50,810,000 2,480,067,318 2.01%
+2015 2,347,393,704 85,480,000 2,261,913,704 3.64%
+2014 2,167,365,136 112,615,000 2,054,750,136 5.20%
+Revenue Bonds
+2023 2,500,000,000$     938,710,000$        1,561,290,000$     37.55%
+2022 2,500,000,000 864,185,000 1,635,815,000 34.57%
+2021 2,500,000,000 937,655,000 1,562,345,000 37.51%
+2020 2,500,000,000 1,057,515,000 1,442,485,000 42.30%
+2019 2,500,000,000 1,004,675,000 1,495,325,000 40.19%
+2018 2,500,000,000 890,470,000 1,609,530,000 35.62%
+2017 2,500,000,000 812,105,000 1,687,895,000 32.48%
+2016 2,500,000,000 917,700,000 1,582,300,000 36.71%
+2015 2,500,000,000 904,220,000 1,595,780,000 36.17%
+2014 2,500,000,000 1,049,115,000 1,450,885,000 41.96%
+Legal Debt Margin for Fiscal Year 2023
+General Obligation Bonds
+True cash value of all taxable property in the state
+Debt Limit (0.5% of true cash value)
+Less: Debt applicable to the limit (Elderly and Disabled Housing Bonds)
+Legal Debt Margin
+Revenue Bonds
+The legal debt margin for OHCSD's revenue bonds is set by statute  (Oregon Revised Statute 456.661).
+For additional bond information see Note 9.
+964,692,961,481$
+4,823,464,807
+(20,075,000)
+4,803,389,807$
+OREGON HOUSING & COMMUNITY SERVICES DEPARTMENT
+Demographic and Economic Data - State of Oregon
+Last Ten Years Unaudited
+Personal Per Capita Annual
+Calendar     Income (1) Personal Unemployment
+Year   Population (1) (in millions)     Income (1)    Rate (2)
+2022 4,240,137 264,173.8$           62,303$                4.2%
+2021 4,256,301 262,382.4             61,646 5.2%
+2020 4,244,795 239,862.5             56,507 7.6%
+2019 4,215,976 219,982.7             52,178 3.7%
+2018 4,183,414 210,044.9             50,209 4.0%
+2017 4,147,186 197,262.3             47,565 4.1%
+2016 4,093,179 186,105.0             45,467 4.7%
+2015 4,018,466 177,478.1             44,166 5.5%
+2014 3,965,387 165,171.9             41,653 6.7%
+2013 3,924,064 154,851.2             39,462 7.8%
+(1) Source: Bureau of Economic Analysis, U.S. Department of Commerce  (SAINC1) - https://apps.bea.gov/itable/?ReqID=70&step=1
+(2) Source: Oregon Employment Department
+www.qualityinfo.org/uesti?lfAreacode=4101000000&lfAdjusted=y&lfMeasure=unemprate&lfSyear=2013&lfRpt=summary&lfEyear=2023
+OREGON HOUSING & COMMUNITY SERVICES DEPARTMENT
+Employment Data - State of Oregon
+Current Year and Nine Years Ago Unaudited
+Calendar Year 2022 Calendar Year 2013
+Number of
+Employees
+Percent of
+Total
+Number of
+Employees
+Percent of
+Total Change
+Health Care and Social Assistance 312,843         11.77% 260,929         11.54% 19.90%
+Retail Trade 264,677         9.96% 236,752         10.47% 11.80%
+Manufacturing 206,906         7.78% 191,642         8.48% 7.96%
+Accommodation and Food Services 190,276         7.16% 167,481         7.41% 13.61%
+Professional, Scientific, and Technical Services 187,980         7.07% 142,770         6.32% 31.67%
+Construction 153,517         5.78% 107,297         4.75% 43.08%
+Real Estate and Rental and Leasing 143,199         5.39% 102,831         4.55% 39.26%
+Transportation and Warehousing 132,623         4.99% 65,279           2.89% 103.16%
+Administrative and Support Services 129,574         4.87% 114,899         5.08% 12.77%
+Finance and Insurance 108,772         4.09% 94,217           4.17% 15.45%
+Wholesale Trade 86,064           3.24% 79,364           3.51% 8.44%
+Arts, Entertainment, and Recreation 60,435           2.27% 55,008           2.43% 9.87%
+Farm Employment 57,344           2.16% 63,721           2.82% -10.01%
+Management of Companies and Enterprises 52,792           1.99% 39,063           1.73% 35.15%
+Educational Services 50,885           1.91% 57,012           2.52% -10.75%
+Information 49,275           1.85% 40,416           1.79% 21.92%
+Forestry, Fishing, and Related Activities 32,859           1.24% 32,160           1.42% 2.17%
+Waste Management and Remediation Services 6,736             0.25% 5,429             0.24% 24.07%
+Utilities 5,299             0.20% 4,775             0.21% 10.97%
+Mining, quarrying, and oil and gas extraction 4,621             0.17% 5,776             0.26% -20.00%
+Other Services 129,476         4.87% 118,009         5.22% 9.72%
+Federal Government (Civilian) 27,876           1.05% 27,608           1.22% 0.97%
+Military 10,604           0.40% 12,151           0.54% -12.73%
+State Government 43,172           1.62% 60,965           2.70% -29.19%
+Local Government 210,480         7.92% 174,783         7.73% 20.42%
+Total Employment 2,658,285      100.00% 2,260,337      100.00% 17.61%
+Source: Bureau of Economic Analysis, U.S. Department of Commerce  (SAEMP25N)  -  https://apps.bea.gov/itable/?ReqID=70&step=1
+OREGON HOUSING & COMMUNITY SERVICES DEPARTMENT
+Loans Outstanding - by Interest Rate
+Enterprise Funds Unaudited
+Current Year and Nine Years Ago
+June 30, 2023 June 30, 2014 Change
+Interest Rate
+Number of
+Loans Percent Principal Amount Percent
+Number of
+Loans Percent Principal Amount Percent
+Single Family Loans (1)
+0.00 - 2.99% 1,090      21.98% 254,017,105$        30.25% 28           0.44% 913,456$               0.13%
+3.00 - 3.99% 1,673      33.74% 283,569,153          33.76% 963         15.30% 135,177,559          18.68%
+4.00 - 4.99% 1,114      22.47% 166,960,570          19.88% 1,980      31.45% 229,888,185          31.77%
+5.00 - 5.99% 800         16.14% 103,327,198          12.30% 2,426      38.54% 281,405,699          38.88%
+6.00 - 6.99% 227         4.58% 30,837,784            3.67% 666         10.58% 67,405,418            9.31%
+7.00 - 7.99% 53           1.07% 1,193,251              0.14% 202         3.21% 8,566,043              1.18%
+8.00 - 8.99% 1             0.02% 12,104                   0.00% 26           0.41% 356,439                 0.05%
+9.00 - 9.99% -              -             -                            -             3             0.05% 12,302                   0.00%
+10.00 - 10.99% -              -             -                            -             1             0.02% 4,313                     0.00%
+Total 4,958 100.00% 839,917,165$        100.00% 6,295 100.00% 723,729,414$        100.00%
+Multi-Family Loans (2)
+0.00 - 2.99% 33           19.53% 4,902,938$            7.36% 58           15.76% 7,649,550$            2.65%
+3.00 - 3.99% 6             3.55% 1,369,512              2.05% 7             1.90% 3,815,442              1.32%
+4.00 - 4.99% 19           11.24% 5,113,197              7.67% 4             1.09% 2,825,357              0.98%
+5.00 - 5.99% 17           10.06% 37,803,732            56.73% 37           10.05% 112,224,391          38.90%
+6.00 - 6.99% 39           23.08% 16,484,230            24.74% 79           21.47% 98,339,760            34.09%
+7.00 - 7.99% 49           28.99% 856,279                 1.28% 80           21.74% 45,310,403            15.70%
+8.00 - 8.99% 6             3.55% 112,504                 0.17% 94           25.54% 10,880,147            3.77%
+9.00 - 9.99% -              -             -                            -             9             2.45% 7,463,991              2.59%
+Total 169 100.00% 66,642,392$          100.00% 368 100.00% 288,509,041$        100.00%
+Grand Total 5,127      906,559,557$        6,663      1,012,238,455$
+(1) Mortgage Revenue Bonds and Housing Revenue Bonds (2014)
+(2) Elderly and Disabled Housing Fund, Multifamily Housing Revenue Bond, and Housing Finance Account Loans
+OREGON HOUSING & COMMUNITY SERVICES DEPARTMENT
+Loans Outstanding - by Monthly Payment Amount
+Enterprise Funds Unaudited
+Current Year and Nine Years Ago
+June 30, 2023 June 30, 2014 Change
+Monthly Payment (1)
+Number
+of Loans Percent Principal Amount Percent
+Number
+of Loans Percent Principal Amount Percent
+Single Family Loans (2)
+$       0 - $   200 24           0.48% 412,857$              0.05% 45           0.71% 1,163,208$           0.16%
+$   201 - $   400 236         4.76% 9,574,812             1.14% 536         8.51% 23,127,329           3.20%
+$   401 - $   600 829         16.72% 56,555,459           6.73% 1,712      27.21% 134,440,911         18.57%
+$   601 - $   800 1,080      21.78% 118,066,409         14.06% 1,929      30.64% 222,425,656         30.73%
+$   801 - $1,000 979         19.75% 165,381,704         19.69% 1,181      18.76% 172,917,123         23.89%
+$1,001 - $1,200 757         15.27% 168,573,549         20.07% 589         9.36% 104,768,958         14.48%
+$1,201 - $1,400 465         9.38% 125,226,848         14.91% 233         3.70% 47,919,360           6.62%
+$1,401 - $1,600 238         4.80% 71,870,126           8.56% 58           0.92% 13,872,250           1.92%
+$1,601 - $1,800 152         3.07% 50,589,747           6.02% 12           0.19% 3,094,619             0.43%
+$1,801 - $2,000 97           1.95% 33,862,236           4.03% -             -             -                           -
+$2,001 - $2,200 47           0.95% 17,260,404           2.06% -             -             -                           -
+$2,201 - $2,400 36           0.73% 14,730,852           1.75% -             -             -                           -
+$2,401 - $2,600 11           0.22% 4,618,188             0.55% -             -             -                           -
+$2,601 - $2,800 6             0.12% 2,710,677             0.32% -             -             -                           -
+$2,801 - $3,000 -             -             -                           -             -             -             -                           -
+$3,001 - $3,200 1             0.02% 483,297                0.06% -             -             -                           -
+Total 4,958      100.00% 839,917,165         100.00% 6,295      100.00% 723,729,414         100.00%
+Multi-Family Loans (3)
+$         0 - $  1,000 100         59.17% 2,308,183             3.46% 210         57.07% 7,282,643             2.52%
+$  1,001 - $  5,000 38           22.49% 7,980,179             11.97% 50           13.59% 14,986,444           5.19%
+$  5,001 - $10,000 15           8.88% 7,119,479             10.68% 27           7.34% 22,891,714           7.94%
+$10,001 - $15,000 5             2.96% 3,836,083             5.76% 24           6.52% 30,442,236           10.55%
+$15,001 - $20,000 3             1.78% 3,129,785             4.70% 18           4.89% 32,443,699           11.25%
+$20,001 - $25,000 -             -             -                           0.00% 13           3.53% 33,700,293           11.68%
+$25,001 - $30,000 2             1.18% 5,981,531             8.98% 6             1.63% 20,925,478           7.25%
+$30,001 or more 4             2.37% 35,302,440           52.97% 14           3.80% 123,624,784         42.85%
+Due at Maturity 2             1.18% 984,712                1.48% 6             1.63% 2,211,750             0.77%
+Total 169         100.01% 66,642,392           100.00% 368         100.00% 288,509,041         100.00%
+Grand Total 5,127      906,559,557$       6,663      1,012,238,455$
+(1) Principal and Interest only. Does not include taxes or insurance.
+(2) Mortgage Revenue Bonds and Housing Revenue Bonds (2014)
+(3) Elderly and Disabled Housing Fund, Multifamily Housing Revenue Bond, and Housing Finance Account Loans
+OREGON HOUSING & COMMUNITY SERVICES DEPARTMENT
+Loans Outstanding - By County
+Enterprise Funds
+June 30, 2023
+Elderly and Disabled Mortgage Multifamily Housing
+Housing Program Revenue Bonds Revenue Bonds
+Number Principal Number Principal Number Principal
+County of Loans Amount of Loans Amount of Loans Amount
+Baker 1 61,245 $                21 2,020,444 $           - - $
+Benton 4 1,208,930              43 5,663,748              - -
+Clackamas 10 169,697                 277 57,730,428            1 3,984,594
+Clatsop 1 17,559                   10 1,076,871              - -
+Columbia 3 252,804                 114 28,530,049            1 924,943
+Coos 2 12,856                   105 16,219,375            - -
+Crook - -                            93 22,210,958            - -
+Curry - -                            5 720,577                 - -
+Deschutes 2 53,991                   337 65,984,973            - -
+Douglas 2 35,677                   118 15,819,535            1 776,949
+Gilliam 2 89,161                   2 302,609                 - -
+Grant - -                            6 1,269,767              - -
+Harney 2 654,261                 14 1,574,217              - -
+Hood River - -                            12 1,884,788              - -
+Jackson 2 11,434                   286 49,024,405            1 727,308
+Jefferson - -                            104 22,945,907            - -
+Josephine 3 403,316                 341 61,580,859            - -
+Klamath - -                            145 15,111,826            - -
+Lake 1 52,039                   15 1,619,935              - -
+Lane 10 517,995                 225 23,988,976            1 956,631
+Lincoln 4 1,777,082              35 3,123,027              - -
+Linn 7 824,344                 127 20,251,082            - -
+Malheur 1 653,343                 31 2,308,699              - -
+Marion 32 18,845,901            357 40,625,600            1 140,683
+Morrow - -                            17 1,589,328              - -
+Multnomah 42 10,840,193            1,373 250,219,024          7 10,670,114
+Polk 3 533,015                 63 10,284,426            - -
+Sherman 1 125,663                 1 155,259                 -      - -
+Tillamook - -                            17 2,929,007              - -
+Umatilla - -                            120 11,346,664            - -
+Union 2 149,918                 39 4,080,864              - -
+Wallowa 1 544,071                 5 505,265                 1 8,370,953
+Wasco - -                            8 1,445,431              - -
+Washington 4 114,292                 371 73,032,794            - -
+Wheeler - -                            1 187,830                 -      - -
+Yamhill 4 903,935                 120 22,552,618            - -
+Total 146 38,852,722 $         4,958 839,917,165 $       14 26,552,175 $
+Unaudited
+Housing Finance
+Account Total
+Number Principal Number Principal
+of Loans Amount of Loans Amount
+- - $                         22 2,081,689 $
+- -                            47 6,872,678
+- -                            288 61,884,719
+- -                            11 1,094,430
+- -                            118 29,707,796
+- -                            107 16,232,231
+- -                            93 22,210,958
+- -                            5 720,577
+- -                            339 66,038,964
+- -                            121 16,632,161
+- -                            4 391,770
+- -                            6 1,269,767
+- -                            16 2,228,478
+- -                            12 1,884,788
+1 700,000                290 50,463,147
+6 238,006                110 23,183,913
+- -                            344 61,984,175
+- -                            145 15,111,826
+- -                            16 1,671,974
+- -                            236 25,463,602
+- -                            39 4,900,109
+- -                            134 21,075,426
+- -                            32 2,962,042
+- -                            390 59,612,184
+- -                            17 1,589,328
+- -                            1,422 271,729,331
+- -                            66 10,817,441
+- -                            2 280,922
+- -                            17 2,929,007
+- -                            120 11,346,664
+- -                            41 4,230,782
+- -                            7 9,420,289
+1 284,712                9 1,730,143
+1 14,777                  376 73,161,863
+- -                            1 187,830
+- -                            124 23,456,553
+9 1,237,495$           5,127 906,559,557 $
+OREGON HOUSING & COMMUNITY SERVICES DEPARTMENT
+New Mortgage Loans - Single-Family Mortgage Program
+Enterprise Funds Unaudited
+Last Ten Fiscal Years
+Fiscal Number of Original Loan
+Year New Loans Amount
+2023 463 136,638,159$
+2022 522 150,027,831
+2021 368 95,332,814
+2020 678 165,032,101
+2019 1,029 233,203,348
+2018 714 156,131,888
+2017 490 96,914,554
+2016 410 71,664,632
+2015 334 54,219,431
+2014 394 61,016,633
+1,000
+1,200
+$0
+$40
+$80
+$120
+$160
+$200
+$240
+2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Number of New Loans
+Millions
+Prepaid Principal Number of New Loans
+OREGON HOUSING & COMMUNITY SERVICES DEPARTMENT
+Average New Mortgage Loan Amount Versus Median Household Income -
+Single Family Mortgage Program Unaudited
+Enterprise Funds
+Last Ten Years
+Average Median Household
+Fiscal Loan Calendar Income in the
+Year Amount Year     State of Oregon (1)
+2023 295,115$
+2022 287,410 2022 86,780$
+2021 259,057 2021 81,860
+2020 243,410 2020 76,860
+2019 226,631 2019 74,410
+2018 218,672 2018 69,170
+2017 197,785 2017 62,500
+2016 174,792 2016 59,140
+2015 162,334 2015 60,830
+2014 154,865 2014 58,880
+(1) Source:  US Census Bureau - https://www.census.gov/data/tables/time-series/demo/income-poverty/historical-income-households.html  (Table H-8)
+$0
+$20
+$40
+$60
+$80
+$100
+$120
+$140
+$160
+$180
+$200
+$220
+$240
+$260
+$280
+$300
+2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Thousands
+Average Mortgage Loan Amount Median Household Income
+OREGON HOUSING & COMMUNITY SERVICES DEPARTMENT
+Mortgage Loans Paid Off - Single-Family Mortgage Program
+Enterprise Funds Unaudited
+Last Ten Fiscal Years
+Fiscal Number of Prepaid
+Year Loans Paid Off Principal
+2023 292 33,150,016$
+2022 839 127,881,513
+2021 1,095 176,269,997
+2020 612 85,890,206
+2019 408 45,414,416
+2018 609 66,400,638
+2017 762 89,704,744
+2016 781 91,544,807
+2015 777 95,583,596
+2014 693 83,050,591
+1,000
+1,125
+$0
+$20
+$40
+$60
+$80
+$100
+$120
+$140
+$160
+$180
+2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Number of Loans Paid Off
+Millions
+Prepaid Principal Number of Loans Paid Off
+OREGON HOUSING & COMMUNITY SERVICES DEPARTMENT
+Number of Employees
+Last Ten Fiscal Years Unaudited
+Full-Time-Equivalent Employees as of June 30
+2023 2022 2021 2020 2019 2018 2017 2016 2015 2014
+Director's Office 12.0 10.0 4.0 3.0 3.0 3.0 13.0 11.0 10.0 2.0
+Deputy Director's Office 33.0 18.0 63.0 52.0
+Central Services Division 72.0 66.0
+Public Affairs Division 20.0 17.0 10.0 11.0 9.0 9.0 7.0 7.0 10.0 9.0
+Housing Stabilization Division 52.0 32.0 30.0 25.8 32.8 32.8 29.5 23.5 27.8
+Homeownership Division 36.0 34.0 21.0 24.0
+Affordable Rental Housing Division 96.0 81.0 71.0 60.0
+Housing Finance Division 79.0 71.0 65.5 51.5 53.5
+Chief Financial Office 19.0 19.0 22.0 21.0 20.0
+Chief Operations Office 21.0 18.0
+Business Operations Division 54.5
+Program Delivery Division 60.0
+Total 321.0 258.0 199.0 175.8 163.8 152.8 137.0 114.0 121.3 125.5
+OHCSD's divsions were reorganized in 2015 and in 2020.
+[THIS PAGE INTENTIONALLY LEFT BLANK]
+Other Reports
+LaVonne Griffin-Valade Secretary of State
+Cheryl Myers Deputy Secretary of State, Tribal Liaison
+Kip Memmott Audits Director
+255 Capitol St. NE Suite 180
+Salem OR 97310
+(503) 986-2255
+sos.oregon.gov/audits
+Independent Auditor’s Report on Internal Control over
+Financial Reporting and on Compliance and Other Matters
+Based on an Audit of Financial Statements Performed in
+Accordance With Government Auditing Standards
+The Honorable Tina Kotek, Governor of Oregon
+Andrea Bell, Director, Oregon Housing and Community Services Department
+We have audited, in accordance with the auditing standards generally accepted in the United States of
+America and the standards applicable to financial audits contained in Government Auditing Standards
+issued by the Comptroller General of the United States, the financial statements of Elderly and Disabled
+Housing Fund and Housing Finance Fund, which collectively comprise the Housing and Community
+Services Fund, an enterprise fund of the State of Oregon, Housing and Community Services
+Department, as of and for the year ended June 30, 2023, and the related notes to the financial
+statements, which collectively comprise the Housing and Community Service Fund’s basic financial
+statements, and have issued our report thereon dated October 30, 2023.
+Report on Internal Control over Financial Reporting
+In planning and performing our audit of the financial statements, we considered the Housing and
+Community Services Department’s (department) internal control over financial reporting (internal
+control) as a basis for designing audit procedures that are appropriate in the circumstances for the
+purpose of expressing our opinion on the financial statements, but not for the purpose of expressing an
+opinion on the effectiveness of the department’s internal control. Accordingly, we do not express an
+opinion on the effectiveness of the department’s internal control.
+A deficiency in internal control exists when the design or operation of a control does not allow
+management or employees, in the normal course of performing their assigned functions, to prevent, or
+detect and correct, misstatements on a timely basis. A material weakness is a deficiency, or a
+combination of deficiencies, in internal control, such that there is a reasonable possibility that a
+material misstatement of the entity’s financial statements will not be prevented, or detected and
+corrected on a timely basis. A significant deficiency is a deficiency, or a combination of deficiencies, in
+internal control that is less severe than a material weakness, yet important enough to merit attention
+by those charged with governance.
+Our consideration of internal control was for the limited purpose described in the first paragraph of this
+section and was not designed to identify all deficiencies in internal control that might be material
+weaknesses or significant deficiencies. Given these limitations, during our audit we did not identify any
+deficiencies in internal control that we consider to be material weaknesses. However, material
+weaknesses or significant deficiencies may exist that were not identified.
+Report on Compliance and Other Matters
+As part of obtaining reasonable assurance about whether the department’s financial statements are
+free from material misstatement, we performed tests of its compliance with certain provisions of laws,
+regulations, contracts, and grant agreements, noncompliance with which could have a direct and
+material effect on the financial statements. However, providing an opinion on compliance with those
+provisions was not an objective of our audit, and accordingly, we do not express such an opinion. The
+results of our tests disclosed no instances of noncompliance or other matters that are required to be
+reported under Government Auditing Standards.
+Purpose of this Report
+The purpose of this report is solely to describe the scope of our testing of internal control and
+compliance and the results of that testing, and not to provide an opinion on the effectiveness of the
+department’s internal control or on compliance. This report is an integral part of an audit performed in
+accordance with Government Auditing Standards in considering the department’s internal control and
+compliance. Accordingly, this communication is not suitable for any other purpose.
+State of Oregon
+October 30, 2023

@@ -1,0 +1,535 @@
+Clean Water State
+Revolving Fund Loan Program
+Enterprise Fund of the State of Oregon
+Fiscal Year Ended June 30, 2025
+June 2026
+Document information
+This document was prepared by Oregon Department of Environmental Quality
+Financial Services
+700 NE Multnomah Street, Suite 600
+Portland Oregon, 97232
+Contact: Anne Marie Murphy
+Phone: 503-830-1367
+Visit our website for additional information.
+Non-discrimination statement
+DEQ does not discriminate on the basis of race, color, national origin, disability, age, sex, religion, sexual
+orientation, gender identity, or marital status in the administration of its programs and activities.
+Visit DEQ’s Civil Rights and Environmental Justice page.
+FINANCIAL SECTION
+Oregon Department of Environmental Quality
+Clean Water State Revolving Fund Loan Program
+Enterprise Fund
+Statement of Net Position
+As of June 30, 2025
+Loan Fund Administration Fund Total
+ASSETS
+Current Assets
+Cash and Cash Equivalents $ 313,239,150 $ 2,194,587 $ 315,433,737
+Loans Receivable (net) 36,407,310 - 36,407,310
+Loan Interest Receivable 1,773,501 - 1,773,501
+Total Current Assets 351,419,961 2,194,587 353,614,548
+Noncurrent Assets
+Loans Receivable (net) 555,663,504 - 555,663,504
+Loans Interest Receivable 4,099,941 - 4,099,941
+Capital Assets (Net) - 844,482 844,482
+Total Noncurrent Assets 559,763,445 844,482 560,607,927
+Total Assets 911,183,406 3,039,069 914,222,475
+LIABILITIES
+Current Liabilities
+Accounts Payable 54,395 35,717 90,112
+Payroll Payable - 51,961 51,961
+Compensated Absences Payable                   - 37,436 37,436
+Bond Interest Payable 22,042 - 22,042
+Bonds Payable 740,000 - 740,000
+Due to Other Funds - 162,730 162,730
+Total Current Liabilities 816,437 287,844 1,104,281
+Noncurrent Liabilities
+Compensated Absences Payable - 64,107 64,107
+Bonds Payable 2,140,468 - 2,140,468
+Total Noncurrent Liabilities 2,140,468 64,107 2,204,575
+Total Liabilities 2,956,905 351,951 3,308,856
+NET POSITION
+Net Investment in Capital Assets - 844,482 844,482
+Unrestricted 908,226,500 1,842,636 910,069,136
+Total Net Position $ 908,226,500 $ 2,687,118 $ 910,913,618
+The accompanying notes are an integral part of the financial statements
+Oregon Department of Environmental Quality
+Clean Water State Revolving Fund Loan Program
+Enterprise Fund
+Statement of Revenues, Expenses, and Changes in Fund Net Position
+For the Fiscal Year Ended June 30, 2025
+Loan Fund Administration Fund Total
+OPERATING REVENUES
+Loan Interest $ 8,836,380 $ - $ 8,836,380
+Loan Fee - 2,120,452 2,120,452
+Operating Transfers (659,000) 659,000 -
+Total Operating Revenues 8,177,380 2,779,452 10,956,832
+OPERATING EXPENSES
+Amortization - 219,010 219,010
+Bond Interest 19,375 - 19,375
+Bond Issuance 79,453 - 79,453
+Indirect Costs - 528,492 528,492
+Principal Forgiveness on Loans 8,191,568 - 8,191,568
+Salaries and Benefits - 2,057,693 2,057,693
+Services and Supplies - 378,468 378,468
+Total Operating Expenses 8,290,396 3,183,663 11,474,060
+Operating Income (Loss) (113,016) (404,212) (517,228)
+Other Revenues (Expenses)
+Federal Grants 44,522,640 - 44,522,640
+Investment Income 14,349,214 84,064 14,433,278
+Total Other Revenues (Expenses) 58,871,854 84,064 58,955,918
+Changes in Net Position 58,758,838 (320,148) 58,438,690
+Net Position - Beginning 849,467,662 3,009,905 852,477,567
+Change in Accounting Principle - (2,639) (2,639)
+Net Position - Beginning Restated 849,467,662 3,007,266 852,474,928
+Net Position - Ending $              908,226,500   $          2,687,118 $       910,913,618
+The accompanying notes are an integral part of the financial statements
+Oregon Department of Environmental Quality
+Clean Water State Revolving Fund Loan Program
+Enterprise Fund
+Statement of Cash Flows
+For the Fiscal Year Ended June 30, 2025
+Loan Fund       Administration Fund Total
+Cash Flows from Operating Activities
+Receipts from Loan Fees  $             -                     $      2,120,452   $     2,120,452
+Payments to Vendors                 -  (273,630)  (273,630)
+Payments to Employees                 -    (1,928,100)   (1,928,100)
+Payments to Indirect Cost                 - (516,486)       (516,486)
+Transfer to Admin Fund             (659,000)    659,000     -
+Net Cash Flows Provided (Used) in Operating
+Activities
+(659,000)    61,235 (597,765)
+Cash Flows from Noncapital Financing Activities
+Receipts from Federal Grants 44,522,640 - 44,522,640
+Receipts from Bonds 20,000,000 - 20,000,000
+Bond Issuance Costs (25,953) - (25,953)
+Principal Payments on Bonds (20,705,000) - (20,705,000)
+Interest Payments on Bonds (112,375) - (112,375)
+Net Cash Provided (Used) in Non-Capital
+Financing Activities
+43,679,312 - 43,679,312
+Cash Flows from Investing Activities
+Receipts from Treasury Interest Credits 14,349,214 84,064 14,433,278
+Repayments from Loan Interest 7,897,325 - 7,897,325
+Repayments from Loan Principal 41,184,324 - 41,184,324
+Disbursements to Borrowers (64,342,777) - (64,342,777)
+Net Cash Provided (Used) in Investing Activities (911,913) (84,064) (827,849)
+Cash Flows from Capital and Related Financing
+Activities
+Acquisition of Capital Assets - (119,530) (119,530)
+Net Cash Provided (Used) in Capital and
+Related Financing Activities
+-     (119,530) (119,530)
+The accompanying notes are an integral part of the financial statements
+Oregon Department of Environmental Quality
+Clean Water State Revolving Fund Loan Program
+Enterprise Fund
+Statement of Cash Flows
+For the Fiscal Year Ended June 30, 2025
+(Continued from previous page)
+‘
+Loan Fund       Administration Fund Total
+Net Increase (Decrease) in Cash and Cash
+Equivalents     $      42,108,399   $       25,769   $   42,134,168
+Cash and Cash Equivalents, Beginning   271,130,751    2,168,818  273,299,569
+Cash and Cash Equivalents, Ending 313,239,150    2,194,587 315,433,737
+Reconciliation of Operating Income to
+Net Cash Provided (Used) in Operating
+Activities
+Operating Income (Loss) (113,016) (404,212) (517,228)
+Adjustments to Reconcile Operating Income
+Net Cash Provided (Used) in Operating Activities
+Loan Interest Receipts Reported as Operating
+Revenue
+(7,897,325) - (7,897,325)
+Adjustment for Depreciation / Amortization - 219,010 219,010
+Bond Interest Payments Reported as
+Operating Expense
+112,375 - 112,375
+Principal Forgiveness Expense Reported as
+Operating Expense
+8,191,568 - 8,191,568
+Bond Issuance Costs Reported as Operating
+Expense
+25,953 - 25,953
+Amortization of Bond Premium (81,188) - (81,188)
+Capital Assets Reported as Operating Expense  119,530 119,530
+Net Changes in Assets and Liabilities
+Loan Interest Receivables (939,055) - (939,055)
+Capital assets - (119,530) (119,530)
+Accounts and Interest Payable 53,500 19,478 72,978
+Payroll Payable - 51,956 51,956
+Due to Other Funds - 147,398 147,398
+Bond Interest Payable (11,812) - (11,812)
+Compensated Absences Payable - 27,606 27,606
+Total Adjustments (545,984) 465,448 (80,536)
+Net Cash Provided (Used) in Operating
+Activities
+$        (659,000) $         61,236   $ (597,764)
+The accompanying notes are an integral part of the financial statements
+Oregon Department of Environmental Quality
+Clean Water State
+Revolving Fund Loan Program
+Enterprise Fund
+Notes to the Basic Financial Statements
+June 30, 2025
+1 Summary of Significant Accounting Policies
+The accompanying financial statements of the State of Oregon Department of Environmental
+Quality (DEQ) Clean Water State Revolving Fund (CWSRF) have been prepared in conformity with
+Generally Accepted Accounting Principles as prescribed by the Governmental Accounting Standards
+Board (GASB). GASB is the accepted standard-setting body for establishing accounting and financial
+reporting principles. New GASB pronouncements for fiscal year 2025 include GASB 101, Compensated
+Absences and GASB 102, Certain Risk Disclosures.
+1.1 Reporting Entity
+The Oregon Clean Water State Revolving Fund (CWSRF) was established pursuant to Oregon Revised
+Statutes (ORS) (468.423 through 468.440) and the 1987 amendments to the federal Clean Water Act.
+The purpose of CWSRF is to provide below market rate interest loans to eligible public agencies and
+qualified institutions for the planning, design, and construction of eligible projects including wastewater
+treatment facilities, nonpoint source pollution control projects, and estuary projects. The loan repayment
+period is a maximum of 30 years and all repayments, including interest and principal, must be credited to
+the CWSRF program.
+The CWSRF program is administered by the State of Oregon Department of Environmental Quality
+(DEQ). The CWSRF program consists of funds to record loans and related activity, and separate
+administrative funds that collect annual fees to pay the operating costs of the program. DEQ’s primary
+responsibilities for the CWSRF program include obtaining capitalization grants from the U.S.
+Environmental Protection Agency (EPA), soliciting potential interested parties for loans, negotiating loan
+agreements with eligible borrowers, reviewing and approving payment requests from loan recipients,
+monitoring loan repayments, conducting planning and engineering reviews and construction
+inspections to ensure compliance with all applicable laws, regulations, and program requirements.
+DEQ charges expenses related to CWSRF including staff time and operations and the program pays
+those expenses from the administration fund. The charges include salaries and benefits of employees, as
+well as indirect costs allocated to CWSRF. The rate of indirect cost is negotiated annually with EPA.
+For State Fiscal Year (fiscal year) 2025, the Oregon Fund program did not use federal cap grant funds for
+administrative expenses. The program used loan repayments and admin funds for administrative
+expenses as allowed by EPA.
+The Annual Financial Report is prepared for the EPA as an Enterprise Fund of the State of Oregon, which
+uses the accrual basis of accounting. The State of Oregon’s Annual Comprehensive Financial Report
+(ACFR) includes the CWSRF in the Environmental Management Fund, which is reported as a
+governmental special revenue fund using the modified accrual basis of accounting. Due to differences in
+the basis of accounting, there may be differences between the amounts reported in these financial
+statements and the State of Oregon’s ACFR.
+1.2 Basis of Presentation – Fund Accounting
+DEQ programs and accounts are organized by “funds,” each of which is a separate accounting entity.
+Each major program utilizes a separate set of self-balancing accounts to record the assets, liabilities, net
+position, revenues, and expenses of their activities. DEQ’s CWSRF program is classified as a proprietary
+fund for the purposes of these financial statements. Proprietary funds contain two types of funds:
+Enterprise Funds and Internal Service Funds. The CWSRF program is accounted for  as an Enterprise
+Fund. Enterprise Funds account for and report any activity for which fees are charged to external users
+for goods and services. DEQ treats the CWSRF as a governmental fund for accounting purposes.
+1.3 Measurement Focus and Basis of Accounting
+The basic financial statements for CWSRF are presented as an Enterprise Fund. As such, CWSRF is
+accounted for using the economic resources measurement focus and is maintained on the accrual basis
+of accounting, in accordance with the Oregon Accounting Manual (OAM 15.40.00). Under the accrual
+basis of accounting, revenues are recognized when earned and expenses are recorded at the time the
+liabilities are incurred, regardless of the timing of the related cash flow. All revenues and expenses of
+the CWSRF are considered operating revenues and operating expenses, except for federal grant income
+and interest income, which are non-operating revenue. All assets and liabilities associated with the
+operations of CWSRF are included on the Statement of Net Position.
+1.4 Cash and Cash Equivalents
+All monies of CWSRF are deposited with the Office of the State Treasurer, which is responsible
+for maintaining these deposits in accordance with ORS 293.265. The program considers all such deposits
+to be cash and cash equivalents. Interest earnings on these deposits are received by
+the program monthly. CWSRF has no other cash deposits or investments.
+1.5 Federal Funds
+Oregon CWSRF has received additional federal funding in recent years as a result of the
+Infrastructure Investment and Jobs Act (IIJA) of 2021. IIJA provides additional federal capitalization grants
+for five years, federal fiscal year 2022-2026.  This funding is in addition to the annual base capitalization
+grant Oregon CWSRF has received every year. In state fiscal year 2025, Oregon CWSRF received three
+federal capitalization grant awards: federal fiscal year 2023 IIJA supplemental capitalization grant for
+$23,546,000; federal fiscal year 2023 IIJA emerging contaminants capitalization grant for $2,402,000; and
+federal fiscal year 2024 annual base capitalization grant for $9,222,000 for a total of $35,170,000. The
+amount of funding the program received this year is relatively higher than previous years due to these
+awards.
+1.6 Loans Receivable
+Loans are funded by federal capitalization grants, state matching funds, loan repayments, and investment
+earnings. The CWSRF monies are disbursed to borrowers on a cost reimbursement basis. When
+borrowers have incurred qualifying expenses, they request a loan disbursement from CWSRF, resulting in
+a disbursement being made and recorded in the fund accounting records. Interest begins accruing when
+funds are disbursed to the borrower. After the project is complete, repayment begins with an interest only
+payment for accrued amounts while the loan was in disbursement. Loans are fully amortized to assure full
+repayment by the loan maturity date.
+DEQ is required, under the terms of capitalization grant awards from EPA, to offer additional subsidization
+to eligible borrowers. DEQ has chosen to offer this subsidization in the form of principal forgiveness and
+has implemented this in Oregon Administrative Rule (OAR 340-054-0065) and in the program Intended
+Use Plan. The additional federal funds received also increased the amount of loan principal forgiveness
+the program provides for borrowers. Loans Receivable are stated net of the allowance for principal
+forgiveness.
+1.7 Short-Term Obligations
+Short term obligations of the CWSRF consist of overnight bonds to provide the required state matching
+funds for the federal capitalization grants. EPA requires CWSRF programs to provide a percentage of
+federal capitalization grants as State (non-federal) match. DEQ raises bonds to cover the CWSRF non-
+federal match requirement for capitalization grants. DEQ has raised “overnight” bonds, which means the
+bond proceeds are secured and then paid off on either the same day or overnight to minimize interest
+costs. CWSRF uses the amount of the bond as non-federal funds that are disbursed for loans in amounts
+to meet our match requirement each year, which is reported to the EPA. In May 2025, DEQ issued an
+overnight bond in the amount of $20 million to use as state match as required by EPA for the program.
+1.8 Long-Term Obligations
+Long term obligations of the CWSRF consist of long term bonds issued in past years to provide the
+required state matching funds for the federal capitalization grants. These bonds issued on behalf of
+CWSRF are reported on the Statement of Net Position, net of the related premium. The bond premium is
+amortized over the life of the bond issue. The bond premium is reported in the Statement of Revenues,
+Expenses and Changes in Fund Net Position as bond interest expense. DEQ raised bonds in 2012 and
+2015 due 2033 and 2026, respectively, described under Bonds Payable below.
+1.9 Compensated Absences
+Employees accumulate earned but unused vacation and sick leave benefits. While an employee can
+accumulate up to 350 hours of vacation leave, upon separation up to 300 hours will be paid out.  Sick
+leave is accrued but not paid out upon separation. GASB 101 requires that liabilities for compensated
+absences be recognized for leave that has not been used if the leave is accrued based on services
+rendered and it is more likely than not to be used for time off or otherwise paid.
+1.10 Capital Assets
+Capital assets are recorded at cost. Depreciation is calculated using the straight-line method.
+A capitalization threshold of $5,000, as established by OAM 15.60.30, is used when determining if
+an asset should be capitalized to ensure consistency, materiality, and effective management of
+resources. Assets below the applicable threshold are expensed in the period of acquisition.  A gain or
+loss on the sale of an asset is determined by taking the difference between the carrying
+value (cost less depreciation) and the sale price. The CWSRF Hub software is depreciated over its useful
+life (5 years) as indicated by the contract.  CWSRF does not carry any other assets.
+2 Cash and Cash Equivalents
+On June 30, 2025, the book balance of cash and cash equivalents was $315,433,737 and the bank
+balance was $314,983,777. All cash in the CWSRF is deposited in demand accounts with the State
+Treasurer in the Oregon Short-Term Fund (OSTF), a cash and investment pool for use by all state
+agencies.
+The custodial credit risk for deposits is the risk that, in the event of a bank failure, the State Treasurer will
+not be able to recover deposits or will not be able to recover collateral securities that are in the
+possession of an outside party. The CWSRF does not have a policy regarding custodial credit risk for
+deposits; however, the insurance and collateral requirements for deposits in the OSTF are established by
+banking regulations and Oregon law.
+Further details of the investments and a copy of the OSTF audited annual financial report may be
+obtained by writing to the Oregon State Treasury, 867 Hawthorne Ave. SE, Salem, Oregon 97301 or
+located at the following website:
+Treasury: Oregon Short Term Fund, Oregon Short Term Funds, State of Oregon
+3 Loans Receivable
+CWSRF loans to public agencies and qualified entities at interest rates ranging from zero percent to the
+market rate (ORS 468.440). Interest rates vary depending on the length of the loan, type of loan, and
+program rules (OAR 340-054). Rates range from 25% of the bond rate for 5-year loans to 55% of the
+bond rate for 30-year loans. Recipients make semiannual or, in some cases, annual payments and must
+begin loan principal and interest repayments within one year of the date the facility is operationally
+complete and ready for the purpose it was planned, designed, and built for, or when DEQ determines that
+the project is completed. There is an allowance account for that portion of loan disbursements that will not
+be repaid due to principal forgiveness offered to eligible borrowers. Principal forgiveness is offered to
+borrowers based on criteria in OAR 340-054-0065 to comply with a requirement included in DEQ’s grant
+agreements with EPA. There is no additional allowance account, as DEQ believes all existing borr owers
+will pay as agreed.
+The details of loans receivable as of June 30, 2025, are as follows:
+Loans Receivable $605,929,140
+Less: Allowance for Doubtful Accounts  ($13,858,326)
+Net Loans Receivable, 6/30/2025 $592,070,814
+4 Bonds Payable
+In July 2003, EPA agreed to the use of the CWSRF Fund assets to pay the principal and interest on
+general obligation bonds that were previously issued by the State to provide the 20 percent state
+matching funds as required by the Clean Water Act. The following table summarizes bonds with activity
+during State Fiscal Year 2025:
+Original Issue
+Series Due Dates Interest Range Original Amount
+2012A 2014-2033 1.5% - 5%                         $4,235,000
+2015A  2016-2026  5%                            4,040,000
+2025B 2025 4.95%                         20,000,000
+Total:                       $28,275,000
+Bonds Outstanding
+Series Balance
+7/01/2024 Increases Decreases Balance
+6/30/2025
+Due Within
+One Year
+2012A  $2,395,000  $               -  $230,000   $2,165,000   $240,000
+2015A         975,000                -             475,000  500,000             500,000
+2025B                      -   20,000,000 20,000,000                            -                          -
+Total  $3,370,000 $20,000,000 $20,705,000  $2,665,000   $740,000
+The bond interest rates noted above differ depending on the term of the individual security. Securities
+with the longest term yield the highest interest rate.
+The following table summarizes the amounts necessary to pay all future bonded debt principal and
+interest requirements for each year during the next five-year period, and in five-year increments
+thereafter.
+Future Bond Debt Service
+Year Ending
+6/30/2025 Bond Principal Bond
+Interest
+Total
+Debt Service
+2026                $740,000               $76,250          $816,250
+2027                250,000               54,000          304,000
+2028 260,000 46,350 306,350
+2029 265,000 38,475 303,475
+2030 275,000 30,375 305,375
+2031-2033            875,000  39,825 914,825
+Totals  $2,665,000   $285,275   $2,950,275
+1,2
+5 Changes in Long-Term Liabilities
+The liability for compensated absences is calculated based on the leave accrual on June 30, 2025, for
+each employee whose duties include CWSRF related activities. Bonds payables include amounts payable
+on bonds issued to benefit the CWSRF and includes the unamortized amounts of bond premiums.
+The long-term liability activity for the year ended June 30, 2025
+Beginning
+Balance
+07/01/2024
+Increases Decreases
+Ending
+Balance
+06/30/2025
+Due
+Within
+One Year
+Bonds Payable  $3,370,000 $               -     $705,000   $2,665,000  $740,000
+Issuance Premium 296,656                - 81,188  215,468                -
+Total Bonds Payable     3,666,656                - 786,188  2,880,468 740,000
+Compensated Absences 116,244 27,605 44,945            98,904  37,436
+Total Long-Term Liabilities $3,782,899 $27,605 $831,133 $2,979,372 $777,436
+The difference between the beginning balance and ending balance is reported as the net change.
+Beginning balances have been restated due to the implementation of GASB Statement 101,
+Compensated Absences.
+6 Loan Fees
+To support administration and project management costs, annual fees are assessed on loans originating
+after 1992. A fee of 0.50 percent is assessed on the outstanding loan principal balance and is collected
+annually, beginning with the second loan payment.
+Fees are deposited into a separate Treasury account and are used only for administrative and project
+management costs. Planning loans are not assessed annual fees to encourage Oregon communities to
+complete more planning.
+7 Employee Retirement Plan
+Plan Description
+As part of the State of Oregon, the Public Employees Retirement System provides defined benefit and
+defined contribution retirement plans to the CWSRF program employees. PERS is a cost -sharing
+multiple-employer defined benefit pension plan. All benefits of PERS are established by the legislature
+pursuant to ORS Chapters 238 and 238A. Tier One/Tier Two Retirement Benefit plan, established by
+ORS Chapter 238 and is closed to new members hired on or after August 29, 2003. The Oregon Public
+Service Retirement Plan, established by ORS 238A, provides benefits to members hired on or after Aug.
+29, 2003. The Individual Account Program is a defined contribution plan. Beginning Jan. 1, 2004, all
+member contributions are deposited into the members IAP account. The pension plans provide pension
+benefits, death benefits, and disability benefits.
+PERS issues a separate, publicly available, audited financial report that may be obtained from the Fiscal
+Services Division, Public Employees Retirement System, PO Box 23700, Tigard, Oregon 97281- 3700.
+Contributions
+PERS funding policy provides for monthly employer contributions at actuarially determined rates. These
+contributions, expressed as a percentage of covered payroll, are intended to accumulate sufficient assets
+to pay benefits when due. The rates in effect for the fiscal year ended June 30, 2025, for state agencies
+general service members were: 21.78% (General Services rate) and 18.28% for OPSRP. There was no
+change from the prior year. The IAP member contribution as set by statute is 6% and is currently paid by
+members.
+Employer contributions for the fiscal year ended June 30, 2025, were $3,477 for Tier One and Tier Two a
+nd $182,793 for OPSRP. Member contributions for the fiscal year ended June 30, 2025, were $60,956.
+Pension Liabilities, Pension Expense, Deferred Outflows of Resources, and Deferred
+Inflows of Resources
+On June 30, 2025, the State reported a liability of $6 billion for its proportionate share of the net pension
+liability. The net pension liability was measured as of June 30, 2024, and the total pension liability used to
+calculate the net pension asset was determined by an actuarial valuation as of December 31, 2022. The
+State’s portion of the net pension liability was based on a projection of the State’s long- term share of
+contributions of all participating employers, actuarially determined. Certain component units are
+considered by the pension plan to be part of the State. The State determined those component units’
+proportionate share of the net pension liability and allocated it to them. At the June 30, 2024
+measurement date, the State’s proportionate share, excluding those component units, was 27%, which is
+1.6%. lower than the proportion of 28.56% at the prior measurement date of June 30, 2023. Each
+governmental fund, excluding the debt service funds, is responsible for liquidating the liability not reported
+in the proprietary funds.
+The CWSRF’s portion of the net pension liability was not specifically identified. See the related note in the
+financial statements, Employee Retirement Plans, in the State of Oregon Annual Comprehensive
+Financial Report, for more detail.
+8 Other Postemployment Benefit Plans
+CWSRF employees may be eligible to participate in health insurance plans and other benefit plans after
+retirement, collectively known as Other Postemployment Benefits (OPEB). OPEB plans are offered
+through the Public Employees Retirement System as established by ORS 238 and the Public Employees
+Benefit Board as established by ORS 243. A copy of the audited annual financial report may be obtained
+from Fiscal Services Division, Public Employees Retirement System, PO Box 23700, Tigard, Oregon
+97281-3700.
+Retirement Health Insurance Account
+The Retirement Health Insurance Account is a cost-sharing multiple employer OPEB plan which provides
+a payment of up to $60 toward the monthly cost of health insurance for eligible PERS members. To be
+eligible for the RHIA subsidy, the member must: 1) have eight years or more of qualifying service in PERS
+at the time of retirement or receive a disability allowance as if the member had eight years or more
+creditable service in PERS, 2) receive both Medicare Parts A and B coverage, and 3) enroll in a PERS -
+sponsored health insurance plan.
+DEQ is required by statute to contribute actuarially computed amounts as determined by PERS. Rates
+are subject to change because of subsequent actuarial valuations. The rate of each covered employee’s
+salary for the fiscal year end June 30, 2025, was 0.00% for Tier One and Tier Two 0.00% for OPSRP
+General Service Members. There was no change from the prior period. Combined employer contributions
+for the years ended June 30, 2025, 2024, 2023, was approximately $0, $0, and $96, respectively, equal
+to the required contributions each year.
+Retiree Health Insurance Premium Account
+The Retiree Health Insurance Premium Account is a single employer OPEB plan that provides for
+payment of the average difference between the health insurance premiums paid by retired state
+employees, under contracts entered by the PERS Board, and the health insurance premiums paid by
+state employees who are not retired. Retired state employees are qualified to receive the RHIPA subsidy
+if they had eight or more years of qualifying service in PERS at the time of retirement or are receiving a
+disability pension calculated as if they had eight or more years of qualifying service but are not eligible for
+federal Medicare coverage.
+DEQ is required by statute to contribute actuarially computed amounts as determined by PERS. Rates
+are subject to change as a result of subsequent actuarial valuations. The rate of each employee’s
+covered salary for the fiscal year ended June 30, 2025, was 0.00% for Tier One and Tier Two and 0.00%
+for OPSRP General Service. The CWSRF actual contribution for the years ended June 30, 2025, 2024
+and 2023 was approximately $0, $0, and $2,106 respectively, which was equal to the actuarial
+contribution required.
+Public Employees Benefit Board Plan
+The Public Employees Benefit Board plan is a multi-employer plan which offers medical, dental and vision
+benefits to eligible retired employees. Chapter 243 of the Oregon Revised Statutes assigns PEBB the
+authority to establish and amend the benefit provisions of the PEBB Plan. The PEBB Plan allows
+qualifying retired employees to continue their healthcare on a self-pay basis until eligible for Medicare,
+usually at age 65. The PEBB Plan funding policy provides for contributions at amounts sufficient to fund
+benefits on a pay-as-you-go basis. Active employees do not make contributions. Participating retirees pay
+their own monthly premiums based on a blended premium rate since retirees are pooled together with
+active employees for insurance rating purposes. PEBB activity is reported as part of the State of Oregon’s
+annual report and does not issue a separate financial report.
+The State of Oregon’s liability for the primary government was $97.3 million for the fiscal year ended June
+30, 2025, and was determined by an actuarial valuation as of July 1, 2024. CWSRF’s portion of this
+liability was not specifically identified.
+9 Commitments
+As of June 30, 2025, CWSRF has active loan agreements in the amount of $365,249,280 and has
+disbursed a total of $169,348,296 in cash to these borrowers. The amount of undisbursed loan
+commitments is $195,900,984.
+10 Risk Financing
+The Department of Administrative Services, Enterprise Goods and Services, Risk Management section
+(Risk Management) administers the State's property, liability, and workers’ compensation insurance
+program. Risk Management has found it is more economical to manage the risk of loss internally and,
+therefore, minimizes the purchase of commercial insurance policies to the extent possible. The monies
+set aside by Risk Management under Chapter 278 of the Oregon Revised Statutes are used to service
+the following risks:
+Direct physical loss or damage to State property
+Tort liability claims brought against the State, its officers, employees, or agents
+Inmate injury
+Workers’ compensation
+Employee dishonesty
+Faithful performance bonds for key positions as required by law and additional positions as
+determined by agency policy
+Risk Management purchases commercial insurance for specific insurance needs not covered by self -
+funding. For example, the self-insured property and liability program is backed by an excess property
+policy with a limit of $425 million and a blanket commercial crime policy with a limit of $5 million. The
+amount of claim settlements did not exceed commercial insurance coverage for each of the past three
+fiscal years.
+All State agencies, commissions, and boards participate in the self-insured property and liability program.
+Risk Management allocates the cost of claims and claim administration by charging an assessment to
+each State agency, based on its share of losses. Statewide risk charges are based on independent
+biennial actuarial forecasts and division expenses, less any available fund balance from the prior
+biennium.
+The CWSRF participates in this risk financing program through DEQ, which, as a state agency, is a
+participant. Settlements have not exceeded insurance coverage in each of the past three years.
+11 Changes in Accounting Principle
+For the fiscal year ended June 30, 2025, DEQ implemented a new accounting standard issued by the
+Governmental Accounting Standards Board (GASB).
+GASB Statement No. 101, Compensated Absences, which requires that liabilities for compensated
+absences be recognized for (1) leave that has not been used and (2) leave that has been used but not yet
+paid in cash or settled through noncash means. Refer to Section 1.9 of this note for additional general
+information regarding balances.
+12 Subsequent Events
+EPA has a fiscal year ended September 30th, while DEQ has a fiscal year ended June 30th. All dates
+related to grant awards are for the federal fiscal year ending September 30th.
+On July 11, 2025, EPA awarded Oregon CWSRF the 2024 Infrastructure Investment and Jobs Act
+Emerging Contaminants capitalization grant in the amount of $2,402,000. On July 17, 2025, EPA
+awarded Oregon CWSRF the IIJA Supplemental 2024 capitalization grant in the amount of $25,690,000.
+On August 27, 2025, EPA awarded Oregon CWSRF the 2025 Annual Base capitalization  grant of
+$17,922,000. These EPA capitalization grants were received after the end of June 2025. Oregon DEQ
+CWSRF staff will meet with EPA region 10 staff at least monthly for program coordination, updates and
+guidance to ensure program requirements are met during state fiscal year 2026.
+13 Net Investment in Capital Assets
+The net capital assets for the year ended June 30, 2025, were as follows.
+Beginning
+Balance
+07/01/2024
+Additions Deletions
+Ending
+Balance
+06/30/2024
+Capital Assets Being Depreciated:
+Internally Developed Software $1,066,836 $119,530                  - $1,186,366
+Total Capital Assets Being Depreciated 1,066,836 119,530                  - 1,186,366
+Less Accumulated Amortization:
+Internally Developed Software 122,874 219,010                 - 341,884
+Total Accumulated Amortization 122,874 219,010                  - 341,884
+Total Capital Assets (Net) $943,962              ($99,480) $                 - $844,482
+OTHER REPORTS

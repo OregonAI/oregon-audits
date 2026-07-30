@@ -1,0 +1,296 @@
+Secretary of State Shemia Fagan
+Audits Division Director Kip Memmott
+Department of Administrative Services
+Recommendation Follow-up Report:
+Progress Has Been Made, but COVID-19 Delayed
+Some Efforts to Improve State Budget Transparency
+May 2021
+Report 2021-17
+Follow-up to Audit Report 2019-29
+Department of Administrative Services
+Recommendation Follow-up Report:
+Progress Has Been Made, but COVID-19 Delayed Some Efforts
+to Improve State Budget Transparency
+May 2021
+Follow-up Summary
+The Department of Administrative Services (DAS) made progress on 11 of the 16 recommendations from the
+original audit, fully implementing six. COVID-19 response and preparation for the 2021-23 budget made it
+difficult for DAS to implement some recommendations, specifically those pertaining to end of biennium
+spending. Additionally, the agency’s choice to deviate from standard response options in four recommendations
+made our follow-up work more difficult and limited accountability and transparency.
+Findings from the Original Audit
+» Agencies spent more General Fund dollars and in discretionary areas at the end of biennia, which can
+increase the risk these types of expenditures are low quality, low priority, or wasteful.
+» Non-budgeted positions were common among state agencies. Unclear policies and poor tracking and
+reporting impeded oversight and transparency of this position practice.
+» A statutory resource limitation and competing priorities resulted in a transparency website that was
+less functional and more expensive than other states we reviewed.
+Improvements Noted
+» DAS is implementing tools and processes to enhance its ability to review and analyze end of biennium
+spending patterns and increase transparency around non-budgeted positions. (pg. 2)
+» DAS worked with the Legislature to allow additional investments into the transparency website. (pg. 3)
+» DAS launched an updated transparency website with improved expenditure data, hired a contractor to
+benchmark its transparency program against identified best practices, and published the Oregon Open
+Data Standard in February 2021. (pg. 4)
+Remaining Areas of Concern
+» DAS has not yet implemented recommendations to mitigate the risks identified with end of biennium
+spending. (pg. 2)
+» DAS is not consistently monitoring agency use of non-budgeted positions or posting usage reports on
+the transparency website. (pg. 3)
+» DAS has not yet implemented any of the potential improvements identified by the contractor it hired or
+defined what constitutes “private information” for website users. (pg. 4)
+» DAS has not leveraged its membership on the Transparency Oregon Advisory Commission to encourage
+consistent meetings, and timely release of the biennial reports that are required by law. (pg. 5)
+The Oregon Secretary of State Audits Division is an independent, nonpartisan organization that conducts audits
+based on objective, reliable information to help state government operate more efficiently and effectively. The
+summary above should be considered in connection with a careful review of the full report.
+Oregon Secretary of State | Report 2021-17 | May 2021 | Page 1
+Introduction
+The purpose of this report is to follow up on the recommendations we made to Department of
+Administrative Services (DAS) as included in audit report 2019-29, “Enhanced Transparency in Key
+Budget Practices Would Improve Governance and Inform Decision-Making for State Spending.”
+The Oregon Audits Division conducts follow-up procedures for each of our performance audits. This
+process helps assess the impact of our audit work, promotes accountability and transparency
+within state government, and ensures audit recommendations are implemented and related risks
+mitigated to the greatest extent possible.
+We use a standard set of procedures for these engagements that includes gathering evidence and
+assessing the efforts of the auditee to implement our recommendations; concluding and reporting
+on those efforts; and employing a rigorous quality assurance process to ensure our conclusions are
+accurate. We determine implementation status based on an assessment of evidence rather than
+self-reported information. This follow-up is not an audit, but a status check on the agency’s actions,
+and therefore does not adhere to the full set of government auditing standards.
+To ensure the timeliness of this effort, the division asks all auditees to provide a timeframe for
+implementing the recommendations in our audit reports. We use this timeframe to schedule and
+execute our follow-up procedures.
+Our follow-up procedures evaluate the status of each recommendation and assign it one of the
+following categories:
+• Implemented/Resolved: The auditee has fully implemented the recommendation or
+otherwise taken the appropriate action to resolve the issue identified by the audit.
+• Partially implemented: The auditee has begun acting on the recommendation, but has not
+fully implemented it. In some cases, this simply means the auditee needs more time to fully
+implement the recommendation. However, it may also mean the auditee believes it has
+taken sufficient action to address the issue and does not plan to pursue further action on
+that recommendation.
+• Not implemented: The auditee has taken no action on the recommendation. This could
+mean the auditee still plans to implement the recommendation and simply has not yet
+acted; it could also mean the auditee has declined to take the action identified by the
+recommendation and may pursue other action, or the auditee disagreed with the initial
+recommendation.
+The status of each recommendation and results of our follow-up work are detailed in the following
+pages.
+We sincerely appreciate the courtesies and cooperation extended by officials and employees of DAS
+during the course of this follow-up work.
+Oregon Secretary of State | Report 2021-17 | May 2021 | Page 2
+Recommendation Implementation Status
+Recommendation #1
+Work with stakeholders including the Legislature and LFO to review and enact
+policies to mitigate or eliminate end of biennium spending risk, such as the Order
+of Expenditure Rule, 80/20 Rule, and Targeted Carry-over.
+Partially
+implemented
+The Chief Financial Office within DAS told us it has reviewed end of biennium policies but has not
+held formal conversations with the Legislature or the Legislative Fiscal Office (LFO) regarding
+which policies to adopt. DAS could not provide evidence of this review. DAS also pointed out the
+effect the COVID-19 pandemic has had on agency spending. DAS is uncertain whether these
+spending patterns are permanent or one-time in nature. As a result, DAS committed to working
+with LFO during the 2021-23 biennium to review spending patterns and make decisions on which
+policies should be implemented.
+Recommendation #2
+Review and evaluate end of biennium-spending patterns to identify potentially
+risky spending by agencies.
+Not
+implemented
+DAS has not yet performed these analyses due to the effect of the COVID-19 pandemic on typical
+agency spending patterns. DAS is planning a long-term approach, anticipating that agencies will
+return to more normal spending during the 2021-23 biennium. As a result, DAS plans to analyze
+these more "regular" patterns while building the 2023-25 budget.
+Recommendation #3
+Ensure agencies abide by Oregon Accounting Manual rules that prohibit spending
+current biennium revenues for future biennium needs, and document agency
+actions to comply with those rules.
+Not
+implemented
+DAS cited the increased workload stemming from administering Coronavirus Relief Funds as the
+reason it has not yet completed this work. It has committed to working with agencies in 2021 to
+document actions agencies take to comply with the Oregon Accounting Manual rules.
+Recommendation #4
+Monitor and document agencies’ use of expedited procurement processes at the
+end of the biennium.
+Partially
+implemented
+DAS is in the middle of replacing the statewide procurement system with OregonBuys. Statewide
+implementation is projected to begin September 2021 in three waves. DAS anticipates the third
+wave of implementation ending May 2023. In its response to the audit, DAS stated it will begin the
+spend review as each wave implements OregonBuys, the state’s new procurement system, and
+anticipates performing the first statewide analysis in fall 2025.
+Recommendation #5
+Update its policy to account for situations where agency use of double-fills is
+necessary to ensure the continuity of operations. Implemented
+DAS updated its statewide recruitment and selection policy to provide guidance on the appropriate
+use of non-budgeted positions (previously double-fills). One component of this updated guidance is
+the use of non-budgeted positions may be approved or directed by the DAS Budget and
+Oregon Secretary of State | Report 2021-17 | May 2021 | Page 3
+Management section. This would allow an agency to use these positions to ensure continuity of
+operations.
+Recommendation #6
+Include fields in Workday that identify double-fill positions, and include necessary
+information to oversee use of double-fills, such as why a position is double-filled,
+how agencies are funding that double-fill, and when the agency will resolve the
+double-fill.
+Implemented
+The Oregon Position Information Control System is now integrated within Workday, the state’s
+electronic human resource management program. This allows agencies to see position budget
+information within Workday. When a new position is created in the system, there is a field
+requiring the reason for creating the position, along with a comment box for agencies to use for
+other documentation, such as the funding sources and how the agency will resolve the unbudgeted
+position. DAS created reports for agency personnel to use in their management of positions. We
+reviewed two examples of these reports and confirmed they contain the recommended fields.
+Recommendation #7
+Regularly monitor agency use of double-fill positions to ensure appropriate use
+and compliance with policy.
+Partially
+implemented
+With the creation of the reports in recommendation no. 6, DAS has requested agencies review the
+reports for non-budgeted positions to ensure agencies follow DAS policy. DAS states it does not
+have staff to regularly monitor agency use of these positions and compliance with policy. While the
+creation of the reports and revision to DAS policy for non-budgeted positions are key steps to
+addressing this recommendation, the lack of external oversight (even if that oversight is periodic)
+reduces the mitigation of risks highlighted in the original audit.
+Recommendation #8
+Develop Workday reports that allow a user to easily identify how many double-fills
+an agency is using. Implemented
+The position reports DAS created in response to recommendation no. 6 may be used to identify how
+many non-budgeted positions (formerly double-fills) an agency is using.
+Recommendation #9
+Post double-fill reports for all agencies on its transparency website. Not
+implemented
+DAS did not create reports to post on the transparency website, as it needed to redesign the
+position budget data within Workday. Now that position reports are available for users, DAS stated
+it will begin exploring options to address the recommendation.
+Recommendation #10
+Request that the Legislature remove the statutory resource limitation for
+management of the state transparency website. Implemented
+In their response to the original audit, DAS leadership declined to agree or disagree with this
+recommendation, but did not identify a clear reason why, indicating instead it would engage in a
+review process that it expected to complete in March 2020. In 2020, DAS Enterprise Information
+Services authored and submitted a legislative concept to address the resource limitation within the
+Oregon Revised Statutes. During the August 2020 emergency session, the Legislature passed House
+Oregon Secretary of State | Report 2021-17 | May 2021 | Page 4
+Bill 4304 amending the statutes for the Transparency Program and removing the associated
+resource limitation.
+Recommendation #11
+Identify and implement functionality improvements to the transparency website
+to make the site more usable and intuitive for end-users. Implemented
+DAS launched an updated transparency website in May 2020 with enhanced data visualizations and
+interactive features to allow more user-friendly access to data. DAS also confirmed current
+improvements and modifications are ongoing. While DAS is taking steps to make the website more
+useable and intuitive for end-users, improvements like these require ongoing effort and investment.
+As such, we consider this recommendation implemented but expect that DAS’s work is not done in
+this area given the opportunities pointed out in the original audit.
+Recommendation #12
+Perform and document a cost/benefit analysis for redesign of the transparency
+website, including options for implementation of new software. Implemented
+DAS hired a contractor to benchmark its Oregon Transparency Program against identified best
+practices in open data and transparency, along with five peer states. The report was completed in
+June 2020 and contains comparisons to other states, trends and best practices in public sector
+transparency programs, challenges facing Oregon government’s transparency efforts, and
+opportunities to advance transparency both in the short and long terms. It is not clear how or when
+DAS plans to put the recommendations in the report into effect.
+Recommendation #13
+Enhance current data posted on the transparency website by correcting issues
+identified in this report, such as adding additional fields to expenditure data,
+clarifying descriptive fields currently in use, and improving the visualization
+application.
+Partially
+implemented
+Since the issuance of the original audit, DAS added the budget classification number and budget
+classification names to the expenditures dataset. It also noted it has provided a broader interactive
+view of expenditure data. Additionally, DAS published the Oregon Open Data Standard in February
+2021, which includes requirements for agencies to comply with when publishing data to the
+website. If followed, these requirements should help enhance the information on the transparency
+website.
+Recommendation #14
+Revise language in the transparency website disclaimer to include a definition of
+what constitutes “private information” that is separate from information removed
+due to concerns of confidentiality and compliance with state and federal privacy
+laws.
+Not
+implemented
+In reply to our inquiry about the status of this recommendation, DAS staff said the disclaimer has
+been updated over time. Upon review of the current website disclaimer (April 2021), we found that
+while language has been stripped away from the disclaimer, the core statement within the original
+disclaimer remains unchanged. Furthermore, the website still does not include a definition of what
+constitutes private information.
+Oregon Secretary of State | Report 2021-17 | May 2021 | Page 5
+Recommendation #15
+Work with the Legislative Fiscal Office and the Transparency Oregon Advisory
+Commission to encourage consistent meetings, and releases of the biennial report
+that are in accordance with statutory requirements for timing and content.
+Not
+implemented
+In their response to the original audit, DAS leadership declined to agree or disagree with this
+recommendation, claiming the recommendation does not relate to work under the authority of DAS.
+As required by Government Auditing Standards, we issued a rebuttal wherein we disagree with the
+agency’s assertion that it lacks authority for the following reasons. Enterprise Information Services
+(formerly the Office of the State Chief Information Officer) within DAS is responsible for managing
+the transparency website. Agencies that participate in advisory groups, as the DAS Chief
+Administrative Officer does in the Transparency Oregon Advisory Commission, typically work
+within those groups to ensure they fulfill their purpose. In addition, Enterprise Information
+Services is responsible for the work that is detailed in the Advisory Commission’s biennial report,
+such as enhancements made to the website, and has a clear role in informing the content of the
+report.
+Recommendation #16
+Analyze opportunities for expansion of the transparency website to include city,
+county, and other local governments.
+Partially
+implemented
+In its response to our follow-up inquiry, DAS stated the new Open Data Standard will provide local
+and regional governments the opportunity to collaborate with the state in providing additional
+access to datasets on the transparency website. However, in our review of the Open Data Standard
+(April 2021), we did not see specific guidance for local and regional governments to follow in order
+to include their data on the transparency website. While the general guidance designed for state
+agencies may also apply to these local and regional governments, a specific set of instructions and
+guidance for them to follow would go further in implementing this recommendation.
+Conclusion
+DAS made progress toward addressing our recommendations, with six recommendations fully
+implemented, five recommendations partially implemented, and five recommendations not
+implemented.
+In implementing five recommendations, DAS enhanced the statewide position management policy
+to allow the use of non-budgeted positions if their use ensures continuity of operations. The agency
+also added fields to Workday, and developed reports to enable the identification of non-budgeted
+positions. Finally, DAS worked with the Legislature to enable the investment of more resources into
+the state’s transparency website, launched a new version of the website with improved features,
+and hired a contractor to benchmark the state transparency program against best practices and
+provide recommendations to further enhance Oregon’s efforts in this area.
+The COVID-19 pandemic delayed DAS’s implementation on two of our recommendations related to
+end of biennium spending. Agency spending patterns shifted in response to moving much of the
+state workforce to a remote model; furthermore, as the state implements a new procurement
+system, it will provide DAS with more data in its analysis of spending patterns. The other three
+recommendations can be addressed by posting unbudgeted position reports on the transparency
+website, clarifying language in the website’s disclaimer, and encouraging the Oregon Transparency
+Advisory Commission to meet and post reports regularly.
+In its response to the original audit, DAS agreed with 12 of the report recommendations, partially
+agreed with two, and neither agreed nor disagreed with the remaining two. As we outlined in our
+Oregon Secretary of State | Report 2021-17 | May 2021 | Page 6
+rebuttal to the agency response, the Audits Division response template does not offer partial
+agreement as an option, nor does it allow agencies the ability to decline to agree or disagree with a
+recommendation. As with all of our audits, DAS has the option to agree with the recommendation,
+but mitigate the risk in other ways; or disagree with the recommendation and accept the risks
+described in the report.
+By providing instead these extraneous responses, the agency’s response to the recommendations
+limits accountability and transparency and made our follow-up work more difficult.
+Follow-up Report Team
+Olivia Recheked, MPA, Audit Manager
+Kyle Rossi, Principal Auditor
+About the Secretary of State Audits Division
+The Oregon Constitution provides that the Secretary of State shall be, by virtue of the office, Auditor of Public
+Accounts. The Audits Division performs this duty. The division reports to the elected Secretary of State and is
+independent of other agencies within the Executive, Legislative, and Judicial branches of Oregon government.
+The division has constitutional authority to audit all state officers, agencies, boards and commissions as well as
+administer municipal audit law.
+This report is intended to promote the best possible management of public resources.
+Copies may be obtained from:
+Oregon Audits Division
+255 Capitol St NE, Suite 500 | Salem | OR | 97310
+(503) 986-2255
+sos.oregon.gov/audits

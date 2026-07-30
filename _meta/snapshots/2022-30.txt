@@ -1,0 +1,1009 @@
+Annual Financial Report
+For the Fiscal Year Ended June 30, 2022
+Oregon Department of State Lands
+An Agency of the State of Oregon
+Vicki L. Walker
+Director
+Jean Straight
+Deputy Director, Administration Division
+Report Prepared by:
+Joseph Flager, CPA, Fiscal Manager
+Sangit Shrestha, CPA
+This page intentionally left blank.
+Table of Contents
+i
+FINANCIAL SECTION
+Independent Auditor’s Report ................................................................................................................... 3
+Basic Financial Statements
+Balance Sheet .......................................................................................................................................... 7
+Statement of Revenues, Expenditures, and Changes in Fund Balances ................................................ 8
+1. Summary of Significant Accounting Policies .............................................................................. 9
+2. Deposits and Investments ........................................................................................................ 11
+3. Derivatives ............................................................................................................................... 22
+4. Receivables and Payables ....................................................................................................... 23
+5. Leases ...................................................................................................................................... 24
+6. Pollution Remediation Obligation ............................................................................................. 25
+7. Interfund Transactions ............................................................................................................. 26
+8. Related Party Transactions ...................................................................................................... 26
+9. Risk Financing .......................................................................................................................... 26
+10. Fund Equity .............................................................................................................................. 27
+11. Commitments ........................................................................................................................... 27
+12. Contingencies .......................................................................................................................... 27
+OTHER REPORTS
+Report on Internal Control over Financial Reporting and on Compliance and Other Matters .............. 31
+ii
+This page intentionally left blank.
+FINANCIAL SECTION
+This page intentionally left blank.
+What inspires you, inspires us. | eidebailly.com
+877 W. Main St., Ste. 800 |  Boise, ID 83702-5858 | T 208.344.7150 | F 208.344.7435  |  EOE
+Independent Auditor’s Report
+State Land Board
+Oregon Department of State Lands
+Salem, Oregon
+Report on the Audit of the Financial Statements
+Opinion
+We have audited the financial statements of the Common School fund, major governmental fund of the
+State of Oregon, which comprise the balance sheet as of June 30, 2022, and the related statement of
+revenues, expenditures, and changes in fund balances of the Common School fund of the State of
+Oregon, as of and for the year ended June 30, 2022, and the related notes to the financial statements, as
+listed in the table of contents.
+In our opinion, the accompanying financial statements referred to above present fairly, in all material
+respects, the respective financial position of the Common School Fund of the State of Oregon as of June
+30, 2022, and the respective changes in financial position for the year then ended in accordance with
+accounting principles generally accepted in the United States of America.
+Basis for Opinion
+We conducted our audit in accordance with auditing standards generally accepted in the United States
+of America (GAAS) and the standards applicable to financial audits contained in Government Auditing
+Standards, issued by the Comptroller General of the United States (Government Auditing Standards).
+Our responsibilities under those standards are further described in the Auditor’s Responsibilities for the
+Audit of the Financial Statements section of our report. We are required to be independent of the State
+of Oregon, and to meet our other ethical responsibilities, in accordance with the relevant ethical
+requirements relating to our audit. We believe that the audit evidence we have obtained is sufficient
+and appropriate to provide a basis for our audit opinion.
+Emphasis of Matter
+As discussed in Note 1, the financial statements of the Common School Fund of the State of Oregon are
+intended to present the financial position and the changes in financial position, of the State of Oregon
+that is attributable to the transactions of the Common School Fund. They do not purport to, and do not,
+present fairly the financial position of the State of Oregon, the Department of State Lands, or the
+Oregon State Treasury as of June 30, 2022, or the changes in its financial position for the year then
+ended in accordance with accounting principles generally accepted in the United States of America. Our
+opinion is not modified with respect to this matter.
+Responsibilities of Management for the Financial Statements
+Management is responsible for the preparation and fair presentation of the financial statements in
+accordance with accounting principles generally accepted in the United States of America, and for the
+design, implementation, and maintenance of internal control relevant to the preparation and fair
+presentation of financial statements that are free from material misstatement, whether due to fraud or
+error.
+Auditor’s Responsibilities for the Audit of the Financial Statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free
+from material misstatement, whether due to fraud or error, and to issue an auditor’s report that includes our
+opinions. Reasonable assurance is a high level of assurance but is not absolute assurance and therefore is not a
+guarantee that an audit conducted in accordance with GAAS and Government Auditing Standards will always
+detect a material misstatement when it exists. The risk of not detecting a material misstatement resulting from
+fraud is higher than for one resulting from error, as fraud may involve collusion, forgery, intentional omissions,
+misrepresentations, or the override of internal control. Misstatements are considered material if there is a
+substantial likelihood that, individually or in the aggregate, they would influence the judgment made by a
+reasonable user based on the financial statements.
+In performing an audit in accordance with GAAS and Government Auditing Standards, we
+ Exercise professional judgment and maintain professional skepticism throughout the audit.
+ Identify and assess the risks of material misstatement of the financial statements, whether due to
+fraud or error, and design and perform audit procedures responsive to those risks. Such procedures
+include examining, on a test basis, evidence regarding the amounts and disclosures in the financial
+statements.
+ Obtain an understanding of internal control relevant to the audit in order to design audit procedures
+that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the
+effectiveness of the State of Oregon’s internal control. Accordingly, no such opinion is expressed.
+ Evaluate the appropriateness of accounting policies used and the reasonableness of significant
+accounting estimates made by management, as well as evaluate the overall presentation of the
+financial statements.
+We are required to communicate with those charged with governance regarding, among other matters, the
+planned scope and timing of the audit, significant audit findings, and certain internal control-related matters
+that we identified during the audit.
+Other Reporting Required by Government Auditing Standards
+In accordance with Government Auditing Standards, we have also issued our report dated November 9, 2022 on
+our consideration of the Common School Fund of the State of Oregon’s internal control over financial reporting
+and on our tests of its compliance with certain provisions of laws, regulations, contracts, and grant agreements
+and other matters. The purpose of that report is solely to describe the scope of our testing of internal control
+over financial reporting and compliance and the results of that testing, and not to provide an opinion on the
+effectiveness of the Common School Fund of the State of Oregon’s internal control over financial reporting or on
+compliance.  That report is an integral part of an audit performed in accordance with Government Auditing
+Standards in considering the Common School Fund of the State of Oregon’s internal control over financial
+reporting and compliance.
+Boise Idaho
+November 9, 2022
+BASIC FINANCIAL STATEMENTS
+This page intentionally left blank.
+ASSETS
+Cash and Cash Equivalents 83,095,331$
+Cash and Cash Equivalents, Restricted 940,178
+Investments 2,097,026,285
+Investments, Restricted 79,161,694
+Securities Lending Collateral 9,654,610
+Accounts and Interest Receivables (net) 16,752,641
+Due from Other Funds 596,403
+Advances to Other Funds 300,000
+Net Contracts, Notes, and Other Receivables 13,871
+Total Assets 2,287,541,013$
+LIABILITIES AND FUND BALANCES
+Liabilities:
+Accounts Payable 27,628,691$
+Obligations Under Securities Lending 9,654,610
+Due to Other Funds 238,546
+Deposit Liabilities 228,525,597
+Total Liabilities 266,047,444
+DEFERRED INFLOWS OF RESOURCES
+Unavailable revenue - contracts 13,871
+Total Deferred Inflows of Resources 13,871
+Fund Balances:
+Restricted by:
+Oregon Constitution 1,443,771,410
+Enabling Legislation 577,708,288
+Total Fund Balances 2,021,479,698
+and Fund Balances 2,287,541,013$
+The notes to the financial statements are an integral part of this statement.
+Balance Sheet
+Total Liabilities, Deferred Inflows of Resources,
+REVENUES
+Licenses and fees 1,598,690$
+Federal 613,248
+Charges for Services 295,232
+Rebates and Recoveries 35,306
+Fines, Forfeitures, and Penalties 124,571
+Rents and Royalties 5,136,866
+Investment Loss (119,245,243)
+Sales 9,764
+Unclaimed and Escheat Property Revenue 271,065,955
+Other 1,305,973
+Total Revenues 160,940,362
+EXPENDITURES
+Personal Services 11,719,068
+Services and Supplies 12,585,051
+Intergovernmental 118,964
+Capital Improvements 5,230,478
+Debt Service:
+Principal 68,534
+Interest 27,875
+Investment Expenditures 8,211,832
+Total Expenditures 37,961,802
+Excess of Revenues Over Expenditures 122,978,560
+OTHER FINANCING SOURCES (USES)
+Transfers From Other Funds 124,887,393
+Transfers to Other Funds (113,898,908)
+Leases Incurred 4,301,421
+Insurance Recoveries 2,172,930
+Total Other Financing Sources (Uses) 17,462,836
+Net Change in Fund Balances 140,441,396
+Fund Balances - Beginning 1,881,038,302
+Fund Balances - Ending 2,021,479,698$
+The notes to the financial statements are an integral part of this statement.
+Statement of Revenues, Expenditures, and Changes in Fund Balances
+For the Year Ended June 30, 2022
+NOTE 1 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+The accompanying financial statements of the Common School Fund have been prepared in conformity with
+generally accepted accounting principles as prescribed by the Governmental Accounting Standards Board
+(GASB), and the American Institute of Certified Public Accountants (AICPA).
+A – THE REPORTING ENTITY
+The Department of State Lands (Department) is the administrative agency of the State Land Board handling the
+day-to-day work of the board in managing the land and other resources dedicated to the Common School Fund.
+The State Land Board, which consists of the Governor, the Secretary of State, and the State Treasurer, is the
+trustee of the fund as outlined in the Oregon Constitution. The Oregon State Treasury (Treasury) began
+managing the Unclaimed Property Program starting the fiscal year 2022, which remains in the Common School
+Fund.
+The Common School Fund, a governmental fund, was established at statehood and is intended to generate
+earnings to distribute to public schools.  The Common School Fund accounts for programs that manage state-
+owned land, including a leasing program that generates annual revenues, for the benefit of the public school
+system.  Estate funds that become the property of the state, unclaimed property, and income derived from
+unclaimed property are also accounted for in this fund.  Statutory and constitutional provisions stipulate that the
+assets of the fund, including investment income, must be used for common school purposes.  The primary
+funding sources for these programs include investment income, leasing revenues, forest management, unclaimed
+property receipts, and transfers from other funds.
+B – FUND FINANCIAL STATEMENTS
+The fund financial statements consist of a balance sheet and a statement of revenues, expenditures, and
+changes in fund balances.  The statement of revenues, expenditures, and changes in fund balances reports
+revenues by type and expenditures by natural classification.  Other financing sources and other financing uses
+are reported in the last section of the statement.
+C – MEASUREMENT FOCUS, BASIS OF ACCOUNTING, AND FINANCIAL STATEMENT PRESENTATION
+The Common School Fund financial statements are reported using the current financial resources measurement
+focus and the modified accrual basis of accounting.  Revenues are recognized when they are both measurable
+and available.  Revenues are considered to be available when they are collectible within the current year or soon
+enough thereafter to pay liabilities existing at the end of the year.  For this purpose, revenues are considered
+available if they are collected within 90 days of the end of the current fiscal year.  Expenditures generally are
+recognized when a liability is incurred, as under accrual accounting.  Information for receivables not expected to
+be collected within one year of the date of the financial statements and payables reported in the financial
+statements is discussed in Note 4.
+D – DEPOSITS AND INVESTMENTS
+Deposits
+Cash deposits not held in a cash management or investment pool are classified as cash and cash equivalents.
+Cash deposits that are held in a cash management or investment pool are classified as cash and cash
+equivalents when the pool has the general characteristics of a demand deposit account.  Cash and cash
+equivalents include: cash on hand, cash and investments held by the Office of the State Treasurer in the Oregon
+Short-Term Fund (OSTF), cash deposits held in demand deposit accounts with custodial banks, and cash
+deposits of debt proceeds in investment funds held by a trustee.
+Investments
+Investments are reported at fair value except for investments in the OSTF with remaining maturities of up to 90
+days are carried at amortized cost, which approximates fair value.  The Department and the Treasury report these
+investments as cash and cash equivalents on the balance sheet.
+Changes in the fair value of investments are recognized as investment income (loss) in the current year.
+The fair value of publicly traded debt and equity securities in active markets is determined by the custodian’s
+pricing agent using nationally recognized pricing services.  The custodian’s pricing agent values equity securities
+traded on a national or international exchange at the last reported sales price and generally values debt securities
+by using evaluated bid prices.  The fair value of publicly traded real estate investment trust (REIT) securities is
+determined by the custodian’s pricing agent using recognized pricing services and generally reflects the last
+reported sales price.  For investments that do not have an active market, such as private placements or
+comingled investment vehicles, the value is stated at the net asset value (NAV) of units held, or its equivalent, as
+reported by the fund manager or general partner.
+Derivatives
+In accordance with State investment policies, the Office of the State Treasurer participates in contracts that have
+derivative characteristics.  Derivative instruments are used to hedge against fluctuations in foreign currency rates,
+and to manage the overall risk of investment portfolios.  The fair value of all derivative instruments within the
+Common School Fund are reported on the balance sheet as investments, accounts and interest receivable, and
+accounts payable.  The change in fair value for all Common School Fund derivative instruments is reported with
+investment income on the statement of revenues, expenditures, and changes in fund balances.
+E – RECEIVABLES AND PAYABLES
+Activities between funds that are representative of lending/borrowing arrangements outstanding at the end of the
+fiscal year are referred to as “advances to other funds.”  Receivables consist of revenues earned or accrued in the
+current period and are shown net of estimated uncollectable accounts.  Payables consist of amounts owed to
+vendors for operational expenditures, other state agencies for services received and investment liabilities
+outstanding.
+F – INTERFUND TRANSACTIONS
+Interfund transactions are transactions between the Common School Fund and other funds included in the
+Oregon Annual Comprehensive Financial Report.  Interfund balances (due to/from other funds and advances
+to/from other funds) result from the time lag between the dates that (1) interfund goods and services are provided
+or reimbursable expenditures/expenses occur, (2) transactions are recorded in the accounting system, and (3)
+payments between funds are made.  Advances to/from other funds are not expected to be repaid within one year.
+See Note 7 for more in interfund transactions.
+G – RESTRICTED ASSETS
+Restricted cash and cash equivalents and restricted investments are held in trust for third parties in the Unclaimed
+Property Program.
+H – FUND EQUITY
+The difference between assets and liabilities plus deferred inflows of resources is labeled “Fund Balance” on the
+fund financial statements.  Fund balance is reported in five components: (1) Non-spendable, (2) Restricted, (3)
+Committed, (4) Assigned, and (5) Unassigned.
+Restricted fund balances are the result of constraints imposed by the law through constitutional provisions or
+enabling legislation or by parties outside the State, such as creditors, grantors, contributors, or laws or regulations
+of other governments.  Common School Fund balances are all restricted.
+For fund balance classification purposes, the Department and the Treasury determine the appropriate
+classification of each of their detail-level funds based on the resources accounted for in those funds and the
+constraints on spending those resources.  The Department and the Treasury expend resources from the
+appropriate fund based on each fund’s specific spending constraints.  Ending fund balances, therefore, are the
+result of that spending.
+I – IMPLEMENTATION OF GASB STATEMENT NO. 87
+As of July 1, 2021, the Common School Fund adopted GASB Statement No. 87, Leases. The implementation of
+this standard establishes a single model for lease accounting based on the foundational principle that leases are
+financings of the right to use an underlying asset. The standard requires recognition of capital outlay expenditures
+related to assets acquired under lease agreements and other financing sources for leases incurred that were
+previously classified as operating leases and recognized as inflows of resources or outflows of resources based
+on the payment provisions of the contract.  The effect of the implementation of this standard required additional
+disclosures and are included in Note 5. The lease liabilities and right to use assets are recorded on the State of
+Oregon’s Annual Comprehensive Financial Report for the year ending June 30, 2022.
+NOTE 2 – DEPOSITS AND INVESTMENTS
+Common School Fund Investment Portfolio held at Treasury
+Investments of the Common School Fund held by the State Treasurer (Treasurer) require the exercise of prudent
+and reasonable care in the context of the Common School Fund’s investment portfolio and as part of an overall
+investment strategy.  The Treasurer is required to diversify investments unless it is not prudent to do so.  In
+addition, the Treasurer must exercise reasonable care to incorporate risk and return objectives suitable to the
+particular investment fund.  The Treasurer has a policy and procedure that addresses objectives and strategies
+for investments of the Common School Fund.
+The Common School Fund’s investment policies are governed by statute and the Oregon Investment Council
+(Council).  The Treasurer is the investment officer for the Council and is responsible for the funds on deposit with
+the Treasury.  The Treasurer works with the State Land Board to ensure implementation of the asset allocation
+policy that meets the business needs of the Common School Fund.  The Council does not make asset allocation
+changes without considering input from the State Land Board.  In accordance with Oregon statutes, the
+investment funds are invested, and the investments of those funds managed, as a prudent investor would do,
+exercising reasonable care, skill and caution.  The Treasurer is authorized to use demand deposit accounts, fixed
+income investments, and direct equity investment transactions, although the majority of equity investments are
+directed by external investment managers under contract with the Council.  Investments are managed around a
+55% equity, 25% fixed income, 10% real estate, and 10% diversifying strategies (alternative) target with a range
+of plus or minus 5%, as detailed below.  The Common School Fund’s actual asset allocation is monitored monthly
+relative to established asset allocation policy targets and ranges.  A deviation outside of any of the ranges triggers
+a review and rebalancing back toward the target asset allocation with due consideration given to the liquidity of
+the investments and transaction costs.  Whenever possible, cash flows into and out of the fund are used to
+rebalance between asset classes.  Cash is held only for business operating purposes.
+Asset Class Benchmark
+Target
+Allocation Range
+Domestic Equities Russell 3000 Index 22% 20% - 25%
+International Equities MSCI ACWI ex-US Index 23% 20% - 25%
+Private Equities Russell 3000 + 300 bps Index 10% 8% - 12%
+Total Equities 55% 48% - 62%
+US Fixed Income Barclays Aggregate Index 25% 20% - 30%
+Real Estate NCREIF ODCE QTR Lag (Net) 10% 8% - 12%
+Alternative CPI + 4% 10% 8% - 12%
+Cash 0% 0% - 3%
+Policy Mix
+Weighted aggregate of indexes
+listed above at target allocation 100%
+Common School Fund Participation in the Oregon Short-Term Fund Held at Treasury
+The Treasurer maintains the Oregon Short-Term Fund (OSTF), a cash and investment pool that is available for
+use by the Common School Fund.  Because the pool operates as a demand deposit account, the Common
+School Fund portion of the OSTF is classified on the financial statements as cash and cash equivalents.
+Additional information about the OSTF can be found in the OSTF financial statements at:
+https://www.oregon.gov/treasury/public-financial-services/oregon-short-term-funds/Pages/default.aspx
+Common School Fund Investments Held Outside Treasury
+Statutes govern the placement of investments of the Common School Fund held outside Treasury as part of trust
+agreements or mandatory asset holdings by regulatory agencies.  The Common School Fund investment portfolio
+includes $79.2 million held outside Treasury and is reported as restricted investments on the balance sheet.
+A – DEPOSITS
+Custodial Credit Risk for Deposits
+The custodial credit risk for deposits is the risk that, in the event of a depository financial institution failure, the
+Department and the Treasury will not be able to recover deposits or collateral securities that are in the possession
+of an outside party.  The Department and the Treasury do not have a formal policy regarding custodial credit risk
+for deposits.  However, banking regulations and Oregon law establish the insurance and collateral requirements
+for deposit in the OSTF.
+Oregon Revised Statutes (ORS) Chapter 295 governs the collateralization of public funds.  Depositories are
+required to pledge collateral against any public fund deposits in excess of the deposit insurance amounts.  This
+requirement provides additional protection for public funds in the event of a depository loss.  ORS Chapter 295
+sets the specific value of the collateral, as well as the types of collateral that are acceptable.
+ORS Chapter 295 provides the statutory authority for the Public Funds Collateralization Program (PFCP).  The
+Treasury uses an internally developed web application to administer the PFCP and facilitate depository,
+custodian, and public official compliance with ORS Chapter 295.  Under the PFCP, depositories are required to
+report quarterly to Treasury, providing quarter-end public fund balances in excess of Federal Deposit Insurance
+Corporation (FDIC) or National Credit Union Administration (NCUA) limits.  Depositories are also required to
+report their net worth and capitalization information.  The FDIC or NCUA assigns each bank or credit union a
+capitalization category quarterly:  well capitalized, adequately capitalized, or undercapitalized.  Based on this
+information, the depository’s minimum collateral required to be pledged with the custodian and the maximum
+liability in the pool of all depositories is calculated for the next quarter.  The maximum liability is reported to the
+depository, Treasury, and the custodian.
+Barring any exceptions, a depository is required to pledge collateral valued at no less than 10% of its last reported
+uninsured public fund deposits if the depository is well capitalized and as much as 110% if the depository is
+adequately capitalized, undercapitalized, or assigned to pledge 110% by Treasury.
+There are three exceptions to this calculation, and any exceptions are required to be collateralized at 100%
+1. A depository may not accept public fund deposits from one depositor in excess of the depository’s net
+worth.  If the depository has a drop in net worth that takes it out of compliance, the depository is
+required to post 100% collateral on any amount the depositor has in excess of the depository’s net
+worth while working to eliminate that excess.
+2. A depository may not hold aggregate public funds in excess of a percentage of the depository’s net
+worth based on its capitalization category (100% for undercapitalization, 150% for adequately
+capitalized, 200% for well capitalized) unless approved for a period of 90 days or less by Treasury.
+3. A depository may hold in excess of 30% of all aggregate public funds reported by all depositories
+holding Oregon public funds, only if the excess is collateralized at 100%.
+Where interest bearing balances within the OSTF exceed the FDIC or NCUA amount of $250,000 the balances
+were covered by collateral held in the PFCP.
+As of June 30, 2022, $940 thousand in other depository balances of the Common School Fund was held by
+AVENU, not covered by the FDIC rules.  However, the firms are members of the Securities Investor Protection
+Corporation (SIPC) which provides protection up to $500 thousand, of which $250 thousand applies to cash credit
+balances.  Consequently, $250 thousand was insured by SIPC and $690 thousand was uninsured and held by the
+counterparty in the Treasury’s name.
+B – INVESTMENTS
+Custodial Credit Risk
+Custodial credit risk for investments of the Common School Fund is the risk that, in the event of the failure of the
+counterparty to a transaction, the State will not be able to recover the value of an investment or collateral
+securities in the possession of an outside party.  The Council has no formal policy regarding the holding of the
+securities by a custodian or counter party.  For the year ended June 30, 2022, no investment holdings of the
+Common School Fund held at Treasury were exposed to custodial credit risk.
+As of June 30, 2022, the Common School Fund held $81.6 million in investments outside Treasury.  AVENU and
+other investment firms held investments totaling $78.7 million.  The firms are members of the Securities Investor
+Protection Corporation (SIPC) which provides protection up to $500 thousand of which a maximum of $250
+thousand applies to cash credit balances.  Investments outside Treasury also included $2.4 million of real estate
+property and $425 thousand of unclaimed collectibles held for auction.  All the investment holdings of the
+Common School Fund held outside Treasury other than the real estate property were registered in the Treasury’s
+name and therefore not exposed to custodial credit risk. The real estate property is registered in the Department’s
+name and therefore not exposed to custodial credit risk.
+Interest Rate Risk
+Interest rate risk is the risk (variable in value) borne by an interest-bearing asset such as a loan or a bond, due to
+variability of interest rates.  Approximately 26.59% of the Common School Fund’s investment portfolio is invested
+in fixed income securities.  Investment policy for fixed income investments of the Common School Fund is to
+maintain a well-diversified bond portfolio, managed to maximize total return, that reflects the overall
+characteristics of the Barclays Capital Universal Index Benchmark and to invest opportunistically, using innovative
+investment approaches within a controlled and defined portfolio allocation.
+Credit Risk and Concentration of Credit Risk
+Credit risk refers to the risk that a borrower will default on any type of debt by failing to make payments which it is
+obligated to make.  Treasury investment policies for fixed income investments of the Common School Fund
+maintain an overall portfolio quality of at least “A” or higher, maintain an average bond duration level of plus or
+minus 20% of the Barclays Capital Universal Index.  No more than 30% of the total fixed income portfolio at
+market value, may be maintained in securities rated less than Baa3.  No more than 10% of the total fixed income
+portfolio, at market value, may be maintained in Rule 144A securities.  No more than 25% of the fixed income
+allocation shall be invested in a single industry, or Government Agency.  Use of leverage in any fixed income
+securities is not allowed (excluding use of securities in a securities lending program).
+Interest Rate Sensitive Investments
+The Common School Fund held approximately $79.2 million in debt instruments backed by pooled mortgages,
+TBAs (to-be-announced federal agency-issued mortgage pools), collateralized mortgage obligations (CMOs), or
+fixed rate mortgages.  These securities represent a stream of principal and interest payments from underlying
+mortgages and consequently, the value of these securities can be volatile as interest rates fluctuate.  Assets with
+these characteristics may also be susceptible to prepayment by mortgage holders which may result in a decrease
+in total interest realized.  Additionally, the risk of default exits and collateral held may potentially be insufficient to
+cover the principal due.  The Common School Fund also held approximately $10.3 million of asset-backed
+securities backed primarily by student loan and manufactured housing loan receivables.
+The credit rating of the Common School Fund’s investments held at Treasury and using the segmented time
+distribution method as of June 30, 2022, follows:
+Credit Less More than 10 Total
+Rating1 than 1 1 to 5 6 to 10 or none Market Value
+U.S. Treasury Exempt 1,261,768$    27,655,569$ 10,998,601$ 24,550,496$  64,466,434$
+U.S. Treasury TIPS Exempt 559,785 2,156,913 - 867,913 3,584,611
+Federal agency STRIPS Exempt 15,225 - - 4,197 19,422
+U.S. Federal agency mortgages Not Rated 17,053,966 131,063 293,652 47,349,161 64,827,842
+Total U.S. government debt 18,890,743 29,943,546 11,292,253 72,771,766 132,898,307
+Corporate bonds AAA - 1,595,969 123,528 103,409 1,822,906
+AA 188,859 1,459,282 560,933 1,061,097 3,270,171
+A 10,526,401 6,560,111 5,593,313 6,136,212 28,816,037
+BBB 10,466,196 13,765,676 17,790,154 16,040,252 58,062,278
+BB 531,528 3,958,800 1,887,011 2,539,519 8,916,858
+B 39,773 27,728 - - 67,501
+Total corporate bonds 21,752,758 27,367,566 25,954,939 25,880,490 100,955,752
+Non-U.S. government debt AAA 3,426,106 - - - 3,426,106
+AA 1,099,450 - - - 1,099,450
+A - 895,331 185,446 - 1,080,777
+BBB - 1,459,125 1,179,444 9,327,984 11,966,553
+BB 398,256 - - 804,883 1,203,139
+Not Rated 234,569 - 226,308 66,634 527,511
+Total non-U.S. government debt 5,158,381 2,354,456 1,591,198 10,199,501 19,303,536
+Asset-backed securities AAA 1,942,632 - 143,049 1,606,039 3,691,720
+AA 940,639 - - 204,829 1,145,468
+A 1,685,587 - - 513,742 2,199,329
+BBB 968,990 - - 372,461 1,341,451
+B 1,119,419 - - - 1,119,419
+CCC 23,876 - - - 23,876
+CC 173,687 - - - 173,687
+Not Rated 216,825 - - 393,039 609,864
+Total asset-backed securities 7,071,655 - 143,049 3,090,110 10,304,813
+Collateralized mortgage obligations AAA 1,607,778 - - 110,336 1,718,114
+AA 560,071 - - - 560,071
+A 1,346,103 - - - 1,346,103
+BBB 1,924,631 - - - 1,924,631
+CCC 98,673 - - - 98,673
+Not Rated 64,127 - - - 64,127
+5,601,383 - - 110,336 5,711,719
+continued on next page
+Investment Maturities (in years)
+Investment Type
+Total collateralized mortgage obligations
+continued from previous page
+Credit Less More than 10 Total
+Rating1 than 1 1 to 5 6 to 10 or none Market Value
+Collateralized mortgage-backed AAA 3,435,897 - - 1,594,376 5,030,273
+securities AA 1,674,029 - - 976,516 2,650,545
+A 46,678 - - - 46,678
+BBB 19,374 - - - 19,374
+BB 36,283 - - - 36,283
+B 48,963 - - - 48,963
+CC 11,413 - - - 11,413
+C 242,242 - - - 242,242
+Not Rated 586,742 - - - 586,742
+6,101,623 - - 2,570,892 8,672,514
+Domestic fixed income funds Not Rated - - - 279,059,213 279,059,213
+Total debt investments 64,576,542$   59,665,568$ 38,981,439$ 393,682,307$ 556,905,855
+Domestic equity securities 317,734,715
+International equity securities 45,984,143
+Domestic equity funds 159,573,566
+International equity funds 465,932,571
+Private equity holdings 204,382,400
+Domestic real estate investment trusts 3,693,484
+Real estate open ended funds 212,676,224
+Alternative diversifying strategies 127,728,329
+Total investments held at Treasury 2,094,611,286$
+Investment Type
+Total collateralized mortgage-backed securities
+1 Investments of $64,466,434 in U.S. Treasury securities, $3,584,611 in U.S. Treasury Inflation Protected Securities (TIPS), $19,422 in
+Federal Agency STRIPS, and $9,723,831 in Government National Mortgage Association (GNMA), w hich are reported w ithin U.S.
+Federal agency mortgages, are explicitly guaranteed by the U.S. government, and therefore, are exempt from credit risk disclosure
+requirements.
+Investment Maturities (in years)
+Investments Held at Treasury
+Fixed income securities are classified using final maturity date or next rate reset date, whichever is sooner.  Fixed
+income mutual funds are classified by effective duration, the measurement used by the fund manager.
+Investments Held Outside Treasury
+The following table shows the credit rating and segmented time distribution for Investments held outside Treasury
+as of June 30, 2022.
+Investment Type
+Credit
+Rating
+Less
+than 1 1 to 5 6 to 10
+More than
+10 years
+Total
+Market Value
+U.S. Agency Securities Exempt 1,100$      -$               36$          110,026$  111,161$
+U.S. Treasury Strips Exempt 1,998 971 - - 2,969
+GNMA Exempt - - 312 - 312
+Municipal Bonds Not Rated - - 24,996 147,625 172,622
+Corporate Bonds A - - - 15,024 15,024
+Corporate Bonds BB - - 26,034 - 26,034
+Corporate Bonds BBB - - - 42,536 42,536
+Corporate Bonds Not Rated - - - 243 243
+Debt Investments 3,098$      971$          51,378$  315,454$  370,900
+Mutual Funds 28,983,389
+Domestic Equity Securities 47,548,399
+International Equity Securities 1,796,177
+Alternative Equities 24,429
+Other-Collectibles 425,000
+Others 13,400
+Real Estate 2,415,000
+Total Investments Held Outside Treasury 81,576,694$
+Investment Maturities (in years)
+Foreign Currency Risk
+Foreign currency risk is the risk that changes in exchange rates will adversely affect the fair value of an
+investment or a deposit.  State agencies are required to deposit moneys in state-qualified depositories under
+Oregon law.  Exceptions due to foreign field offices and related circumstances are approved by the Treasurer.
+International debt securities denominated in U.S. dollars are not subject to currency risk if the investment’s
+obligations will be paid in U.S. dollars.  Investment policies for fixed income investments under the management
+of the Treasurer provides for investments of the Common School Fund in non-dollar denominated securities
+within a target allocation range of 20 to 30% of their portfolio.  For investments not under the management of the
+Treasurer there are no formal policies on foreign currency risk.  Deposits and investments exposed to foreign
+currency risk for the Common School Fund as of June 30, 2022, follow:
+Foreign Currency
+Denominations Deposits
+International
+Equity
+Securities
+Non-US
+Government
+Debt Total
+Argentine Peso 5,609$         -$                      -$                     5,609$
+Canadian Dollar 35 975,637 3,426,106 4,401,778
+Chinese Yuan 185,554 - 76,161 261,715
+Euro (1) 16,539,140 - 16,539,139
+British Pound 6,478 47,281,481 - 47,287,959
+Hong Kong Dollar - 5,527,164 - 5,527,164
+Japanese Yen - 3,279,220 - 3,279,220
+Korean Won - 813,651 - 813,651
+Mexican Peso 271,796 - 8,902,515 9,174,311
+Russian Ruble 36,322 - 527,511 563,833
+Swedish Krona - 2,428,840 - 2,428,840
+South African Rand - 1,233,397 - 1,233,397
+Total 505,793$    78,078,530$   12,932,293$  91,516,616$
+Deposits and Investments (U.S. Dollars)
+C – FAIR VALUE MEASUREMENTS
+Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability in an orderly
+transaction between market participants at the measurement date.  Observable inputs are developed based on
+market data obtained from sources independent of the reporting entity.  Unobservable inputs are developed
+based on the best information available about the assumptions market participants would use in pricing the asset.
+The classification of investments within the fair value hierarchy is based upon the activity level in the market for
+the security type and the inputs used to determine their fair value, as follows:
+Investments held by Treasury:
+ Level 1 – Unadjusted quoted prices for identical instruments in active markets.
+o Investments managed by Treasury:  investments in equity securities, including exchange-
+traded derivatives, when their value is based on quoted prices from an active market; and real
+estate, which consist of investments in real estate investment trusts, when their valued based
+on an active market price.
+o Investments not managed by Treasury:  funds priced using a fair value per share that is
+published daily and validated with a sufficient level of observable activity; and equity securities,
+including exchange-traded derivatives, when their value is based on quoted prices from an
+active market.
+ Level 2 – Quoted prices for similar instruments in active markets; quoted prices for identical or similar
+instruments in markets that are not active; and model-derived valuations in which all significant inputs
+are observable.
+o Investments managed by Treasury:  investments with remaining maturities of fewer than 90
+days are carried at amortized cost, which approximates fair value; investments with maturities
+of greater than 90 days, debt securities, and investments not valued at fair value per share are
+valued using the latest bid prices or evaluated quotes from independent pricing vendors, which
+use a variety of methods when pricing these securities that incorporate relevant observable
+market data to arrive at an estimate of what a buyer in the marketplace would pay for a security
+under current market conditions; certain non-U.S. government commercial paper is reported at
+amortized cost as independent vendor pricing was not available; and where observable activity
+is limited, yet supports that the fair value per share represents an exit value of the security at
+the measurement date.
+o Investments not managed by Treasury:  debt securities are valued using the latest bid prices or
+evaluated quotes from independent pricing vendors, which use a variety of methods when
+pricing these securities that incorporate relevant observable market data to arrive at an
+estimate of what a buyer in the marketplace would pay for a security under current market
+conditions; and where observable activity is limited, yet supports that the fair value per share
+represents an exit value of the security at the measurement date.
+ Level 3 – Valuations derived from valuation techniques in which significant inputs are unobservable.
+o Investments not managed by Treasury:   in the absence of quoted market prices, such as
+equity securities that trade infrequently or not at all, valuations are based on the last traded
+price or prices provided by investment managers; and funds that  do not meet the criteria to be
+measured at fair value because the fair value per share (or its equivalent) was not calculated in
+a manner consistent with the Governmental Accounting Standards Board’s measurement
+principles for investment companies.
+Investments that are measured at net asset value (NAV) as a practical expedient, such as private equity, real
+estate open-ended funds, investment pools such as domestic equity funds and international equity funds, and
+alternative equities, are excluded from the fair value hierarchy if the NAV (or its equivalent) was calculated in a
+manner consistent with the Governmental Accounting Standards Board’s measurement principles for investment
+companies.
+Private equity consists of 16 funds, organized as limited partnerships and limited liability companies, participating
+in diversified strategies including leveraged-buyouts, venture capital, growth equity, fund of funds, co-investments
+and special situations.  The fair values of the private equity investments have been determined using the NAV per
+share (or its equivalent) as provided by the general partner or managing member.  These funds have a finite term.
+Distributions will be received as the underlying investments of the funds are liquidated, which is expected to occur
+over the next 12-14 years.
+Investments in real estate open-ended funds have been valued based on the NAV per share (or its equivalent) as
+provided by the fund manager and consist of investments in two open-ended funds that permit quarterly
+redemption of shares, subject to certain requirements being met.
+Alternative equity funds seek to provide diversification and inflation hedging characteristics to the Common
+School Fund and consist of four investments in commingled funds which permit monthly redemption of shares,
+subject to certain requirements being met.  The fair values of the investments have been determined using NAV
+per share (or its equivalent) as provided by the fund manager.
+Real estate property investments held outside of the Treasury are valued by appraisals using market sales
+approach and income approach.  Collectibles held outside Treasury are valued using comparative sales.
+The following table shows the fair value classification hierarchy for investments as of June 30, 2022:
+Investments by Fair Value Level Total
+Level 1 Level 2 Level 3 Investments
+U.S. Treasury -$                      68,051,044$       -$                  68,051,044$
+U.S. Federal Agency Strips - 19,421 - 19,421
+U.S. Federal Agency Mortgages - 64,827,841 - 64,827,841
+Corporate Bonds - 100,955,752 - 100,955,752
+Non-US Government Debt - 19,303,536 - 19,303,536
+Asset-backed Securities - 10,304,814 - 10,304,814
+Collateralized Mortgage Obligations - 5,711,719 - 5,711,719
+Collateralized Mortgage-backed Securities - 8,672,514 - 8,672,514
+Domestic Fixed Income funds - 279,059,213 - 279,059,213
+Total debt securities - 556,905,854 - 556,905,854
+Domestic equity securities 363,718,858 - - 363,718,858
+Real Estate Investment Trust 3,693,484 - - 3,693,484
+Investments measured at fair value 367,412,342 556,905,854 - 924,318,196
+Investments Measured at Net Asset Value (NAV):
+Domestic equity funds 159,573,566
+International equity funds 465,932,571
+Private equity 204,382,400
+Real estate open ended funds 212,676,224
+Alternative diversifying strategies 98,045,706
+Alternative infrastructure 29,682,623
+Total investments measured at NAV 1,170,293,090
+Total Investments Held at Treasury 2,094,611,286
+U.S. agency securities - 111,161 - 111,161
+U.S. Treasury strips - 2,969 - 2,969
+GNMA - 312 - 312
+Municipal bonds - 172,622 - 172,622
+Corporate bonds - 83,836 - 83,836
+Domestic equity securities 47,548,399 - - 47,548,399
+International equity securities 1,796,177 - - 1,796,177
+Other-Collectibles - - 425,000 425,000
+Others - 10,046 3,354 13,400
+Real Estate - -                             2,415,000 2,415,000
+Investments Measured at Net Asset Value (NAV):
+Alternative equities 24,429
+Equity funds 28,983,389
+Total Investments Held Outside Treasury 49,344,576 380,946 2,843,354 81,576,694
+Total Investments by fair value level 416,756,918$ 557,286,800$     2,843,354$ 2,176,187,980$
+Fair Value Classification Heirarchy
+Investments Held at Treasury
+Investments Held Outside Treasury
+The following table shows the investments measured at net asset value per share (or its equivalent) including
+unfunded commitments and redemption as of June 30, 2022.
+Redemption
+Investments Measured at Unfunded Frequency (If Redemption
+Net Asset Value (NAV) Fair Value Commitments1 Currently Eligible) Notice Period
+Private equity 204,382,400$     32,327,145$   NA NA
+Real estate open-ended funds 212,676,224 5,617,834 Quarterly 15 - 45 days
+Alternative diversifying strategies 98,045,706 - Monthly 3 - 10 days
+Alternative infrastructure 29,682,623 23,743,375 NA NA
+Domestic equity funds 159,573,566 - NA NA
+International equity funds 465,932,571 - NA NA
+Total Investments at fair value 1,170,293,090$ 61,688,354$
+1 Excludes new commitments not yet funded at June 30, 2022.
+D – SECURITIES LENDING
+Common School Fund participates in securities lending transactions in accordance with State investment policies.
+The Treasury has, through a Securities Lending Agreement, authorized State Street Bank and Trust Company
+(State Street) to lend the Common School Fund securities pursuant to a form of loan agreement.  Both the State
+and borrowers maintain the right to terminate all securities lending transactions on demand.  There were no
+significant violations of the provisions of securities lending agreements during the year ended June 30, 2022.
+During the year, State Street had the authority to loan short-term, fixed income, and equity securities and to
+receive as collateral U.S. dollar and foreign currency cash, U.S. government and agency securities, and foreign
+sovereign debt of Organization of Economic Cooperation and Development countries.  Borrowers were required
+to deliver collateral for each loan equal to not less than 102% of the market value of the loaned U.S. securities,
+international fixed income securities, or 105% in the case of international equity.  The custodian did not have the
+ability to pledge or sell collateral securities absent a borrower default, and during the fiscal year the State did
+impose restrictions on the amount of loans the custodian made on its behalf.  The State is fully indemnified
+against losses due to borrower default by its custodian.  There were no losses during the year from the failure of
+borrowers to return loaned securities and no recoveries of amounts from prior losses.
+As of June 30, 2022, the fair value of cash and non-cash collateral received was $11.1 million and invested cash
+collateral was $9.3 million for Common School Fund.  There were no significant violations of the provisions of
+securities lending agreements during the period of these financial statements.
+State Street, as a lending agent, has created a fund to reinvest cash collateral received on behalf of the OSTF.
+Common School Fund receives an allocated portion of this activity based on its deposits in OSTF.  As of June 30,
+2022, Common School Fund’s allocated portion of cash collateral received and invested cash collateral were
+$335 thousand and $335 thousand respectively.  Securities on loan from OSTF in total included U.S. Treasury
+securities (0.95%), U.S. Agency securities (26.17%), and domestic fixed income securities (72.88%).
+As permitted under the fund’s Declaration of Trust (Declaration), participant purchases and redemptions are
+transacted at $1 per unit (“constant value”) based on the amortized cost of the fund’s investments.  Accordingly,
+the securities lending collateral held and the obligation to the lending agent are both stated at constant value on
+the balance sheet and statement of net position.
+The maturities of investments made with cash collateral did not generally match the maturities of the securities
+loaned.  Since the securities loaned are callable on demand by either the lender or borrower, the life of the loans
+at June 30, 2022, is effectively one day.  On June 30, 2022, the Common School Fund had no credit risk
+exposure to borrowers because the amounts the State owes to borrowers exceed the amounts borrowers owe the
+State.  The following table shows the combined balances of the securities on loan, cash and securities collateral
+received, and investments of cash collateral held.
+Securities Lending as of June 30, 2022
+Investment Type
+Cash and
+Securities
+Collateral
+Received
+Securities
+on Loan
+at Fair Value
+Investments of
+Cash Collateral
+at Fair Value
+U.S. Treasury securities 370,700$             -$                           -$
+U.S. Agency securities 299,462 573,218 -
+Domestic equity securities 6,218,592 5,622,666 5,799,880
+Domestic debt securities 3,215,562 2,688,484 2,534,409
+International equity securities 982,733 1,764,470 982,430
+11,087,049 10,648,838 9,316,719
+Allocation from Oregon Short-Term Fund 418,423 410,367 334,917
+Total 11,505,472$       11,059,205$       9,651,636$
+NOTE 3 – DERIVATIVES
+Derivatives are financial instruments whose value is derived from underlying assets, reference rates, or indexes.
+They generally take the form of contracts in which two parties agree to make payments at a later date based on
+the value of the underlying assets, reference rates, or indexes.  The main types of derivatives are futures,
+forwards, options and swaps. In the Common School Fund portfolio, forward currency exchange contracts may be
+used to gain exposure or hedge against the effects of fluctuations of foreign currency exchange rates.  A foreign
+currency exchange contract is a forward contract that is a commitment to purchase or sell a foreign currency at
+the future date at a negotiated forward rate.  Foreign currency forward contracts are privately negotiated contracts
+with customized terms and are transacted in over-the-counter markets.  Risk associated with such contracts
+includes movement in the value of foreign currencies and the failure of the counter party to perform.
+The following table shows the foreign currency exchange contracts subject to foreign currency risk within the
+Common School Fund as of June 30, 2022:
+Currency Options Net Receivables Net Payables Total Exposure
+Yuan Renminbi -$                  -$                         12,223$             12,223$
+Mexican Peso - (1,324) (21,042) (22,366)
+Total -$                  (1,324)$              (8,819)$              (10,143)$
+Currency Forward Contracts
+In the Common School Fund portfolio, rights and warrants are often obtained and held due to existing
+investments.  Rights are the right, but not the obligation, to purchase newly issued equity shares, often in
+proportion to the number of shares currently owned, in a specific company, at a pre-established price on or within
+a predetermined date.  A warrant provides the holder the right, but not the obligation, to purchase securities from
+the issuing entity at a specific price and within a certain period.  Rights and warrants are privately transacted in
+over-the-counter markets. Both are subject to general market risk and liquidity risk.
+The following table shows the related net appreciation in fair value amounts and the notional amounts of
+derivative instruments outstanding within the Common School Fund as of June 30, 2022:
+Fair Notional
+Investment Derivatives Classification Value 2 Value 3
+Foreign Exchange Forwards 115,939$      Long Term Instruments (10,142)$     4,407,516$
+Rights 53,219 Common Stock - -
+Total 169,158$      (10,142)$     4,407,516$
+1 Negative values (in brackets) refer to losses
+2 Negative values refer to liabilities
+3 Notional may be a dollar amount or size of underlying for futures and options
+4 Excludes futures margin payments
+Net Appreciation/
+Fair Value 1,4
+(Depreciation) in
+The fair value of derivative instruments is reported on the balance sheet as investments, accounts and interest
+receivables, and accounts payable.  Changes in fair value of derivative instruments during the fiscal year are
+reported on the statement of revenues, expenditures, and changes in fund balance as investment income.
+NOTE 4 – RECEIVABLES AND PAYABLES
+A – RECEIVABLES
+The following table disaggregates receivable balances reported in the financial statements as accounts and
+interest receivable (net), and Net Contracts, Notes, and Other Receivables.  Receivable reported for
+governmental activities as of June 30, 2022:
+Governmental activities Total
+General accounts  $        114,689
+Interest         2,464,366
+Investment broker receivable       14,173,586
+Accounts and Interest Receivable, net  $   16,752,641
+Governmental activities Total
+Contracts, Notes, and Other Receivables  $         125,190
+Allowance for doubtful accounts            (111,319)
+Net Contracts, Notes, and Other Receivables  $           13,871
+B – PAYABLES
+The following table disaggregates accounts payable reported in the financial statements as general accounts
+payable and broker payable.  Payables reported for governmental activities as of June 30, 2022:
+General accounts payable  $       1,654,309
+Investment broker payable         25,974,382
+Total payables  $     27,628,691
+C – DEPOSIT LIABILITIES
+Deposit liabilities consist of unclaimed property held in custody by the Treasury and the Department in perpetuity
+for the rightful owner as required by ORS 98.302-98.436 and 98.991-98.992.  The unclaimed property liability is
+reported at approximately 50.71% of the total unclaimed property being held.  In the current fiscal year, a change
+in methodology was made by starting with the amount reported multiplied by the percentage of the reclaimed rate
+and subtracting the total cash claimed.  The new methodology also allocates the estimated liabilities between the
+Treasury and the Department to process claims for property.  Starting the current fiscal year, the Treasury is
+responsible for all new deposit liabilities.  All deposit liabilities prior to the current fiscal year remain the
+responsibility of the Department.  The total legal liability for the unclaimed property program as of June 30, 2022,
+was $919.5 million.  The accumulated annual adjustment as of June 30, 2022, was $691.1 million.
+NOTE 5 – LEASES
+A – LEASES - LESSEE
+The Department and the Treasury have various non-cancelable rental agreements for buildings and equipment
+with non-state entities that are accounted under the new lease guidance GASB Standard No. 87, Leases.  The
+lease purchase revenue is reported as leases incurred in the amount of $4.3 million in other financing sources
+(uses) whereas the lease purchase expenditure is reported in capital improvements in the amount of $4.3 million.
+The principal and interest payments are reported as debt service payments in the amount of $69 thousand and
+$28 thousand, respectively.  Lease liabilities and assets are recorded in the State of Oregon’s Annual
+Comprehensive Financial Report for the year ended June 30, 2022, Statement of Net Position.  There is no
+residual value guarantee in these lease contracts.  Land is pledged as a collateral security to one of the leased
+building contracts.  The following table shows future minimum lease payments and the related net present value
+as of June 30, 2022:
+Year ending June 30, Principal Interest
+2023  $        162,497  $               84,373
+2024            184,333                   82,425
+2025            206,305                   79,320
+2026            229,065                   75,859
+2027            249,533                   72,035
+2028-2032            976,913                 301,966
+2033-2037            950,091                 204,678
+2038-2042         1,274,150                   72,176
+Total  $    4,232,887  $             972,833
+B – LEASE RECEIVABLES
+The Department receives rental income from land and property leased to non-state entities.  For the year ended
+June 30, 2022, the Department received rental income of $60 thousand on leased assets with a fair market value
+of $2.4 million. The leased assets are considered investments of the Department and is excluded from the new
+lease guidance GASB Standard No. 87, Leases. Future minimum lease revenues for non-cancelable leases as of
+June 30, 2022:
+Year ending June 30, Amount
+2023  $        61,359
+2024             63,199
+2025             65,095
+2026             67,048
+2027             69,060
+2028-2032          125,672
+Total future minimum
+rental revenues  $      451,433
+NOTE 6 – POLLUTION REMEDIATION OBLIGATION
+Pollution remediation obligations address the current or potential detrimental effects of existing pollution by
+participating in pollution remediation activities.  This includes pre-cleanup activities, cleanup activities,
+government oversight and enforcement-related activities and post remediation monitoring.  Excluded from
+pollution remediation obligations are obligations for pollution prevention and control activities, fines and penalties,
+landfill closure and post closure care, and other future remediation activities required upon retirement of an asset.
+The Common School Fund recognizes a pollution remediation obligation when it can reasonably estimate the
+range of expected cash outlays.
+The Department is involved in negotiations related to a confidential, non-judicial mediation process that will result
+in an allocation of costs associated with investigation and cleanup of contamination of the in-river portions of the
+Portland Harbor Superfund site.  There are over 100 parties, private and public, that may eventually bear a share
+of the costs.  The Environmental Protection Agency (EPA) issued a Record of Decision estimating the cleanup to
+cost $1.1 billion and take approximately 13 years to complete.  It is too early to estimate the total cleanup costs
+that may be shared by the liable parties and what portion of that will be assessed against the Common School
+Fund.  The Portland Harbor Superfund site is discussed in greater detail in Note 12.
+On May 31, 2019, the Department entered into a settlement agreement for funding remedial design with the EPA,
+Oregon Department of Transportation, and the City of Portland for the Portland Harbor Superfund site cleanup.
+The EPA settlement agreement for funding remedial design requires the State to pay $6 million to EPA in July
+2019 and up to $6 million by June 2021, not to exceed $12 million in total. The EPA informed the Department that
+the second payment of $6 million for remedial design was not necessary.
+As of June 30, 2022, the Department has remaining contracts for Portland Harbor cleanup activities estimated at
+$2.1 million. The pollution remediation obligation of $2.1 million for the Portland Harbor Superfund site is recorded
+in the State of Oregon’s Annual Comprehensive Financial Report for the year ended June 30, 2022, Statement of
+Net Position.
+NOTE 7 – INTERFUND TRANSACTIONS
+Interfund balances reported in the financial statements as of June 30, 2022:
+Due to Other Funds
+Employment
+Services
+Environmental
+Management
+Common
+School
+Environmental Management -$               -$                  236,827$
+Common School 423,127 173,276 -
+General - - 30
+Other Custodial - - 1,689
+Total 423,127$      173,276$         238,546$
+Advances to Other Funds
+Common
+School
+Environmental Management -$               -$                  300,000$
+Due from Other Funds
+Advances from Other Funds
+Interfund balances result from the time lag between the date a transaction for interfund goods and services or
+reimbursable expenditures is recorded and the date the payment between funds is made.  Advances to other
+funds are not expected to be repaid within one year.
+NOTE 8 – RELATED PARTY TRANSACTIONS
+The Oregon State Treasurer (Treasurer) is a constitutional officer within the executive branch of the state of
+Oregon, elected by statewide vote.  As chief financial officer for the state, the Treasurer heads the Oregon State
+Treasury (Treasury).  Treasury acts as the central bank for all state agencies and is the largest financial institution
+in the state.  Treasury manages the portfolio of investments for the state’s funds, including the Common School
+Fund.
+The State Land Board, which consists of the Governor, Secretary of State and Treasurer, is the trustee of the
+Common School Fund as outlined in the Oregon Constitution.  The Common School Fund’s investment policies
+are governed by statute and the Oregon Investment Council.  The Treasurer is the investment officer for the
+Investment Council.  During the year ended June 30, 2022, the Common School Fund paid Treasury $648
+thousand in fees for the management of the Common School Fund investment portfolio.
+NOTE 9 – RISK FINANCING
+The State of Oregon administers property and casualty programs covering State government through its
+Insurance Fund.  The Insurance Fund services claims for:  direct physical loss or damage to state property; tort
+liability claims brought against the State, its officers, employees or agents, workers’ compensation; employee
+dishonesty; and faithful performance coverage for certain positions by law to be covered and other key positions.
+As state agencies, the Department and the Treasury participate in the Insurance Fund.  The cost of servicing
+insurance claims and payments is covered by charging an assessment to each entity based on its share of
+services provided in a prior period.  The total statewide coverage assessment is based on independent biennial
+actuarial forecasts and administrative expenses, less carry-forward or equity in the insurance fund.  For the
+Common School Fund, the amount of claim settlements did not exceed insurance coverage for each of the past
+three years.
+NOTE 10 – FUND EQUITY
+Restricted fund balances result from constraints imposed by law through constitutional provisions or enabling
+legislation or by parties outside the State, such as creditors, grantors, contributors, or laws or regulations of other
+governments.  Enabling legislation authorizes the Department to levy, access, charge, or otherwise mandated
+payment from external resource providers and includes a legally enforceable requirement that those resources be
+used only for specific purposes stipulated by the legislation.  As of June 30, 2022, the Common School fund
+balance of $2 billion is restricted for K-12 Education.
+NOTE 11 – COMMITMENTS
+Commitments are defined as existing arrangements to enter into future transactions or events, such as
+contractual obligations with vendors for future purchases or services at specified prices and sometimes at
+specified quantities.  Commitments may also include agreements to make grants and loans.
+As of June 30, 2022, the Department had the following personal services contract commitments in effect:
+Funding Source Total
+Other Funds  $ 26,467,624
+The Oregon Investment Council has entered into agreements that commit the investment managers for the
+Common School Fund, upon request, to additional investment purchases up to a predetermined amount.  As of
+June 30, 2022, the Common School Fund had approximately $96.7 million in commitments to purchase private
+equity, alternatives and real estate open-ended fund investments.  These amounts are unfunded and are not
+recorded in the financial statements.
+NOTE 12 – CONTINGENCIES
+PORTLAND HARBOR SUPERFUND SITE
+The Department is involved in negotiations related to a confidential, nonjudicial mediation process that will result
+in an allocation of costs associated with the investigation and cleanup of sediment contamination in the Portland
+Harbor, a ten-mile stretch of the lower Willamette River area that the U.S. Environmental Protection Agency
+(EPA) has listed as a Superfund site under the federal Superfund law (CERCLA).  The Department is one of over
+100 parties, private companies, and public entities that may eventually be found liable for a share of the costs
+related to investigation and cleanup of the site.
+The Department has received General Notice Letters from the EPA informing it is a potentially responsible party
+(PRP) under CERCLA for cleanup costs at the site.  The EPA’s letter to the Department charges that the State,
+through the Department and the State Land Board, is a PRP because of releases of hazardous substances by
+third parties on submerged and submersible leased lands owned by the state in trust for the public and managed
+by the Department.  Under CERCLA, responsible parties can be held jointly and severally liable for all costs,
+subject to certain defenses.
+On January 6, 2017 EPA issued a Record of Decision (ROD) for the final cleanup remedy which EPA estimates
+will cost $1.05 billion and take approximately 13 years to complete.  Other parties estimate that it is a $3 billion
+remedy that will take 20 years to complete.  Liable parties under CERCLA are responsible for funding this
+remedial action, as well as other preliminary actions required before full implementation of the ROD, such as
+additional investigation, remedial design, and agency oversight. EPA has asked PRPs to step forward to perform
+components of the ROD or risk enforcement action.  The Portland Harbor Superfund mediation will allocate
+response costs among all liable parties.
+In September 2018, the EPA signed an Administrative Settlement and Order on Consent which obligates four
+PRP parties to undertake pre-remedial design sampling to investigate the current state of sediment contamination
+in the site.  This sampling investigation and related deliverables were provided to EPA in June 2019.  In
+September 2019, EPA concluded that the data from the sampling was of suitable quality for further use, though
+EPA and the four PRP parties remain in discussion about how the data may impact future cleanup work.
+It is also too early to estimate the proportionate share of the liability for cleanup costs, if any, that may ultimately
+be assessed against the Common School Fund.  It is not known when the mediation process will end.
+The Portland Harbor Superfund will also involve a separate allocation of liability for injuries to natural resources
+caused by contamination at the site, which is an additional type of recovery under the Superfund law known as
+natural resource damages (NRD).  The NRD claim will be asserted against all PRPs, including the Department,
+by the Portland Harbor natural resource trustees, a group composed of five tribes, two federal agencies, and the
+State.  The trustees have initiated a cooperative injury assessment process funded by third parties, the goal of
+which is to reach settlements of the NRD claim based on readily available information.  The state is seeking a
+settlement of its NRD liabilities.  It is too early to evaluate what, if any, share of the liability the Common School
+Fund may ultimately bear for the NRD claim.
+The Department is pursuing claims for insurance coverage of its Portland Harbor defense costs and any future
+liabilities for cleanup costs and natural resource damages.  These claims are based on commercial general
+liability insurance policies the State held from 1968 to 1972 that listed the Department as an additional insured.
+These insurance carriers have agreed to participate in funding the Department’s defense in Portland Harbor
+proceedings but have reserved their rights to deny indemnity coverage.  In June 2019, the State executed a
+settlement agreement with several insurers regarding their obligation to pay for most of the Department’s defense
+costs through 2024.
+OTHER REPORTS
+This page intentionally left blank.
+What inspires you, inspires us. | eidebailly.com
+877 W. Main St., Ste. 800 |  Boise, ID 83702-5858 | T 208.344.7150 | F 208.344.7435  |  EOE
+Independent Auditor’s Report on Internal Control over Financial Reporting and on Compliance and
+Other Matters Based on an Audit of Financial Statements Performed in Accordance with Government
+Auditing Standards
+State Land Board
+Oregon Department of State Lands
+Salem, Oregon
+We have audited, in accordance with auditing standards generally accepted in the United States of
+America and the standards applicable to financial audits contained in Government Auditing Standards,
+issued by the Comptroller General of the United States, the financial statements of the Common School
+Fund, a major governmental fund of the State of Oregon, which comprise the balance sheet as June 30,
+2022, and the related statement of revenues, expenditures, and changes in fund balances for the year
+ended, and the related notes to the financial statements, which collectively comprise the Common
+School Fund’s basic financial statements and have issued our report thereon dated November 9, 2022.
+Report on Internal Control over Financial Reporting
+In planning and performing our audit of the financial statements, we considered the Common School
+Fund’s internal control over financial reporting (internal control) as a basis for designing audit
+procedures that are appropriate in the circumstances for the purpose of expressing our opinions on the
+financial statements, but not for the purpose of expressing an opinion on the effectiveness of the
+Common School Fund's internal control. Accordingly, we do not express an opinion on the effectiveness
+of the Common School Fund’s internal control.
+A deficiency in internal control exists when the design or operation of a control does not allow
+management or employees, in the normal course of performing their assigned functions, to prevent, or
+detect and correct, misstatements on a timely basis. A material weakness is a deficiency, or a
+combination of deficiencies, in internal control, such that there is a reasonable possibility that a material
+misstatement of the entity’s financial statements will not be prevented, or detected and corrected on a
+timely basis. A significant deficiency is a deficiency, or a combination of deficiencies, in internal control
+that is less severe than a material weakness, yet important enough to merit attention by those charged
+with governance.
+Our consideration of internal control was for the limited purpose described in the first paragraph of this
+section and was not designed to identify all deficiencies in internal control that might be material
+weaknesses or significant deficiencies. Given these limitations, during our audit we did not identify any
+deficiencies in internal control that we consider to be material weaknesses. However, material
+weaknesses or significant deficiencies may exist that have not been identified.
+Report on Compliance and Other Matters
+As part of obtaining reasonable assurance about whether the Common School Fund’s financial statements are
+free from material misstatement, we performed tests of its compliance with certain provisions of laws,
+regulations, contracts, and grant agreements, noncompliance with which could have a direct and material effect
+on the financial statements. However, providing an opinion on compliance with those provisions was not an
+objective of our audit, and accordingly, we do not express such an opinion. The results of our tests disclosed no
+instances of noncompliance or other matters that are required to be reported under Government Auditing
+Standards.
+Purpose of this Report
+The purpose of this report is solely to describe the scope of our testing of internal control and compliance and
+the results of that testing, and not to provide an opinion on the effectiveness of the entity’s internal control or
+on compliance. This report is an integral part of an audit performed in accordance with Government Auditing
+Standards in considering the entity’s internal control and compliance. Accordingly, this communication is not
+suitable for any other purpose.
+Boise, Idaho
+November 9, 2022

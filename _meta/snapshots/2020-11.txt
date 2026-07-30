@@ -1,0 +1,1370 @@
+Secretary of State Bev Clarno
+Audits Division Director Kip Memmott
+Department of Administrative Services
+DAS Should Build on Recent Enhancements and
+Further Improve the Facility Planning Process to
+Better Inform Investments in State Facilities
+March 2020
+2020-11
+Department of Administrative Services
+DAS Should Build on Recent Enhancements and
+Further Improve the Facility Planning Process to
+Better Inform Investments in State Facilities
+What We Found
+1. The Department of Administrative Services (DAS) has improved
+statewide facility data collection and reporting.
+2. The facility planning process could be further improved to more
+effectively inform decision-makers and increase transparency for
+investments in state facilities. DAS can better align and document the
+criteria used to prioritize investments in facilities.
+3. The results of the statewide facility planning process are not readily
+available to the Legislature or the public. Providing this information
+would help legislators make better informed funding decisions and
+enhance public accountability.
+4. Oregon does not have a statewide plan for its facility portfolio. DAS has
+not created a plan because there is no statutory requirement to do so.
+However, the agency not only appears to have authority to create a
+statewide plan, it is in an ideal position to do so because it has both a
+structure in place and access to statewide facility data and agency plans.
+Other states have developed statewide plans for facilities.
+5. Although a large amount of facility data is available, the data is not
+complete. Some agencies are still self-reporting their facility needs and
+have not gone through an independent facility condition assessment.
+Incomplete data makes it difficult to compare facility conditions across
+the state portfolio or provide data for decision-makers.
+What We Recommend
+Our report includes seven recommendations to DAS intended to improve the
+facility planning process that is used to inform decisions-makers. These
+recommendations are intended to build upon current efforts to provide data
+to help inform decision-makers as they decide the facility needs to fund.
+DAS agreed with five recommendations and declined to agree or disagree
+with one. The agency’s response can be found at the end of the report.
+Why This Audit is
+Important
+» Oregon state government
+owns over 5,000 facilities
+worth more than $7 billion.
+» State-owned facilities are
+critical to serving Oregonians
+and include office buildings,
+warehouses, detention
+centers, school facilities, and
+hospitals.
+» The state of Oregon
+recognizes that providing and
+operating state government
+facilities is a significant
+capital investment in public
+infrastructure.
+» The National Association of
+State Chief Administrators
+identified facilities portfolio
+planning as one of their top
+10 priorities for 2019-2020.
+» It is the policy of the State to
+plan, finance, acquire,
+construct, manage, and
+maintain state government
+facilities in a manner that
+maximizes and protects this
+investment.
+The Oregon Secretary of State Audits Division is an independent, nonpartisan organization that conducts audits based on
+objective, reliable information to help state government operate more efficiently and effectively. The summary above should be
+considered in connection with a careful review of the full report.
+Oregon Secretary of State | Report 2020-11 | March 2020 | Page 1
+Introduction
+State-owned facilities support the programs and services that state agencies deliver to
+Oregonians. These facilities house individuals convicted of crimes, provide classrooms for
+students, and provide office space for state workers, among other functions. The state of Oregon
+recognizes that providing and operating state government facilities is a significant capital
+investment in public infrastructure; it is therefore the policy of the State to plan, finance, acquire,
+construct, manage, and maintain state government facilities in a manner that maximizes and
+protects this investment.
+The Department of Administrative Services (DAS) is charged with administering the statewide
+facility planning process. The objective of this audit was to determine if the statewide facility
+planning process administered by DAS maximizes and protects investments in state facilities.1
+Oregon’s statewide facility portfolio is worth over $7 billion
+Nineteen state agencies own over 5,000 facilities with a current replacement value over $7
+billion.2 Some state-owned properties, including higher education facilities, legislative facilities
+such as the Capitol building, and judicial facilities such as the Supreme Court building, are not
+included in this facility count, as the agencies that own these facilities are not required to follow
+the same facility planning process as the other state agencies.
+The Department of Corrections has the largest share of the portfolio with 354 facilities worth
+$2.4 billion covering 5.5 million square feet. The Oregon Department of Education, which owns
+the School for the Deaf, has some of the oldest facilities with an average construction year of
+1957 and the Department of Public Safety Standards and Training has some of the newest
+facilities, with an average construction year of 2004.
+The state portfolio has significant deferred maintenance and capital renewal needs
+The state’s facility portfolio has significant deferred maintenance and capital renewal needs,
+such as roof replacements and HVAC system upgrades, for example. DAS defines deferred
+maintenance as maintenance that was not performed when it should have been. Capital renewal
+1 For the purpose of this audit, investment is defined as funding and resources to address statewide facility needs.
+2 Facilities include state agency-owned buildings, land, and associated infrastructure. It does not include transportation
+infrastructure or buildings and facilities belonging to universities or community colleges.
+Oregon State Hospital, Salem Oregon
+Source: Oregon Health Authority Website
+Portland State Office Building
+Source: Gary Halvorson, Oregon State Archives
+Oregon Secretary of State | Report 2020-11 | March 2020 | Page 2
+is the planned replacement of building systems that
+have or will reach the end of their useful life. It is
+important that facility systems are adequately
+maintained and replaced when necessary in order
+to prevent costly damage to other facility
+components.
+Agencies, as part of the statewide facility planning
+process, report the maintenance and capital renewal
+needs of their facilities to DAS using a five-level
+priority system, with priority 1-3 needs
+representing necessary deferred maintenance and
+capital renewal. Based on agency reporting in 2018,
+there is more than $460 million in deferred
+maintenance and capital renewal needs across
+agencies. The Department of Corrections makes up
+more than 40% of this total at over $208 million.
+The Military Department and DAS have the second
+and third highest need at $79 million and $48
+million, respectively. DAS estimates that, without
+additional investment, statewide needs will grow to
+over $1 billion by 2026.
+In 2017, the Legislature passed Senate Bill 1067 in order to help contain and reduce future costs
+of state government. One provision requires the Governor’s Recommended Budget to include at
+least 2% of the replacement value of state facilities to be spent each biennium on deferred
+maintenance and capital improvements of existing facilities. Based on analysis by the Legislative
+Fiscal Office, the 2019-21 Legislature approved over $220 million for deferred maintenance and
+capital improvements, nearly 3% of the replacement value of state facilities. Addressing facility
+maintenance needs proactively can help contain future costs. The National Research Council
+estimates that each dollar invested in deferred maintenance can help reduce future facility costs
+by as much as four dollars.
+Figure 1 lists all of the facility-owning state agencies, including information on current
+replacement values, number of facilities owned by each agency, and the size of facilities in gross
+square feet, based on agency reporting from 2018. Appendix A provides a table of the 50 most
+valuable state-owned facilities with an estimate of their current condition.
+Figure 1: Nineteen state agencies own facilities worth over $7 billion
+Agency
+Current
+Replacement
+Value
+Number
+of
+Facilities
+Gross
+Square
+Feet
+Total Priority
+1-3 Needs
+Department of Corrections $2,367,178,922 354 5,547,006 $208,349,380
+Department of Administrative Services 1,125,639,346 110 4,228,002 47,836,317
+Oregon Military Department 1,074,757,779 441 3,413,864 79,194,050
+Oregon Department of Transportation 763,732,763 1,835 3,311,435 33,437,341
+Oregon Health Authority 456,472,020 50 1,131,064 5,190,000
+Oregon Youth Authority 219,174,095 90 625,753 29,179,215
+3 The National Research Council is the principal operating agency of the National Academy of Sciences, the National Academy of
+Engineering, and the National Academy of Medicine with a purpose to help improve public policy, understanding, and education in
+matters of science, technology, and health.
+DAS Maintenance Priorities:
+Priority 1 Currently Critical: require
+immediate action in order to address code
+and accessibility violations that affect life
+safety.
+Priority 2 Potentially Critical: projects to be
+undertaken in the near future to maintain
+the integrity of a facility.
+Priority 3 Necessary – Not Yet Critical:
+projects that could be undertaken in the
+near to mid-term to maintain the integrity of
+a building.
+Priority 4 Seismic and Natural Hazard
+Remediation: improve seismic performance
+of buildings or mitigate significant flood
+hazards.
+Priority 5 Modernization: alternations or
+replacement of facilities solely to implement
+new or higher standards to accommodate
+new functions.
+Oregon Secretary of State | Report 2020-11 | March 2020 | Page 3
+Agency
+Current
+Replacement
+Value
+Number
+of
+Facilities
+Gross
+Square
+Feet
+Total Priority
+1-3 Needs
+Oregon Department of Forestry 213,289,759 433 851,784 25,509,549
+Oregon Parks and Recreation Department 211,335,938 1,107 959,711 762,000
+Oregon Department of Fish and Wildlife 174,881,032 575 2,882,186 2,650,311
+Oregon Department of Veterans’ Affairs 120,309,567 3 334,264 10,924,604
+Department of Public Safety Standards and
+Training 108,393,044 23 328,024 1,011,818
+Oregon Department of Education 63,713,026 18 277,095 9,748,214
+Oregon Liquor Control Commission 53,554,337 2 283,714 6,746,710
+Public Employees Retirement System 31,258,749 1 60,220 140,000
+Department of State Lands 25,740,480 4 81,696 366,000
+Oregon Employment Department 17,718,600 10 121,654 1,781,000
+Oregon Aviation Department 10,731,649 31 51,889 04
+Oregon State Police 9,743,448 2 23,614 1,421,750
+Oregon Department of Agriculture 2,177,018 11 20,666 491,438
+Total $7,049,801,572 5,100 24,533,651 $464,739,697
+Source: 2018 Agency Capital Projects Advisory Board Reports
+DAS is responsible for overseeing the statewide facility planning process
+DAS is the state’s central administrative agency that supports state government through
+coordination of statewide services and administrative policies. DAS is comprised of four offices.
+This audit focuses on the work of the Chief Financial Office (CFO). The CFO, through its Facility
+Planning Unit (FPU), established the statewide facility planning process to evaluate the needs
+4 The Oregon Aviation Department did not report any building level priority 1-3 needs in its 2018 Capital Projects Advisory Board
+report.
+Oregon Secretary of State | Report 2020-11 | March 2020 | Page 4
+and conditions of state facilities; establish and implement guidelines and standards for
+acquiring, managing, and maintaining state facilities; and provide financing and budgeting
+strategies to allocate resources to facility needs.
+Oregon has a decentralized facility planning process where each facility-owning agency is
+responsible for ensuring their facilities are maintained and identifying their future capital needs.
+Per statute, DAS is charged with managing a statewide facility planning process.5 The intent of
+this process is to ensure the state is making rational, data-driven investment decisions and
+providing facilities that are as efficient and effective as possible in delivering responsive
+government services. This process is closely tied with the statewide budget development
+process and involves multiple entities and steps.
+Agencies are required to submit their facility plans to DAS and the Capital Projects
+Advisory Board, and may also submit plans to the Capitol Planning Commission
+Throughout the year, agencies, as required by statute and administrative rules, maintain their
+facilities and update their facility data in a database based on improvements they make. They
+are also required to establish and implement long-range facility maintenance and management
+plans.
+As part of the facility planning process, agencies submit their facility plans to DAS and to the
+Capital Projects Advisory Board (CPAB). CPAB was created by the Legislature to provide a
+public review process for capital projects proposed by state agencies. 6 The board consists of
+seven members with at least five public members knowledgeable in construction, facilities
+management, and maintenance and up to two state agency employees. The DAS director
+appoints the board’s chair.
+Agencies present their plans to CPAB between April and August of the even-numbered year
+prior to a legislative session. All agencies that own facilities present before the board, including
+agencies that do not have funding requests. These plans include reports documenting the
+agency’s facility inventory, facility condition, and any funding requests that cost more than $1
+million.
+The board’s review of agency proposed capital projects may include, per statute, the following:
+an examination of the effectiveness of asset protection, maintenance, and repair; effectiveness of
+space utilization, including inventory of existing occupied and unoccupied building space; and
+the condition of existing occupied and unoccupied building space.
+At the conclusion of agency presentations, the board writes letters with their recommendations
+related to agency facility plans, to the DAS director, the state’s Chief Operating Officer.
+The Capital Planning Commission provides another avenue for public review of specific
+agency facility proposals. The commission’s review is applicable only for agency facility
+proposals within the cities of Salem and Keizer that involve the purchase, construction, or
+significant changes of use of a state building requiring an expenditure of more than $1 million.
+The purpose of the commission’s review is to ensure compliance with area development plans.
+After reviewing an agency proposal the commission is required to provide the agency with a
+written decision supporting their recommendation. Members of the commission include public
+officials from the City of Salem, the DAS director or designee, legislators, and four members of
+the public appointed by the Governor.
+5 ORS 276.227
+6 Capital project include land, building, and other major facility renovations, additions, or improvement projects.
+Oregon Secretary of State | Report 2020-11 | March 2020 | Page 5
+DAS has multiple roles in the statewide facility planning process
+Within DAS, the director, FPU, and the CFO, each has a role in the statewide facility planning
+process. Using information from the process, DAS is required by statute to provide
+recommendations and information to the Governor and the Legislature on the construction,
+leasing, and facilities management issues of the state government.7
+The DAS director, in consultation with CPAB, may request long-range facility plans and funding
+strategies from agencies. The director may ask the board to report on and make
+recommendations related to long-range plans, the condition of facilities, maintenance schedules,
+funding strategies, and options for new facilities. The director may also seek recommendations
+from the board regarding the needs of existing facilities and long-term facility goals.
+Facility Planning Unit, which comprises three staff led by the State Architect, is the entity
+within DAS that administers the statewide facility planning process and supports agencies in the
+development of their facility plans and CPAB presentations. FPU was established in 2013 in
+order to implement Executive Order 12-17. Rescinded in 2016, this order outlined a systematic
+approach for investing in state infrastructure and facilities that rely on bonds paid back by
+General or Lottery funds. It also required DAS to develop a 10-Year Strategic Capital Investment
+Plan in order to provide a long-range strategy for future capital investments.
+FPU has two broad goals: first, provide high-quality data and best practices to agencies to
+support their internal planning efforts. Second, for the improved planning and data to lead to
+better decision making at the state level. In addition to administering the statewide facility
+planning process, FPU is responsible for maintaining a statewide facility database, analyzing and
+evaluating statewide facility needs, and setting guidelines, standards, and best practices for state
+facilities.
+The planning process is closely tied to the statewide budget development process. In order to
+align capital needs with the Governor’s priority outcomes, the State Architect reviews and scores
+capital projects after CPAB has made its recommendations. Generally, the State Architect scores
+the agency projects in September and shares a prioritized facility project list, based on their
+scoring, with CFO management and budget staff in October.
+CFO management and budget staff use the prioritized list, among other information, to
+prepare their recommendations for the Governor’s Recommended Budget. The CFO staff receive
+agency request budgets in August and prepare and finalize their budget recommendations
+through November of each even-numbered year. DAS also creates the appropriation bill for
+statewide capital construction project funding requests.
+Statute intends for the Governor and the Legislature to use information from the facility
+planning process to inform facility investment decisions
+The Governor, through the Governor’s Recommended Budget, recommends agency requests for
+capital projects and capital improvements based on deliberations with the CFO. After the
+Governor’s Recommended Budget and the capital projects appropriation bill are completed in
+November, they are provided to the Legislature.
+The Legislature determines which budget requests are funded, including facility-related
+funding requests during the odd-numbered years in the budget cycle. Figure 2 summarizes the
+facility planning process that begins in even-numbered years of the budget cycle.
+7 ORS 276.227(3)(f)
+Oregon Secretary of State | Report 2020-11 | March 2020 | Page 6
+Figure 2: The facility planning process involves multiple entities and takes place during even -numbered years
+in the budget cycle
+March -
+interaction
+between FPU
+and agencies
+begin
+March to
+August -
+Agencies
+present their
+facility plans to
+CPAB and CPC
+if applicable.
+September -
+State Architect
+scores agency
+projects
+October - State
+Architect
+meets with
+CFO Analysts
+November -
+DAS and the
+Governor
+prepare the
+Governor's
+Recommended
+Budget
+December -
+Printed GRB
+transmitted to
+members of
+the Legislature
+Oregon Secretary of State | Report 2020-11 | March 2020 | Page 7
+Audit Results
+Oregon Revised Statute requires the state’s physical assets, such as office buildings, secured
+correctional facilities, warehouses, and hospitals be in sufficient condition to allow agencies to
+provide public services to Oregonians. These assets represent a significant financial cost that
+must be understood to ensure proper stewardship for both long-term use and strategic
+investment purposes. Providing and operating state government facilities is a significant capital
+investment; thus, it is the policy of the State to plan, finance, acquire, construct, manage, and
+maintain state government facilities in a manner that maximizes and protects this investment.
+Per administrative rule, DAS administers the biennial statewide facility planning process. This
+process is intended to ensure decision-makers are making long-range, strategic investment
+decisions that prioritize liability and risk, programmatic need, and community benefit. However,
+we found that while DAS has implemented continuous enhancements over the last several years,
+the current process could be further improved to more effectively inform investments in state
+facilities. A statewide plan could improve the statewide planning process, and more complete
+facility data would better inform decision-makers. DAS should continue to make improvements
+to the facility planning process to more effectively inform and increase transparency for
+investments in state facilities.
+The facilities planning process could be further improved to more effectively
+inform decision-makers and increase transparency
+Since 2013, DAS has improved the facility planning process. Statewide facility data are more
+readily available and comparable than in the past and agency facility reporting has been
+standardized. Beyond these improvements, DAS has the opportunity to further improve the
+facility planning process by better utilizing the CPAB review process and FPU’s prioritization of
+agency facility projects. These improvements should lead DAS to provide better information and
+recommendations to decision-makers.
+DAS has improved statewide facility data collection and reporting
+Prior to 2013, statewide facility data was inaccurate, unreliable, and incomplete. Agencies that
+owned facilities reported their facility needs to the CFO and the Legislature using self-reported
+data. No entity was responsible for checking the accuracy of agencies’ reported data. Several
+databases existed with some facility data, but no entity reconciled these databases. This lack of
+quality data made it difficult for decision-makers to identify risks related to facilities, such as
+deferred maintenance across agencies.
+By 2014, FPU moved the facility database from an older and unverified Access database to a
+more modern system and used information from DAS Enterprise Asset Management, DAS Risk
+Management and other agencies to establish a more accurate inventory of state facility assets.
+The primary purpose of this data, as identified in administrative rule, is to help make effective
+decisions for capital projects, space needs, and maintenance of facilities.8
+During the 2013-15 biennium, three agencies — DAS, the Oregon Youth Authority, and the
+Oregon Liquor Control Commission — participated in a facility condition assessment pilot
+program. These independent assessments provide detailed condition information and help
+agencies, as well as DAS, project future capital needs by estimating when major building systems
+will be in need of replacement. Seismic and flood hazard assessments were also included for
+some facilities. Over the next two biennia, 11 of the 19 agencies in our scope had their facilities
+8 OAR 125-125-0150 (6).
+Oregon Secretary of State | Report 2020-11 | March 2020 | Page 8
+independently assessed. These initial assessments covered nearly 15 million gross square feet
+and more than $5 billion of the state’s major facility inventory, accounting for more than 80% of
+the total of each.
+Due to FPU’s effort, there is now facility data that can be aggregated, on a statewide level, to
+show all the facilities owned by the state and their associated assets, age, size, value, and
+condition. FPU also helped to ensure agency presentations to CPAB are more streamlined and
+established standardized formats for agency facility reporting.
+FPU initially focused on establishing a building inventory and data standards across agencies
+and focused on creating a long-range facility plan for the state. The unit then provided facility
+condition assessments to provide better data. Over time, the focus of the unit has shifted from
+long-range statewide planning to an advisory role, providing standards and best practices to
+agencies.
+CPAB’s role and impact in state facility planning process is inconsistent and limited
+The purpose of the statewide facility planning process is to ensure that the State is making
+rational, data-driven investments in state facilities. We found the effectiveness of the process is
+limited because it is not consistently followed, and agencies find little value in it though they
+expend resources for the process.
+We found that DAS did not follow the
+planning process during the 2019-21
+budget cycle for one of its own large
+capital project requests. DAS obtained
+$24 million in bond funding from the
+Legislature, the second-highest amount
+approved for a state facility, to
+purchase a building in Wilsonville
+without first presenting the project to
+CPAB.
+Review by CPAB of a project this size is
+required by administrative rule
+9 and by
+DAS’s own bond guidance10 prior to
+requesting the funds. Instead, DAS
+presented the project to CPAB in
+September 2019, more than two
+months after the funds were approved.
+At this meeting, DAS staff noted that the building will likely require at least $100 million in
+additional improvements to meet long-term needs. This example does not follow the intent of
+the facility planning process especially related to transparency, where agencies vet their facility
+requests through FPU and CPAB prior to submitting funding requests to the Governor and
+Legislature.
+Facility managers at seven agencies reported mixed reviews regarding the value of the process.
+Five of them reported they do not necessarily rely on input from FPU staff or CPAB to identify
+their needs, as they have processes for that purpose. Some of these managers noted that the
+9 OAR 125-125-0300
+10 DAS’s “Agency Guide to Financing Projects with Article XI-Q Bonds” manual states that “if an agency wants to request funding for a
+major construction or acquisition project, they must first submit project plans to the Capital Projects Advisory Board for review and
+approval.”
+DAS received funding to purchase this former Microsoft building in
+Wilsonville without presenting the project to CPAB
+Source: PBV Valuation, LLC
+Oregon Secretary of State | Report 2020-11 | March 2020 | Page 9
+work required to prepare for CPAB meetings is inefficient, since they do not use CPAB input for
+their facility planning.
+One agency reported they did not know the purpose of the CPAB, as they have never had to
+present their facility needs before it; another reported they would be fine without the process
+but it provides value to other agencies; yet another did not know the statewide priorities that
+their facility requests are supposed to align to; while another sees DAS only as a support to help
+them prepare CPAB reports. This demonstrates confusion about the intent and value of the
+process and presents an opportunity for enhanced communication to ensure efficiency and
+effectiveness.
+The purpose of CPAB is to provide a public review of a process that otherwise exists entirely
+within state government. Furthermore, CPAB board members provide useful feedback and
+expertise that may not be present in agencies’ existing facility planning processes. When the
+process is not followed it creates a barrier to transparency and accountability to taxpayers.
+DAS does not consistently use the prioritized list to make funding recommendations
+The prioritized project list developed by the State Architect is intended to inform the CFO budget
+analysts and the Governor’s Office as they prepare the Governor’s Recommended Budget.
+However, budget analysts in the CFO are not consistently using the prioritized projects list from
+the State Architect to recommend capital projects for the Governor’s budget. Five of the seven
+CFO analysts we talked to reported that they did not use the prioritized project list when
+providing input on capital projects for the 2019-21 budget for various reasons, ranging from the
+timing of the completion of the prioritized list, to other non-facility agency requests that took
+precedent over facility needs for a particular agency.
+According to CFO budget staff and management, there is no formal, documented statewide
+review or comparison of facility needs among agencies at the analysts’ level. DAS management
+told us that a statewide review of capital projects occurs late in the budget process that includes
+DAS management, the State Architect, and members of the Governor’s staff. However, they also
+told us this statewide review is not documented. While there is no requirement for DAS to use
+the prioritized list, an opportunity is being missed for decision-makers to be informed by a list
+that is created through a process that includes the use of data, a public review, and an objective
+scoring process. The value of the long and intensive process of reviewing and prioritizing facility
+needs by CPAB and FPU is also limited if the information is not consistently used to make
+decisions.
+The National Association of State Budget Officers reported the demand for capital improvement
+and new infrastructure investments generally exceeds available resources. This is certainly the
+case in Oregon. States adapt to resource constraints by prioritizing capital project requests
+based upon various criteria. Priorities help agencies, facility planners, legislators, and budget
+officers determine which capital projects should be included in the capital budget, and which
+should be considered in the future.
+DAS is responsible for providing an objective evaluation of the state’s portfolio for making-long
+range strategic investment decisions that prioritize liability, risk, and community benefit for the
+purpose of ensuring the state is making rational, data-driven, investment decisions. The facility
+planning process is closely tied with the statewide budget development process and is intended
+to align capital needs with the Governor’s priorities. By not consistently using the prioritized list,
+DAS risks making recommendations that are not based on or do not fully utilize an objective
+evaluation of the state’s facility portfolio.
+Oregon Secretary of State | Report 2020-11 | March 2020 | Page 10
+DAS could improve the process by aligning prioritization criteria to the expectations of
+decision-makers
+Given that the prioritized list exists in large part to inform the budget process, we expected
+FPU’s project scoring to align with the priorities that CFO management reported to us,
+particularly their emphasis on addressing deferred maintenance. Instead, we found a disconnect
+between the scoring results and these priorities. For example, CFO management reported
+deferred maintenance projects were a key priority for the 2019-21 budget cycle; however,
+deferred maintenance-related projects were, on average, scored lower than other project
+categories11 and a smaller percentage of them were included in the Governor’s budget. Figure 3
+shows the average score of the projects considered for the 2019-21 Governor’s Recommended
+Budget.
+Figure 3: In 2019-21 capital renewal and deferred maintenance projects scored lower  than other project
+types even though they were considered high priority
+Project Type
+Average
+Project Score
+(out of 100)
+Total requested by
+agencies
+Total included in
+Governor’s
+Budget
+% of agency
+requests in
+Governor’s Budget
+Capital Renewal/
+Deferred Maintenance 43 145,035,612 50,248,167 35%
+Modernization 58 104,641,912 90,000,223 86%
+New 63 112,577,965 20,200,000 18%
+Other 57 1,155,012 771,000 67%
+Total 45 363,410,501 161,219,390 44%
+Source: Auditor Analysis of DAS FPU’s 2019-21 Facility Project Prioritization and the 2019-21 Governor’s Recommended Budget
+Two groups within the CFO are using multiple criteria to evaluate and prioritize agency facility
+projects. FPU uses guiding principles, prioritization scoring criteria, and categories of
+maintenance. 12 CFO budget analysts and management are using other factors that are not
+documented in facility planning materials. These criteria are not clearly aligned and, outside of
+DAS, it is not clear which criteria are used during the different steps of the planning process.
+For example, the categories of maintenance have five priority
+levels, but these levels are not directly reflected in the
+scoring criteria that FPU uses when prioritizing agency
+project requests. Additionally DAS staff told us that only the
+Priority 1 maintenance needs are included in the deferred
+maintenance, even though all five are defined as deferred
+maintenance in the guidance provided to agencies – another
+examples of the misalignment of the criteria used to
+prioritize facility related projects.
+It is hard to determine how facility funding requests can fit
+into all of these different criteria, especially when projects
+11 According to DAS, the “Modernization” category can include projects that address deferred maintenance or capital renewal needs,
+in addition to functional changes to a facility, but the portion of the project that addresses these needs is not clearly illustrated.
+12 Categories of maintenance are defined in the Introduction Section of the report.
+Statewide Budget and Capital
+Prioritization Scoring Criteria
+used by FPU:
+1. Align with state long-term
+priorities (3 points)
+2. Cost Savings (2 points)
+3. Need and Capacity (3 points)
+4. Finish what we start (1 point)
+5. Resilience (3 points)
+6. Environmental and Social
+Sustainability (2 points)
+Oregon Secretary of State | Report 2020-11 | March 2020 | Page 11
+ranging from deferred maintenance across multiple
+facilities to the design and construction of new
+facilities use the same criteria and scoring process.
+To CFO management, the scored list from FPU is not
+complete because it does not reflect additional factors
+— such as agency funding sources, project readiness,
+and the quality of agency projects — they consider
+when making facility-related budget
+recommendations. None of these factors are reflected
+in the project prioritization criteria, guiding
+principles, or maintenance prioritization categories.
+For example, CFO management told us that agencies
+with access to non-General Fund sources for facilities
+are more likely to be recommended for funding, but
+this factor is not reflected in the current prioritization
+process.
+When DAS makes facility funding recommendations
+based on criteria that are not clearly documented and
+are not included in the planning and prioritization
+process, it creates a potential risk that funding may
+not be going to the portfolio’s highest needs. It can
+also lead to investment decisions that are based on factors that are not directly related to agency
+facility needs. This could also lead to a process where some agency facilities with similar needs
+are not funded and will experience continued facility deterioration. It can also result in a process
+that lacks transparency.
+Transparency and accountability are limited in the statewide facility planning
+process
+Transparency is critical for the use of public monies and assets. The statewide facility planning
+process lacks transparency as there is limited public information available to explain facility
+investment decisions. The lack of public information hinders the Legislature and citizens from
+being fully informed of facility investment needs, which limits accountability for the decisions
+that are made.
+DAS does not provide online access to the detailed facility reports that agencies provide to CPAB.
+It also does not provide CPAB’s recommendations online, only posting the minutes from the
+most recent CPAB meeting on its website. Providing this facility-related information in an easy-
+to-use format would help citizens better understand the facility needs of state government.
+As noted above, FPU creates a prioritized list of facility projects after agencies present them to
+CPAB. This list is an objective assessment of each proposed project’s relative merits based on an
+established set of publicly available criteria. However, DAS does not share this list with
+legislators or the public.
+According to DAS, it considers this prioritized list to be an advisory communication between the
+CFO and the Governor made prior to the publication of the Governor’s Recommended Budget
+and therefore exempt from disclosure under Oregon public records law.13 This approach does
+13 DAS identified the public records exemption under ORS 192.355 (1): Communications within a public body or between public
+bodies of an advisory nature to the extent that they cover other than purely factual materials and are preliminary to any final agency
+determination of policy or action. This exemption shall not apply unless the public body shows that in the particular instance the
+Facility Planning Guiding Principles
+Design for quality: Good building design;
+highest feasible level of environmental
+and architectural design.
+Steward our investments: properly
+maintain public investments; design
+buildings with lowest total cost of
+ownership
+Right-size portfolio: Prioritize adaptive
+reuse of buildings and projects that
+maximize efficiency and long-term utility.
+Contribute to the Whole: Consider how a
+project impacts the community and helps
+achieve statewide priorities.
+Convey our identity: Ensure buildings
+contribute to an image of accessibility and
+responsiveness of government
+Be resilient: Build for resilience using
+science, data and community wisdom to
+protect against and adopt to risks of
+catastrophic events.
+Oregon Secretary of State | Report 2020-11 | March 2020 | Page 12
+not account for the critical role of the Legislature in appropriating funds for facilities in the state
+budget — three of the four key legislators that we spoke with were interested in receiving more
+project prioritization information from DAS. Further, sharing this list would help meet the
+statutory intent of the process by providing information and recommendations to both the
+Governor and Legislature.14
+While budgetary deliberations involve difficult decisions and trade-offs, providing maximum
+information and transparency to inform all stakeholders involved in the allocation of public
+monies is critical. It is unclear how providing FPU’s prioritized project ranking information,
+which is based on objective data from public presentations to the CPAB, would impinge on the
+Governor’s Office’s deliberative process. Other states such as Utah, Oklahoma, Alaska, and
+Georgia make this type of information publicly available.
+Providing this information to legislators would allow them to make better informed facility
+investment decisions and provide them with additional options beyond what is recommended
+by the Governor. Accountability for facility investment decisions would also be enhanced by
+allowing the public to scrutinize which projects were selected by the Governor and Legislature,
+and which were not, while being able to take FPU’s expert assessment of the projects into
+account.
+A statewide plan can better identify and address the highest needs of the
+state’s facility portfolio
+The need for a statewide facility plan in Oregon was identified in 2012. An executive order
+required DAS to develop a 10-Year Capital Plan for the state. In the 2013-15 biennium, the
+Legislature funded a State Architect position to establish a proactive capital planning function
+within the CFO. This position was intended to take a lead role in developing and implementing
+mid- and long-range capital plans. Such plans were expected to project future facility needs,
+provide recommendations on both acquisition and disposition of state assets, evaluate the use of
+leased facilities, and incorporate needs for replacement and renovation of facility components.
+Although the executive order was rescinded in November 2016, in both the 2015-17 and 2017-
+19 biennia, the Legislature authorized the CFO to continue developing a long-range facility plan
+for the state.
+While there is no statutory requirement for DAS to create a statewide plan for facilities, the
+timeline above indicates that state leadership has valued the development of one. DAS, who
+helps agencies assess their facility investment needs, is in the best position to create this plan.
+Best practices also show Oregon could benefit from a plan to inform statewide facility needs.
+A statewide plan could help provide statewide strategies and guidance to address risks in
+the facility portfolio and inform investment strategies
+Leadership at DAS and key legislators reported multiple concerns regarding the state’s facility
+portfolio. A statewide plan is a tool that could be used by DAS to provide a comprehensive
+approach to address these concerns. With available data, expert knowledge on the statewide
+portfolio, and the FPU structure in place, DAS is in an ideal position to develop and carry out a
+statewide facility plan.
+FPU management reported concerns regarding the state’s facilities, including risks associated
+with aging and outdated facilities, seismic and flood risks, and deferred maintenance. The
+public interest in encouraging frank communication between officials and employees of public bodies clearly outweighs the public
+interest in disclosure.
+14 ORS 276.227 (3)(f)
+Oregon Secretary of State | Report 2020-11 | March 2020 | Page 13
+average age of the entire state portfolio is 41 years, with some facilities built in the late 1800s.
+Only three agencies, and 112 facilities, have completed seismic and flood analyses. Based on
+agency reporting in 2018, there is nearly $450 million in deferred maintenance and capital
+renewal needs across agencies.
+Some of the legislative members we interviewed also reported their concerns regarding the
+status of statewide facility planning. One member was not sure what the short- and long-term
+plans were for the state’s portfolio — whether the Legislature should focus on acquiring new
+facilities, maintaining current facilities, or a combination of both. Others were concerned about
+the level of deferred maintenance across the state, the perceived lack of a coherent view of the
+portfolio across the state, and whether agencies’ Americans with Disabilities Act needs are met.
+FPU has two broad goals: first, provide high-quality data and best practices to agencies to
+support their internal planning efforts. Second, for the improved planning and data to lead to
+better decision making at the state level. A plan would not replace these goals or dictate what
+agencies can or cannot do, but would identify strategies to accomplish these goals and allow
+facility-owning agencies to align their plans and funding requests with statewide strategies and
+priorities.
+In a performance management context, DAS’s plan could include its vision and mission,
+measureable objectives or priorities, and strategies for achieving the objectives as related to the
+state’s facility portfolio.15 The agency’s vision would provide a focus on a future state and
+provides a context for creating measures that reflect progress toward that future state. A
+mission statement is more concrete — it says what the purpose of the planning process is and
+helps others understand what is outside of the purpose. A strategic plan mission statement can
+also help DAS identify what it needs to accomplish, establish priorities, and set expectations.
+A statewide plan would help address current and future facility issues
+The overall condition of agency facility portfolios is reported using a measure of facility
+condition relative to current replacement value, called the facility condition index.16 Currently,
+there is significant variation in the condition of agency facility portfolios based on this measure.
+Of the agencies that have had independent facility condition assessments, three had facility
+condition indexes in “Good” condition, four in “Fair” condition, and three in “Poor” condition. A
+statewide plan could help DAS bring attention to this variation and provide strategies to
+improve the portfolios of agencies in poor condition without compromising the facility portfolios
+that are already in good condition.
+A statewide plan could also help to proactively address
+future deferred maintenance and capital renewal needs. As
+noted previously, DAS estimates that state-owned facilities
+will have over $1 billion in deferred maintenance and capital
+renewal needs by 2026. The Legislature passed a bill in 2017
+that requires the Governor to include at least 2% of the value
+of the state’s facilities for deferred maintenance and capital
+improvements in existing facilities each biennium — more than $140 million dollars, based on
+15 Performance management is an ongoing, systematic approach to improving results through evidence-based decision making,
+continuous organizational learning, and a focus on accountability for performance.
+16 The facility condition index is calculated by dividing the current replacement value of an agency’s major facility portfolio by its
+identified Priority 1-3 maintenance needs expressed as a percentage. It is summarized as follows: Good=0-5%, Fair=5-10%,
+Poor=10-60%, and Very Poor=Greater than 60%.
+The National Research Council
+estimates that each dollar
+invested in deferred maintenance
+can help reduce future facility
+costs by as much as four dollars.
+Oregon Secretary of State | Report 2020-11 | March 2020 | Page 14
+2018 facility values. A statewide plan would help better ensure that these funds are used to
+address the most critical facility needs across the entire statewide portfolio.
+Figure 4: There is significant variation in the facility condition index across agencies17
+Good
+(Facility Condition Index 0-5%)
+Fair
+(Facility Condition Index 5-10%)
+Poor
+(Facility Condition Index >10%)
+Department of Administrative
+Services (4.3%)
+Department of Corrections
+(8.7%)
+Department of Education
+(15.3%)
+Department of Public Safety and
+Standards and Training (0.9%) Department of Forestry (7.1%) Oregon Liquor Control
+Commission (12.6%)
+Department of Fish and Wildlife
+(1.1%)
+Department of Transportation
+(5.3%) Oregon Youth Authority (13%)
+Military Department (7.1%)
+Source: OAD analysis of 2018 building level CPAB report data for agencies that received independent facility condition assessments
+A statewide plan would also help management and staff, elected officials, and citizens
+evaluate the effectiveness of the facility planning process
+DAS has developed performance measures intended to assess the level of effectiveness,
+efficiency, and affordability of the state’s facility portfolio. We found that current metrics do not
+provide a clear and accurate picture of the progress the state has made in improving facility
+conditions and are difficult to apply across the state’s facility portfolio. Current metrics also do
+not assess whether FPU is meeting its goals of providing quality data and best practices that lead
+to better decision making. Aligning performance measures with a statewide facility plan with
+clearly defined investment goals and strategies would allow for better tracking and reporting of
+the status of state’s facility portfolio.
+Performance measures provide objective information used in making decisions for the planning,
+budgeting, management, and evaluation of government services. Measures should be both
+informative and relevant. Measures should be tracked to show where an agency was in relation
+to targets, where it is now, and where it wants to be, as well as the timeline associated. The
+National Performance Management Advisory Commission indicates that all service areas can
+measure performance in a way that helps staff, managers, elected officials, and citizens make
+decisions and evaluate the effectiveness of provided services.
+18 A good set of measures provides
+a complete picture of an organization’s performance.
+The performance outcome target for the facility condition index, which DAS uses to measure
+effectiveness, is 5%. When asked about the progress on this target, we were told progress is
+being made. However, there is no source that documents that progress — that is, if facility
+conditions are getting better, getting worse, or staying the same over time.
+We also found that the facility condition index is measured inconsistently among agencies. For
+example, the formula for calculating the index requires that agencies calculate the condition
+17 The following agencies had not completed independent facility condition assessments when we began our audit: Department of
+State Lands, Aviation Department, Employment Department, Oregon Health Authority, Oregon Parks and Recreation, Oregon State
+Police, and Public Employees Retirement System.
+18 National Performance Management Advisory Commission is an advisory commission within the Government Finance Officers
+Association with members from state governments and higher education. The Commission developed a Performance Management
+Framework for State and Local Government to help public-sector organization address challenges related to limited government
+resources and the public’s lack of trust in government.
+Oregon Secretary of State | Report 2020-11 | March 2020 | Page 15
+using facilities valued over $1 million using only priority 1–3 needs. However, some agencies
+calculated their indexes by including all of their facilities (both over and under the $1 million
+threshold) while others included all identified facility needs. This inconsistency creates over-
+reporting of the facility condition index for some agencies and inhibits an apples-to-apples
+comparison of facility conditions across the state’s portfolio.
+Figure 5: Performance measures for the state’s facility portfolio assess three factors
+Measures Description
+Effectiveness
+A calculated measure of facility condition relative to its current replacement value
+(expressed as a percentage) and represented by the following categories: Good,
+Fair, Poor, Very Poor.
+Efficiency
+Space Utilization – A calculated measure of how efficiently space is being used. This
+metric varies for different space types, with greater emphasis on office and
+administrative uses. The State of Oregon is moving toward a new guideline of 175
+Usable Square Feet per Position for office and administrative uses. For other uses,
+a secondary metric is used.
+Affordability Operation and Maintenance Cost per Gross Square Foot – a standard measure of
+affordability. This metric varies by building and operational type.
+Source: DAS Facility Planning Manual
+The efficiency measure is primarily implemented through new or renovated facilities and leases.
+DAS has not assessed this measure statewide because the facility types and services vary
+significantly between agencies. Similarly, DAS has not assessed the affordability measure
+statewide because of the variation of facilities in the state’s portfolio. DAS has collected data
+related to these two measures, but without assessment, it is hard to know if agencies are on
+track in terms of efficient use of space or if facilities are more affordable in terms of operation
+and maintenance costs.
+DAS is well positioned to create a statewide facility plan. A plan would help set the strategic
+direction for facilities while effective performance measures would help identify areas for
+improvement and provide enhanced accountability for the statewide facility planning process.
+Most importantly, a statewide plan would help the state strategically address the significant
+variation in facility condition between agencies and provide guidance to ensure that investments
+to reduce deferred maintenance address the most critical facility needs.
+Other states, and a large state agency in Oregon, have facility-related plans
+The Government Finance Officers Association recommends that states prepare and adopt
+comprehensive, fiscally sustainable, and multi-year plans to ensure effective management of
+capital assets. These plans should identify and prioritize expected needs and should ideally
+cover a period of five or more years.
+We reviewed examples of facility-related plans from a number of states, as well as the recently
+released Oregon Higher Education Coordinating Committee Strategic Capital Plan. Regardless of
+the plan type, the intent is to provide guidelines or frameworks to inform decision-makers of
+facility needs to help guide where to invest the limited amount of resources available for
+government facilities.
+Oregon Secretary of State | Report 2020-11 | March 2020 | Page 16
+Other states have detailed, long-range facility-related plans
+States such as Utah, Vermont, Alaska, and Oklahoma have long-range
+capital plans. Utah has a five-year plan that clearly defines the roles of the
+different stakeholders in the capital planning process and describes the
+evaluation and prioritization process used to identify facility needs. The
+evaluation guide used by Utah also identifies clear objectives the state
+wants to accomplish. For example, the first objective noted is for projects
+to eliminate risks related to life, safety and other deficiencies in existing
+buildings through renewal or replacement. Utah prioritizes large capital
+construction projects and smaller repair- and replacement-related projects separately, meaning
+that these two types of important projects are not competing with each other.
+Oklahoma’s capital plan provides lawmakers and citizens with detailed
+prioritized project lists, similar to Utah. Additionally, it outlines significant
+issues, such as deferred maintenance and historic underfunding of
+facilities, and provides recommendations on how the state can better
+address these issues going forward.
+In addition to a capital improvement plan, the State of Washington also
+has a long-range facilities plan. This plan uses agency strategic plans
+and staffing projections to project future space needs and their
+associated costs. It also identifies current and future agency projects to
+address these space needs, which are scored based on their benefit to
+the state as a whole. Finally, this plan incorporates performance
+measures, such as facility square feet per user and facility costs per
+user, as well as goals so that the effectiveness of the planning process can be assessed. Staff from
+Washington’s Office of Financial Management who developed the plan told us they believe their
+planning process supports agency strategic planning efforts and allows for policy goals to be
+better incorporated into facility planning. The plan is intended to set expectations about future
+space use, provide a tool to effectively manage outcomes, and establish accountability.
+Oregon’s Higher Education Coordinating Commission recently developed a Strategic
+Capital Plan to guide state university capital planning
+In October of 2019, Oregon’s Higher Education
+Coordinating Commission released a Strategic Capital Plan
+for the state’s seven universities, at the request of the
+Legislature. This plan is not intended to dictate specific
+projects for the universities. Instead, its goal is to provide
+a strategic direction for the state as a whole that the
+individual universities can use to align their capital
+funding requests to the Legislature.
+The plan outlines current and expected future enrollment, current space use, academic
+programs, and facility statistics, among other information, for each of the universities. It also
+provides general recommendations, such as the need to focus on deferred maintenance across
+the university system. Staff from the commission told us that this plan is being used to update
+the criteria they use to prioritize capital funding requests. Additionally, they told us that
+developing this plan helped them identify some deficiencies in facility-related data across the
+university system.
+There are a number of different approaches that DAS could take to develop a long-range plan for
+facilities. Plans from states like Utah and Oklahoma focus on prioritizing large projects and
+Source: HECC website
+Oregon Secretary of State | Report 2020-11 | March 2020 | Page 17
+major maintenance in a transparent and informative way, providing detailed facility information
+to legislators and the public. Washington’s facility plan provides staffing and facility projections
+as well as performance measures and goals to help provide accountability. Finally, the Higher
+Education Coordinating Commission’s recent plan differs in that it does not identify specific
+projects, but instead provides common information and a strategic direction that universities
+can use to align their own facility plans.
+Complete and informative facility data is critical for decision-makers in the
+facilities planning process
+Accurate and comparable facility data are necessary for effective strategic facility planning.
+While DAS has made progress in improving the quality and consistency of facility data through
+the use of independent facility condition assessments, not all agencies have been assessed.
+Additionally, many agencies that have not been assessed appear to be underestimating their
+facility needs. Consistent and accurate data for the statewide facility portfolio would help DAS
+better promote a statewide, data-driven facility planning process for developing capital
+budgeting and financing strategies.
+Facility data is incomplete and inconsistently updated
+While DAS has made improvements in the quality and consistency of statewide facility data,
+there are still several areas where it could be improved. We found that statewide facility data
+has issues related to its completeness, the lack of a schedule for follow-up facility condition
+assessments, and the consistency with which it is updated and reported by agencies.
+The National Association of State Budget Officers and Government Finance Officer Association
+both stress the importance of high-quality facility data for effective facility planning. The
+National Association of State Budget Officers recommends that states maintain a central facility
+database that includes general information, such as building age, size, replacement value, and
+building condition. States are better able to set their facility priorities when they have current
+and reliable records of state-owned assets. DAS has a statutory responsibility to maintain a
+statewide facility database19 and FPU has placed a significant amount of effort into improving
+the quality of the statewide facility inventory.
+Figure 6: As of 2018, some major facilities have not been independently assessed
+Facility Condition Assessment Status Facility Count Gross Square Feet Current Replacement Value
+Major Facilities with an FCA 527 14,761,148 5,041,978,307
+Major Facilities without an FCA 222 3,795,368 1,358,802,071
+Total  749 18,556,516 6,400,780,378
+Source: OAD analysis of DAS-FPU and CPAB data from 2018
+DAS has supported facility condition assessments for more than half of the agencies that own
+facilities and these assessments have covered over 80% of the square footage of the major
+facilities in the state’s facility portfolio. Yet there are still more than 200 major facilities in the
+state, valued at over $1.3 billion that have yet to receive these critical independent assessments.
+For example, the Oregon Health Authority has not had a facility condition assessment for its
+19ORS 276.227(4) states that DAS “shall establish and maintain a central database of information on state-owned property of all state
+agencies including land, buildings, infrastructure, improvements and leases. This database shall include an inventory of state-owned
+facilities as well as descriptive and technical information.”
+Oregon Secretary of State | Report 2020-11 | March 2020 | Page 18
+approximately $450 million facility portfolio, which is primarily made up of critical mental
+health facilities that are some of the most valuable state-owned facilities.
+Facility condition assessments need to be completed on a regular basis in order for them to
+continue to provide useful information to decision-makers. Facility managers may not accurately
+update facility records as repairs are made, or building components may unexpectedly fail. As
+time passes, the quality of the information these assessments provide deteriorates. Federal
+agencies typically assess their agencies every three to five years. Utah conducts them for a fourth
+of their major facilities every year. DAS has a goal to conduct them for all major facilities on a six-
+year rotation, but currently there is no mechanism to ensure this will take place.
+Finally, we found that agencies report and update their facility condition information
+inconsistently. For example, two of the agencies we selected which had undergone facility
+condition assessments told us they were not consistently updating the information in the
+statewide database. Additionally, some of the agencies that have not received facility condition
+assessments are not reporting facility data in a manner consistent with those that have been
+assessed. For example, one agency reports their facility needs based on projects that have
+identified future funding sources. This varies significantly from agencies that have been assessed
+because all building needs are identified, regardless if they are planned projects or have
+available funding.
+DAS recognizes the value of facility condition assessments and has requested funding in both the
+2017-19 and 2019-21 biennia to support agencies who did not have assessments funded in prior
+biennia, but neither request was included in the Governor’s Recommended Budget or funded by
+the Legislature.
+Decision-makers do not have comprehensive facility data to inform their decisions
+Without complete and consistent facility data, key decision-makers, including the Governor and
+the Legislature, do not have a reliable and consistent understanding of facility needs statewide
+and between agencies.
+FPU staff believe agencies that self-report their building conditions are underestimating the
+needs of their facilities when reporting to CPAB and the CFO’s Office. This under-reporting is
+significant enough that DAS does not use estimates reported by agencies when estimating
+statewide facility needs. Instead, they estimate statewide facility needs by assuming that the full
+statewide portfolio has the same level of need as the agencies that have had facility condition
+assessments and then extrapolate a statewide figure.
+Based on our analysis of CPAB data, FPU’s belief regarding self-reported facility is reasonable.
+Agencies that had an independent facility condition assessment reported that 57% of their
+facilities were in “Good” condition, while self-reporting agencies reported 88% of their facilities
+were in “Good” condition. Self-reporting agencies only identified 7% of their major facilities as
+being in “Poor” condition, whereas assessed agencies reported a rate nearly four times as high;
+see Figure 7.
+Figure 7: Self-reporting agencies are likely underestimating the needs of their facilities
+Building Condition Statewide Portfolio FCA Agencies Self-Reporting Agencies
+Good 60% 57% 88%
+Fair  15% 16% 5%
+Poor 24% 26% 7%
+Very Poor 1% 1% 0%
+Source: OAD analysis of agency level CPAB data
+Oregon Secretary of State | Report 2020-11 | March 2020 | Page 19
+Without detailed condition data for all major facilities across all agencies, there is a risk that
+some facilities with high needs will not be identified for funding, while facilities with less
+pressing needs are funded. From a statewide facility planning perspective, DAS is unable to
+accurately estimate the short- or long-term needs for the statewide building portfolio without
+complete, consistent, and up-to-date facility data for all agencies.
+Without improvements to the facility planning process, the risk of
+underinvestment in state facilities remains
+Facility-owning agencies are responsible for maintaining and managing their own facility
+portfolios, while DAS oversees the facility planning process at the state-level. While no one
+entity is responsible for statewide facility planning, DAS is in an ideal position to take on this
+role, considering the agency’s access to statewide facility data, agency facility plans, and the
+current structure in place within FPU. Without improvements to the current process, decision-
+makers miss the opportunity to have a statewide view of the facility needs across agencies,
+creating a risk that their funding decisions may not be going to the state portfolio’s highest
+needs and they may be unknowingly underinvesting in state-owned facilities.
+A statewide facility plan should provide additional guidance to agencies in their facility planning
+while informing decision-makers of the state’s highest facility needs, such as deferred
+maintenance and capital renewal. Making the prioritized list of agency facility-related budget
+requests available to the legislature should provide them with additional information on the
+state’s facility needs beyond those recommended by the Governor, while enhancing
+transparency and accountability. Finally, complete facility data will allow decision-makers to
+have comparable information on the condition of the state’s facility portfolio. These
+improvements should help ensure the state maximizes and protects its investments in state
+facilities.
+Oregon Secretary of State | Report 2020-11 | March 2020 | Page 20
+Recommendations
+The facility planning process at DAS has improved with the addition of statewide facility data
+and a streamlined review process for facility funding requests. The agency has made good
+progress, but opportunities exist to further improve the process, enhance transparency, and
+ensure decision-makers have the information they need to make needed investments in state
+facilities. To that end, DAS should:
+1. Create a statewide plan that makes clear the purpose and value of the statewide facility
+planning process and takes into account the risks in the state’s facility portfolio,
+including addressing deferred maintenance and capital renewal needs.
+a. Include in the plan the vision, measurable objectives, and strategies for achieving
+objectives. Objectives should focus on statewide long-term needs and concerns of
+which decision-makers should be aware.
+b. Develop key performance measures that align with the plan’s objectives and
+strategies.
+c. Make the plan available to legislators and the public.
+2. Consolidate the various criteria used by the CFO staff and management in facility funding
+decisions, including funding source and the quality of agency project planning, into the
+planning and prioritization scoring process.
+3. Separate the scoring and prioritization process for capital renewal and deferred
+maintenance projects from new and modernization projects so these different types of
+projects are not directly competing against each other for funding.
+4. Work with the Legislative Fiscal Office to identify and provide key legislative committee
+members needed comparative data on statewide facility needs.
+5. Make key outputs of the planning process available to the public, including agency CPAB
+reports and CPAB meeting minutes.
+6.  Seek a legal opinion as to whether DAS’s project prioritization list is exempt from public
+disclosure under ORS 192.355 (1). If not exempt, we recommend DAS release the
+prioritization list. If the list is exempt, we recommend DAS release the prioritized list
+after the exemption period has expired.
+7. Work with the Governor and the Legislature to obtain ongoing funding for facility
+condition assessments to:
+a. Complete assessments for agencies who have not been independently assessed.
+b. Establish a facility condition assessment schedule to ensure that facility data
+remains up-to- date.
+Oregon Secretary of State | Report 2020-11 | March 2020 | Page 21
+Objective, Scope, and Methodology
+Objective
+The purpose of this audit was to determine if the statewide facility planning process
+administered by DAS maximizes and protects investments in state facilities.
+Scope
+This audit focused on state facilities with the current replacement values of more than $1
+million. Facilities include buildings, land, and associated infrastructure but does not include
+transportation infrastructure or higher education buildings and facilities.
+We also included in the scope seven agencies who participate in the statewide facility planning
+processes. These agencies are:
+• Department of Corrections,
+• Department of Administrative Services,
+• Department of Parks and Recreation,
+• Department of Transportation,
+• Department of Education,
+• Employment Department, and
+• Oregon Health Authority.
+In order to reasonably represent the variation in agency facility portfolios, we selected one
+agency from each of the seven program areas identified in the budget with agencies subject to
+the statewide facility planning process.20 We also selected agencies with both small and large
+portfolios and agencies that both had and had not received independent facility condition
+assessments. This selection included 69% of the gross square footage and 71% of the current
+replacement value of the major facilities in the statewide portfolio.
+Methodology
+To address our objective, we used a methodology that included but not limited to: conducting
+interviews, reviewing documentation, reviewing research on facility management, and analyzing
+facility data.
+To learn about the views, opinions, and perspective of major stakeholders, we conducted
+interviews with agency representatives from seven agencies, leadership and staff in the DAS
+CFO, and members of the Oregon Legislature responsible for making facility funding decisions.
+We also interviewed a Legislative Fiscal Office analyst and the chairperson of the CPAB.
+To gain an understanding of the practices in other states, we interviewed state officials and
+reviewed supporting documentation from states such as Washington, Utah, Vermont, Oklahoma,
+Texas, Alaska, Florida, and Arizona. We selected these states because they were identified as
+leaders in facility and capital management.
+20 There are eight program areas identified in the state budget, but the Consumer and Business Services program area does not
+include any facility-owning agencies.
+Oregon Secretary of State | Report 2020-11 | March 2020 | Page 22
+We reviewed several documents to gain an understanding of the DAS facility planning process,
+including but not limited to:
+• Oregon Revised Statutes;
+• DAS Administrative Rules;
+• DAS Facility Planning Manual; and
+• Budgets (Governor’s Budget, selected agencies’ budget requests and legislative budget
+reports, legislatively adopted budgets, and budget instructions)
+We reviewed research and studies on industry standards for facility planning and capital
+planning processes as well as other states’ facility planning practices.
+Our data analyses included an assessment of statewide building conditions based on agency
+CPAB reports from 2018. We also compared FPU’s scored facility project lists and agency
+funding requests to projects included in the Governor’s Recommended Budget from the 2015-17
+to 2019-21 biennia.
+We conducted this performance audit in accordance with generally accepted government
+auditing standards. Those standards require that we plan and perform the audit to obtain
+sufficient, appropriate evidence to provide a reasonable basis for our findings and conclusions
+based on our audit objectives. We believe that the evidence obtained provides a reasonable basis
+for our findings and conclusions based on our audit objectives.
+We sincerely appreciate the courtesies and cooperation extended by officials and employees of
+DAS during the course of this audit.
+Oregon Secretary of State | Report 2020-11 | March 2020 | Page 23
+Appendix A: Agency Reported Facility Condition Index for
+the 50 Most Valuable State-Owned Facilities
+Agency21 Campus Name Facility Name
+Current
+Replacement
+Value ($)
+Facility
+Condition
+Index22
+(2018)
+Department of
+Corrections
+ODOC - Coffee
+Creek Correctional
+Facility
+Medium Security
+Correctional Facility 184,514,772  2.3%
+Oregon Health
+Authority OSH - Junction City JC Main Building 116,431,172  0.0%
+Department of
+Administrative
+Services
+DAS Group Revenue Building 110,414,823  8.0%
+Department of
+Administrative
+Services
+DAS Group Human Services Building 108,037,432  1.5%
+Department of
+Administrative
+Services
+DAS Group Portland Office Building
+(New) 86,696,848  10.1%
+Oregon Health
+Authority OSH - Salem PSR Housing/Mall Entry
+(Trails) Buildings F01 - F06 86,614,675  1.5%
+Department of
+Corrections
+ODOC - Two Rivers
+Correctional
+Institution
+General Housing Units 9 to
+14 79,000,746  4.1%
+Department of
+Corrections
+ODOC - Two Rivers
+Correctional
+Institution
+General Housing Units 1 to 6 79,000,746  1.2%
+Oregon Department
+of Transportation
+ODOT -
+Transportation Bldg.
+HQ Grnds
+F4245001 - Transportation
+Bldg. HQ 75,589,826  0.0%
+Oregon Health
+Authority OSH - Salem Kirkbride Building 75,574,712  2.4%
+Oregon Military
+Department
+OMD - Camp
+Withycombe 41 Infantry Division AFRC 71,025,695  0.0%
+Oregon Health
+Authority OSH - Salem
+ABC Housing/Mall
+(Admissions, Behavioral And
+Corrections Plus Mall)
+70,268,587  1.5%
+Department of
+Corrections
+ODOC - Snake River
+Correctional
+Institution
+DSU/IMU 67,356,096  9.2%
+Department of
+Administrative
+Services
+DAS Group DEQ Health Laboratory 67,257,960  3.7%
+Department of
+Administrative
+Services
+DAS Group North Mall Office Building 66,295,589  0.2%
+21 The following agencies self-report their facility condition index because they have not received an independent facility condition
+assessment: OHA, ODVA, and PERS
+22 The Facility Condition Index is a calculated measure of facility condition relative to its current replacement value, expressed as a
+percentage. Good=0-5%, Fair=5-10%, Poor=10-60%, and Very Poor=Greater than 60%.
+Oregon Secretary of State | Report 2020-11 | March 2020 | Page 24
+Agency21 Campus Name Facility Name
+Current
+Replacement
+Value ($)
+Facility
+Condition
+Index22
+(2018)
+Department of
+Corrections
+ODOC - Central
+Distribution Center
+Distribution Center including
+Site Landscaping and
+Hardscaping
+65,680,807  1.5%
+Department of
+Corrections
+ODOC - Columbia
+River Correctional
+Institution
+CRCI Main Facility 62,915,752  11.6%
+Oregon Department
+of Veterans Affairs
+DVA - Department
+of Veterans Affairs
+Oregon Veterans' Home
+Lebanon 60,311,229  6.2%
+Department of
+Administrative
+Services
+DAS Group Labor & Industries Building 56,536,024  3.6%
+Department of
+Corrections
+ODOC - Snake River
+Correctional
+Institution
+Complex 3 - Housing/Gym 56,188,318  5.5%
+Department of
+Corrections
+ODOC - Snake River
+Correctional
+Institution
+Complex 2 - Housing/Gym 56,188,318  4.9%
+Oregon Military
+Department OMD - Lane County 162 Inf Regiment Readiness
+Ctr 53,097,818  4.0%
+Department of
+Administrative
+Services
+DAS Group Capitol Mall Parking
+Structure 50,143,036  2.0%
+Department of
+Administrative
+Services
+DAS Group Public Service Building 45,564,023  4.0%
+Department of
+Administrative
+Services
+DAS Group State Data Center 44,812,624  7.5%
+Oregon Military
+Department
+OMD - Camp
+Withycombe CSMS 40,860,337  1.7%
+Oregon Military
+Department
+OMD - Anderson
+Readiness Center Anderson Readiness Center 40,522,111  11.5%
+Oregon Department
+of Transportation
+ODOT - DMV HQ
+Grounds Salem
+F8246701 - DMV HQ Office
+Bldg Salem 37,134,895  6.0%
+Department of
+Administrative
+Services
+DAS Group Agriculture 36,983,145  8.1%
+Department of
+Administrative
+Services
+DAS Group Employment Building 35,112,169  3.2%
+Department of
+Administrative
+Services
+DAS Group Public Utility Building 34,935,361  0.8%
+Oregon Department
+of Veterans Affairs
+DVA - Department
+of Veterans Affairs
+Oregon Veterans Home The
+Dalles 34,554,990  18.2%
+Oregon Health
+Authority OSH - Salem Kitchen Building 33,821,081  0.0%
+Oregon Liquor
+Control Commission OLCC Group McLoughlin 33,316,108  9.8%
+Oregon Secretary of State | Report 2020-11 | March 2020 | Page 25
+Agency21 Campus Name Facility Name
+Current
+Replacement
+Value ($)
+Facility
+Condition
+Index22
+(2018)
+Department of
+Corrections
+ODOC - Oregon
+State Penitentiary Cell Block E 31,850,696  21.3%
+Department of
+Corrections
+ODOC - Oregon
+State Penitentiary Cell Block D 31,850,696  18.0%
+Public Employees
+Retirement System
+PERS - Public
+Employees
+Retirement System
+PERS Headquarters 31,258,749  0.4%
+Department of
+Administrative
+Services
+DAS Group Archives 29,725,795  1.9%
+Department of
+Corrections
+ODOC - Eastern
+Oregon Correctional
+Institution
+D-1 to D-4 South      29,397,855  10.5%
+Oregon Military
+Department
+OMD - Joint Forces
+Headquarters Owens Summers Bldg 29,325,514  11.2%
+Department of
+Administrative
+Services
+DAS Group State Library 29,094,713  2.9%
+Department of
+Public Safety
+Standards and
+Training
+DPSST - 4190
+Aumsville Hwy
+E - Dormitory Housing
+Building 28,893,241  2.0%
+Department of
+Corrections
+ODOC - Two Rivers
+Correctional
+Institution
+Workforce Building 28,844,586  0.1%
+Department of
+Administrative
+Services
+DAS Group Justice 28,659,481  1.8%
+Department of
+Corrections
+ODOC - Santiam
+Correctional
+Institution
+Main Facility 28,592,266  6.4%
+Department of
+Corrections
+ODOC - Snake River
+Correctional
+Institution
+Complex 2 - Housing Unit I
+and J 28,571,760  4.0%
+Department of
+Corrections
+ODOC - Snake River
+Correctional
+Institution
+Complex 3 - Housing I and J 28,571,760  4.0%
+Department of
+Corrections
+ODOC - Oregon
+State Penitentiary
+Food Services & Infirmary
+Bldg 27,989,529  7.4%
+Department of
+Corrections
+ODOC - Oregon
+State Correctional
+Institution
+Housing Units 1, 2, 3 and 4 27,495,825  23.5%
+Department of
+Corrections
+ODOC - Oregon
+State Penitentiary
+Special Management Housing
+Unit 27,385,616  6.1%
+.
+Audit Team
+Will Garber, CGFM, MPA, Deputy Director
+Andrew Love, CFE, Audit Manager
+Olivia Recheked, MPA, Lead/Principal Auditor
+Jonathan Bennett, MPA, Staff Auditor
+Karin Bryant, CPA, Staff Auditor
+About the Secretary of State Audits Division
+The Oregon Constitution provides that the Secretary of State shall be, by virtue of the office, Auditor of Public
+Accounts. The Audits Division performs this duty. The division reports to the elected Secretary of State and is
+independent of other agencies within the Executive, Legislative, and Judicial branches of Oregon government.
+The division has constitutional authority to audit all state officers, agencies, boards and commissions as well as
+administer municipal audit law.
+This report is intended to promote the best possible management of public resources.
+Copies may be obtained from:
+Oregon Audits Division
+255 Capitol St NE, Suite 500 | Salem | OR | 97310
+(503) 986-2255
+sos.oregon.gov/audits

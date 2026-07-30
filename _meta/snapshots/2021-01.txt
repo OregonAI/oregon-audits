@@ -1,0 +1,832 @@
+Secretary of State
+Oregon Audits Division
+2021-22
+Audit Plan
+Shemia Fagan, Secretary of State
+Kip Memmott, Audits Director
+Table of
+Contents
+Letter from the Secretary of State
+Welcome to the Annual Audit Plan
+Letter from the Audits Director
+What to expect for this year’s audit listing
+Overview of the Annual Audit Plan
+How our risk assessment works
+About the Audits Division
+How we are uniquely structured as an audit function
+Audit Portfolios and Strategies
+Our strengths, skills, and goals
+Performance Audits
+Assessing the efficiency of agency operations
+Information Technology Audits
+Cybersecurity and information systems
+Other Division Projects
+Data analytics and our other portfolios
+Financial Audits
+Accounting for public monies
+Letter from the
+Secretary of State
+February 2021
+Long before the pandemic upended our everyday lives, Oregon faced a number of ongoing crises,
+affecting the lives of people in every community across the state. Too many Oregonians are unjustly
+burdened by systemic racism and the generational inequities that follow. Climate change threatens
+our very way of life, and our housing crisis affects the stability of families across Oregon. In 2020,
+unprecedented wildfires, COVID-19, and the resulting economic downturn only intensified the
+existing inequities burdening Oregonians in under-resourced regions and historically marginalized
+communities.
+The Secretary of State’s Audits Division plays a key role in making sure our state’s resources have the
+biggest impact in the lives of Oregonians. I am so humbled to lead the incredible team in the division
+in tackling some of the most pressing issues bearing down on Oregon. Under the expert direction of
+our professional, nonpartisan auditors, the 2021-22 Audit Plan includes:
+• An analysis of Oregon’s Unemployment Insurance Program, identifying the challenges the program faced early in the
+pandemic and working to ensure the system will be resilient in the face of a future crisis.
+• An evaluation of the emergency response to the 2020 wildfires and recommendations for improvements in natural
+disaster responses in the future.
+• An audit of our state’s COVID-19 vaccine distribution to ensure we are efficiently and equitably immunizing Oregonians
+while stopping the spread of this deadly virus.
+• An inspection of rural water supplies and the environmental and contamination risks faced now and in the future.
+• A look at domestic terrorism and ideologically motivated violent extremism in Oregon and law enforcement’s ability to
+deal with the threat.
+• An assessment of the licensing and regulation of cannabis businesses and evaluation of how licensing can be used to right
+historical wrongs to Black, Indigenous, and people of color communities.
+• An overview of the types of calls received by state and local 911 systems and an equitable analysis of what and how public
+safety resources are deployed in response.
+• An assessment of the state of cybersecurity in Oregon and determination of whether state agencies and local governments
+have effective and efficient information technology security frameworks and control structures.
+• An analysis of the performance of Oregon’s mortgage interest deduction and a risk assessment of homeless services to
+determine how to improve coordinating and distributing services.
+The work of this audit plan would not be possible without Audits Director Kip Memmott, the talented auditors within the
+division and the ongoing collaboration between the Oregon State Legislature, the Joint Legislative Audits Committee,
+Governor Kate Brown, and the dedicated officials who run agencies throughout our state. I thank them for their steadfast
+commitment to improving the work we do to serve the people of Oregon.
+In the coming months, we will seek statewide engagement and prioritize community outreach in order to hear from Oregonians
+impacted by the risks identified in this audit plan. Please speak up. Please share your experience. I want to know your story
+because every voice, every experience, and every person’s needs matter. Y our experience should impact how decisions are
+made in this great state we all call home.
+Sincerely,
+Shemia Fagan
+Secretary of State
+Oregon Secretary of State Audit Plan | February 2021 | page 3
+I am excited to present the Oregon Secretary of State’s 2021-22 Audit Plan. The audit plan
+reflects Secretary Fagan’s and the Audits Division team’s commitment to using our skills and
+resources to execute high-impact audits examining government functions and services that
+are most relevant to the people who reside in our great state, especially those most vulnerable
+among us. These audits are designed to ensure transparency of government operations and to
+help to build and maintain public trust.
+The purpose of the audit plan is to identify agencies, programs, entities receiving state monies,
+and operational areas to be examined by the Audits Division. The 2021-22 Audit Plan includes
+a range of diverse performance, financial, and information technology audits focused on
+critical areas of public concern, including: risks related to the ongoing COVID-19 pandemic;
+increasing threats to public safety posed by domestic terrorism and violent extremism; and emergency management
+response challenges and lessons learned from the devastating 2020 wildfire season.
+The plan highlights our innovative auditing techniques designed to maximize audit impact and value. These
+techniques include real-time and assurance auditing, data analytics, cybersecurity audits, equity auditing, and the
+division’s recommendation follow-up program.
+The risk assessment approach utilized to develop this plan is described herein. Our risk assessment methodology is
+focused on obtaining input and suggestions from key stakeholders, including the Governor’s Office, legislators, state
+agency leadership, state employees — including Audits Division auditors — and members of the community. Under
+Secretary Fagan’s vision, the Audits Division will be expanding outreach efforts to community groups.
+I want to thank the Governor’s Office, agency leaders, and legislators, especially members of the Joint Legislative
+Audit Committee, for their ongoing support, cooperation, and collaboration with the Audits Division. This spirit of
+support and collaboration was especially strong during 2020, despite the devastating effects of the pandemic and
+wildfires on the state.
+I want to thank Secretary Fagan for her vision moving ahead and for her support of our team. I want to thank the
+Audits Division team for their amazing resiliency and commitment to excellence and public service. The division
+team produced a high volume of impactful work despite the impacts of the pandemic on their personal lives,
+including working in a full-time telework model since March 2020. It is truly an honor and a privilege to serve with
+this team.
+Most importantly, I want to thank Oregonians. This plan is designed with their interests and needs in mind and I am
+confident these audits will help to improve the lives of people.
+Respectfully,
+Kip Memmott
+Audits Division Director
+Oregon Secretary of State Audit Plan | February 2021 | page 4
+Letter from the
+Audits Director
+February 2021
+Overview of the
+Annual Audit Plan
+The mission of the Oregon Audits Division is to protect the public interest and improve Oregon government. A key
+component of this mission is the division’s annual audit plan, which lists the agencies, programs, and topics that are
+prioritized for audits in the coming year.
+The annual audit plan demonstrates two key philosophies of the Audits Division: our commitment to transparency
+and our emphasis on being agile and responsive to critical issues facing the state. We are committed to completing
+the audits listed in the plan; however, our risk assessment process is continuous. The plan is a flexible document and
+we will redirect audit resources as necessary to address critical issues facing the state.
+Preparing the Audit Plan
+We select and prioritize audits using a risk-assessment approach. Our risk assessment is based on specific risk factors
+related to the quality of internal controls and the liability and level of exposure to the state of various agencies,
+programs, or activities.
+This risk assessment considers the following factors:
+• The direction of the elected Secretary of State;
+• Industry-standard risk assessment criteria;
+• Previous audits of agency operations and internal controls;
+• Trend analyses to identify recurring audit findings and control
+deficiencies;
+• Audit follow-up and recommendation tracking;
+• The state’s Comprehensive Annual Financial Reports (CAFRs),
+Single Audit Reports, and audit management letters;
+• Input from elected officials, including the Governor’s Office
+and members of the Joint Legislative Audit Committee
+(JLAC);
+• Input from agency management, other public sector audit
+organizations, and members of the public;
+• Priorities and work products of other leading government audit
+functions;
+• Topics informed and suggested by research conducted by
+Audits Division staff;
+• Current events and trends, financial conditions, and public
+policy issues, including emerging policy; and
+• Equity, inclusion, and diversity risks and frameworks.
+This risk assessment process allows us to efficiently allocate our limited resources; provides a flexible mechanism for
+managing competing needs; limits the potential for duplicate and overlapping work with other audit functions; and
+provides a foundation to obtain sufficient resources required to execute our mission.
+The annual audit plan includes a list of the performance, financial, and information technology (IT) audits we plan to
+conduct in the coming year. The plan also describes ongoing initiatives that improve upon our audit work, including
+our data analytics portfolio and recommendation follow-up program.
+Risk Assessment Criteria
+The Audits Division considers the following
+risk factors when developing the audit plan:
+• Size of audited agency or program
+• Compliance and regulations
+• Pending or recent legislation
+• Complexity of transactions
+• Fiscal sustainability
+• Management accountability
+• Quality of internal control system
+• Age of program or operation
+• Audit history
+• Public health and safety
+• Critical infrastructure
+• Short- and long-term strategic risks
+• Related litigation and relevant case law
+• Emerging risk areas
+Oregon Secretary of State Audit Plan | February 2021 | page 5
+The Audits Division conducts audits to protect the public interest and improve Oregon government. We ensure
+that public funds are properly accounted for, spent in accordance with legal requirements, and used to the best
+advantage. These efforts help accomplish the Secretary of State’s vision to deliver better results for Oregonians
+through greater accountability and transparency and to promote more efficient and effective service delivery.
+The Audits Division and the Secretary of State, as Auditor of Public Accounts, operate under the authority of the
+Oregon Constitution, Article VI, section 2, and ORS 297.010 through 297.990.
+The division adheres to a high-impact, value-add auditing strategy based on a collaborative model, innovation,
+continuous improvement activities, and public interest reporting. We direct our audit efforts to those areas of
+government that can most benefit from an independent assessment of the management of public funds and the
+results achieved. We strive to provide transparency to Oregonians to maintain the public trust. We accomplish this
+by adhering to Government Auditing Standards, recruiting and retaining a highly qualified audit staff, deploying
+sophisticated and innovative audit methodologies and tools, and establishing and maintaining open and positive
+communications with key stakeholders, including elected officials and agency leadership.
+The division has three overarching goals:
+About the
+Audits Division
+Oregon Secretary of State Audit Plan | February 2021 | page 6
+Be seen as the public’s agent for good government.
+• Communicate to Oregonians our efforts to improve their government
+• Communicate results in a way that engages and helps our stakeholders
+• Follow up and report on actions taken by agencies in response to our audits
+• Obtain state and national recognition of Oregon audits
+• Address and deter fraud, waste, and abuse through calls to our hotline and
+promote hotline activities and results
+Audit within a performance management framework.
+• Expand the professional capabilities of our auditors
+• Continually improve in-house training for audit staff
+• Empower audit teams to develop improved audit methods
+• Methodically identify audit topics that deliver the greatest benefits
+• Increase teamwork about roles, audit ideas, methods, and findings
+• Sustain and enhance tools, data access, resources, and authority to audit
+• Continuously improve efforts for timely, efficient, quality audits
+Work to improve government decisions and performance.
+• Audit the performance of Oregon government for ways to improve it
+• Provide timely, quality financial assurance services
+• Conduct compliance and internal control audits of key risk areas
+• Audit information technology processes, controls, and governance
+• Directly communicate the results of our work to other branches of state
+government
+• Monitor the financial condition of the state and selected local governments
+• Monitor the municipal audit function in the state
+Ensuring that audit work is conducted independently, objectively, and accurately is fundamental to the integrity and
+value of auditing. In order to ensure that all the division’s work meets these requirements and in compliance with
+statute, we follow Generally Accepted Government Auditing Standards (GAGAS). The division has implemented
+a robust and consistent audit process and a system of procedures, including extensive quality assurance activities,
+to ensure our audit work not only meets, but exceeds, auditing standards. GAGAS require 40 hours of annual
+continuing professional education for auditors. We strive to ensure this training equips our audit staff with the latest
+and best skills and aids in their professional development.
+A key standard requires that the division undergo an external quality assurance (peer) review every three years.
+These reviews include detailed inspections of the division’s policies, procedures, processes, reports, and supporting
+workpapers to ensure they comply with standards. The division participates in the National State Auditors
+Association (NSAA) peer review program and has undergone external peer reviews for many years. We consistently
+receive opinions of full compliance with these standards. The division’s last external peer review was completed in
+May 2019 with the next review scheduled for May 2022.
+Oregon Secretary of State Audit Plan | February 2021 | page 7
+Legal Audit Model Framework
+Both statute and the State Constitution authorize the Secretary of State’s Office to conduct audits of state
+government and other specified public entities. Several key components serve as the cornerstone for the Secretary
+of State audit model.
+The statutory requirement for the Secretary of State’s Office to comply with standards, combined with other key
+components making up the model’s framework, ensure that Oregon has one of the most structurally independent
+government audit functions in the country.
+Elected Secretary
+The Secretary of State
+is an elected official
+who leads the office
+independently from other
+elected officials and state
+operational management.
+Comprehensive
+Access
+The State Constitution
+authorizes the Secretary
+of State to have access
+to all officers, employees,
+records, and property
+maintained by the State
+and to all external entities,
+records, and personnel
+related to their business
+interactions with the
+State.
+Adherence to
+Professional Audit
+Standards
+The Audits Division
+conducts all audits in
+accordance with Generally
+Accepted Government
+Auditing Standards
+(GAGAS) promulgated
+by the United States
+Comptroller General.
+Joint Legislative
+Audit Committee
+The Secretary of State
+works closely with the
+Joint Legislative Audit
+Committee (JLAC)
+to communicate audit
+results and to ensure
+optimal audit impact.
+ORS 171.585 establishes
+JLAC as a core
+legislative committee
+whose responsibility is
+to “select audit reports
+for review and make
+recommendations for
+change.”
+The division is comprised of 70 professional audit staff and two administrative support staff. Professional staff include
+financial, performance, and information technology auditors. Division staff possess diverse academic backgrounds,
+professional experience, and skill sets. Many auditors have obtained graduate degrees and professional certifications.
+The division maintains several specialty positions, including a data analytics manager and a communications
+specialist.
+The division’s core work portfolios include the following:
+Performance Auditing
+The plan reflects a strong emphasis on one of our strengths — performance auditing, particularly in the areas of
+program effectiveness and assessing the efficiency of various state agencies and programs.
+The performance audits included in this year’s plan reflect many of the emerging risks facing Oregon as well as the
+nation: COVID-19 vaccination distribution, domestic terrorism and violent extremism, and emergency response to
+natural disasters such as wildfire.
+We have also identified several audits that affect key populations and policies that are important to Oregonians. For
+instance, this year’s plan includes an audit of cannabis licensing and enforcement and an audit examining the risks to
+the economic sustainability and viability of Oregon’s community colleges.
+Financial Auditing
+The audit plan leverages the long-standing professionalism and institutional knowledge of our staff with audit work
+covering the financial condition, accounting, and management activities of the state.
+A primary responsibility of the Audits Division is to conduct financial audits. Financial audits provide assurance as
+to whether a state agency has followed generally accepted accounting principles in preparing its financial records
+and financial statements. Financial audits help ensure state agency financial statements and the amounts presented
+therein are materially complete and accurate.
+The division annually audits the state’s financial statements and federal programs at state agencies to ensure
+agencies are complying with financial reporting and federal program requirements.
+The largest financial audit we conduct is the annual Statewide Single Audit, which incorporates an audit of the state’s
+financial statements included in the state’s Comprehensive Annual Financial Report. It also includes an audit of the
+state’s internal controls and compliance with federal program requirements.
+We perform the single audit to satisfy the Legislature, the Governor, and the public that the state’s financial
+statements are presented fairly and that significant deficiencies in its fiscal systems are identified and corrected. We
+also conduct this audit to fulfill the federal government’s mandate to audit the administration and use of more than
+$12 billion in federal monies provided to Oregon each year.
+The Audits Division also administers Municipal Audit Law, which requires Oregon’s local governments to submit
+annual financial reports to the Secretary of State. In the interest of transparency and accountability, we assist
+with understanding and complying with the law and making information available to the public about the financial
+condition of municipalities.
+Audit Portfolios and
+Strategies
+Oregon Secretary of State Audit Plan | February 2021 | page 8
+IT and Cybersecurity Auditing
+The audit plan addresses the ongoing risks associated with IT and cybersecurity with a strong emphasis on IT audits, a
+specialized type of performance audits.
+One of these audits will have a special focus on digital equity by evaluating statewide access to broadband internet —
+something that has increased importance during the COVID pandemic as more Oregonians work and go to school
+online from home.
+Additionally, the audit plan includes our ongoing cybersecurity controls assessment program, wherein we focus
+narrowly on a set of IT controls related to cybersecurity — an area that continues to pose a high threat not only to
+the state of Oregon, but nationwide.
+Equity Auditing
+As with prior audit plans, this year’s plan includes audits with equity audit objectives. In alignment with Secretary
+Fagan’s vision, this year’s plan increases our focus on equity as a primary objective for our audits.
+Government entities are constitutionally required to treat all citizens equally. The provision of government services
+and the quality of such services should be consistent regardless of ethnicity, income, or other human differences.
+This also applies to government regulatory and enforcement actions.
+The division has experience in auditing with equity objectives, but this year’s plan further bolsters our work in this
+area. Many of our audits will include a special focus on equity. One such audit will assess the efficacy of the home
+mortgage interest deduction at the Department of Revenue.
+Leading Practice Audit Methodologies and Data Analytics
+We are proud to report the Audits Division continues to serve as a leader in pioneering innovative audit
+methodologies to further improve upon our audit work. To better streamline and build upon our data analytics
+capabilities, we now have an audit manager tasked with this portfolio.
+Data analytics is the process of inspecting, cleansing, transforming, and modeling data with the goal of discovering
+useful information, informing conclusions, and supporting decision-making.
+Our work in this area has already drawn national attention —we are the first audit shop to engage with the U.S.
+Treasury’s Do Not Pay program to conduct data matching and reduce improper payments in Oregon’s Medicaid
+program. This year’s audit plan outlines several potential projects that take advantage of our data analytics
+capabilities to further innovate our work and optimize our efforts to auditing equity.
+Real-time Auditing
+In alignment with our strategic focus on being timely and responsive, the division will continue conducting real-time
+audits. Real-time auditing focuses on evaluating front-end strategic planning, service delivery processes, controls,
+and performance measurement frameworks before or at the onset of program or policy implementations by state
+agencies.
+A common critique is that audits do not provide timely information. Auditors can be perceived as providing
+information on issues that have already been identified and as providing information too late to prevent negative and
+costly outcomes. This is especially the case for large-scale state projects and expenditures. Real-time auditing seeks
+to avoid this problem.
+Oregon Secretary of State Audit Plan | February 2021 | page 9
+Assurance-based Auditing
+In alignment with our strategy based upon transparency, accountability, and public education, we will include
+assurance-based findings in our audit reports, when possible.
+In addition to identifying issues and problems with government operations, the division believes we have a
+responsibility to report on government effectiveness and successes, based on audit evidence. This approach helps to
+enhance collaborative relationships with audited entities and build public trust in government.
+Assurance-based auditing is commonplace in the private sector as executive management and stockholders want
+to know what is working and what is not working within their organizations. This allows them to execute effective
+strategic planning and better prioritize resources. We intend to have the same effect with our approach.
+Audit Follow-up Program
+Our improved audit follow-up program includes more in-depth audit work to verify that appropriate and timely
+corrective actions have been taken to address prior audit findings and mitigate identified risks. This work culminates
+in the issuance of formal audit follow-up reports. To better prioritize audit resources, we have adopted a risk-based
+approach in determining which audit recommendations require follow-up work.
+From 2019 to 2020, the division issued 15 reports following up on the progress of implementing recommendations
+made in prior years, including recommendations on child safety and foster care at the Department of Human
+Services and efforts at the Office of Emergency Management to prepare for a catastrophic disaster.
+Audited entities have agreed with approximately 96% of the audit recommendations included in our large and
+diverse performance and IT audit portfolio over the last four years.
+Hotline Administration and Anti-Fraud Focus
+The division administers the State’s Fraud, Waste and Abuse Hotline. The Government Waste Hotline was
+established in 1995 for public employees and members of the public to report waste, inefficiency or abuse by state
+agencies, state employees, or persons under contract with state agencies.
+We have enhanced our approach and staffing for administering the hotline. These changes improved its effectiveness
+and allowed us to be more efficient and nimbler in responding to hotline complaints, further strengthening our anti-
+fraud focus.
+In addition to assessing fraud risk, audits in the plan will have objectives assessing the effectiveness of internal
+controls established by management to detect and prevent fraud. By highlighting potential gaps within internal
+control systems, the opportunity for fraud can be reduced.
+Oregon Secretary of State Audit Plan | February 2021 | page 10
+Audit Topic Entity(ies) Potential Scope and Objectives
+COVID-19
+Vaccination
+Distribution Efficacy
+Oregon Health
+Authority, County
+Public Health
+Agencies
+The purpose of this audit is to examine the effectiveness and
+efficacy of how the state of Oregon and local governments
+communicate information about and distribute COVID-19
+vaccinations, as well as an assessment of internal controls in
+place to monitor the public health outcomes from the vaccines.
+This audit may examine how Black, Indigenous, and people of
+color (BIPOC) and the nine federally recognized tribes, and
+communities of color across Oregon, experience disproportional
+rates of infection. High-risk populations may also be examined.
+This audit may also consider language barriers and their impact.
+While not anticipated as a real-time audit, the audit will be timed,
+in consultation with OHA, to focus on the second and third phases
+of vaccination. The audit may include a review of the Phase 1 trial
+from a lessons learned perspective and leverage prior division-
+related work, including a collaborative advisory project with DHS
+and OHA examining ongoing risks to the state's long term care
+facilities.
+Domestic Terrorism
+and Violent Extremism
+Risk Mitigation
+Oregon State
+Police, Oregon
+Department of
+Justice
+The purpose of this audit is to examine state responsibilities,
+expenditures, and coordination with federal and other partners
+to identify and address public safety risks posed by domestic
+terrorism and violent extremism. This audit may consider groups
+targeted by domestic terrorism and violent extremism. This
+audit may examine if responses are culturally specific and if
+responsiveness is equitable across all populations. While not
+anticipated to be a component of the audit, the Oregon Military
+Department's roles and responsibilities related to the National
+Guard will likely be reviewed.
+Effectiveness and
+Equity of Cannabis
+Licensing and
+Compliance
+Oregon Liquor
+and Control
+Commission
+This audit will examine OLCC regulatory oversight of the Oregon
+cannabis industry. Audit objectives may include examining the
+effectiveness and equity of OLCC licensing, compliance, and
+enforcement actions. The audit will likely make recommendations
+for the structure and resources needed to ensure an effective
+licensing and compliance system that supports equitable business
+growth. This audit may also use available disaggregated data
+regarding disproportional impacts. This audit may also consider
+BIPOC- and tribal-owned businesses vs. venture capital
+ownership.
+2021-22 Audit Plan
+Performance Audits
+Oregon Secretary of State Audit Plan | February 2021 | page 11
+Audit Topic Entity(ies) Potential Scope and Objectives
+Emergency
+Management
+Coordination
+Statewide
+The purpose of this audit is to assess how the State of Oregon
+governed its response to the COVID-19 pandemic and 2020
+wildfires and the challenges posed by the spread of disinformation
+and misinformation. The audit will likely review After Action
+Reports (AARs) to identify ongoing risks and opportunities and
+to identify areas that went well to reinforce public trust. This
+audit builds upon previous emergency management audits that
+documented significant risks to the state's response system. The
+short- and long-term mental health impacts and mitigation efforts
+for front line workers, first responders, as well as the affected
+communities and families, may be taken into consideration. This
+audit may examine the utilizations of community-based resources
+and if systems are culturally responsive and impacts that may be
+disproportionate among different communities.
+Higher Education
+Sustainability
+Higher Education
+Coordinating
+Commission,
+Selected
+Community
+Colleges
+This audit will examine risks to the economic sustainability and
+viability of the state community colleges and include the effects
+of pandemic-related impacts to nontraditional access. An audit
+of state universities is on the horizon. This audit may review the
+Oregon Promise program, Career Technical Education (CTE),
+and available disaggregated data comparing prior enrollment to
+current. The impact of COVID-19 may be a focus of this audit.
+Home Mortgage
+Interest Deduction
+Policy Efficacy
+Department of
+Revenue
+This audit will examine the efficacy and impacts of the statutory
+mortgage interest deduction and determine the impact of multiple
+residence deductions by an individual in the same calendar year
+and the impact of these benefits for those above certain income
+thresholds.
+Oregon Medicaid
+Program
+Oregon Health
+Authority
+The purpose of this audit is to identify opportunities to maximize
+resources allocated for the state's Medicaid program with the
+intent of identifying any areas of waste so that these funds can
+be prioritized to ensure positive health outcomes for Medicaid
+enrollees. This audit may also consider whether Medicaid
+enrollment disproportionately benefits any particular community
+over another.
+2021-22 Audit Plan
+Performance Audits
+Oregon Secretary of State Audit Plan | February 2021 | page 12
+Audit Topic Entity(ies) Potential Scope and Objectives
+Rural Water Resources
+Access, Quality, and
+Sustainability
+Department
+of Agriculture,
+Oregon Water
+Resources
+Department,
+Oregon Watershed
+Enhancement
+Board, Oregon
+Department of Fish
+and Wildlife
+This audit will examine risks to the access, quality, and
+sustainability of rural area water resources.
+9-1-1 Response
+Program Equity
+Office of
+Emergency
+Management,
+Department of
+Revenue, Oregon
+State Police, Local
+9-1-1 Call Centers
+The purpose of this audit is to assess the costs, effectiveness,
+and equitable application of resources of the State 9-1-1
+communication system and the dispatched responses. Utilizing
+our data analytics capabilities and disaggregated data to determine
+disproportionate impacts, this audit may analyze 9-1-1 call types
+and dispatch response practices. A primary focus of the audit,
+aligned with the division's focus on social justice, is to identify
+opportunities for the state to enhance the effectiveness and
+efficacy of the program based on emergent leading practices,
+including a review of the CAHOOTS program being administered
+by the City of Eugene. This includes determining if current
+responding agencies are the most appropriate, effective, and
+equitable based on the type of emergency. This may also include
+identifying barriers to access and what areas are lacking 911 access.
+This audit may include a review of the controls and outcomes for
+the Emergency Communications Tax. This tax amount increased
+on January 1, 2020. The division may leverage related work being
+conducted for the audit examining the state's emergency response
+system.
+2021-22 Audit Plan
+Performance Audits
+Oregon Secretary of State Audit Plan | February 2021 | page 13
+Oregon Secretary of State Audit Plan | February 2021 | page 14
+Audit Topic Entity(ies) Potential Scope and Objectives
+Cybersecurity Audits
+Department of
+Veterans Affairs,
+Department of
+Consumer and
+Business Services
+The purpose of these audits is to determine whether state agencies
+have effective and efficient information technology security
+frameworks and control structures.
+Evaluation of Access
+to Broadband Internet
+Access and Digital
+Equity
+Business Oregon
+This audit will review policies and statutes related to high-speed
+internet access to identify opportunities to remove barriers to
+expansion into rural and other communities that experience
+challenges accessing reliable and affordable broadband services.
+Oregon's
+Unemployment
+Insurance Program
+Oregon
+Employment
+Department
+This will be an audit to examine root causes for the substantive
+risks and performance issues related to the state's Unemployment
+Insurance Program that arose during the COVID-19 pandemic.
+TEAMS Application
+Controls
+Oregon
+Department of
+Transportation
+This audit will assess the controls in place to protect the
+confidentiality, availability, and integrity of ODOT's financial
+information.
+2021-22 Audit Plan
+Information Technology Audits
+Audit Topic Entity(ies) Potential Scope and Objectives
+Audit Follow-Up Statewide The division is enhancing our audit follow-up program to be more
+efficient and impactful by adopting a risk-based approach.
+Data Analytics
+Portfolio Statewide
+The division is nationally renowned for our impactful and innovative
+data analytics work. The division established a formal data analytics
+portfolio under the lead of a credentialed and experienced audit
+manager. We will continue to implement the data analytics
+portfolio and will have a strategic document outlining the
+governance and key outcomes for this portfolio. It will be critical
+for us to secure key state datasets efficiently and effectively from
+state agencies.
+Homeless Services
+Risk Assessment Statewide
+This risk assessment will map efforts to address homelessness in
+Oregon with the intent of identifying a multi-year audit approach
+to address the issue systemically. This audit will consider equity
+in all aspects. This audit may examine how BIPOC and the nine
+federally recognized tribes, and communities of color across
+Oregon, experience access to services and whether there is
+disproportionate access.
+Information
+System Controls
+Documentation Audit
+Standards Project
+Statewide
+Audit standards require all audit teams to obtain an understanding
+of the controls relevant to the audit objectives and determine any
+audit steps needed to test the relevant controls. Our IT auditors
+have a specialized skill set that can be leveraged to provide support
+for all audit projects by obtaining and documenting IT general
+controls.
+Measure 110 and
+Substance Use
+Disorder Risk
+Assessment
+Statewide
+This risk assessment will map the state's policy, governance
+structure, and resources to determine the effectiveness of state
+programs to address substance use disorder risks.
+Oregon Secretary of State Audit Plan | February 2021 | page 15
+2021-22 Audit Plan
+Other Division Projects
+Audit Topic Entity(ies) Potential Scope and Objectives
+Statewide Single
+Audit: Part One,
+Financial
+Statewide
+A single audit is required by the federal government to receive
+federal financial assistance and has two main components, the first
+being an audit of the State’s financial statements and reporting on
+the schedule of expenditures of federal awards (SEFA) in relation
+to those financial statements. Based on prior year audits, the FY21
+audit will most likely include audit procedures at the following
+agencies:
+Department of Administrative Services
+Department of Consumer and Business Services
+Oregon Business Development Department
+Department of Corrections
+Department of Education
+Oregon Employment Department
+Department of Environmental Quality
+Oregon Department of Fish and Wildlife
+Oregon Department of Forestry
+Oregon Health Authority
+Higher Education Coordinating Commission
+Department of Human Services
+Oregon Judicial Department
+Department of Justice
+Oregon Liquor Control Commission
+Oregon Military Department
+Oregon Parks and Recreation Department
+Public Defense Services Commission
+Department of Revenue
+Oregon Department of Transportation
+The FY21 audit will also include financial statement audits at the
+following agencies.
+Oregon Housing and Community Services
+Oregon State Lottery
+Oregon Department of Veterans’ Affairs
+Public Employees Retirement System*
+State Accident Insurance Fund*
+Common School Fund at the Department of State Lands*
+*Indicates audits that we contract with CPA firms to conduct.
+Statewide Single
+Audit: Part Two,
+Federal
+Statewide
+The second component is a compliance audit of major federal
+awards expended during the fiscal year. During the planning phase
+of the FY21 audit, we will determine the federal programs to audit.
+2021-22 Audit Plan
+Financial Audits
+Oregon Secretary of State Audit Plan | February 2021 | page 16
+Audit Topic Entity(ies) Potential Scope and Objectives
+Financial Statement Oregon State
+Treasury
+FY21 Oregon Short-Term
+FY21 Oregon Local Government Investment Fund
+FY21 Oregon Intermediate Term Pool
+To review internal accounting and compliance control procedures
+and to obtain reasonable assurance about whether the amounts
+reported in the financial statements are materially correct and
+adequately supported.
+FY21 Financial
+Statement and
+Compliance
+Department of
+Consumer and
+Business Services,
+Oregon Health
+Insurance
+Marketplace
+To review internal accounting and compliance control procedures
+and to obtain reasonable assurance about whether the amounts
+reported in the financial statements are materially correct and
+adequately supported. In addition, to verify compliance with
+programmatic requirements set forth by 45 CFR part 155; report
+on compliance as directed by the Centers for Medicare & Medicaid
+Services (CMS); and meet requirements of a performance audit as
+directed in ORS 741.220.
+FY20 Financial
+Statement
+Oregon Business
+Development
+Department,
+Special Public Works
+Fund and Water
+Fund
+To review internal accounting and compliance control procedures
+and to obtain reasonable assurance about whether the amounts
+reported in the financial statements are materially correct and
+adequately supported.
+FY20 Financial
+Statement
+Oregon Department
+of Energy,
+Small Scale Energy
+Loan Program
+(SELP)
+To review internal accounting and compliance control procedures
+and to obtain reasonable assurance about whether the amounts
+reported in the financial statements are materially correct and
+adequately supported.
+FY21 Financial
+Statement
+Columbia River
+Gorge
+Commission
+In accordance with the Interstate Cooperative Agreement between
+the Washington State Auditor’s office and the Oregon Secretary
+of State Audits Division, we perform procedures to verify
+Oregon’s share of the Columbia River Gorge Commission’s joint
+expenditures and commissioners’ compensation are in compliance
+with laws and regulations of the State of Oregon.
+2021-22 Audit Plan
+Financial Audits
+Oregon Secretary of State Audit Plan | February 2021 | page 17
+Audit Topic Entity(ies) Potential Scope and Objectives
+FY20 Financial
+Statement
+Department of
+Environmental
+Quality,
+Clean Water
+Revolving Fund
+To review internal accounting and compliance control procedures
+and to obtain reasonable assurance about whether the amounts
+reported in the financial statements are materially correct and
+adequately supported.
+FY20 Financial
+Statement
+Oregon Department
+of Education,
+High School
+Graduation and
+College and Career
+Readiness Fund
+To review internal accounting and compliance control procedures
+and to obtain reasonable assurance about whether the amounts
+reported in the financial statements are materially correct and
+adequately supported.
+Federal
+Compliance Various This interim audit work supports the FY21 Statewide Single Audit.
+Financial
+Department of
+Administrative
+Services,
+Oregon State
+Payroll Application
+and Statewide
+Financial
+Management
+Application
+This interim audit work supports the FY21 Statewide Single Audit.
+Statewide Summary
+Single Audit Various
+Keeping the State of Oregon Accountable: To summarize and issue
+a summary report on the results of the FY20 Statewide Single
+Audit financial and federal audits.
+Municipal Audit Local governments
+ORS 297.405 to 297.740 and 297.990 (Municipal Audit Law)
+require local governments, including counties, cities, school
+districts, and special districts, to prepare and submit annual reports.
+Our annual report summarizes the financial reporting activities of
+Oregon’s municipal corporations for the prior fiscal year.
+2021-22 Audit Plan
+Financial Audits
+Oregon Secretary of State Audit Plan | February 2021 | page 18
+Audit Topic Entity(ies) Potential Scope and Objectives
+Federal Pandemic
+Fund Transparency
+and Utilization
+Statewide
+The purpose of this audit is to provide assurance and identify risks
+related to the state's use of federal pandemic funds including
+CARES Act funding.
+Inventory and
+Purchasing Controls
+Risk Assessment
+Oregon Department
+of Transportation
+This limited scope audit will review ODOT's recent work to
+enhance the department's inventory systems.
+Wildfire Contracts Oregon Department
+of Transportation
+This audit examining wildfire contracts to third-party providers
+would be a joint audit conducted with ODOT's internal audit team.
+Risk Assessments
+and Fiscal Resource
+Reviews
+Various To review agency records and programs to identify fiscal and
+program risks.
+2021-22 Audit Plan
+Financial Audits
+Oregon Secretary of State Audit Plan | February 2021 | page 19
+Secretary of State
+Oregon Audits Division
+This Annual Audit Plan was prepared and designed by:
+Shemia Fagan, Secretary of State
+Kip Memmott, Audits Director
+Mary Wenger, Deputy Audits Director
+Laura Fosmire, Communications Specialist
+Julie Sparks, Office Manager
+Icons are courtesy of Freepik via Flaticon.com. All rights reserved.

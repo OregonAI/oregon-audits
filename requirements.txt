@@ -3,10 +3,12 @@
 # The [mcp] extra installs the MCP SDK that `corpus-mcp-serve` imports. Without it the CLI
 # is on PATH but fails at import — so it must be present for the container to serve.
 #
-# v1.9.0 is the floor, not a preference: it is the first release whose FTS cache carries a
-# SCHEMA_VERSION alongside the content key. An older toolkit reading a v1.9.0-built index
-# reuses it and then selects a column that is not there.
-corpus-toolkit[mcp] @ git+https://github.com/OregonAI/corpus-toolkit@v1.9.0
+# v1.10.0 is a hard floor, not a preference. Two reasons, either one sufficient:
+#   * it is the first release that knows the `audit_report` doc_type. On anything older
+#     EVERY document here fails frontmatter validation.
+#   * v1.9.0 introduced the FTS cache SCHEMA_VERSION; an older toolkit reads a v1.9.0-built
+#     index as valid and then selects a column that is not there.
+corpus-toolkit[mcp] @ git+https://github.com/OregonAI/corpus-toolkit@v1.10.0
 pyyaml
 # src/ingest_audits.py extracts the report PDFs (Stage 2). Same extractor
 # oregon-records-retention uses, so the page-furniture stripping is shared behaviour

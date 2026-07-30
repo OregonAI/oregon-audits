@@ -1,0 +1,489 @@
+State of Oregon
+An Investment Pool of the State of Oregon
+Financial Statements
+For the Year Ended June 30, 2025
+This page intentionally left blank
+State of Oregon
+TABLE OF CONTENTS
+Pages
+Independent Auditor’s Report ....................................................................................................... 1
+Financial Statements:
+Statement of Net Position ................................................................................................... 3
+Statement of Changes in Net Position ................................................................................ 4
+Notes to Financial Statements ............................................................................................. 5
+Other Reports
+Independent Auditor’s Report on Internal Control over Financial Reporting
+and on Compliance and Other Matters ................................................................................... 12
+ww
+w.mgocpa.com Macias Gini & O’Connell LLP
+500 Capitol Mall, Suite 2200
+Sacramento, CA 95814
+Independent Auditor’s Report
+To
+the Honorable Tina Kotek
+Governor of Oregon
+To
+the Honorable Elizabeth Steiner, State Treasurer
+Oregon Short Term Fund Board
+Report on the Audit of the Financial Statements
+Opinion
+We have audited the financial statements of the Oregon Short Term Fund, an external investment pool of
+the State of Oregon, as of and for the year ended June 30, 2025, and the related notes to the financial
+statements, as listed in the table of contents.
+In our opinion, the accompanying financial statements referred to above present fairly, in all material
+respects, the financial position of the  Oregon Short Term Fund, as of June 30, 20 25, and the changes in
+financial position for the year then ended in accordance with accounting principles generally accepted in
+the United States of America.
+Basis for Opinion
+We conducted our audit in accordance with auditing standards generally accepted in the United States of
+America (GAAS) and the standards applicable to financial audits contained in Government Auditing
+Standards, issued by the Comptroller General of the United States (Government Auditing Standards). Our
+responsibilities under those standards are further described in the Auditor’s Responsibilities for the Audit
+of the Financial Statements section of our report. We are required to be independent of the Oregon State
+Treasury and the Oregon Short Term Fund, and to meet our other ethical responsibilities, in accordance
+with the relevant ethical requirements relating to our audit. We believe that the audit evidence we have
+obtained is sufficient and appropriate to provide a basis for our audit opinion.
+Emph
+asis of Matter
+As di
+scussed in Note 1, the financial statements present only the Oregon Short Term  Fund and do not
+purport to, and do not, present fairly the financial position of the State of Oregon or the Oregon State
+Treasury, as of June 30, 2025, or the changes in its financial position for the year then ended in accordance
+with accounting principles generally accepted in the United States of America. Our opinion is not modified
+with respect to this matter.
+Responsibilities of Management for the Financial Statements
+Management is responsible for the preparation and fair presentation of the se financial statements in
+accordance with accounting principles generally accepted in the United States of America, and for the
+design, implementation, and maintenance of internal control relevant to the preparation and fair presentation
+of financial statements that are free from material misstatement, whether due to fraud or error.
+Auditor’s Responsibilities for the Audit of the Financial Statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free
+from material misstatement, whether due to fraud or error, and to issue an auditor’s report that includes our
+opinion. Reasonable assurance is a high level of assurance but is not absolute assurance and therefore is not
+a guarantee that an audit conducted in accordance with GAAS and Government Auditing Standards will
+always detect a material misstatement when it exists. The risk of not detecting a material misstatement
+resulting from fraud is higher than for one resulting from error, as fraud may involve collusion, forgery,
+intentional omissions, misrepresentations, or the override of internal control. Misstatements are considered
+material if there is a substantial likelihood that, individually or in the aggregate, they would influence the
+judgment made by a reasonable user based on the financial statements.
+In performing an audit in accordance with GAAS and Government Auditing Standards, we
+• Exercise professional judgment and maintain professional skepticism throughout the audit.
+• Identify and assess the risks of material misstatement of the financial statements, whether due
+to fraud or error, and design and perform audit procedures responsive to those risks. Such
+procedures include examining, on a test basis, evidence regarding the amounts and disclosures
+in the financial statements.
+• Obtain an understanding of internal control relevant to the audit in order to design audit
+procedures that are appropriate in the circumstances, but not for the purpose of expressing an
+opinion on the effectiveness of the Oregon’s State Treasury’s internal control. Accordingly, no
+such opinion is expressed.
+• Evaluate the appropriateness of accounting policies used and the reasonableness of significant
+accounting estimates made by management, as well as evaluate the overall presentation of the
+financial statements.
+We are required to communicate with those charged with governance regarding, among other matters, the
+planned scope and timing of the audit, significant audit findings, and certain internal control-related matters
+that we identified during the audit.
+Other Reporting Required by Government Auditing Standards
+In accordance with Government Auditing Standards, we have also issued our report dated August 29, 2025,
+on our consideration of the Oregon State Treasury’s  internal control over financial reporting and on our
+tests of its compliance with certain provisions of laws, regulations, contracts, and grant agreements and
+other matters. The purpose of that report is solely to describe the scope of our testing of inte rnal control
+over financial reporting and compliance and the results of that testing, and not to provide an opinion on the
+effectiveness of the Oregon State Treasury’s internal control over financial reporting or on compliance.
+That report is an integral part of an audit performed in accordance with Government Auditing Standards in
+considering the Oregon State Treasury’s internal control over financial reporting and compliance.
+Sacramento, California
+August 29, 2025
+FINANCIAL SECTION
+State of Oregon
+Statement of Net Position
+June 30, 2025
+(Dollars in Thousands)
+Assets:
+Cash and Cash Equivalents (Note 2) 6,436,194$
+Investments (Note 2) 28,286,923
+Accrued Interest Receivable 144,133
+Due from Oregon Military Department (Note 5) 7,999
+Due from Oregon Health Authority (Note 5) 160,000
+Due from Employment Department (Note 6) 796
+Securities Lending Collateral (Note 3) 66,946
+Total Assets 35,102,991
+Liabilities:
+Due to Broker on Purchase 75,000
+Obligations Under Securities Lending (Note 3) 66,939
+Total Liabilities 141,939
+Net Position:
+Held in Trust for Participants 34,961,052
+Total Net Position 34,961,052$
+The accompanying notes are an integral part of the financial statements.
+State of Oregon
+Statement of Changes in Net Position
+For the Year Ended June 30, 2025
+(Dollars in Thousands)
+Additions
+Investment Earnings:
+Net Increase in Fair Value of Investments 40,013$
+Interest, Dividends, and Other 1,679,337
+Securities Lending Income 2,913
+Total Investment Earnings 1,722,263
+Less Investment Costs:
+Investment Activity Costs (Note 4) 21,871
+Securities Lending Costs 2,516
+Net Investment Earnings 1,697,876
+Participant Account Transactions:
+Participants' Contributions & Reinvested Income 131,997,402
+Participants' Withdrawals (130,232,574)
+Net Increase as a Result of Participant Transactions 1,764,828
+Total Additions 3,462,704
+Deductions:
+Distributions of Interest to Participants 1,658,420
+Total Deductions 1,658,420
+Change in Assets Held in Trust for Participants 1,804,284
+Net Position - Beginning 33,156,768
+Net Position - Ending (Note 8) 34,961,052$
+The accompanying notes are an integral part of the financial statements.
+Notes to Financial Statements
+June 30, 2025
+(1) Summary of Significant Accounting Policies
+Reporting Entity   The Oregon Short Term Fund (the Fund) is a short-term cash investment vehicle.  Several
+local governments in Oregon as well as all State agencies participate in the Fund, thus it is an external
+investment pool as defined in Statement No. 31 of the Governmental Accounting Standards Board,
+Accounting and Financial Reporting for Certain Investments and for External Investment Pools.
+The Fund is not registered with the U.S. Securities and Exchange Commission as an investment company.
+The State’s investment policies are governed by Oregon Revised Statutes and the Oregon Investment Council
+(the Council).  The State Treasurer is the investment officer for the Council and is responsible for all funds
+entrusted to the Oregon State Treasury (OST).  These funds must be invested, and the investments managed,
+as a prudent investor would, exercising reasonable care, skill, and caution.  Investments in the Fund are further
+governed by portfolio guidelines recommended by the Oregon Short  Term Fund Board , with Council
+approval, establishing diversification percentages and specifying the types and maturities of investments.  The
+portfolio guidelines permit securities lending transactions as well as investments in repurchase agreements
+and reverse repurchas e agreements.  Portfolio guidelines are discussed in greater detail in the Investments
+section of Note 2.
+According to ORS 293.265 and 295.002, state agencies must deposit all funds with depositories qualified by
+the OST.  Undesignated funds not required to meet current demand s are deposited in the Fund; therefore,
+state agencies are considered involuntary participants of the Fund.  Because the  Fund operates as a demand
+deposit account for state agency participants, the portion of the Fund belonging to state agency (internal)
+participants is classified as cash and cash equivalents in the State’s Annual Comprehensive Financial Report.
+The portion of the Fund belonging to local government (external) participants is reported in a custodial fund
+in the State’s Annual Comprehensive Financial Report.
+Basis of Accounting   These statements are prepared using the economic resources measurement focus and
+the accrual basis of accounting.  Trade date accounting is observed, which means that purchases and sales of
+securities are recorded on the day the trade takes place with a corresponding payable to , or receivable from,
+the broker.  Changes in the fair value of investments are recognized at the end of each year.  The fair value
+of investments is determined annually and is equal to market price.
+Cash and Cash Equivalents    Investments with original maturities of three mon ths or less are considered
+cash equivalents and are reported at amortized cost, which approximates fair value.  Cash and Cash
+Equivalents also include cash in banks, including cash held with the custodial bank.
+Investments   Investments with remaining maturities of fewer than ninety days are carried at amortized cost,
+provided that the fair value of these instruments is not significantly affected by the impairment of the credit
+standing of the issuer or by other factors.  Amortized cost approximates fair value.  Investments with longer
+maturities are carried at fair value.
+Participants’ equity; distributions of interest    Participants’ account balances in the Fund are determined by
+the amount of participants’ deposits, adjusted for withdrawals and distribut ed interest.  The Fund has not
+provided or received any legally binding guarantees regard ing balances in the Fund.  Interest is calculated
+and accrued daily on each participant’s account based on the ending account balance and a variable interest
+rate determined periodically by the OST.  When a participant's account is overdrawn, negative interest accrues
+daily at the determined rate plus a premium.  OST accumulates an amount to offset potential losses based on
+historical default rates, as part of Total Net Position (See Note 8).  This balance is reviewed at the end of
+every month and is considered in setting the rate paid to participants, exclusive of unrealized gains and losses.
+Interest is distributed monthly on the last business day of the month.  If the last day of the month is a weekend
+or holiday, interest is accrued through the last calendar day of the month and posted on the last business day.
+Notes to Financial Statements
+June 30, 2025
+(2) Deposits and Investments
+Deposits   On June 30, 2025 the Fund held a $57.5 million book balance in deposits with a bank balance of
+$59.0 million. Insurance and collateral requirements for deposits are established by banking regulations and
+Oregon law. Where interest-bearing balances exceed the Federal Deposit Insurance amount of $250,000, the
+balances are covered by collateral held in a multiple financial institution collateral pool (ORS 295.015)
+administered by the OST in the Public Funds Collateralization Program (PFCP).  As of June 30, 2025, $2.2
+million of demand deposits were  covered by FDIC insurance and $56.8 million of demand deposits were
+collateralized under the PFCP.
+Investments   On June 30, 2025, the Fund had a net position of $34.7 billion, $6.4 billion of which is classified
+as Cash and Cash Equivalents on the Statement of Net Position.  The Fund’s portfolio rules establish the
+Fund’s permitted investments and provide guidelines for managing the various types of risk associated with
+these investments (see the current portfolio rules a t https://www.oregon.gov/treasury/public-financial-
+services/oregon-short-term-funds/pages/default.aspx).  The different risks are discussed below.
+A. Interest rate and credit risk
+Interest rate risk is the risk that changes in interest rates will adversely affect the fair value of an investment.
+The Fund staff manages this risk by limiting the period of the reset date (reset) or maturity of the investments
+held by the Fund.  The  portfolio rules require that at least 50 percent of the portfolio mature or reset within
+93 days; not more than 25  percent of the portfolio may mature or reset in over a year; and no investments
+may mature or reset over three years from settlement date.  The  June 30, 2025 holdings are shown in the
+schedule below.  For variable rate securities, the next interest rate reset date is used instead of the maturity
+date.  For variable rate securities , in a fixed rate period that will switch to variable rate at a later date, the
+maturity is based on the final maturity of the security, not the next variable reset date.  For fixed rate securities
+with a put option, the date upon which the put option is fully exercisable for at least 100% of the face value
+is used instead of the maturity date , and for variable rate securities with a put option, the earlier of the next
+variable reset date or the put date is used instead of the maturity date .  For asset -backed securities, the
+weighted average life will be used as a proxy for the maturity date.
+Credit risk is the risk that an issuer or other counterparty to an investment will not fulfill its obligation.  The
+Fund’s policies provide for a composite minimum weighted average credit quality rating for the Fund’s
+holdings to be the equivalent of a AA Standard and Poor’s (S&P) rating.  This composite is calculated based
+on the median rating if three agencies rate the security, the lower rating if two ratings are available, or the
+single rating if only one rating is available.  On June 30, 2025, the fund’s composite weighted average rating
+was equivalent to S&P’s AA based on the method described above.  U.S. Treasuries and all unrated federal
+agency securities were also assumed to be rated AAA for the composite rating, as these securities are backed
+by the U.S. government.
+The minimum ratings for corporate notes at the time of purchase are an S&P rating of A-, a Moody’s rating
+of A3 or a Fitch rating of A-.  Commercial paper is required to have a minimum short-term credit rating at
+the time of purchase from two of three ratings services; minimum ratings are S&P of A-1, Moody’s of P-1
+and Fitch of F-1.  Foreign government securities are required to have a minimum credit rating from S&P of
+AA-, Moody’s of Aa3 or Fitch of AA -.  Asset-backed securities are required to have long -term ratings of
+AAA, Aaa or AAA, or short-term ratings of A-1+, P-1 or F-1+ by S&P, Moody’s, and Fitch, respectively.
+Fund policies allow securities downgraded below the minimum required ratings after the time of purchase to
+be retained at the Fixed Income Senior Investment Officer’s discretion.  Rating groups were determined using
+the lowest actual rating from S&P, Moody’s, or Fitch, and are shown below:
+Notes to Financial Statements
+June 30, 2025
+Classification Rating 93 Days or Less 94-366 Days
+One to Three
+Years Total Par Value
+U.S. Treasuries Exempt $4,317,723 $114,509 $49,881 $4,482,113 $4,482,575
+Agency Securities Not Rated3 1,698,349         24,986         386,718        2,110,053      2,109,099
+Agency Discount Notes AAA -                    24,571         -               24,571           25,000
+Municipal Commercial Paper A-1+ 47,587              29,339         -               76,926           77,545
+Municipal Obligations AAA 3,499                -               -               3,499             3,499
+AA 408,477            -               23,306          431,783         431,243
+A 276,981            -               -               276,981         276,981
+688,957            -               23,306          712,263         711,723
+Commingled Investment Pool Not Rated2 -                    -               238,933        238,933         243,390
+Non U.S. Government Commercial Paper A-1+ 1,006,277         126,209       -               1,132,486      1,138,899
+A-1 346,446            -               -               346,446         347,277
+1,352,723         126,209       -               1,478,932      1,486,176
+Non U.S. Government Obligations AAA 1,852,258         -               -               1,852,258      1,846,105
+AA 170,888            60,066         -               230,954         230,000
+2,023,146         60,066         -               2,083,212      2,076,105
+Corporate Commercial Paper A-1+ 1,996,620         73,609         -               2,070,229      2,076,519
+A-1 1,948,259         98,070         -               2,046,329      2,053,705
+A-2 895,275            49,176         -               944,451         947,175
+4,840,154         220,855       -               5,061,009      5,077,399
+Corporate Obligations AAA 464,783            -               -               464,783         460,000
+AA 1,955,142         240,286       29,973          2,225,401      2,223,955
+A 6,226,245         706,682       187,561        7,120,488      7,115,372
+BBB1 392,004            82,994         4,814            479,812         481,841
+9,038,174         1,029,962    222,348        10,290,484    10,281,168
+Asset-Backed Securities AAA 6,039,835         802,470       614,833        7,457,138      7,449,248
+Negotiable Certificates of Deposit A 199,982            -               -               199,982         200,000
+BBB1 100,000            -               -               100,000         100,000
+299,982            -               -               299,982         300,000
+Repurchase Agreements A-2 350,000            -               -               350,000         350,000
+Cash 57,501              -               -               57,501           57,501
+Total $30,754,131 $2,432,967 $1,536,019 $34,723,117 $34,726,929
+3 Federal Agency securities carry an implicit guarantee from the US Government.
+1 Securities rated BBB on this table have been downgraded during the past fiscal year. The positions have been reviewed and retained at the Senior
+Investment Officer's discretion per the rules above.
+2 The Oregon Local Governement Intermediate Term Fund is not rated by the credit ratings agencies.  The composite credit quality rating of the Oregon
+Local Government Intermediate Term Fund's holdings was AA at June 30, 2025.
+Interest Rate and Credit Risk
+(Dollars in Thousands)
+B.   Custodial credit risk
+Custodial credit risk for investments is the risk that, in the event of a transactional counterparty failure, the
+government will not be able to recover the value of an investment or collateral securities in the possession of
+an outside party.  The Fund’s portfolio rules provide that broker/dealers meet certain qualifications and that
+investments are delivered to and held by a third-party custodian, which holds the Fund’s securities in the State
+of Oregon’s name.   Securities utilized in repurchase agreements are subject to additional restrictions designed
+to limit the Fund’s exposure to risk.  The Fund’s portfolio rules require the execution of a Master Repurchase
+Agreement with counterparties and collateral securing repurchase agreements must be maintained at not less
+than 102% of the amount of the repurchase agreement.
+Notes to Financial Statements
+June 30, 2025
+C. Concentration of credit risk
+Concentration of credit risk is the risk of loss attributed to the magnitude of a government’s investment in a
+single issuer.  The Fund rules provide that the maximum that may be invested in any one issuer, as a
+percentage of the fund’s total investments , is 33  percent for U.S. Agency securities , 10 percent for both
+municipals and foreign governments and instrumentalities , 5 percent for corporate securities, asset-backed
+securities and negotiable certificates of deposit  and 10 percent for all securities and  support commitments
+with the exception of U.S. Treasury (100 percent) and Government Agency securities (33 percent per issuer).
+In addition, no more than $250 million may be invested in the Oregon Local Government Intermediate Term
+Fund. On June 30, 2025, the Fund did not hold investments with any one issuer that exceeded these limits.
+Further, no more than 5 percent of the Fund’s investments were with any one issuer apart from US government
+securities.
+D. Foreign currency risk
+The Fund portfolio rules prohibit investments that are not U.S. dollar-denominated; therefore, the Fund is not
+exposed to this risk.
+(3) Securities Lending
+The OST has authorized its custodian to act as its agent in lending the Fund’s securities pursuant to a form of
+loan agreement, in accordance with Fund investment policies.  There have been no significant violations of
+the provisions of the securities lending agreement.  The State’s securities lending agent lent short -term and
+fixed income securities and received as collateral U.S. dollar-denominated cash and U.S. Treasury securities.
+Borrowers were required to deliver collateral for each loan equal to not less than 102  percent of the market
+value of the loaned security.  The State may pledge or sell the collateral securities received only in the event
+of a borrower default.  The State may impose restrictions on the amount of the loans that the securities lending
+agent made on its behalf.  No such restrictions were made during the year ended June 30, 2025.  The State is
+fully indemnified by its securities lending agent against losses due to borrower default.  There were no losses
+during the year from the failure of borrowers to return loaned securities.
+The Fund’s lending agent uses a  fund to reinvest cash collateral received on behalf of the Fund and other
+Oregon state agencies  managed by the OST, exclusive of the Oregon Public Employees Retirement Fund .
+The fund used to reinvest cash collateral is not rated and had a weighted average maturity of 5.38 days at June
+30, 2025.  As permitted under the fund’s Declaration of Trust  (Declaration), participant purchases and
+redemptions are transacted at $1.00 per unit (“constant value”) based on the amortized cost of the fund’s
+investments.  The balances of securiti es on loan, collateral received and invested collateral at market value
+are presented in the schedule below.
+Notes to Financial Statements
+June 30, 2025
+Schedule of Securities Lending Balances
+(Dollars in Thousands)
+Securities on Loan at
+Fair Value Collateral Received
+Invested Cash Collateral at
+Fair Value
+U.S. Agency Securities 1,578,553$   1,610,381$   1 -$
+Corporate Notes 87,119  88,825  2     66,946
+Total 1,665,672$   1,699,206$   66,946$   3
+1  Cash Collateral $0 Non-cash collateral $1,610,381
+2  Cash Collateral $66,939 Non-cash collateral $21,886
+3  Cash collateral is reinvested in a fund which is priced using a net asset value.
+The State and borrowers maintained the right to terminate all securities lending transactions on demand.  As
+a consequence, the maturities of investments made with cash collateral generally do not match the maturities
+of the securities loans.  As of June 3 0, 2025, the State had no credit risk exposure to borrowers related to
+securities on loan.
+(4) Management and Administrative Fees
+In accordance with ORS 293.718, the OST may deduct monthly 0.5 basis points of the most recent market
+value of assets under management for administration and portfolio management.  For the year ended June 30,
+2025 the OST charged the Fund a monthly rate of 0.435 basis points on the most recent market value of the
+Fund. The fee is deducted from investment income before distributions to participants.  Fees charged  to the
+Fund, including administration and management fees, totaled $21.9 million for the year ended June 30, 2025.
+(5) Receivables from State Agencies and Other Commitments
+The Oregon Military Department entered into an agreement in December of 2023 to borrow up to $8 million
+for the purpose of interim financing until revenues from federal reimbursement funds become availa ble.
+Interest is charged at a fixed rate equal to five point seven (5.7) percent per annum.  The loan will mature on
+the earlier of September 30, 2025, or on the date OST determines the Fund requires repayment to meet current
+Fund requirements.
+The Oregon Health Authority entered into an agreement in May of 2025 to borrow up to $198 million to assist
+in funding legislatively approved expenditures from the 2023 -2025 biennium. Interest is charged at a fixed
+rate equal to five point three (5.3) percent per an num. The loan will mature on the earlier of December 31,
+2025, or on the date OST determines the Fund requires repayment to meet current Fund requirements.
+The Oregon Department of Human Services entered into an agreement in June of 2025 to borrow up to $23
+million to assist in funding legislatively approved expenditures from the 2023 -2025 biennium. Interest is
+charged at a fixed rate equal to five point three (5.3) percent per annum.  The loan will mature on the earlier
+of December 31, 2025, or on the date OST determines the Fund requires repayment to meet current Fund
+requirements.  There were no outstanding borrowings under this agreement at June 30, 2025.
+Notes to Financial Statements
+June 30, 2025
+(6)  Receivable from the Oregon Employment Department
+The OST maintains accou nts separate from the Fund which contains employment benefit and trust funds in
+the name of the Oregon Employment Department (Employment), which is also a participant in the Fund.  The
+OST processes transfers of employment taxes and benefit payments between state agencies and Employment.
+Occasionally a transfer will be recorded between participants’ accounts on one day, but the transfer of cash
+between the Fund and the employment benefit and trust funds does not take place until the following day,
+creating either a receivable from or payable to Employment.
+(7)  Payable to Fiscal Agent
+The OST collects debt service payments from general obligation debt issuing agencies and forwards them on
+to the fiscal agent, which makes bond interest and principal payments to bond holders. OST maintains accounts,
+separate from the Fund, in which payments to the fiscal agent are recorded. Debt service payments received at
+OST create a payable to the fiscal agent until the payments are forwarded.   There was no payable to fiscal
+agent at June 30, 2025.
+(8) Equity of Internal and External Participants
+The following table describes the equity of internal and external participants in the Fund’s net position, and
+shows that net position is composed of participants’ account balances less undistributed and unrealized gains:
+Net position held in trust for participants (in thousands):
+Equity of internal participants 24,697,050$
+Equity of external participants 10,264,002
+34,961,052$
+Net position consist of (in thousands):
+Participants' Account Balances 34,792,137$
+Undistributed and Unrealized Gains (Losses) 30,593
+Allowance for Potential Defaults 138,322
+34,961,052$
+Participants' Fair Value (Net Position divided by Participants'
+Account Balances) 100.49%
+(9)   Fair Value Measurements
+GASB Statement No. 72, Fair Value Measurements and Application, establishes a framework for measuring
+fair value and establishes a reporting hierarchy to maximize  the use of observable inputs and minimize the
+use of unobservable inputs when measuring fair value .  Observable inputs are developed based on market
+data obtained from sources independent of the reporting entity.  Unobservable inputs are developed based on
+the best information available about the assumptions market participants would use in pricing the asset.  The
+classification of securities within the fair value hierarchy is based upon the activity level in the market for the
+security type and the inputs used to determine their fair value, as follows:
+Notes to Financial Statements
+June 30, 2025
+• Level 1 – Unadjusted quoted prices for identical instruments in active markets.
+• Level 2 – Quoted prices for similar instruments in active markets; quoted pri ces for identical or
+similar instruments in markets that are not active; and model -derived valuations in which all
+significant inputs are observable.
+• Level 3 – Valuations derived from valuation techniques in which significant inputs are unobservable.
+Level 1 Level 2 Level 3 Total
+Investments:
+U.S. Treasuries -$      4,248,166$    4,248,166$
+Agency Securities -  2,110,053 -  2,110,053
+Agency Discount Notes -  24,571 -  24,571
+Municipal Obligations -  275,172 -  275,172
+Municipal Commercial Paper -  29,339 -  29,339
+Non U.S. Government Commercial Paper -  557,861 -  557,861
+Non U.S. Government Obligations -  2,083,212 -  2,083,212
+Corporate Obligations -  10,262,535 -  10,262,535
+Corporate Commercial Paper -  699,962 -  699,962
+Asset-Backed Securities -  7,457,138 -  7,457,138
+Negotiable Certificates of Deposit -  299,982 -  299,982
+Total Investments -$      28,047,991$      -$  28,047,991$
+Fair Value Measurements
+(Dollars in Thousands)
+Assets and Liabilities at Fair Value as of June 30, 2025
+The Fund’s investments, other than those with remaining maturities of fewer than ninety days  and the
+investment in the Oregon Local Government Intermediate Term Fund, are valued using the latest bid prices
+or evaluated quotes from independent pricing vendors.  The third -party vendors use a variety of methods
+when pricing these securities that incorporate relevant observable market data to arrive at an estimate of what
+a buyer in the marketplace would pay for a security under current market con ditions.  At June 30, 2025,
+certain negotiable certificates of deposit, corporate, and municipal obligations are reported at amortized cost
+as independent vendor pricing was not available. Investments with remaining maturities of fewer than ninety
+days are carried at amortized cost, which approximates fair value.  The Fund’s investment in the Oregon
+Local Government Intermediate Term Fund  (OLGIF) is priced using  a net asset value and the value of
+OLGIF’s underlying investments are marked to market daily .  The Fund held approximately 93.2% of the
+outstanding units of OLGIF at June 30, 2025.  All the Fund’s investments at June 30, 2025 are considered
+level 2.
+OTHER REPORTS
+www
+.mgocpa.com Macias Gini & O’Connell LLP
+500 Capitol Mall, Suite 2200
+Sacramento, CA 95814
+Independent Auditor’s Report on Internal Control Over Financial Reporting and
+on Compliance and Other Matters Based on an Audit of Financial Statements
+Performed in Accordance With Government Auditing Standards
+To the H
+onorable Tina Kotek
+Governor of Oregon
+To the
+Honorable Elizabeth Steiner, State Treasurer
+Oregon Short Term Fund Board
+Salem, Oregon
+We have audited, in accordance with the auditing standards generally accepted in the United States of
+America and the standards applicable to financial audits contained in  Government Auditing
+Standards issued by the Comptroller General of the United States ( Government Auditing Standards), the
+financial statements of the Oregon Short Term Fund, an external investment pool of the State of Oregon,
+as of and for the year ended June 30, 2025, and the related notes to the financial statements, which
+collectively comprise the Oregon Short Term Fund’s financial statements, and have issued our report
+thereon dated August 29, 2025.
+Report on Internal Control Over Financial Reporting
+In planning and performing our audit of the financial statements, we considered the Oregon State Treasury’s
+(department) internal control over financial reporting (internal control) as a basis for designing audit
+procedures that are appropriate in the circumstances for the purpose of expressing our opinions on the
+financial statements, but not for the purpose of expressing an opinion on the effectiveness of the
+department’s internal control. Accordingly, we do not express an opinion on the effectiveness of the
+department’s internal control.
+A deficiency in internal control exists when the design or operation of a control does not allow management
+or employees, in the normal course of performing their assigned functions, to prevent, or detect and correct,
+misstatements on a timely basis. A material weakness is a deficiency, or a combination of deficiencies, in
+internal control, such that there is a reasonable possibility that a material misstatement of the entity’s
+financial statements will not be prevented, or detected and corrected, on a timely basis. A  significant
+deficiency is a deficiency, or a combination of deficiencies, in internal control that is less severe than a
+material weakness, yet important enough to merit attention by those charged with governance.
+Our consideration of internal control was for the limited purpose described in the first paragraph of this
+section and was not designed to identify all deficiencies in internal control that might be material
+weaknesses or significant deficiencies. Given th ese limitations, during our audit we did not identify any
+deficiencies in internal control that we consider to be material weaknesses. However, material weaknesses
+or significant deficiencies may exist that were not identified.
+Report on Compliance and Other Matters
+As part of obtaining reasonable assurance about whether the department’s financial statements are free from
+material misstatement, we performed tests of its compliance with certain provisions of laws, regulations,
+contracts, and grant agreements, noncompliance with which could have a direct and material effect on the
+financial statements. However, providing an opinion on compliance with those provisions was not an
+objective of our audit, and accordingly, we do not express such an opinion. The results of our tests disclosed
+no instances of noncompliance or other matters that are required to be reported under  Government
+Auditing Standards.
+Purpose of This Report
+The purpose of this report is solely to describe the scope of our testing of internal control and compliance
+and the results of that testing, and not to provide an opinion on the effectiveness of the entity’s internal
+control or on compliance. This report is an integral part of an audit performed in accordance
+with Government Auditing Standards  in considering the entity’s internal control and compliance.
+Accordingly, this communication is not suitable for any other purpose.
+Sacramento, California
+August 29, 2025

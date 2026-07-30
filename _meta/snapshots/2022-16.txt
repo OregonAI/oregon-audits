@@ -1,0 +1,674 @@
+K-12 Education — Systemic Risk Report
+State Leaders and Policymakers Must Address
+Persistent System Risks to Improve K-12 Equity
+and Student Success
+May 2022
+Report 2022-16
+The Student Success Act provides an extra $1 billion of tax money a
+year for early childhood education and K-12 school improvement. It
+requires the Oregon Department of Education (ODE) to track district
+performance and work with districts to improve, building on other
+recent state and federal initiatives and bringing the state the closest
+it has been to meeting the funding recommendations of the Quality
+Education Model. Oregon’s previous three major K-12 improvement
+efforts were all abandoned, underscoring the importance of
+addressing risks early on.
+This advisory report identifies five key risks we found that could
+undermine K-12 system improvement as the state implements the
+2019 Student Success Act, Oregon’s fourth major K-12 improvement
+effort since the 1990s. The report draws on six Audits Division
+performance audits of ODE since 2016, focused on student success
+and inequitable outcomes in Oregon’s K-12 education system.
+The report is addressed to the Governor, State Board of Education,
+and Legislature, who must work with ODE to address these risks even
+as the pandemic has increased K-12 challenges. Not addressing them
+could allow lagging student results and equity gaps for low-income
+and historically underserved students to persist despite a historic
+investment in the education system.
+Risk #1: Performance Monitoring and Support: Performance monitoring is crucial to school improvement. State
+leaders and policymakers must work with ODE to ensure monitoring of district performance and state support when
+needed to promote success.
+Risk #2: Transparency on Results and Challenges: To foster accountability and timely adjustments, leaders and
+policymakers must require thorough reporting of school improvement results and challenges.
+Risk #3: Spending Scrutiny and Guidance: Leaders and policymakers should support ODE in providing more analysis
+of school district spending, helping districts focus spending on student support and offset rising costs.
+Risk #4: Clear, Enforceable District Standards: Oregon’s Division 22 standards for K-12 schools lack clarity and
+enforceability, allowing low performance to persist. To increase accountability for state funds and student success,
+leaders and policymakers must balance local control of school districts with reasonable, enforceable standards.
+Risk #5: Governance and Funding Stability: Reforming education is a complex, long-term effort, requiring leaders and
+policymakers to set clear goals and foster a long-term focus. A large number of separate programs, unrealistic
+timelines, and frequent changes in funding priorities and leadership can undermine reform efforts.
+Highlights
+K-12 Education – Systemic Risk Report
+State Leaders and Policymakers Must Address Persistent System
+Risks to Improve K-12 Equity and Student Success
+Courtesy of Portland Public Schools
+Oregon Secretary of State | Report 2022-16 | May 2022 | page 1
+Introduction
+The Audits Division has focused heavily on K-12 education in the last six years, issuing six audits and
+four recommendation follow-up reports since 2016. We conducted audits covering ODE’s role with
+struggling schools and districts, high school graduation rates, students experiencing disabilities,
+alternative and online schools, student testing, and implementation of Measure 98, a ballot measure
+designed to improve college and career readiness. All these audits included a focus on equity — how
+students that education systems have historically marginalized are faring.1
+The reason for this focus is the importance of education to Oregon’s economy and well -being. Oregon’s
+K-12 public education system includes 197 school districts serving more than 560,000 students, with
+the State School Fund totaling more than $4.6 billion per year, by far the state’s largest single use of
+general and lottery funds. The success and well-being of children in this system is critically important to
+Oregonians. It is also an arena where social inequities can be either exacerbated or mitigated.
+This Systemic Risk Report, our office’s first, is an advisory report2 that identifies key risks found while
+conducting our audits and follow-up reports. The audits, accompanying recommendations, and follow-
+up reports were addressed to the Oregon Department of Education, or ODE, the responsible agency.
+However, this report is addressed not to ODE, but to the Governor’s Office, the State Board of
+Education, and the Legislature — the leaders responsible for overseeing, directing, and supporting ODE.
+Under Oregon law, governors have a strong role in K-12 education, serving as Superintendent of Public
+Instruction, appointing a deputy superintendent to direct ODE, serving as the administrative officer of
+the State Board of Education, overseeing ODE programs, and proposing a K-12 budget to the
+Legislature. The State Board of Education, with seven voting members appointed by the Governor, 3 is
+responsible for setting administrative rules for K-12 education — the groundwork that helps establish
+how effectively ODE operates and how it implements key legislation, including new programs such as
+the Student Success Act. The Legislature sets the K-12 budget, monitors the system’s operations and
+effectiveness, and adopts new programs and goals intended to hold ODE and school districts
+accountable for spending of state money and increase student performance.
+Our intent with this systemic risk report is to highlight systemic risks these state leaders can address
+to improve the K-12 system. We believe the systemic risks outlined in this report are also useful for
+school district boards and Education Service District (ESD) boards to consider. ESDs play a crucial role
+in supporting districts across the state.
+The Student Success Act sets a promising path forward
+The pandemic has made the last two years extraordinarily difficult for many students, educators, and
+administrators, but there are reasons for optimism moving forward. Educators and districts may be
+1 Appendix A includes a list of these audits and associated follow-up reports.
+2 As non-audit projects, advisory reports do not adhere to government auditing standards, including standards for detailed
+planning of fieldwork steps and internal control reviews of auditees. However, as with other non-audit reports, this report went
+through the division’s quality assurance process to ensure statements in the report were supported by appropriate evidence.
+3 The State Treasurer and Secretary of State, or their designees, also serve as non-voting, ex-officio members of the State Board
+of Education.
+Oregon Secretary of State | Report 2022-16 | May 2022 | page 2
+able to address student needs more effectively as students return to class. At the state level, two
+relatively recent and large initiatives may improve the K-12 system’s performance:
+Measure 98 High School Success. This 2016 ballot measure, modified by subsequent legislation,
+established a fund of $800 per high school student per year to improve graduation rates and students’
+college and career readiness. The funds can be used for Career and Technical Education, college- level
+courses while in high school, and dropout prevention programs. A 2020 audit found ODE followed a
+robust and effective planning process to implement the measure.
+The Student Success Act. Adopted by the Legislature in 2019, the act is projected to provide an extra
+$1 billion of tax money per year for early childhood education and K-12 school improvement, drawing
+on a new Corporate Activities Tax. The funding from the act brought Oregon’s funding for K-12
+education in the 2021-23 biennium as close as it has been to meeting the recommendation in the
+Quality Education Model since the first QEM report in 1999,4 though still $557 million short of projected
+needs for the biennium. The act requires ODE to track district performance and work with districts to
+improve outcomes. It also focuses on improving school and district efforts with low -income and
+historically underserved students.
+In 2019, ODE created the Office of Education Innovation and Improvement to support student
+investment grants under the Student Success Act. The office includes new staff approved by the
+Legislature and combines several teams working on related student improvement initiatives, such as
+federal Title I school improvement, Measure 98 High School Success, new requirements under the
+federal Every Student Succeeds Act, and several of the additional new initiatives created under the
+Student Success Act.
+ODE’s Office of Education Innovation and Improvement now has 48 positions focused on state and
+federal priorities for improving student outcomes. In addition to staff, the agency is equipped with
+stronger frameworks for monitoring district performance and providing assistance, including many tied
+to a new Student Investment Account under the Student Success Act. ODE is also helping to facilitate
+greater community involvement in state and district decision-making. Agency officials say a more
+inclusive K-12 culture will help increase performance and equity by influencing resource allocation and
+increasing opportunities for underserved students.
+Unlike prior improvement efforts, the act is backed by a substantial increase in state funds. These
+funds are not guaranteed — see risk no. 5 for details — and considerable debate exists on whether the
+Quality Education Model funding model adequately completely captures school and student needs.
+Those needs include increasing need for mental and behavioral health support for students  and the
+financial impact of staffing shortages and rising wages. However, if maintained and adequately funded,
+Student Success Act changes have the potential to drive a unified, strategic approach to improving the
+K-12 system.
+4 The Quality Education Model is updated every two years. Current and past reports can be found at
+https://www.oregon.gov/ode/reports-and-data/taskcomm/Pages/QEMReports.aspx
+Oregon Secretary of State | Report 2022-16 | May 2022 | page 3
+Oregon has not sustained past improvement efforts
+Taken together, the Student Success Act and Measure 98 comprise Oregon’s fourth major K -12
+improvement effort since the early 1990s.
+The previous three were all abandoned.
+In 1991, the Legislature passed the Oregon Educational Act for the 21st Century, a major overhaul
+whose most direct school improvement provisions were CIM and CAM — certificates of initial and
+advanced mastery — intended to drive classroom rigor. They were never required for graduation,
+despite significant investments of time and resources, and the Legislature abolished them in 2007.
+In 2011, the Legislature created an Oregon Education Investment Board to oversee a unified education
+system from early childhood through post-secondary education. The board developed strategic
+initiatives to spur improvement and required districts to sign “achievement compacts” as part of the
+budgeting process. By 2015, the investment board and the achievement compacts were gone, and by
+2017 many of the initial programs established by the strategic initiatives and network grants were
+changed, eliminated, or replaced, with limited analysis of lessons learned.
+The Legislature replaced the investment board with a Chief Education Office under the Governor and
+charged it with building a unified education system, a major undertaking. In 2015, the Legislature set a
+June 2019 sunset date for the office, and most of its functions related to strategic investment and
+educator training were transferred to ODE.
+This history indicates state leaders will need to closely monitor the progress and challenges ahead  for
+the Student Success Act to succeed long-term. Based on our audits of the K-12 system, our judgment
+is focusing on the risks outlined in this report will help them do so.
+Oregon’s new Student Investment Account — an important initiative within the Student Success Act
+At roughly $500 million a year, the Student Investment Account is the largest initiative in the Student Success
+Act. ODE distributes the money through four-year grants with school districts. Key details:
+• Authorizes investments to meet students’ mental or behavioral health needs and increase their
+academic achievement.
+• Focuses on vulnerable students, among them students who are economically disadvantaged, from
+racial or ethnic groups with historic disparities, experiencing disabilities, English language learners, or
+foster children.
+• Districts must create a four-year plan for use of the money, collect data to make equity-based
+decisions, and establish quantitative growth targets focused on measures such as graduation rates,
+third-grade reading proficiency, and attendance rates.
+• Each biennium, ODE determines whether districts met growth targets. If they do not, ODE can require
+them to enter coaching programs or direct spending to specific areas.
+• In addition, ODE develops an intensive program for high needs districts, including involvement by ODE
+student success teams. These districts can receive extra money from the Statewide Education
+Initiatives Account, a separate part of the Student Success Act.
+Oregon Secretary of State | Report 2022-16 | May 2022 | page 4
+Oregon’s K-12 system has improved in key areas, but still faces
+substantial challenges
+In recent years, Oregon’s K-12 system has increased some important performance metrics. From 2016
+to 2019, the state saw increases in ninth-grade students on track to graduate, four-year graduation
+rates, and five-year completion rates. For graduation and completion rates, those improvements
+extended to the 2020-21 school year, despite pandemic challenges, and to students living in poverty,
+Black/African American students, Hispanic/Latino students, and students with disabilities. 5 Oregon’s
+overall graduation rate also increased faster than the national rate in the last five years of national
+comparisons. These encouraging results illustrate the benefit of publicly reporting and focusing on key
+performance metrics.
+However, Oregon’s underserved student populations still face significant  achievement gaps relative to
+overall results in graduation rates and achievement test results for math and English Language Arts.
+Overall, less than a quarter of all students meet proficiency standards in math in 11 th grade. Despite
+improvements, Oregon also continues to rank low relative to other states in its graduation rate. In
+2018-19, the latest year of national data available, Oregon’s 80% graduation rate ranked  48th lowest.
+This ranking does not account for differences in graduation requirements between states, such as
+Oregon’s relatively high number of minimum credits required for graduation .6
+Audits have found other specific equity challenges. A 2017 audit found students in online schools and
+alternative schools and programs account for nearly half the state’s dropouts.  Alternative school
+students are disproportionately students of color and more than two-thirds are low-income. A 2020
+audit found only a third of Oregon children eligible for early intervention special education programs
+received an adequate level of services, as defined by ODE. A separate 2017 audit of graduation rates
+found more than 70% of students who do not graduate on time are low-income.
+High school graduation is a critical milestone for students. Research indicates graduates are more likely
+to have jobs, less likely to be incarcerated, and less likely to rely on public assistance than students
+who drop out. They are also less likely to have problems with drugs and more likely to live long, healthy
+lives. A 2018 review of research on the link between education and health concluded the education
+process is central to health and noted “large and widening” disparities in health and longevity between
+adults with higher educational attainment and their less educated peers.
+Some important student success metrics dropped during the COVID-19 pandemic
+Data for the 2020-21 school year, after COVID-19 took hold, shows reductions in some important
+indicators of student success, including attendance and ninth-grade students on track to graduate. In
+November 2021, ODE released data showing more than a quarter of Oregon’s public high school ninth -
+graders had not passed enough classes to be on track to graduate in the 2020-21 school year, a drop of
+12 percentage points from 2018-19.8 Results for all categories of students fell, with decreases for
+5 When describing racial and ethnic groups in the context of an education data report, we use the terms used in the report.
+6 A bill passed during the 2021 legislative session directed ODE to review the appropriateness of graduation requirements,
+including comparison to other states. That analysis is in process.
+7 Annu. Rev. Public Health 2018. 39:273–89
+8 The data is included in ODE’s Oregon Statewide Report Card for 2020-21.
+Oregon Secretary of State | Report 2022-16 | May 2022 | page 5
+American Indian/Alaska Native, Hispanic/Latino, and Native Hawaiian/Pacific Islander students all
+significantly higher than the statewide drop.
+Nationwide, the Northwest Evaluation Association reports achievement testing results dropped from
+third- through eighth-grade in both reading and math from fall 2019 to fall 2021. Drops were
+particularly sharp at high-poverty schools and among Hispanic, American Indian/Alaska Native, and
+Black students.
+At ODE and at school districts, the pandemic has delayed some critical student success work as the
+agency, districts, teachers, and other educators responded to urgent needs for online education and
+additional student support amid health concerns and staff shortages. Our 2021 follow-up work for a
+2019 audit that involved ODE found pandemic-related delays contributed to ODE fully implementing
+only two of 11 recommendations.
+State leaders must appropriately balance local control and state-level monitoring of K-
+12 results
+Improving K-12 education requires balancing two priorities: supporting local control of school districts
+by district management and school boards — entities closer to the ground and more in touch with their
+communities — and ensuring ODE appropriately monitors and intervenes to help struggling districts
+improve, safeguard taxpayers’ investment, and protect historically underserved students.
+We analyzed risks identified in our past audits and conclude a lack of intervention by ODE, despite
+significant problems at the school and district level, has been a larger problem than infringement on
+local control. In some cases, ODE has said it lacked statutory authority to intervene. In addition, the
+Legislature structured the Student Success Act to focus ODE’s efforts on collaboration, support, and
+coaching of struggling districts. More aggressive intervention — principally, directing spending to
+improve lagging areas — is likely to be limited and come only after other measures have not improved
+student success.
+The following pages detail the five major systemic risks and, for each risk, suggested actions the
+Governor, State Board of Education, and Legislature could take to address them.
+We sincerely appreciate the courtesies and cooperation extended by ODE leadership and staff during
+the preparation of this report and in all our prior audits.
+About the Secretary of State Audits Division
+The Oregon Constitution provides that the Secretary of State shall be, by v irtue of the office, Auditor
+of Public Accounts. The Audits Division performs this duty. The division reports to the elected
+Secretary of State and is independent of other agencies within the Executive, Legislative, and Judicial
+branches of Oregon government. The division has constitutional authority to audit all state officers,
+agencies, boards, and commissions as well as administer municipal audit law.
+Report team
+Andrew Love, CFE, Audit Manager
+Scott Learn, CIA, MS, Principal Auditor
+Krystine McCants, CIA, MS Econ., Principal Auditor
+Oregon Secretary of State | Report 2022-16 | May 2022 | page 6
+Systemic Risks in Oregon’s K-12 System
+Risk #1: Performance Monitoring and Support
+Performance monitoring is crucial to school improvement. State leaders and policymakers must work
+with ODE to ensure monitoring of district performance and state support when needed to promote
+success.
+For any organization or system, monitoring performance and intervening appropriately are important
+controls to ensure objectives are met. At ODE, our audits have consistently found issues with ODE’s
+performance monitoring of grants and programs and issues with effective, timely intervention when
+districts or schools struggle. The Student Success Act added staff and requirements that could help
+ODE improve in this area, but state leaders also need to monitor how the agency itself is performing
+and intervene when necessary to ensure student success does, in fact, increase.
+Earlier in 2022, the agency developed integrated guidance for school districts and a single application
+for six crucial initiatives that should help improve performance monitoring — and help districts and
+grant recipients consolidate their efforts and report their progress more effectively.
+9 The initiatives
+include Student Investment Account grants under the Student Success Act, the High School Success
+initiative sparked by Measure 98, Career-Technical Education programs, and district Continuous
+Improvement Planning. The agency plans to integrate planning and budgeting for these programs, and
+align reporting on program evaluation and progress.
+However, our audits have found deficits in ODE’s performance monitoring  in practice, including
+monitoring the performance of grants and programs intended to help vulnerable students . For
+example:
+Title I school improvement. This federal grant program under the
+Every Students Succeeds Act (ESSA) focuses on schools serving
+high proportions of economically disadvantaged students, as well
+as Black, Latino, and Native American students, making it crucial to
+closing Oregon’s equity gaps in student performance. Yet our 2019
+ODE-Portland Public Schools (PPS) audit found ODE and its
+contractor, Education Northwest, each evaluated the program just once between spring 2010 and
+2017; both evaluations lacked rigor. Our own analysis found about 70% of the schools performed worse
+than comparable schools on English Language Arts and math assessments in 2016 -17. In our 2021
+follow-up report, ODE officials said they plan to develop new Title I support and school improvement
+procedures for 2021-22, including data sources for evaluating results. The agency also wants districts
+participating in improvement programs under ESSA to connect those efforts to the integrated
+application and reporting effort described above.
+9 ODE’s integrated guidance document, “Aligning for Student Success,” is available online.
+From an internal control
+standpoint, monitoring means
+consistently reviewing how
+effectively a system or program is
+working and addressing problems
+that arise.
+Oregon Secretary of State | Report 2022-16 | May 2022 | page 7
+Alternative and Online Education. A 2017 audit of alternative and online education found ODE has not
+adequately collected and tracked alternative school and program performance information to  identify
+both successful and underperforming schools and programs. Similarly, ODE’s performance tracking and
+legislatively authorized oversight of rapidly growing statewide and regional online charter schools  —
+which enroll substantial numbers of academically at-risk students and many students who eventually
+drop out — is limited, and much lower than oversight in some states.
+For example, ODE receives copies of key documents related to online charter schools, such as charter
+agreements and annual reports, but did not review them for quality or monitor the quality of district
+oversight of these schools. Our 2019 follow-up found little to no progress on our recommendations,
+which ODE officials attributed to low alternative education unit staffing and prioritizing accountability
+requirements under ESSA.
+Our 2017 audit found other states have held districts, alternative schools, and programs to high
+standards and provided more support to help at-risk students succeed. Other states, including
+Washington, have also increased standards and oversight of fast-growing online schools, while
+Oregon’s laws allow these publicly funded schools to increase enrollment rapidly regardless of their
+performance.
+Measure 98/High School Success. Our 2020 audit found the High School Success team at ODE is
+developing a robust plan to evaluate internal performance for this state program, aimed at increasing
+the state’s high school graduation rate. However, the audit also found this plan focuses on process,
+such as the number of ODE visits made, and not on interim or long-term outcomes like improvement in
+dropout prevention activities. The audit also found ODE staff reviewed dis tricts’ requested changes in
+high school success plans for statutory compliance but did not evaluate the potential impact of the
+changes on student outcomes. This focus on process and compliance, rather than student outcomes,
+has been a common issue in ODE grant monitoring. ODE officials said they are making monitoring
+improvements; our office is conducting the next audit required under Measure 98, which is scheduled
+to be issued by the end of 2022.
+The state lacks crucial data needed for more effective monitoring
+Having adequate student data is crucial to monitoring and intervention, allowing ODE and districts to
+identify problems and respond to them. ODE’s October 2021 reporting showing the increase in ninth-
+graders not on track to graduate is a prime example. 10 At the time of the data’s release, ODE’s director
+predicted the alarming results would “drive action” to get students back on track, an illustration of the
+power of meaningful data to highlight problems and improve results.
+However, three of our K-12 audits found ODE lacks crucial student data to upgrade its overall
+performance monitoring.
+Perhaps most important, ODE does not obtain course grades or specific credits attained by middle
+school and high school students, data the agency could use to help identify and address barriers to
+graduation. Class performance data would help ODE analyze when students are most likely to fall off
+10 This data is available on ODE’s website.
+Oregon Secretary of State | Report 2022-16 | May 2022 | page 8
+track, which courses have high failure rates, and how student success or failure in specific courses ties
+to graduation.
+For example, ODE has no ability to assess how many students take and pass Algebra 1, a key course
+required for graduation; how ability to pass ultimately affects students’ graduation prospects; and
+whether a lack of the Algebra 1 credit plays a larger role than other potential barriers to graduation.
+ODE also doesn’t have information about which 10th-, 11th- and 12th-grade students are on-track to
+graduate. That metric stops at ninth grade. That kind of diagnosis could help ODE identify statewide
+issues and tailor its improvement efforts to address them. In following up on our high school graduation
+rate audit, ODE management told us collecting this data would require more funding ; a bill to collect
+high school credit attainment data did not pass out of the 2017 legislative session.
+Data collection comes at a cost for districts and state agencies. State leaders can help by working with
+ODE to specify expected uses of the data and ODE’s role in supporting districts when the data
+identifies problems.
+Student Success Act requirements could improve monitoring and intervention
+Student Success Act provisions for Student Investment Account grants have substantial promise for
+improving monitoring and intervention. The work is in the early stages, however, and our previous audit
+work with similar programs indicates ODE’s monitoring and intervention efforts under the act could still
+be limited.
+The act requires ODE to monitor performance growth targets of each Student Investment Account
+grant recipient each biennium; gives ODE the authority to require grant recipients to enter coaching
+programs; and authorizes ODE to establish a procedure for conducting performance audits of grantees.
+ODE’s new Office of Education Innovation and Improvement has developed best practices for the
+monitoring and evaluation of progress with Student Investment Account programs under the act,
+including extensive guidance for schools on collection and evaluation of longitudinal performance data
+— data following students over long time periods. The office is also working on a long -term vision to
+develop consistent monitoring and evaluation tools across the agency.
+However, ODE officials say the work is in the early stages and the agency still has significant room for
+improvement around performance management and monitoring.
+Our previous audits have also identified monitoring and intervention issues in smaller programs with
+requirements similar to the Student Success Act. For example, our ODE-PPS audit found ODE personnel
+monitored PPS’ work under the federal Title III grant program for English language learners, but the
+desk audits the agency conducted mainly consisted of a rules compliance review, not an evaluation of
+student performance. ODE also did not increase consequences for PPS when the district did not meet
+four student performance objectives from 2010 to 2015, despite options in the program to do so.  ODE
+also administers other small but important state grants outside the Students Success Act, including
+African American Black Student Success grants and grants for American Indian/Alaska Native and
+English learner students. Performance management of these grants is important as well.
+Oregon Secretary of State | Report 2022-16 | May 2022 | page 9
+Suggested leadership actions
+1. Closely track ODE’s performance monitoring of grants and the agency’s interventions when
+needed to support district or contractor success, including monitoring and intervention under
+the Student Success Act, and development of new Title I support and school improvement
+procedures. Clarify in statute where ODE’s responsibility is weak or unclear.
+2. Similarly, closely track work by ODE’s new Office of Education Improvement and Innovation,
+including how the office is monitoring and measuring performance of districts and its own
+efforts to help districts.
+3. Monitor and support ODE’s efforts to improve inadequate performance measurement of
+alternative and online schools, and adopt statutes the hold public district and charter online
+schools, particularly statewide and regional online schools, to stronger standards.
+4. Ensure ODE has adequate staff to monitor grant and district performance and to support
+districts and schools in improving performance.
+5. Provide funding and, where needed, statutory authority for ODE to collect data from districts
+on course grades and specific credits attained by middle and high school students, a key to
+pinpointing graduation roadblocks.
+Oregon Secretary of State | Report 2022-16 | May 2022 | page 10
+Risk #2: Transparency on Results and Challenges
+To foster accountability and timely adjustments, leaders and policymakers must require thorough
+reporting of school improvement results and challenges.
+Key controls to ensure objectives are met also include identifying and addressing risks to achieving
+those objectives and reporting quality information on how the organization is doing. In that light, state
+leaders must support reporting of results for crucial K-12 programs. Leaders must also ensure ODE
+identifies and addresses challenges to successful implementation of the Student Success Act,
+revamped programs under ESSA, and other crucial K-12 improvement efforts, in addition to progress
+made. Effective agency reporting includes details of both successes and challenges, so challenges can
+be quickly addressed. Timely identification and remediation of roadblocks is crucial to ensure the
+state’s latest improvement efforts maintain momentum and are not stalled.
+Oregon’s reporting of student outcomes has important gaps
+ODE has made significant strides reporting results over the years, including issuing individual school
+report cards, an annual statewide report card on the performance of the K-12 system, and single-issue
+reports highlighting key problems. ODE’s authority over school districts is limited, given Or egon’s focus
+on local control, and insightful results reporting is one of the clearest ways the state can improve the
+K-12 system.
+However, previous audits have identified gaps in the state’s reporting. Most striking: Title I schools and
+alternative schools and programs — serving high numbers of low-income and historically underserved
+students — are effectively invisible in state results reporting.
+ODE’s 2017 evaluation of the results of ESSA-driven efforts with
+Title I schools was not released publicly or put on the agency’s
+website. Title I efforts are not called out as part of the state’s
+education agenda. They also have not been assessed in ODE budget
+reports to the Legislature or in the agency’s statewide report card.
+For alternative education, ODE does not clearly identify schools as alternative on its website or in
+public performance reporting, including school report cards. It also does not report on alternative
+programs within districts at all, even when those programs are educating a large proportion of a
+district’s academically at-risk students. The students in those programs may be mixed in with a larger
+school’s population, or else in the district’s overall numbers, but not broken out as a separate program.
+The Student Success Act is another area where meaningful reporting is crucial. The act’s requirements
+for student growth targets and evaluation by ODE could generate meaningful public re porting. It is not
+clear yet how ODE will report these results and evaluations.
+ODE must transparently report challenges to implementation of the Student Success Act,
+ESSA, and other crucial K-12 programs
+Our September 2021 follow-up to the ODE-PPS audit found ODE has not discussed implementation
+challenges for school improvement efforts in depth in public reports and presentations  to the state
+board or the Legislature, particularly concerning given Oregon’s history of abandoned K -12
+Key programs for some
+vulnerable students are
+effectively invisible in state
+results reporting.
+Oregon Secretary of State | Report 2022-16 | May 2022 | page 11
+improvement efforts. These challenges are likely substantial. Previous audits identified district
+concerns about redundant state-mandated plans, the difficulty of “braiding” funds from federal and
+state funding sources to achieve specific outcomes, and the ability of ODE and it s contractors to
+authentically engage with school districts — a key issue given the Student Success Act’s emphasis on
+state-funded coaching for struggling districts.
+As of July 2021, Student Success Act reports to the Legislature identified some challenges  but did not
+report on them in detail or include stakeholder views of ODE's efforts. ODE regularly reports on SSA -
+related programs to the State Board of Education, but none of the presentations reviewed by our
+office addressed challenges to implementation or efforts to meet those challenges.  However, ODE’s
+January 2022 report to the Legislature on the Student Investment Account did detail some significant
+challenges, including procurement challenges in ODE’s intensive coaching program and the
+administrative burden and fragmentation caused for school districts and ODE by 88 separate state
+programs addressing K-12 education. This is an encouraging step toward transparency that state
+leaders can assure is continued and expanded for the Student Investment Accoun t and extended to
+other crucial K-12 programs.
+Suggested leadership actions
+1. Require and support thorough ODE reporting and highlighting of both school improvement
+progress and challenges to effective implementation to the State Board of Education and the
+Legislature, including concerns raised by districts and stakeholders. Provide additional staff if
+necessary.
+2. Ensure results — or the fact that results have not yet been measured — are clearly reported
+and discussed in the Legislature for key ODE programs. Include the Student Success Act,
+Measure 98, Title I and other efforts under ESSA, and additional grants aimed at student
+success and equity, such as African American Black Student Success grants and grants for
+American Indian/Alaska Native and English learner students.
+Oregon Secretary of State | Report 2022-16 | May 2022 | page 12
+Risk #3: Spending Scrutiny and Guidance
+Leaders and policymakers should support ODE in providing more analysis of school district spending,
+helping districts focus spending on student support and offset rising costs.
+Local school boards, business managers, and superintendents control district spending, but a recent
+study by ODE confirms the agency has the analytical capability to provide boards, school and state
+leaders, and the public with valuable district spending insights. Student Success Act requirements also
+provide a pathway for ODE to encourage efficient and effective spending that increases student
+outcomes and equity. Spending scrutiny is particularly important to help ensure programs serving
+marginalized students and their families, who may lack political power, are well funded.
+However, our audits have found ODE can be wary of infringing on local control. After its recent
+spending study, the agency did not include two of the most compelling conclusions in its most high -
+profile annual report. In addition, ODE has not gone beyond checkbox oversight of a requirement that
+districts review and consider Quality Education Commission spending recommendations when applying
+for funds under the Student Investment Act. Further support from state leaders would help the agency
+highlight and follow through on research-backed spending practices.
+Rapid increases in school district costs could reduce the impact of the Student Success
+Act
+New money from the Student Success Act has the potential to substantially improve Oregon’s sub -par
+national rankings in spending per K-12 student and in K-12 student-teacher ratios. As detailed in our
+ODE-PPS audit, a low ratio and smaller classes can allow teachers to focus more on individual students
+to raise their performance. Research indicates individual attention makes a particular difference in early
+grades and with disadvantaged students.
+However, rapidly increasing Public Employees Retirement System (PERS) costs , rising inflation, and
+other rapid non-classroom cost increases such as rising costs for health insurance could reduce these
+gains by shifting the money away from student support. The ODE-PPS audit found benefits were the
+major K-12 cost category where Oregon exceeded the national average by the largest margin, likely
+driven by PERS costs.
+ODE has made progress evaluating spending, but needs leadership support to publicize
+and meaningfully follow up on results
+ODE has made important strides in spending analysis. Supported by ODE, the Quality Education
+Commission publishes an annual report on its Quality Education Model, which forecasts the amount of
+funding required to provide best educational practices statewide. ODE is providing more detailed
+spending data to districts for peer comparisons. In addition, in response t o a recommendation from the
+ODE-PPS audit, ODE analyzed school district spending and its connection to graduation rates and
+published a summary in the 2020 annual report.
+That study reached important conclusions, including emphasizing the importance of im proved student
+services, and further demonstrated ODE’s capacity for useful research. However, the study summary in
+Oregon Secretary of State | Report 2022-16 | May 2022 | page 13
+the annual Quality Education Commission report — a high-profile document required by law — omitted
+two of the study’s most critical conclusions:
+• Reallocation of 1% of the spending from business services, central activities, and
+instructional support to instruction is associated with graduation rate increases of
+3% to 4%.
+• Higher costs of living and salaries in large cities and suburban schools leads to
+increased class sizes in districts with a substantial majority of historically
+underserved students, an inequity the ODE study recommended the Legislature
+take action to address.
+The Student Success Act requires districts to consider commission recommendations when applying
+for Student Investment Account funds, an avenue for ODE to provide oversight and support. Districts
+are required to check a box attesting they have considered the recommendations, but ODE’s oversight
+thus far has not extended further. The statutory language also does not indicate how deeply ODE
+should address district spending issues.
+In our judgment, volunteer school boards, parents, and other stakeholders would benefit from more
+broadly publicized information, well-researched recommendations, and meaningful ODE follow-up to
+adequately address spending issues. The ODE-PPS audit, for example, found public information on
+spending analysis at Portland Public Schools, Oregon’s largest district, was limited.
+Suggested leadership actions
+1. Support ODE in providing more analysis of effective and efficient school district spending and
+in providing additional information and useful tools for districts to benchmark and evaluate
+their spending. Ensure the agency details the most substantial findings in the Quality
+Education Commission’s annual report.
+2. Monitor the depth and effectiveness of ODE’s interaction with school districts on spending.
+3. Ensure ODE works with districts and other stakeholders to enhance transparency and analysis
+of district spending, develop academic return on investment models, and increase financial
+training for district administrators.
+Oregon Secretary of State | Report 2022-16 | May 2022 | page 14
+Risk #4: Clear, Enforceable District Standards
+Oregon’s Division 22 standards for K-12 schools lack clarity and enforceability, allowing low
+performance to persist. To increase accountability for state funds and student success, leaders and
+policymakers must balance local control of school districts with reasonable, enforceable standards.
+Setting standards for operations and performance is an important control activity in a system or
+organization. Oregon’s standards for K-12 school districts primarily come through Division 22
+regulations that tie specific requirements to laws passed by the Legislature.
+Our audits have found ODE’s enforcement of standards designed to improve student achievement is
+limited, and education leaders and the Legislature have not resolved how best to balance enforcing
+standards and supporting struggling districts against the priority placed on local school district control.
+Division 22 standards lack clarity and enforceability
+The Division 22 rules, approved and enforced by the State Board of Education, cover some important
+district operations, among them: diploma requirements, common district curriculum, academic content
+standards, equity expectations, and evaluations. Particularly with ODE engaged in more support of
+districts under the Student Success Act, agency monitoring of district compliance with these standards
+can help ODE and districts identify areas of improvement to address.
+Yet the ODE-PPS audit found the regulations lack clarity and enforceability in key areas. For example,
+the regulations call for rigorous instruction aligned with state academic standards, but the definition of
+rigorous is vague. The regulations require reporting of performance but set no performanc e standards.
+They require districts to maintain class sizes and teacher assignments that promote effective practices
+but provide no specifics.
+The audit also found ODE’s assurance of compliance with the standards, scaled back by budget
+reductions, is limited and largely complaint-driven. Districts are required to prepare and publicly report
+a Division 22 compliance form, but it consists of one page of checkboxes.
+ODE has begun efforts to improve Division 22 standards and assurance
+In May 2019, ODE created a Division 22 committee that meets monthly. The committee has identified
+areas of improvement in the Division 22 assurance process and increased support for districts out of
+compliance and needing corrective action. The agency also hired a full-time Division 22 specialist who
+has revised the Division 22 website,
+11 developed systems for tracking and follow-up, and created
+proactive communication tools to support districts.
+As our September 2021 audit follow-up noted, the formation of a dedicated ODE workgroup is
+significant progress toward improving Division 22 standards. However, the group has not yet fully
+evaluated the standards for enforceability and clarity.
+11 https://www.oregon.gov/ode/rules-and-policies/StateRules/Pages/Division-22.aspx
+Oregon Secretary of State | Report 2022-16 | May 2022 | page 15
+Suggested leadership actions
+1. Monitor and support improvements in Division 22 standards for clarity and enforceability and
+in ODE’s assurance and support efforts under its Division 22 improvement process.
+2. Provide more staff if necessary to build a robust assurance effort that supports and
+meaningfully monitors districts in complying with the standards and assures compliance.
+Oregon Secretary of State | Report 2022-16 | May 2022 | page 16
+Risk #5: Governance and Funding Stability
+Reforming education is a complex, long-term effort, requiring leaders and policymakers to set clear
+goals and foster a long-term focus. A large number of separate programs, unrealistic timelines, and
+frequent changes in funding priorities and leadership can undermine reform efforts.
+The Student Success Act provides a foundation for state leaders to support and build on. However, our
+audits have identified three governance stability challenges that could reduce performance
+improvements under the act:
+Multiple programs. The large number of programs that ODE administers, some funded by grants that
+come and go, adds substantial volatility to agency operations, makes it harder for ODE to focus on top
+priorities, and contributes to a piecemeal approach to improving K-12 education. ODE administers more
+than 108 state and federal grants, with new grants and initiatives added each legislative session  —
+including 22 in the 2021 legislative session.12 With 197 school districts, and the possibility of working
+directly with some individual schools, programs, or consortia for different grant programs, this
+translates to thousands of grant agreements each year. The agency has separate teams working on
+many grants and plans, and our graduation rate audit found a lack of communication and  coordination
+between teams within the agency. ODE has also had limited input on how legislative initiatives can best
+fit into the agency’s existing structure. For several recent initiatives, including efforts to address
+chronic absenteeism, high school success, and English language learning, ODE set up new teams to
+manage them, increasing the potential for duplication and isolation. Our September 2021 follow -up of
+the ODE-PPS audit found ODE has made progress consolidating and streamlining some critical
+programs under a new Office of Education Innovation and Improvement, a promising step .
+Unrealistic timelines. Grant programs can drive significant improvements in the system, providing
+evidence of effective programs that can be scaled up statewide. However, Oregon’s two- year
+legislative cycle can prompt state leaders and policymakers to require reports on the performance of
+state grant programs and initiatives before they have time to show results. As a result, state grants
+come and go, giving them a "flavor of the month" cast that increases skepticism and instability.
+Education programs can take a year to implement and generally need at least five years to determine
+how well they work.
+Changes in priorities, leadership, and funding. Oregon’s governance system is structured to generate
+frequent change, particularly in high-profile programs such as education. The Governor, the
+Superintendent of Public Instruction under the Oregon Constitution, is limited to two consecutive
+terms. The Legislature meets each year, with a full session every two years.
+In 2017 alone, our high school graduation audit found, the Legislature passed 16 education -related
+policy measures, and considered another 23. ODE’s director, appointed by the Governor, turns over
+periodically, and turnover in some key ODE departments has been high. These frequent changes can
+reduce focus on long-term goals and investment results.
+12 Each legislative session also creates new processes for ODE and school districts to implement. In the 2021 session, according to
+ODE, 29 bills passed with new processes, such as notification requirements for harassment and bullying, oral health curriculum,
+and a State School Fund study and advisory committee.
+Oregon Secretary of State | Report 2022-16 | May 2022 | page 17
+Reversals and defunding have affected K-12 education programs over the years. The 2013
+establishment of the Oregon Education Investment Board led to a suite of strategic programs , including
+programs in early reading and connecting to work. But by 2017, just four years later, most of those
+strategic investments were repealed. ODE also has seen cuts in staffing for speci fic programs, including
+Division 22 staff, limiting oversight of state standards, and in staffing for oversight and support of
+academic content standards in the arts and world languages.
+In our judgment, the systemic lack of governance and funding stability contributed to the abandonment
+of the state’s three prior major K-12 improvement efforts. Similar rapid shifts in programs and
+reductions in funding for the Student Success Act — for programs under the act or for ODE’s capacity
+to monitor and support districts — could also undermine this latest reform effort. The Student Success
+Act is statutory, not constitutional, meaning future Legislatures can reduce or divert funding and
+change staffing and requirements.
+At this point, Oregon does not have a detailed road map of programs to improve K-12 education, which
+could help foster a longer-term focus on improving programs and managing investments already in
+place.
+Suggested leadership actions
+1. Support ODE in developing a comprehensive road map of programs to improve K-12 education
+that includes student populations served, funding, scale, district reporting requirements,
+performance measurement requirements, and performance expectations over time. Focus
+particularly on programs supporting struggling schools and vulnerable students.
+2. Use the road map to ensure new K-12 initiatives and requirements are aligned with existing
+ODE school improvement work, and track the number of new programs introduced each
+legislative session. This important step by the Governor and Legislature would help foster
+coordinated action at ODE, reduce duplication, and reduce administrative burdens on the
+agency and school districts.
+3. Require programs to have strong performance measurement plans and robust interim
+updates, then focus on incremental improvements, maintain adequate long-term funding, and
+allow time for meaningful analysis of results.
+Report Conclusion
+The Student Success Act increased Oregon’s investment in K-12 education to a level close to what is
+called for in the Quality Education Model. It also increased capacity at ODE for system oversight and
+district support, increasing the potential to substantially increase student success and close long-
+standing equity gaps. State leaders can help ensure Oregon meets these critical goals by steadily
+monitoring the risks outlined in this report and providing the support Oregon’s students need.
+Oregon Secretary of State | Report 2022-16 | May 2022 | page 18
+Appendix A: Audits and Follow-up Reports
+We reviewed the following audit and follow-up reports to identify key risks for this systemic risk
+report.
+Clearer Communication, Consistent Use of Results and an Ongoing Commitment to Improvement Could
+Help Address Testing Concerns
+Report 2016-21 (Sep 2016)
+The Oregon Department of Education Should Take Further Steps to Help Districts and High Schools
+Increase Oregon's Graduation Rate
+Report 2017-29 (Dec 2017)
+Stronger Accountability, Oversight, and Support Would Improve Results for Academically At -Risk
+Students in Alternative and Online Education
+Report 2017-30 (Dec 2017)
+Department of Education and Portland Public Schools: ODE and PPS Must Do More to Monitor Spending
+and Address Systemic Obstacles to Student Performance, Particularly at Struggling Schoo ls
+Report 2019-01 (Jan 2019)
+Recommendation Follow-up Report: Stronger Accountability, Oversight, and Support Would Improve
+Results for Academically At-Risk Students in Alternative and Online Education
+Report 2019-12 (Mar 2019)
+Recommendation Follow-up Report: The Oregon Department of Education Should Take Further Steps
+to Help Districts and High Schools Increase Oregon's Graduation Rate
+Report 2019-15 (Apr 2019)
+ODE Can Better Support Students Experiencing Disabilities Through Improved Coordination and
+Monitoring of Services
+Report 2020-24
+(Jun 2020)
+High School Success Planning Is Robust, but ODE Can Enhance Benefits of Measure 98 by Improving
+Monitoring and Analysis
+Report 2020-44
+(Dec 2020)
+Recommendation Follow-up Report: ODE Must Accelerate Efforts to Monitor Spending and Improve
+Initiatives to Help Vulnerable Students
+Report 2021-28 (Sep 2021)
+Recommendation Follow-up Report: Portland Public Schools has Made Progress, but Must Take Further
+Steps to Reduce Inequities at High-Poverty Schools
+Report 2022-10 (March 2022)
+This report is intended to promote the best possible management of public resources.
+Copies may be obtained from:
+Oregon Audits Division
+255 Capitol St NE, Suite 180
+Salem OR 97310
+(503) 986-2255
+audits.sos@oregon.gov
+sos.oregon.gov/audits

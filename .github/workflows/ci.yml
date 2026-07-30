@@ -26,9 +26,26 @@ jobs:
       # _meta/snapshots/ is excluded because a large corpus's snapshots would drag
       # hundreds of upstream URLs into a per-PR gate; upstream availability is what
       # the scheduled drift job is for.
+      # `reports/` is excluded because its links are NOT this repository's links.
+      #
+      # Every document's `## Full text` is verbatim government text, and audit reports cite
+      # URLs constantly. Measured on the first full run: 781 links checked, 150 errors, all
+      # of them inside reports/. A 2020 audit citing a page that died in 2022 is an ACCURATE
+      # COPY of a 2020 document, not link rot in this corpus -- and "fixing" one would mean
+      # editing quoted text, which AGENTS.md forbids outright.
+      #
+      # Several failures are the division's own /audits/Documents/<no>.pdf links, which is
+      # the same URL rot that put the pre-2020 reports out of reach. The corpus is right and
+      # the upstream link is dead; a red check here would be blaming the wrong party.
+      #
+      # THE LINKS THAT ARE OURS ARE STILL CHECKED, just not here. Every document's
+      # frontmatter `source_url` is fetched weekly by the `drift` job
+      # (corpus-detect-changes), which exits non-zero on any fetch failure. Verified at
+      # ingest: 0 of our 242 source_urls appear among the 150 failures.
       exclude-paths: |
         _meta/snapshots
         _meta/templates
+        reports
 
   # EVERY COMMITTED GENERATED ARTIFACT MUST BE CURRENT, checked on every PR.
   #

@@ -131,6 +131,14 @@ PR. See toolkit `docs/replication-guide.md`.
 |---|---|---|
 | `_meta/graph.json` | `src/build_graph.py` | `generated` job, every PR |
 | `STATUS.md` | `corpus-generate-status` | `generated` job, every PR (plus a weekly repair in the `drift` job) |
+| `_meta/source-manifest.yml` | `src/enumerate_audits.py` | `manifest-complete` job, **weekly, not per-PR** |
+
+`source-manifest.yml` is checked weekly rather than on every PR, and that is deliberate. The
+other two derive from **repo content** — deterministic, offline, and a PR is exactly what
+invalidates them. The manifest derives from **upstream**: the Audits Division publishes on its
+own schedule, so it goes stale for reasons no PR caused and no PR can fix. Gating merges on it
+would fail unrelated PRs whenever an audit was published, and put a network call on the critical
+path of every merge. Both train an operator to ignore a red check.
 
 Regenerate at the source and commit the result.
 

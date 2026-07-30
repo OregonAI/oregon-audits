@@ -1,27 +1,3536 @@
-# Every upstream source this corpus consumes. Human-approved via PR BEFORE any
-# ingestion (review gate #1).
-#
-# WHICH KEYS THE TOOLKIT ACTUALLY READS (corpus_toolkit/sources/changes.py):
-#   url     REQUIRED. Missing it raises KeyError mid-run, not a clean error.
-#   format  Strongly recommended. Without it the format is INFERRED FROM THE URL
-#           EXTENSION — and an extensionless URL that actually serves a PDF is
-#           inferred as html, so drift detection runs an HTML-to-text converter
-#           over PDF bytes and reports a change EVERY RUN, FOREVER. Declare it
-#           whenever the URL does not end in a real extension.
-#   id      Used to name the snapshot and report which source drifted.
-#
-# Everything else below is for humans and for this repo's own ingester; the
-# toolkit ignores it. That is fine — record what your reviewers need.
-#
-# sources:
-#   - id: ""                # -> _meta/snapshots/<id>.<format>
-#     url: ""               # REQUIRED
-#     format: pdf           # html | pdf | json | xlsx | ... declare it explicitly
-#     citation: ""
-#     title: ""
-#     doc_type: ""
-#     recheck: monthly | quarterly | annual | biennial
-#     sha256: ""            # filled at first fetch
-#     why_relevant: ""
-#     references_out: []
-sources: []
+note: "Every upstream source this corpus consumes. Human-approved via PR BEFORE any\ningestion. GENERATED\
+  \ by src/enumerate_audits.py — do not hand-edit; re-run it.\n\nSource: the SharePoint list behind sos.oregon.gov/audits/pages/state-audits.aspx,\n\
+  which renders nothing server-side. The list is captioned by the division itself as\n'State Audits and\
+  \ Reviews 2020 to present', which is why this corpus floors at 2020.\n\nTraps recorded so a future re-enumeration\
+  \ does not fall into them:\n1. The search page's HTML carries a fresh __VIEWSTATE per request, so its\
+  \ bytes are\n   never stable. Compare the extracted RECORD SET, never the page.\n2. hrefs inside Additional_x0020_Documents\
+  \ are entity-escaped (`https&#58;//`).\n   Unescape them or every URL 404s in a way that looks exactly\
+  \ like link rot.\n3. Report numbers are NOT dense. A gap can be a withdrawal under GAGAS 3.34 — one\n\
+  \   really is — so every gap is listed below with a reason rather than skipped.\n4. `format: html` is\
+  \ deliberate and is NOT a mistake: these URLs serve an HTML\n   viewer with the PDF base64-encoded inside\
+  \ a <script>. Declaring `pdf` would run\n   pdftotext over HTML.\n"
+index: https://sos.oregon.gov/audits/pages/state-audits.aspx
+list_api: https://sos.oregon.gov/audits/_api/web/lists/getbytitle('Audit%20Search')/items?$top=500
+recheck: annual
+coverage:
+  floor: 2020 — the upstream list does not go earlier
+  in_scope: numbered audit reports (Report No. YYYY-NN)
+  out_of_scope: unnumbered per-agency financial attestation rows, and municipal/local-government filings
+numbering_gaps:
+- '2023-15: Report No. 2023-15 removed in accordance with GAGAS 3.34'
+- '2023-16: not present in the Audit Search list'
+- '2025-09: not present in the Audit Search list'
+anomalies:
+- '2024-27: appears on more than one list row (''The Oregon Eligibility System Appropriat'' / ''The Oregon
+  Eligibility System Appropriat'')'
+- '2024-28: appears on more than one list row (''Licensing and Registration System Accura'' / ''Licensing
+  and Registration System Accura'')'
+- '2020-43: appears on more than one list row (''By Appropriately Administering Measure 7'' / ''By Appropriately
+  Administering Measure 7'')'
+- '2020-21: appears on more than one list row (''Oregon Should Improve Child Safety by St'' / ''Oregon
+  Should Improve Child Safety by St'')'
+- '2020-21: appears on more than one list row (''Oregon Should Improve Child Safety by St'' / ''Oregon
+  Should Improve Child Safety by St'')'
+- '2020-05: appears on more than one list row ("Using the U.S. Treasury''s Do Not Pay Sys" / "Using the
+  U.S. Treasury''s Do Not Pay Sys")'
+sources:
+- id: 2020-01
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7132832
+  format: html
+  citation: Report No. 2020-01
+  title: Oregon's Child Welfare Information System Is Adequate for Case Management, but Enhancements Are
+    Needed to Improve Usability
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Human Services, Department of
+  report_year: '2020'
+  report_month: 02 - February
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2020-02
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7132927
+  format: html
+  citation: Report No. 2020-02
+  title: 2020-21 Audit Plan
+  doc_type: audit_report
+  audit_type: informational
+  audited_agency: Secretary of State Audits Division
+  report_year: '2020'
+  report_month: 02 - February
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2020-03
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7182519
+  format: html
+  citation: Report No. 2020-03
+  title: Travel Oregon Should Strengthen Controls over Contracting and Improve Accountability of Compensation
+    to Inform Decision Makers
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Tourism Commission, Oregon
+  report_year: '2020'
+  report_month: 02 - February
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2020-04
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7182520
+  format: html
+  citation: Report No. 2020-04
+  title: Oregon Health Insurance Marketplace Fiscal Year 2019 Compliance
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Consumer and Business Services, Department of
+  report_year: '2020'
+  report_month: 02 - February
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2020-05
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7182524
+  format: html
+  citation: Report No. 2020-05
+  title: Using the U.S. Treasury's Do Not Pay System for Health and Human Services Programs Will Save
+    Taxpayers Money
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Health Authority, Oregon
+  report_year: '2020'
+  report_month: 02 - February
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2020-06
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7182525
+  format: html
+  citation: Report No. 2020-06
+  title: Oregon Health Insurance Marketplace Financial Statements For the Fiscal Year Ended June 30, 2019
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Consumer and Business Services, Department of
+  report_year: '2020'
+  report_month: 02 - February
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2020-07
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7182849
+  format: html
+  citation: Report No. 2020-07
+  title: 'Oregon Municipal Corporations: Summary of Fiscal Year 2018 Financial Reporting'
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Secretary of State Audits Division
+  report_year: '2020'
+  report_month: 02 - February
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2020-08
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7182850
+  format: html
+  citation: Report No. 2020-08
+  title: Audit of Pension Schedule of Employer Allocations and Pension Amounts by Employer for the Year
+    Ended June 30, 2019, Contract Audit
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Public Employees Retirement System
+  report_year: '2020'
+  report_month: 02 - February
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2020-09
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7182851
+  format: html
+  citation: Report No. 2020-09
+  title: Audit of RHIPA Schedule of OPEB Amounts for the Year Ended June 30, 2019, Contract Audit
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Public Employees Retirement System
+  report_year: '2020'
+  report_month: 02 - February
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2020-10
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7182852
+  format: html
+  citation: Report No. 2020-10
+  title: Audit of RHIA Schedule of Employer Allocations and OPEB Amounts by Employer for the Year Ended
+    June 30, 2019, Contract Audit
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Public Employees Retirement System
+  report_year: '2020'
+  report_month: 02 - February
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2020-11
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7227892
+  format: html
+  citation: Report No. 2020-11
+  title: DAS Should Build on Recent Enhancements and Further Improve the Facility Planning Process to
+    Better Inform Investments in State Facilities
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Administrative Services, Department of
+  report_year: '2020'
+  report_month: 03 - March
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2020-12
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7278875
+  format: html
+  citation: Report No. 2020-12
+  title: 'Recommendation Follow-up Report: Progress Made, but Pension Reform Delayed Implementation of
+    Some Recommendations'
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Public Employees Retirement System
+  report_year: '2020'
+  report_month: 03 - March
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2020-13
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7227903
+  format: html
+  citation: Report No. 2020-13
+  title: Special Public Works Fund and Water Fund for the Fiscal Year Ended June 30, 2019
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Business Development Department, Oregon
+  report_year: '2020'
+  report_month: 03 - March
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2020-14
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7227904
+  format: html
+  citation: Report No. 2020-14
+  title: State of Oregon Statewide Single Audit Report for Fiscal Year 2019
+  doc_type: audit_report
+  audit_type: statewide single audit
+  audited_agency: Multi-Agency
+  report_year: '2020'
+  report_month: 03 - March
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2020-15
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7227905
+  format: html
+  citation: Report No. 2020-15
+  title: Small Scale Energy Loan Program For the Year Ended June 30, 2019
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Energy, Oregon Department of
+  report_year: '2020'
+  report_month: 03 - March
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2020-16
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7227926
+  format: html
+  citation: Report No. 2020-16
+  title: 'Recommendation Follow-up Report: Security at the Data Center Continues to Improve, but More
+    Work Remains to Address Weaknesses'
+  doc_type: audit_report
+  audit_type: information technology
+  audited_agency: Administrative Services, Department of
+  report_year: '2020'
+  report_month: 04 - April
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2020-17
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7227948
+  format: html
+  citation: Report No. 2020-17
+  title: Cybersecurity Controls Audit
+  doc_type: audit_report
+  audit_type: information technology
+  audited_agency: Police, Department of Oregon
+  report_year: '2020'
+  report_month: 05 - May
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2020-18
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7359556
+  format: html
+  citation: Report No. 2020-18
+  title: 'Recommendation Follow-up Report: While Work Remains, the State Is on Track to Modernize Procurement
+    Systems and Practices'
+  doc_type: audit_report
+  audit_type: information technology
+  audited_agency: Administrative Services, Department of
+  report_year: '2020'
+  report_month: 05 - May
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2020-19
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7359563
+  format: html
+  citation: Report No. 2020-19
+  title: Government Waste Hotline January to December 2019
+  doc_type: audit_report
+  audit_type: hotline
+  audited_agency: Government Accountability Hotline
+  report_year: '2020'
+  report_month: 05 - May
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2020-20
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7359562
+  format: html
+  citation: Report No. 2020-20
+  title: High School Graduation and College and Career Readiness Fund Annual Financial Report For Fiscal
+    Year Ended June 30, 2019
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Education, Oregon Department of
+  report_year: '2020'
+  report_month: 05 - May
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2020-21
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7359565
+  format: html
+  citation: Report No. 2020-21
+  title: Oregon Should Improve Child Safety by Strengthening Child Care Background Checks and the State'
+    Sex Offender Registry
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Education, Oregon Department of
+  report_year: '2020'
+  report_month: 06 - June
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2020-22
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7359852
+  format: html
+  citation: Report No. 2020-22
+  title: DOJ Should Strengthen Performance Management to Optimize Contract Review Services
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Justice, Oregon Department of
+  report_year: '2020'
+  report_month: 06 - June
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2020-23
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7359853
+  format: html
+  citation: Report No. 2020-23
+  title: Keeping Oregon Accountable Fiscal Year 2019
+  doc_type: audit_report
+  audit_type: informational
+  audited_agency: Secretary of State Audits Division
+  report_year: '2020'
+  report_month: 06 - June
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2020-24
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7359912
+  format: html
+  citation: Report No. 2020-24
+  title: ODE Can Better Support Students Experiencing Disabilities Through Improved Coordination and Monitoring
+    of Services
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Education, Oregon Department of
+  report_year: '2020'
+  report_month: 06 - June
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2020-25
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7359913
+  format: html
+  citation: Report No. 2020-25
+  title: Clean Water State Revolving Fund Loan Program For the Fiscal Year Ended June 30, 2019
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Environmental Quality, Department of
+  report_year: '2020'
+  report_month: 06 - June
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2020-26
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7359951
+  format: html
+  citation: Report No. 2020-26
+  title: Oregon Can More Effectively Use Family Services to Limit Foster Care and Keep Children Safely
+    at Home
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Human Services, Department of
+  report_year: '2020'
+  report_month: 07 - July
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2020-27
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7519801
+  format: html
+  citation: Report No. 2020-27
+  title: Financial Statements-Statutory Basis as of and for the Years Ended December 31, 2019 and 2018,
+    Supplementary Schedules as of December 31, 2019, and Report of Independent Auditors, Contract Audit
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: SAIF Corporation
+  report_year: '2020'
+  report_month: 08 - August
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2020-28
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7519802
+  format: html
+  citation: Report No. 2020-28
+  title: Financial Statements and Supplementary Schedules as of and for the Years Ended December 31, 2019
+    and 2018, and Report of Independent Auditors, Contract Audit
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: SAIF Corporation
+  report_year: '2020'
+  report_month: 08 - August
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2020-29
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7519833
+  format: html
+  citation: Report No. 2020-29
+  title: ODOT Oversees a Robust Project Delivery Process, yet Opportunities Exist to Further Improve Work
+    Zone Safety
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Transportation, Oregon Department of
+  report_year: '2020'
+  report_month: 09 - September
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2020-30
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7519834
+  format: html
+  citation: Report No. 2020-30
+  title: Oregon Local Government Intermediate Fund An Investment Pool of the State of Oregon For the Year
+    Ended June 30, 2020
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Treasurer, Office of the State
+  report_year: '2020'
+  report_month: 09 - September
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2020-31
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7519835
+  format: html
+  citation: Report No. 2020-31
+  title: Oregon Short Term Fund An Investment Pool of the State of Oregon For the Year Ended June 30,
+    2020
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Treasurer, Office of the State
+  report_year: '2020'
+  report_month: 09 - September
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2020-32
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7555866
+  format: html
+  citation: Report No. 2020-32
+  title: Chronic and Systemic Issues in Oregon' Mental Health Treatment System Leave Children and Their
+    Families in Crisis
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Health Authority, Oregon
+  report_year: '2020'
+  report_month: 09 - September
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2020-33
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7589752
+  format: html
+  citation: Report No. 2020-33
+  title: Oregon Intermediate Term Pool An Investment Pool of the State of Oregon For the Year Ended June
+    30, 2020
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Treasurer, Office of the State
+  report_year: '2020'
+  report_month: 10 - October
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2020-34
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7589766
+  format: html
+  citation: Report No. 2020-34
+  title: DAS Needs to Provide Oversight to Improve Investigations of Workplace Discrimination and Harassment
+    at State Agencies
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Administrative Services, Department of
+  report_year: '2020'
+  report_month: 10 - October
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2020-35
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7589791
+  format: html
+  citation: Report No. 2020-35
+  title: Veterans' Loan Program Annual Financial Report Enterprise Fund for the Fiscal Year Ended June
+    30, 2020
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Veterans' Affairs, Department of
+  report_year: '2020'
+  report_month: 10 - October
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2020-36
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7589849
+  format: html
+  citation: Report No. 2020-36
+  title: Oregon Has an Opportunity to Modernize Groundbreaking Bottle Bill on Its 50th Anniversary
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Liquor Control Commission, Oregon
+  report_year: '2020'
+  report_month: 11 - November
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2020-37
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7672528
+  format: html
+  citation: Report No. 2020-37
+  title: Enterprise Information Services The State Does Not Have A Privacy Program to Manage Enterprise
+    Data Privacy Risk
+  doc_type: audit_report
+  audit_type: information technology
+  audited_agency: Administrative Services, Department of
+  report_year: '2020'
+  report_month: 11 - November
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2020-38
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7672531
+  format: html
+  citation: Report No. 2020-38
+  title: Annual Financial Report Enterprise Funds of the State of Oregon For the Year Ended June 30, 2020
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Housing and Community Services Department
+  report_year: '2020'
+  report_month: 11 - November
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2020-39
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7672533
+  format: html
+  citation: Report No. 2020-39
+  title: 'Public Employees'' Benefit Board and the Oregon Educator'' Benefit Board: Efforts Have Helped
+    Limit Some Employee Health Care Costs, but PEBB and OEBB Can Do More to Manage Costs and Optimize
+    Benefits'
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Health Authority, Oregon
+  report_year: '2020'
+  report_month: 11 - November
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2020-40
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7672534
+  format: html
+  citation: Report No. 2020-40
+  title: July 1, 2019 through June 30, 2020
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Columbia River Gorge Commission
+  report_year: '2020'
+  report_month: 11 - November
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2020-41
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7672535
+  format: html
+  citation: Report No. 2020-41
+  title: Common School Fund Annual Financial Report For the Fiscal Year Ended June 30, 2020, Contract
+    Audit
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Lands, Department of State
+  report_year: '2020'
+  report_month: 12 - December
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2020-42
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7672536
+  format: html
+  citation: Report No. 2020-42
+  title: Comprehensive Annual Financial Report For the Fiscal Year Ended June 30, 2020, Contract Audit
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Public Employees Retirement System
+  report_year: '2020'
+  report_month: 12 - December
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2020-43
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7672537
+  format: html
+  citation: Report No. 2020-43
+  title: By Appropriately Administering Measure 76 Funds, Oregon Is Advancing Constitutional Goals for
+    State Parks and Natural Resources
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Parks and Recreation Department, Oregon
+  report_year: '2020'
+  report_month: 12 - December
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2020-44
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7672699
+  format: html
+  citation: Report No. 2020-44
+  title: High School Success Planning Is Robust, but ODE Can Enhance Benefits of Measure 98 by Improving
+    Monitoring and Analysis
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Education, Oregon Department of
+  report_year: '2020'
+  report_month: 12 - December
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2020-45
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7672700
+  format: html
+  citation: Report No. 2020-45
+  title: Comprehensive Annual Financial Report Enterprise Fund For the Fiscal Year Ended June 30, 2020
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Lottery Commission, Oregon State
+  report_year: '2020'
+  report_month: 12 - December
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2020-46
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7672729
+  format: html
+  citation: Report No. 2020-46
+  title: The Board Should Ensure Facility Inspections Be Performed and Strengthen Controls over Financial
+    Processes
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Mortuary and Cemetery Board, State
+  report_year: '2020'
+  report_month: 12 - December
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2021-01
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7795224
+  format: html
+  citation: Report No. 2021-01
+  title: 2021-22 Audit Plan
+  doc_type: audit_report
+  audit_type: informational
+  audited_agency: Secretary of State Audits Division
+  report_year: '2021'
+  report_month: 02 - February
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2021-02
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7795225
+  format: html
+  citation: Report No. 2021-02
+  title: Oregon Health Insurance Marketplace Financial Statements For the Fiscal Year Ended June 30, 2020
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Consumer and Business Services, Department of
+  report_year: '2021'
+  report_month: 02 - February
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2021-03
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7795226
+  format: html
+  citation: Report No. 2021-03
+  title: Oregon Health Insurance Marketplace Fiscal Year 2020 Compliance
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Consumer and Business Services, Department of
+  report_year: '2021'
+  report_month: 02 - February
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2021-04
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7795235
+  format: html
+  citation: Report No. 2021-04
+  title: Comprehensive Annual Financial Report For the Fiscal Year Ended June 30, 2020
+  doc_type: audit_report
+  audit_type: annual comprehensive financial report
+  audited_agency: Multi-Agency
+  report_year: '2021'
+  report_month: 02 - February
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2021-05
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7795236
+  format: html
+  citation: Report No. 2021-05
+  title: 'Oregon Municipal Corporations: Summary of Fiscal Year 2019 Financial Reporting'
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Secretary of State Audits Division
+  report_year: '2021'
+  report_month: 02 - February
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2021-06
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7795247
+  format: html
+  citation: Report No. 2021-06
+  title: Audit of Pension Schedule of Employer Allocations and Pension Amounts by Employer for the Year
+    Ended June 30, 2020, Contract Audit
+  doc_type: audit_report
+  audit_type: null
+  audited_agency: Public Employees Retirement System
+  report_year: '2021'
+  report_month: 03 - March
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2021-07
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7795248
+  format: html
+  citation: Report No. 2021-07
+  title: Audit of RHIA Schedule of Employer Allocations and OPEB Amounts by Employer for the Year Ended
+    June 30, 2020, Contract Audit
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Public Employees Retirement System
+  report_year: '2021'
+  report_month: 03 - March
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2021-08
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7795249
+  format: html
+  citation: Report No. 2021-08
+  title: Audit of RHIPA Schedule of OPEB Amounts for the Year Ended June 30, 2020, Contract Audit
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Public Employees Retirement System
+  report_year: '2021'
+  report_month: 03 - March
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2021-09
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7795356
+  format: html
+  citation: Report No. 2021-09
+  title: 'Advisory Report: Oregon Can Take More Steps to Reduce Infections in Long-Term Care Facilities
+    from COVID-19 and Other Communicable Diseases'
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Secretary of State Audits Division
+  report_year: '2021'
+  report_month: 03 - March
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2021-10
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7795360
+  format: html
+  citation: Report No. 2021-10
+  title: Special Public Works Fund and Water Fund for the Fiscal Year Ended June 30, 2020
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Business Development Department, Oregon
+  report_year: '2021'
+  report_month: 04 - April
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2021-11
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7969413
+  format: html
+  citation: Report No. 2021-11
+  title: Small Scale Energy Loan Program For the Year Ended June 30, 2020
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Energy, Oregon Department of
+  report_year: '2021'
+  report_month: 04 - April
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2021-12
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7971951
+  format: html
+  citation: Report No. 2021-12
+  title: Cybersecurity Controls Audit
+  doc_type: audit_report
+  audit_type: information technology
+  audited_agency: Treasurer, Office of the State
+  report_year: '2021'
+  report_month: 04 - April
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2021-13
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8000289
+  format: html
+  citation: Report No. 2021-13
+  title: Oregon Statewide Single Audit for Fiscal Year 2020
+  doc_type: audit_report
+  audit_type: statewide single audit
+  audited_agency: Multi-Agency
+  report_year: '2021'
+  report_month: 04 - April
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2021-14
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8011097
+  format: html
+  citation: Report No. 2021-14
+  title: Oregon' Ethics Commission and Laws Could Be Better Leveraged to Improve Ethical Culture and Trust
+    in Government
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Oregon Government Ethics Commission
+  report_year: '2021'
+  report_month: 05 - May
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2021-15
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8028928
+  format: html
+  citation: Report No. 2021-15
+  title: Clean Water State Revolving Fund Loan Program For the Fiscal Year Ended June 30, 2020
+  doc_type: audit_report
+  audit_type: null
+  audited_agency: Environmental Quality, Department of
+  report_year: '2021'
+  report_month: 05 - May
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2021-16
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8039546
+  format: html
+  citation: Report No. 2021-16
+  title: Safe Drinking Water Revolving Loan Fund For Fiscal Year Ended June 30, 2020
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Health Authority, Oregon
+  report_year: '2021'
+  report_month: 05 - May
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2021-17
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8053194
+  format: html
+  citation: Report No. 2021-17
+  title: 'Recommendation Follow-up Report: Progress Has Been Made, but COVID-19 Delayed Some Efforts to
+    Improve State Budget Transparency'
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Administrative Services, Department of
+  report_year: '2021'
+  report_month: 05 - May
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2021-18
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8062811
+  format: html
+  citation: Report No. 2021-18
+  title: Government Waste Hotline for Calendar Year 2020
+  doc_type: audit_report
+  audit_type: hotline
+  audited_agency: Government Accountability Hotline
+  report_year: '2021'
+  report_month: 06 - June
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2021-19
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8075417
+  format: html
+  citation: Report No. 2021-19
+  title: Keeping Oregon Accountable Fiscal Year 2020
+  doc_type: audit_report
+  audit_type: informational
+  audited_agency: Secretary of State Audits Division
+  report_year: '2021'
+  report_month: 06 - June
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2021-20
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8097516
+  format: html
+  citation: Report No. 2021-20
+  title: State of Oregon 2020 Financial Condition Report
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Multi-Agency
+  report_year: '2021'
+  report_month: 06 - June
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2021-21
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8172687
+  format: html
+  citation: Report No. 2021-21
+  title: OFRI' Statute Undermines its Public Benefit and the State Agency is Not Transparent About its
+    Statutory Mandate to Support the Industry
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Forest Resources Institute, Oregon
+  report_year: '2021'
+  report_month: 07 - July
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2021-22
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8166938
+  format: html
+  citation: Report No. 2021-22
+  title: Financial Statements—Statutory Basis as of and for the Years Ended December 31, 2020 and 2019,
+    Supplementary Schedules as of December 31, 2020, and Report of Independent Auditors
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: SAIF Corporation
+  report_year: '2021'
+  report_month: 08 - August
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2021-23
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8166939
+  format: html
+  citation: Report No. 2021-23
+  title: Financial Statements and Supplementary Schedules as of and for the Years Ended December 31, 2020
+    and 2019, and Report of Independent Auditors
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: SAIF Corporation
+  report_year: '2021'
+  report_month: 08 - August
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2021-24
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8214465
+  format: html
+  citation: Report No. 2021-24
+  title: Developmental Disabilities Leadership is Proactively Addressing Program Challenges to Ensure
+    Optimal Service Delivery
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Human Services, Department of
+  report_year: '2021'
+  report_month: 08 - August
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2021-25
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8226892
+  format: html
+  citation: Report No. 2021-25
+  title: Enterprise Information Services Has Established an IT Governance Framework but Must Do More Regarding
+    Cybersecurity Management
+  doc_type: audit_report
+  audit_type: information technology
+  audited_agency: Administrative Services, Department of
+  report_year: '2021'
+  report_month: 09 - September
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2021-26
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8230495
+  format: html
+  citation: Report No. 2021-26
+  title: Oregon Local Government Intermediate Fund An Investment Pool of the State of Oregon For the Year
+    Ended June 30, 2021
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Treasurer, Office of the State
+  report_year: '2021'
+  report_month: 09 - September
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2021-27
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8242020
+  format: html
+  citation: Report No. 2021-27
+  title: Oregon Short Term Fund An Investment Pool of the State of Oregon For the Year Ended June 30,
+    2021
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Treasurer, Office of the State
+  report_year: '2021'
+  report_month: 09 - September
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2021-28
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8310347
+  format: html
+  citation: Report No. 2021-28
+  title: 'Recommendation Follow-up Report: ODE Must Accelerate Efforts to Monitor Spending and Improve
+    Initiatives to Help Vulnerable Students'
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Education, Oregon Department of
+  report_year: '2021'
+  report_month: 09 - September
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2021-29
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8327840
+  format: html
+  citation: Report No. 2021-29
+  title: Oregon Intermediate Term Pool An Investment Pool of the State of Oregon For the Year Ended June
+    30, 2021
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Treasurer, Office of the State
+  report_year: '2021'
+  report_month: 10 - October
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2021-30
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8355669
+  format: html
+  citation: Report No. 2021-30
+  title: 'Advisory Report: ODOT Worked Quickly to Oversee the Largest Wildfire Debris Removal Operation
+    in State History'
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Transportation, Oregon Department of
+  report_year: '2021'
+  report_month: 10 - October
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2021-31
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8393399
+  format: html
+  citation: Report No. 2021-31
+  title: Cybersecurity Controls Audit
+  doc_type: audit_report
+  audit_type: information technology
+  audited_agency: Consumer and Business Services, Department of
+  report_year: '2021'
+  report_month: 11 - November
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2021-32
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8394487
+  format: html
+  citation: Report No. 2021-32
+  title: Opportunities Exist to Improve Web Application Security and Tracking of Website Accessibility
+    Remediation Efforts
+  doc_type: audit_report
+  audit_type: information technology
+  audited_agency: Education, Oregon Department of
+  report_year: '2021'
+  report_month: 11 - November
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2021-33
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8406240
+  format: html
+  citation: Report No. 2021-33
+  title: Annual Financial Report Enterprise Funds of the State of Oregon For the Year Ended June 30, 2021
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Housing and Community Services Department
+  report_year: '2021'
+  report_month: 11 - November
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2021-34
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8407921
+  format: html
+  citation: Report No. 2021-34
+  title: Common School Fund Annual Financial Report For the Fiscal Year Ended June 30, 2021
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Lands, Department of State
+  report_year: '2021'
+  report_month: 11 - November
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2021-35
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8427032
+  format: html
+  citation: Report No. 2021-35
+  title: Additional Resources Needed to Strengthen Police Training and Accountability
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Public Safety Standards and Training, Department of
+  report_year: '2021'
+  report_month: 12 - December
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2021-36
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8429227
+  format: html
+  citation: Report No. 2021-36
+  title: Veterans' Loan Program Annual Financial Report Enterprise Fund for the Fiscal Year Ended June
+    30, 2021
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Veterans' Affairs, Department of
+  report_year: '2021'
+  report_month: 12 - December
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2021-37
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8457557
+  format: html
+  citation: Report No. 2021-37
+  title: Timely Notification of Inpatient Hospital Stays Could Help Reduce Improper Medicaid Payments
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Health Authority, Oregon
+  report_year: '2021'
+  report_month: 12 - December
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2021-38
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8463620
+  format: html
+  citation: Report No. 2021-38
+  title: July 1, 2020 through June 30, 2021
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Columbia River Gorge Commission
+  report_year: '2021'
+  report_month: 12 - December
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2021-39
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8463621
+  format: html
+  citation: Report No. 2021-39
+  title: Annual Comprehensive Financial Report For the Fiscal Year Ended June 30, 2021
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Public Employees Retirement System
+  report_year: '2021'
+  report_month: 12 - December
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2022-01
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8505006
+  format: html
+  citation: Report No. 2022-01
+  title: Annual Financial Report Enterprise Funds For the Year Ended June 30, 2021
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Lottery Commission, Oregon State
+  report_year: '2022'
+  report_month: 01 - January
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2022-02
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8510062
+  format: html
+  citation: Report No. 2022-02
+  title: Additional Data Analytics Could Better Determine Trooper Staffing Levels and Resource Needs
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Police, Department of Oregon
+  report_year: '2022'
+  report_month: 01 - January
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2022-03
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8541904
+  format: html
+  citation: Report No. 2022-03
+  title: Oregon Annual Comprehensive Financial Report For the Fiscal Year Ended June 30, 2021
+  doc_type: audit_report
+  audit_type: annual comprehensive financial report
+  audited_agency: Multi-Agency
+  report_year: '2022'
+  report_month: 02 - February
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2022-04
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8562228
+  format: html
+  citation: Report No. 2022-04
+  title: 2022-23 Audit Plan
+  doc_type: audit_report
+  audit_type: null
+  audited_agency: Secretary of State Audits Division
+  report_year: '2022'
+  report_month: 02 - February
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2022-05
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8607228
+  format: html
+  citation: Report No. 2022-05
+  title: 'Oregon Municipal Corporations: Summary of Fiscal Year 2020 Financial Reporting'
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Secretary of State Audits Division
+  report_year: '2022'
+  report_month: 03 - March
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2022-06
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8601753
+  format: html
+  citation: Report No. 2022-06
+  title: Agreed Upon Procedures Report for the Biennium Ended June 30, 2021
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Patient Safety Commission, Oregon
+  report_year: '2022'
+  report_month: 02 - February
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2022-07
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8604120
+  format: html
+  citation: Report No. 2022-07
+  title: Audit of Pension Schedule of Employer Allocations and Pension Amounts by Employer for the Year
+    Ended June 30, 2021
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Public Employees Retirement System
+  report_year: '2022'
+  report_month: 03 - March
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2022-08
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8604121
+  format: html
+  citation: Report No. 2022-08
+  title: Audit of RHIPA Schedule of OPEB Amounts for the Year Ended June 30, 2021
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Public Employees Retirement System
+  report_year: '2022'
+  report_month: 03 - March
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2022-09
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8604122
+  format: html
+  citation: Report No. 2022-09
+  title: Audit of RHIA Schedule of Employer Allocations and OPEB Amounts by Employer for the Year Ended
+    June 30, 2021
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Public Employees Retirement System
+  report_year: '2022'
+  report_month: 03 - March
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2022-10
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8647614
+  format: html
+  citation: Report No. 2022-10
+  title: 'Recommendation Follow-up Report: PPS Has Made Progress, but Must Take Further Steps to Reduce
+    Inequities at High-Poverty Schools'
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Portland Public Schools
+  report_year: '2022'
+  report_month: 03 - March
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2022-11
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8670795
+  format: html
+  citation: Report No. 2022-11
+  title: Without Legislative Action the Mortgage Interest Deduction Will Remain Regressive and Inequitable
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Revenue, Department of
+  report_year: '2022'
+  report_month: 03 - March
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2022-12
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8693842
+  format: html
+  citation: Report No. 2022-12
+  title: 'Advisory Report: Oregon Can Do More to Mitigate the Alarming Risk of Domestic Terrorism and
+    Violent Extremist Attacks'
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Secretary of State Audits Division
+  report_year: '2022'
+  report_month: 03 - March
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2022-13
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8695473
+  format: html
+  citation: Report No. 2022-13
+  title: Small Scale Energy Loan Program For the Year Ended June 30, 2021
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Energy, Oregon Department of
+  report_year: '2022'
+  report_month: 03 - March
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2022-14
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8745552
+  format: html
+  citation: Report No. 2022-14
+  title: Oregon Health Insurance Marketplace Fiscal Year 2021 Compliance
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Consumer and Business Services, Department of
+  report_year: '2022'
+  report_month: 04 - April
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2022-15
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8770259
+  format: html
+  citation: Report No. 2022-15
+  title: Oregon Health Insurance Marketplace Financial Statements For the Fiscal Year Ended June 30, 2021
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Consumer and Business Services, Department of
+  report_year: '2022'
+  report_month: 05 - May
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2022-16
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8794669
+  format: html
+  citation: Report No. 2022-16
+  title: 'K-12 Education - Systemic Risk Report: State Leaders and Policymakers Must Address Persistent
+    System Risks to Improve K-12 Equity and Student Success'
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Education, Oregon Department of
+  report_year: '2022'
+  report_month: 05 - May
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2022-17
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8855400
+  format: html
+  citation: Report No. 2022-17
+  title: 'Recommendation Follow-up Report: Some Constraints Still Remain in Oregon''s Prescription Drug
+    Monitoring Program'
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Health Authority, Oregon
+  report_year: '2022'
+  report_month: 06 - June
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2022-18
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8864569
+  format: html
+  citation: Report No. 2022-18
+  title: State of Oregon Statewide Single Audit for Fiscal Year 2021
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Multi-Agency
+  report_year: '2022'
+  report_month: 07 - July
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2022-19
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8879001
+  format: html
+  citation: Report No. 2022-19
+  title: State Government Accountability Hotline Summary Report, Calendar Year 2021
+  doc_type: audit_report
+  audit_type: hotline
+  audited_agency: Government Accountability Hotline
+  report_year: '2022'
+  report_month: 07 - July
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2022-20
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8890915
+  format: html
+  citation: Report No. 2022-20
+  title: Cybersecurity Controls Audit
+  doc_type: audit_report
+  audit_type: information technology
+  audited_agency: Corrections, Department of
+  report_year: '2022'
+  report_month: 07 - July
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2022-21
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8903079
+  format: html
+  citation: Report No. 2022-21
+  title: The Pandemic' Effects on Oregonians Exposed Risks and Highlighted the Need to Modernize Oregon'
+    Unemployment Insurance System
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Employment, Oregon Department of
+  report_year: '2022'
+  report_month: 07 - July
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2022-22
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8916882
+  format: html
+  citation: Report No. 2022-22
+  title: Financial Statements—Statutory Basis as of and for the Years Ended December 31, 2021 and 2020,
+    Supplementary Schedules as of December 31, 2021, and Report of Independent Auditors
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: SAIF Corporation
+  report_year: '2022'
+  report_month: 08 - August
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2022-23
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8916903
+  format: html
+  citation: Report No. 2022-23
+  title: Financial Statements and Supplementary Schedules as of and for the Years Ended December 31, 2021
+    and 2020, and Report of Independent Auditors
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: SAIF Corporation
+  report_year: '2022'
+  report_month: 08 - August
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2022-24
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8938598
+  format: html
+  citation: Report No. 2022-24
+  title: High School Graduation and College and Career Readiness Fund Biennial Financial Report For Biennium
+    Ended June 30, 2021
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Education, Oregon Department of
+  report_year: '2022'
+  report_month: 08 - August
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2022-25
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8970031
+  format: html
+  citation: Report No. 2022-25
+  title: Oregon Local Government Intermediate Fund An Investment Pool of the State of Oregon For the Year
+    Ended June 30, 2022
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Treasurer, Office of the State
+  report_year: '2022'
+  report_month: 09 - September
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2022-26
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8970066
+  format: html
+  citation: Report No. 2022-26
+  title: Oregon Short Term Fund An Investment Pool of the State of Oregon For the Year Ended June 30,
+    2022
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Treasurer, Office of the State
+  report_year: '2022'
+  report_month: 09 - September
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2022-27
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8979827
+  format: html
+  citation: Report No. 2022-27
+  title: Keeping Oregon Accountable, Fiscal Year 2021
+  doc_type: audit_report
+  audit_type: informational
+  audited_agency: Secretary of State Audits Division
+  report_year: '2022'
+  report_month: 09 - September
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2022-28
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9013473
+  format: html
+  citation: Report No. 2022-28
+  title: Oregon Intermediate Term Pool An Investment Pool of the State of Oregon For the Year Ended June
+    30, 2022
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Treasurer, Office of the State
+  report_year: '2022'
+  report_month: 09 - September
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2022-29
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9078307
+  format: html
+  citation: Report No. 2022-29
+  title: Special Public Works Fund and Water Fund for the Fiscal Year Ended June 30, 2021
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Business Development Department, Oregon
+  report_year: '2022'
+  report_month: 11 - November
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2022-30
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9103105
+  format: html
+  citation: Report No. 2022-30
+  title: Common School Fund Annual Financial Report For the Fiscal Year Ended June 30, 2022
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Lands, Department of State
+  report_year: '2022'
+  report_month: 11 - November
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2022-31
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9118836
+  format: html
+  citation: Report No. 2022-31
+  title: Clean Water State Revolving Fund Loan Program For the Fiscal Year Ended June 30, 2021
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Environmental Quality, Department of
+  report_year: '2022'
+  report_month: 11 - November
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2022-32
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9121445
+  format: html
+  citation: Report No. 2022-32
+  title: Annual Financial Report Enterprise Funds of the State of Oregon For the Year Ended June 30, 2022
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Housing and Community Services Department
+  report_year: '2022'
+  report_month: 12 - December
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2022-33
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9128276
+  format: html
+  citation: Report No. 2022-33
+  title: ODE Continues to Effectively Implement Measure 98 and Increase Collaboration Across Agency Programs
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Education, Oregon Department of
+  report_year: '2022'
+  report_month: 12 - December
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2022-34
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9131925
+  format: html
+  citation: Report No. 2022-34
+  title: Independent Actuarial Review of PERS December 31, 2021 Actuarial Valuation
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Public Employees Retirement System
+  report_year: '2022'
+  report_month: 12 - December
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2022-35
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9254842
+  format: html
+  citation: Report No. 2022-35
+  title: Oregon Must Improve Community College Performance, Student Support, and Sustainability Amid Persistent
+    Enrollment Declines
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Higher Education Coordinating Commission
+  report_year: '2022'
+  report_month: 12 - December
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2022-36
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9170457
+  format: html
+  citation: Report No. 2022-36
+  title: Annual Comprehensive Financial Report For the Fiscal Year Ended June 30, 2022
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Public Employees Retirement System
+  report_year: '2022'
+  report_month: 12 - December
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2023-01
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9196572
+  format: html
+  citation: Report No. 2023-01
+  title: Annual Comprehensive Financial Report Enterprise Fund of the State of Oregon For the Fiscal Year
+    Ended June 30, 2022
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Lottery Commission, Oregon State
+  report_year: '2023'
+  report_month: 01 - January
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2023-02
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9198548
+  format: html
+  citation: Report No. 2023-02
+  title: The Oregon Broadband Office Must Continue to Take Aggressive Steps to Close the Digital Divide
+    and Fully Meet its Statutory Duties
+  doc_type: audit_report
+  audit_type: information technology
+  audited_agency: Business Development Department, Oregon
+  report_year: '2023'
+  report_month: 01 - January
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2023-03
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10595085
+  format: html
+  citation: Report No. 2023-03
+  title: 'Too Early to Tell: The Challenging Implementation of Measure 110 Has Increased Risks, but the
+    Effectiveness of the Program Has Yet to Be Determined'
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Health Authority, Oregon
+  report_year: '2023'
+  report_month: 01 - January
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2023-04
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9231213
+  format: html
+  citation: Report No. 2023-04
+  title: 'Advisory Report: State Leadership Must Take Action to Protect Water Security for All Oregonians'
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Secretary of State Audits Division
+  report_year: '2023'
+  report_month: 01 - January
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2023-05
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9254950
+  format: html
+  citation: Report No. 2023-05
+  title: Audit of Pension Schedule of Employer Allocations and Pension Amounts by Employer for the Year
+    Ended June 30, 2022
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Public Employees Retirement System
+  report_year: '2023'
+  report_month: 02 - February
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2023-06
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9254951
+  format: html
+  citation: Report No. 2023-06
+  title: Audit of RHIPA Schedule of OPEB Amounts for the Year Ended June 30, 2022
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Public Employees Retirement System
+  report_year: '2023'
+  report_month: 02 - February
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2023-07
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9254952
+  format: html
+  citation: Report No. 2023-07
+  title: Audit of RHIA Schedule of Employer Allocations and OPEB Amounts by Employer for the Year Ended
+    June 30, 2022
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Public Employees Retirement System
+  report_year: '2023'
+  report_month: 02 - February
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2023-08
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9287944
+  format: html
+  citation: Report No. 2023-08
+  title: 'Oregon Municipal Corporations: Summary of Fiscal Year 2021 Financial Reporting'
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Secretary of State Audits Division
+  report_year: '2023'
+  report_month: 02 - February
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2023-09
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9281763
+  format: html
+  citation: Report No. 2023-09
+  title: 2023-24 Audit Plan
+  doc_type: audit_report
+  audit_type: informational
+  audited_agency: Secretary of State Audits Division
+  report_year: '2023'
+  report_month: 02 - February
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2023-10
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9297408
+  format: html
+  citation: Report No. 2023-10
+  title: Veterans' Loan Program Annual Financial Report Enterprise Fund for the Fiscal Year Ending June
+    30, 2022
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Veterans' Affairs, Department of
+  report_year: '2023'
+  report_month: 02 - February
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2023-11
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9330940
+  format: html
+  citation: Report No. 2023-11
+  title: 'Advisory Report on Equal Pay: Oregon Must do More to Close Persistent Wage Gaps for Women and
+    People of Color in State Government'
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Secretary of State Audits Division
+  report_year: '2023'
+  report_month: 03 - March
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2023-12
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9333353
+  format: html
+  citation: Report No. 2023-12
+  title: Oregon Annual Comprehensive Financial Report For the Fiscal Year Ended June 30, 2022
+  doc_type: audit_report
+  audit_type: annual comprehensive financial report
+  audited_agency: Multi-Agency
+  report_year: '2023'
+  report_month: 03 - March
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2023-13
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9352529
+  format: html
+  citation: Report No. 2023-13
+  title: Small Scale Energy Loan Program For the Year Ended June 30, 2022
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Energy, Oregon Department of
+  report_year: '2023'
+  report_month: 03 - March
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2023-14
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9377923
+  format: html
+  citation: Report No. 2023-14
+  title: July 1, 2021 through June 30, 2022
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Columbia River Gorge Commission
+  report_year: '2023'
+  report_month: 04 - April
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2023-17
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9442147
+  format: html
+  citation: Report No. 2023-17
+  title: Special Public Works Fund and Water Fund Enterprise Funds For the Year Ended June 30, 2022
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Business Development Department, Oregon
+  report_year: '2023'
+  report_month: 05 - May
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2023-18
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9456712
+  format: html
+  citation: Report No. 2023-18
+  title: Oregon Health Insurance Marketplace Fiscal Year 2022 Compliance
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Health Authority, Oregon
+  report_year: '2023'
+  report_month: 05 - May
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2023-19
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9468402
+  format: html
+  citation: Report No. 2023-19
+  title: Oregon Health Insurance Marketplace Financial Statements For the Fiscal Year Ended June 30, 2022
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Health Authority, Oregon
+  report_year: '2023'
+  report_month: 05 - May
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2023-20
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9585434
+  format: html
+  citation: Report No. 2023-20
+  title: Safe Drinking Water Revolving Loan Fund Agreed Upon Procedures For Fiscal Years Ended June 30,
+    2021 and June 30, 2022
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Health Authority, Oregon
+  report_year: '2023'
+  report_month: 07 - July
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2023-21
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9589992
+  format: html
+  citation: Report No. 2023-21
+  title: Statewide Single Audit for Fiscal Year 2022
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Multi-Agency
+  report_year: '2023'
+  report_month: 07 - July
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2023-22
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9597969
+  format: html
+  citation: Report No. 2023-22
+  title: Financial Statements and Supplementary Schedules as of and for the Years Ended December 31, 2022
+    and 2021, and Report of Independent Auditors
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: SAIF Corporation
+  report_year: '2023'
+  report_month: 08 - August
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2023-23
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9597970
+  format: html
+  citation: Report No. 2023-23
+  title: Financial Statements—Statutory Basis as of and for the Years Ended December 31, 2022 and 2021,
+    Supplementary Schedules as of December 31, 2022, and Report of Independent Auditors
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: SAIF Corporation
+  report_year: '2023'
+  report_month: 08 - August
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2023-24
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9611939
+  format: html
+  citation: Report No. 2023-24
+  title: Uncertainty and Risk Remain After Gambling Industry Has Evolved Faster than State Law
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Racing Commission, Oregon
+  report_year: '2023'
+  report_month: 08 - August
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2023-25
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9774904
+  format: html
+  citation: Report No. 2023-25
+  title: Pharmacy Benefit Managers Poor Accountability and Transparency Harm Medicaid Patients and Independent
+    Pharmacies
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Health Authority, Oregon
+  report_year: '2023'
+  report_month: 08 - August
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2023-26
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9653549
+  format: html
+  citation: Report No. 2023-26
+  title: 'Advisory Report: Increased Awareness and Training Could Enhance the Effectiveness of Oregon''
+    Extreme Risk Protection Order Law'
+  doc_type: audit_report
+  audit_type: informational
+  audited_agency: Secretary of State Audits Division
+  report_year: '2023'
+  report_month: 08 - August
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2023-27
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9655455
+  format: html
+  citation: Report No. 2023-27
+  title: Oregon Short Term Fund An Investment Pool of the State of Oregon For the Year Ended June 30,
+    2023
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Treasurer, Office of the State
+  report_year: '2023'
+  report_month: 08 - August
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2023-28
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9655456
+  format: html
+  citation: Report No. 2023-28
+  title: Oregon Local Government Intermediate Fund An Investment Pool of the State of Oregon For the Year
+    Ended June 30, 2023
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Treasurer, Office of the State
+  report_year: '2023'
+  report_month: 08 - August
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2023-29
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9690849
+  format: html
+  citation: Report No. 2023-29
+  title: Keeping Oregon Accountable, Fiscal Year 2022
+  doc_type: audit_report
+  audit_type: informational
+  audited_agency: Secretary of State Audits Division
+  report_year: '2023'
+  report_month: 09 - September
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2023-30
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9704109
+  format: html
+  citation: Report No. 2023-30
+  title: Oregon Intermediate Term Pool An Investment Pool of the State of Oregon For the Year Ended June
+    30, 2023
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Treasurer, Office of the State
+  report_year: '2023'
+  report_month: 09 - September
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2023-31
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9759503
+  format: html
+  citation: Report No. 2023-31
+  title: 'Advisory Report: Breaking the Cycle: A Comprehensive Statewide Strategy Would Benefit Domestic
+    Violence Victims, Survivors, and Advocates'
+  doc_type: audit_report
+  audit_type: informational
+  audited_agency: Secretary of State Audits Division
+  report_year: '2023'
+  report_month: 10 - October
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2023-32
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9772536
+  format: html
+  citation: Report No. 2023-32
+  title: Veterans' Loan Program Annual Financial Report Enterprise Fund for the Fiscal Year Ending June
+    30, 2023
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Veterans' Affairs, Department of
+  report_year: '2023'
+  report_month: 11 - November
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2023-33
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9775783
+  format: html
+  citation: Report No. 2023-33
+  title: Common School Fund Annual Financial Report For the Fiscal Year Ended June 30, 2023
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Lands, Department of State
+  report_year: '2023'
+  report_month: 11 - November
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2023-34
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9787660
+  format: html
+  citation: Report No. 2023-34
+  title: State Government Accountability Hotline Summary Report for Calendar Year 2022
+  doc_type: audit_report
+  audit_type: hotline
+  audited_agency: Secretary of State Audits Division
+  report_year: '2023'
+  report_month: 11 - November
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2023-35
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9791144
+  format: html
+  citation: Report No. 2023-35
+  title: Annual Financial Report Enterprise Funds of the State of Oregon For the Year Ended June 30, 2023
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Housing and Community Services Department
+  report_year: '2023'
+  report_month: 11 - November
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2023-36
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9804732
+  format: html
+  citation: Report No. 2023-36
+  title: Annual Comprehensive Financial Report Enterprise Fund of the State of Oregon For the Fiscal Year
+    Ended June 30, 2023
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Lottery Commission, Oregon State
+  report_year: '2023'
+  report_month: 11 - November
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2023-37
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9828700
+  format: html
+  citation: Report No. 2023-37
+  title: Clean Water State Revolving Fund Loan Program For the Fiscal Year Ended June 30, 2022
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Environmental Quality, Department of
+  report_year: '2023'
+  report_month: 12 - December
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2023-38
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9830503
+  format: html
+  citation: Report No. 2023-38
+  title: Annual Comprehensive Financial Report For the Fiscal Year Ended June 30, 2023
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Public Employees Retirement System
+  report_year: '2023'
+  report_month: 12 - December
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2023-39
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9965133
+  format: html
+  citation: Report No. 2023-39
+  title: Oversight and Accountability Council Funding and Delivery of Measure 110 Substance Use Disorder
+    Services Shows Progress, but Significant Risks Remain
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Health Authority, Oregon
+  report_year: '2023'
+  report_month: 12 - December
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2024-01
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9877569
+  format: html
+  citation: Report No. 2024-01
+  title: OHCS Prioritized Providing Emergency Rental Assistance Funds to Oregonians in Crisis but Could
+    Have Done More to Ensure Funds Were Properly Distributed
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Housing and Community Services Department
+  report_year: '2024'
+  report_month: 01 - January
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2024-02
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9922791
+  format: html
+  citation: Report No. 2024-02
+  title: To Protect Patients and Maintain Public Trust, the Oregon Medical Board Should Further its Efforts
+    to Address the Risk of Inequitable Disciplinary Decisions
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Medical Board, Oregon
+  report_year: '2024'
+  report_month: 01 - January
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2024-03
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9936657
+  format: html
+  citation: Report No. 2024-03
+  title: Oregon Annual Comprehensive Financial Report For the Fiscal Year Ended June 30, 2023
+  doc_type: audit_report
+  audit_type: annual comprehensive financial report
+  audited_agency: Multi-Agency
+  report_year: '2024'
+  report_month: 01 - January
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2024-04
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9937520
+  format: html
+  citation: Report No. 2024-04
+  title: July 1, 2022 through June 30, 2023
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Columbia River Gorge Commission
+  report_year: '2024'
+  report_month: 01 - January
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2024-05
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9978977
+  format: html
+  citation: Report No. 2024-05
+  title: 2024-25 Audit Plan
+  doc_type: audit_report
+  audit_type: informational
+  audited_agency: Secretary of State Audits Division
+  report_year: '2024'
+  report_month: 02 - February
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2024-06
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10000616
+  format: html
+  citation: Report No. 2024-06
+  title: 'Oregon Municipal Corporations: Summary of Fiscal Year 2022 Financial Reporting'
+  doc_type: audit_report
+  audit_type: informational
+  audited_agency: Secretary of State Audits Division
+  report_year: '2024'
+  report_month: 03 - March
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2024-07
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9997984
+  format: html
+  citation: Report No. 2024-07
+  title: Ongoing Workforce Crises and Disruption Demand Strategic Workforce Planning
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Administrative Services, Department of
+  report_year: '2024'
+  report_month: 02 - February
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2024-08
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10042699
+  format: html
+  citation: Report No. 2024-08
+  title: Audit of Pension Schedule of Employer Allocations and Pension Amounts by Employer for the Year
+    Ended June 30, 2023
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Public Employees Retirement System
+  report_year: '2024'
+  report_month: 03 - March
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2024-09
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10042700
+  format: html
+  citation: Report No. 2024-09
+  title: Audit of RHIA Schedule of Employer Allocations and OPEB Amounts by Employer for the Year Ended
+    June 30, 2023
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Public Employees Retirement System
+  report_year: '2024'
+  report_month: 03 - March
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2024-10
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10042708
+  format: html
+  citation: Report No. 2024-10
+  title: Audit of RHIPA Schedule of OPEB Amounts for the Year Ended June 30, 2023
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Public Employees Retirement System
+  report_year: '2024'
+  report_month: 03 - March
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2024-11
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10042709
+  format: html
+  citation: Report No. 2024-11
+  title: Small Scale Energy Loan Program For the Year Ended June 30, 2023
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Energy, Oregon Department of
+  report_year: '2024'
+  report_month: 03 - March
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2024-12
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10067614
+  format: html
+  citation: Report No. 2024-12
+  title: Special Public Works Fund and Water Fund Enterprise Funds For the Year Ended June 30, 2023
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Business Development Department, Oregon
+  report_year: '2024'
+  report_month: 03 - March
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2024-13
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10115088
+  format: html
+  citation: Report No. 2024-13
+  title: Ongoing Strategic Planning Can Help DEQ Address Obstacles to Achieving its Goals
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Environmental Quality, Department of
+  report_year: '2024'
+  report_month: 04 - April
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2024-14
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10139503
+  format: html
+  citation: Report No. 2024-14
+  title: Statewide Single Audit for Fiscal Year 2023
+  doc_type: audit_report
+  audit_type: statewide single audit
+  audited_agency: Multi-Agency
+  report_year: '2024'
+  report_month: 04 - April
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2024-15
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10142791
+  format: html
+  citation: Report No. 2024-15
+  title: Oregon Health Insurance Marketplace Fiscal Year 2023 Compliance
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Health Authority, Oregon
+  report_year: '2024'
+  report_month: 05 - May
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2024-16
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10191691
+  format: html
+  citation: Report No. 2024-16
+  title: Oregon Health Insurance Marketplace Financial Statements For the Fiscal Year Ended June 30, 2023
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Health Authority, Oregon
+  report_year: '2024'
+  report_month: 05 - May
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2024-17
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10229113
+  format: html
+  citation: Report No. 2024-17
+  title: Clean Water State Revolving Fund Loan Program Enterprise Fund of the State of Oregon For the
+    Fiscal Year Ended June 30, 2023
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Environmental Quality, Department of
+  report_year: '2024'
+  report_month: 06 - June
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2024-18
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10230991
+  format: html
+  citation: Report No. 2024-18
+  title: Keeping Oregon Accountable Fiscal Year 2023
+  doc_type: audit_report
+  audit_type: informational
+  audited_agency: Secretary of State Audits Division
+  report_year: '2024'
+  report_month: 06 - June
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2024-19
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10250588
+  format: html
+  citation: Report No. 2024-19
+  title: High School Graduation and College and Career Readiness Fund Biennial Financial Report For Biennium
+    Ended June 30, 2023
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Education, Oregon Department of
+  report_year: '2024'
+  report_month: 06 - June
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2024-20
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10327636
+  format: html
+  citation: Report No. 2024-20
+  title: Financial Statements-Statutory Basis as of and for the Years Ended December 31, 2023 and 2022,
+    Supplementary Schedules as of December 31, 2023, and Report of Independent Auditors
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: SAIF Corporation
+  report_year: '2024'
+  report_month: 08 - August
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2024-21
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10327637
+  format: html
+  citation: Report No. 2024-21
+  title: Financial Statements and Supplementary Schedules as of and for the Years Ended December 31, 2023
+    and 2022, and Report of Independent Auditors
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: SAIF Corporation
+  report_year: '2024'
+  report_month: 08 - August
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2024-22
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10364046
+  format: html
+  citation: Report No. 2024-22
+  title: Oregon Short Term Fund An Investment Pool of the State of Oregon For the Year Ended June 30,
+    2024
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Treasurer, Office of the State
+  report_year: '2024'
+  report_month: 08 - August
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2024-23
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10364047
+  format: html
+  citation: Report No. 2024-23
+  title: Oregon Local Government Intermediate Fund An Investment Pool of the State of Oregon For the Year
+    Ended June 30, 2024
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Treasurer, Office of the State
+  report_year: '2024'
+  report_month: 08 - August
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2024-24
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10365802
+  format: html
+  citation: Report No. 2024-24
+  title: State Government Accountability Hotline Summary Report for Calendar Year 2023
+  doc_type: audit_report
+  audit_type: hotline
+  audited_agency: Secretary of State Audits Division
+  report_year: '2024'
+  report_month: 08 - August
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2024-25
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10410924
+  format: html
+  citation: Report No. 2024-25
+  title: Oregon Intermediate Term Pool An Investment Pool of the State of Oregon For the Year Ended June
+    30, 2024
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Treasurer, Office of the State
+  report_year: '2024'
+  report_month: 09 - September
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2024-26
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10410925
+  format: html
+  citation: Report No. 2024-26
+  title: State of Oregon Financial Condition Report Fiscal Year 2023
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Multi-Agency
+  report_year: '2024'
+  report_month: 09 - September
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2024-27
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10435155
+  format: html
+  citation: Report No. 2024-27
+  title: The Oregon Eligibility System Appropriately Determines Eligibility, but Input Errors Continue
+    to Occur
+  doc_type: audit_report
+  audit_type: information technology
+  audited_agency: Health Authority, Oregon
+  report_year: '2024'
+  report_month: 10 - October
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2024-28
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10458155
+  format: html
+  citation: Report No. 2024-28
+  title: Licensing and Registration System Accurately Assesses and Collects Fees, but Security Processes
+    Need Improvement
+  doc_type: audit_report
+  audit_type: information technology
+  audited_agency: Driver and Motor Vehicles Services
+  report_year: '2024'
+  report_month: 10 - October
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2024-29
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10465395
+  format: html
+  citation: Report No. 2024-29
+  title: Without Federal Action, States Will Continue to Pay Millions of Dollars in Duplicate Medicaid
+    Payments
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Health Authority, Oregon
+  report_year: '2024'
+  report_month: 10 - October
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2024-30
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10482044
+  format: html
+  citation: Report No. 2024-30
+  title: Veterans' Loan Program Annual Financial Report An Enterprise Fund for the Year Ending June 30,
+    2024
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Veterans' Affairs, Department of
+  report_year: '2024'
+  report_month: 10 - October
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2024-31
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10492557
+  format: html
+  citation: Report No. 2024-31
+  title: Annual Financial Report Enterprise Funds of the State of Oregon For the Year Ended June 30, 2024
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Housing and Community Services Department
+  report_year: '2024'
+  report_month: 11 - November
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2024-32
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10519154
+  format: html
+  citation: Report No. 2024-32
+  title: Common School Fund Annual Financial Report For the Fiscal Year Ended June 30, 2024
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Lands, Department of State
+  report_year: '2024'
+  report_month: 11 - November
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2024-33
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10529872
+  format: html
+  citation: Report No. 2024-33
+  title: Annual Comprehensive Financial Report Enterprise Fund of the State of Oregon For Fiscal Year
+    Ended June 30, 2024
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Lottery Commission, Oregon State
+  report_year: '2024'
+  report_month: 11 - November
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2024-34
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10555839
+  format: html
+  citation: Report No. 2024-34
+  title: High School Success Grants Have Expanded Important Programs, but ODE Can Do More To Identify
+    and Share Effective Strategies
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Education, Oregon Department of
+  report_year: '2024'
+  report_month: 12 - December
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2024-35
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10568164
+  format: html
+  citation: Report No. 2024-35
+  title: Annual Comprehensive Financial Report For the Fiscal Year Ended June 30, 2024
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Public Employees Retirement System
+  report_year: '2024'
+  report_month: 12 - December
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2025-01
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10599262
+  format: html
+  citation: Report No. 2025-01
+  title: July 1, 2023 through June 30, 2024
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Columbia River Gorge Commission
+  report_year: '2025'
+  report_month: 01 - January
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2025-02
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10601929
+  format: html
+  citation: Report No. 2025-02
+  title: Oregon Annual Comprehensive Financial Report For the Fiscal Year Ended June 30, 2024
+  doc_type: audit_report
+  audit_type: annual comprehensive financial report
+  audited_agency: Multi-Agency
+  report_year: '2025'
+  report_month: 01 - January
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2025-03
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10742170
+  format: html
+  citation: Report No. 2025-03
+  title: 2025-26 Audit Plan
+  doc_type: audit_report
+  audit_type: informational
+  audited_agency: Secretary of State Audits Division
+  report_year: '2025'
+  report_month: 02 - February
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2025-04
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10805471
+  format: html
+  citation: Report No. 2025-04
+  title: Audit of Pension Schedule of Employer Allocations and Pension Amounts by Employer for the Year
+    Ended June 30, 2024
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Public Employees Retirement System
+  report_year: '2025'
+  report_month: 02 - February
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2025-05
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10805472
+  format: html
+  citation: Report No. 2025-05
+  title: Audit of RHIA Schedule of Employer Allocations and OPEB Amounts by Employer for the Year Ended
+    June 30, 2024
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Public Employees Retirement System
+  report_year: '2025'
+  report_month: 02 - February
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2025-06
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10805473
+  format: html
+  citation: Report No. 2025-06
+  title: Audit of RHIPA Schedule of OPEB Amounts for the Year Ended June 30, 2024
+  doc_type: audit_report
+  audit_type: null
+  audited_agency: Public Employees Retirement System
+  report_year: '2025'
+  report_month: 02 - February
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2025-07
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10808423
+  format: html
+  citation: Report No. 2025-07
+  title: Small Scale Energy Loan Program For the Year Ended June 30, 2024
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Energy, Oregon Department of
+  report_year: '2025'
+  report_month: 02 - February
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2025-08
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10809405
+  format: html
+  citation: Report No. 2025-08
+  title: 'Oregon Municipal Corporations: Summary of Financial Reporting for Fiscal Year 2023'
+  doc_type: audit_report
+  audit_type: informational
+  audited_agency: Secretary of State Audits Division
+  report_year: '2025'
+  report_month: 02 - February
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2025-10
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10363238
+  format: html
+  citation: Report No. 2025-10
+  title: Statewide Single Audit for Fiscal Year 2024
+  doc_type: audit_report
+  audit_type: statewide single audit
+  audited_agency: Multi-Agency
+  report_year: '2025'
+  report_month: 04 - April
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2025-11
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10913343
+  format: html
+  citation: Report No. 2025-11
+  title: State Government Accountability Hotline Summary Report for Calendar Year 2024
+  doc_type: audit_report
+  audit_type: hotline
+  audited_agency: Secretary of State Audits Division
+  report_year: '2025'
+  report_month: 04 - April
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2025-12
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10363265
+  format: html
+  citation: Report No. 2025-12
+  title: Oregon Health Insurance Marketplace Fiscal Year 2024 Compliance
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Health Authority, Oregon
+  report_year: '2025'
+  report_month: 04 - April
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2025-13
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10363266
+  format: html
+  citation: Report No. 2025-13
+  title: Oregon Health Insurance Marketplace Financial Statements For the Fiscal Year Ended June 30, 2024
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Health Authority, Oregon
+  report_year: '2025'
+  report_month: 04 - April
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2025-14
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10363268
+  format: html
+  citation: Report No. 2025-14
+  title: Oregon Faces Challenges in Addressing Gaps in the Behavioral Health Crisis System
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Health Authority, Oregon
+  report_year: '2025'
+  report_month: 05 - May
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2025-15
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/11016545
+  format: html
+  citation: Report No. 2025-15
+  title: Safe Drinking Water Revolving Loan Fund Agreed Upon Procedures for Fiscal Years Ended June 30,
+    2023 and June 30, 2024
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Health Authority, Oregon
+  report_year: '2025'
+  report_month: 05 - May
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2025-16
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10363270
+  format: html
+  citation: Report No. 2025-16
+  title: Keeping Oregon Accountable Fiscal Year 2024
+  doc_type: audit_report
+  audit_type: informational
+  audited_agency: Secretary of State Audits Division
+  report_year: '2025'
+  report_month: 05 - May
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2025-17
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/11123244
+  format: html
+  citation: Report No. 2025-17
+  title: Clean Water State Revolving Fund Loan Program Enterprise Fund of the State of Oregon for the
+    Fiscal Year Ended June 30, 2024
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Environmental Quality, Department of
+  report_year: '2025'
+  report_month: 06 - June
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2025-18
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/11215565
+  format: html
+  citation: Report No. 2025-18
+  title: Without a Comprehensive Compliance Function, DAS Cannot Effectively Monitor High-Risk Contracts
+    or Mitigate Contracting Risks
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Administrative Services, Department of
+  report_year: '2025'
+  report_month: 07 - July
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2025-19
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/11816206
+  format: html
+  citation: Report No. 2025-19
+  title: Financial Statements and Supplementary Schedules as of and for the Years Ended December 31, 2024
+    and 2023, and Report of Independent Auditors
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: SAIF Corporation
+  report_year: '2025'
+  report_month: 08 - August
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2025-20
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/11816207
+  format: html
+  citation: Report No. 2025-20
+  title: Financial Statements—Statutory Basis as of and for the Years Ended December 31, 2024 and 2023,
+    Supplementary Schedules as of December 31, 2024, and Report of Independent Auditors
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: SAIF Corporation
+  report_year: '2025'
+  report_month: 08 - August
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2025-21
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/12280580
+  format: html
+  citation: Report No. 2025-21
+  title: Oregon Short Term Fund An Investment Pool of the State of Oregon For the Year Ended June 30,
+    2025
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Treasurer, Office of the State
+  report_year: '2025'
+  report_month: 09 - September
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2025-22
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/12280581
+  format: html
+  citation: Report No. 2025-22
+  title: Oregon Local Government Intermediate Fund An Investment Pool of the State of Oregon For the Year
+    Ended June 30, 2025
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Treasurer, Office of the State
+  report_year: '2025'
+  report_month: 09 - September
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2025-23
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/12280582
+  format: html
+  citation: Report No. 2025-23
+  title: Oregon Intermediate Term Pool An Investment Pool of the State of Oregon For the Year Ended June
+    30, 2025
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Treasurer, Office of the State
+  report_year: '2025'
+  report_month: 09 - September
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2025-24
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/12514798
+  format: html
+  citation: Report No. 2025-24
+  title: Veterans' Loan Program Annual Financial Report An Enterprise Fund of the Oregon Department of
+    Veterans' Affairs For the Year Ending June 30, 2025
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Veterans' Affairs, Department of
+  report_year: '2025'
+  report_month: 11 - November
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2025-25
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/12721425
+  format: html
+  citation: Report No. 2025-25
+  title: For Years, BOLI’s Leadership Failed to Implement Key Management Principles to the Detriment of
+    Oregon Workers
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Labor and Industries, Bureau of
+  report_year: '2025'
+  report_month: 11 - November
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2025-26
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/12732486
+  format: html
+  citation: Report No. 2025-26
+  title: Annual Financial Report Enterprise Funds For the Year Ended June 30, 2025
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Housing and Community Services Department
+  report_year: '2025'
+  report_month: 11 - November
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2025-27
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/12742419
+  format: html
+  citation: Report No. 2025-27
+  title: Annual Comprehensive Financial Report Enterprise Fund For the Year Ended June 30, 2025
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Lottery Commission, Oregon State
+  report_year: '2025'
+  report_month: 12 - December
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2025-28
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/12742447
+  format: html
+  citation: Report No. 2025-28
+  title: Common School Fund Annual Financial Report For the Fiscal Year Ended June 30, 2025
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Lands, Department of State
+  report_year: '2025'
+  report_month: 12 - December
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2025-29
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/13404575
+  format: html
+  citation: Report No. 2025-29
+  title: Measure 110 Lacks Stability, Coordination, and Clear Results
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Health Authority, Oregon
+  report_year: '2025'
+  report_month: 12 - December
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2025-30
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/13703091
+  format: html
+  citation: Report No. 2025-30
+  title: Annual Comprehensive Financial Report For the Fiscal Year Ended June 30, 2025, Contract Audit
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Public Employees Retirement System
+  report_year: '2025'
+  report_month: 12 - December
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2026-01
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/14778991
+  format: html
+  citation: Report No. 2026-01
+  title: Audit Plan for Performance Audits Fiscal Year 27
+  doc_type: audit_report
+  audit_type: informational
+  audited_agency: Secretary of State Audits Division
+  report_year: '2026'
+  report_month: 01 - January
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2026-02
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/14852869
+  format: html
+  citation: Report No. 2026-02
+  title: Oregon Annual Comprehensive Financial Report For the Fiscal Year Ended June 30, 2025
+  doc_type: audit_report
+  audit_type: annual comprehensive financial report
+  audited_agency: Multi-Agency
+  report_year: '2026'
+  report_month: 01 - January
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2026-03
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/15019972
+  format: html
+  citation: Report No. 2026-03
+  title: State Government Waste Hotline Summary Report Calendar Year 2025
+  doc_type: audit_report
+  audit_type: informational
+  audited_agency: Secretary of State Audits Division
+  report_year: '2026'
+  report_month: 02 - February
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2026-04
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/15132149
+  format: html
+  citation: Report No. 2026-04
+  title: 'Oregon Municipalities: Summary of Financial Reporting Fiscal Year 2024'
+  doc_type: audit_report
+  audit_type: informational
+  audited_agency: Secretary of State Audits Division
+  report_year: '2026'
+  report_month: 02 - February
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2026-05
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/15284293
+  format: html
+  citation: Report No. 2026-05
+  title: Small Scale Energy Loan Program For the Year Ended June 30, 2025
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Energy, Oregon Department of
+  report_year: '2026'
+  report_month: 03 - March
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2026-06
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/15493045
+  format: html
+  citation: Report No. 2026-06
+  title: Cybersecurity Controls Audit
+  doc_type: audit_report
+  audit_type: information technology
+  audited_agency: Judicial Department, Oregon
+  report_year: '2026'
+  report_month: 03 - March
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2026-07
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/15493046
+  format: html
+  citation: Report No. 2026-07
+  title: Audit of Pension Schedule of Employer Allocations and Pension Amounts by Employer for the Year
+    Ended June 30, 2025
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Public Employees Retirement System
+  report_year: '2026'
+  report_month: 03 - March
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2026-08
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/15493047
+  format: html
+  citation: Report No. 2026-08
+  title: Audit of RHIPA Schedule of OPEB Amounts for the Year Ended June 30, 2025
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Public Employees Retirement System
+  report_year: '2026'
+  report_month: 03 - March
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2026-09
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/15493048
+  format: html
+  citation: Report No. 2026-09
+  title: Audit of RHIA Schedule of Employer Allocations and OPEB Amounts by Employer for the Year Ended
+    June 30, 2025
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Public Employees Retirement System
+  report_year: '2026'
+  report_month: 03 - March
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2026-10
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/15531589
+  format: html
+  citation: Report No. 2026-10
+  title: Statewide Single Audit for Fiscal Year 2025
+  doc_type: audit_report
+  audit_type: statewide single audit
+  audited_agency: Multi-Agency
+  report_year: '2026'
+  report_month: 03 - March
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2026-11
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/15536272
+  format: html
+  citation: Report No. 2026-11
+  title: Inadequate Safety Inspections and Poor Asset Tracking Increase Risk to Public Safety and Property
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Parks and Recreation Department, Oregon
+  report_year: '2026'
+  report_month: 03 - March
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2026-12
+  url: https://records.sos.state.or.us/ORSOSWebDrawer/Record/15591093
+  format: html
+  citation: Report No. 2026-12
+  title: Special Public Works Fund and Water Fund Enterprise Funds For the Year Ended June 30, 2025
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Business Development Department, Oregon
+  report_year: '2026'
+  report_month: 04 - April
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2026-13
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/RecordViewer.aspx?uri=15593487
+  format: html
+  citation: Report No. 2026-13
+  title: Oregon Health Insurance Marketplace Financial Statements For the Fiscal Year Ended June 30, 2025
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Health Authority, Oregon
+  report_year: '2026'
+  report_month: 04 - April
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2026-14
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/RecordViewer.aspx?uri=15593511
+  format: html
+  citation: Report No. 2026-14
+  title: Oregon Health Insurance Marketplace Fiscal Year 2025 Compliance
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Health Authority, Oregon
+  report_year: '2026'
+  report_month: 04 - April
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2026-15
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/RecordViewer.aspx?uri=15833541
+  format: html
+  citation: Report No. 2026-15
+  title: Cybersecurity Controls Audit
+  doc_type: audit_report
+  audit_type: information technology
+  audited_agency: Justice, Oregon Department of
+  report_year: '2026'
+  report_month: 05 - May
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2026-16
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/RecordViewer.aspx?uri=16118172
+  format: html
+  citation: Report No. 2026-16
+  title: Keeping Oregon Accountable Fiscal Year 2025
+  doc_type: audit_report
+  audit_type: informational
+  audited_agency: Secretary of State Audits Division
+  report_year: '2026'
+  report_month: 05 - May
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2026-17
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/RecordViewer.aspx?uri=16127661
+  format: html
+  citation: Report No. 2026-17
+  title: Clean Water State Revolving Fund Loan Program Enterprise Fund of the State of Oregon Fiscal Year
+    Ended June 30, 2025
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Environmental Quality, Department of
+  report_year: '2026'
+  report_month: 06 - June
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2026-18
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/RecordViewer.aspx?uri=16163545
+  format: html
+  citation: Report No. 2026-18
+  title: High School Graduation and College and Career Readiness Fund For Biennium Ended June 30, 2025
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Education, Oregon Department of
+  report_year: '2026'
+  report_month: 06 - June
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2026-19
+  url: https://sos.oregon.gov/audits/Documents/2026-19.pdf
+  format: html
+  citation: Report No. 2026-19
+  title: Crumbling Facilities, Staffing Shortages, and Obsolete IT Systems Undermine Prison Safety and
+    Reform Efforts
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Corrections, Department of
+  report_year: '2026'
+  report_month: 07 - July
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2026-20
+  url: https://sos.oregon.gov/audits/Documents/2026-20.pdf
+  format: html
+  citation: Report No. 2026-20
+  title: Youth and Adults in Close-Custody Correctional Facilities Need Better Language Supports
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Corrections, Department of
+  report_year: '2026'
+  report_month: 07 - July
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []

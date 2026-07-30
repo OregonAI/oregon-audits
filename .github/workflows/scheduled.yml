@@ -37,3 +37,32 @@ jobs:
     with:
       # Pin the CODE, not just the workflow file above — separate knobs.
       toolkit-ref: v1.9.0
+
+  # IS THE SOURCE MANIFEST STILL COMPLETE?
+  #
+  # Deliberately HERE and not in ci.yml's `generated` job, which is where every other
+  # generated file is checked. The distinction is what the artifact derives from:
+  #
+  #   graph.json, STATUS.md   derive from REPO CONTENT. Deterministic, offline, and a PR
+  #                           is exactly the thing that can invalidate them. Per-PR.
+  #   source-manifest.yml     derives from UPSTREAM. The Audits Division publishes on its
+  #                           own schedule, so this file goes stale for reasons no PR
+  #                           caused and no PR can fix.
+  #
+  # Checking it per-PR would fail unrelated PRs whenever the division published an audit,
+  # and would put a network call on the critical path of every merge. Both train an
+  # operator to ignore a red check, which costs more than the case it catches.
+  manifest-complete:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pyyaml
+      # Non-zero here means one of two things, and the output says which: the manifest is
+      # stale (a new audit was published), or enumeration itself is incomplete because a
+      # report on recent.aspx is missing from the SharePoint list.
+      - name: Source manifest must still match upstream
+        run: python3 src/enumerate_audits.py --check

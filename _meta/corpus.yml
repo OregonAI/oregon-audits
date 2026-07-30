@@ -43,16 +43,19 @@ plugins:
 #
 # These three are the whole reason this corpus is worth building, and they get wired in
 # the graph stage:
-# siblings:
-#   - id: "executive-regulatory-frameworks"     # ORS/OAR an agency was found to violate
-#     index_url: "https://oregonai.github.io/executive-regulatory-frameworks/corpus-index.json"
-#     web_base:  "https://github.com/OregonAI/executive-regulatory-frameworks/blob/main/"
-#   - id: "oregon-budget"                       # appropriations whose spending was examined
-#     index_url: "https://oregonai.github.io/oregon-budget/corpus-index.json"
-#     web_base:  "https://github.com/OregonAI/oregon-budget/blob/main/"
-#   - id: "oregon-legislature"                  # audits mandated by a specific measure
-#     index_url: "https://oregonai.github.io/oregon-legislature/corpus-index.json"
-#     web_base:  "https://github.com/OregonAI/oregon-legislature/blob/main/"
+siblings:
+  # MEASURED before declaring, not assumed: 71% of the 242 reports cite ORS or OAR, giving
+  # 576 edges to 193 distinct targets, of which 81% of targets and 85% of edges resolve to
+  # real documents in this sibling's published index. The unresolved remainder is almost
+  # entirely ERF coverage: 28 of 34 missing ORS sections are in chapters ERF does not carry
+  # at all (163A, 181A, 238A), not citations this corpus got wrong.
+  - id: "executive-regulatory-frameworks"
+    index_url: "https://oregonai.github.io/executive-regulatory-frameworks/corpus-index.json"
+    web_base:  "https://github.com/OregonAI/executive-regulatory-frameworks/blob/main/"
+# oregon-budget and oregon-legislature are NOT declared. Both were in the seed's plan, but
+# no scheme mines an appropriation or measure citation out of audit text yet, so declaring
+# them would add configuration that resolves nothing. Declare them with the scheme, not
+# before it.
 
 disclaimer_marker: "NON-AUTHORITATIVE"
 graph_path: "_meta/graph.json"

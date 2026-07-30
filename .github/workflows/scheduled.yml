@@ -1,11 +1,35 @@
 name: scheduled
 on:
   schedule:
-    - cron: "0 14 * * 1"      # weekly Monday; tighten per corpus cadence
+    # WEEKLY for the cheap local checks and the manifest, ANNUAL for re-fetching sources.
+    # The split matters here more than in most corpora -- see the drift job.
+    - cron: "0 14 * * 1"        # Mondays: full validation + is the manifest complete
+    - cron: "0 15 15 1 *"       # 15 January: re-fetch every source (drift)
   workflow_dispatch:
 
 jobs:
+  # RE-FETCHING EVERY SOURCE, ANNUALLY, AND NOT WEEKLY.
+  #
+  # AN AUDIT REPORT DOES NOT CHANGE AFTER IT IS PUBLISHED. It is a dated historical record:
+  # Report No. 2021-18 says in 2030 exactly what it said in 2021. So content-drift detection
+  # -- the entire purpose of this job in every other corpus -- detects something that cannot
+  # happen here, and it is not cheap: 242 sources at ~6 MB of ORMS viewer HTML each is
+  # ~1.4 GB pulled off a government web server, weekly, for nothing.
+  #
+  # It is not deleted, because ONE thing it catches is real: a record MOVING or being
+  # withdrawn, which this publisher demonstrably does -- every pre-2020 report has already
+  # vanished from its old path. When that happens the fix is to update source_url so the
+  # citation still resolves, and a fetch failure is how we would learn. Annually is enough
+  # for that; weekly is just noise on someone else's server.
+  #
+  # Read its output accordingly: FETCH FAILED is the signal, CHANGED is not. A CHANGED here
+  # means the ORMS viewer page was redesigned, not that an audit finding was revised.
+  #
+  # WHAT ACTUALLY CHANGES WEEKLY IS THE CATALOGUE, not the documents -- the division
+  # publishes new reports. That is the `manifest-complete` job below, which is one small
+  # SharePoint query rather than 1.4 GB.
   drift:
+    if: github.event.schedule != '0 14 * * 1'
     permissions:
       contents: write
       issues: write

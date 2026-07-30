@@ -14,7 +14,7 @@ Generated 2026-07-30. Non-authoritative; see DISCLAIMER.md.
 
 242 declared source(s) across 1 group(s) in `source-manifest.yml`.
 
-## Freshness (reverify every 90 days)
+## Freshness (reverify every 365 days)
 
 242 of 242 document(s) overdue for re-verification.
 

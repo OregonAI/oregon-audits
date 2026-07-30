@@ -79,4 +79,14 @@ status:
   # sos.oregon.gov/audits/Documents/<number>.pdf — 2019-01 and 2019-14 both 404 today,
   # while 2026-20 resolves fine from the same path. The upstream URL for a document that
   # will never change its text moved anyway. Snapshots are what make that survivable.
-  reverify_days: 90
+  #
+  # 365, not the template's 90. This value drives STATUS.md's "overdue for re-verification"
+  # count, and re-verification means a human re-reading a document against its source. For
+  # an immutable record that is work with no possible finding: the text cannot have changed,
+  # and the hash already proves the committed copy matches what was ingested. A quarterly
+  # nag for 242 documents would be 242 pieces of busywork a year, and the reliable result of
+  # a check that never finds anything is that people stop reading it.
+  #
+  # Matched to the annual source re-fetch in .github/workflows/scheduled.yml, so the two
+  # cadences say the same thing.
+  reverify_days: 365

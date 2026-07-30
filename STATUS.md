@@ -11,7 +11,7 @@ Generated 2026-07-30. Non-authoritative; see DISCLAIMER.md.
 
 ## Source manifest
 
-0 declared source(s) across 1 group(s) in `source-manifest.yml`.
+242 declared source(s) across 1 group(s) in `source-manifest.yml`.
 
 ## Freshness (reverify every 90 days)
 

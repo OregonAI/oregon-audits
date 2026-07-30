@@ -309,9 +309,13 @@ def build_document(src: dict, text: str, sha: str, report_date: str) -> str:
         f"- Report date: {report_date}\n"
         f"- Period audited: {p_text}\n"
         f"- Agency response: {RESP_LABEL[resp_state]}\n\n"
-        "> NON-AUTHORITATIVE copy. An audit finding is a finding, not a fact about the "
+        # NOT a blockquote. `>` is reserved in this corpus for text QUOTED FROM THE
+        # REPORT, and rendering our own disclaimer the same way makes it read as the
+        # auditor's words -- which is the precise confusion this sentence exists to
+        # prevent. check_guardrails.py enforces the distinction.
+        "_NON-AUTHORITATIVE copy. An audit finding is a finding, not a fact about the "
         "world: it describes one agency during the period above, on the evidence available "
-        "then. Verify at the source URL.\n")
+        "then. Verify at the source URL._\n")
     if highlights:
         parts.append("\n### The report's own summary, quoted\n\n"
                      + "\n".join(f"> {l}" for l in highlights.splitlines()[:40]) + "\n")

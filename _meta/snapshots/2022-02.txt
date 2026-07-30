@@ -1,0 +1,1152 @@
+Oregon State Police
+Additional Data Analytics
+Could Better Determine
+Trooper Staffing Levels
+and Resource Needs
+January 2022
+Report 2022-02
+Why this audit is important
+Oregon State Police (OSP) is a law
+enforcement agency with a broad set of
+duties that includes responsibility to
+patrol Oregon’s 7,000 miles of highways
+and support local sheriffs and city and
+Tribal police.
+OSP has eliminated 24-hour coverage
+across the state due to changes in its
+funding source in 1980 from the state
+highway fund to the General Fund.
+OSP has worked with the Legislature and
+the Department of Administrative
+Services to increase resources and
+restore trooper positions, yet still holds
+positions vacant to cover other costs.
+OSP troopers experienced additional
+service demands during the 2020
+wildfires, protest response, and COVID-19
+pandemic.
+Police reform has been a topic of national
+conversation in recent years and
+numerous bills have been passed on the
+subject in Oregon.
+What we found
+1. While there is no best practice dictating the appropriate number
+of police officers for any one jurisdiction, OSP determines its
+trooper staffing needs using a simplistic analysis based primarily
+on Oregon’s population. A more comprehensive approach would
+allow OSP to identify actual staffing needs when developing
+future budgets, to better leverage existing troopers, and to
+respond to changing expectations of law enforcement both
+nationally and in Oregon. (
+pg. 15)
+2. OSP’s area command trooper deployment schedules are not
+consistently developed or documented. OSP leadership should
+implement formal expectations, processes, and tools for the
+area commanders to use. Having a uniform and data-driven
+process for trooper deployment would help ensure agency
+priorities are met and inform the overall patrol scheduling plan.
+(pg. 18)
+Audit Highlights
+Oregon State Police
+Additional Data Analytics Could Better Determine
+Trooper Staffing Levels and Resource Needs
+What we recommend
+We made four recommendations to OSP. OSP agreed with all of our recommendations. The response can be found at
+the end of the report.
+Oregon Secretary of State | Report 2022-02 | January 2022 | page 1
+Introduction
+Oregon State Police (OSP), through its Patrol Services Division (division), has supported Oregonians by
+maintaining a presence on the state’s roadways for 90 years. Like many agencies, OSP has experienced
+budget challenges, but its recent work with the Legislature to shore up funding for trooper positions
+has increased trooper levels from historic lows.
+Additionally, scrutiny of policing practices and calls for police reform and more accountability measures
+have increased across the country. In response, OSP is adding to its diversity, equity, and inclusion
+efforts, including changes to its recruitment and background check processes. OSP should adopt new
+staffing models that can adapt to the changing law enforcement environment.
+This audit focused on the division, and sought to determine whether its workforce planning efforts
+adequately consider public needs, and trooper safety. The division’s primary purpose is to serve as a
+rural patrol, provide uniform police services on Oregon’s 7,000 miles of state and  interstate highways,
+and assist police departments and county sheriffs’ offices. With 34 field offices and 522 employees
+across the state, the division’s troopers respond to emergency calls for service on state and interstate
+highways, and are responsible for crash and crime reduction, among other transportation safety issues.
+OSP provides a variety of important public safety services
+OSP performs many of the state’s policing functions, and collaborates with local and T ribal law
+enforcement agencies. Oregon differs from other states by providing many policing functions through a
+single agency. Sworn troopers carry out the division’s mission by patrolling Oregon’s state and
+interstate highways, responding to emergency service calls, and reducing crashes and crimes.
+OSP has broader responsibilities than many other state highway patrol agencies
+OSP was created in 1931. Its mission is to serve all people with a priority of safeguarding life, property,
+and natural resources by building upon a diverse, professional, and trustworthy workforce. To
+accomplish this, the agency, among other duties:
+• enforces traffic laws on state roadways;
+• investigates and solves crime;
+• conducts post‐mortem examinations and forensic analyses;
+• provides background checks and law enforcement data;
+• regulates gaming;1
+• handles hazardous materials and enforces fire codes;
+• educates the public on fire safety; and
+• enforces fish, wildlife, and natural resource laws.
+Oregon is a geographically diverse state with urban, suburban, rura l, and remote territory. OSP includes
+six policing bureaus: Police Services, Field Operations, Public Safety Services, Gaming & Employee
+1 The Gaming Enforcement Division ensures all lottery and Tribal gaming operations are conducted with fairness, integrity,
+honesty, and security.
+Oregon Secretary of State | Report 2022-02 | January 2022 | page 2
+Services, Workforce Development & Support, and Forensic Science & Pathology. The Office of the
+State Fire Marshal is also housed in the agency.2
+Figure 1: The Patrol Services Division deploys troopers all over Oregon3
+Note: Capitol Mall positions are not included in the division’s budget. | Source: OSP
+While OSP is charged both with highway patrol and more general law enforcement, some other states
+house these functions in separate agencies. In these states, a highway patrol agency enforces traffic
+laws on the highways, while a separate entity (for example, the bureau of investigations) conducts
+investigations and other law enforcement duties. In this framework, highway patrol officers have
+limited authority to perform general law enforcement duties, such as investigating crimes occurring in
+an officer’s presence on or near state highways.
+For instance, California has numerous state law enforcement agencies: the California Highway Patrol,
+which is responsible for safety on the state’s roadways; the Sergeant-At-Arms, responsible for the
+safety and security of the State Capitol Building and state officials; the Departmen t of Fish and Wildlife,
+2 With the passing of House Bill 2927 in 2021, the Office of the State Fire Marshal will become its own state agency beginning July
+1, 2023.
+3 Numbers of troopers in this figure represent positions authorized in OSP’s budget, not actual troopers working in these areas.
+Oregon Secretary of State | Report 2022-02 | January 2022 | page 3
+which enforces California’s Fish and Game code; 4 the State Fire Marshal, which focuses on fire
+prevention; the Gambling Control Commission, which regulates gambling, third -party player services,
+and Tribal casinos; the State Athletic Commission, which regulates professional and amateur boxing,
+kickboxing, and mixed martial arts; and the Bureau of Investigation, which conducts the state’s criminal
+investigations.
+Washington is similar to Oregon in that the Washington State Patrol includes the field patrol function as
+well as fire protection, forensics laboratory, and investigative services. However, Washington has
+separate agencies for its fish and wildlife enforcement and gaming commission.
+Troopers perform a wide variety of duties, from investigating crimes to patrolling
+Oregon’s roadways
+Sworn troopers are instrumental in accomplishing the division’s mission.
+Their responsibilities include crash and crime reduction and response to
+emergency calls for service on Oregon’s state and interstate highways.
+One of their priorities is to focus on Oregon’s “Fatal Five” driving
+behaviors when patrolling. These behaviors contribute to the majority of
+vehicle crashes.
+According to OSP, troopers also provide enforcement of all criminal and motor vehicle laws and
+investigate crimes and motor vehicle accidents. Troopers are expected to provide fair and impartial
+police services to all Oregonians, and coordinate police activities with local criminal justice agencies.
+Troopers conduct enforcement patrols by airplane, pickup truck, all-terrain vehicle, snowmobile,
+bicycle, horseback, an assortment of watercraft, and by standard police vehicles.
+Troopers must be prepared to deal with a variety of situations. They may investigate crimes of all
+types, including domestic violence, missing children, assaults, burglaries, robberies, and homicides. They
+testify in grand jury proceedings and respond to emergencies and disasters. They also provide general
+assistance to the public, such as assisting disabled motorists, providing directions, and expla ining the
+law to the public.
+Outside patrol, troopers have other ancillary duties. Some of these duties are required, such as
+preparing for and appearing in court, attending trainings, writing after action reports, and responding to
+4 California Department of Fish and Wildlife holds law enforcement powers in addition to managing fish and wildlife for the state.
+Oregon differs in that it assigns the management of fish and wildlife to the Oregon Department of Fish and Wildlife, while OSP’s
+Fish and Wildlife Division enforces the laws.
+Civilian vs. Sworn Employees
+Civilian: OSP employs more than 600 non-sworn, or professional civilian, employees to support the agency’s
+mission. Their duties include policy and program analysis, dispatch, forensic science, and automotive
+maintenance.
+Sworn: Sworn law enforcement officers are those who have taken an oath to support the Constitution of the
+United States and the laws within their agency’s jurisdiction. Sworn officers have the responsibility to ensure
+the safety and quality of life of the community they serve. In Oregon, these individuals have met the state’s
+certification requirements.
+Oregon’s Fatal Five:
+• Speed
+• Occupant Safety
+• Lane Usage
+• Impaired Driving
+• Distracted Driving
+Oregon Secretary of State | Report 2022-02 | January 2022 | page 4
+calls for service. Other duties require additional training or certification and may be specialty
+assignments, including:
+• Collision Reconstruction: Investigate motor vehicle collisions and document evidence at
+crime scenes;
+• Drug Recognition Experts (DRE): Provide tools to identify drug-impaired drivers and to help
+differentiate between drug influence and medical or mental disorders;
+• Mobile Response Team (MRT): Provide tactical response to effectively deal with civil unrest;
+• Special Weapons and Tactics (SWAT): Provide 24-hour tactical assistance to all law
+enforcement agencies in Oregon;
+• K-9 Handler: Provide various services for tracking and detection with dogs;
+• Evidence Technician: Manage items of evidence and provides secure storage; and
+• Honor Guard: Provide ceremonial services.
+While these responsibilities are an inherent component of a trooper’s regular duties, they reduce time
+for patrols and responding to calls for service.
+Conversations with a Trooper: Trooper Zachary Cole
+Among OSP troopers, there is no such thing as a “typical” day on the job. Troopers may attend to vehicle crashes,
+address abandoned vehicles, aid stranded motorists, help change tires, serve warrants, respond to calls for service,
+perform welfare checks, fill out paperwork, and aid local LEAs with robberies or amber alerts. We spoke with three
+OSP troopers; here are their stories.
+Name: Trooper Zachary Cole
+How long he has worked for OSP: 6 years
+Region: Northwest
+Trooper Cole first began patrolling in the Portland area; he now patrols around Mt. Hood
+and the Government Camp area during the late afternoon and evening shift, his
+preferred shift. Evenings can “get a little wild” in his area, as there can be DUII and
+driving complaints.
+How the job has changed: Trooper Cole said the legalization of marijuana and minor
+infractions of other once illegal drugs has changed his job, as they no longer arrest for these anymore.
+What he likes about the job: Trooper Cole loves his job — he gets satisfaction from taking impaired drivers off the
+road, since they are often the reason behind fatal crashes. He enjoys that the job is never the same, there is
+always variety day to day.
+What might surprise people: Trooper Cole said many people report impaired drivers. Some motorists will even
+follow a suspicious driver until the trooper arrives. When he started, he was surprised at the amount of paperwork
+troopers have to do. For example, an impaired driver’s paperwork is roughly nine-pages and eats up more time
+than you would expect. Another surprise might be that with the passage of Measure 110, a narcotics violation is
+less expensive than a speeding ticket for driving 10 miles per hour over the speed limit.
+Oregon Secretary of State | Report 2022-02 | January 2022 | page 5
+OSP strives to maintain collaborative relationships with local and Tribal law enforcement
+agencies
+Troopers work closely with local law enforcement and periodically rely on them for backup if another
+trooper is unavailable or too far away to respond. These relationships can result in local law
+enforcement helping OSP with traffic stops or responding to service calls and large public events such
+as wildfires, mass casualties, and civil demonstrations, protests, and unrest.
+Some local agencies depend heavily on OSP troopers, which raises questions around the equitable use
+of state police resources. In 2021 legislative testimony, the City of Warrenton police chief said troopers
+are sometimes the only backup available for serious calls. In the same testimony, the Deschutes County
+Sheriff stated OSP is the closest and most abundant law enforcement some small communities h ave. In
+2020, the City of Portland relied heavily upon the support of OSP due to civil unrest.
+From 2012 until October 2020, OSP’s Grants Pass area command, and the Josephine County Sheriff’s
+Office were intertwined. Josephine County relied heavily on OSP to supplement its law enforcement
+function due to budget cuts that reduced the county’s police services. The area command handled the
+majority of calls for the county for approximately seven years before some funding was restored.
+Although the county has been reestablishing services, Grants Pass area command still handles the
+county’s calls where a detective is needed.
+OSP also maintains relationships with Tribal governments, through OSP’s Tribal Gaming Section,
+Athletic Commission, Fish and Wildlife Division, Fire Marshal’s Office, Criminal Justice Information
+Services Division, Medical Examiner’s Office, and many of the area commands. In OSP’s 2019
+government-to-government agency report, the agency highlighted the interactions between nine of its
+area command offices and Tribal governments. These interactions included attending meetings and
+workgroups, sharing information, partnering with the Tribal law enforcement in assisting calls for
+service, participating in training events hosted by Tribes, narcotic enforcement, and routine patrol
+coverage.
+The state has historically lacked an effective and consistent method
+for determining and funding OSP trooper staffing levels
+In 1980, Oregon voters approved a tax measure to shift OSP’s primary funding source to the state
+General Fund, creating long-standing budget challenges. This change spurred a steady decline in
+troopers that resulted in an all-time low in staffing during the 2003-05 biennium. For the past few
+years, OSP and the Legislature have worked to restore trooper staffing levels; however, this effort is
+hampered by budget challenges which OSP is addressing by using vacant trooper positions to pay for
+health care costs and administrative support positions.
+OSP lacks a dedicated funding source for state troopers
+In May 1980, Oregon voters approved Ballot Measure 1, which shifted OSP's primary funding source
+from the state gas tax to the General Fund. The Patrol Services Division is reliant on the state’s General
+Fund, which puts the agency into competition for funding with larger state agencies including the
+Department of Education, Oregon Health Authority, and Department of Human Services. State
+legislators must weigh each agency’s specific need for these competitive dollars against the state’s
+needs for their services. The competition for General Fund dollars makes OSP’s funding more volatile,
+Oregon Secretary of State | Report 2022-02 | January 2022 | page 6
+especially during economic downturns. Without a sound and consistent staffing methodology
+supported by data, the agency’s risk of having inadequate resources increases .
+Figure 2: OSP 2019-21 agencywide budget (adopted)
+Operational Areas Total Funding5  FTE6
+Patrol Services $190.1 million 534.25
+Fish and Wildlife $53.2 million 132.62
+Criminal Investigations  $51.9 million 135.22
+Forensic Services $52 million 137.76
+State Medical Examiner $6.2 million 12.50
+Agency Support Services $55.9 million 147.53
+Administrative Services $24.6 million 84.49
+Criminal Justice Information Systems $29.7 million 95.00
+Gaming Enforcement $12.3 million 36.26
+State Fire Marshal $29.6 million 66.88
+Total $505.5 million 1,382.29
+Source: Legislative Fiscal Office 2019-21 Legislatively Adopted Budget Detailed Analysis
+In the 40 years following the passage of Ballot Measure 1, state trooper staffing levels fell, hitting
+historic lows in the early 2000s.7 Trooper turnover also tends to be high — the job has a shorter “shelf
+life” than others due to the physical and mental toll of the work.
+During this time period, Oregon’s population continued to grow. In 1 980, the state’s population was
+2.63 million people, and division staffing was 665 troopers. Forty years later, Oregon’s population has
+nearly doubled to 4.27 million people, while the number of authorized troopers has fallen to 45 9.
+However, basing the agency’s staffing needs on population levels alone is not a good approach, as
+discussed in the Audit Results section of this report.
+In recent years, OSP has asked for increased financial support from the Legislature
+OSP’s budget challenges have long been a concern to policymakers in the state, including the Governor,
+legislators, the Legislative Fiscal Office (LFO), and the Department of Administrative Services Budget
+and Management Office (BAM). During the past three legislative sessions, lawmakers have i ncreased
+trooper positions. Additionally, OSP’s chief financial officer, along with the LFO and BAM, have been
+working together to address issues that prevented OSP from hiring all authorized positions —
+specifically, trooper positions within the Patrol Services Division.
+During the 2021 legislative session, OSP received additional funding for a total of 28 trooper positions.
+This included 10 restorative positions from the now-defunct Oregon State University campus security
+contract and 18 new, fully funded positions. The 10 positions from the Oregon State University
+assignment will be allocated to area commands in the Willamette Valley, while the 18 new positions will
+be included in two Basic Police Academy classes currently scheduled for January and July 2022. OSP will
+assign those positions to area commands at a later date.
+5 Funding sources include General Funds, Other Funds, Federal Funds, and Lottery Funds.
+6 Full-Time Equivalent. Includes both sworn officers and civilian positions.
+7 The passing of Ballot Measure 1 was the not the only factor in staffing reduction, as there was an economic recession in the
+early 2000s.
+Oregon Secretary of State | Report 2022-02 | January 2022 | page 7
+Although below the high of 726 positions it once had, Figure 3 shows the division’s trooper levels are
+increasing from the low in 2003. From the 1991-93 through 2019-21 biennia, the division’s staffing
+levels averaged 425 budgeted sworn positions. The division was up to 459 sworn positions in the 2019-
+21 budget.
+Figure 3: Patrol Services Division sworn staffing levels have decreased over the last 50 years
+Source: OSP Legislative Testimony for the 2019-21 biennium
+OSP has expressed concern these additional positions are not sufficient to effectively execute the
+division’s responsibilities. According to the agency’s 2021-2026 5-Year Strategic Roadmap, due to
+inadequate staffing levels, OSP is challenged in its ability to fulfill its day-to-day responsibilities while
+simultaneously responding to multiple large-scale incidents.
+Measure 110, the state’s historic wildfires, civil unrest, and increasing health care costs
+have placed additional burdens on OSP resources
+Beside the challenge of a competitive funding source, OSP has been charged with additional
+responsibilities, and has faced added burdens on its resources over the last few years. Some of these
+challenges have been addressed, while others are worth monitoring in the coming years:
+Measure 110: In November 2020, Oregon voters approved Measure 110, which decreases the amount
+of revenue OSP, and other agencies receive from taxes on marijuana sales. This tax revenue w as
+shifted to fund addiction treatment and behavioral health services. Measure 110 would have resulted in
+a reduction to OSP’s budget by about $40 million over the 2021-23 biennium, and around $7 million for
+the rest of fiscal year 2021. However, during the 2021 legislative session, legislators approved
+additional General Fund monies to backfill OSP’s budget for the 2021-23 biennium.8
+Wildfire and civil unrest response: In December 2020, OSP presented to the Emergency Board the
+budget impacts to the agency resulting from wildfires in the late summer of 2020, and prolonged civil
+unrest in the city of Portland. These events totaled over $3.2 million in unanticipated expenditures. Of
+that amount, over $2.5 million was used to cover overtime, travel, personal p rotective gear,
+replacement gear, and specialized training costs while OSP responded to civil unrest in the city of
+8 2020 Ballot Measure 110 requires the Secretary of State to conduct financial and performance audits of the uses and
+effectiveness by December 31, 2022, and biennially thereafter.
+Oregon Secretary of State | Report 2022-02 | January 2022 | page 8
+Portland over a four-month period. Roughly $700,000 was spent on overtime, services, and supplies
+during the wildfires. The Emergency Board approved the requests for this supplementary funding.
+Civil Unrest in Portland, Oregon, June 2020. | Source: OSP
+Health care costs: During the 2019-21 biennium, OSP incurred an estimated $4.9 million in General
+Fund costs to pay for health care benefit costs that were higher than expected. The Legislature
+provides about $1,600 per employee each month to cover health care costs, but employees have
+choices in their health care plans which may lead to higher costs for agencies. According to OSP, many
+of its employees choose plans that exceed the amount provided by the Legislature, which the agency
+has to absorb. Every state agency faces this challenge; generally, the costs either average out due to
+variability in employee choices or the agency absorbs the costs. According to our calculations , OSP
+absorbing these costs is equivalent to holding between 11 to 14 trooper positions vacant.
+Other states are looking to change how they fund highway patrol functions
+Like Oregon, other states have historically struggled to identify and fund state police staffing levels.
+This challenge has been exacerbated by fluctuations in budget resources. According to the Pew
+Charitable Trusts, the largest share of funding for highway patrols comes from state resources. The
+National Conference of State Legislatures reported state highway patrol is funded differently in each
+state, varying in levels of support from both state and federal funding sources. Twenty -five states use
+statutory or constitutional state highway fund dollars to pay for their highway patrols. From 2008
+through 2016, 14 states, including Washington, were looking at alternative or new funding sources for
+Oregon Secretary of State | Report 2022-02 | January 2022 | page 9
+their highway patrol functions.9 There is no generally recognized national state police funding criteria
+and model. This adds to the complexity of determining an appropriate number of troopers for OSP.
+Conversations with a Trooper: Senior Trooper Dessa DeForest
+Among OSP troopers, there is no such thing as a “typical” day on the job. Troopers may attend to vehicle crashes,
+address abandoned vehicles, aid stranded motorists, help change tires, serve warrants, respond to calls for service,
+perform welfare checks, fill out paperwork, and aid local LEAs with robberies or amber alerts. We spoke with three
+OSP troopers; here are their stories.
+Name: Senior Trooper Dessa DeForest
+How long she has worked for OSP: Over 13 years
+Region: Northwest
+During her time with OSP, Sr. Trooper DeForest has worked in the lottery and major
+crimes units, as well as in the dignitary protection unit serving as a bodyguard for
+Oregon’s Governor. Her typical day starts as soon as she puts on her uniform and
+walks out her front door to the OSP patrol vehicle parked in her driveway. Throughout
+the day, she attends to roadways in and around the Portland, Cascade Locks, and Mt.
+Hood areas. Sr. Trooper DeForest said one most important parts of the job is to deter
+and remove impaired drivers from the public roadways, especially since the number of
+impaired drivers has increased over the years.
+Patrolling during COVID-19: Sr. Trooper DeForest said it has been difficult to patrol during the COVID-19
+pandemic. Many Oregonians are not renewing their vehicle registrations. There have been more hit-and-runs, more
+angry people accused of menacing behavior (with some instances of individuals flashing weapons at others), and
+road rage.
+How the job has changed: When she started, OSP had 24-hour coverage and there was less traffic. Troopers used
+to write citations and crash reports by hand. Now, there are more people than ever on the road, and everything is
+electronic. Troopers are scrutinized more than in the past and everything troopers do is recorded — not just by
+the agency, but also by the public. For instance, she responded to a call of an individual on an interstate highway
+who was having a mental health crisis. When people stopped to film the interaction, they placed themselves in
+danger. She had to make sure everyone was safe and, though her attention was divided, she and other troopers
+were able to calm the person down and provide them the necessary help.
+What she likes about the job: Sr. Trooper DeForest enjoys helping people. She will hand out stickers and bracelets
+to children, bring baked goods to her co-workers, hand out water, or buy a meal for someone in need. She has
+helped people turn their lives around. For example, she helped a woman complete her diversion (driving under the
+influence of intoxicants program) paperwork; this same woman later used Sr. Trooper DeForest as a job reference
+when applying for flight attendant school. One of her favorite things is being a Drug Recognition Expert, which
+allows her to assist both OSP and law enforcement agencies to process and evaluate Controlled Substance DUII
+citations. She trains new officers from around the state in DUII Detection and Standardized Field Sobriety Tests.
+What might surprise people: Prior to becoming a trooper, she once lived out of her vehicle with her baby for nine
+months. She finds sometimes people just need to be heard. Officers tend to meet and handle people “having a bad
+day,” she said, and they just need to be listened to.
+9 National Conference of State Legislatures, 2017
+Oregon Secretary of State | Report 2022-02 | January 2022 | page 10
+Efforts to improve accountability and equity are the result of public
+scrutinization of policing practicing
+Policing practices are increasingly in the public eye, and members of the public as well as policymakers
+are calling for more accountability measures. OSP is working to increase its diversity, equity, and
+inclusion (DEI) efforts by recruiting and adding a new DEI team. The agency has also added body -worn
+cameras to all its troopers and review processes for handling any use of force incidents.
+Recruits during week one OSP pre-Academy, February 2020. | Source: OSP
+OSP is working to expand its diversity, equity, and inclusion efforts
+OSP’s trooper workforce is less diverse than Oregon’s population, both in terms of race and ethnicity,
+and in rural areas. The agency is taking steps to improve its recruitment and retention process so its
+workforce better reflects the demographics of the state. The agency is also analyzing its interactions
+with the public in an attempt to ensure fair and equitable treatment of all people. OSP’s efforts are
+outlined in its proposed 2021-23 Affirmative Action Plan.
+Figure 4: OSP’s workforce does not reflect Oregon’s population
+Self-Identified Demographics OSP State
+American Indian or Alaska Native 0.6% 1.0%
+Asian  1.5% 4.5%
+Black or African American 1.1% 1.9%
+Hispanic or Latino 4.2% 13.9%
+Native Hawaiian or Other Pacific Islander 0.3% 0.4%
+Two or more races 1.4% 6.1%
+Other - 0.5%
+White 90.9% 71.7%
+Total 100% 100%
+Note: Used most recent available data, therefore year dates may not align. | Source: OSP – 2021-23 Affirmative Action Plan;
+State – 2020 US Census “Hispanic or Latino, and Not Hispanic or Latino by Race” table
+Oregon Secretary of State | Report 2022-02 | January 2022 | page 11
+According to OSP’s 2021-23 affirmative action plan, the agency has
+in recent years made significant advancements in DEI training and
+staffing. OSP reports it has focused on educating and encouraging
+its workforce to embrace inclusion. The agency created an
+introductory implicit bias training program that has been delivered
+to more than half of the agency’s employees as of February 2021,
+in addition to participation at the Statewide DEI Conference. During
+the 2021 legislative session, OSP received approval and funding for
+a DEI team and additional implicit bias training. The team includes
+three positions dedicated to continuing and improving OSP’s DEI
+efforts. However, since these are new changes, it is too early to
+evaluate their impact on the agency.
+Additionally, the agency has revamped its recruitment approach,
+by increasing recruiting efforts at institutions with high
+percentages of people that represent the language, ethnic, and
+socioeconomic makeup of Oregon, incorporating Hispanic-serving
+institutions and historically black colleges into the regular rotation of visits, training employees to
+understand the cultural dynamics to recruiting underrepresented populations, and building
+relationships with Tribal youth across Oregon.
+OSP also has an extensive process to check a potential new recruit’s background, including a
+psychological examination of candidates that tries to identify candidate’s biases.
+Performed since 2003 by psychologist consultants, the screening techniques have traditionally
+included ten dimensions.
+10 OSP has adapted these dimensions for its psychological evaluation process
+and has recently requested the psychologist consultants add an 11th dimension based on
+multiculturalism. This dimension, previously included under communication skills, involves the
+recognition of how race, ethnicity, language, sexual orientation, gender, age, disability, class status,
+education, religious or spiritual orientation, and other cultural factors play out in individuals and society,
+as well as how the candidate is influenced by their own unique identity.  After the examination, the
+psychologist issues OSP a report indicating whether a candidate is qualified based on the results of the
+evaluation.
+According to one of the consultant psychologists, the psychological examination alone will not
+necessarily expose a candidate’s bias. If someone wants to hide a discriminatory leaning, they can.
+According to the psychologist, if a candidate sees the pattern of the questions, the person could adapt
+the answers to address the bias. However, a mitigating factor is a deep dive during the background
+check that will pick up a bias leaning. Furthermore, while one round of background reference interviews
+might not uncover biases, a second or third round of interviews could pick up inconsistencies and do
+more to identify biases.
+Even though OSP has been conducting these psychological screenings since 2003, Oregon statute d id
+not require OSP or local law enforcement agencies to perform them until 2019. Additionally, the law
+10 California Commission on Peace Officer Standards and Training, Peace Officer Psychological Screening Manual.
+Assessment Techniques, Eleven
+Dimensions
+1. Integrity
+2. Impulse Control/Attention to
+Safety
+3. Current Drug Use & Other Risk-
+Taking Behavior
+4. Stress Tolerance
+5. Confronting and Overcoming
+Problems, Obstacles, & Adversity
+6. Conscientiousness
+7. Interpersonal Skills
+8. Decision-Making and Judgment
+9. Learning Ability
+10. Communication Skills
+11. Multiculturalism
+Oregon Secretary of State | Report 2022-02 | January 2022 | page 12
+does not include what the agency must do with the exam results. The consultant psychologist stated
+this lack of requirement seems to make Oregon’s approach one of the weakest in the country.
+Policing practices are under increasing scrutiny
+Policing practices have long been under scrutiny, often prompted by outrage at police actions
+perpetrated against people of color. For example, the Watts Riots in August 1965 started with a traffic
+stop of a young Black man in Los Angeles and ended in six days of civil unrest that led to 34 deaths and
+$40 million of property damage. In April 1992, fury over the acquittal of four Los Angeles police officers
+who had beaten Rodney King spilled into the Los Angeles streets and ignited a national conversation
+about police use of force. The murder of George Floyd by a Minneapolis police officer in May 2020 led
+to months of unrest in at least 140 U.S. cities, including several in Oregon and additional discussion of
+police reforms.
+Oregon’s Governor authorized OSP and the Oregon National Guard to respond to civil unrest in
+downtown Portland. In September 2020, the Governor declared a state of emergency in Portland to
+allow authorities to better respond to the events. An OSP official told the audit team they had 31
+nights of Portland riot response between May 30, 2020 and September 30, 2020. Between 50 and 100
+Mobile Response Team, SWAT, troopers, and supervisors responded each night, with the bulk of the
+response happening in June and August.
+Portland was not the only Oregon city affected by protests and civil unrest. For example, in Salem, at
+the state capitol building, and in Ontario in eastern Oregon, law enforcement, including OSP responded
+to protests and civil unrest. During this period, there was increased state and national media coverage
+for police response to these events.
+Accountability measures are critical to public safety
+Following the events of 2020, the law enforcement profession has
+faced public demands for police reforms and increased
+accountability. In 2020 and 2021 Oregon lawmakers passed many
+bills aimed at police reforms.
+OSP has had some measures in place for years. The agency has been
+collecting traffic stop and use of force data for at least 10 years and
+has been using in-car video systems for nearly 10 years. OSP also
+created the Car Care Program promoting education over
+enforcement and has incrementally deployed body-worn cameras for sworn officers.
+As of September 2021, all sworn OSP staff carry body cameras and are expected to comply with
+agency policies regarding their use. During the 2021 legislative session, OSP received funding for both
+body-worn cameras and video storage.
+While body-worn cameras help with accountability, improving officer conduct and training is important
+not only for accountability, but to prevent poor behavior in the first place. One of the controls to help
+ensure correct conduct is police academy training, which all new law enforcement recruits across the
+state must attend. This training is 16 weeks and involves CPR, first aid, de-escalation education,
+survival skills, firearms use, and use of force education.
+Use of Force
+This is the amount of effort
+required by police to compel
+compliance by an unwilling
+subject.
+Source: The International
+Association of Chiefs of Police
+Oregon Secretary of State | Report 2022-02 | January 2022 | page 13
+OSP also provides six weeks of pre-academy training and 16 weeks of post-academy, including on-the-
+job training under the supervision of a training trooper. Altogether, these 38 weeks provide sworn staff
+with the baseline training needed to patrol on their own. Sworn staff are required to have ongoing
+training as a part of their certification. The ongoing training includes a required eight hours a year of
+use of force training, and about 12 hours a year of de-escalation training.
+After action reports may help ensure officer accountability. These reports contain information on the
+type of incident and whether the officer’s actions met standards. Details provided by the officers
+involved include the decision factors on use of force during the incident. Once the report is completed,
+it goes to the sergeant or supervisor, who reviews the report to confirm if the use of force was applied
+appropriately. The report is then passed on to the area’s lieutenant and captain, major of field
+operations, and the Office of Professional Standards. A part of the report review includes assessing
+whether there is a need for the trooper to receive additional coaching or corrective action. According
+to OSP, from 2012-19, on average, use of force occurred 1 out of every 1,635 enforcement contact s.11
+While not the focus of this audit, we observed the use of force incidents are codified into an internal
+report each year and placed into an internal dashboard to identify trends and areas to address.
+Although the reports are not released to the public, the agency does release high -level summaries in
+response to public records requests.
+Aside from the lack of public availability, one other issue we observed pertains to demographic
+information in the reports. Specifically, the race and gender metrics are based solely on trooper
+observation and interpretation, which could result in erroneous data collection.
+Additional law enforcement accountability measures OSP has implemented since 2016 include:
+• Developing and implementing policies on pursuit and use of force;
+• Training regarding implicit bias and failure to act scenarios;
+• Setting agency strategic direction and compiling a five-year strategic plan document;
+• Expanding community involvement by participating in the statewide diversity council,
+giving presentations on OSP involvement in civil unrest events, attending the Black Student
+Summit, Hispanic Heritage Breakfasts, and the Portland and Bend Pride parades; and
+11 Via OSP’s 2019 Traffic Stop Data Collection and Use of Force Report.
+Use of Force may include:
+• Physical Control: Using empty hand tactics such as wrist locks, control holds, and takedowns
+• Empty Handed Strikes: Punching or kicking with no weapon
+• Chemical Agents: Releasing an irritant, such as pepper spray
+• Impact Weapons: Hitting with a baton; may include using an object such as a flashlight as a weapon
+• Firearms: Discharging a firearm at a subject
+• Canine Bite: Bites from a police dog
+• Extended Range Impact Weapons: Discharging a firearm that uses less lethal projectiles (“bean-bag gun”)
+• Vehicle Intervention: Using a police vehicle to deflect a subject’s vehicle; using spike strips to stop a vehicle
+• Conducted Energy Devices: Immobilizing a subject with a taser-like device by discharging a high-voltage,
+low-amperage jolt of electricity at a distance
+Oregon Secretary of State | Report 2022-02 | January 2022 | page 14
+• Enhancing statistical transparency by conducting a use of force survey and data review and
+creating a patrol activity dashboard.
+The Oregon Audits Division released an audit of the Department of Public Safety Standards and
+Training, use of force regarding training provided during the Basic Police Academy and police
+accountability. Review of police use of force was included in the audit. 12 OSP was included in the scope
+of that work, and any recommendations stemming from that report could impact OSP as it rec ruits and
+trains troopers.
+Conversations with a Trooper: Senior Trooper Ryan Sharp
+Among OSP troopers, there is no such thing as a “typical” day on the job. Troopers may attend to vehicle crashes,
+address abandoned vehicles, aid stranded motorists, help change tires, serve warrants, respond to calls for service,
+perform welfare checks, fill out paperwork, and aid local LEAs with robberies or amber alerts. We spoke with three
+OSP troopers; here are their stories.
+Name: Senior Trooper Ryan Sharp
+How long he has worked for OSP: 13 years
+Region: East
+Sr. Trooper Sharp has been an OSP trooper in both the Patrol and Fish & Wildlife
+Divisions. Currently, he works dayshift, patrolling and enforcing speed limits on I-84
+in Umatilla and Morrow counties. Patrolling in rural Oregon can be challenging; there
+is not a SWAT team to help handle situations, so OSP troopers need to be ready to
+respond to all kinds of situations.
+How the job has changed: The job is always changing. When he first started, they did not have computers in the
+vehicles. They mostly used radios, but now the vehicles are fully equipped. Crime laws and policies have changed.
+With the legalization of marijuana and changes to what OSP can pursue, troopers’ mindsets and approaches must
+constantly shift. During the last year, he has noticed attitudes toward troopers have changed to more of an anti-
+police sentiment.
+What he likes about the job: Sr. Trooper Sharp enjoys feeling he has made a difference. He feels one of the best
+parts of the job is helping people. He is also part of the MRT and even though it is not easy, it is a rewarding part of
+the job. When he was deployed in the Portland area during the civil unrest, people would line the streets and cheer
+when his team’s truck drove past and that felt good knowing they had that positive response.
+What might surprise people: The public thinks OSP is just a highway patrol, which is not the case. If a vehicle is
+broken down on the side of the road, it is within the trooper’s job to serve and help the person in the vehicle. He
+dislikes writing citations, so he might choose instead to issue a warning. Troopers are not there to “ruin people’s
+day.” Also, contrary to public belief, there are no quotas for tickets.
+12 Report 2021-35: Additional Resources Needed to Strengthen Police Training and Accountability
+Oregon Secretary of State | Report 2022-02 | January 2022 | page 15
+Audit Results
+While the Legislature is the body that approves agency budget and staffing levels, agencies are
+responsible for putting those resources to work. We found while there is no universal best practice,
+generally accepted staffing models, academic research, or national criteria for the number of law
+enforcement officers for any one agency, the number of troopers OSP currently deploys does not
+appear to be sufficient to address its current duties. We also found OSP can improve how it assesses
+staffing needs by analyzing workload (time-based) data when preparing budget information for the
+Legislature. The agency can also better equip area commanders to deploy troopers where they are
+needed most by establishing and documenting a consistent approach for shift schedule development.
+OSP should enhance its workforce planning methodology and
+analytics
+To understand whether an entity has sufficient staffing, those responsible must understand the
+requirements and expectations of their organization. Most agencies receive their purpose and duties
+from state statutes and the resources to accomplish those duties from the Legislature’s biennial
+budget.
+Though the Legislature appropriates resources, it is the responsibility of OSP to determine its staffing
+needs, including accounting for factors which affect the demand for OSP's services. While the agency is
+tracking and analyzing these demands, we identified some elements missing from these analyses that,
+if implemented, could allow OSP to better understand its staffing needs and leverage existing trooper s
+to promote greater public safety.
+OSP’s current method for determining staffing needs is among the least effective
+available and does not account for Oregon’s changing policing environment
+Staffing law enforcement agencies is complex and challenging. I n Oregon, there are many types of law
+enforcement agencies, including: OSP, county sheriffs, city police, Tribal police, and federal agencies
+like the FBI and the Secret Service. Regardless of the type of law enforcement agency or jurisdiction,
+there is no universal best practice, generally accepted staffing models, academic research, or national
+criteria for the number of law enforcement officers for any one agency. 13
+Because of the eclectic differences between law enforcement agencies and the lack of indu stry
+guidance, law enforcement agencies need to adopt staffing methodologies based on factors specific to
+their areas of jurisdiction and responsibility. Law enforcement agencies have various service
+requirements and functions, and their jurisdictions have distinct demographic traits and characteristics,
+all of which must be accounted for when determining the sufficient number of staff for their
+jurisdiction. It is due to these differences that comparisons of staffing levels between law enforcement
+agencies is not very useful.
+13 The FBI gathers and publishes data on the number of full-time law enforcement officers per 1,000 inhabitants for some
+jurisdictions. Within its publications, however, the FBI cautions users from making comparisons, even going so far as to warn
+users the data should not be interpreted as preferred staffing levels recommended by the FBI.
+Oregon Secretary of State | Report 2022-02 | January 2022 | page 16
+While there is no “one size fits all” number dictating the proper number of law enforcement officers for
+a jurisdiction, there are analytical methods that can help agencies quantitatively understand the need
+for their services. In 2014, Oxford University Press published a study on police staffing allocation and
+managing workload demand.14 In the study, authors reviewed typical staffing approaches, interviewed
+law enforcement agencies, and conducted a focus group with staffing experts. They concluded police
+agencies generally use one of four approaches to determining workforce levels, and whi le each method
+has strengths and weaknesses, a workload (time) based approach is preferable to others that might
+not account for environmental and agency-specific variables. The table on page 17 highlights the
+strengths and weaknesses of each approach.
+OSP has also provided other analyses to the Legislature to support Patrol Services Division staffing
+increase requests, including analyses showing how traffic fatalities and crashes have increased and how
+response times have gone up compared to periods when the agency had more troopers. OSP
+leadership has also spoken to the safety impacts on troopers by citing longer times for backup to arrive
+or troopers working with no backup. However, when analyzing its staffing needs and presenting them
+to the Legislature, OSP emphasizes a staffing approach using the per capita method, and frequently
+compares itself to other states.15
+As noted in the table below, this approach has considerable drawbacks. In
+fact, the per capita method is generally recognized as the weakest of the
+available methods to calculate staffing needs. Despite having many of
+the data available within its own information systems, OSP does not use
+workload-based or time-based data to analyze and develop its division
+staffing budget requests.
+A workload (time) based analysis involves tracking and analyzing measurable tasks troopers conduct
+during their shifts and then comparing it to the time troopers have available. The analysis should also
+account for common reasons troopers are taken off the road, such as training and actual paid time off.
+The difference between workload demand and trooper capacity may reveal a surplus, which could
+suggest an excess of staffing. Alternatively, the analysis may show there is more work than trooper
+time. In that case, the analysis can also help OSP estimate how many additional positions it would need
+to cover that deficit. As highlighted by the authors in the Oxford assessment of police staffing
+approaches, a workload (time) based approach would also allow OSP to account for variables within
+each area command and grants the agency flexibility to alter its approach in response to police reform
+which may change the expectations and demands of policing. OSP should include this method when
+developing its staffing needs.
+14 Police Staffing Allocation and Managing Workload Demand: A Critical Assessment of Existing Practices, Oxford University Press,
+2014.
+15 OSP has also incorporated the minimum staffing approach when estimating the number of troopers it would need to restore
+and maintain 24-hour coverage.
+Per Capita Method
+This method is generally
+recognized as the weakest
+of the available staffing
+calculation methods.
+Oregon Secretary of State | Report 2022-02 | January 2022 | page 17
+There are four common workforce determination approaches
+Workload-based (Time-based) Minimum Staffing Authorized Level Per Capita
+Description
+A comprehensive attempt to determine
+appropriate workforce levels by considering
+actual workload based on demand for service
+indicators.
+Requires an estimation of the
+sufficient number of officers to
+have on duty at a given time to
+maintain officer safety and
+provide an adequate level of
+protection to the public.
+Uses budget allocations to specify
+how many officers may be allocated
+to an agency.
+Agencies determine an optimum
+number of officers per person, then
+project that figure to the total
+population of its jurisdiction.
+Strengths
+• Estimates are developed by modeling
+current activities, which can assist in
+determining the need for more or
+reallocation of existing resources.
+• Can be performed at every level and for
+all functions of a law enforcement
+agency.
+• Codified as a standard by the
+Commission on Accreditation for Law
+Enforcement Agencies.
+• Is the most preferred of the approaches.
+• Input data such as
+population, calls for
+service, crime rate, etc.,
+are readily available.
+• Driven by resource availability. • Readily available data and
+regularly updated.
+• Simple to calculate and
+understand.
+• Can allow communities to
+compare themselves with those
+they believe are similar.
+Weaknesses
+• No universal method for conducting a
+workload-based assessment.
+• Connecting staffing decisions to calls for
+service and time required to complete
+them could disincentivize employees’
+timeliness.
+• Learning to conduct workload-based
+assessments may be challenging, as they
+can be complex.
+• There are no objective
+standards for setting
+minimum staffing levels.
+• Can result in erroneous
+staffing levels if agencies
+do not employ a factual
+basis for making staffing
+decisions.
+• Can lead to unwarranted
+overtime.
+• Influenced by political decision-
+making.
+• Reflects incremental budgeting
+processes instead of identifiable
+criteria such as calls for service,
+community expectations, or
+efficiency analyses.
+• Can become an artificial
+benchmark for actual need and
+create a misperception that an
+agency is understaffed if the
+number of officers does not meet
+authorized levels.
+• There is no generally accepted
+benchmark for optimum staffing
+levels.
+• Can result in biased estimates.
+• Does not account for intensity of
+workload, variations in policing
+style, response to crime, and
+differences in communities.
+• Called an “inappropriate basis for
+staffing decisions” by the
+International Association of
+Chiefs of Police.
+Oregon Secretary of State | Report 2022-02 | January 2022 | page 18
+Area commands are not consistently conducting and documenting trooper
+deployment analyses
+State agencies receive their purpose and responsibilities from the state constitution and statutes, while
+the Legislature appropriates funds to accomplish those duties. However, once budgets are approved,
+and agencies switch their focus to service delivery, demand for services can cause OSP to shift where
+they deploy their resources in the state.
+Members of OSP leadership team regularly meet to decide where OSP will deploy troopers. During
+these monthly meetings, leadership discusses staffing needs to address retirements, vacancies, and
+workload demands. Agency leadership also reviews data including calls for service, crashes, fatal
+crashes, weather-related events, the trooper transfer list, and the incoming recruits due to complete
+the Basic Police Academy. Upon considering all these factors, leadership assigns troopers to areas.
+Once resources are allocated, OSP leadership expects area commanders to develop a schedule for the
+troopers to ensure there are sufficient resources during the highest demand t imes, and to respond to
+emerging events. We interviewed area commanders across the state to determine how they allocate
+their troopers. We found while area commanders are required to develop these schedules, there is no
+consistent method, criteria, or format for these schedules.
+Trooper provides gas during winter 2019 snow event. | Source: OSP
+Oregon Secretary of State | Report 2022-02 | January 2022 | page 19
+For example, area commanders are expected to consult the department’s patrol activity data for their
+assigned areas, along with Oregon Department of Transportation crash data in an effort to assess risks
+and the level of need on a given time and day. However, this expectation is verbally communicated,
+instead of being documented in agency policies and procedures. We also found there is no requirement
+to document these plans, or the methodology used to create them; in some area commands, a verbal
+review with the Region Captain is all that is required for approval.
+The shortcomings of this process are the result of three fundamental flaws. First, OSP has not
+developed a process laying out how these analyses are to be completed. Second, OSP has not set
+formal expectations that area commanders follow a uniform process. Third, OSP has not trained area
+commanders on how to conduct these analyses.
+OSP does have a tool area commanders can utilize to build a patrol schedule. An area commander
+within the division used a tool he brought from another law enforcement agency and adapted it to
+work for his area command. The tool incorporates data from calls for service and crash dat a, among
+other inputs, to develop the shifts. The area commander shared the tool with the Region Captain, who
+asked the rest of his area commanders to also use it. OSP could revise this tool as needed, train area
+commanders how to use it, and then set formal expectations they follow this process when developing
+workload analyses.
+Determining appropriate trooper staffing levels is critical for both officer and public
+safety
+Troopers and the public may face safety risks resulting from lower staffing levels. As many
+organizations have found since the onset of the COVID-19 pandemic in March 2020, OSP troopers
+needed to take additional time off. In addition, the wildfires and civil unrest of 2020 increased the
+demands on troopers, adding additional stressors on staff and further stretching the already thin
+resources of the division.
+Though not all troopers were called to respond to the protests and riots beginning in May 2020, many
+troopers were affected. Many area commands sent troopers to Portland and Salem, leaving the
+remaining troopers to cover the gaps in schedules. Due to position vacancies, scheduling holes, and
+those on special assignment, certain areas were left to operate with fewer troopers, some with only a
+single trooper. These impacts came at a time when 10% of the division’s calls for service went
+unanswered due to troopers being unavailable, and 24-hour coverage was not possible.
+Many troopers work alone in large, rural areas. As a result, backup, which might be another trooper or
+local law enforcement officer, can be more than 30 minutes away. This can be dangerous for both the
+trooper and the public. Area commanders expressed concern for their troopers and the potential
+impacts to the public. Working alone, with limited or no immediate backup, can lead to trooper fatigue,
+both mental and physical. Fatigue could make troopers more prone to mistakes and accidents, place
+them at higher risk of injury or death, lead to burnout resulting in resignation or early retirement, and
+increase leave time usage. Additionally, some studies have assessed how fatigue effects police use of
+force. These studies found officer decision-making and reaction time can be impaired when facing
+deadly-force situations while fatigued.
+Oregon Secretary of State | Report 2022-02 | January 2022 | page 20
+Trooper uses a Mobile Data Terminal. | Source: OSP
+Lower staffing levels in the Patrol Services Division are also likely to affect public safety. For example,
+fewer troopers on the road can lead to increased traffic accidents, injury, or even loss of life. Fatalities
+on Oregon's highways have increased since the early 2010s. According to the Oregon Department of
+Transportation, from 2010 to 2018, total fatalities on Oregon highways increased by 61%. One of OSP's
+key performance measures is to help reduce fatal crashes on Oregon's state and interstate highways,
+however, crashes have exceeded the target goals and generally continue to increase.
+From 2009 to 2019 in Oregon, 2,531 vehicle occupants were killed. 16 In 2018, the Centers for Disease
+Control reported 480 people in Oregon were killed in motor vehicle traffic crashes, and those traffic
+crash deaths totaled about $640 million in medical and work loss costs. Nationally, motor vehicle
+crashes are a leading cause of death for people aged one to 54.
+Additionally, research shows traffic accidents account for approximately 25% of highway system
+congestion, and motor vehicle traffic injuries are one of Oregon's leading causes of death and
+hospitalization.
+While it is unclear how many troopers OSP actually needs, it does not appear OSP currently has  enough
+to accomplish all of its broad and varied duties in a safe and timely manner. Additionally, increased
+trooper presence on state highways and interstates may reduce accidents and fatalities.
+OSP could improve its analysis of historical overtime usage
+Overtime is a practice common in law enforcement that pays troopers a premium wage for hours
+worked above their normal schedule. OSP has two overtime options: regular overtime, in which OSP
+16 According to Centers for Disease Control and Prevention for all Oregon roads.
+Oregon Secretary of State | Report 2022-02 | January 2022 | page 21
+budgets hours every month for every trooper position it has, and grant overtime. Analyzing overtime
+usage is one of the main ways to control overtime and ensure it is used responsibly. However, OSP has
+not developed a consistent method to do this, though it has developed the datapoints needed to
+perform this analysis.
+Troopers can work budgeted or grant-funded overtime
+OSP makes two types of overtime available to its troopers. The first is what OSP calls regular overtime,
+meaning the extra hours worked beyond a set schedule. The second type of overtime is grant, in w hich
+entities like the Oregon Department of Transportation reimburse OSP for trooper time spent enforcing
+things like speeds in construction zones, seatbelt use, distracted driving, and others. Regardless of the
+type of overtime worked, using it requires supervisor approval.
+Portland’s Lieutenant Huskey helps change a tire, summer 2021. | Source: OSP
+Though approval is required, and overtime must serve an operational need, the amount troopers may
+work has some limits. The collective bargaining agreement between the State of Oregon and the
+Oregon State Police Officers Association dictates a trooper is entitled to a safety release period of
+eight consecutive hours if they have worked 18 or more hours in a 24-hour period. This release is
+intended to give a trooper the opportunity to rest when workload requires additional trooper response.
+If OSP cannot give a trooper the safety release, they are paid the overtime rate for all hours worked
+until they receive the safety release. OSP does not have to pay a trooper this leave if the safety
+release would occur during the trooper’s regular time off. Aside from this protection for the trooper,
+Oregon Secretary of State | Report 2022-02 | January 2022 | page 22
+the collective bargaining agreement has no other restrictions on the amount of overtime a trooper may
+work.
+Analyzing overtime data could reveal patterns in how it is used, and inform future
+budget requests
+The primary means of controlling overtime in law enforcement are to record, analyze, manage, and
+supervise its use. OSP performs all of these in some fashion. For example, it creates and uses different
+pay codes when recording overtime so it can track use by type (regular and grant) and specific events
+like civil unrest response and wildfires. In addition, OSP’s chief financial office creates overtime use
+reports and distributes them to the area commands in an effort to help manage overtime. Finally,
+supervisors in the area commands review trooper timecards to ensure overtime met an operational
+need.
+However, we found OSP does not consistently analyze overtime data for usage and other potential
+insights. While OSP supervisors are reviewing timecards and overtime reports, these administrative
+functions lack the insight a deeper level of analysis can provide. Data-driven analyses would allow law
+enforcement agencies to assess whether overtime costs justify the work done, if an agency has the
+capacity to pay for overtime, and identify potential overtime abuse. It also gives an agency insight into
+what events commonly generate overtime, how much overtime those event s require, and how
+frequently overtime is needed.
+Highway 22 near Aumsville during January 2021 snowstorm. | Source: OSP
+Oregon Secretary of State | Report 2022-02 | January 2022 | page 23
+By not consistently analyzing overtime, OSP is missing the opportunity to enhance its management and
+supervision of overtime, as well as improving future budget requests for overtime funding. Budget
+requests built on historical overtime needs could help prevent cash flow issues that could arise if OSP
+does not have the resources it needs for anticipated overtime. As noted earlier in th e report, overtime
+from unexpected events such as wildfires and civil unrest is addressed through Emergency Board
+actions.
+We requested division overtime data from OSP, including monthly overtime usage and costs from July
+2019 through June 2021. During that time, the division’s regular overtime use averaged 4,902 hours per
+month.17 Monthly overtime use is not consistent, and can fluctuate due to unexpected events, but
+understanding the average need over a period of time is useful for budget development and staffing
+decisions.
+OSP uses trooper positions as a flexible funding source for other needs
+Position vacancies are extremely common in government, and they occur for a variety of reasons —
+people resign, retire, or transition to other employers. While agencies generally work to fill most
+vacancies, there are times where agencies will leave positions vacant for strategic purposes. As
+discussed in our 2019 audit on budget transparency, agencies commonly use vacancies to fund their
+operations. For example, agencies hold positions vacant in one area to pay for positions in another
+area. While this practice provides an agency with some flexibility, we concluded it complicates
+determining agency priorities and evaluating performance.
+OSP also uses these budget practices. In fact, despite the staffing issues previously discussed in this
+report, we learned OSP uses trooper position funding — specifically vacancy savings — to fund other
+agency positions and expenses.
+In addition to the vacancies OSP is using to cover health care costs, it is also holding some trooper
+positions vacant to pay for double-filled administrative positions like those in human resources and its
+budget office.19 Among these are administrative positions OSP had to eliminate due to 2003 legis lative
+budget cuts. Though OSP requested funding to restore these positions in its 2021-23 budget request,
+only a few of the positions were approved. These positions are foundational to OSP’s administrative
+functions.
+17 These calculations include the early part of the COVID-19 pandemic, and periods when Oregon experienced catastrophic
+wildfires, and civil unrest. During this timeframe, there were months when OSP’s regular OT use was less than normal. Prior to
+these events, OSP’s regular OT use averaged 61% of its budgeted amount.
+18 Report 2019-29: Enhanced Transparency in Key Budget Practices Would Improve Governance and Inform Decision-Making for
+State Spending
+19 Double-filling is a practice in which an agency places more than one employee in a single position. These are often used to
+address a short-term increase in workload, ensuring a smooth transition with an upcoming retirement, or succession planning.
+Oregon Secretary of State | Report 2022-02 | January 2022 | page 24
+Recommendations
+To improve trooper staffing analyses, promote public safety, and make the best use of budgeted
+resources, OSP should:
+1. Use available time-based data to analyze the Patrol Services Division’s workload and include the
+results when presenting budget requests to the Legislature.
+2. Continue working with the Legislature to appropriately fund administrative support positions
+and fill vacant trooper positions.
+3. Create a standardized methodology and process for conducting workload analyses at the area
+level, train the appropriate staff to conduct them, and incorporate them into the Patrol Services
+Division’s scheduling plan.
+4. Develop processes to regularly analyze overtime usage for improved efficiency.
+While not within the audit’s scope owing to the fluid and evolving nature of police reform and
+accountability efforts, OSP should account for the changing law enforcement environment within its
+staffing strategy and methodology including assessing whether all current duties are aligned with the
+evolving nature of state policing public policy.
+Oregon Secretary of State | Report 2022-02 | January 2022 | page 25
+Objective, Scope, and Methodology
+Objective
+The objective of this audit sought to determine whether the Patrol Services Division’s workforce
+planning efforts adequately consider public needs and trooper safety.
+Scope
+The audit focused on OSP’s efforts to analyze the division’s need for and deployment of trooper
+workforce resources, and how it plans and uses overtime. The audit also included efforts to assess how
+duties from other OSP programs impacted resource levels in the division.
+Methodology
+To address our audit objectives, auditors used a methodology that included, but was not limited to,
+interviews with key staff, reviewing relevant laws, rules, OSP generated analyses, and other
+documentation. Auditors also reviewed criteria regarding workforce planning, overtime use, and police
+staffing.
+To learn about the views, opinions, and perspectives of the auditee and some stakeholders, we
+conducted interviews with staff at OSP, the LFO, the Department of Administrative Services Office of
+Budget and Management, the Governor’s Office, and the Oregon State Police Officers Association.
+We documented and analyzed relevant statutes, legislative hearings and testimony, budgets dating
+back to 1951, public reports, and OSP overtime data.
+Internal control review
+We determined the following internal controls were relevant to our audit objective. 20
+• Control Environment
+• Has management established an organizational structure, assigned responsibility,
+and delegated authority to achieve the entity’s objectives?
+• Has management demonstrated a commitment to recruit, develop, and retain
+competent individuals?
+• Risk Assessment
+• Has management defined objectives clearly to enable the identification of risks and
+define risk tolerances?
+• Has management identified, analyzed, and responded to risks related to achieving
+the defined objectives?
+• Has management identified, analyzed, and responded to significant changes that
+could impact the internal control system?
+• Control activities
+20 Auditors relied on standards for internal controls from the U.S. Government Accountability Office, report GAO-14-704G.
+Oregon Secretary of State | Report 2022-02 | January 2022 | page 26
+• Has management designed control activities to achieve objectives and respond to
+risks?
+• Has management designed the entity’s information system and related control
+activities to achieve objectives and respond to risks?
+• Has management implemented control activities through policies?
+• Information and communication
+• Does management use quality information to achieve the entity’s objectives?
+• Has management internally communicated the necessary quality information to
+achieve the entity’s objectives?
+• Has management externally communicated the necessary quality information to
+achieve the entity’s objectives?
+• Monitoring activities
+• Has management established and operated monitoring activities to monitor the
+internal control system and evaluate the results?
+• Has management remediated identified internal control deficiencies on a timely
+basis?
+Deficiencies with these internal controls were documented in the results section of this report.
+We conducted this performance audit in accordance with generally accepted government auditing
+standards. Those standards require that we plan and perform the audit to obtain sufficient, appropriate
+evidence to provide a reasonable basis for our findings and conclusions based on our audit objectives.
+We believe that the evidence obtained provides a reasonable basis for our findings and conclusions
+based on our audit objectives.
+We sincerely appreciate the courtesies and cooperation extended by officials and employees of OSP
+during the course of this audit.
+About the Secretary of State Audits Division
+The Oregon Constitution provides that the Secretary of State shall be, by virtue of the office, Auditor
+of Public Accounts. The Audits Division performs this duty. The division reports to the elec ted
+Secretary of State and is independent of other agencies within the Executive, Legislative, and Judicial
+branches of Oregon government. The division has constitutional authority to audit all state officers,
+agencies, boards and commissions as well as administer municipal audit law.
+Audit team
+Ian Green, M.Econ, CGAP, CFE, CISA, CIA, Audit Manager
+Kyle Rossi, Principal Auditor
+Nicole Barrett, MPA, Staff Auditor
+Oregon
+Oregon State Police
+General Headquarters
+Kate Brown, Governor
+3565 Trelstad Ave SE
+Salem, OR 97317
+Voice: 503-378-3720
+Fax: 503-378-8282
+TTY:  503-585-1452
+January 11, 2022   Mr. Kip Memmott, Director Secretary of State, Audits Division 255 Capitol St. NE Suite 500 Salem, OR 97310
+Mr. Memmott,
+This letter provides a written response to the Audits Division’s final draft audit report titled
+“Additional Data Analytics Could Better Determine Trooper Staffing Levels and Resource Needs”.
+I would like to begin by communicating to you and the audit team the Department’s appreciation of
+the investment made in the examination of the models and practices utilized by the Patrol Division
+in determining staffing needs and deployment.  The Mission of Oregon State Police is to serve all
+people with a priority of safeguarding life, property, and natural resources by building upon a
+diverse, professional, and trustworthy workforce. Our values: Loyalty, Dedication, Compassion,
+Integrity and Honor, represent the “moral compass” of our agency.  Accomplishing this mission is
+dependent on the deployment of highly trained, competent and professional Troopers across all areas
+of the state.
+After a review of the audit, the Department generally agrees with recommendations made by
+auditors.  We also agree that implementing some of the recommendations will help provide
+standardized expectations of area commanders and paint a clearer picture of the staffing resources
+needed to provide the services expected from the department.
+Below is our detailed response to each recommendation in the audit.
+RECOMMENDATION 1
+Use available time based data to analyze the Patrol Division’s workload and include
+the results when presenting budget requests to the legislature.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Generally Agree  2023-2025 Budget cycle
+Cord Wood, Captain
+503-378-3720
+Narrative for Recommendation 1
+Over the previous two budget cycles, the Department has used two different staffing models
+discussed in the audit report to illustrate staffing needs.  For the 2017-2019 budget cycle, the
+Department presented information based on a 24-hr coverage staffing model.  For the 2019-2021
+budget cycle, the Department used a per capita model for staffing, which the Department felt
+illustrated the stark difference in Oregon State Police staffing when compared to similar law
+enforcement agencies with parallel responsibilities.  Both models illustrated the Department needs
+additional staffing resources.
+The Department generally agrees there is benefit to making better use of available data and will
+explore alternative data analysis models to examine workloads and staffing needs in Area
+Commands across the state.  An analysis of demand for service indicators does reveal the baseline
+number of outputs requested in an Area Command.  This data can be used to deploy available staff
+during times of peak demand.  However, time based-data, while useful in extrapolating baseline
+demands for service and peak days/times, is only one element of the information needed to
+determine staffing needs for legislative budget requests.
+A weakness of time-based analysis is the assumption that all calls for service are equal, and require
+the same resources for every event.  Time-based analysis also tends to focus on the number of
+outputs processed over a defined period, missing the outcomes that are so important to public safety.
+Time based analysis alone also misses important factors such as show-up rate, proactive
+enforcement time, patrol area size, and other responsibilities of staff beyond responses to calls for
+service.
+To overcome the shortcomings of time-based analysis, the Department may also consider combining
+time-based workload, with other qualitative approaches to gain more holistic view of the demands
+placed on staff, and overcome shortcomings of this model of analysis.  The Department will work
+toward refining processes that synthesize quantitative and qualitative data to be presented with
+budget requests to the legislature.
+RECOMMENDATION 2
+Continue working with the Legislature to appropriately fund administrative
+support positions and fill vacant trooper positions.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Generally Agree  End of 2023-2025 Budget
+Cycle
+Cord Wood, Captain
+503-378-3720
+Narrative for Recommendation 2
+The Department agrees with the auditors of the importance of administrative positions, and the role
+they have in support sworn Trooper positions and the overall function/mission of Patrol Division
+and Department.  Without the services our support staff perform, sworn Troopers could not be
+responding to emergency and nonemergency calls for service received every day.
+The Department continues to refine our processes to recruit and retain our staff.  The Department
+opened a full time/continuous Trooper recruitment process in November 2021.  Recently the
+department has explored new strategies for finding recruits, actively pursuing opportunities to hire
+the most qualified, diverse and capable workforce possible.  At the same time, the Department has
+shortened the duration of the recruiting process, and opened processes to recruiting certified/trained
+police officers to reduce field-training times.  The Department is also in the process of launching
+multiple health and wellness initiatives to help retain current staff and reduce the openings needing
+filled.
+The Department will continue to seek legislative support and continued appropriate funding of the
+both non-sworn/administrative positions, Trooper positions, and initiatives to retain sworn and non-
+sworn staff.
+RECOMMENDATION 3
+Create a standardized methodology and process for conducting workload analyses at the
+area level, train the appropriate staff to conduct them, and incorporate them into the
+Patrol Services Division’s scheduling plan.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Generally Agree
+June 2022
+Cord Wood, Captain
+503-378-3720
+Narrative for Recommendation 3
+The Department has always maintained the expectation for Area Commanders to consult the
+available workload data when developing staff deployment schedules.  The current direction for
+Area Commanders is that data will be examined on a quarterly basis, to look for developing trends
+in crashes and calls for service.  While reviewing call for service and workload data has been the
+expectation, the Department has not developed and implemented a formalized process for
+documenting this process.
+The Department will continue to develop and refine a standardized methodology for Area
+Commanders for use in assessing workload for the development of Patrol staff schedules.  This
+process will likely include considerations for standardized format, data sets, data access and training
+for staff.  As mentioned in the audit report, a version of a more standardized workload analysis was
+adopted by some, but not all Area Commands across the state.  An improved data dashboard has
+recently been placed into service to give all supervisors, including Area Commanders, easier access
+to more data to analyze the workload of their area commands.  The Patrol Division will look for
+more opportunities to refine and further develop a standardized workload analysis and train
+appropriate staff to complete these analyses in conjunction with the annual shift selection process.
+RECOMMENDATION 4
+Develop processes to regularly analyze overtime usage for improved efficiency.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Generally Agree
+July 2023
+Cord Wood, Captain
+503-378-3720
+Narrative for Recommendation 4
+Currently the Department has a check and balances system in place to minimize the opportunities for
+abuse of overtime.  First, staff are required to obtain the authorization of a supervisor prior to
+working overtime.  Any overtime hours claimed by an employee during a pay period are reviewed
+and approved by a supervisor as part of the monthly time card review process.  The system is
+designed to limit opportunities for abuse or misuse of overtime.
+The Department recognizes the benefit of regular analysis of overtime use and being transparent
+stewards of public funding.  Examination of the use of overtime dollars could lead to reductions in
+waste and reveal opportunities to promote efficiencies.  Looking at overtime beyond the monetary
+cost, analysis of overtime use also gives supervisors an opportunity to monitor the stress placed on
+personnel under their supervision from excessive overtime hours.
+Currently, the Department is implementing Workday Enterprise Management system.  As the
+Department continues this implementation and migration toward Workday’s e-payroll solutions
+opportunities for analysis of overtime data input into the system may be revealed.   Currently, the
+target date for implementation of the Workday e-time payroll system is July 2022.
+Please contact Captain Cord Wood at 503-378-3720 with any questions.
+Respectfully,
+Cord Wood
+Captain, Patrol Services Division
+Oregon State Police
+This report is intended to promote the best possible
+management of public resources.
+Copies may be obtained from:
+Oregon Audits Division
+255 Capitol St NE, Suite 500
+Salem OR 97310
+(503) 986-2255
+audits.sos@oregon.gov
+sos.oregon.gov/audits

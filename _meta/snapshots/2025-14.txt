@@ -1,0 +1,1447 @@
+Oregon Health Authority
+Oregon Faces Challenges in
+Addressing Gaps in the
+Behavioral Health Crisis
+System
+May 2025
+Report 2025-14
+Secretary of State Tobias Read
+Audits Director Steve Bergmann
+Audit Summary
+Oregon Health Authority
+Oregon Faces Challenges in Addressing Gaps in the Behavioral
+Health Crisis System
+OBJECTIVE
+The objective of this audit was to assess how the Oregon Health Authority (OHA) coordinates behavioral health crisis
+systems for adults and children.
+SCOPE
+The audit focused on efforts made by OHA to coordinate the state’s behavioral health crisis system that incorporates the
+new federal 988 program for serving all individuals.
+For every $1 invested in preventing and treating adolescent mental disorders and suicide, there is a $24 return in health and
+economic benefits over 80 years.
+In 2022, 14.6% of 11th grade students, 11.6% of 8th grade students, and 7.2% of 6th grade students in Oregon reported
+serious thoughts of suicide.
+In 2020, the economic impact of major depressive disorder in adults in the U.S. was estimated to be $326 billion.
+Behavioral health programs help the people of Oregon achieve physical, mental, and social well-being.
+Twenty-three years of gaps in Oregon’s health systems data make it difficult to plan for behavioral health crises
+and evaluate the current response system. (pg. 12)
+Existing systems are fragmented, and the implementation of a new data system keeps getting delayed. OHA urgently
+needs to fully implement its strategic plan and work to address fragmentation and coordination of new data systems.
+Funding for the state’s behavioral health crisis response system is inadequate. (pg. 16)
+Crucial elements are underfunded or unfunded. Following the passage of the National Suicide Hotline Designation Act of
+2020, Oregon adopted the Crisis Now model, which consists of three main pillars: the hotline, mobile response, and crisis
+centers. While funding was established for the hotline, less funding was provided for mobile response, and no funding was
+dedicated for crisis centers. The state needs to adequately fund all three tiers of the system to deliver Oregonians the
+support they need.
+Why this audit is important
+What we found
+The lack of long-term strategic planning undermines progress on behavioral health in Oregon. (pg. 18)
+OHA made progress on this with the August 2024 Strategic Plan; however, work remains to align the operations of the
+Behavioral Health Division with this overarching strategy.
+Legal and jurisdictional challenges limit Tribal Nations’ ability to provide timely, effective behavioral health
+interventions for their communities. (pg. 25)
+To ensure equitable access to care for American Indian and Alaska Native populations, OHA will need to strengthen
+collaboration with Tribal partners and address structural barriers within the behavioral health crisis framework.
+To address data collection issues, OHA should:
+1. Collaborate with behavioral health crisis partners, such as CMHPs and contractors, to better understand the nature
+and extent of system data, and pursue measures needed for consistent implementation.
+2. Examine and document fragmented internal coordination between Behavioral Health, Fiscal and Operations, and
+Health Policy and Analytics divisions with respect to data necessary for informed decision making and determine if
+resources are available for a data analyst embedded within the 988 and Behavioral Health Crisis unit.
+3. Develop procedures to aggregate and analyze 988 lifeline call data.
+To address funding gaps in behavioral health crisis system, OHA should:
+4. Develop a comprehensive funding strategy for all components of the Crisis Now framework.
+5. Review funding parity for the children and family’s crisis system, including Mobile Response and Stabilization
+Services, and develop plans to address gaps where necessary.
+6. Coordinate with the Legislature as necessary to provide funding for lapsed behavioral health workforce incentive
+programs.
+7. Collaborate with the Legislature, Coordinated Care Organizations, Department of Consumer and Business
+Services, and insurance providers to develop a comprehensive model that ensures private insurers cover mobile
+crisis response and stabilization services like leading models from other states.
+To address the lack of behavioral health crisis system strategic planning, OHA Behavioral Health should:
+8. Develop a behavioral health division strategy aligned with the August 2024 agency strategic plan.
+9. Assess the resources needed to appropriately coordinate the developed strategy and communicate unmet need in
+future funding requests.
+10. Monitor, evaluate, and report progress to interested parties, such as the Behavioral Health Crisis System Advisory
+Committee.
+What we recommend
+To remediate legal barriers that hinder behavioral health crisis action, OHA 988 and Behavioral Health Crisis unit should:
+11. Continue to work with OHA Tribal Affairs to explore culturally responsive services to American Indian or Alaskan
+Natives living in Oregon and collaborate on any legislative barriers that may hinder services.
+12. Incorporate Tribal inclusivity into the behavioral crisis framework, such as support for Tribal members who dial the
+988 Lifeline, mobile crisis stabilization services, and collaborating with Tribes on high acuity mobile crisis cases
+that may lead to civil commitment investigations.
+OHA agreed with all of our recommendations. The response can be found at the end of the full report.
+Agency response
+Read the full audit report
+Scan the QR code to read the full audit report, including the agency response, on our website.
+Introduction
+Oregon Secretary of State May 2025
+Report 2025-14 page 1
+Meeting the needs of individuals experiencing behavioral health crises is a challenge. In Oregon,
+successfully doing so requires coordination among the Oregon Health Authority (OHA), Community
+Mental Health Programs (CMHPs), crisis call centers, hospitals and other behavioral health service
+providers, and the community. Federal legislation, changes to Medicaid, and actions by the Oregon
+Legislature have provided OHA and its partners with an opportunity to reimagine how behavioral health
+crisis services are delivered. Yet advances in the system will require strategic investment and sustained,
+intentional action to have long-term results.
+Oregon’s behavioral health crisis system has evolved and expanded over the
+last decade
+As behavioral health needs have evolved, so have Oregon’s service delivery to patients. Some areas in
+Oregon have offered mobile crisis response to meet these needs, although the extent and delivery of those
+services has changed. One of the biggest changes to Oregon's behavioral health crisis system came in
+2020 with the federal passage of the National Suicide Hotline Designation Act, which provided 988 as the
+new, nationwide crisis phone number, and funding for states to implement the program. While investments
+like these enable some progress, implementing such programs remains difficult as OHA coordinates call
+centers, mobile crisis response teams, and stabilization centers.
+The new 988 Lifeline renewed focus on the behavioral health crisis system
+The National Suicide Hotline Designation Act of 2020 transformed Oregon’s approach to behavioral health
+crisis services through the establishment of the 988 Lifeline. This federal legislation mandated all states
+implement the hotline as a three-digit phone number for behavioral health emergencies. Although Oregon
+still operates its existing county crisis hotlines — a move experts say is ideal in providing continuity for
+emergencies — the National Suicide Designation Act of 2020 created a direct, streamlined path for
+individuals experiencing crises statewide to receive emergency support.
+Key terminology used in this report
+Behavioral health generally refers to mental health and substance use disorders, life stressors and
+crises, and stress-related physical symptoms. Behavioral health care refers to the prevention,
+diagnosis and treatment of those conditions.
+Substance Abuse and Mental Health Services Administration (SAMHSA) defines Serious Mental
+Illness as someone over 18 having (within the past year) a diagnosable mental, behavior, or emotional
+disorder that causes serious functional impairment that substantially interferes with or limits one or
+more major life activities.
+Mental health parity means that mental health and substance use disorder services are treated
+generally the same as, or better than, medical and surgical services.
+As used in this report, the term youth refers to individuals 10- 24 years old.
+Oregon Secretary of State May 2025
+Report 2025-14 page 2
+The implementation of 988 in July 2022 was followed with the passage of House Bill 2757 in 2023 that
+allowed Oregon to collect a nominal telecommunications fee to provide state funding for the 988 crisis
+hotlines, ensuring sustainable accessibility to services. The uniformity of 988 as a number to call reduces
+confusion and further lowers barriers to obtaining help.
+The National Suicide Hotline Designation Act also promotes the use of mental health professionals in
+response to behavioral health crises, rather than law enforcement officials. This change ensures people
+experiencing behavioral health crises receive timely and appropriate care and reduces the burden on law
+enforcement and emergency departments.
+Figure 1: The 10-digit National Suicide Prevention Lifeline became 988, 17 years after it was launched
+JANUARY 2005
+The 10-digit National Suicide Prevention Lifeline
+(NSPL) is launched. Spanish-language and Veterans
+Crisis lines and chat servicers were added in 2006,
+2007, and 2013, respectively.
+AUGUST 2018
+The National Suicide Hotline Improvement Act calls
+upon the FCC to report on the feasibility of a three-digit
+number for the NSPL
+JULY 2020
+The FCC adopts rules to establish 988 as the national
+suicide prevention and mental health crisis hotline
+OCTOBER 2020
+The National Suicide Hotline Designation Act becomes
+law, assigning 988 as the universal telephone number
+JULY 2022
+The 988 Suicide and Crisis Lifeline goes live in the
+United States and its territories
+SEPTEMBER 2023
+HB 2757 establishes a $0.40 tax per phone line to
+support 988 and mobile crisis response in Oregon
+Effective behavioral health crisis response requires coordination between crisis call
+centers, mobile crisis teams, and stabilization service centers
+While crisis services existed in Oregon before the 988 system, national guidance now provides structure
+and best practices which aim for swift intervention, harm reduction, connection to ongoing care, and
+reduction in the use of law enforcement.
+Oregon has adopted the following model:1
+1. Someone to call/talk to (988/crisis hotline)
+2. Someone to respond (mobile crisis team)
+3. Somewhere to go (crisis stabilization centers)
+In Oregon, people in crisis can call 988 and connect with one of the two 988 call centers in the state: one
+call center serves residents living in Marion and Polk counties, while the other call center covers the rest of
+the 34 counties in the state. 988 services are accessible by phone or text 24 hours a day, seven days a
+week, all year.
+1 This model is designed primarily for adults. Oregon’s system of crisis support for children and families is detailed on pages 3 and 4.
+Oregon Secretary of State May 2025
+Report 2025-14 page 3
+When a person in crisis calls 988, they are connected to a counselor who can assess and talk with the
+individual about their situation. If the call can be resolved over the phone, as most calls are, the caller will be
+provided with resources for follow-up care. Callers can also choose from various specialized counselors,
+including LGBTQIA2S+, veteran, and Spanish-speaking counselors, ensuring trauma-informed care.
+If the situation cannot be resolved over the phone, a mobile crisis team will be dispatched to assist the
+individual. The call center will connect with the CMHP from that caller’s self-identified location. If a caller’s
+location cannot be determined voluntarily, 988 can coordinate with local Public Safety Answering Points,
+regional call centers used for things like 911, to help dispatch crisis response. When the location can be
+determined, the CMHP will deploy the mobile crisis response team, which will assess the situation and
+meet with the individual to provide necessary care and treatment. If a caller needs additional support, they
+are referred to a crisis stabilization center for short-term treatment, if one is available. If a crisis stabilization
+center is not available, they may be transported to an emergency department to wait for an opening at
+alternative care.
+Figure 2: The Crisis Now Framework, consists of someone to talk to, respond, and a place to go
+Source: Oregon Health Authority
+Mobile crisis support for children and youth focuses on the family
+In Oregon, children and youth in crisis can wait for hours or days in emergency departments to be
+connected to outpatient services or inpatient psychiatric beds. OHA previously addressed this problem
+through the Crisis and Transition Services program which was designed to prevent children and youth in
+behavioral health crisis from being boarded in emergency departments.2 That program ran from 2015 to
+2022 in 11 Oregon counties.
+Since then, OHA implemented a national best practice model for youth and family crisis intervention called
+Mobile Response and Stabilization Services that replaced the Crisis and Transition Services program.
+Mobile crisis services were allocated approximately $117.7 million in the 2023-25 Legislatively Adopted
+Budget. Mobile Response and Stabilization Services funding was approximately $20.5 million and funding
+for 988 services was approximately $34.3 million.
+2 The Crisis and Transition Services program was run by Oregon Health & Science University and funded by OHA.
+Oregon Secretary of State May 2025
+Report 2025-14 page 4
+Figure 3: Mobile Response and Stabilization Services, the crisis program for children and youth, receives the least
+money in OHA’s 2023-25 Legislatively Adopted Budget
+General Funds Other Funds Federal Funds Total Funds
+988 $ -- $32,961,422 $1,360,207 $34,321,629
+Mobile Crisis $79,143,444 $13,935,324 $24,600,000 $117,678,768
+MRSS $20,015,600 $473,992 $-- $20,489,592
+Total $99,159,044 $47,370,738 $25,960,207 $172,489,989
+Source: Oregon Health Authority
+Mobile Response and Stabilization Services is a rapid response, home and community intervention model
+designed to meet the needs of youth and families. A parent, caregiver or child can determine if there is an
+emergency and those needing services can get help without screening through an operator. Once
+contacted, a response team member supports the child and family for up to 72 hours and helps connect
+them to the appropriate stabilization services. This support must be initiated within three days of the initial
+contact and can last up to 56 days. The goal is to help youth in crisis stay in their current living situation, get
+stabilization support for their behavioral health needs, and avoid unnecessary trips to the emergency
+department or hospitalizations.
+OHA is responsible for coordinating the behavioral health crisis response
+system
+The system for delivering behavioral health services to the people of Oregon is vast and complex. It is
+comprised of dozens of entities that span the public, private, and non-profit sectors. To oversee the
+system, OHA must coordinate with over 30 CMHPs, government contractors, county mental health
+officials, health providers, Coordinated Care Organizations, insurance companies, and other government
+agencies. The fragmented and siloed structure — a product of decades of state regulatory changes,
+funding allocation, and legal jurisdictions — makes effective coordination of behavioral health crisis
+programs even more challenging.
+OHA’s Behavioral Health Division plays a key role in administering Oregon’s complex
+and decentralized behavioral health crisis system
+OHA is charged with managing the state’s public behavioral health system and does so through its
+Behavioral Health Division. Previously, the Behavioral Health program resided under the Health Systems
+Division, which was dissolved during an April 2024 reorganization. After the reorganization, the Behavioral
+Health Division has been moved up an organizational level and reports directly to the OHA Director.
+The transition sought to prioritize behavioral health by positioning the division closer to the OHA Director’s
+office, reducing potential process and communication delays. The team managing the 988 & Behavioral
+Health Crisis System has six total full-time staff and resides in the Adult Behavioral Health Services
+program under the Service Delivery subdivision of the Behavioral Health Division.
+Oregon Secretary of State May 2025
+Report 2025-14 page 5
+Figure 4: Behavioral health crisis services are led by the Service Delivery unit
+However, not all staff who work on the behavioral health crisis system are within the 988 & Behavioral
+Health Crisis System unit. Several staff liaise from other units. For example, Mobile Crisis Response and
+Stabilization Services activities are managed by the Child and Family Behavioral Health Services program.
+The Licensing and Certification unit, a team within Behavioral Health Operations and Strategy, has 988
+crisis system staff and oversees the civil commitment certification processes.3
+OHA’s Public Health Division also has a role in behavioral health services. Public Health suicide prevention
+coordinators work with their counterparts on the behavioral health side of the agency as a cross-division
+team, while the Healthcare Regulation and Quality Improvement Program investigates complaints in health
+care facilities, including behavioral health services-related complaints.
+Oregon’s crisis response system is mostly funded through Medicaid and money from the state General
+Fund. For the 2023-25 biennium, the now-retired Health Systems Divisions operated with a budget of $28
+billion and 660 full-time equivalent staff, with $26.3 billion of that total going to Medicaid. Another $1.3
+billion went to behavioral health services not covered by Medicaid and people who did not qualify for the
+Oregon Health Plan, the state’s Medicaid program for low-income individuals.
+3 Civil commitment is a process in which a judge decides whether a person alleged to be mentally ill should be required to accept
+mental health treatment.
+Oregon Secretary of State May 2025
+Report 2025-14 page 6
+Figure 5: Each component of Oregon’s crisis response system is managed by different entities
+OHA coordinates Oregon’s behavioral health crisis services through contractors,
+regional partners, and Coordinated Care Organizations
+To achieve effective coordination and delivery of services, OHA manages relationships with counties,
+Tribes, CMHPs, providers, contractors, and coordinated care organizations. This complex undertaking
+requires considerable effort for OHA staff to build relationships and understand the nuances of each entity.
+Relationships with the counties and Tribes are necessary for mutual collaboration and to ensure services
+are provided within the expectations of the respective governing bodies. State agencies are required to
+establish policies to promote communication and positive intergovernmental partnerships with Tribes.
+They are also required to make a reasonable effort to cooperate with Tribes in developing and
+implementing programs that will affect them. To this end, OHA has a Tribal Affairs Director and Tribal
+Liaisons who work with Tribes to better understand their behavioral health needs.
+The entire system is advised by the newly established Behavioral Health Crisis System Advisory
+Committee, which provides guidance to OHA on the implementation and operation of the statewide
+coordinated crisis system and provides feedback and recommendations on the 988 Suicide & Crisis
+Lifeline.4
+4 The Behavioral Health Crisis System Advisory Committee consists of 19 members of diverse backgrounds related to the Behavioral
+Health Crisis System as mandated in House Bill 2575 and ORS 430.629.
+Oregon Secretary of State May 2025
+Report 2025-14 page 7
+Oregon outpaces national trends in mental illness, leading to a costly cycle
+of poor outcomes
+Nationwide reports from the Substance Abuse and Mental Health Services show Oregon as having among
+the highest level of need for behavioral health services for both adults and youth. These reports highlight
+the relatively high percentage of people in Oregon with suicidal ideation.
+Behavioral health crises, while highly personal, can have costly ripple effects through families and
+communities. State leadership has demonstrated some recognition of this critical issue, with the state
+Legislature providing funding to these areas, and the Governor highlighting the need to address behavioral
+health gaps. These investments coincide with federal funding for behavioral health crisis response.
+However, based on these severe and longstanding poor outcomes, a higher degree of urgency and
+prioritization is needed.
+Oregon ranks high in behavioral health need and low in availability of services
+The high rate of mental illness in Oregon underscores the need for an effective behavioral health crisis
+response system. The 2022 National Survey on Drug Use and Health shows Oregon as ranking 47th in the
+nation for its high prevalence of mental illness..
+This high ranking for insurance coverage is likely due to the state’s efforts to expand Medicaid. However,
+being insured does not necessarily mean treatment is available. Oregon ranked 46th among states for
+adults with substance use disorder who needed but did not receive treatment. Likewise, Oregon ranked
+24th among states for youth with private insurance that does not cover mental or emotional problems.5
+Further, a June 2024 study found a lack of access to facility-based care in Oregon led to long wait-times
+and a mismatch between the level of behavioral health care needed and the care received.6
+Figure 6: From 2016 to 2020, suicide rates were highest in Oregon’s remote and rural counties
+Source: Oregon Health Authority, Adult Suicide Intervention and Prevention Plan, 2023-2027
+5 Youth were defined as 12-17 years of age for most of the measures used in the 2024 State of Mental Health in America report. Youth
+Flourishing was measured among children 6-17 years of age.
+6 The report, Oregon Health Authority Behavioral Health Residential+ Facility Study, evaluated facility capacity only for adults.
+25.0
+23.7
+17.3
+18.9
+13.8
+Rural
+Remote
+Urban
+Oregon
+U.S.
+Oregon Secretary of State May 2025
+Report 2025-14 page 8
+Oregon’s high suicide rates reflect the state’s need for behavioral health services
+Oregon’s high prevalence of mental illness, paired with low access to treatment, has led to tragic
+outcomes. The state’s overall age-adjusted suicide rate has been higher than the U.S. rate since 2000.
+Oregonians under 24 years of age are particularly vulnerable. In 2022, the state’s youth suicide rate was
+14.2 per 100,000 compared to 10 per 100,000 nationally, with the highest rates occurring during the age of
+transition, from 18 to 24 years of age. Every year from 2003 to 2022, Oregon’s youth suicide rate has been
+higher than the national rate, except for the year 2010. The rate decreased for three consecutive years —
+from 2019 to 2021 — giving hope that the situation was improving but increased again in 2022.7
+Figure 7: Oregonians, particularly youth, suffer mental health challenges more than most in the United States
+Oregon
+(%)
+National
+(%)
+Oregon’s Ranking
+among States
+Adults (18+ years), in the past year, with:
+Serious mental illness 7.03 5.86 46
+Serious thoughts of suicide 5.61 5.04 42
+Made any suicide plans 1.54 1.45 30
+Attempted suicide 0.68 0.67 21
+Youth (12-17 years), in the past year, with:
+Serious thoughts of suicide 15.00 13.16 51
+Made any suicide plans 7.15 6.35 41
+Attempted suicide 4.48 3.67 44
+Sources: SAMHSA, 2021-2022 National Surveys on Drug Use
+Breaking down the rates by demographic factors reveals differences between groups. About 75% of
+people who die by suicide in Oregon are male, and rates are higher for men than women across lifespan,
+with the highest rates being among men 75 years of age or older. Rates are also high in traditionally male
+occupations, such as construction, military-related work, farming, fishing, and forestry.
+Racial, ethnic, and geographic disparities are also present. Between 2016 and 2020, non-Hispanic
+American Indians and Alaska Natives, and non-Hispanic Whites, had the highest age-adjusted suicide
+rates among the different racial and ethnicity groups (20.2 and 20.7 per 100,000, respectively). Deaths by
+suicide among non-Hispanic White youth decreased overall since 2019, but the number of youth suicides
+among other races and ethnicities have remained similar to 2018 levels or increased. Oregonians living in
+rural and remote counties have suicide rates higher than those residing in urban counties. The intersection
+of risk factors — such as a disabled youth living in a rural area — compounds challenges around receiving
+quality care.
+7 Auditors were told caution needs to be taken when interpreting youth suicide rates. Several years of data, and other indicators like
+the number of suicide-related hospital emergency department visits, are needed to determine a trend.
+Oregon Secretary of State May 2025
+Report 2025-14 page 9
+State legislation addresses some behavioral health crisis needs
+State lawmakers are aware of the challenges facing the state’s behavioral health system. Actions over the
+last decade demonstrate efforts to provide funding and make improvements. These legislative efforts serve
+as evidence that legislators have been engaged in addressing behavioral health crisis needs through the
+lawmaking process. Although additional legislative work may yet remain, it is important to recognize this
+issue has received ongoing legislative focus.
+In response to the rising number of behavioral health crises in emergency departments, the Legislature
+passed House Bill 2023 in 2015 to improve quality and consistency of discharge practices. The legislation
+required emergency departments to assist individuals with discharge planning, including referrals to
+appropriate care facilities. Additionally, hospitals were mandated to encourage patients to authorize the
+disclosure of necessary information for caregivers or support systems to participate in the discharge
+process and provide post-discharge support.
+Subsequent legislation, House Bill 3090, in 2017, further enhanced discharge planning for behavioral
+health crises and substance use. It mandated written discharge policies, caring contacts between a patient
+and follow-up services, and follow-up appointments within seven days.8 Hospitals were required to
+8 Caring contacts are brief communications with a patient that start during care transition such as discharge or release from t reatment.
+The intent of these contacts is successful transition of a patient to outpatient services.
+The age of transition — 18 to 24 years — is a vulnerable period for young adults
+The majority of youth suicides, in Oregon and nationally, occur among 18- to 24-year-olds. In 2022,
+78% of Oregon youth suicides were in this age group. This “age of transition” is a time of increased risks
+for youth. Brain development and maturity varies, which influences problem-solving and foresight.
+Young adults are often away from home for the first time, without their usual social supports. Feelings of
+loneliness and a lack of belonging, new mental health diagnoses, and increased substance use are all
+risk factors. Common circumstances surrounding Oregon suicides in this age group include suicidal
+thoughts and behaviors, intimate partner problems, and having experienced a recent crisis.
+This age is an important period for prevention and intervention, but young adults can be hard to reach
+and connect with if they are not in school. Young adults can also slip through the cracks in Oregon’s
+child and adult behavioral health systems. They may be too old for children’s programs and too young
+for adult programs. A lack of culturally sensitive resources may place marginalized groups at even
+greater risk, such as LGBTQ+, Native, and Black youth.
+OHA recognizes the increased risk and developmental span for this age group, and as a result, includes
+18- to 24-year-olds in both their youth and adult suicide intervention and prevention plans. Each plan is
+based on a prevention framework developed in collaboration with the University of Oregon Suicide
+Prevention Lab, and received feedback from partners across Oregon. Together, the two plans present
+strategic goals and priority initiatives to address suicide across the lifespan.
+Oregon Secretary of State May 2025
+Report 2025-14 page 10
+designate a lay caregiver, with consent, and collaborate with providers to ensure continuity of care,
+including contacting patients within 48 hours of discharge.9
+In 2021, House Bill 2417 focused on expanding access to behavioral health crisis response services,
+improving equity in treatment, and reducing hospitalizations and interactions with the criminal justice
+system. This bill allocated funds to support 988 crisis lines and mobile crisis teams but left crisis
+stabilization services unfunded.
+Finally, in 2023, House Bill 2757 established the 988-trust fund, financed by a new telecom fee, to fully fund
+988 and remaining funds can be used on mobile crisis response. While this legislation created oversight for
+the behavioral health crisis system, the revenue generated by the telecom fee cannot be used for crisis
+stabilization, leaving a gap in service funding.
+State action since 2021 includes:
+• Funding for crisis hotline centers and mobile crisis response;
+• Funding for additional residential treatment beds;
+• Increasing reimbursement rates through Medicaid for behavioral health services;
+• Specifying behavioral health services that must be provided by coordinated care organizations and
+covered by group health insurers;
+• Improving youth suicide intervention and prevention for children 5- to 10-years-old; and,
+• Requiring OHA to study behavioral health costs and access to services.
+9 The lay caregiver for a person younger than 14 years of age would be a parent or legal guardian. A person 14 years of age or older, or
+their parent or legal guardian, would designate a person as the lay caregiver.
+Audit Results
+Oregon Secretary of State May 2025
+Report 2025-14 page 11
+Oregon's behavioral health crisis response system is relatively new and complex. It is overseen and
+supported by OHA and includes multiple processes and partners. This includes the oversight of the 988
+and Suicide Crisis Lifeline program. This program provides a single, national number that can be used by
+individuals in crisis to speak to a trained professional and be directed to appropriate services. If a caller is at
+immediate risk, 988 can dispatch a Mobile Crisis Team that will provide appropriate and trauma-informed
+care to the individual. Stabilization services are the final component of the system.
+Each of these components — the 988-crisis line, mobile crisis teams, and stabilization services — is at a
+different stage of development and the availability of these services varies throughout the state. Oregon's
+implementation of this system lacks adequate state-level planning, data collection, and funding to ensure
+these services are always available in all parts of the state, as currently required by statute and rule. The
+urgency of this issue is underscored by Figure 8 which demonstrates Oregon has the highest rate of
+serious thoughts of suicide for youth in the nation.
+While not a component of the crisis response system, related factors include the hospital discharge
+requirements for individuals experiencing a behavioral health crisis. In 2015 and 2017, the Legislature
+passed laws that required a variety of services for individuals who seek care for a behavioral health crisis in
+a hospital or emergency department. While these laws have been in place longer than the crisis response
+system, OHA conducts limited oversight, and stakeholders expressed significant concern that hospitals
+are not complying with these important requirements.
+Figure 8: Oregon youth (12-17 years) have the highest rate for serious thoughts of suicide in the nation
+Source: Substance Abuse and Mental Health Services Administration
+Oregon Secretary of State May 2025
+Report 2025-14 page 12
+Data collection issues hinder planning efforts and limit evaluation of 988
+and mobile crisis response
+The behavioral health crisis system lacks the data necessary to identify the level of need statewide and
+measure crisis intervention outcomes. Existing systems — such as those that capture crisis hotline usage
+— are fragmented, and implementation of a modernized system has been repeatedly delayed. OHA
+contracted with Oregon Health & Science University (OHSU) Data, Evaluation, and Technical Assistance
+(DAETA) team to bridge mobile crisis data gaps; however, this partnership was not intended to be a
+permanent solution. Health-related data gaps in Oregon have been noted in multiple reports and this
+history underscores the need for urgent action.
+Without an effective system to measure behavioral health crisis needs, outcomes of services provided, and
+costs of those services, the full picture of the Oregon system is unclear. As a result, OHA is unable to
+answer important questions about the adequacy of the system.
+Figure 9: Lines for Life, one of Oregon’s two 988 vendors, outperformed the national average on call answering
+times until fall of 2023
+Source: Lines for Life
+OHA and state leaders cannot fully understand the state’s need for crisis services due to
+missing user data
+OHA lacks a comprehensive estimate of the total number of calls made to 988 and county behavioral
+health hotlines, an essential data point for determining the need for crisis services across the state.
+Although 988 call centers have been submitting call data since October 2022, OHA only recently
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+National Average Lines for Life Data Vibrant Data for All of Oregon
+Oregon Secretary of State May 2025
+Report 2025-14 page 13
+requested CMHPs to submit a one-time county crisis line data report.10 As a result, OHA has an incomplete
+picture of the number of calls to hotlines and the percentage of those calls that lead to dispatches, making it
+difficult to assess the statewide demand for crisis services.
+Within the available call data, substantial amounts of information are missing about caller demographics,
+such as age, race/ethnicity, gender, and county. This also hinders the state’s understanding of service
+needs. OHA personnel and clinicians at the 988 call centers say collecting demographic information from
+callers is frequently inappropriate due to the nature of the interactions and that 988 was designed to
+prioritize anonymity and confidentiality. In areas with low numbers of calls, demographic data may be
+obscured to protect privacy. However, the national 988 lifeline program has published guidance on how to
+gather demographics during crisis calls. Doing so informs the clinical approach and helps to find the right
+referrals for callers. As a result of the missing data, OHA cannot accurately say which groups are, or are
+not, using crisis services.
+Accurate demographic data is also important for identifying potential negative experiences for those
+accessing crisis services among people in marginalized groups who have disproportionately higher rates
+of mental health issues and suicide. If callers from these communities have a poor experience, they may
+not return to the service and could discourage others from using it. Marginalized communities often
+experience deep mistrust of government and health systems due to historical and ongoing injustices,
+whether perceived or in fact. Without demographic data, the agency’s goal of eliminating health inequities
+by 2030 in the behavioral health crisis system is unlikely.
+10 Oregon’s 988 call centers contract with some counties to answer calls to their local behavioral health hotlines. One call center, for
+example, answered an average of 1,782 calls a month during all hours or non-business hours for Clackamas, Clatsop, Columbia,
+Crook, Deschutes, Jefferson, Yamhill, and Wallowa Counties from July 2023 through June 2024.
+Oregon families burdened by system failures
+The OHA Ombuds Office was contacted by the caregiver of a young OHP member with complex mental
+health needs and developmental disabilities. Because of their persistent challenges, the behavior of the
+young person in the home was increasingly unpredictable and unsafe.
+The family, who lived in a rural area, previously tried to access 988 and Mobile Response Stabilization
+Services when this person would go into crisis. The caregiver reported responders were either delayed
+in getting to the house when called or did not come at all. Due to their rural location, the caregiver was
+informed their calls were routed to a service center in a more populated area that would then contact
+their local services, creating delays.
+In addition, the local agency struggled to recruit and retain staff who could be available to provide
+Mobile Response services around the clock. As a result, the family had to develop an alternative
+approach in the form of an agreement with local law enforcement. This agreement allowed the family to
+contact the police non-emergency number directly to cut down on delays in response and to be assured
+that someone would come to the house.
+Oregon Secretary of State May 2025
+Report 2025-14 page 14
+Health system fragmentation and implementation delays make effective data
+management challenging
+OHA lacks the data to understand the need for crisis services across the state and how the system has
+performed because data collection efforts have either been fragmented or nonexistent. The agency
+contractually required 988 call centers to report crisis call data since 2022; however, county crisis line data
+is not required. OHA did, however, request a one-time county crisis line report. During the COVID-19
+pandemic, OHA paused data reporting on local mobile response efforts until 2023. This lack of data left
+OHA and its CMHP partners without sufficient information to plan a transition to an enhanced system.
+The DAETA team from Oregon Health & Science University now supports CMHP efforts to submit data for
+local mobile crisis intervention services. This effort was to have lasted one year while OHA replaced its
+Measurements and Outcomes Tracking System with the Resilience Outcomes Analysis and Data
+Submission system.11 However, the OHSU contract was extended three times because of delays around
+implementing the system, which was expected to launch in late 2024, but launched March 11, 2025.
+How the agency organizes its data analytic functions has contributed to these data challenges. Behavioral
+Health personnel have limited control over data analysis for their programs and instead must rely on the
+availability of data analysts in another division to meet their needs. Just one analyst in that other division is
+assigned to 988, and only on a part-time basis. No data analysts are embedded with the recently created
+988 and Behavioral Health Crisis System unit.
+According to the OHSU DAETA team, establishing a unified data platform or better linkages among the
+different parts of the crisis system would allow for a better understanding of how the system is functioning
+as a whole. The urgency of the state’s mental health crisis requires prompt action to address the current
+fragmentation in data systems and strengthen the crisis response infrastructure.
+A history of gaps emphasizes the need for urgency to gather high-quality data
+For over 23 years, reports have noted the necessity for an integrated data system to assess health system
+needs and performance. These issues are persistent because many of the solutions are complex, but there
+are areas where the state can improve its approach: specifically, by addressing the continued delays in
+implementing new data systems and by fully utilizing available data.
+In 2001, a report from the Governor’s Mental Health Alignment Workgroup found a statewide data system
+was needed to track provider and community performance and found that the data system should provide
+linkages to related systems.12 The report also noted that, without uniform data from providers, there is no
+way to measure successful outcomes. The 2016 Behavioral Health Collaborative Report reiterated the call
+11 Resilience Outcomes Analysis and Data Submission is a web-based data submission and reporting solution for the agency and its
+behavioral health partners.
+12 Governor’s Mental Health Alignment Workgroup Report from 2001.
+For over 23 years, reports in Oregon have noted the need for an integrated data system to assess
+health systems need and performance.
+Oregon Secretary of State May 2025
+Report 2025-14 page 15
+to develop an outcome-focused behavioral health measurement framework.13 Four years later, an audit
+from our office explicitly noted data shortfalls prevent OHA from consistently understanding mental health
+needs, availability of treatment, and outcomes.14 In 2024, an OHA internal audit found inadequate data
+collection with respect to behavioral health investments.
+Understandably, the data and circumstances at the time of each report are unique and the solutions
+available in 2001 may not be applicable now. Yet, the beleaguered history of data collection and use is
+more likely indicative of state leadership not prioritizing fixing this issue in a timely manner.
+While some delays may be difficult to anticipate or control, habitual delays may be indicative of poor
+planning. Without adequately addressing this issue, the state compromises its ability to effectively serve
+the vulnerable people supported by the behavioral health crisis system.
+Figure 10: Oregon’s behavioral health crisis care system partially meets national guidelines and best practices
+SAMHSA
+Guidelines Practices in Oregon Criteria
+Met?
+Hotline Minimum
+Expectations
+Hotline providers operate 24 hours per day, every day. Hotlines are staffed with
+clinicians who triage and respond, and all calls are either answered or overflow
+coverage provided. Risk of suicide is assessed within required standard.
+Hotlines coordinate connections with mobile crisis teams. Hotlines can connect
+to facility-based care, with transportation, but not in all cases.
+Partially
+Hotline Best
+Practices
+Hotline providers incorporate call identification in their centers but do not use
+GPS technology for efficient dispatch or have access to a real-time regional bed
+registry. Oregon hotline providers do not schedule outpatient appointments in a
+manner synonymous with a warm hand-off to support ongoing care.
+Partially
+Mobile Response
+Minimum
+Expectations
+Mobile crisis responders include licensed and/or credentialed clinicians capable
+of assessing needs of individuals and respond where the person is, rather than
+restricting services to select locations or times. Mobile teams also connect
+individuals with facility-based care as needed.
+Yes
+Mobile Response
+Best Practices
+Teams incorporate peers and often respond without law enforcement unless
+special circumstances warrant inclusion. Mobile teams schedule outpatient
+follow-up appointments to support connection to ongoing care but do not use
+GPS technology to support efficient connection and tracking of engagement.
+Partially
+Stabilization
+Center Minimum
+Expectations
+There is no dedicated funding for crisis stabilization centers in Oregon. Not all
+referrals are accepted, and centers may not operate 24 hours per day, every day.
+Not all centers have walk-in and first responder drop-off options and may not
+always have capacity for 90% of referrals. Centers do not always screen for
+suicide or violence risk.
+Partially
+Stabilization
+Center Best
+Practices
+Not all centers function as a 24-hour or less crisis receiving facility or have a
+dedicated first responder drop-off area. Connections for ongoing care is not
+always coordinated. Centers do not have intensive support bed partner
+programs or include any beds in a real-time bed registry.
+Partially
+13 Oregon 2016 Behavioral Health Collaborative Report.
+14 Chronic and Systemic Issues in Oregon’s Mental Health Treatment System Leave Children and Their Families in Crisis .
+Oregon Secretary of State May 2025
+Report 2025-14 page 16
+Inadequate funding undermines Oregon’s Crisis Now model
+In 2020, SAMHSA created National Guidelines for Behavioral Health Crisis Care, a toolkit that provides
+guidance on program design, implementation, and quality improvement efforts to help meet the needs the
+of the community that follows the “anyone, anytime, anywhere” model. Oregon has begun work to meet
+these guidelines but has only partially met them so far.
+Oregon’s behavioral health crisis system only funds one of its three pillars
+SAMHSA recommends incorporating what is known as an air traffic control model that has two objectives:
+never lose contact with the aircraft and verify hand-off has occurred when another controller takes over. Air
+traffic control technology is being used in some states, including real-time connection to mobile teams
+utilizing GPS, real-time access to available beds or recliners across the state, and the ability to schedule
+follow-up appointments with short- or long-term care providers. For this to be effective, there needs to be a
+method to track referrals made for those needing a higher level of care. Oregon does not currently follow
+this model.
+CMHPs across the state are largely operating at the minimum expectations but, depending on the region,
+some are struggling to meet the requirement of having a qualified clinician available for every call. This
+program gap is currently being compensated for by CMHP managers, who are qualified, but this approach
+lends itself to worker burnout. CMHPs in remote and rural counties are particularly struggling with this due
+to the geography of the counties, as they are often large and less populated, and it is difficult to attract
+employees who want to stay long-term in rural counties.
+Figure 11: Only one of Oregon’s three crisis system pillars has dedicated funding
+Source: Oregon Health Authority
+Oregon Secretary of State May 2025
+Report 2025-14 page 17
+It is unclear if there is adequate funding for CMHPs to meet expectations and best practices for crisis
+services. In 2024, House Bill 4092 required OHA to study how much money local mental health programs
+need to comply with state laws, report the findings to the Legislature by November 1, 2024, and compile a
+report of the findings by December 15, 2025.
+Oregon currently has three crisis stabilization centers and there is significant work remaining to meet the
+expectations of the SAMHSA guidelines. There is no designated funding stream for the development and
+the continued operations of crisis stabilization centers. At the time of the audit, Oregon lacked
+administrative rules for crisis receiving and stabilization centers, although OHA was in the process of
+creating those rules. Lack of funding for crisis stabilization endangers the entire third pillar of the crisis
+model, a critical piece that serves vulnerable individuals who need additional treatment. Many individuals
+needing crisis stabilization end up in emergency departments, waiting for a space to open at one of the few
+crisis centers that do exist. This creates a backlog of patients waiting for the appropriate care, including
+those who may be placed on a hold awaiting civil commitment.
+Funding uncertainty impacts sustainability of mobile crisis and stabilization services
+While the Legislature provided funding for crisis hotlines through House Bill 2757’s telecom fee, funding for
+the provision of mobile crisis and crisis stabilization centers is less certain. House Bill 2757 allows some
+funding for mobile crisis response. Crisis stabilization centers, while required and part of the third pillar of
+crisis response, were not provided funding in that bill even with more expectations included in the revised
+Oregon Administrative Rules. OHA gave CMHPs one-time funding to help get stabilization centers
+established, but counties that are trying to stand up such centers report funding and regulatory challenges.
+A key funding mechanism for mobile crisis is reimbursements through Medicaid, but this funding source
+also creates uncertainty and administrative burden. CMHPs must bill for crisis services, which the federal
+government covers for Medicaid recipients, but CMHPs do not have the capacity to bill private insurance.
+Funding mobile crisis response through billing is similar to paying firefighters only when they are actively
+responding to a fire.15 The administrative cost of this process reduces the impact of the reimbursement
+while increasing the workload of providers.
+Furthermore, Medicaid reimbursement for mobile crisis is only guaranteed until 2027 by Section 9813 of
+the American Rescue Plan. CMHPs and OHA will need to plan how to continue providing mobile response
+services if this enhanced rate is not extended.
+The complexities of private insurance and Medicaid add stress to the already burdened
+system providers
+House Bills 3090 and 3091 were both intended to improve patient care with standardized assessments and
+enhanced discharge planning. However, hospital staff have voiced concerns with the legislation, finding it
+confusing and sometimes ineffective in its intended outcomes. Hospital staff thought insurers would be
+15 Unlike the funding model for behavioral health crisis response teams, the “firehouse model” pays firefighters and other emerg ency
+responders to be on-call and ready to respond at all times to anyone regardless of insurance status.
+Oregon Secretary of State May 2025
+Report 2025-14 page 18
+funding the extra duties required, as well as taking on the case management and care coordination pieces
+— instead, hospitals have been left with increased work with little to no reimbursement.
+There is confusion regarding how hospitals are reimbursed for crisis work and if insurers are going to cover
+that cost. Insurers are required to align with federal guidelines on health parity, but private insurance
+companies are not required to cover crisis services; the follow-up services recommended in House Bill
+3091 may not be covered. Health care providers told auditors they believed private insurers were to
+assume discharge planning requirements, as they have knowledge of in-network providers; however, this
+has been left to the hospital staff.
+On September 9, 2024, the White House finalized a regulation aimed at strengthening the 2008 Mental
+Health Parity and Addiction Equity Act.16 The 2008 legislation required insurers to provide payment
+structures for mental health services on par with other medical services, but this was not always the case. It
+is possible the new rule addresses the lack of coverage for crisis services by private insurers; however,
+Oregon should consider state legislation or coordination with insurers if further action is necessary.
+Legislative clarity can improve Oregonians’ access to behavioral health crisis services
+Crisis services are supposed to be provided without regard for a person’s insurance status, but currently,
+only Medicaid reimburses for crisis services delivered to Medicaid-covered individuals. Many private
+insurers do not cover crisis services. While Oregon has passed legislation to improve this issue, additional
+steps can be taken to strengthen the ability of insured individuals to receive behavioral health crisis care
+without fear of paying exorbitant out-of-pocket costs.
+For example, House Bill 1688 (2022) from Washington State explicitly requires health carriers to cover
+mobile rapid response teams, crisis stabilization units, and outpatient crisis services. By explicitly defining
+these as part of behavioral health crisis services, the state can make clear they are to be covered by private
+insurers, even if the behavioral health provider is out-of-network.
+The state has made progress, but does not have a formal strategic plan that
+addresses the needs of Oregon’s Behavioral Health Crisis System
+Oregon leadership has acknowledged the behavioral health crisis and passed legislation to address some
+of the complex challenges. Even so, the approach over the last decade has been inconsistent. The lack of
+a strategic approach was noted in over two decades of studies and is compounded by turnover and
+restructuring within OHA. The agency made significant progress in August 2024 when it released its
+strategic plan; however, aligning organizational processes to the plan will take time. Oregon can look to
+other states that have successfully integrated such a strategy to facilitate a path forward.
+16 The 2008 Mental Health Parity and Addiction Equity Act requires insurers and corporate -backed health plans to provide access to
+mental health care services on par with other medical services. However, that did not always happen in practice, in part, bec ause
+mental health providers were insufficiently covered by insurance plans. This led to patients paying high out-of-pocket costs or giving
+up on care. In September 2024, the federal government finalized a regulation to close this gap by requiring insurers to evalu ate
+provider services covered by their plans, how much those providers are paid, and how often insurers require or deny prior
+authorizations for coverage.
+Oregon Secretary of State May 2025
+Report 2025-14 page 19
+Decades of studies and audits underscore a need for action to address Oregon’s
+behavioral health system
+A 2001 report from the Mental Health Alignment Workgroup described barriers to an ideal mental health
+system that resonate with today’s issues: fragmentation; lack of a statewide-shared data system; need for
+competitive wages; and the lack of continuity of care and social supports, including respite care. Twenty
+years later, our office issued an audit noting the disarray within the system with familiar contributing factors:
+data shortfalls, leadership turnover, chronic workforce shortages, weak state statues, and poor monitoring
+of funds.17
+17 Oregon Audits Division, Chronic and Systemic Issues in Oregon’s Mental Health Treatment System Leave Children and Their
+Families in Crisis, report #2020-32.
+OHA’s goal of diverting people in crisis away from emergency departments is hampered by
+limited community treatment services, insurer involvement, and agency oversight
+The enhanced crisis response model seeks to divert individuals from emergency departments, which
+are not set up to care for people in behavioral health crisis. Emergency departments can be noisy,
+stressful, and traumatizing. The job of hospital emergency departments is to stabilize patients and refer
+them to treatment. When there is nowhere to refer someone in crisis, an emergency department visit
+may turn into a stay of hours or days (i.e., boarding) or the person might leave without a treatment
+referral only to return when another crisis occurs.
+A trio of bills passed in 2015 and 2017 sought to improve emergency department practices for people in
+crisis. House Bill 2023 (2015) and House Bill 3090 (2017) required hospitals to adopt specific discharge
+procedures. A 2019 OHA survey found most hospitals were meeting that requirement, but respondents
+cited the lack of funding, staff, and community-based resources as barriers to implementation. Four
+Oregon hospitals sued OHA in 2024 about the lack of services for people who were civilly committed
+and placed on hold in emergency departments.
+House Bill 3091 required Oregon’s coordinated care organizations and commercial insurers to provide
+specific services to individuals, including medically necessary services to transition a person to a lower
+level of care. Hospital personnel believed insurers would fund their emergency department work, but in
+the 2021 survey, almost half of respondents said they faced challenges in billing or were unaware they
+could bill for these services. Auditors were also told no funding mechanism was created, resulting in
+hospitals absorbing the costs. Hospital personnel say insurers should do the care coordination
+because they know what services are covered for their clients.
+OHA has limited its involvement on these matters. The agency interpreted its responsibilities for House
+Bill 3090 as conducting surveys in 2019 and 2021. OHA’s Healthcare Regulation and Quality
+Improvement Program investigates complaints about emergency departments, but filing a complaint is
+likely a low priority for those who are working through a crisis. Oregon will not be successful in diverting
+people in crisis away from emergency departments until the state expands access to community
+treatment services and addresses the oversight and role of emergency departments and insurers in the
+crisis response system.
+Oregon Secretary of State May 2025
+Report 2025-14 page 20
+Past reports have also described the need to expand community mental health services. In 2010, the U.S.
+Department of Justice (DOJ) began an investigation into whether Oregon was illegally segregating
+individuals with mental health disabilities into institutional settings when they could receive care through
+community-based services. Two years later, the DOJ entered into an agreement with Oregon on a process
+to better provide individuals with community services, including making mobile crisis services available
+statewide by June 2018.
+In 2012, an audit recommended OHA work to ensure continuity of mental health services, and in 2016, an
+OHA contractor’s report about the boarding of patients with mental illness in hospital emergency
+departments recommended expanding community-based mental health services, improving services in
+emergency departments, and promoting insurance reimbursement changes to incentivize community
+services.18 In 2023, OHA’s ombudsperson recommended strategies to prioritize community-based child,
+youth, and family mental health care in the state.
+This inaction carries risk, as illustrated by two lawsuits:
+• Initiated in 2022, four hospitals sued OHA for not having sufficient treatment available for those
+who are placed on hold in emergency departments and are involuntarily civilly committed. The
+boarding of people in crisis in emergency departments due to the lack of available community
+treatment services has been a long-standing issue.
+• In February 2024, the nonprofit organization Disability Rights Oregon filed a federal lawsuit against
+Washington County, in part because it does not fully fund, staff, or integrate existing mobile crisis
+teams into the emergency response system and sends out law enforcement officers when people
+in behavioral health crisis seek help. The lawsuit alleges the county discriminates against people
+with mental health disabilities and violates their civil rights.
+Oregon’s present-day challenges demonstrate how these calls to action over 20 years have not been
+heard. Reasons for the inaction include inconsistent leadership, vision, and effective governance, along
+with the state’s scattered system for responsibility and accountability. Recent legislation to enhance the
+behavioral health crisis response system has been described as aspirational by OHA personnel and
+community stakeholders. Aspiration is not enough — it must be followed by actionable, time-bound steps,
+like those found in strategic plans, to effect change.
+18 Oregon Audits Division, Children’s Mental Health: Ensuring Access and Sustaining Services, report #2012-16.
+For over 20 years, Oregon leaders have not done enough to fix the state’s broken behavioral health
+system, including crisis services.
+Oregon Secretary of State May 2025
+Report 2025-14 page 21
+OHA released an agency strategic plan in August 2024, but implementing it will take
+years of consistent direction
+For many years, multiple reports have recommended OHA develop agencywide and division-specific
+strategic plans. In August 2024, OHA finally released an agency strategic plan.19 The overarching goal of
+19 In a January 2023 memo, Oregon’s Governor directed all state agencies to produce strategic plans.
+Children’s mental well-being is not prioritized, creating a lack of parity between Oregon’s
+child and adult behavioral health systems
+Actions taken by policymakers tend to overlook children, even though the state’s youth have poor
+access to care and persistently high suicide rates. This lack of attention shows up in small and large
+ways.
+A 2024 update to Oregon’s Senate Health Care Committee from the Governor’s Behavioral Health
+initiative team did not discuss services for children, which a community partner described as a glaring
+omission. A 2024 OHA-sponsored study evaluated residential facility capacity for adults, but not
+children. The state’s few long-term crisis stabilization centers are only for adults, and Mobile Response
+and Stabilization Services — a program directed at children — was supposed to have launched in 2022
+but has not yet been implemented in all counties. A consultant’s 2023 report noted that while Oregon
+has most of the components in place for a crisis response system for adults, the state has a much
+steeper climb for children because such a system needs to be built rather than enhanced.
+In July 2023, 58% of Oregon children (ages birth to 17) were enrolled in the Oregon Health Plan,
+compared to 29% of Oregon adults (18+ years of age). This breakdown is not reflected in how OHA
+staffs its child and adult programs. The Child and Family Behavioral Health Services program has 20
+full-time equivalent staff while the Adult Behavioral Services program has three times as many at 60
+staff, not including the 20 staff assigned to the Measure 110 program. OHA has dedicated only 1.5 staff
+to children’s crisis services and only one staff to young adult services.
+According to OHA staff, greater attention is paid to adults because there are more adults than children
+who need help, and children’s issues are less complicated. However, addressing behavioral health in
+children has long-term benefits when they become adults. Preventing causes of mental distress, such
+as adverse childhood events, and addressing mental health in childhood reduces problems in
+adulthood. A global study found that for every $1 invested in interventions for preventing and treating
+adolescent mental disorders and suicide, $24 is saved in health and economic benefits over the course
+of 80 years.
+People working within behavioral health caution that resources for children and adults should not be
+pitted against each other. Parity in resources is needed between the two systems. OHA’s 2024
+strategic plan states the agency is working to eliminate health inequities by 2030, including those due to
+age, which may help reverse policymakers’ inattention to children’s behavioral health. The Governor’s
+work with Coordinated Care Organizations on a plan to reinvest surplus Medicaid dollars into
+communities for youth behavioral health projects is also promising.
+Oregon Secretary of State May 2025
+Report 2025-14 page 22
+OHA’s plan is to eliminate health inequities by 2030, and one of its five strategic goal areas is to transform
+behavioral health. OHA’s strategy for doing so is to build system capacity by further integrating and
+expanding crisis services. Success will be measured by reductions in the number of emergency
+department visits for behavioral health care.
+OHA should next develop strategic plans for the Behavioral Health Division and the new 988 and
+Behavioral Health Crisis Systems unit to address the crisis system’s current fragmentation. According to
+the agency, a strategic framework for the Behavioral Health Division is being finalized as of the time of this
+report. Objectives, action steps, and outcome measures should align across unit, program, and agency-
+level plans. This alignment should include the Governor’s yet-to-be-released goals and outcome metrics
+for the behavioral health initiative.
+Figure 12: Oregon has recently seen movement in key leadership positions related to behavioral health
+JANUARY 2023
+Pat Allen, OHA director, and Steve Allen, OHA
+Behavioral Health director, resign; James Schroeder is
+appointed as the agency’s interim director.
+FEBRUARY 2023
+Margie Stanton, OHA’s Health System Director, resigns
+and Shawna McDermott becomes the interim director;
+Ebony Clarke begins as Behavioral Health Director.
+MARCH 2023
+James Schroeder steps down as the OHA interim
+director; Dave Baden becomes the new interim director.
+JANUARY 2024
+Sejal Hathi becomes the OHA Director.
+MARCH 2024
+Jackie Fabrick, the Behavioral Health Deputy Director,
+resigns.
+APRIL 2024
+OHA undergoes a reorganization. Ebony Clarke
+becomes director of the new Behavioral Health
+Services Division and has three deputy directors.
+JUNE 2024
+Leann Johnson, OHA’s director of the Office of Equity
+and Inclusion, is terminated. Alfonso Ramirez becomes
+the interim director.
+SEPTEMBER 2024
+Juliana Wallace, Governor Kotek’s second Behavioral
+Health Initiative Director, leaves her position.
+OCTOBER 2024
+Amy Baker begins as Behavioral Health Initiative
+Director.
+Other OHA units have produced plans that could serve as models or be referenced within an overarching
+behavioral health strategic plan. The Child and Family Behavioral Health unit produced a policy vision in
+October 2020 and an action plan for 2020-24 that continues to track progress on strategies, action steps,
+and milestones. OHA’s suicide prevention coordinators, who work as a cross-division team in OHA’s
+Behavioral Health and Public Health Divisions, produced two suicide intervention and prevention plans,
+one for youth and one for adults. OHA could also revisit the two plans that came out of the DOJ
+investigation: the 2016 Oregon Performance Plan, and its continuation plan, the 2020 Behavioral Heath
+Quality and Performance Improvement Plan.
+Oregon Secretary of State May 2025
+Report 2025-14 page 23
+To provide continuity for the vision and operation of an improved behavioral health system, OHA needs to
+create a stable environment in the agency’s leadership and staffing of its crisis system team. In less than
+two-years’ time, OHA has undergone one reorganization and had four interim or permanent agency
+directors and two behavioral health directors. A 2020 audit of Oregon’s mental health system for children
+also noted frequent turnover and reorganization in the decade before that audit.
+Leadership turnover has limited the agency's progress on addressing fragmentation in the behavioral
+health system. In addition, a unit dedicated to the crisis system was not created within Behavioral Health
+until the agency’s reorganization in April 2024, despite the DOJ requirement to expand mobile crisis
+services by 2018 and the passage of House Bill 2417 in 2021 to enhance the crisis system. Without
+stability, operationalizing the agency’s new strategic plan may prove challenging.
+The ongoing workforce crisis impacts the behavioral health crisis system
+A study conducted by Public Consulting Group for OHA found Oregon’s workforce issues need to be
+prioritized when considering any capacity expansion for behavioral health facilities.20 Staffing shortages in
+the behavioral health workforce severely impacted CMHPs, especially since a change to Oregon law
+allowed Qualified Mental health Professionals to open private practices without completing clinical hours at
+CMHPs.
+While this change aimed to improve access to mental health providers, it undermined CMHPs’ ability to
+retain qualified mental health professionals. The issue is particularly acute in rural and remote counties,
+where attracting and retaining employees is inherently more difficult. CMHPs in these regions face
+additional challenges in meeting guidelines that require licensed, qualified professionals, Qualified Mental
+Health Associates, and Family Support Specialists on staff, particularly for 24/7 crisis response services.
+Without a Qualified Mental Health Professional during crisis calls, CMHPs are ineligible for enhanced
+Medicaid reimbursement, further straining resources.
+Housing affordability further complicates staffing issues. Mental health workers earn lower wages
+compared to other health care professionals.21 The high cost of living throughout much of Oregon
+exacerbates the problem, making it difficult to recruit and retain employees. While some counties have
+implemented strategies like housing assistance and retention bonuses, these efforts did not fully resolve
+hiring challenges. Statewide efforts to increase the behavioral health workforce through incentive
+programs such as scholarships, loan repayment, and housing stipends were initially beneficial, but have
+since lost funding, leaving no long-term solutions in place.22 Providing sustained funding for workforce
+incentive programs may alleviate future staff shortages.
+Chronic understaffing forces existing employees to manage higher caseloads, which can lead to burnout
+that further exacerbates the staffing crisis. This cycle of turnover impacts not only staff, but patients, who
+face longer waitlists, fewer appointments, and inconsistent care due to frequent provider changes,
+ultimately disrupting the quality and continuity of care provided by CMHPs.
+20 Public Consulting Group LLC, Oregon Health Authority Behavioral Health Residential+ Facility Study, June 2024 Final Report.
+21 House Bill 2235 (2023) addresses behavioral health workforce challenges including low pay.
+22 House Bill 2949 (2021) and House Bill 4071 (2022) included temporary funding for behavioral health workforce incentive progra ms.
+Oregon Secretary of State May 2025
+Report 2025-14 page 24
+Oregon can learn from elements of other states’ behavioral health crisis systems
+OHA can look to models in Arizona, Washington, and Virginia as it works to improve and expand its
+behavioral health crisis system and secure sustainable funding.
+Arizona’s crisis system, managed through Regional and Tribal Regional Behavioral Health Authorities, is
+recognized for its Crisis Now Model.23 This model uses technology and GPS to coordinate real-time crisis
+responses, ensuring safety and efficiency. Arizona’s crisis services include stabilization units for short-
+term care and behavioral health crisis centers for individuals needing longer-term support. Funding for
+Arizona’s system is drawn from diverse sources, including Medicaid, the state General Fund, and federal
+block grants, providing a sustainable financial base.
+Washington State operates three crisis call centers covering the entire state. These centers offer
+culturally specific support through the Native and Strong Lifeline, designed for American Indian and
+Alaskan Native communities. Although Washington lacks a robust network of stabilization centers,
+legislation passed in the 2023-24 session aims to establish 23-hour behavioral health crisis relief centers,
+moving the state toward a more comprehensive behavioral health crisis system.
+Arizona provides an interactive map of the state’s crisis centers. | Source: Arizona Health Care Cost Containment System
+23 Tribal Regional Behavioral Health Authorities offer culturally specific services for Tribal community members.
+Oregon Secretary of State May 2025
+Report 2025-14 page 25
+Virginia has developed a continuum of care through the Virginia Medicaid Continuum of Behavioral
+Health, which focuses on evidence-based, trauma-informed, and cost-effective services. The agency
+partners with private and Medicaid insurers, allowing a variety of mobile crisis providers to be reimbursed
+for services, even for uninsured individuals. Virginia’s crisis system includes crisis stabilization units, crisis
+intervention team assessment centers, and the MARCUS Alert System, which coordinates crisis
+responses between 911 and mental health providers to reduce police involvement in behavioral health
+emergencies. Crisis receiving and stabilization centers are funded through Medicaid, the state General
+Fund, and federal block grants, and operated by the state's regional Community Service Boards. 24 This
+diversified funding structure ensures comprehensive support for Virginia's crisis system.
+While each of these states continues to refine their systems, their practices — ranging from diverse funding
+streams to culturally responsive services and coordinated crisis responses — offer valuable lessons for
+Oregon as it works to build a more effective and sustainable behavioral health crisis system.
+Although Tribal outreach appears to be adequate, more coordination will
+help meet communities’ needs
+Among the many challenges with behavioral health is the coordination between the state and the nine
+sovereign Tribal nations within Oregon’s geographical boundary. Tribal communities in Oregon have long
+faced systemic barriers to accessing health resources. While the launch of the 988 Lifeline was a major
+step in expanding crisis response capabilities, gaps exist in culturally responsive and effective services for
+American Indian and Alaskan Native people. These gaps stem primarily from a combination of historical
+trauma, legal and jurisdictional complexities, and a lack of historical tribal collaboration.
+OHA has worked to facilitate a positive relationship in this regard. The agency’s efforts are reflected in
+positive comments made by Tribes interviewed for this audit. Tribal representatives expressed
+appreciation for their relationship with OHA, citing the support they receive and being informed of funding
+opportunities. Despite this positive relationship, no mention was made of Tribes in House Bill 2417 (2021),
+which sought to enhance Oregon’s behavioral health crisis response system. Improvements to the whole
+system cannot be accomplished without Tribal input and considerations around funding.
+24 Virginia has 39 Community Service Boards that are established by local government and are responsible for assuring, with
+resources, the delivery of community-based behavioral health and developmental disability services to individuals with behavioral
+health and developmental disability service needs
+Washington’s Native and Strong Lifeline is the first program in the nation to serve
+American Indian and Alaska Native communities
+Washington’s Native and Strong Lifeline employs Native crisis counselors and is integrated into the
+state’s 988 Suicide and Crisis Lifeline system. When someone calls the 988 Lifeline from a Washington
+State area code, they can choose option 4 during the automated greeting to be connected to the Native
+and Strong Lifeline. In Oregon, OHA, Tribal leadership, and legislators could discuss whether
+contracting with the Native and Strong Lifeline might be preferred choice for serving Oregon’s Tribal
+communities.
+Oregon Secretary of State May 2025
+Report 2025-14 page 26
+Tribal engagement in 988 Mobile Crisis Response is essential to meet the behavioral
+health needs of American Indian and Alaskan Native Populations
+The 988 and Behavioral Health Crisis unit works to coordinate across the state and facilitate work with the
+nine federally recognized Tribes. This work often intersects with the OHA Tribal Affairs team who have
+deep connections and experience in navigating the complex government-to-government relationships with
+the Tribes. Tribal Affairs works diligently to fulfill ORS 182.162 to 182.168 which specify agencies must
+coordinate with Tribes when developing and implementing policies that may impact them. As a result, the
+unique behavioral health issues faced by the Tribes may best be understood by Tribal Affairs.
+The three components of the behavioral health crisis response system: someone to call, someone to
+respond, and somewhere to go, each have their own set of challenges. These challenges extend into
+serving Tribal populations as well, regardless of where Tribal members are located. For example, auditors
+were told that the lack of an option to identify as American Indian or Alaskan Native for the 988 Lifeline
+remains a barrier. Likewise, challenges exist in ensuring Tribal representation is possible when navigating
+the behavioral health crisis system after the initial call. For example, if an individual must appear in civil
+commitment proceedings, there is no current mechanism to ensure Tribal representation is present. In this
+regard, incorporating measures in the behavioral health crisis framework that are responsive to the needs
+of the Tribal population is necessary. Behavioral Health Division staff should continue to work with Tribal
+Affairs and Tribal partners in building a collaborative framework that meets the needs of all people in crisis.
+Recommendations
+Oregon Secretary of State May 2025
+Report 2025-14 page 27
+To address data collection issues, OHA should:
+1. Collaborate with behavioral health crisis partners, such as CMHPs and contractors, to better
+understand the nature and extent of system data, and pursue measures needed for consistent
+implementation.
+2. Examine and document fragmented internal coordination between Behavioral Health, Fiscal and
+Operations, and Health Policy and Analytics divisions with respect to data necessary for informed
+decision making and determine if resources are available for a data analyst embedded within the 988
+and Behavioral Health Crisis unit.
+3. Develop procedures to aggregate and analyze 988 lifeline call data.
+To address funding gaps in behavioral health crisis system, OHA should:
+4. Develop a comprehensive funding strategy for all components of the Crisis Now framework.
+5. Review funding parity for the children and family’s crisis system, including Mobile Response and
+Stabilization Services, and develop plans to address gaps where necessary.
+6. Coordinate with the Legislature, as necessary, to provide funding for lapsed behavioral health
+workforce incentive programs.
+7. Collaborate with the Legislature, Coordinated Care Organizations, Department of Consumer and
+Business Services, and insurance providers to develop a comprehensive model that ensures private
+insurers cover mobile crisis response and stabilization services like leading models from other states.
+To address the lack of behavioral health crisis system strategic planning, OHA Behavioral Health should:
+8. Develop a behavioral health division strategy aligned with the August 2024 agency strategic plan.
+9. Assess the resources needed to appropriately coordinate the developed strategy and communicate
+unmet need in future funding requests.
+10. Monitor, evaluate, and report progress to interested parties, such as the Behavioral Health Crisis
+System Advisory Committee.
+To remediate legal barriers that hinder behavioral health crisis action, OHA 988 and Behavioral Health
+Crisis unit should:
+11. Continue to work with OHA Tribal Affairs to explore culturally responsive services to American Indian
+or Alaskan Natives living in Oregon and collaborate on any legislative barriers that may hinder services.
+12. Incorporate Tribal inclusivity into the behavioral crisis framework, such as support for Tribal members
+who dial the 988 Lifeline, mobile crisis stabilization services, and collaborating with Tribes on high
+acuity mobile crisis cases that may lead to civil commitment investigations.
+Objective, Scope, and Methodology
+Oregon Secretary of State May 2025
+Report 2025-14 page 28
+OBJECTIVE
+The objective of this audit was to assess how OHA coordinates behavioral health crisis systems for adults
+and children.
+SCOPE
+The audit focused on efforts made by OHA to coordinate the state’s behavioral health crisis system that
+incorporates the new federal 988 program for serving all individuals.
+METHODOLOGY
+To meet our objective, we performed the following procedures:
+• Analyzed behavioral health crisis hotline call and mobile response dispatch data.
+• Reviewed laws, administrative rules, contracts, annual and legislative reports, budgets, and
+planning documents.
+• Reviewed OHA’s policies, procedures, and processes related to behavioral health crisis response.
+• Interviewed OHA executives, managers, operations and policy analysts, and other staff.
+o External interviews included legislators and subject matter experts from the University of
+Oregon, Oregon Health & Science University, Behavioral Health Crisis System Advisory
+Committee members, Community Mental Health Program staff, Tribal Behavioral Health
+managers, a behavioral health director from Arizona, and other outside groups such as the
+National Association of State Mental Health Program Directors.
+• Observed meetings and reviewed minutes for the crisis system advisory committee meetings.
+• Identified and reviewed leading governance practices from the International Organization of
+Supreme Audit Institutions, International Federation of Accountants, and Project Management
+Institute.
+• Obtained and reviewed audits, reports, and documents, including from the Substance Abuse and
+Mental Health Services Administration and OHA, and about other states’ behavioral health
+programs.
+• Reviewed research, reports, or other documents from related professional organizations and
+outside groups, such as National Association of State Mental Health Program Directors, Public
+Research Group, and Recovery Innovations International.
+INTERNAL CONTROL REVIEW
+We determined the following internal controls were relevant to our audit objective.25
+• Control Environment
+o We reviewed agency organizational charts, and agency budget and staffing data.
+o We analyzed agency turnover and assessed tone at the top.
+• Risk Assessment
+25 Auditors relied on standards for internal controls from the U.S. Government Accountability Office, report GAO-14-704G.
+Oregon Secretary of State May 2025
+Report 2025-14 page 29
+o We interviewed OHA management and staff.
+• Control activities
+o We evaluated policies and procedures for behavioral health crisis system program
+implementation.
+• Information and communication
+o We observed oversight committee meetings, reviewed communication processes, and
+interviewed community members from three federally recognized tribes and 13 counties.
+• Monitoring activities
+o We analyzed hotline and mobile response dispatch data.
+o We interviewed OHA and Oregon Health & Science University staff responsible for
+monitoring the program.
+Deficiencies with these internal controls were documented in the results section of this report.
+We conducted this performance audit in accordance with generally accepted government auditing
+standards. Those standards require that we plan and perform the audit to obtain sufficient, appropriate
+evidence to provide a reasonable basis for our findings and conclusions based on our audit objectives. We
+believe that the evidence obtained provides a reasonable basis for our findings and conclusions based on
+our audit objectives.
+We sincerely appreciate the courtesies and cooperation extended by officials and employees of OHA
+during the course of this audit.
+ABOUT THE SECRETARY OF STATE AUDITS DIVISION
+The Oregon Constitution provides that the Secretary of State shall be, by virtue of the office, Auditor of
+Public Accounts. The Audits Division performs this duty. The division reports to the Secretary of State and
+is independent of other agencies within the Executive, Legislative, and Judicial branches of Oregon
+government. The Secretary of State has constitutional authority to audit all state officers, agencies, boards
+and commissions as well as administer municipal audit law.
+Audit team
+Andrew Love, CFE, Audit Manager
+Casey Kopcho, CIA, Principal Auditor
+Kathy Scott, DrPH, Staff Auditor
+Emily Alexander, BA, Staff Auditor
+500 Summer St NE, E-20, Salem, OR, 97301 | Phone: 503-947-2340
+Fax: 503-947-5461 All relay calls accepted | oregon.gov/OHA
+Behavioral Health Division
+988 & Behavioral Health Crisis System Unit
+Tina Kotek, Governor
+May 2, 2025
+Steve Bergmann, Director
+Secretary of State, Audits Division
+255 Capitol St. NE, Suite 180
+Salem, OR 97301
+Dear Mr. Bergmann,
+This letter provides a written response to the Audits Division’s final draft audit report titled, “Oregon
+Faces Challenges in Addressing Gaps in the Behavioral Health Crisis System.”
+The 988 & Behavioral Health Crisis System unit in the Behavioral Health Division (BHD) of Oregon
+Health Authority (OHA) has reviewed the audit report and findings and provided responses to each
+of the 12 recommendations in the report. We agree with the audit recommendations and have
+provided planned activities and target dates to address each recommendation.
+Below is a detailed response to each recommendation in the audit.
+RECOMMENDATION 1
+OHA should collaborate with behavioral health crisis partners, such as CMHPs
+and contractors, to better understand the nature and extent of system data, and
+pursue measures needed for consistent implementation.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation
+activities
+Name and phone
+number of specific
+point of contact for
+implementation
+Agree
+07/31/2026
+Lauren Palma
+(971) 240-3800
+Narrative for Recommendation 1
+The 988 & Behavioral Health Crisis System unit has been in close coordination with our behavioral
+health crisis system partners since before the launch of 988 in July 2022. Examples of coordination
+include Community Mental Health Program meetings, technical assistance, and ongoing contract
+administration with 988 call centers. OHA agrees with the need to improve data. The unit will
+continue to convene discussions and/or listening sessions with behavioral health crisis system
+partners to better understand the nature and extent of system data, and pursue measures needed
+for consistent implementation of data collection and analysis for 988 call centers, mobile crisis
+intervention services, mobile response and stabilization services, and crisis stabilization centers.
+500 Summer St NE, E-20, Salem, OR, 97301 | Phone: 503-947-2340
+Fax: 503-947-5461 All relay calls accepted | oregon.gov/OHA
+RECOMMENDATION 2
+OHA should examine and document fragmented internal coordination between
+Behavioral Health, Fiscal and Operations, and Health Policy and Analytics
+divisions with respect to data necessary for informed decision making and
+determine if resources are available for a data analyst embedded within the 988
+and Behavioral Health Crisis unit.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation
+activities
+Name and phone
+number of specific
+point of contact for
+implementation
+Agree
+6/30/2026  Steve Westberg
+(503) 931-6729
+Narrative for Recommendation 2
+OHA agrees with the recommendation made by the Secretary of State’s Audits Division. OHA will
+take a multi-pronged approach to address gaps and fragmentation in data collection and analytics:
+1) Through its Office of Data Strategy and Operations (ODSO), OHA will continue work to improve
+data governance and the integrity of data submission by external partners. 2) OHA will work with
+the Health Policy and Analytics (HPA) team to understand how we can leverage 988/crisis-specific
+data, in addition to other data sources—such as Medicaid claims data, All Payer All Claims data
+and CCO utilization and quality data—to better track unmet needs and outcomes. 3) OHA will
+assess current staff resources allocated within ODSO, HPA and the Behavioral Health Division
+units to identify and address unmet staffing needs.
+RECOMMENDATION 3
+OHA should develop procedures to aggregate and analyze 988 lifeline call data.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation
+activities
+Name and phone
+number of specific
+point of contact for
+implementation
+Agree
+07/31/2026
+Lisa Wyman
+(971) 372-1981
+Narrative for Recommendation 3
+OHA will design an internal-facing dashboard to aggregate and analyze data from call lines by the
+middle of 2026. The dashboard will help guide the data that needs to be collected in order to
+highlight data trends of interest. The dashboard will outline needed data collection and then further
+visualize insights once the data once collection is completed.
+RECOMMENDATION 4
+OHA should develop a comprehensive funding strategy for all components of the
+Crisis Now framework.
+500 Summer St NE, E-20, Salem, OR, 97301 | Phone: 503-947-2340
+Fax: 503-947-5461 All relay calls accepted | oregon.gov/OHA
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation
+activities
+Name and phone
+number of specific
+point of contact for
+implementation
+Agree
+06/30/2027
+Lauren Palma
+(971) 240-3800
+Narrative for Recommendation 4
+The 988 & Behavioral Health Crisis System unit will develop a funding sustainability plan for 988
+call centers, mobile crisis intervention services, mobile response and stabilization services, and
+crisis stabilization centers by the middle of 2027.This plan will take into consideration Medicaid
+claims, the 988 tax funds, general fund, and federal funding sources. Within this plan we will
+include the true funding needs for all parts of the system through the outcome of the HB4092 cost
+study. The Certified Community Behavioral Health Clinic team will work closely the 988 &
+Behavioral Health Crisis System unit to incorporate CCBHCs within the sustainability plan.
+Additionally, the CCBHC team and the 988 & Behavioral Health Crisis System unit will
+collaboratively review and approve written agreements between non-CMHP CCBHCs and CMHPs
+regarding shared requirements to provide crisis services. This review will ensure funding resources
+are effectively and efficiently leveraged to ensure sustainable crisis services across the provider
+types.
+RECOMMENDATION 5
+Review funding parity for the children and family’s crisis system, including Mobile
+Response and Stabilization Services, and develop plans to address gaps where
+necessary.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation
+activities
+Name and phone
+number of specific
+point of contact for
+implementation
+Agree
+06/30/2027
+Chelsea Holcomb
+(971) 719-0265
+Narrative for Recommendation 5
+The 988 & Behavioral Health Crisis System and Child and Family Behavioral Health units will use
+the outcome of HB 4092 to reduce administrative burden to Community Mental Health Programs to
+quantify funding gaps and develop a plan (including but not limited to Mental Health Block Grant
+and Policy Option Package development for the 2027 Legislative Session) to achieve parity of
+funding for children and families services and supports for each component of the crisis system,
+including mobile crisis intervention services, mobile response and stabilization services, and crisis
+stabilization centers.
+RECOMMENDATION 6
+OHA should coordinate with the Legislature as necessary to provide funding for
+lapsed behavioral health workforce incentive programs.
+500 Summer St NE, E-20, Salem, OR, 97301 | Phone: 503-947-2340
+Fax: 503-947-5461 All relay calls accepted | oregon.gov/OHA
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation
+activities
+Name and phone
+number of specific
+point of contact for
+implementation
+Agree
+06/30/2025
+Tim Nesbitt
+(503) 551-9040
+Narrative for Recommendation 6
+The HB 2235 Workgroup has provided recommendations to inform a legislative report due January
+15, 2025. Several recommendations within the report directly indicate the need for funding “lapsed
+behavioral health workforce incentive programs” that were implemented by OHA’s Behavioral
+Health Workforce Incentives (BHWI) team. Furthermore, BHWI has submitted a Policy Option
+Package (POP 550) to include continued funding of BHWI programs. These programs include
+tuition assistance, loan repayment, bonus and housing stipend grants, recruitment and retention
+grants for peers, and the provision of no-cost registrations for behavioral health credentials through
+an agreement with the Mental Health and Addiction Counselor Board of Oregon (MHACBO).
+RECOMMENDATION 7
+OHA should collaborate with the Legislature, Coordinated Care Organizations,
+Department of Consumer and Business Services, and insurance providers to
+develop a comprehensive model that ensures private insurers cover mobile crisis
+response and stabilization services like leading models from other states.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation
+activities
+Name and phone
+number of specific
+point of contact for
+implementation
+Agree
+06/30/2027
+Lauren Palma
+(971) 240-3800
+Narrative for Recommendation 7
+The 988 & Behavioral Health Crisis System unit will develop a plan to collaborate with the
+Legislature, Coordinated Care Organizations, Department of Consumer and Business Services,
+and insurance providers pending the introduced legislation House Bill 2203 that would direct the
+Department of Consumer and Business Services to study options to require a carrier to include
+mobile crisis intervention as a covered service that is not subject to coinsurance, copayments,
+deductibles or other out-of-pocket expenses.
+RECOMMENDATION 8
+OHA Behavioral Health should develop a behavioral health division strategy
+aligned with the August 2024 agency strategic plan.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation
+activities
+Name and phone
+number of specific
+point of contact for
+implementation
+Agree 10/31/2025 Lynnea Lindsey
+500 Summer St NE, E-20, Salem, OR, 97301 | Phone: 503-947-2340
+Fax: 503-947-5461 All relay calls accepted | oregon.gov/OHA
+(971) 388-0544
+Narrative for Recommendation 8
+The Behavioral Health Division (BHD) began developing a strategic framework to guide the
+division's work in fall 2023. The development and finalization of the BHD Strategic Framework was
+paused for the OHA Strategic Plan development in order to ensure alignment, capacity and
+resourcing that was in concert and not competition of broader agency strategic needs. As the OHA
+Strategic Plan has been launched, BHD is aligning the division-based Strategic Framework with
+the plan. Additionally, programmatic areas and units have developed their own strategic workplans
+to collate and align to the BHD Strategic Framework and OHA Strategic Plan. A finalized
+framework with accompanying planning documents will be available by the listed target date.
+RECOMMENDATION 9
+OHA Behavioral Health should assess the resources needed to appropriately
+coordinate the developed strategy and communicate unmet need in future
+funding requests.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation
+activities
+Name and phone
+number of specific
+point of contact for
+implementation
+Agree
+06/30/2026
+Samantha Byers
+(503) 519-1840
+Narrative for Recommendation 9
+The 988 & Behavioral Health Crisis System unit is completing its mission, vision, values and
+strategy workplan that forms the basis of determining the existing and needed resources. This plan
+aligns with the OHA Strategic Plan and forms the basis for understanding unmet programmatic and
+funding needs. Additionally, HB 4092 requires OHA to conduct an ongoing Cost Study for services
+that CMHPs are legally required to provide such as mobile crisis, and create a workgroup through
+Oregon Council of Behavioral Health to study redundancies, contradictions, outdated language
+within ORS 414 and 430 (which impact crisis services including mobile crisis), and better define
+and clarify roles and responsibilities for major health systems partners such as CMHPs, CCOs,
+and hospitals and provide a list of recommendations. This work will be leveraged to develop a
+summary of the strategy, funding gaps and recommendations will be developed and submitted to
+executive leadership.
+RECOMMENDATION 10
+OHA Behavioral Health should monitor, evaluate, and report progress to
+interested parties, such as the Behavioral Health Crisis System Advisory
+Committee.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation
+activities
+Name and phone
+number of specific
+point of contact for
+implementation
+500 Summer St NE, E-20, Salem, OR, 97301 | Phone: 503-947-2340
+Fax: 503-947-5461 All relay calls accepted | oregon.gov/OHA
+Agree
+06/30/2025
+Lauren Palma
+(971) 240-3800
+Narrative for Recommendation 10
+House Bill 2757 (2023) requires a Behavioral Health Crisis System Advisory Committee
+(BHCSAC) to advise Oregon Health Authority (OHA) on implementation and operation of the
+statewide coordinated crisis system and feedback and recommendations on the 988 Suicide &
+Crisis Lifeline. BHCSAC held its first meeting in March 2024 and continues to meet monthly where
+the 988 & Behavioral Health Crisis System unit provides regular standing updates and facilitates
+presentations to the committee on a variety of crisis system-related topics as requested. The 988 &
+Behavioral Crisis System Unit also responds to requests about the progress of Oregon's crisis
+system to a wide range of interested parties, including community partners, research entities, and
+the media.
+RECOMMENDATION 11
+OHA 988 and Behavioral Health Crisis unit should continue to work with OHA
+Tribal Affairs to explore culturally responsive services to American Indian or
+Alaskan Natives living in Oregon and collaborate on any legislative barriers that
+may hinder services.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation
+activities
+Name and phone
+number of specific
+point of contact for
+implementation
+Agree
+06/30/2027
+Lauren Palma
+(971) 240-3800
+Narrative for Recommendation 11
+The 988 & Behavioral Health Crisis System unit will continue to collaborate with the OHA Tribal
+Affairs team to explore and identify culturally responsive services for American Indian or Alaskan
+Natives living in Oregon. The unit will also work with the OHA Tribal Affairs team on elevating any
+legislative barriers that hinder behavioral health crisis services through legislative concepts or other
+appropriate means.
+RECOMMENDATION 12
+OHA 988 and Behavioral Health Crisis unit should incorporate Tribal inclusivity
+into the behavioral crisis framework, such as support for Tribal members who dial
+the 988 Lifeline, mobile crisis stabilization services, and collaborating with Tribes
+on high acuity mobile crisis cases that may lead to civil commitment
+investigations.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation
+activities
+Name and phone
+number of specific
+500 Summer St NE, E-20, Salem, OR, 97301 | Phone: 503-947-2340
+Fax: 503-947-5461 All relay calls accepted | oregon.gov/OHA
+point of contact for
+implementation
+Agree
+06/30/2027
+Lauren Palma
+(971) 240-3800
+Narrative for Recommendation 12
+The 988 & Behavioral Health Crisis System unit will continue to explore and implement
+opportunities to further support Tribal members who are connecting to Oregon’s behavioral health
+crisis system. The unit will collaborate with Tribes, CMHPs and OHA program staff on high acuity
+mobile crisis cases that may lead to civil commitment investigations.
+Please contact Ebony Clarke, Behavioral Health Director at 503-428-7385 with any questions.
+Sincerely,
+Ebony Clarke
+Behavioral Health Director
+cc:
+Kris Kautz, KRISTINE.M.KAUTZ@oha.oregon.gov
+Christa Jones, Christa.Jones2@oha.oregon.gov
+Samantha Byers, Samantha.BYERS@oha.oregon.gov
+Chelsea Holcomb, CHELSEA.HOLCOMB@oha.oregon.gov
+Lynnea Lindsey, Lynnea.Lindsey@oha.oregon.gov
+Lauren Palma, Lauren.Palma@oha.oregon.gov
+Lisa Wyman, Lisa.Wyman@oha.oregon.gov
+Steve Westberg, Steven.D.Westberg@oha.oregon.gov
+Tim Nesbitt, Tim.R.Nesbitt@oha.oregon.gov
+Sarah Adelhart, Sarah.Adelhart@oha.oregon.gov
+Samantha DuPont, Samantha.Q.DuPont@oha.oregon.gov
+Secretary of State Tobias Read
+Audits Director Steve Bergmann
+This report is intended to promote the best possible
+management of public resources.
+Copies may be obtained from:
+Oregon Audits Division
+255 Capitol St NE, Suite 180
+Salem OR 97310
+(503) 986-2255
+audits.sos@oregon.gov
+sos.oregon.gov/audits

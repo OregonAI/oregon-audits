@@ -1,0 +1,310 @@
+Kip Memmott
+Division Director
+Oregon Health Authority
+Safe Drinking Water Revolving
+Loan Fund Agreed Upon
+Procedures
+For Fiscal Years Ended June 30, 2023 and
+June 30, 2024
+May 2025
+Report 2025-15
+Steve Bergmann
+Division Director
+255 Capitol St NE, Ste 180
+Salem, Oregon 97310
+Tobias Read Michael Kaplan  Information (503) 986-2255
+Oregon Secretary of State  Deputy Secretary of State sos.oregon.gov/audits
+Independent Accountant’s Report
+To the Director and Management of the Oregon Health Authority:
+As required by the U.S. Environmental Protection Agency (EPA), the State of Oregon submits financial
+statements for the Safe Drinking Water Revolving Loan Fund. Oregon’s financial statements include three
+agencies: Oregon Business Development Department (OBDD), Oregon Health Authority (OHA), and the
+Department of Environmental Quality (DEQ).
+We have performed the procedures enumerated below on OHA’s column of the Safe Drinking Water
+Revolving Loan Fund financial statements for the years ended June 30, 2023 and June 30, 2024. OHA is
+responsible for the preparation of the financial statements and has agreed to and acknowledged that the
+procedures performed are appropriate to meet the intended purpose of assisting OHA in demonstrating to
+EPA that OHA’s financial information was reported in accordance with generally accepted accounting
+principles. No procedures were performed related to OBDD or DEQ financial information. This report may
+not be suitable for any other purpose. The procedures performed may not address all the items of interest
+to a user of this report and may not meet the needs of all users of this report and, as such, users are
+responsible for determining whether the procedures performed are appropriate for their purposes.
+The procedures and the associated findings are as follows:
+1. Financial Statements
+a. Obtained the working trial balance (WTB), any adjusting/reclassification journal entries
+and the financial statements prepared by OHA for the years ended June 30, 2023 and
+June 30, 2024 for federal expenditures.
+b. Obtained report from the accounting system (SFMA) of balances for June 30, 2023 and
+June 30, 2024.
+c. Agreed WTB beginning balances to the accounting system report(s).
+d. Traced adjustments to reverse June 30, 2022 adjustments to prior audit support.
+e. Compared current year adjusting/reclassification journal entries to agency support.
+f. Agreed ending WTB amounts to the balances reported in the Balance Sheet and the
+Statement of Revenues, Expenditures and Changes Fund Balance financial statements.
+We found no exceptions as a result of the procedures performed.
+2. Federal Revenue
+a. Obtained from OHA a cash draw report from federal system ASAP of all draws during
+fiscal years 2023 and 2024. Agreed cash draws recorded in accounting system to ASAP
+report by grant award and set-aside.
+Audits Division May 2025
+Page 2 Report 2025-15
+b. Calculated expected federal accounts receivable balance based on negative cash,
+expected accounts payable and due to other funds (see below) and compared the
+calculation to final balance reported by OHA in the financial statement and ensured no
+difference greater than $25,000.
+We found no exceptions as a result of the procedures performed.
+3. Expenditures
+a. For employees, whose payroll and benefits were charged to the program, obtained
+support that the employee worked for OHA’s Safe Drinking Water program.
+b. Selected 25 non-payroll expenditure disbursements and verified the disbursement agreed
+to the contract or invoice supporting the amount and payee is supported, for an allowable
+activity/cost and coded to a proper set-aside.
+c. For related payable accounts, queried SFMA data to identify transactions paid in July,
+August, or September for services/good provided prior to June 30, 2024 and compared
+the calculation to final balances reported by OHA in the financial statements and ensured
+no differences greater than $25,000.
+For one contract, $46,913 of expenditures were recorded to the incorrect set-aside. The transactions
+were recorded to State Program Management when they should have been recorded to
+Administration. These expenditures were associated with FAIN award number 98009022. The agency
+plans to adjust the accounting records.
+4. Transfers
+a. Selected 25 transactions and verified the transfer was supported by request from transfer
+agency, correct amount transferred and coded to a proper set-aside.
+b. For related due to other funds, queried SFMA data to identify transactions paid in July,
+August, or September for services/good provided prior to June 30, 2024 and compared
+calculation to final balance reported by OHA in the financial statements and ensured no
+difference greater than $25,000.
+We found no exceptions as a result of the procedures performed.
+5. Cash
+a. Obtained grant awards and amendments for open grants. Compared cash draws report
+from ASAP to SFMA cash revenues and cash expenditures by grant award and by set-
+aside to verify no cash expenditures exceed grant award and negative cash was due to
+expenditures incurred at year-end but not drawn.
+For the 2021 grant award, the cash expenditures exceeded the grant award by a total of $125,993 at
+June 30, 2024 for four set-asides. The agency corrected the overages when closing out the grant in
+January 2025.
+We were engaged by OHA to perform this agreed-upon procedures engagement and conducted our
+engagement in accordance with attestation standards established by the American Institute of Certified
+Public Accountants (AICPA). We were not engaged to and did not conduct an examination or review
+engagement, the objective of which would be the expression of an opinion or conclusion, respectively, on
+Audits Division May 2025
+Page 3 Report 2025-15
+the Safe Drinking Water financial statements for the year ended June 30, 2024, and June 30, 2023.
+Accordingly, we do not express such an opinion or conclusion. Had we performed additional procedures,
+other matters might have come to our attention that would have been reported to OHA.
+We are required to be independent of OHA and to meet our other ethical responsibilities, in accordance
+with the relevant ethical requirements related to our agreed-upon procedures engagement.
+This report is intended solely for the information and use of OHA and EPA, and is not intended to be, and
+should not be, used by anyone other than these specified parties.
+State of Oregon Secretary of State
+May 5, 2025
+Oregon Secretary of State May 2025
+Report 2025-15 page 4
+State of Oregon
+OBDD, OHA, DEQ
+Safe Drinking Water Revolving Loan Fund
+Statement of Net Position
+June 30, 2024
+OBDD OHA1 DEQ TOTAL
+ASSETS
+Current Assets:
+Cash $111,907,871 $   (668,432) $ (265,704)    $110,973,735
+Interest Receivable 22,280 - - 22,280
+Loans Receivable – Net 23,330,723 - - 23,330,723
+Securities Lending Collateral 175,550 - - 175,550
+Accounts Receivable - Federal - 9,399,831 - 9,399,831
+Due From Other Funds 9,689,799 - 269,956 9,959,755
+Total Current Assets 145,126,223 8,731,399 4,252 153,861,874
+Noncurrent Assets:
+Net OPEB Asset 3,355 - - 3,355
+Loans Receivable - Net 206,671,349 - - 206,671,349
+Total Noncurrent Assets 206,674,704 - - 206,674,704
+Total Assets  351,800,927 8,731,399 4,252 360,536,578
+Deferred Outflows of Resources:
+Related to Pensions 79,557 - - 79,557
+Related to OPEB 120 - - 120
+Total Deferred Outflows of Resources  79,677 - - 79,677
+LIABILITIES
+Current Liabilities:
+Accounts Payable 246,753 277,483 4,252 528,487
+Obligations Under Securities Lending 175,550 - - 175,550
+Due to Other Governments 46 - - 46
+Due to Other Funds 108,663 8,453,916 - 8,562,580
+Compensated Absences Payable 5,207 - - 5,207
+Contracts, Mortgages, and Notes Payable 4,529 - - 4,529
+Total Current Liabilities 540,748 8,731,399 4,252 9,276,399
+Noncurrent Liabilities:
+Compensated Absences Payable 2,804 - - 2,804
+Total OPEB Liability 1,426 - - 1,426
+Contracts, Mortgages, and Notes Payable 12,761 - - 12,761
+Net Pension Liability 181,143 - - 181,143
+Total Noncurrent Liabilities 198,133 - - 198,133
+Total Liabilities  738,881 8,731,399 4,252 9,474,532
+DEFERRED INFLOWS OF RESOURCES
+Related to Pensions 14,323 - - 14,323
+Related to OPEB 1,433 - - 1,433
+Total Deferred Inflows of Resources  15,756 - - 15,756
+Net Position
+Restricted Net Position for OPEB 3,355 - - 3,355
+Unrestricted Net Position 351,122,613 - - 351,122,613
+Total Net Position  $351,125,968 $                     - $                  - $351,125,968
+1 Agreed upon procedures performed only on OHA column.
+Oregon Secretary of State May 2025
+Report 2025-15 page 5
+State of Oregon
+OBDD, OHA, DEQ
+Safe Drinking Water Revolving Loan Fund
+Statement of Revenues, Expenses, and Changes in Fund Net Position
+June 30, 2024
+OBDD OHA1 DEQ TOTAL
+Operating Revenues
+Grant Income $                   - $19,257,530  $                        - $19,257,530
+Interest Income 853,009  - - 853,009
+Charges for Services 5,120  - - 5,120
+Total Operating Revenues 858,129  19,257,530  - 20,115,659
+Operating Expenses
+Personal Services 307,881  - - 307,881
+Services and Supplies 31,678  - - 31,678
+Special Payments 4,604,477  - - 4,604,477
+Distributions to Other Governments 319,106  - - 319,106
+Administrative Expenses - 319,219  - 319,219
+Technical Assistance - 287,557  - 287,557
+State Program Management - 822,405  - 822,405
+Local Assistance/Other State Programs:
+Implementation of Protection - 510,626  - 510,626
+Implementation of Protection--DEQ - - 633,454  633,454
+Water System Capacity Program - 861,710  - 861,710
+Total Operating Expenses 5,263,143  2,801,517  633,454  8,698,114
+Operating  Income  (Loss) (4,405,014) 16,456,013  (633,454) 11,417,545
+Nonoperating Revenues (Expenses)
+Investment Income (Loss) 5,509,403  - - 5,509,403
+Other Interest Expense (11,079) - - (11,079)
+Total Nonoperating Revenues (Expenses) 5,498,324  - - 5,498,324
+Income (Loss) Before Transfers 1,093,310  16,456,013  (633,454) 16,915,868
+Transfers From Other Funds (State Match) 3,843,649  - - 3,843,649
+Transfers in from OHA 15,822,559  - 633,454  16,456,013
+Transfers Out – To DEQ - (633,454) - (633,454)
+Transfers Out – To OBDD - (15,822,559) - (15,822,559)
+Transfers Out – Other Fund (300) - - (300)
+Change  in Net Position 20,759,217  - - 20,759,217
+Net Position – Beginning 330,366,751  - - 330,366,751
+Net Position  – Ending $351,125,968  $                           -  $                            -  $351,125,968
+1 Agreed upon procedures performed only on OHA column.
+Oregon Secretary of State May 2025
+Report 2025-15 page 6
+State of Oregon
+OBDD, OHA, DEQ
+Safe Drinking Water Revolving Loan Fund
+Statement of Net Position
+June 30, 2023
+OBDD OHA1 DEQ TOTAL
+ASSETS
+Current Assets:
+Cash $112,826,843  $(953,469) $(399,165) $111,474,209
+Interest Receivable 3,029,668  - 63  3,029,731
+Loans Receivable – Net 18,427,547  - - 18,427,547
+Securities Lending Collateral 46,647  - - 46,647
+Accounts Receivable - Federal - 1,210,091  - 1,210,091
+Due From Other Funds 580,368  775,574  408,570  1,764,511
+Total Current Assets 134,911,073  1,032,195  9,468  135,952,736
+Noncurrent Assets:
+Net OPEB Asset 6,738  - - 6,738
+Loans Receivable - Net 195,678,560  - - 195,678,560
+Total Noncurrent Assets 195,685,299  - - 195,685,299
+Total Assets  330,596,372  1,032,195  9,468  331,638,034
+Deferred Outflows of Resources:
+Related to Pensions 70,683  - - 70,683
+Related to OPEB 855  - - 855
+Total Deferred Outflows of Resources  71,539  - - 71,539
+LIABILITIES
+Current Liabilities:
+Accounts Payable 14,165  8,677  2,864  25,706
+Obligations Under Securities Lending 46,647  - - 46,647
+Due to Other Funds - 1,023,518  6,604  1,030,122
+Contracts, Mortgages, and Notes Payable 4,410  - - 4,410
+Total Current Liabilities 65,222  1,032,195  9,468  1,106,884
+Noncurrent Liabilities:
+Total OPEB Liability 4,788  - - 4,788
+Contracts, Mortgages, and Notes Payable 18,017  - - 18,017
+Net Pension Liability 160,196  - - 160,196
+Total Noncurrent Liabilities 183,001  - - 183,001
+Total Liabilities  248,223  1,032,195  9,468  1,289,885
+DEFERRED INFLOWS OF RESOURCES
+Related to Pensions 47,995  - - 47,995
+Related to OPEB 4,941  - - 4,941
+Total Deferred Inflows of Resources  52,936  - - 52,936
+Net Position
+Restricted Net Position for OPEB 6,738  - - 6,738
+Unrestricted Net Position 330,360,013  -  - 330,360,013
+Total Net Position  $330,366,751  $                   - $                 -  $330,366,751
+1 Agreed upon procedures performed only on OHA column.
+Oregon Secretary of State May 2025
+Report 2025-15 page 7
+State of Oregon
+OBDD, OHA, DEQ
+Safe Drinking Water Revolving Loan Fund
+Statement of Revenues, Expenses, and Changes in Fund Net Position
+June 30, 2023
+OBDD OHA1 DEQ TOTAL
+Operating Revenues
+Grant Income $                     - $4,955,316  $                     - $4,955,316
+Interest Income 3,308,850  - - 3,308,850
+Charges for Services 79,796  - - 79,796
+Other Income 2,809  - - 2,809
+Total Operating Revenues 3,391,455  4,955,316  - 8,346,770
+Operating Expenses
+Personal Services 173,652  - - 173,652
+Services and Supplies 15,683  - - 15,683
+Special Payments 4,265,980  - - 4,265,980
+Distributions to Other Governments 216,725  - - 216,725
+Administrative Expenses - 154,652  - 154,652
+Technical Assistance - 170,986  - 170,986
+State Program Management - 911,077  - 911,077
+Local Assistance/Other State Programs:
+Implementation of Protection - 547,743  - 547,743
+Implementation of Protection--DEQ - - 1,288,019  1,288,019
+Water System Capacity Program - 566,090  - 566,090
+Total Operating Expenses 4,672,040  2,350,548  1,288,019  8,310,608
+Operating  Income  (Loss) (1,280,586) 2,604,768  (1,288,019) 36,163
+Nonoperating Revenues (Expenses)
+Investment Income (Loss) 3,549,276  - - 3,549,276
+Other Interest Expense (11,043) - - (11,043)
+Total Nonoperating Revenues (Expenses) 3,538,233  - - 3,538,233
+Income (Loss) Before Transfers 2,257,648  2,604,768  (1,288,019) 3,574,396
+Transfers From Other Funds (State Match) 1,889,359  - - 1,889,359
+Transfers In from OHA 1,316,749  - 1,288,019  2,604,768
+Transfers Out – To DEQ - (1,288,019) - (1,288,019)
+Transfers Out – To OBDD - (1,316,749) - (1,316,749)
+Transfers Out – Other Fund (54,611) - - (54,611)
+Change  in Net Position 5,409,145  - - 5,409,145
+Net Position – Beginning 324,856,506  - - 324,856,506
+Prior Period Adjustments 101,100  - - 101,100
+Net Position – Beginning – As Restated 324,957,606  - - 324,957,606
+Net Position  – Ending $330,366,751  $                     - $                    - $330,366,751
+1 Agreed upon procedures performed only on OHA column.
+About the Engagement
+Oregon Secretary of State May 2025
+Report 2025-15 page 8
+We sincerely appreciate the courtesies and cooperation extended by officials and employees of OHA
+during the course of this audit.
+ABOUT THE SECRETARY OF STATE AUDITS DIVISION
+The Oregon Constitution provides that the Secretary of State shall be, by virtue of the office, Auditor of
+Public Accounts. The Audits Division performs this duty. The division reports to the Secretary of State and
+is independent of other agencies within the Executive, Legislative, and Judicial branches of Oregon
+government. The Secretary of State has constitutional authority to audit all state officers, agencies, boards
+and commissions as well as administer municipal audit law.
+Audit team
+Kelly Olson, CPA, Audit Manager
+Synthea Russell, CPA, Lead Auditor
+Rose Bravo, CPA, Staff Auditor
+Secretary of State Tobias Read
+Audits Director Steve Bergmann
+This report is intended to promote the best possible
+management of public resources.
+Copies may be obtained from:
+Oregon Audits Division
+255 Capitol St NE, Suite 180
+Salem OR 97310
+(503) 986-2255
+audits.sos@oregon.gov
+sos.oregon.gov/audits

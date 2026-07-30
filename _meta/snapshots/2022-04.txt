@@ -1,0 +1,424 @@
+2022-23
+Audit Plan
+Oregon Secretary of State | 2022-23 Annual Audit Plan | February 2022 | page 1
+All Oregonians benefit from effective, well-managed
+public services. This year, thanks to the critical work
+of the Audits Division, state agencies will gain
+valuable insight into how to improve outcomes in
+drug treatment, education, housing, and many other
+areas that impact the lives of people who live and
+work in Oregon.
+This audit plan is a collaborative effort. It would not
+be possible without Audits Director Kip Memmott,
+Governor Kate Brown, the Joint Committee on
+Legislative Audits, leadership at all Oregon state
+agencies, and the Legislature. I thank them for their
+ongoing cooperation and commitment to helping the
+Audits Division in serving the people of Oregon.
+I especially want to thank the staff in the Audits
+Division. Like the rest of the team within the
+Secretary of State’s Office, they have shown
+immense resilience and professionalism in the face of
+a difficult year. Their work plays a direct role in
+improving the lives of Oregonians. They should be
+proud of the quality of the audits they’ve continued
+to conduct and report on. I know I am.
+— Shemia Fagan, Secretary of State
+Performance audits  pg. 3
+Racing oversight and regulation | Oregon Racing Commission
+Measure 110 program design and control | Oregon Health Authority
+Oregon tax policy efficacy | Governor’s Office and Department of Revenue
+High School Graduation and College and Career Readiness Act (Measure 98) |
+Department of Education
+Rental assistance program | Oregon Housing and Community Services Department
+Medicaid Pharmacy Benefit Managers | Oregon Health Authority
+State workforce governance and modernization | statewide
+Information Technology audits  pg. 7
+Cybersecurity audit | Department of Corrections
+Integrated Eligibility system controls | Oregon Department of Human Services and
+Oregon Health Authority
+Financial audits  pg. 8
+Statewide Single Audit, financial and federal
+Financial statement audits
+Rollover audits from last year’s plan  pg. 9
+Home mortgage interest deduction policy efficacy | Department of Revenue
+Unemployment insurance program | Oregon Employment Department
+Higher education sustainability | Higher Education Coordinating Commission
+Drinking water resource access, quality, sustainability | Governor’s Office
+Access to broadband internet and digital equity | Business Oregon
+Effectiveness and equity of cannabis licensing | Oregon Liquor and Cannabis
+Commission
+Non-audit
+special projects
+updates on our follow-up
+program, advisory reports,
+and annual summary reports
+see pg. 11
+About the plan
+including details on our risk
+assessment process
+see pg. 13
+Audit Plan at a Glance
+Oregon Secretary of State | 2022-23 Annual Audit Plan | February 2022 | page 3
+New performance audits
+In addition to an independent risk assessment process, the following audits were selected after consultation with the
+Governor’s Office, agency directors, members of the Legislature, and state government stakeholders , including
+community and advocacy groups as well as individual Oregonians. Audits are most successful when there is buy-in and
+collaboration with the auditees and we consider stakeholder feedback a key component of our risk assessment  (see pg.
+13).
+The demand for audit services is high and the division must be thoughtful and strategic when deploying our limited
+resources. Our capacity is driven by several factors, among them a number of ongoing audits initiated under a previous
+audit plan (see pg. 9) and change management and professional development priorities. Division staff have been
+resilient and productive throughout the pandemic despite the substantive challenges in their professional and personal
+lives, including working on full-time remote work schedules. Secretary Fagan is committed to investing time and
+resources into the well-being of the Audits team.
+Racing Oversight and Regulation
+Oregon Racing Commission
+This audit's focus will be on the regulatory and oversight structure of the Oregon Racing Commission. Six Tribal
+governments signed a letter to the Secretary of State requesting this audit; while not the sole determinant, this
+request was a key consideration. The gaming industry has changed dramatically in recent years, owing to technological
+advancements and statutory changes allowing greater public access to gaming and expansion of gaming types. These
+changes bring a variety of inherent risks to the state, which this audit is seeking to identify, assess, and where possible,
+provide public assurance.
+A possible audit objective includes risks related to gambling addiction with an emphasis on disproportionate impacts on
+underrepresented communities.
+Oregon Secretary of State | 2022-23 Annual Audit Plan | February 2022 | page 4
+Measure 110 Program
+Design and Control
+Oregon Health Authority
+On November 3, 2020, Oregon voters passed Measure 110, significantly
+changing how the state deals with the use of illegal drugs. Part of that
+change included establishing a Treatment and Recovery Services fund,
+financed with marijuana revenues. The measure, as modified by Senate
+Bill 755, requires the Secretary of State to conduct financial and
+performance audits on the uses and effectiveness of the fund.
+These audits are required to examine specific elements of the Measure
+110 grant programs and new Behavioral Health Resource Networks,
+including the effectiveness of grants in increasing access to treatment
+and other recovery services, and the outcomes of the program. The
+audits are also required to include data on the number of Class E
+violations issued and to examine potential demographic disparities of
+people who have received citations.
+Oregon Tax Policy Efficacy
+The Governor’s Office and Department of
+Revenue
+This audit will include a risk assessment of Oregon tax policies to identify a
+multi-year plan to audit these risks, and an assessment of Oregon’s formal
+sunset review process for tax credits.
+In addition to the general risk assessment, this audit may include an
+objective examining property tax assessment with a specific focus on
+equity. Possible audit objectives may include a review of the accuracy and
+consistency of property tax assessments, including risks creating inequity
+for people in different neighborhoods or income levels. The report may
+include a discussion on the efficacy of Oregon's Constitutional "kicker"
+requirement.
+Oregon Secretary of State | 2022-23 Annual Audit Plan | February 2022 | page 5
+High School Graduation and
+College and Career
+Readiness Act (Measure 98)
+Department of Education
+Oregon law requires an audit of the uses and effectiveness of the fund
+established by Measure 98, otherwise known as the High School
+Graduation and College Readiness Act. The act allocates funds to several
+programs, including career and technical education, college-level
+educational opportunities, and drop-out prevention strategies.
+The Audits Division issued its initial audit in 2020, focused on governance
+and controls. That audit was done in "real-time" owing to the early status
+of the program's implementation. This audit will be examining the act's
+program areas and, per statute, will be issued by December 31, 2022.
+Rental Assistance Program
+Oregon Housing and Community Services
+Department
+The pandemic had a devasting impact on Oregonians, especially with
+regards to housing for those who lost their jobs or income. In December
+2021, the Legislature provided emergency funding for rental assistance,
+including approving $215 million in funding to continue renter protection.
+The state is facing criticism for stopping the application process for
+these funds even though it has been reported Oregon was one of the
+timeliest states issuing rental assistance. Issues cited by legislators and
+other stakeholders include technical challenges with rental assistance
+software and public communication challenges. The division has received
+a letter requesting an audit of the department by the chairs of the
+Senate and House housing committees.
+Oregon Secretary of State | 2022-23 Annual Audit Plan | February 2022 | page 6
+Medicaid Pharmacy Benefit
+Managers
+Oregon Health Authority
+Medicaid is inherently high risk and expensive. The Audits Division has
+already executed several high-impact audits in this area, but there are
+many remaining risks. Oregon’s Coordinated Care Organization (CCO)
+model has some specific risks.
+This audit will focus on Pharmacy Benefit Managers, the middle broker
+between drug manufacturers, health insurers, and pharmacies. They
+determine what drugs are covered by health insurance providers,
+negotiate prices and rebates, and facilitate reimbursement to
+pharmacies for drugs they dispense. A U.S. Supreme Court ruling in 2021
+clarified states have the power to regulate PBMs. Several recent audits
+of PBMs in other states have focused on the difference between what
+the state’s Medicaid program paid the PBMs and what the PBMs pay
+pharmacies to dispense drugs. Each of the 15 CCOs in Oregon contract
+with a PBM.
+In addition to being a high-risk area identified by division staff, several
+external stakeholders, including legislators, have expressed interest in
+this audit topic. Several states including Ohio, Arkansas, and Delaware
+have issued impactful audits examining PBM programs and risks.
+State Workforce Governance
+and Modernization
+Statewide
+The pandemic fundamentally and permanently changed the Oregon state
+government workforce. This audit will seek to identify and assess the
+evolving workforce environment; offer recommendations for how the state
+can implement progressive, human capital management strategies; and
+provide assurance where the state is implementing leading and innovative
+personnel management practices.
+This audit will include an objective examining mandatory employee overtime
+to ascertain the root causes for this overtime, its impact on employees, and
+to identify possible alternative strategies.
+Oregon Secretary of State | 2022-23 Annual Audit Plan | February 2022 | page 7
+New information technology audits
+Cybersecurity Audits
+Department of Corrections
+The division has issued a number of cybersecurity audits at several state
+agencies. The purpose of these audits is to determine whether state agencies
+have effective and efficient IT security frameworks and control structures.
+The division initiated a cybersecurity audit of the Department of Corrections
+in December 2021. An additional cybersecurity audit will be performed during
+the year at an agency to be determined.
+Integrated Eligibility System
+Controls
+Oregon Department of Human Services and Oregon
+Health Authority
+The division in 2020 executed a real-time audit of the implementation of the
+Integrated Eligibility system, now referred to as ONE. The system is intended to
+streamline the process by which Oregonians apply for critical social welfare
+services offered by these two agencies.
+Overall, that audit found the implementation was proceeding well but did
+identify several risks. This project will include objectives to determine the
+appropriateness of security, system change processes, and manual processes
+and ensure data produced by this critical system meets data quality
+requirements for the agency’s management of benefit programs and the
+division’s mandated federal financial and compliance audit work.
+Oregon Secretary of State | 2022-23 Annual Audit Plan | February 2022 | page 8
+Financial audits
+Statewide Single Audit
+In two parts: Financial and federal
+A single audit is required by the federal government for the approximately $12 billion in federal financial assistance
+Oregon receives each year. These audits determine whether amounts reported in Oregon’s financial statements are
+materially correct and adequately supported; evaluate the state’s administration of major federal programs for
+compliance with applicable laws, rules, and regulations; conclude on whether the Schedule of Expenditures of Federal
+Awards is fairly presented in relation to the state’s financial statements; and review accounting and compliance control
+procedures.
+The Single Audit, which accounts for a significant portion of the division’s financial work, has two main components.
+The first is a financial audit of the State’s financial statements and reporting on the schedule of expenditures of federal
+awards (SEFA) in relation to those financial statements. The second is a compliance audit of major federal awards
+expended during the fiscal year. Most of Oregon’s biggest agencies are included in this audit.
+Financial statement audits
+The objective of these audits is to review internal accounting and
+compliance control procedures and to obtain reasonable assurance
+about whether the amounts reported in the financial statements are
+materially correct and adequately supported.
+We annually audit the following programs and agencies:
+Oregon State Treasury: Short-Term, Local Government Investment
+Fund, Intermediate Term Pool
+Oregon Business Development Department: Special Public Works
+Fund and Water Fund
+Oregon Department of Energy: Small Scale Energy Loan Program
+Department of Environmental Quality: Clean Water Revolving Fund
+Oregon Department of Higher Education: High School Graduation and
+College and Career Readiness Fund (biennial audit)
+Oregon Health Authority: Oregon Health Insurance Marketplace
+This audit also seeks to verify compliance with programmatic
+requirements set forth by federal regulations, state statute, and the
+Centers for Medicare & Medicaid Services.
+Oregon Housing and Community Services
+Oregon State Lottery
+Oregon Department of Veterans’ Affairs
+Oregon Secretary of State | 2022-23 Annual Audit Plan | February 2022 | page 9
+Rollover performance and IT audits from the 2021-22 plan
+A number of audits initiated by the division in 2021 will continue into 2022.
+MAR 21 APR 21 AUG 21 NOV 21 DEC 21 JAN-MAR 22
+1st quarter
+APR-JUN 22
+2nd quarter
+JUL-SEP 22
+3rd quarter
+OCT-DEC 22
+4th quarter
+Department of Revenue: Home mortgage interest deduction
+policy efficacy
+This audit is examining the efficacy and impacts of the statutory mortgage
+interest deduction and determining the distribution and equity of the benefit
+among Oregon homeowners.
+Oregon Employment Department: Unemployment insurance program
+This will be an audit to examine root causes for the substantive risks and performance issues related to
+the state's Unemployment Insurance Program that arose during the COVID -19 pandemic. The audit will
+also examine the adjudication process for potential inequities.
+Higher Education Coordinating Commission and selected community colleges: Higher
+education sustainability
+This project is examining how HECC can help community colleges enhance data use and
+student support to improve college performance, reduce equity gaps, and address
+substantial risks to college sustainability.
+Release dates are tentative and subject to change.
+Oregon Secretary of State | 2022-23 Annual Audit Plan | February 2022 | page 10
+MAR 21 APR 21 AUG 21 NOV 21 DEC 21 JAN-MAR 22
+1st quarter
+APR-JUN 22
+2nd quarter
+JUL-SEP 22
+3rd quarter
+OCT-DEC 22
+4th quarter
+Governor’s Office: Water governance impacts on water security
+This audit will examine how the state’s water governance framework impacts the accessibility, quality, and
+sustainability of water resources for all Oregonians.
+Business Oregon: Access to broadband internet access,
+digital equity
+This audit will review policies and statutes related to high-speed
+internet access to identify opportunities to remove barriers to
+expansion into rural and other communities experiencing challenges
+accessing reliable and affordable broadband services.
+Oregon Liquor and Cannabis Commission: Effectiveness and equity of cannabis licensing, compliance
+This audit will examine OLCC regulatory oversight of the Oregon cannabis industry. Audit objectives may include
+examining the effectiveness and equity of OLCC licensing, compliance, and enforcement actions. The audit will
+likely make recommendations for the structure and resources needed to ensure an effective licensing and
+compliance system that supports equitable business growth. This audit may also use available disaggregated
+data regarding disproportional impacts. This audit may also consider BIPOC- and Tribal-owned businesses vs.
+venture capital ownership.
+Oregon Secretary of State | 2022-23 Annual Audit Plan | February 2022 | page 11
+Non-audit special projects
+The Audits Division has long been a national leader in many areas of audit work and is constantly
+pursuing innovative strategies rooted in our values of transparency and accountability. To this end, the
+division has previously developed a number of initiatives — among them non-audit advisory reports,
+cybersecurity control audits, and recommendation follow-up reports.
+While the division maintains flexibility and may pursue some non-audit projects during the period
+covered by this audit plan, our priorities are audit work and staff professional development and well-
+being. For this reason, no specific non-audit projects have been identified for inclusion in the plan —
+with the exception of a new type of follow-up report.
+Follow-up summary
+In 2021, the division changed the audit follow-up program. The reason for the change was twofold:
+other work priorities and a desire to optimize the impact of the division’s follow-up work. Instead of
+formal follow-up engagements on all audits, the division has adopted a risk-based approach.
+All audits will get an initial follow-up. This entails a request from the division to the audited entity for a
+status on recommendation implementation and supporting documentation. The audit manager, with
+assistance from two staff assigned to administer the follow-up program and in consultation with the
+Audits Director, determines the approximate level of remaining risk and whether additional follow-up
+work is needed.
+If so, a formal team and project is assigned, and a formal report will be issued. If it is determined the risk
+has been adequately addressed and no further follow-up work is needed, the information is logged into
+a follow-up database.
+The division plans to issue a new annual audit follow-up status report to the Governor's Office, Joint
+Committee on Legislative Audits, and agency leadership. The division's capstone reporting strategy is
+focused on fleshing out and communicating systemic or chronic root causes for audit findings and
+recommendations. The goal is to promote more interest from stakeholders in audit follow -up analyses
+and to model follow-up reporting by state auditors with a highly collaborative relationships with their
+legislative bodies.
+Advisory reports
+These reports are distinct from audits in that they do not strictly adhere to Government Auditing
+Standards. Standards ensure audits are conducted systematically and findings and conclusions are
+accurate and supported by evidence; yet standards also require audits to follow a rigorous process that
+can be time-consuming. Through advisory reports, the division can conduct its work and report results
+in a more timely fashion.
+It is important to note the Audits Division remains committed to ensuring the accuracy of its
+conclusions and findings, even with advisory reports. Therefore, all of our advisory reports follow the
+Oregon Secretary of State | 2022-23 Annual Audit Plan | February 2022 | page 12
+same rigorous quality assurance process as each of the division’s audits. We stand behind our evidence
+and the strength and precision of our conclusions.
+These reports have been highly successful in communicating audit-grade information on a number of
+pressing issues to the state of Oregon. Most recently, the division released advisory reports assessing
+ODOT’s efforts to mitigate hazardous trees in the wake of the 2020 wildfires and reporting on the
+unique risks and challenges faced by long-term care facilities during the pandemic.
+New this year is the division’s pilot capstone project: a systemic, root cause analysis related to equity
+findings from multiple audits of the Oregon Department of Education. The Governor’s Office and ODE
+leadership have been informed and are supportive of the project.
+The Audits Division will continue to issue these reports, evaluate their effectiveness, and improve upon
+them as needed.
+Summary reports
+The division also issues annual reports summarizing three significant programs: the State Government
+Accountability Hotline, the Municipal Audit Program, and the Statewide Single Audit .
+State Government Accountability Hotline: In 1995, the Legislature created the hotline for employees
+and members of the public to report waste, inefficiency, or abuse by state agencies, state employees,
+or persons under contract with state agencies. The hotline was formerly known as
+the Government
+Waste Hotline. The Audits Division is required to prepare and submit to the Legislature an annual report
+describing the number, nature, and resolution of reports made through the hotline.
+Municipal Audit Program: Oregon’s municipal corporations, as defined by Municipal Audit Law , include
+all counties, cities, school districts, special districts, and public corporations subject to control by local
+governments. Municipal Audit Law provides instructions for the type and submission of annual reports
+that municipal corporations are required to submit to the Secretary of State. The l aw also requires the
+Secretary of State to prepare an annual summary report detailing which municipal corporations filed
+audit reports as required and which did not.
+Keeping Oregon Accountable: The Audits Division annually audits the State of Oregon’s financial
+statements and compliance with federal program requirements. The federal government requires these
+audits for the financial assistance Oregon receives annually. These audits determine whether amounts
+reported in Oregon’s financial statements are materially correct and adequately supported; evaluate
+the state’s administration of major federal programs for compliance with applicable laws, rules, and
+regulations; conclude on whether the Schedule of Expenditures of Federal Awards is fairly presented in
+relation to the state’s financial statements; and review accounting and compliance control procedures.
+We annually prepare a report summarizing the results of these audits.
+Oregon Secretary of State | 2022-23 Annual Audit Plan | February 2022 | page 13
+About the plan
+The mission of the Oregon Audits Division is to protect the public interest and improve Oregon
+government. A key component of this mission is the division’s annual audit plan, which lists the
+agencies, programs, and topics prioritized for audits in the coming year.
+The annual audit plan demonstrates two key philosophies of the Audits Division: our commitment to
+building public trust and transparency, and our emphasis on being agile and responsive to critical
+issues facing the state. We are committed to completing the audits listed in the plan; however, our risk
+assessment process is continuous. The plan is a flexible document, and we will redirect audit resources
+as necessary to address critical issues facing the state.
+While we maintain flexibility to address these emerging issues and risks, government audit standards
+require any audit initiated be completed unless circumstances arise that justify its termination. Any
+decision to terminate an audit must be documented and publicly reported. We follow professional
+standards and guidelines in both developing and executing this audit plan.
+We select and prioritize audits using a risk-assessment approach
+Audits are all about risk. There will always be inherent risks in state government owing to the size of
+budgets, the vulnerable populations served, and the important work state agencies do in service of
+Oregonians.
+Since we cannot feasibly audit all of state government all the time, we carefully prioritize our resources
+and generally go where the risk is highest. To determine that, our audit plan is developed using a risk-
+assessment process. This process is based on specific factors relating to the quality of internal controls
+and the liability and level of exposure to the state of various agencies, programs, or activities.
+Our risk assessment considers all of the following factors:
+• The direction of the elected Secretary of State
+• Industry-standard risk assessment criteria
+• Previous audits of agency operations and internal controls
+• Trend analyses to identify recurring audit findings and control
+deficiencies
+• Audit follow-up and recommendation tracking
+• The state’s Single Audit Reports and audit management
+letters
+• Input from elected officials, including the Governor’s Office
+and members of the Joint Committee on Legislative Audits
+• Input from agency management, other public sector audit
+organizations, and members of the public
+• Priorities and work products of other leading government
+audit functions
+• Size of audited agency or
+program
+• Compliance and regulations
+• Pending or recent legislation
+• Complexity of transactions
+• Fiscal sustainability
+• Management accountability
+• Quality of internal control
+system
+• Age of program or operation
+• Audit history
+• Public health and safety
+• Critical infrastructure
+• Short- and long-term
+strategic risks
+Oregon Secretary of State | 2022-23 Annual Audit Plan | February 2022 | page 14
+• Topics informed and suggested by research conducted by
+Audits Division staff
+• Current events and trends, financial conditions, and public
+policy issues, including emerging policy
+• Equity, inclusion, and diversity risks and frameworks
+• Related litigation and
+relevant case law
+• Emerging risk areas
+Oregon Audits Division
+255 Capitol St NE, Suite 500
+Salem OR 97310
+(503) 986-2255
+audits.sos@oregon.gov
+sos.oregon.gov/audits

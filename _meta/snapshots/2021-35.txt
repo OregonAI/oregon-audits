@@ -1,0 +1,1958 @@
+Confidential
+Cnfidential
+Department of Public Safety Standards and
+Training
+Additional Resources
+Needed to Strengthen
+Police Training and
+Accountability
+December 2021
+Report 2021-35
+Confidential
+Cnfidential
+Why this audit is important
+Ongoing police misconduct in
+Oregon and across the country has
+led to calls for police reform and
+improved accountability.
+The mission of the Department of
+Public Safety Standards and
+Training (DPSST) is to cultivate
+excellence in public safety by
+developing and delivering training
+and upholding established
+professional standards.
+DPSST is responsible for regulating
+all public safety professionals in
+Oregon, including city, county, state
+and Tribal police officers, and city
+and county corrections officers.
+Newly hired police officers must
+attend a four-month Basic Academy
+at DPSST and complete a Field
+Training Manual at their local agency
+to attain a law enforcement
+certification.
+Officers who fail to meet moral
+fitness standards may face
+decertification by DPSST.
+What we found
+1. DPSST and its board have improved administrative rules and
+procedures to hold police officers accountable. (pg. 13
+) Yet local
+control, narrowly defined administrative rules, and gaps in
+certification review limit DPSST’s ability to hold more officers
+accountable. As a result, officers whose conduct is worthy of
+decertification may go undetected or unaddressed. For example,
+we found that in 57 Portland Police Bureau officer-involved
+shootings and incidents of in-custody deaths from 2004 to 2018,
+only one officer’s actions may have met the standard for a DPSST
+professional standards review. (pg. 17)
+2. DPSST has developed and implemented a Basic Police Academy
+training that complies with state laws and includes evidence-
+based curriculum and teaching methods. (pg. 23) However, only a
+small proportion of law enforcement officers have received this
+training. The agency’s ability to provide police training and to
+certify and decertify officers is hindered by staffing and
+technology constraints. (pg. 25)
+3. DPSST lacks oversight of the field training program. Once officers
+leave the academy, the local law enforcement agency, including
+Field Training Officers (FTO), are responsible for training. FTOs
+vary in experience and training. Oregon Administrative Rules do
+not require that FTOs receive training. (pg. 31
+)
+4. In the last two years, the Governor and the Legislature have taken
+steps to reform policing in Oregon, including addressing standards
+for conduct and regulating discipline. (pg. 20)
+Audit Highlights
+Department of Public Safety Standards and Training
+Additional Resources Needed to Strengthen Police
+Training and Accountability
+Other pertinent information
+We discuss the issues around use of deadly force data and its implications. (pg. 35)
+What we recommend
+We made 15 recommendations to DPSST. DPSST agreed with 12 out of 15 of our recommendations. The response can
+be found at the end of the report.
+Oregon Secretary of State | Report 2021-35 | December 2021 | page 1
+Introduction
+Recent years have been marked by much needed attention to racial injustice, inequity, and the actions
+of law enforcement agencies (LEAs). As the debate on police reform intensifies and with public trust in
+law enforcement waning, it raises questions about the ability of these agencies and the State of Oregon
+to hold officers accountable for misconduct.
+The Department of Public Safety Standards and Training (DPSST) is the state agency responsible for
+regulating public safety disciplines. The purpose of this audit was to examine how DPSST and its board
+approach police training and accountability. Specifically, our audit examined whether DPSST could do
+more to identify and hold officers accountable who have engaged in misconduct. Our audit also
+evaluated whether the agency’s approach to Basic Police training is compliant with state laws and
+industry leading practices.
+National and local police misconduct drive calls for police reform
+On May 25, 2020, George Floyd was murdered by a Minneapolis police officer while being arrested on
+suspicion of passing a counterfeit $20 bill. The officer was convicted in April 2021 of unintentional
+second-degree murder, third-degree murder, and second-degree manslaughter. The murder of Mr.
+Floyd triggered protests throughout the country against racial injustice, police violence, and a lack of
+accountability. It also prompted efforts by many governments to reform policing practices.
+In Oregon, protests were held throughout the state — including in Portland, where protesters gathered
+for 100 days straight, which received national media coverage. The protests themselves drew police
+response, which in turn fueled greater criticism of policing practices and the use of force along with
+criticism of protestor tactics. Some members of the public, activists, and lawmakers called for specific
+measures, including police officer training on equity, bans on chokeholds, the elimination of qualified
+immunity, and more independent oversight.
+Independent oversight for law enforcement in Oregon is not new. From 2005 to 2006, the City of
+Eugene created the Police Auditor’s Office and the Civilian Review Board, two independent police
+oversight mechanisms to ensure fair and impartial oversight and review of public complaints. Similarly,
+in 2007, the Corvallis City Council adopted an ordinance establishing the Community Police Review
+Advisory Board to review when a complainant is dissatisfied with the result of an investigation into
+their complaint of police officer conduct, all officer-involved fatal shootings, traffic stop data, and
+allegations of racial bias.
+The Portland City Auditor’s Independent Police Review Division, established in 2001, is an independent
+civilian oversight agency that intakes, reviews and responds to public complaints, as well as
+investigates and monitors allegations of misconduct into Portland Police Bureau’s officers. However,
+the Independent Police Review is limited in its powers; investigators do not have direct access to
+records, cannot subpoena police officers to testify, and nearly all details of decisions are kept
+1 Qualified immunity is a doctrine that shields government officials from being held personally liable for money damages for
+constitutional violations.
+Oregon Secretary of State | Report 2021-35 | December 2021 | page 2
+confidential and not publicly available. In the 2020 local election, Portland voters decided to replace the
+Independent Police Review with a new oversight board with expanded powers.
+In Portland, the debate on police reform is centered on how officers engage with people of color and
+people experiencing mental illness. In response to the 2003 death of Kendra James, a 21-year-old Black
+woman who was shot by a white police officer, a coalition of community groups and Black leaders urged
+the Portland Police Bureau to adopt 24 reforms. In 2012, the U.S. Department of Justice found that the
+bureau “has engaged in an unconstitutional pattern or practice of excess force against people with
+mental illness.” The City of Portland and the U.S Department of Justice agreed to measures addressing
+use-of-force policies; increasing capacity for crisis intervention; identifying gaps in policy, training, and
+supervision; expediting investigations of misconduct; and increasing community oversight of reforms.
+In addition to these efforts, Oregon legislators took up numerous bills on police reform in the 2020 and
+2021 legislative sessions. In the June 2020 legislative special session, six criminal justice reform bills
+were passed. The bills banned some police behavior, such as chokeholds and specific crowd control
+tactics, and required oversight bodies like DPSST and the Legislature to make changes, including a
+statewide database to track when certifications are revoked.
+In July 2020, the Oregon Governor convened a task force of diverse Oregonians to develop
+recommendations for improving training and certification practices for Oregon law enforcement
+officials. The audit team attended several of the task force’s early meetings. Efforts stemming from the
+2021 legislative session are discussed in greater detail in the Audit Results section of this report.
+DPSST and its board regulate public safety professionals in Oregon
+Each state has a Peace Officer Standards and Training Commission or equivalent that establishes
+standards and training requirements. Most oversee certification, decertification, and on-going training
+for peace officers. In 1961, Oregon created the Advisory Board on Police Standards and Training to
+serve as Oregon’s equivalent agency and held Oregon’s first Basic Police Class. Over the years, the
+Advisory Board has grown in scope and is now known as the Board on Public Safety Standards and
+Training. DPSST was created in 1997 and provides basic and ongoing training, certifies officers, and
+monitors compliance with professional standards established by the board for all public safety
+disciplines.
+DPSST’s mission is to cultivate excellence in public safety by developing and delivering training and
+upholding established professional standards. The agency’s divisions are divided into training,
+professional standards, and operations. The training division includes academy training, the Center for
+Policing Excellence (CPE) and the regional training program. The CPE was created in 2013 by the
+Legislature to develop and promote updated skills in policing among officers, managers, and
+Innovation in policing has gained popularity
+In 1989, the Eugene Police Department teamed up with the White Bird Clinic CAHOOTS (Crisis Assistance
+Helping Out on the Streets) team to offer mobile crisis intervention for people experiencing mental health
+crises. The intent is to offer the type of support and medical help needed with limited police involvement. In
+2019, CAHOOTS handled 15,879 calls for service in the Eugene area. This model is gaining interest nationwide.
+Oregon Secretary of State | Report 2021-35 | December 2021 | page 3
+administrators, and to make use of the body of knowledge of effective and efficient methods in the
+criminal justice system. Its focus was on leadership training.
+The regional training program provides advanced regional training and coordination to local LEAs and
+county corrections facilities, parole and probation, and telecommunications in Oregon. Regional training
+coordinators partner with local agencies to identify training needs and resources, provide training for
+local trainers, and coordinate and facilitate skills-based and specialized training.2 Because many local
+public safety functions — like corrections, police, and 911 emergency response — can be housed under
+one roof, regional coordinators must be creative and resourceful to adequately coordinate training
+response.
+The agency is guided by the 26-member Board on Public Safety Standards and Training. The board
+approves all policies, standards, and minimum requirements for public safety certification and training.
+The composition of the board is outlined in statute: it includes leaders in most public safety disciplines,
+all of whom are appointed by the Governor and serve three-year terms. In 2021, legislators added two
+public member positions to the board, making a total of three public members.
+DPSST is funded through a mix of General, federal, and other funds, with the bulk of its funding coming
+from other funds. These other funds are from the Criminal Fine Account, which is supported by revenue
+collected from state, city, and county courts.3 DPSST is one of a few agencies that receive funds from
+the Criminal Fine Account.
+Figure 1: DPSST’s budget fluctuates between biennia
+2017-19 Actual 2019-21 Legislatively Approved 2021-23 Legislatively Adopted
+General Fund  $9,795,963  $9,357,609  $9,107,640
+Other Funds  $47,121,802  $82,907,4184   $55,369,818
+Federal Funds  $7,392,919 $8,510,332  $7,776,846
+Total Funds  $64,310,684  $100,775,359  $72,254,304
+Positions  166  152  160
+FTE  157.97  149.87 158.74
+Source: Legislative Fiscal Office 2021-23 Budget Review and DPSST.
+Both DPSST and the board’s relationship with police officers is with the individual officer. Under Oregon
+law, the board does not have control over LEA operations. Holding local LEAs accountable is ultimately
+up to publicly elected leaders, including city and county officials.
+DPSST is responsible for regulating all public safety professionals in Oregon. Public safety professionals
+include city, county, state, and Tribal police officers; city and county corrections officers; parole and
+probation officers; fire service personnel; telecommunicators; emergency medical dispatchers; private
+2 For example, standardized field sobriety testing (SFST), driving under the influence of intoxicants video training, SFST inst ructor
+updates, and RADAR/LIDAR usage.
+3 The Criminal Fine Account is supported by revenue collected through the courts — the Oregon Judicial Department for the
+circuit courts and the local Municipal and Justice Courts. The funding is primarily related to motor vehicle violations, including
+parking-related violations. Multiple state functions are supported by the Criminal Fine Account, including police safety standards
+and training, compensation for victims of a crime, forensic services provided by the Oregon State Police, and maintenance and
+operation of Oregon State Police’s Law Enforcement Data System.
+4 This includes actions made by the Emergency Board and administration in response to COVID-19 emergency response
+measures.
+Oregon Secretary of State | Report 2021-35 | December 2021 | page 4
+security providers; OLCC regulatory specialists; polygraph examiners; and private investigators. The
+largest discipline is private security. As with police, the board adopts standards for employment,
+training, certification, and decertification for all disciplines.
+Figure 2: DPSST certifies public safety professionals in seven disciplines
+Source: April 2021, DPSST.
+The board sets standards for police officer employment, training, and certification, and
+DPSST administers the standards
+The board adopts minimum standards for police officer employment in Oregon. Local LEAs must follow
+this guidance when making employment decisions.
+According to administrative rule, the minimum qualifications for a law enforcement officer in Oregon
+are as follows:5
+• Be a U.S citizen or non-immigrant legally admitted to the United States under a
+Compact of Free Association;
+• 21 years of age;
+• Fingerprints within 90 days of date of employment;
+• High school diploma or equivalent;
+• Proof of training;
+• Certification by DPSST;6
+• Meet minimum physical standards;
+• Psychological screening;
+• Meet and maintain moral fitness standards; and
+• Notify DPSST of an arrest or a criminal citation.
+Although the local LEAs are solely responsible for employment decisions, they must comply with state
+statutory provisions, created by the board and state legislators, including background check
+requirements.
+5 OAR 259-008-0010
+6 To be awarded a public safety certification, an officer must be employed, meet the basic minimum requirements for
+employment, and complete the Basic Police Academy and Field Training Manual within 18 months from the date of hire.
+20,935
+6,974
+5,620
+4,217
+979 618 75
+5,000
+10,000
+15,000
+20,000
+25,000
+Private Security Firefighters Police Corrections Telecom/EMD Parole/Probation OLCC
+Oregon Secretary of State | Report 2021-35 | December 2021 | page 5
+To prevent officers entering the workforce who may be biased or prejudiced against certain groups of
+people, state legislators in 2021 passed House Bill 2936, which required DPSST to create a standardized
+background checklist that contains a description of the results of the background investigation,
+including information about the psychiatric or psychological evaluation and an assessment of an
+officer’s feelings and opinions on people with diverse cultures, races, and ethnicities, information about
+the applicant’s finances, and the names of three references. Legislators did not outline what local LEAs
+must do with the information and how it should factor in hiring decisions.
+Once an officer is hired by the local LEA and completed training requirements, the officer must apply
+for a public safety certification from DPSST. By certifying officers, the State of Oregon holds officers to
+a set of standards. If the officer fails to meet these standards, then DPSST and the board have the
+authority and the means to remove the officer’s certification and keep them out of the profession.
+To be awarded a certification, an officer must be employed, meet the basic minimum requirements for
+employment, swear to a Criminal Justice Code of Ethics, have a valid first aid and cardiopulmonary
+resuscitation certification, and complete the Basic Police Academy and Field Training Manual within 18
+months from the date of hire. Employment and certification are tied together. A person cannot be
+OAR 259-008-0015 outlines background checks for public safety professionals
+The background investigation must include, but is not limited to, investigation into the following:
+• Criminal history and arrests
+• DMV records
+• Drug and alcohol use
+• Education verification
+• Employment history
+• Military history verification
+• Personal and professional references
+• Personal Interview
+• DPSST records
+• Residential history
+• Work eligibility; and
+• Records checks, which may include, but are not limited to:
+o Police records, district attorney, court and Oregon Judicial Information Network (OJIN)
+records
+o Open sources or social media, as permitted by law; and
+o Financial information, as permitted by law.
+Everyone must provide a personal history statement. The statement must include, but is not limited to:
+• Verification of the background information
+• A list of all public or private safety agencies an individual has applied with;
+• A signed declaration acknowledging that all the information the applicant has provided during the
+background investigation and in the personal history statement is true and correct; and
+• A signed release allowing background investigation information to be shared with other public or
+private safety agencies in which the applicant may become affiliated with.
+Oregon Secretary of State | Report 2021-35 | December 2021 | page 6
+awarded a public safety certification unless they are employed, and that same person cannot be
+employed beyond the initial 18-month window unless they successfully are awarded a certification.
+The local LEA, by commissioning the officer when they are first hired, gives them the authority to
+arrest, detain, or use force against a citizen. The public safety certification alone does not give the
+officer this authority.
+To maintain a certification, an officer must retain employment as a law enforcement officer, maintain
+current First Aid and CPR certifications, and earn 84 continuing education credit hours every three
+years. If an officer fails to follow these standards, then their certification may be suspended.
+Additionally, a public safety certification expires five years after an officer leaves employment.7
+New officers attend DPSST’s four-month Basic Police Academy
+All newly hired officers must attend DPSST’s Basic Police Academy at the agency’s Salem campus
+within 90 days of their initial employment date.8 The academy is approximately 640 hours long and
+includes classroom instruction and hands-on training. Classes are taught by full and part-time DPSST
+staff, local LEA officers, and volunteers. Hands-on training comes in the form of scenarios and
+repetition-based skill development, like firearms training. Each scenario simulates a real-life encounter,
+such as approaching a person in crisis; officers take what they have learned in the classroom and apply
+it. At any time, there may be four overlapping, 40-student academy cohorts on campus in different
+stages of training.9
+Following the academy, new officers transition into field training, which is conducted by their employing
+agency. There are two different field training models commonly used by law enforcement agencies in
+Oregon: The Field Training and Evaluation Program and the Police Training Officer program, though
+there is no requirement for agencies to use either program.
+The goal of this phase of training is for officers to apply their knowledge in the field and can involve
+teaching the officer the policies and procedures of the local LEA. This is also an opportunity for local
+LEAs to identify any officers that they feel are not ready or capable of being an officer for their agency.
+The officer will be partnered with a more senior officer who helps guide them through a Field Training
+7 Except in situations when DPSST has opened a professional standards case. The agency will stay the expiration of an officer
+when the expiration would occur while the public safety professional is under review for a moral fitness violation.
+8 Employing agencies are responsible for the newly hired officer’s salaries, benefits, and personal equipment while at the
+Academy. DPSST provides instruction, food, lodging and training materials.
+9 In addition to the Basic Police Academy, DPSST’s campus is used to train other disciplines, including fire and
+telecommunications.
+Two field training program models are commonly represented in Oregon
+Originally developed by the San Jose Police Department nearly 50 years ago, the Field Training and Evaluation
+Program focuses strongly on officer evaluations. Senior officers evaluate new officer’s progress.
+In comparison, the Police Training Officer program, created by the Reno Police Department and its partners in
+1999, incorporates adult-learning principles by focusing more on problem-solving and asks new officers to
+reflect on their own learning and progress.
+Oregon Secretary of State | Report 2021-35 | December 2021 | page 7
+Manual. Depending on the size and resources of the local LEA, the new officer may work with multiple
+senior officers while in training.
+If an officer successfully completes the Field Training Manual, the Field Training Officer, the newly hired
+officer, and the Chief of Police or Sheriff will sign an attestation agreement saying that the officer has
+completed the items in the manual. The attestation agreement will be sent to DPSST for its records.
+The board can deny or revoke an officer’s certification
+According to DPSST, moral fitness standards are critical to upholding the public’s trust in the public
+safety profession, protecting communities, and ensuring that the conduct of a public safety
+professional or an applicant does not reflect adversely on the profession. In instances where an officer
+fails to meet these standards, the board has the authority to deny or revoke that officer’s certification.
+Figure 3: The board has exercised its right to revoke, deny, and suspend certifications
+Action 2018 2019 2020
+Revoked 59 71 49
+Denied 3 0 4
+Suspended 4 4 2*
+*Note: As of May 1, 2020, the board no longer suspends law enforcement certifications for a professional standards case. Under
+the previous standards, any ineligibility period begins from the date of conviction or the date of separation of employment. By
+the time the board confirmed the Police Policy Committee’s decision to suspend an officer’s certification, they may have alrea dy
+exceeded the ineligibility period outlined in the suspension, making the suspension moot.
+Source: DPSST Ethics Bulletins Volume 182 and Volumes 194-206.
+The fundamental step in denying or revoking a certification is when a DPSST staff member opens a
+professional standards case. That action may be triggered when:
+• DPSST receives notice of an officer’s arrest or conviction.
+• DPSST is notified by a local LEA that an officer has been separated from
+employment;
+• DPSST becomes aware an officer intentionally falsified documentation to DPSST;
+• DPSST dismisses a student from the Basic Police Academy; or
+• DPSST staff receive a public complaint.
+DPSST will open a professional standards case if the arrest, conviction, separation of employment, or
+complaint appears to violate the moral fitness standards. The moral fitness standards are split into two
+categories: mandatory violations and discretionary violations.
+For open professional standards cases, DPSST staff may collect investigative material from a local LEA,
+District Attorney, or other independent material related to the matter. If the materials show that an
+officer has committed a mandatory violation, then DPSST staff will prepare and serve the officer with a
+Notice of Intent to Revoke. If the case includes a discretionary violation, the case is sent to the Police
+Policy Committee to be reviewed.
+Oregon Secretary of State | Report 2021-35 | December 2021 | page 8
+Mandatory violations Discretionary violations
+Require the judgment of DPSST staff
+• Convictions of severe offenses, specifically:
+o a felony or a crime punishable for which a
+maximum term of imprisonment is more
+than one year;
+o a drug offense (except marijuana, which
+is reviewed as discretionary); and
+o any offense involving domestic violence,
+including abuse of a child.
+• Situations in which a person is labelled a sex
+offender under the law; and
+• When an officer is discharged for cause from
+employment.
+• Intentional dishonesty;
+• Misuse of authority; and
+• Misconduct including conduct that violates
+criminal laws, conduct that threatens or harms
+person, property, or the efficient operations of
+any agency, or discriminatory conduct.10
+Source: OAR 259-008-0300.
+DPSST can deny a new officer’s application for certification
+The decision to hire an applicant is at the sole discretion of the employing LEA. Despite this local
+control limitation, but still within its regulatory powers, DPSST has established a process to screen
+individuals who are entering the law enforcement profession.
+When LEAs hire an individual into a certifiable role, DPSST staff review the individual for violations of
+the moral fitness standards. The following checkpoints show when and how the agency is ensuring
+officers have completed the necessary requirements for certification and screening for moral fitness
+violations.
+Checkpoint 1: Administrative rule requires a local LEA to conduct a background investigation on an
+individual being considered for employment. As part of that background check, the agency shall consult
+DPSST records.11 DPSST will notify the LEA whether the officer has an open or closed professional
+standards case, a prior complaint, or if known, why a candidate left a prior law enforcement position.
+The local LEA can decide whether it will move forward with hiring the individual.
+Checkpoint 2: Within 10 days of being hired, an agency must send a F-4 Personnel Action Form to
+DPSST. Within this form is a section that alerts DPSST whether an officer has a criminal record. DPSST
+will review this form for any moral fitness violations.
+Checkpoint 3: Before attending Basic Police Academy, an officer must fill out and send a F-5
+Application for Training. On the form there is a Professional Standards section with questions regarding
+criminal history. If criminal history is identified, they must also fill out a F-28 Criminal History Report
+Form.
+10 OAR 259-008-0300 (3)(a)(C)(ii) For the purposes of this rule, discriminatory conduct includes a pattern of conduct or a single
+egregious act that evidences knowing and intentional discrimination based on the perception of a person’s race, color, religi on,
+sex, sexual orientation, gender identity, national origin, disability, age or any protected class as defined by state or federal law,
+and would lead an objectively reasonable person to conclude that the public safety professional cannot perform the duties of
+office in a fair and impartial manner.
+11 OAR 259-008-0015.
+Oregon Secretary of State | Report 2021-35 | December 2021 | page 9
+Checkpoint 4: Once the officer has completed all the requirements for certification, they must
+complete a F-7 Certification Application Form. Again, on this form, there is an opportunity for officers
+to disclose if they have a criminal record.
+Checkpoint 5: If an officer separates from employment at any point, including before they receive a
+certification, the local LEA is required to notify DPSST and explain whether the officer left while under
+investigation, if there were any uninvestigated claims of misconduct,12 or whether the officer left as
+part of a separation agreement.
+Checkpoint 6: In addition to the above checkpoints, DPSST staff complete a criminal history check of
+Law Enforcement Data Systems (LEDS) and the Oregon E-Court Case Information (Oregon’s circuit
+courts) when they receive notification that an officer has been hired, applied for training or a
+certification, and separated from employment. DPSST is also alerted any time an officer is arrested.
+Because there are multiple opportunities for an officer or their employer to disclose information,
+agency staff can look for inconsistencies and instances when an officer fails to disclose information. If,
+at any of these points, staff become aware of an action that meets any of the mandatory or
+discretionary grounds for certification denial, they may open a case for review.
+Discretionary certification cases are reviewed by an Applicant Review Committee or
+Police Policy Committee prior to the board making final decisions
+Under administrative rule, the Board on Public Safety Standards and Training makes the ultimate
+decision on whether to deny or revoke someone’s professional standards certification in discretionary
+cases. The board does so for all public safety disciplines, which can result in a large body of work. To be
+efficient, while still being thorough, each professional standards case is reviewed by a discipline-specific
+policy committee prior to being sent to the board. Each policy committee is comprised of a group of
+peers and statute describes which groups must be represented. For example, the Police Policy
+Committee has 17 members, including two public members, several police chiefs, and police officers.13
+Each policy committee meets quarterly unless there is no business to discuss.
+The members of the Police Policy Committee are responsible for reviewing all discretionary
+professional standards case files for certified police officers. During meetings, the committee weighs
+the evidence of each case and determines whether there is a preponderance of evidence that proves
+an officer has violated the moral fitness standard. If the committee finds a violation occurred, it first
+moves to deny or revoke the officer’s certification. Then the committee will recommend a period of
+ineligibility as a consequence for violating the standards.
+A period of ineligibility is outlined in administrative rule. It is a period of time, anywhere from three
+years to a lifetime, during which an individual is barred from seeking a new certification and therefore
+12 If the LEA notifies DPSST staff of any uninvestigated claims of misconduct, it will not prompt a professional standards case;
+however, this information would be provided to another LEA during the background investigation process.
+13 ORS 181A.375(5). The Police Policy Committee shall consist of all the board members who represent the law enforcement
+discipline; and one person recommended by and representing the Oregon Association of Chiefs of Police; two persons
+recommended by and representing the Oregon State Sheriffs’ Association; one command officer recommended by and
+representing the Oregon State Police; three nonmanagement law enforcement officers; and two persons representing the public
+who has never been employed as a police officer or related to someone who is within the second degree by affinity or
+consanguinity, and one who is a member of a marginalized or historically underrepresented community.
+Oregon Secretary of State | Report 2021-35 | December 2021 | page 10
+cannot be employed in a certifiable position. If an officer decides to reapply for a law enforcement
+position, they must once again complete all the requirements for certification, including completion of
+the Basic Police Academy.
+Figure 4: There are five policy committees covering the various public safety disciplines
+Police Policy Committee recommendations are sent on to the board for final approval. Members of the
+board may choose to reject a recommendation made by the Police Policy Committee with a two-thirds
+vote or send a professional case back to the committee for additional consideration — for example, to
+review a specific piece of evidence again or to answer a specific question. Per administrative rule, the
+board can only do this once per case. In most cases, the policy committee’s recommendations are
+upheld by the board; for example, in 2020, of the seventy-five cases presented to the board, only one
+was sent back to the committee for additional consideration. See Figure 5 for an overview of the
+process to review professional standards cases.
+DPSST staff stated in a 2019 Criminal Justice Background Investigation Workgroup memo that due to
+committee and board meeting schedules and agenda limitations, it is not uncommon for agencies to
+hire individuals without knowing for months if the board will ultimately vote to deny their certification
+based on the officer’s behavior. This delay directly impacts the operations of the employer and how
+quickly the officer can get through training and become a fully certified officer. In response to this
+uncertainty, DPSST staff and the workgroup created an Applicant Review Committee in early 2021.
+Composed of two members from each disciplinary committee and a public member from the board, the
+committee meets once a month depending on volume of cases and members will decide whether to
+deny an officer’s application for certification.
+Board on Public
+Safety Standards
+and Training
+Polygraph Licensing
+Advisory Committee
+BPSST Executive
+Committee
+Applicant Review
+Committee
+Telecommunications
+CorrectionsFire
+Police
+Private Security,
+Investigator
+Public Safety Memorial
+Fund Board
+Oregon Secretary of State | Report 2021-35 | December 2021 | page 11
+Figure 5: DPSST staff, the Police Policy Committee, and the board review professional standards cases14
+14 Other disciplines, like Fire, have their own processes. The scope of our audit excluded other disciplines practices.
+DPSST is notified that an officer has separated
+from employment, is convicted of a crime, or has
+intentionally falsified DPSST documents.
+DPSST will determine if substantial evidence exists
+to support denial or revocation
+There is. Is it a
+mandatory or
+discretionary violation?
+Discretionary. Goes to PPC. The committee
+(1) affirms, modifies, or negates the
+identified moral fitness violations and (2)
+weighs aggravating and mitigating factors to
+determine if action should be taken
+Yes, take action. PPC finds
+Dishonesty, Misuse of Authority,
+Misconduct, or a combination
+thereof
+PPC determines the period of ineligibility.
+Violations that include Dishonesty or Misconduct that is
+discriminatory: 3 years to a lifetime
+Violations that do not include Dishonesty or Misconduct
+that is discriminatory: 3 to 10 years
+Board on Public Safety Standards
+and Training decides whether to
+approve all or part of PPC’s
+recommendation
+Yes, all. DPSST staff create a
+notice of intent to Revoke/Deny.
+Officer may file an Adminisrative
+Law appeal. Notice will default to
+final order after due process.
+No. (1) Sends back to PPC to
+discuss further, allowed once per
+case, or
+(2) Disapprove recommendation
+with two-thirds vote
+No, no action.
+Goes to Board for
+approval
+Mandatory. DPSST will administratively
+process the denial or revocation
+There is not. Staff
+recommend to the PPC
+to administratively close
+file
+Oregon Secretary of State | Report 2021-35 | December 2021 | page 12
+COVID-19 temporarily shuttered the Basic Police Academy and
+shifted agencies’ focus to emergency response
+In March 2020, Governor Kate Brown signed an executive order closing state agencies to the public due
+to the COVID-19 pandemic. DPSST’s Information Technology team helped transition most of the
+agency’s employees to work from home. Students attending the Basic Police Academy were also sent
+back to their home agencies.
+The disruption to the Basic Academy was far-reaching. It was not clear how long the COVID-19
+pandemic would persist and to prolong the suspension of the academy would have a negative effect on
+local LEAs that needed the new officers. DPSST leadership restarted the academy, returning students
+to the campus in May 2020 with social distancing and other safety protocols in place. Despite this, the
+stay-at-home order and general concern about COVID-19 restricted DPSST’s ability to obtain part-time
+instructors. As a result, the greater burden on teaching classes fell to DPSST’s full-time training staff.
+The COVID-19 shutdown highlighted another key government function that DPSST provides, which is
+support for emergency management and preparedness. Prior to the Governor’s executive order, DPSST
+in February 2020 activated its Continuing of Operations Plan, otherwise known as a COOP plan. This
+plan ensures that critical government programs continue to function in times of crisis.
+To coordinate emergency efforts, the Governor’s Office, with support from the Office of Emergency
+Management and the Department of Administrative Services, activated the state Emergency
+Coordination Center to coordinate COVID-19 response. DPSST, like other state agencies, initially loaned
+staff to the center to help emergency efforts. Once it was determined that physical distancing was a
+way of preventing infection from COVID-19, DPSST was asked to create a redundant Emergency
+Coordination Center with more physical space for people to work.
+For two weeks in March 2020, DPSST staff secured additional phone lines and improved data and other
+infrastructure to support the new center. Emergency efforts began to transition to the redundant site
+in April 2020; however, the need for the site was short-term, and efforts were transferred back to the
+initial center by May. The total cost of this effort will be reimbursed to the agency through the Federal
+Emergency Management Agency and other federal aid.
+In addition to the Emergency Coordination Center, during the pandemic DPSST staff supported other
+emergency efforts:
+• In June 2020, in response to declared conflagration, DPSST staff trained 400
+Oregon National Guard members for wildfire readiness response.
+• In September 2020, DPSST hosted a Santiam Canyon Wildfire command center for
+the Department of Forestry.
+• At the call of the Marion County Emergency Management team and Portland
+General Electric, DPSST staff planned to house 60-line crew members who were
+working to fix downed power lines because of the February 2021 ice storm.
+Oregon Secretary of State | Report 2021-35 | December 2021 | page 13
+Audit Results
+DPSST and its board works as a regulator to establish administrative rules and procedures to hold
+accountable police officers who have engaged in misconduct. DPSST staff have created safeguards
+intended to verify the fitness and professionalism of officers who earn a certification, such as increased
+transparency, refined moral fitness standards, and conducting audits of local LEAs to ensure
+compliance. However, DPSST is limited in its ability to hold more officers accountable due to local
+control over employment and discipline decisions, narrowly defined administrative rules, and gaps in its
+certification review process. As a result, there is a risk that some conduct worthy of decertification
+goes undetected or unaddressed.
+Our review also found that DPSST has developed and implemented Basic Police Academy training that
+complies with state laws and includes leading practices, evidence-based curriculum, and teaching
+methods. DPSST’s ability to provide this training — and to certify officers — is hindered by the need
+for additional resources, including staff and technology. Additionally, once new officer recruits
+complete the academy, DPSST's ability to affect behavior is limited — it is the responsibility of local
+LEAs and Field Training Officers (FTOs) to educate new officers on how to police in their community.
+Auditors found FTOs vary in their experience and training, and Oregon Administrative Rules do not
+require FTOs receive training.
+DPSST and its board are implementing rules and processes that
+improve police officer accountability, but face high workloads and
+staffing constraints
+In the past five years, DPSST staff have convened four stakeholder workgroups to review law
+enforcement certification rules and practices and identify ways to be more effective in holding officers
+accountable. These workgroups included board and police policy committee members and criminal
+justice and public safety professionals.
+The result of this work is clearer guidance to LEA personnel, DPSST staff, and Police Policy Committee
+members regarding officer hiring qualifications and criteria for certification denial or revocation. It also
+helps to better identify individuals unfit to serve as an officer in Oregon.
+Certification decisions and resulting actions are transparent
+One of the criticisms of law enforcement is the lack of transparency when it comes to officer
+investigations and accountability. In response, DPSST has implemented strategies to enhance
+transparency.
+Police Policy Committee and board meeting discussions are live streamed to the public as technologies
+allow. Board certification decisions are documented on DPSST’s website. In the 2020 Oregon legislative
+session, lawmakers cemented this practice into law by passing a bill requiring DPSST publish all
+certification decisions online. In response, DPSST added more information to the online database. For
+closed cases, DPSST includes details surrounding the case, the facts found by the committee, and the
+decision made by the board.
+Oregon Secretary of State | Report 2021-35 | December 2021 | page 14
+In addition to the database, since 2002 DPSST has published an Ethics Bulletin. The bulletin was meant
+to be an educational tool for law enforcement. It includes information on cases presented before the
+board, including the conduct, and resulting DPSST action. The names of the officers are omitted so that
+readers may focus on the behavior and how that behavior violates moral fitness standards. Since most
+case-specific information is now provided on the DPSST website, in 2021 DPSST staff discontinued the
+Ethics Bulletin because they felt it was redundant with the record of certification statistics.
+Criminal Justice Certification staff workload is high, despite continued improvements
+The work of ten members within the Certification Division is crucial to timely and careful review of
+police officer certification applications. They are the state’s primary control in police accountability.
+Their responsibilities are vast. They process applications for police and corrections officers’
+certifications, route and track criminal justice-related complaints, publish the online professional
+standards database, and review for potential violations of the moral fitness standards. Additionally,
+staff members support the Police Policy Committee and the board’s functions by preparing materials
+and researching any case inquiries the committee or board may have.
+According to the Criminal Justice Certification manager and staff in the past five years, they have
+updated their processes and created a desk manual to outline procedures for handling all certification
+paperwork. According to written procedures, all forms are manually processed and entered into a
+certification database. Additionally, records are maintained in a paper file, and may be tracked using an
+Excel spreadsheet. Each form is screened by the Criminal Justice Compliance Specialist for errors and
+potential moral fitness violations. If moral fitness violations are detected, additional work is needed.
+Though roles and responsibilities are clearly outlined in the desk manual, the amount of work and the
+lack of automated systems can hinder the process and may increase the risk of forms getting lost or
+misplaced.
+Figure 6: The number of forms processed each year is high
+2018 2019 2020
+Personnel Action - New Hire or Change in Position forms  3,217 2,764 2,632
+Personnel Action - Separation forms  1,807 1,689 1,629
+Academy Training applications  1,494 1,464 1,104
+Certification applications 1,704 1,616 1,866
+Total 8,222 7,533 7,231
+Source: DPSST.
+Beginning in late 2020, per staff interviews, professional standards cases were split between two case
+managers: one who handles pre-employment cases and one who handles cases for certified officers.
+According to the desk manual, each opens the professional standards case, collects the appropriate
+evidence from local LEAs, makes initial determinations on moral fitness violations and tracks each case
+through the administrative process.
+The work needed to process each application or case varies. If the applicant indicates they have
+criminal history, it requires DPSST staff to acquire and review criminal dispositions or other court
+documents that can add time, compared to an applicant with no criminal history. In one example, staff
+shared they drove from Salem to Eugene to get information concerning an applicant’s juvenile record.
+According to staff, a lot of applicants are reporting criminal histories, resulting in a review of their
+Oregon Secretary of State | Report 2021-35 | December 2021 | page 15
+criminal backgrounds, often with people coming from other states applying for positions in the
+corrections discipline.
+DPSST audits agency employment records to ensure compliance, but faces staffing
+constraints
+Critical to DPSST’s certification process is the requirement of local LEAs to notify the department of an
+employment action, such as hiring, promotion, or separation of employment. LEAs do so by submitting
+written forms to DPSST via email or mail. Without this communication, DPSST is not likely to know
+whether a new officer is hired or is terminated, undermining the agency’s efforts to regulate the
+profession.
+Since 2018, DPSST program staff have reviewed agency employment records to ensure local agencies
+are complying with the requirement to alert DPSST of employment decisions. These reviews have
+found instances wherein local LEAs were not in compliance. In several cases, officers received
+promotions for positions that require additional management certifications, but the LEA did not notify
+DPSST. Other cases included instances where an officer appeared on the payroll without DPSST’s
+knowledge, likely as the result of a transfer from another agency, and a lack of records of officers
+completing their Field Training Manuals within the required timeframe.
+Although this is a vital step in holding local LEAs accountable, DPSST has only one staff member
+assigned to conduct these assessments. The goal is to review all LEA agency
+15 records in Oregon every
+year, though this has not occurred. Increasing capacity in this area could help ensure these
+assessments are occurring with the desired frequency.
+Most police accountability measures occur at the local agency
+level, limiting DPSST’s role in holding officers accountable
+Although the board and DPSST play a critical role in holding police officers accountable in Oregon, it is
+the local LEAs employing the officers who are the primary layer of accountability.
+DPSST’s actions are secondary to employment actions made by local agencies
+The board’s relationship with individual police officers is primarily related to certification. This is
+separate and distinct from the relationship between the
+employing police agency and individual officers. DPSST has
+established criteria that outline when it should open a
+professional standards case; the majority of these triggering
+events and subsequent certification reviews start when an
+officer is separated from employment (i.e., termination,
+resignation, or retiring). Therefore, most certification reviews
+are triggered by events that initially occur at the local level.
+15 According to DPSST, there are approximately 208 LEAs in Oregon. However, the number fluctuates because local governments
+occasionally opt to dissolve or create LEAs. For instance, in 2015 the City of Troutdale approved the consolidation of law
+enforcement services with the Multnomah County Sheriff’s Office.
+“Triggers” for Certification Review
+• Criminal Disposition
+• Separation from Employment
+• Falsification
+• Dismissal from the Academy
+• Complaints (rare)
+Oregon Secretary of State | Report 2021-35 | December 2021 | page 16
+There are situations, such as an officer being criminally charged, in which DPSST will conduct a
+certification review to evaluate misconduct of law enforcement officers who are still employed.16
+Due to this, most police accountability measures, including low-level discipline and decisions on
+employment, are likely entirely or at least initially made at the local LEA level. Neither DPSST nor the
+board have the authority to overrule employment or disciplinary decisions made by local LEAs as long
+as they comply with the board’s standards and requirements. Although DPSST’s certification process is
+separate, it relies on local LEA investigations.
+Incomplete local investigations may impede the board’s ability to make a
+decertification decision
+Although DPSST has the statutory authority to conduct its own investigations into moral fitness
+violations, the agency has historically not done so. Instead, DPSST relies largely on already existing
+local LEA investigations. Certain instances wherein local investigations are not completed hinders the
+agency’s ability to make an informed decision on decertification. This may occur for multiple reasons,
+such as an officer resigning prior to the completion of an investigation or an agency not having enough
+financial and personnel resources once an officer has left.
+Alternatively, there is a risk that investigation materials do not directly pertain to the moral fitness
+standards. The local LEA’s investigation is generally tied to employment decisions and occasionally
+criminal behavior. The focus of these investigations is whether the officer has behaved or committed
+acts that violate agency policy or law. The criteria and thresholds for these local LEA determinations
+may be different than DPSST’s criteria, which is whether the officer violated the moral fitness
+standards.
+The result is the risk of local investigatory materials being insufficient for DPSST or the board’s needs.
+Behavior that violates the moral fitness standards could go unaddressed. Auditors reviewed a total of
+103 administrative closures that occurred between February 2018 and February 2021.
+17 Of the 103,
+three of the cases did not have enough information to determine if a moral fitness violation occurred.
+The remaining 100 cases were administratively closed for various reasons.
+• In 41 cases, no moral fitness violation was found. Either the allegations were not
+sustained, the individual was laid off, had medical issues, or there were
+performance issues, incompetence, or other issues between the employee and
+employer.
+• In 24 cases, the evidence shows a possible moral fitness violation by the officer;
+however, the individual did not hold a DPSST certification at the time. The officer
+was newly hired and likely on probation. These cases are flagged to be reviewed if
+the officer chooses to reapply to be a police officer.
+• 15 cases involved convictions that were within Oregon Administrative Rules for
+administrative closure.
+16 Auditors reviewed internal open and closed criminal justice certification case data and data publicly available on DPSST’s
+website. We detected anomalies and inaccuracies present in both sets of data. Therefore, we determined the data was unreliable
+for our purposes.
+17 Administrative Closures: case administratively closed due to no moral fitness violation, lack of evidence to prove a moral
+fitness violation, or other circumstance allowable by administrative rule.
+Oregon Secretary of State | Report 2021-35 | December 2021 | page 17
+• 13 cases involved arrests that did not result in a criminal disposition.
+• Five involved officers that were terminated, but an arbitrator reinstated their
+employment. The arbitrator found the facts did not support the allegations or, in
+one case, there was not a preponderance of evidence that prove the allegations
+true.
+• Two cases were opened in error.
+DPSST’s accountability measures are hindered by narrowly defined
+administrative rules and gaps in complaint and certification
+processes
+Although DPSST staff and the board have made efforts to improve standards and process, gaps
+persist. These gaps expose areas where officers may not be held accountable for their actions, many of
+which are of high concern to the public.
+Police officer competency, use of excessive force, or use of force resulting in death do
+not automatically trigger a certification review
+DPSST’s criteria for certification denial and revocation is limited to moral fitness standards, which are
+narrowly defined. Police officer competency, use of excessive force, or use of force resulting in death
+are not automatic triggering events for a moral fitness certification review.
+Until 2017, administrative rules stated that if an officer was discharged for cause from employment for
+incompetence, it was mandatory an officer’s certification be denied or revoked. Yet during a 2016-17
+workgroup review of moral fitness standards, incompetence was removed from the definition for
+“discharge for cause” upon the advice of the Oregon Department of Justice.
+Incompetence was defined as a demonstrated lack of ability to perform the essential tasks of a public
+safety professional that remedial measures have been unable to correct. According to the Department
+of Justice attorney, who DPSST consults in business matters, the board lacked the necessary statutory
+support to take action on a certification for incompetence alone, since it is not necessarily indicative of
+an officer’s failure to meet the board’s moral fitness standards. Also, an officer who may not be a good
+fit in one community, like Portland, may be successful in another department. To date it remains
+excluded.
+There are ways in which an officer’s use of force could lead to their certification being denied or
+revoked. However, the process of denying or revoking a certification for use of excessive force is
+predicated on seemingly rare actions: the officer must be either convicted of a crime or discharged
+from employment for cause.
+According to administrative rules, if an officer is convicted of a crime punishable as a felony or any
+crime for which a maximum term of imprisonment of more than one year may be imposed then an
+officer’s certification must be denied or revoked. If an officer is convicted of a lesser offense, DPSST
+may open a professional standards case if they determine the facts of the case meet the criteria for
+moral fitness standard review. Yet, according to a criminal justice expert at Bowling Green State
+University who has been tracking data on police officers who have been arrested for murder or
+Oregon Secretary of State | Report 2021-35 | December 2021 | page 18
+manslaughter due to on-duty shootings since
+2005,18 it is seemingly rare for an officer to be held
+criminally liable for use of deadly force. The
+Oregonian/OregonLive19 conducted a similar
+analysis of fatal shootings by the Portland Police
+bureau from 2003 to 2020 and found in all of the
+40 instances of people shot and killed by Portland
+police none of the officers were ultimately
+disciplined or indicted by a grand jury.20
+The second way an officer could be held
+accountable by the state for use of excessive force
+was recently adopted through legislation. House Bill
+2162, passed in 2021, added “use of force that was
+determined to be excessive or without justification”
+to the list of discharge for cause reasons for
+certification revocation. Given its recent addition, it
+remains to be seen if this will be effective. Much
+like a felony conviction for use of force, it appears
+an officer is rarely discharged for cause for “use of
+force that is determined to be excessive or without
+justification.”
+To illustrate this point, auditors attempted to
+review data on incidents of excessive force and
+compare the data to DPSST’s professional
+standards opened and closed cases. The state of
+Oregon lacks the data to make this comparison.
+The only local data that auditors could use
+pertained to Portland Police Bureau officer-
+involved shootings and all in-custody deaths from
+2004 to 2018. This data was published by the OIR group, a southern California-based consultant that
+was hired by the Portland City Auditor to determine whether the bureau’s internal investigations to
+these critical incidents were in line with its expectation and standards. The OIR group did not weigh in
+on whether discipline was warranted but did track whether an officer was disciplined.
+In all the 57 critical incidents analyzed, the OIR group found three officers were disciplined. All three
+were terminated. However, two of the officer’s terminations were overturned in arbitration. The third
+officer was terminated and charged by the Multnomah County District Attorney with third-and fourth-
+18 Tucker, E. Morales, M. and Krishnakumar, P. (2021, April 21). Why it’s rare for police officers to be convicted of murder. CNN.
+19 Crombie, N. and Dixon Kavanaugh, S. (2020, August 16). Shots fired: Deadly Portland police encounters reveal troubling
+patterns. The Oregonian/OregonLive.
+20 Auditors attempted to review statewide data on use of deadly force however, we found that data unreliable. See the Other
+Pertinent Information section in this report.
+ORS 181A.640(2)(f) Discharge for Cause
+(updated in 2020 and 2021)
+The officer has been discharged for cause from
+employment as a police officer as a result of
+intentional conduct performed under the color of
+office to:
+(A) Obtain false confession
+(B) Make false arrests
+(C) Create or use falsified evidence, including
+false testimony, or to destroy evidence to
+create a false impression
+(D) Compel a person to abstain from doing, or
+to do, any act that the person has a legal
+right to do or abstain from doing
+(E) Deprive, or attempt to deprive, another
+person or persons of their legal rights, or
+(F) Gain advantage for a public or private
+safety agency or for personal gain.
+Added in the 2021 Legislative session:
+(G) Use force that was determined to be
+excessive or without justification;
+(H) Engage in the abuse of lawful authority; or
+(I) Engage in policing indicative of bias or
+discriminatory intent against an individual
+based on the individual’s real or perceived
+age, race, ethnicity, color, national origin,
+language, sex, gender identity, sexual
+orientation, political affiliation, religion,
+homelessness or disability.
+Oregon Secretary of State | Report 2021-35 | December 2021 | page 19
+degree assault. The Oregonian/OregonLive21 reported he died by suicide while the case was pending.
+This means that in all Portland Police Bureau officer-involved shootings and incidents of in-custody
+deaths, during this period, only one officer’s actions may have met the standard for a DPSST
+professional standards review. This illustrates how even very serious incidents may not prompt DPSST
+to review what occurred.
+DPSST’s procedures for processing complaints has room for improvement
+The primary recipient for complaints is the local LEA. However, DPSST may receive complaints for all
+certified public safety professionals or any individual applying for certification through DPSST. Oregon
+Revised Statute22 grants DPSST the authority to investigate complaints; however, administrative rules
+established by the board have deferred that responsibility to the local LEAs. Within 14 days after
+receiving a complaint, a DPSST staff member will review the complaint to determine if the allegations
+would violate the statutory and administrative rule requirements for certification. If the staff member
+determines the complaint meets this standard, then the complaint is sent to the officer’s employer —
+the local LEA — for resolution.
+23 The local LEA is required to notify DPSST whether the complaint has
+been “reviewed and handled in a manner deemed appropriate” by the LEA within 60 days from the date
+of the initial complaint. DPSST does not require the LEA to report the outcome of the complaint,
+including whether an investigation occurred, or discipline was applied.
+DPSST may present the complaint to the policy committee in three situations: when the agency fails to
+receive notice from the local LEA; when it receives a complaint about an officer who is no longer
+employed; and when a complaint is against an elected official serving as a public safety professional,
+that if proven may violate moral fitness standards. Members of the policy committee may direct DPSST
+to open an inquiry into the matter to obtain more information.
+DPSST staff could resolve more complaints but say limited staffing and high workload prevents them
+from doing so. One DPSST staff member handles complaints for law enforcement personnel. The staff
+member is also responsible for processing and reviewing pre-employment professional standards
+cases. According to the staff member responsible, they received roughly 160 complaints in 2019. Under
+current staffing levels, it may not be feasible for this staff member to investigate each individual
+complaint, in addition to their other duties.
+DPSST’s board lacks clear conflict of interest guidelines
+DPSST’s board and police policy committee consist of a majority of members from the disciplines they
+are regulating. Though their knowledge is helpful in understanding the intricacies of each professional
+standards case, the majority representation of these disciplines on the committee furthers the
+perception that DPSST’s process is not truly independent and may contribute to the public’s criticism
+that law enforcement is policing itself.
+21 Bernstein, M. (2015, May 26, updated 2019). Autopsy confirms death of fired Portland police officer Dane Reister was suicide .
+The Oregonian/OregonLive.
+22 ORS 181A.640(6)(a)
+23 If the complaint is determined to be outside of DPSST’s jurisdiction, meaning it is not related to certification requirements,
+DPSST staff send the complaint on to the employer. The employer is not required to respond and DPSST staff do not follow up.
+Oregon Secretary of State | Report 2021-35 | December 2021 | page 20
+Furthermore, the board does not have clear conflict of interest guidelines. Board members are asked to
+disclose if they feel there is a conflict of interest in a vote. Though the member is encouraged to
+disclose the nature of the conflict, it is not necessary. Even if they disclose a conflict, the member may
+still be allowed to participate in discussions and recommendations upon declaring their ability to remain
+unbiased.
+DPSST cannot directly access the FBI National Crime Information Center Data
+DPSST’s Criminal Justice Certification staff regularly check Oregon’s LEDS for criminal behavior.
+However, this information does not include federal offenses or offenses outside of Oregon, which is
+stored in the FBI’s National Crime Information Center (NCIC) index. Though the data stored in NCIC is
+not comprehensive, it can be used to supplement the information DPSST obtains from LEDS.
+The FBI does not allow DPSST access to the NCIC because it is not considered a LEA. The FBI limits
+which agencies can read and edit NCIC information. This barrier is a part of a national discussion among
+professionals in policing on the role of regulation agencies in police accountability and access.
+There is an alternative option available that DPSST does not currently use. According to administrative
+rule, DPSST may request the Oregon State Police run a NCIC check on its behalf.
+24 The two agencies
+would need to address any process barriers to ensure that this information exchange is secure, and
+that the process does not create administrative burdens on staff resources.
+The Governor and state legislators acted to address local control
+barriers to police accountability
+As discussed earlier, local control over officer conduct, discipline, and employment can be a barrier to
+holding police accountable. In the last two years, the Governor and state legislators have worked to
+address these challenges through a number of bills in the Legislature. These efforts have resulted in a
+new commission, standardized background checks, and a discipline database, among other things.
+House Bill 2930
+Legislative session Sponsored by Bill title Summary
+2021 Regular Session Reps. Bynum,
+Noble; Sen.
+Frederick
+Relating to
+standards
+concerning law
+enforcement
+officer
+conduct
+For purposes of arbitration proceedings
+concerning alleged misconduct by law
+enforcement officers, specifies burden of proof
+necessary for law enforcement agency, or civilian
+or community oversight board, agency or review
+body, to show law enforcement officer engaged in
+misconduct and that any disciplinary action taken
+against officer was with just cause.
+Discipline is handled at the local level, but every LEA may handle it differently per their agency policies
+and union bargaining agreements. Similarly, LEAs may have different measures for how unjustified or
+excessive use of physical or deadly force is defined or dealt with.25 Many of these local discipline
+24 OAR 259-013-0230.
+25 Excessive use of force is discussed in greater detail in the Other Pertinent Information section of this report.
+Oregon Secretary of State | Report 2021-35 | December 2021 | page 21
+processes ultimately can lead to arbitration, at which point the ability of an arbitrator to overturn an
+employer’s discipline of an officer, including termination, may not align with the public interest.
+For example, among our review of the OIR Group’s look into Portland Police Bureau deadly shootings,
+we found two occasions where the bureau decided to terminate the officer, only to have an arbitrator
+overturn that decision and reinstate the officer’s employment.
+House Bill 2930 addresses these issues by establishing the Commission on Statewide Law Enforcement
+Standards of Conduct and Discipline for the purpose of adopting rules that prescribe uniform standards
+of conduct, including guidelines and procedures, to which law enforcement officers must adhere. The
+commission will also create disciplinary standards and procedures, including a range of disciplinary
+actions, which a LEA, an oversight board, review body, and an arbitrator must use to make
+determinations regarding alleged misconduct by an officer, and must follow when imposing discipline in
+response to such determinations.
+At a minimum, these uniform standards will address standards of conduct and discipline regarding:
+• Unjustified or excessive use of physical or deadly force;
+• Sexual harassment;
+• Sexual assault;
+• Assault;
+• Conduct that is motivated by or based on a real or perceived factor of an
+individual’s race, ethnicity, national origin, sex, gender identity, sexual orientation,
+religion, or homelessness;
+• Moral character; and
+• The use of drugs or alcohol while on duty.
+Additionally, the bill states an arbitrator must uphold the disciplinary action taken by an employer
+unless the arbitrator finds it to be arbitrary or capricious. If the disciplinary action was termination, an
+arbitrator may not set aside or reduce the imposed discipline if doing so is inconsistent with the public
+interest in maintaining community trust, enforcing a higher standard of conduct for law enforcement
+officers, and ensuring an accountable, fair, and just disciplinary process. This law change also states
+these requirements are not subject to collective bargaining.
+The new commission is separate and distinct from DPSST and its board. However, the director of
+DPSST will be one of the 15 commission members. Standards set by the commission, specifically as it
+relates to excessive use of physical or deadly force, will likely affect DPSST’s role in holding officers
+accountable to their moral fitness standards. Once the commission has issued its uniform standards,
+the board may need to review them to inform changes to the moral fitness standards, as necessary.
+The commission has until October 2022 to adopt and publish its rules establishing the uniform
+standards, and until September 2022 to prepare and submit a report to the Legislature describing the
+development and adoption of the standards. Due to this timeline being outside the scope of our audit,
+we are not able to speak to the effectiveness of these standards.
+Oregon Secretary of State | Report 2021-35 | December 2021 | page 22
+House Bill 2936
+Legislative session Sponsored by Bill title Summary
+2021 Regular Session Rep. Bynum,
+Sen. Manning Jr.
+Relating to law
+enforcement officers
+States legislative findings about racism
+and public safety.
+The Legislature holds that racism has no place in public safety, and law enforcement officers hold a
+unique position in the community and must demonstrate principles of equity, transparency, honesty,
+and trust with all members of society. Specifically, membership or participation in hate groups, racial
+supremacist organizations, or militant groups erodes public trust in law enforcement officers and
+community safety. Participation in racist organizations and displays of symbols of racism or racial
+supremacy are at odds with the position of trust and authority law enforcement officers occupy in the
+community.
+To address this, House Bill 2936 requires law enforcement agencies to adopt policies that set
+standards for speech and expression by officers in and outside the course and scope of employment.
+The policies must apply to all forms of speech and expression but may not violate the constitutional
+rights to free speech and expression.
+The bill also requires DPSST to create a uniform background checklist and a standardized personal
+history questionnaire for use by LEAs when hiring applicants to be public safety officers. The checklist
+must include a description of the LEA’s investigation of the applicant, including specific information
+about a psychiatric or psychological evaluation of the applicant. This evaluation assesses the
+applicant’s feelings and opinions toward different cultures, races, ethnicities, social, political, economic,
+and life statuses. It also must include investigation of the applicants’ finances, among other information.
+House Bill 3145
+Legislative session Sponsored by Bill title Summary
+2021 Regular Session At the request of The
+Innocence Project, Oregon
+Justice Resource Center
+Relating to
+records
+Requires law enforcement unit that
+imposes discipline including economic
+sanction on police officer to report to
+Department of Public Safety Standards
+and Training.
+As discussed earlier, often the discipline imposed on a police officer at the local LEA is not publicly
+available. House Bill 3145 addresses this transparency issue by requiring LEAs to report discipline of
+police officers involving economic sanctions to DPSST. DPSST is then required to make this information
+available to the public as part of a statewide online database. This database will publish the name of the
+officer, the LEA which employed them, and a description of the facts underlying the discipline.
+Collectively these legislative measures seek to solve challenges we identified regarding local control
+over officer conduct, discipline, and employment. It is too soon in the process to know if these efforts
+will effectively address these local control challenges and aid in improving police accountability.
+Oregon Secretary of State | Report 2021-35 | December 2021 | page 23
+DPSST’s approach to basic police training complies with state laws
+and industry leading practices
+In recent years, DPSST staff have been revamping the basic police training curriculum using evidence-
+based practices. Initial research has shown this approach has resulted in students exhibiting desired
+behaviors by their last week of training.
+DPSST’s revamped curriculum focuses on effective communication, de-escalation,
+emotional intelligence, history of policing, and implicit bias
+The agency has recently overhauled the basic police training academy curriculum, including what is
+taught and how. Beginning in 2017, DPSST Center for Policing Excellence staff began working with
+stakeholders on revising the Basic Police Academy to include evidence-based practices, and where
+literature is inconclusive, they are creating curricula and testing its effectiveness.
+Staff identified two important resources that helped in developing evidence-based training. The first
+was a May 2015 report from a federal presidential task force charged with identifying best practices
+and offering recommendations to promote effective crime reduction while building public trust.26 The
+second was a 2016 report created collaboratively between George Mason University and the
+International Association of Chiefs of Police, which reviewed the recommendations made by the task
+force and assessed which had the most academic research and support, and which need more research
+and testing.2728
+26 President’s Task Force on 21st Century Policing. (2015, May) Final report of the President’s Take Force on 21st Century
+Policing. Office of Community Oriented Policing Services.
+27 Lum, C. et al. (2016). An Evidence-Assessment of the Recommendations of the President’s Task Force on 21st Century Policing
+— Implementation and Research Priorities. Fairfax, VA: Center for Evidence-Based Crime Policy, George Mason University.
+Alexandria, VA: International Association of Chiefs of Police.
+28 Worden, R. E, et al. (2020, July). The Impacts of Implicit Bias Awareness Training in the NYPD. Report to the New York City
+Police Department.
+National experts recognize more needs to be done to determine “what works” in policing
+There has been support among police, policing experts, law makers and educators over the years to move to a
+more evidence-based approach to policing. The goal of this approach is to tie specific police operations to
+research-based strategies that improve public safety outcomes. However, the research on what strategies or
+operations are most effective is limited or inconclusive.
+For example, in 2020 researchers from the John F. Finn Institute for Public Safety and their partners published
+a study on the effects of the New York City Police Department’s mandatory implicit bias training.28 Researchers
+conducted surveys before and after the training to assess attitudes and knowledge of implicit bias and
+attempted to examine enforcement data to determine if the training had any effect on reducing racial or ethnic
+disparities in law enforcement actions. The results were inconclusive. It was difficult for the researchers to
+isolate the effects of the training from other trainings and practices in place. Also, though it is presumed that
+enforcement disparities stem from implicit bias, there is no conclusive evidence to support this.
+Experts in policing agree that more research is needed on the effectiveness of popular interventions like body
+cameras, de-escalation training, implicit bias training, and civilian oversight work to improve interactions
+between law enforcement and the public.
+Oregon Secretary of State | Report 2021-35 | December 2021 | page 24
+The police academy training teaches adult learners in an evidence-based format. The academy
+leverages proven adult learning techniques, including blocks of two-hour instruction sessions, group
+activities, and frequent student participation. De-escalation techniques, communication, criminal and
+procedural law, and use of force skills are taught on an incremental basis and reinforced through live
+action scenarios.
+The recent overhaul of the curriculum was broken down into three phases. DPSST staff have
+implemented Phase 1 in 2018 and Phase 2 in 2019 of their revised training modules. Phase 3 was
+implemented in 2021.
+Phase 1 focused on developing new officers’ interpersonal skills, such as emotional intelligence and
+self-awareness and increasing competencies for positive interactions with the community. Concepts
+like resiliency, effective communication, service, and building public trust serve as recurring themes
+throughout the curriculum.
+Phase 2 reimagined tactical considerations and covered the various skills necessary to safely bring an
+incident to resolution. Concepts included: Crisis intervention, mental health, trauma, de-escalation, use
+of force, less lethal, defensive tactics, firearms, tactical movement, and legal applications.
+Phase 3 included, but was not limited to, deciding other critical topics and its content, developing
+student and instructor materials, allocating hours to each course, and focusing on specialized
+knowledge and skills.
+A portion of the Basic Police Academy curriculum is legislatively mandated. Oregon law requires the
+academy to spend time on certain training: bias crimes, child abuse, domestic violence, mental health,
+pursuit training and exercises, and the Vienna Convention.29 Auditors found that all topics required in
+statute are included in the academy curriculum and comply with requirements on how much time to
+spend on each.
+DPSST’s training approach is shown to be effective in changing student behavior
+In the absence of conclusive evidence-based research available, in 2017 DPSST partnered with
+researchers from Washington State University to develop its own. Researchers developed a complex
+methodology to study the effects of the Basic Police Academy training on the behavior of students.
+The methodology identified a list of 187 desired behaviors police officers should exhibit. Essentially,
+DPSST sought to evaluate whether the students are developing the types of behaviors desired because
+of the training provided.
+This was accomplished by first establishing a baseline using the old curriculum, where researchers
+studied how three full cohorts (approximately 120 officers) performed in a series of video-simulated
+scenarios. Researchers then tested and measured the performance of cohorts after each phase was
+implemented. One of the primary questions this research seeks to answer is: “Are recruits showing the
+desired behaviors by their last week of training?” In essence, researchers can see if the newly
+29 Vienna Convention on the Law of Treaties is an international agreement regulating treaties between states. Officers are
+trained to understand the requirements of the Vienna Convention on consular relations and identify situations when an officer is
+required to inform a person of their rights under the Convention.
+Oregon Secretary of State | Report 2021-35 | December 2021 | page 25
+developed curriculum is succeeding in developing the preferred social behaviors in students and
+whether this leads to better outcomes in scenarios.
+This is an area where DPSST stands out nationally. The research so far has shown that the DPSST
+curriculum is resulting in the desired officer behaviors in critical areas, as well as a significant
+improvement in scenario outcomes ending more positively. For example, recruits demonstrated the
+ability to use communication skills to defuse or de-escalate a potentially violent situation 33.7% more
+often, because of the Phase 1 curriculum changes. The research also showed 97.4% of the time recruits
+attempted to negotiate with the person in crisis, which is a 32.7% improvement. This strongly indicates
+the work DPSST has done with revamping its curriculum is working, benefiting any officer who has
+graduated from the basic police academy since these changes have been implemented.
+Yet due to a lack of research after an officer leaves the academy, little evidence exists to show
+whether DPSST’s training has real world implications, or for how long. Other than anecdotal evidence,
+DPSST does not currently have a mechanism to measure or assess officer performance once officers
+transition to working in their communities and if the desired behaviors persist once officers leave the
+academy.
+According to National Institute of Justice researchers and the Washington State University researcher
+we spoke with, this is not uncommon. Very little research exists nationally showing how officer
+behaviors change as a result of training. One researcher we spoke with, said they are unaware of any
+law enforcement agencies nationwide measuring officer behaviors in the field. The Center for Policing
+Excellence within the training division of DPSST was created for such purposes and could be ideally
+positioned to engage in research of this type, if they were staffed appropriately, given resources
+necessary and allocated expertise and time to develop.
+Staffing and technology challenges undermine DPSST’s ability to
+provide effective training
+Class coordinators rarely have enough instructors available to deliver their training curriculum as
+designed. This puts them in the difficult position of having to decide to either cancel instruction or
+proceed with a compromised version of the training. DPSST has been operating with a depleted
+Some of the desired behaviors researchers evaluate:
+• Shows empathy
+• Demonstrates concern for civilian’s safety
+• Picks up tone of voice of the person in crisis
+• Maintains a positive attitude
+• Gives options and explains consequences
+• Demonstrates gratitude for compliance
+• Uses communication skills to defuse or de-escalate a potentially violent situation
+• Leaves the civilian with useful information
+• Diffuses the situation by psychologically calming the individual
+• Asks questions that are relevant to the mission (e.g., during a welfare check)
+• Effectively manages their frustration during a prolonged encounter
+Oregon Secretary of State | Report 2021-35 | December 2021 | page 26
+Information Systems department with nearly half as many staff as they had in 2009. We found DPSST
+is lacking key technology and tools needed to enhance its training delivery.
+DPSST relies heavily on part-time and volunteer staff for training and efforts to improve
+training delivery are hampered by limited administrative staff
+Historically, the agency has relied on loaned staff from other agencies, full- and part-time staff, and
+volunteers to staff the Basic Police Academy. Agency loans are qualified personnel paid by their
+employing agency and are temporarily loaned out to DPSST. Full- and part-time staff are hired by
+DPSST directly. To be flexible and understanding that DPSST is not their primary job, DPSST allows
+agency loans, part-time staff, and volunteers to have flexibility in their schedules. Each is responsible
+for letting DPSST know when they are available and what classes they want to teach.
+A single scheduler who is responsible for staffing all the agency training then tries to fill all upcoming
+training sessions by assigning instructors from these pools of workers. When these pools of availability
+are insufficient to meet the minimum staffing levels for specific courses, the scheduler will send out
+“urgent openings” emails to all authorized staff for that venue in hopes of finding more workers to
+assign.
+However, this staffing strategy has not kept up with changing workforce dynamics, nor the agency’s
+needs. DPSST is faced with a shrinking number of agency loans and volunteers. Agency leadership
+explained that local LEAs are seeing a reduction of employees. What officers they do have, they need
+on duty. Although DPSST reimburses travel costs and offers housing on campus, traveling regularly to
+Salem and being away from family takes its toll. Because part-time staff self-schedule based on
+availability, the daily workforce fluctuates, occasionally leaving DPSST staff to improvise.
+Furthermore, due to rising demand, the agency has steadily increased the number of students it trains
+in Basic Police Academy each year. The result, according to training coordinators, is that they are not
+able to sustain this new and improved training curriculum model under the old staffing model.
+Figure 7: The number of agency loan hours has fluctuated over time and decreased significantly since the
+2015-17 biennium30
+Source: DPSST.
+30 2019-21 agency loan hours are through June 2021.
+8,855.00
+4,625.50
+5,798.00 5,987.00
+8,642.00
+5,590.00
+2,961.00
+0.00
+1,000.00
+2,000.00
+3,000.00
+4,000.00
+5,000.00
+6,000.00
+7,000.00
+8,000.00
+9,000.00
+10,000.00
+2007-09 2009-11 2011-13 2013-15 2015-17 2017-19 2019-21
+Oregon Secretary of State | Report 2021-35 | December 2021 | page 27
+The need to increase DPSST’s capacity to train more students is driven by the LEAs’ needs. As the
+number of students increased, so has the strain on the staffing model. Instead of having one or two
+cohorts pass through a skills venue in a day as was the case in past years, the training department has
+up to four cohorts, the equivalent of 80 students. Despite this increase in academy training, it is still
+not enough to meet the need from local agencies. Law enforcement officials we spoke to said that they
+were unable to get their newly hired officers into training as needed. The wait was attributed to lack of
+spots in the Academy.
+Figure 8: The number of Basic Police Academy students has fluctuated over time but has more than
+doubled since 201431
+Source: DPSST.
+Due to staffing constraints, DPSST staff struggle to maintain core components of the academy. The
+training division’s skills department, which includes use of force scenarios, defensive tactics, firearms
+training, health and fitness, and emergency vehicle operations rarely have enough part-time staff to
+adequately teach the classes they offer. DPSST staff have said this has been the case for years. This
+leaves them with two options: to cancel training or proceed with limited staff, knowing that poses a
+potential safety risk, and reduces the standard of training they adhere to.
+For example, firearms training is a high-liability skill. It requires an adequate instructor-to-student ratio
+to ensure instructors can support and correct students during live firearms training. If the minimum
+number of instructors are not available, it creates a safety issue.
+In a single week of training in July 2021, four training days did not have the required minimum number
+of trainers needed to safely deliver firearms training. Specifically, on two of these days, each class
+required a minimum of 11 trainers to safely deliver firearms training to 40 recruits but had only six
+trainers. The low instructor-to-student ratio meant students did not get as much practice as was
+designed, instructors had less opportunities to coach and provide feedback, and overall, the standard
+of training was lowered.
+31 DPSST temporarily suspended Basic Academy in March and April of 2020. This may have affected the number of students
+trained in 2020.
+234 221
+156 135 149 149
+2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020
+Oregon Secretary of State | Report 2021-35 | December 2021 | page 28
+Recruits receive firearms training at DPSST Police Academy. | Source: DPSST.
+Firearms training currently has one full-time trainer assigned to the program and one full-time training
+coordinator. A single week of firearms training requires 549 working hours from firearms instructors;
+during the week of training in July, only 40 of those hours came from a full-time firearms trainer. This
+meant DPSST needed to fill 509 hours (92%) with part-time instructors, which failed to occur. Examples
+like this are common among the other skills venues.
+• The current practice of using students as role players in the defensive tactics’ unit
+was born out of necessity. Paid staff were once used as role players for the
+defensive tactic’s classes, until one day when the scheduled instructors did not
+show up. Instead of canceling class, the coordinator instructed the students to act
+as role players.
+• Defensive tactics is a highly specialized and physically demanding skill to teach.
+According to DPSST staff, an instructor is typically able to teach for six to 12
+months before they begin to show signs of burning out. The unit has three full-time
+positions: two coordinators and one trainer. Classes are staffed with a mixture of
+full-time and part-time staff. DPSST staff report of the roughly 50 part-time
+trainers that are hired to provide defensive tactics training, only four to five
+consistently show up. This puts further strain on the coordinators and the one full-
+time instructor.
+• Emergency vehicle operations has authorization for 10 instructors per driving
+session, yet they rarely meet that number. As a result, staff are unable to place an
+instructor in the car with the student.
+Support and oversight are important to ensure that instructors are teaching to the curriculum;
+however, staff have said they do not have time to offer initial and ongoing instructor training.
+Additionally, the curriculum requires regular updates to cover changes in law and to include evidence-
+based practices. The staff at the Center for Policing Excellence is responsible for updating training
+Oregon Secretary of State | Report 2021-35 | December 2021 | page 29
+curriculum for all DPSST’s disciplines, including the Basic Police and Corrections, among others.
+Currently, two staff members are primarily responsible for updating all training curriculum.
+Oregon’s Governor signed the Stay Home, Stay Safe Executive Order on March 23, 2020, in response to
+the COVID-19 epidemic. This order exacerbated the academy’s staffing challenges. Many part-time
+staff did not feel comfortable teaching and many officers who would normally participate in the agency
+loan program were needed at their home LEA to address public safety concerns. Consequently, full-
+time personnel were obligated to add additional teaching responsibilities to their primary job duties.
+Outside of the training division, the administrative division has also struggled to maintain adequate
+staffing levels. For example, the number of staff in the Information Systems department has diminished
+over time. In 2009, the department had seven full-time employees, plus an intern. As of July 2021,
+there are only five full-time positions and no interns. Furthermore, the manager position has been
+vacant since 2019, despite multiple recruiting attempts, leaving the department with effectively four
+staff to address all agency information systems or technology needs.
+Agency staff have expressed their concerns over limited training and administrative staff. Over time,
+staff at the agency have been asked to do more with less, but that is no longer sustainable. The agency
+should complete workforce planning to determine the number of employees needed to adequately
+support the mission of the organization.
+DPSST needs to diversify its staff, and improve agency racial and ethnic demographic
+data
+Oregon leaders recommend DPSST diversify training staff. Equally, DPSST leadership believes lack of
+diversity among staff is an issue. Complicating this matter is that DPSST staff do not have confidence
+in the accuracy of the racial and ethnic data within their current Human Resource data systems. This is
+because data from a previous system may have been inaccurate when transferred into the new
+database; many staff have chosen not to identify their race or ethnicity, making the data less reliable.
+Not having accurate demographic information on existing staff may make it difficult for the agency to
+measure the effectiveness of efforts to improve diversity within the agency. The agency may not be
+able to identify hiring trends or tie specific recruiting efforts back to outcomes over time.
+Improved technology could help DPSST enhance its ability to provide evidence-based
+training
+DPSST does not have modern software to manage and deliver its learning content, nor does the
+agency have the staff needed to lead the successful implementation of such a project. DPSST in 2021
+acquired new video simulators for basic police training; however, according to staff they still rely on
+paper documents for key business processes. The agency also lacks an electronic document
+management system that meets their needs, and access to the documents it has digitized is limited.
+Learning Management Systems (LMS) are software used to create, manage, and deliver various types
+of content across a variety of learning methodologies. These systems provide centralized content
+creation and management and delivery of training. They can also provide training and assessment tools
+that allow flexibility to update tests, recording and sharing of grades, and collaboration between
+students and instructors. A LMS can support distance learning instruction by making it possible for
+Oregon Secretary of State | Report 2021-35 | December 2021 | page 30
+instructors to host virtual classrooms reaching multiple users across the state. This single platform can
+replace and consolidate some existing legacy systems.
+Training coordinator seated at Video Simulator Control Desk. | Source: DPSST.
+In 2019, a temporary IT project manager hired by DPSST recommended the agency adopt an
+enterprise-level LMS to centrally store and deliver content to learners, as well as hiring a permanent
+Information Services staff person assigned to manage, implement, and maintain these types of
+projects. Specifically, the agency needs a dedicated business system analyst with the institutional
+knowledge and project management expertise to effectively support the business system’s needs. In
+sum, the lack of a LMS leaves DPSST as a learning institution that does not have the tools it needs.
+Staff repeatedly told the audit team about the need for a LMS, among other technology needs. A
+previous request of the Legislature for additional funding for this project was not successful, according
+to management.
+In 2021, DPSST procured two new video simulators for the Use of Force skills venue. The new system
+allows agency staff to film and edit the video simulated scenarios, providing the flexibility to add or edit
+elements now or in the future. This gives the agency the expanded ability to identify and address bias
+concerns by modifying the simulations with actors of varying race and gender. According to staff,
+upcoming training sessions have been scheduled with the manufacturer to demonstrate how to fully
+utilize the new system; however, due to staffing shortages, they said it is unclear when the training
+staff realistically will have the time needed to utilize this new functionality.
+The format in which staff grade and assess performance is also outdated. Instructors use a tablet with
+an electronic form to input, grade, and assess a student’s performance while they put them through
+various training scenarios. The form includes a grading scale and section for notes or comments. Since
+Oregon Secretary of State | Report 2021-35 | December 2021 | page 31
+its creation, the content of the training scenarios and grading scale have been updated and improved,
+but the forms have not. The staff member responsible for creating and updating these forms left the
+position in 2016; the position was eventually eliminated. Staff said they have been using inefficient
+workarounds as a result. This position was key in finding technical solutions to training staff’s needs.
+Because the IS department has minimal staff, the agency can no longer provide this support to its
+training staff.
+Staff said that DPSST lacks an enterprise-wide electronic document repository or management system
+that meets their needs, and in many areas still relies on paper documents. According to DPSST staff,
+the agency lacks the ability to accept electronic signatures, which further complicates accepting and
+receiving forms electronically. This reliance on paper documents results in inefficient processes and
+delays in both receiving and communicating important information.
+For example, during interviews with local LEAs across the state, auditors heard how this continued
+reliance on paper-based processes results in increased work and delays for the local agencies. One
+agency described how physically signing and mailing in paperwork related to their officers’
+certifications typically resulted in a delay ranging from a week or two to as long as a month. In one
+instance, the paperwork they had sent in did not make it to the correct person at DPSST, which
+resulted in one of their officer’s certifications appearing to be out of compliance. This created
+confusion and took time and energy on behalf of the local LEA staff to sort out.
+DPSST lacks clear and adequate oversight of officer field training
+DPSST’s influence on officer training is largely limited to the Basic Police Academy. Once the officer
+completes the academy, it is the responsibility of the local LEA, including FTOs, to educate them on
+how to police in their community. This makes the influence of FTOs on behavior and police encounter
+outcomes especially important. We found there are limited controls in place to ensure that FTOs and
+local agencies are continuing officer education with the same fidelity as DPSST’s training.
+FTOs are not certified, nor is the Field Training Manual audited
+There is no requirement a FTO receive training or possess any type of certification that would assure
+they have a foundation in adult learning techniques and leading practices. Auditors spoke to some FTOs
+who had received varying amounts of training from different sources. Some received training selected
+and provided by their local agency, others received training provided by DPSST, while some were
+unsure if the training was curated by DPSST. Doing more to regulate and certify FTOs would add to the
+professionalism of the position and ensure FTOs are trained and equipped to educate new officers.
+While a new officer is progressing through their Field Training, they are required to work through and
+complete a DPSST-created Field Training Manual. DPSST does not audit or spot-check completed field
+training manuals. Instead, they require the officer, FTO, and Department Head of the employing agency
+to sign a form attesting to the completion of all the field training requirements.
+Most of Oregon’s law enforcement officers have not received the new training
+Oregon has made significant strides in improving Basic Police Academy training techniques and
+curriculum, which is resulting in improved officer behavior and communication. However, once an
+officer graduates from Basic Police Academy, the remainder of their training may be entirely curated by
+Oregon Secretary of State | Report 2021-35 | December 2021 | page 32
+their employer. There is no guarantee existing officers who graduated from the academy prior to these
+changes being implemented will ever directly benefit from these improvements.
+As of July 2021, 1,131 officers had graduated from the basic police academy since at least phase 1 of
+the new curriculum was implemented. With a total of 5,580 actively certified police officers in Oregon
+as of the same date, less than 21% of all Oregon police officers had been trained in at least phase 1 of
+the new and improved techniques and curriculum.
+After an officer completes their initial basic training and field training, their local LEA chooses their own
+maintenance training curriculum moving forward. While it is the responsibility of the board to set
+standards around the minimum requirements, DPSST allows each individual LEA to determine what
+training will be provided to meet the standards. Some agencies may choose trainings from DPSST’s
+curriculum catalogue, but others may not.
+Currently, these standards require ongoing maintenance training to include a minimum of 84 hours of
+training every three years. Of these 84 hours, three hours must be related to mental health or crisis
+intervention training. Also included are one hour of ethics training, and eight hours of firearms or use of
+force related training annually.
+The Regional Training Program is small but provides the opportunity for DPSST training to
+reach beyond the basic academy
+DPSST’s Regional Training Program consists of its manager and seven other staff. The program staff
+are responsible for delivering specialized and maintenance training to Oregon’s criminal justice
+professionals on a regional basis. This includes partnering with Oregon’s public safety agencies, such as
+fire, police, parole and probation, telecommunicators and others, to identify training needs and
+resources, coordinate and facilitate skills-based and specialized training, and provide technical support.
+They also coordinate and deliver the agency’s instructor development courses, which prepare agency
+instructors to teach in the academy-based basic courses and for their own agencies. Finally, regional
+program staff are responsible for training officers on standardized field sobriety tests, video training
+regarding driving under the influence of intoxicants, and other traffic enforcement skills.
+The program has four regional coordinators and one statewide traffic safety coordinator, who are
+located throughout the state and assist agencies with a variety of training. These coordinators work
+with local trainers in their area and partner with them to offer the trainings. They frequently work with
+smaller jurisdictions that do not have the resources, tools, or funding to do the training they need on
+their own.
+Currently, the regional program builds out and offers trainings as it can find locations, and it is not
+necessarily regular, predictable, or consistent. Regularly scheduled, ongoing trainings throughout the
+state provide LEAs the ability to budget for and plan on attending them. Offering regular, consistent,
+regional trainings would be a way for DPSST to extend and maintain a training bridge after the new
+officers graduate from academy and progress through their careers.
+Oregon Secretary of State | Report 2021-35 | December 2021 | page 33
+Other Pertinent Information
+This section covers information not addressed in the audit’s findings, but which is relevant to our initial
+audit scope on use of force practices within the state of Oregon.
+High-profile cases of excessive use of force by police have renewed a nationwide debate about the role
+of policing in communities and the powers given to law enforcement. Officers are authorized to use
+physical, even deadly, force in certain situations. In Oregon, the framework that governs use of force —
+what it is, when it is considered excessive, and situations in which it is justified — includes federal case
+law, state statute, and local LEA policies.
+Oregon’s use of force statute defines physical force as including but not limited to the use of an
+electrical stun gun, tear gas, or mace. Local LEA policies refine what use of force is and how and when it
+should be used. According to a 2018 report examining modern use of force policies in law enforcement
+released by the United States Commission on Civil Rights,
+32 there is “not a universal set of rules
+governing law enforcement’s use of force polices,” meaning LEA policies vary. Accrediting bodies, such
+as the Commission on Accreditation for Law Enforcement Agencies, government entities like the
+National Institute of Justice, and other national law enforcement associations may offer guidance, but
+otherwise agencies are largely on their own when setting such a policy.
+In response to the circumstances of George Floyd’s death and subsequent protests, legislators passed
+a series of police reform bills in the 2020 special sessions, including reforms to the state’s use of force
+statute which was last updated in the 1970s. House Bill 4203 and House Bill 4301 modify circumstances
+under which a police officer is justified in using physical force or deadly physical force. House Bill 4203
+included a provision specifically prohibiting the use of physical force that impedes the normal breathing
+or circulation of the blood of another person by applying pressure on the neck of that person, unless
+circumstances dictate that deadly force is necessary. House Bill 4301 included a requirement that
+officers give a verbal warning and reasonable opportunity for an individual to comply before using
+physical or deadly force.
+Despite these recent efforts to provide clarity on when use of physical force is justified, more work can
+be done, specifically in use of force data collection and analysis. This begins when all LEAs are recording
+and reporting accurate data.
+State can strengthen oversight and accuracy of use of force data
+Some agencies like Portland Police Bureau and the Bend Police Department collect and report use of
+force data. However, the state of Oregon does not know the extent of use of force across the state.
+Having this data, including number of incidents that are identified as unjustified or excessive, could help
+state legislators, DPSST, and local LEAs identify trends and target specific areas in need of training and
+reform.
+Oregon Senate Bill 111 (2007) required all LEAs to submit data concerning officer’s use of deadly force
+resulting in death to the Oregon Department of Justice. Published on the Department of Justice
+32 Lhamon, C et al. (2018, November) Police Use of Force an Examination of Modern Policing Practices. United States Commission
+on Civil Rights.
+Oregon Secretary of State | Report 2021-35 | December 2021 | page 34
+website, auditors found errors in the data. For example, Robert LaVoy Finicum was one of a group of
+armed protestors who occupied the headquarters of the Malheur National Wildlife Refuge in Harney
+County. He was killed in an encounter with the FBI and Oregon State Police in January 2016, but the
+database incorrectly reports the date of incident as June 6, 2020.
+This is because information the Oregon Department of Justice receives is not verified or analyzed.
+According to the department, statute requires only that LEAs submit data, and the department to post
+it. The department has no means to compel compliance nor to audit the quality of the data submitted.
+Federal use of force data is similarly unreliable
+In 2015, the FBI created the National Use of Force Data Collection database. Data includes any use of
+force that results in:
+• The death of a person due to law enforcement use of force;
+• The serious bodily injury of a person due to law enforcement use of force; or
+• The discharge of a firearm by law enforcement at or in the direction of a person not
+otherwise resulting in death or serious bodily injury.
+Although a data collection pilot study began in 2017, nationwide data collection officially began January
+1, 2019, and participation by law enforcement agencies has been voluntary. As of August 2021, the FBI
+stated 6,543 out of 18,514 federal, state, local, and Tribal law enforcement agencies submitted data,
+which accounts for 49% of all sworn officers in the nation. Since the database is incomplete, it is not as
+helpful as it could be.
+In 2021, Oregon state legislators passed House Bill 2932 which directed law enforcement agencies to
+submit their use of force data into the federal database. Also included in the bill is a provision that
+states the Oregon Criminal Justice Commission is responsible for analyzing the federal data and
+reporting on it annually to the Oregon Legislature. However, it is unclear how useful the federal data
+will be because the goal of the federal database is to provide an aggregate view of the data. What will
+be more useful is data collection and analysis to identify patterns, practices, and profiling in use of
+force data, similar to what the Oregon Criminal Justice Commission does with officer-initiated traffic
+and pedestrian stop data.
+Oregon Secretary of State | Report 2021-35 | December 2021 | page 35
+Recommendations
+To strengthen the state’s role in police accountability, DPSST should:
+1. Analyze and project the workforce capacity needed to conduct investigations when local LEA
+information is not available or incomplete.
+a. Once completed, develop options for addressing staffing or resource constraints.
+b. Conditional on whether additional resources are added, develop and implement a
+mechanism and guidance for conducting external moral fitness violation investigations
+in these situations.
+2. Evaluate whether the rules established by the Commission on Statewide Law Enforcement
+Standards of Conduct and Discipline on unjustified or excessive use of physical or deadly force
+merit changes to moral fitness standards.
+3. Taking into account whether the Commission’s rules are both timely and relevant, work with
+stakeholders to address gaps in moral fitness standards, specifically related to incidents of
+excessive use of physical and deadly force.
+4. Assess recent legislation’s impact on current administrative rules pertaining to moral fitness
+standards, complaint process, background check requirements, and LEA accreditation. Research
+and implement any necessary changes.
+5. Implement a certification process for Field Training Officers, which includes initial and ongoing
+training requirements.
+6. Review Field Training Manual completion by randomly selecting and assessing a small sample of
+submitted Field Training Manuals on an annual basis.
+7. For complaints containing allegations that would violate the statutory and administrative rule
+requirements for certifications, require LEAs to include a brief synopsis what they did with
+complaints forwarded by DPSST, including whether there was an investigation, whether the
+underlying allegations were substantiated, and whether any discipline was imposed.
+8. Formalize a policy and process that enables DPSST to request the Oregon State Police conduct
+and share nationwide criminal records checks of an individual when necessary.
+9. Work with the board to strengthen and clarify the bylaws governing conflicts of interest, by
+requiring board members to disclose financial and personal interests in any matter coming
+before the committee.
+To improve the training provided, DPSST should:
+10. Evaluate the current Basic Police Academy staffing model and data, including, but not limited to:
+a. Number of full-time and part-time staff and volunteers who regularly (to be defined by
+the department) deliver training of the Basic Police Academy and in what areas (e.g.,
+skills or classroom).
+Oregon Secretary of State | Report 2021-35 | December 2021 | page 36
+b. The minimum number of trainers needed to meet the desired instructor to student
+ratio and how often and in which courses this requirement is not met.
+c. Instructor turnover.
+d. Number of successful recruitments.
+e. Other data indicators that may highlight the ongoing staffing challenges.
+11. Based on the staffing evaluation, develop short-term and long-term strategies to appropriately
+and sufficiently staff the Basic Police Academy. Strategies should reduce the reliance on part-
+time instructors. Strategies may include:
+a. Requesting additional resources from state legislators.
+b. If additional funds cannot be sourced, develop long-term employment sharing
+contracts with local law enforcement agencies.
+12. Request additional funds from the Legislature for:
+a. A dedicated instructor trainer who delivers initial and ongoing instructor training, and
+b. A Learning Management System that will track student progress and manage student
+curriculum.
+13. If funding is available, develop and implement processes to assess police officer performance
+post-Academy.
+14. Increase staffing and resource allocation to the Regional Training program so program staff can
+deliver consistent and predictable training to more local LEAs.
+a. If staffing is increased, develop and implement a regional training course on conducting
+internal investigations.
+To ensure that the agency is meeting its mission, DPSST should:
+15. Conduct workforce planning, including assessing staffing levels and other resources needed to
+adequately deliver the department’s mission.
+a. Specifically, request additional funds to increase capacity in Information Services, the
+Criminal Justice Certification Division, the Training Division and Basic Police Academy
+staff scheduling.
+b. Establish goals and strategies to increase the diversity of department staff.
+c. Develop consistent and reliable practice to collect demographic data of department
+staff.
+Oregon Secretary of State | Report 2021-35 | December 2021 | page 37
+Objective, Scope, and Methodology
+Objective
+The objective of this audit was twofold: One, to determine whether DPSST could do more to identify
+and hold accountable police officers who have engaged in misconduct. Two, to determine if DPSST’s
+approach to developing and implementing basic police training is in line with state laws and industry
+best practices.
+Scope
+The audit focused on DPSST’s role in police accountability, and basic police training as outlined in
+Oregon Revised Statute Chapter 181A, including the role and responsibilities of the board and
+department in establishing minimum standards of physical, emotional, intellectual, and moral fitness
+and minimum training requirements for public safety personnel and instructors.
+Methodology
+To gain an understanding of the program and to learn the views, opinions, and perspectives of
+stakeholders, we conducted:
+• Interviews with DPSST leadership, management, and staff;
+• Interviews with past and current board members and police policy committee
+members;
+• Interviews with local law enforcement staff from 11 different Oregon law
+enforcement agencies;
+• Interviews with stakeholders, including police oversight entities and advocacy
+groups; and
+• Reviews of legislative testimony provided to the Joint Committee on Transparent
+Policing and Use of Force Reform.
+To gain an understanding of promising practices in police training and certification processes, we
+researched nationwide police training and accountability practices and spoke with subject matter
+experts.
+To gain an understanding of practices in other states concerning police officer accountability and
+training, we conducted a survey of state police standards and training programs for New Hampshire,
+Idaho, New Mexico, Wyoming, Maine, Vermont, and California.
+Internal control review
+We determined that the following internal controls were relevant to our audit objective.33
+• Control Environment
+• We reviewed 2009-21 organizational charts, and agency budget and staffing data.
+• Risk Assessment
+33 Auditors relied on standards for internal controls from the U.S. Government Accountability Office, report GAO-14-704G.
+Oregon Secretary of State | Report 2021-35 | December 2021 | page 38
+• We interviewed Criminal Justice certification and Basic Police Academy staff.
+• Control activities
+• We evaluated policies and procedures for moral fitness standard investigations and
+Basic Police Academy curriculum development.
+• Information and communication
+• We observed Police Policy Committee and board meetings and read their bylaws.
+• Monitoring activities
+• We observed the Washington State University researcher evaluate training
+scenarios.
+• We evaluated whether the agency regularly reviews its police training and
+certification policies, procedures, and administrative rules.
+Deficiencies with these internal controls were documented in the results section of this report.
+We conducted this performance audit in accordance with generally accepted government auditing
+standards. Those standards require that we plan and perform the audit to obtain sufficient, appropriate
+evidence to provide a reasonable basis for our findings and conclusions based on our audit objectives.
+We believe that the evidence obtained provides a reasonable basis for our findings and conclusions
+based on our audit objectives.
+We sincerely appreciate the courtesies and cooperation extended by officials and employees of DPSST
+during the course of this audit.
+About the Secretary of State Audits Division
+The Oregon Constitution provides that the Secretary of State shall be, by virtue of the office, Auditor
+of Public Accounts. The Audits Division performs this duty. The division reports to the elected
+Secretary of State and is independent of other agencies within the Executive, Legislative, and Judicial
+branches of Oregon government. The division has constitutional authority to audit all state officers,
+agencies, boards and commissions as well as administer municipal audit law.
+Audit team
+Andrew Love, CFE, Audit Manager
+Danielle Moreau, MPA, Lead Auditor
+Andrew Mendenhall, Staff Auditor
+Department of Public Safety Standards and Training
+4190 Aumsville Hwy SE
+Salem, OR 97317-8983
+503-378-2100
+http://www.dpsst.state.or.us
+Kate Brown, Governor
+November 9, 2021
+Kip Memmott, Director
+Secretary of State, Audits Division
+255 Capitol St. NE, Suite 500
+Salem, OR 97310
+Dear Mr. Memmott,
+This letter provides a written response to the Audits Division’s final draft audit report titled: Additional
+Resources Needed to Strengthen Police Training and Accountability.
+The Secretary of State’s performance audit of the Department of Public Safety Standards and Training
+(Department) began in spring 2021.  The Department was pleased with the overall results of the audit
+performed during 2021 and intends to continually evaluate all the recommendations to further the
+mission of the agency.
+In spring of 2021, the purpose of the audit was originally scoped to determine whether or not the
+Department was meeting its statutory obligation in the fulfillment of its Training Mission.  The audit
+found the Department was meeting its statutory obligations while focusing recommendations on many
+criminal justice reform bills, which came out of the 2020 legislative session. The audits
+recommendations identified resource deficiencies in the areas of staffing and IT infrastructure.  The
+Department agrees, that additional resources are needed to further advance its mission and the legislative
+intent of the criminal justice reform bills.
+The Department agrees with the audit findings and will develop specific policy option packages to
+request additional staffing and IT resources to properly address the recommendations including the
+police reform legislation assigned to our agency to implement. The auditor’s formal recommendations
+will have a large role in consideration for future funding of the Department and the additional resources
+needed to accomplish the mission. The audit recommended direction for continued assessment of the
+department’s staffing levels and IT resources, in preparation for the 2023-2025 biennium, is particularly
+important to the Department to continue working towards implementing changes to address community
+concerns and continued public safety reform in our state.
+Below is our detailed response to each recommendation in the audit.
+RECOMMENDATION 1
+Analyze and project the workforce capacity needed to conduct investigations when local
+LEA information is not available or incomplete.
+a) Once completed, develop options for addressing staffing or resource constraints.
+b) Conditional on whether additional resources are added, develop and implement a
+mechanism and guidance for conducting external moral fitness violation
+investigations in these situations.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Disagree
+n/a
+Suzy Herring
+Professional Standards
+Administrator
+503-378-2427
+Narrative for Recommendation 1
+Absent additionally regulatory authority DPSST does not find this to be an issue. The audit showed that
+out of 103 cases only 3 (1 per year) did not have adequate information provided from the LEA to make a
+determination and therefore does not merit additional resource.
+RECOMMENDATION 2
+Evaluate whether the rules established by the Commission on Statewide Law
+Enforcement Standards of Conduct and Discipline on unjustified or excessive use of
+physical or deadly force merit changes to moral fitness standards.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Disagree
+n/a
+Suzy Herring
+Professional Standards
+Administrator
+503-378-2427
+Narrative for Recommendation 2
+The commission was established in the 2021 legislative session as a standalone entity not under the
+administration of DPSST or the board. The administrative rules that the commission is tasked with
+promulgating are not expected until October of 2022. DPSST cannot comment on future unknown
+regulatory impacts.
+RECOMMENDATION 3
+Taking into account whether the Commission’s rules are both timely and relevant, work
+with stakeholders to address gaps in moral fitness standards, specifically related to
+incidences of excessive use of physical and deadly force.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Disagree
+n/a Suzy Herring
+Professional Standards
+Administrator
+503-378-2427
+Narrative for Recommendation 3
+The commission was established in the 2021 legislative session as a standalone entity not under the
+administration of DPSST or the board. The administrative rules that the commission is tasked with
+promulgating are not expected until October of 2022. DPSST cannot comment on future unknown
+regulatory impacts.
+RECOMMENDATION 4
+Assess recent legislation’s impact on current administrative rules pertaining to moral
+fitness standards, complaint process, background check requirements, and LEA
+accreditation. Research and implement any necessary changes.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree
+June 2022
+Suzy Herring
+Professional Standards
+Administrator
+503-378-2427
+Narrative for Recommendation 4
+Regular part of the department and board’s functions.
+RECOMMENDATION 5
+Implement a certification process for Field Training Officers, which includes initial and
+ongoing training requirements.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree
+October 2022
+Suzy Herring
+Professional Standards
+Administrator
+503-378-2427
+Narrative for Recommendation 5 A Field Training Officer workgroup was established in summer of
+2021. The workgroup’s recommendations, once completed, will be presented to the policy committees
+and the board for consideration and potential policy, administrative rule, or statutory changes.
+RECOMMENDATION 6
+Review Field Training Manual completion by randomly selecting and assessing a small
+sample of submitted Field Training Manuals on an annual basis.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree
+June 2022
+Suzy Herring
+Professional Standards
+Administrator
+503-378-2427
+Marsha Morin
+503-378-2155
+CJ Certification Manager
+Narrative for Recommendation 6
+CJ standards and certification will incorporate this audit into the agency compliance review process.
+RECOMMENDATION 7
+For complaints containing allegations that would violate the statutory and administrative
+rule requirements for certifications, require LEAs to include a brief synopsis what they
+did with complaints forwarded by DPSST, including whether there was an investigation,
+whether the underlying allegations were substantiated, and whether any discipline was
+imposed.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree
+June 2023
+Suzy Herring
+503-378-2427
+Professional Standards
+Administrator
+Narrative for Recommendation 7
+We will engage the Board and Policy committees on recommending promulgation of OAR to give the
+agency this authority. LEA’s are required to notify the department if any economic sanctions are
+imposed on any public safety officer.
+RECOMMENDATION 8
+Formalize a policy and process that enables DPSST to request the Oregon State Police
+conduct and share nationwide criminal records checks of an individual when necessary.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree
+February 2022
+Suzy Herring
+503-378-2427
+Professional Standards
+Administrator
+Narrative for Recommendation 8
+DPSST will engage OSP on possibility of formalizing a process.
+RECOMMENDATION 9
+Work with the board to strengthen and clarify the bylaws governing conflicts of interest,
+by requiring board members to disclose financial and personal interests in any matter
+coming before the committee.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree October 2022
+Suzy Herring
+503-378-2427
+Professional Standards
+Administrator
+Narrative for Recommendation 9
+Per current policy and board bylaws, Conflicts of Interest. Conflicts of interest occur when a committee
+member has competing interests or loyalties in a matter being presented for discussion, recommendation
+or vote. Whenever a committee member has an actual financial or personal interest in any matter coming
+before the committee, the affected member should disclose the nature of the interest and withdraw from
+any discussion or voting on the matter.
+Any discussion or vote involving a potential or perceived conflict of interest should be disclosed.
+Members experiencing a potential or perceived conflict of interest will be allowed to participate in
+discussions, recommendations or votes upon declaring their ability to remain unbiased. The minutes of
+meetings at which such votes are taken shall record such disclosure, abstention and rationale for
+participation.
+RECOMMENDATION 10
+Evaluate the current Basic Police Academy staffing model and data, including, but not
+limited to:
+a) Number of full-time and part-time staff and volunteers who regularly (to be
+defined by the department) deliver training of the Basic Police Academy and in
+what areas (e.g., skills or classroom).
+b) The minimum number of trainers needed to meet the desired instructor to student
+ratio and how often and in which courses this requirement is not met.
+c) Instructor turnover.
+d) Number of successful recruitments.
+e) Other data indicators that may highlight the ongoing staffing challenges.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree
+June 2022
+Hassan Hassan
+503-378-2153
+Training Administrator
+Narrative for Recommendation 10
+Numbers will be provided at targeted date.
+RECOMMENDATION 11
+Based on the staffing evaluation, develop short-term and long-term strategies to
+appropriately and sufficiently staff the Basic Police Academy. Strategies should reduce
+the reliance on part-time instructors. Strategies may include:
+a) Requesting additional resources from state legislators.
+b) If additional funds cannot be sourced, develop long-term employment sharing
+contracts with local law enforcement agencies.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree
+June 2023 Hassan Hassan
+503-378-2153
+Training Administrator
+Narrative for Recommendation 11
+Discussion is between staff and management are ongoing to find alternatives and solutions to staffing
+issues. Additionally, the need for more resources will be considered long-term.
+RECOMMENDATION 12
+Request additional funds from the Legislature for:
+a) A dedicated instructor trainer who delivers initial and ongoing instructor training,
+and
+b) A Learning Management System that will track student progress and manage
+student curriculum.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree
+June 2023 Hassan Hassan
+503-378-2153
+Training Administrator
+Narrative for Recommendation 12
+An Instructor development program, was added by the 2021 legislative assembly, and is currently being
+evaluated from a fiscal and physical standpoint. Funding for a LMS can be asked for through a policy
+option package.
+RECOMMENDATION 13
+If funding is available, develop and implement processes to assess police officer
+performance post-Academy.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree
+June  2023 Hassan Hassan
+503-378-2153
+Training Administrator
+Narrative for Recommendation 13
+If funding is available processes and procedures for this assessment can begin to be developed. After
+initial inspection of viability, policy option package can be sent forward accordingly.
+RECOMMENDATION 14
+Increase staffing and resource allocation to the Regional Training program so program
+staff can deliver consistent and predictable training to more local LEAs.
+a) If staffing is increased, develop and implement a regional training course on
+conducting       internal investigations.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree
+June 2023
+Hassan Hassan
+503-378-2153
+Training Administrator
+Jim DeSully
+503-934-0866
+Regional Training Manager
+Narrative for Recommendation 14
+DPSST will work with LEA’s across the state to determine training needs and then pursue the
+appropriate level of staff to meet those needs.  (Regional training is not mandated under statute, as part
+of the basic training requirements.)
+If staffing increases, DPSST’s CPE program will work to develop or identify internal investigation
+curriculum for regional training delivery.
+RECOMMENDATION 15
+Conduct workforce planning, including assessing staffing levels and other resources
+needed to adequately deliver the department’s mission.
+a. Specifically, request additional funds to increase capacity in Information
+Services, the Criminal Justice Certification Division, the Training
+Division, and the Basic Police Academy staff scheduling.
+b. Establish goals and strategies to increase the diversity of department staff.
+c. Develop consistent and reliable practice to collect demographic data of
+department staff.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree
+June 2023 Brian Henson
+503-378-2888
+Acting Deputy Director
+Narrative for Recommendation 15
+DPSST is continually evaluating our workforce to assess staffing levels and increase the overall
+diversity of the workforce in order to adequately deliver the department’s mission. DPSST will evaluate
+program needs and pursue necessary resources through the agency requested budget process.
+Please contact Director, Jerry Granderson at 503-378-2332 with any questions.
+Sincerely,
+Jerry Granderson, Director
+DPSST
+This report is intended to promote the best possible
+management of public resources.
+Copies may be obtained from:
+Oregon Audits Division
+255 Capitol St NE, Suite 500
+Salem OR 97310
+(503) 986-2255
+audits.sos@oregon.gov
+sos.oregon.gov/audits

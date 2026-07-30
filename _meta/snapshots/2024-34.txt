@@ -1,0 +1,1424 @@
+Oregon Department of Education
+High School Success Grants
+Have Expanded Important
+Programs, but ODE Can Do
+More To Identify and Share
+Effective Strategies
+December 2024
+Report 2024-34
+WHY THIS AUDIT IS
+IMPORTANT
+• From 2017 to 2023, over 230 districts
+and schools reported spending $125
+million each year in Measure 98
+grants to expand dropout prevention,
+college and career opportunities, and
+CTE for Oregon students in eighth
+through 12th grade.
+• The costs of college education
+continue to grow, while the expected
+benefits of a degree face increased
+scrutiny. Expanded statewide CTE
+programs are an important pathway
+to career success.
+• The COVID-19 pandemic was an
+unprecedented disruption for Oregon
+schools. Most outcomes targeted by
+HSS funds were negatively
+impacted.
+• The Oregon Department of
+Education (ODE) made important
+improvements to district
+accountability with the integration in
+2022 of HSS grants and other
+programs with related goals. The first
+round of integrated annual reports
+were due in November 2024.
+WHAT WE FOUND
+1. High School Success (HSS) investments have helped expand career
+and technical education (CTE) spaces and programs, dropout
+prevention supports, and programs designed to help students better
+prepare for college and careers. (pg. 5)
+2. Specific outcomes from HSS investments are difficult to determine, in
+part because the HSS program makes up only 5% of total school funding
+and many other programs work towards the same goals. (pg. 6)
+3. Student outcomes since the start of HSS are mixed, in part because of
+wide-ranging pandemic challenges. CTE participation increased
+significantly, including for students from historically underserved races
+and ethnicities. Graduation rates rose overall and dropout rates also
+improved. Other outcomes were unchanged (ninth grade on-track) or fell
+(college-going and regular attendance). Results were similarly mixed for
+historically underserved student groups, a key state focus. (pg. 8)
+4. ODE has steadily improved its administration and monitoring of the HSS
+program, yet ODE remains largely focused on grantee compliance with
+limited analysis of outcomes. (pg. 21)
+5. Two large-scale ODE efforts — integration of grant programs and new
+district growth targets under the Student Success Act — could
+streamline compliance requirements for school districts and identify
+effective investments in student success. (pg. 22)
+6. Both initiatives are in the early stages and need improvements from
+ODE, the State Board of Education, and the Legislature for successful
+implementation. As we noted in a 2022 report on systemic risks in K-12
+education, three past K-12 reform efforts in Oregon were eventually
+abandoned, reinforcing the importance of full implementation of these
+initiatives. (pg. 27)
+Audit Highlights
+Oregon Department of Education
+High School Success Grants Have Expanded Important Programs, but ODE Can Do More
+To Identify and Share Effective Strategies
+WHAT WE RECOMMEND
+We made eight recommendations to ODE. ODE agreed with all of our recommendations. The response can be found at the
+end of the report.
+Secretary of State LaVonne Griffin -Valade
+Audits Director Kip R. Memmott
+Introduction
+Oregon Secretary of State December 2024
+Report 2024-34 page 1
+Oregon voters passed Measure 98 to address low graduation rates and
+prepare students for college and careers
+The measure established the High School Graduation and College and Career Readiness Fund within the
+Oregon Department of Education (ODE). Measure 98 became effective in December 2016; school
+districts, charter schools, and other specialty schools with high school students began receiving funds
+through High School Success (HSS) grants in the 2017-18 school year. The HSS grant program has
+changed several times since the measure passed.
+The Oregon Department of Education oversees the HSS program
+ODE is a large agency responsible for Oregon’s $9.9 billion state school fund, which is the main source of
+state funding for public schools. ODE also oversees 141 state and federal programs, including the HSS
+fund. These funds, combined with local taxes, allow Oregon’s 1,257 public schools in 197 school districts
+to serve over 550,000 students from kindergarten through 12th grade. ODE staff administer and monitor
+grants, provide technical assistance to local education authorities, and play an important role in carrying
+out the State Board of Education’s policies and standards.
+The HSS program is housed within ODE’s Office of Education Innovation and Improvement, which has a
+total of 87 staff divided into six teams: Systems and Capacity Improvement, Grant Management and
+Monitoring, District and School Effectiveness, Research and Information Systems, Secondary Post-
+Secondary Transitions, and Programs and Practices. ODE staff collaborate to support the HSS program by
+providing technical assistance to HSS grantees, reviewing and approving four-year plans and budgets,
+advising on programs and practices, and reviewing regular progress reports.
+Measure 98 aimed to improve student outcomes with three research-backed approaches
+In both 2016 and 2017, Oregon's graduation rates were among the lowest in the country. Graduation rates
+were even lower for many focal student groups who experience significant opportunity and participation
+gaps.
+1 These have been persistent trends in Oregon and reflect systemic challenges that include poverty,
+citizenship and immigration issues, regional disparities, and widespread housing instability.
+1 Focal student groups are defined as students of color; students with disabilities; emerging bilingual students; students navigating
+poverty, homelessness, and foster care; LGBTQ2SIA+ students; recently arrived and refugee students; migrant students; students
+with experience of incarceration or detention; and other students who have historically experienced disparities in schools.
+Five Goals of Measure 98
+1. Improve Oregon's high school graduation rates.
+2. Support and improve ninth grade on-track rates.
+3. Expand student access to career and technical education (CTE).
+4. Expand student access to college-level opportunities and the ability to earn college credit in
+high school.
+5. Reduce high school dropout rates and chronic absenteeism.
+Oregon Secretary of State December 2024
+Report 2024-34 page 2
+School districts and charter schools who receive grants through HSS must use those funds to establish or
+expand programs for high school students in at least one of the following three areas:
+CTE Programs  of Study  focus on providing technical and academic education, hands-on experience, and
+professional development opportunities to promote student success in their chosen careers. HSS
+recipients may use CTE funding to purchase materials and equipment, plan new or expanded programs,
+and support professional development through activities such as paying for students to take professional
+certification tests. Currently, ODE has six approved CTE program areas:
+• Agriculture, Food, and Natural Resource Systems;
+• Arts, Information, and Communications;
+• Business and Management;
+• Health Sciences;
+• Human Resources; and
+• Industrial and Engineering Systems.
+College -level opportunities , which allow students to earn college credits while still in high school. These
+include Advanced Placement classes, International Baccalaureate programs, and dual-credit courses
+offered in partnership with community colleges. HSS recipients may use this funding in ways that include
+planning new or expanded courses, supporting student testing fees, and recruiting, licensing, training, and
+employing teachers for college-level classes.
+Dropout prevention strategies , the category that is perhaps the most flexible of those allowed under
+HSS. Recipients may use this funding for data-informed approaches to reducing absenteeism and dropout
+rates and for improving graduation and ninth grade on-track rates. Among the grantee strategies:
+• Introducing or expanding student counseling and wellness supports;
+• Providing a variety of academic support opportunities both within and outside of the
+classroom;
+• Providing alternative education options; and
+• Supporting student presence and participation in school.
+To qualify for HSS funds, applicants must submit a biennial plan approved by ODE and meet eligibility
+requirements. School districts and charter schools that do not meet eligibility requirements receive
+monitoring, support, and technical assistance from ODE. Beginning in the 2021-23 biennium, if these
+districts or schools still did not meet eligibility requirements, ODE placed them on corrective action plans,
+allowing ODE to direct a percentage of the district’s HSS allocation to work toward meeting any remaining
+eligibility criteria.
+The HSS program has undergone changes since the measure passed
+House Bill 2246, passed by the Legislature in 2017 to implement Measure 98, allowed recipients to spend
+up to 15% of the funds they receive on supports for eighth-grade students. One purpose of the change was
+to fund summer transition programs to high school and help increase the number of students finishing
+ninth grade on track to graduate.
+House Bill 2246 also created a tiered system for recipients based on their level of funding, which is based
+on weighted high school attendance. Under the ballot measure language, all recipients were initially
+Oregon Secretary of State December 2024
+Report 2024-34 page 3
+required to use funds in each of the three program areas identified in the measure. This was a problem for
+very small districts that could not make meaningful improvements using such small amounts. As a result of
+the change, recipients with:
+• Less than $100,000 in HSS funding may choose to address any of the three program areas;
+• Between $100,000 and $350,000 must address CTE and at least one other program area;
+• More than $350,000 must address all three program areas.
+Under Measure 98, only school districts and charter schools were eligible to receive funding. House Bill
+2246 added the Oregon School for the Deaf, the Youth Corrections Education Program, and the Juvenile
+Detention Education Program as eligible funding recipients.
+Another important change happened in 2019. In the first budget passed after Measure 98, the Legislature
+only allocated approximately half of the required $800 per high school student to the fund, totaling about
+$170 million for the 2017-19 biennium. In 2019, the Legislature’s passage of the Student Success Act filled
+the gap and ensured the program was fully funded by adding an additional $133 million.2 Also in 2019, the
+Legislature directed ODE to look for opportunities for better alignment and integration of existing programs.
+As part of a response to that, ODE released guidance for school districts as they began to integrate six
+programs with common goals for the 2023-25 biennium. These six programs included HSS and a newer
+program, the Student Investment Account, created under the Student Success Act. While the programs
+retained their individual requirements, ODE began to integrate applications, progress reports, and
+monitoring processes to streamline work for school districts and make ODE’s program administration
+more effective. ODE continues to improve and add more programs to the integration process.
+Figure 1: The HSS program has  gone through several updates since Measure 98 passed in 2016
+2 The Student Success Act funds many other activities as well, providing roughly $1 billion a year for early childhood education and K-
+12 school improvement. It is larger than HSS and, unlike HSS, draws on a dedicated tax source: a new Corporate Activities Tax.
+Measure 98 did not increase funds collected by state government.
+Oregon Secretary of State December 2024
+Report 2024-34 page 4
+The COVID-19 pandemic continues to affect K-12 students and staff
+The pandemic prompted an abrupt shift to online learning and increased chronic absenteeism. This
+increase has proved persistent long after schools resumed in-person learning; high rates of student
+absenteeism continue to affect schools in Oregon and nationwide. Declining enrollment and high inflation
+after the pandemic have contributed to budget shortfalls in some schools and districts. These shortfalls
+can reduce the availability of middle and high school programs.
+During the pandemic, particularly the 2019-20 school year, ODE did not require districts to collect data for
+several metrics key to understanding the impacts of the HSS program. ODE also changed graduation
+requirements and the definitions of dropouts and regular attenders during the pandemic period, affecting
+analysis of HSS outcomes over time.
+In spring 2020, ODE allowed districts to award credit to seniors who were passing classes at the time of the
+March 2020 school closures, which ODE officials said likely led to a spike in graduation rates that year.
+State policy decisions, including suspending a 10-day drop rule for students, depressed dropout rates in
+2019-20 and 2020-21, then artificially increased them in 2021-22, when the agency reinstated the rules —
+as a result, rates for those three years cannot be compared to other years. Finally, according to ODE,
+attendance rates for 2020-21 are not comparable to rates in other years given changes in attendance rules
+tied to distance learning.
+This is the third performance audit of the HSS program
+Another requirement of Measure 98 was that the Secretary of State conduct performance and financial
+audits of the HSS program every two years, with deadlines for when each audit is to be released. This is the
+third performance audit of HSS. Financial audits are conducted separately.
+The three performance audits conducted by our office to date took different approaches based on the
+maturity of the program, integration with other programs, and available audit resources.
+• The first, issued in 2020, focused on the planning and early implementation of HSS: “High
+School Success Planning Is Robust, but ODE Can Enhance Benefits of Measure 98 by
+Improving Monitoring and Analysis.”
+• The second, issued in 2022, included follow-up on recommendations from the first audit and a
+review of the integrated guidance: “ODE Continues to Effectively Implement Measure 98 and
+Increase Collaboration Across Agency Programs.”
+This is the third performance audit issued by our office, but it is the first to assess HSS spending, the
+program’s benefits for grantees, and its effect on student outcomes over time. The scope of the audit is
+complicated by several factors. While this audit considered outcomes based on years prior to integration,
+many other initiatives work towards improving those outcomes. Our recommendations for future
+improvements in reporting and monitoring aim to preserve the goals of HSS within the integration but may
+affect ODE programs beyond HSS.
+Audit Results
+Oregon Secretary of State December 2024
+Report 2024-34 page 5
+Over the first six years of HSS, over 230 grantees reported spending roughly $760 million in HSS funds to
+establish and expand CTE offerings, college-level opportunities, and dropout prevention strategies. School
+district officials we spoke with emphasized the program's role in helping expand important activities.
+We found high school performance and student outcomes have been mixed. The clearest evidence of HSS
+impact comes from the substantial expansion of CTE programs and student participation in CTE courses
+since HSS took effect. Other participation and outcome metrics show mixed results with ninth grade on-
+track unchanged since 2016 and college-going and regular attendance  dropping sharply during the
+pandemic. Results were similarly mixed for focal student groups, a key state focus.
+Oregon's graduation rates — once among the lowest in the country — grew overall and for focal student
+groups since 2016, but marginally. In 2021-22, Oregon still ranked 44th among states, similar to where the
+state ranked in 2016 when voters passed Measure 98. Changes to graduation rates and other high-level
+outcomes are difficult to attribute to specific HSS investments, in part because the HSS program makes up
+only 5% of total school funding and many other programs work towards the same goals.
+We also found ODE has steadily improved its administration and monitoring of the HSS program, and the
+agency’s eligibility reviews of grantees show promise for helping increase student success. Yet ODE
+remains largely focused on grantee compliance, with only limited analysis of program and grantee
+outcomes.
+Two large-scale ODE efforts — integration of HSS and related grant programs and new district growth
+targets under the Student Success Act — could streamline compliance requirements for HSS recipients,
+increase accountability, and identify effective investments in student success. However, both initiatives are
+in the early stages and require improvements for successful implementation. As we noted in a 2022
+systemic risk report, past K-12 reform efforts in Oregon have been abandoned, reinforcing the importance
+of seeing through full implementation of these initiatives.
+HSS grants have helped expand programs and supports as envisioned in
+Measure 98
+We evaluated spending from 2017-18 through 2022-23, the first six years of the HSS program, and found
+substantial investments in expanded CTE spaces and programs, dropout prevention staff and supports,
+and resources designed to help students better prepare for college and careers. All told, during that time
+over 230 districts, charter schools, and other specialty high schools reported spending $760 million in HSS
+funds for students in eighth through 12th grades. The expenditures primarily went to the three main areas
+identified in Measure 98: dropout prevention, CTE, and college-level opportunities, all anticipated to
+improve student success in high school.
+Oregon Secretary of State December 2024
+Report 2024-34 page 6
+Figure 2: About 80% of HSS funds went to dropout prevention and CTE in the first six years of the program
+Source: Grantee spending reports for 2017-18 to 2022-23
+From 2017-18 to 2022-23, staffing costs were about 63% of total spending. In 2022-23 alone, grantees
+reported funding about 1,200 full-time-equivalent staff with HSS funds.3 The second-largest spending
+category was facilities and equipment, which accounted for another 18%.
+Our review included confirming investments and grantee compliance with HSS statutes. To do this, we
+evaluated spending reports and planning documents from 20 school districts of varying sizes across the
+state that together accounted for one-third of total HSS spending. We visited six of these districts and
+corresponded with the remaining 14.
+Our review found reported spending, including staffing costs, generally appeared reasonable and
+allowable. With several small exceptions, districts appeared to be using HSS funds to pay for programs and
+positions established after December 2016. That date, a statutory cutoff, was designed to ensure districts
+created new programs or expanded existing programs, rather than using HSS funding to replace existing
+funding.
+3 This staff FTE figure is rounded to the nearest 100. Our review found grantee-reported staffing numbers are likely imprecise, though
+they generally appeared reasonable relative to reported staffing costs.
+Substantiating district reporting
+ODE does not check reported grantee spending against documentation, such as invoices, contracts, and
+payroll detail reports. We requested back-up documents or additional detail to support a small selection
+of reported spending or staffing in the 20 districts we reviewed. We did not find substantial problems with
+district responses to this limited request. While ODE could reduce the risk that spending may not be
+accurately reported by requesting supporting documentation, additional oversight needs to be balanced
+against the burden these requests can place on grantees. In our view, the agency could achieve that
+balance by requesting limited documentation from some grantees when spending questions arise or
+when grantee responses provide little detail to support reported high amounts of spending.
+Dropout Prevention,
+42.6%
+Career & Technical
+Education, 36.9%
+College Level
+Opportunities, 13.1%
+Other
+Activities
+7.4%
+Oregon Secretary of State December 2024
+Report 2024-34 page 7
+Administrative costs appeared generally in compliance with statutory caps from 2019-21 to 2022-23. We
+found 13 of approximately 230 grantees reported administrative expenses above the 4% cap for those
+years. In our judgement, the total dollars over the cap — $159,000 over four years we reviewed — were not
+material, comprising 1.2% of total reported administrative costs in that timeframe and less than 0.1% of
+total spending reported.
+We also learned more about where HSS dollars were spent:
+• CTE: Districts invested in construction of new facilities, facility upgrades, and new equipment,
+from welding equipment to flight simulators. They added staff to expand programs and add
+existing programs to more schools. In some cases, they expanded CTE through contracts with
+outside entities.
+• College -level opportunities : HSS-funded staff included college and career coordinators and
+counselors. Districts funded a wide range of activities, such as picking up tuition costs for
+advanced courses, expanding Advanced Placement and International Baccalaureate
+offerings, and partnering with community colleges for dual-credit classes.
+• Dropout prevention : Funding staff for ninth grade on-track or student success teams at high
+schools was a common use of HSS dollars. Funded personnel included attendance and
+graduation coaches, counselors and social workers, instructional specialists and transition
+staff to help 8th-graders move into high school. Grantees also funded summer school
+expansion, staff to use data to identify struggling students, and alternative school options.
+District officials said HSS funding contributed to substantial improvements or helped them recover from
+pandemic setbacks, in combination with other funding. HSS requirements also appear to have protected
+some programs, including CTE programs, that might have been cut amid growing budget challenges.
+District officials also warned that declining enrollment and rising costs are squeezing budgets and could
+lead to cuts that reduce the gains made. A 2024 report from Oregon’s Quality Education Commission
+Bend-La Pine School District
+HSS funds have been “a major contributing factor in our rising graduation rates,” district officials said.
+The funds also helped the central Oregon district increase attention paid to marginalized students,
+“which has multiple ripple effects throughout our schools.” HSS funds paid for graduation coaches at
+each high school and helped increase CTE offerings.
+Scappoose School District
+District officials said HSS funds helped maintain graduation rates above 90% and increase the district’s
+ninth grade on-track rate to above 90%. The district northwest of Portland hired a CTE teacher and an
+interventionist to work with students and support the goals of HSS. It also boosted college credit
+opportunities, with roughly 75 dual-credit courses available, officials said. For two straight years, if high
+school students stayed with the district, “we were able to graduate them on time.”
+Three Rivers School District
+The southwestern Oregon district used HSS funds to pay for graduation coaches at each of its high
+schools, with a focus on building student relationships and on “not letting any student fall through the
+cracks,” district officials said. That student support, aimed at keeping students on track to graduate, has
+helped the district increase graduation rates.
+Oregon Secretary of State December 2024
+Report 2024-34 page 8
+estimates the state would need to invest $11.3 billion in the 2025-27 biennium to maintain current practices
+and resource levels, but it would take an investment of an additional $2.3 billion — about 10% of K-12
+funding from all sources — to achieve a system of effective schools.
+Specific outcomes from HSS investments are difficult to determine with
+mixed high school performance since the measure passed
+Student outcome data suggest CTE, college and career programs, and increased support for students can
+help boost student success. For example, students who participate in CTE courses have higher graduation
+rates, as do students who participate in accelerated learning and students who are on track to graduate by
+the end of ninth grade. However, student outcomes since HSS was implemented are mixed, in part
+because of wide-ranging pandemic challenges. Results for focal student groups, a key state focus, were
+also mixed.
+These overall outcomes are imprecise measures of the HSS program’s impact. HSS is one of many
+funding sources used to increase high school success, the HSS program was not fully funded in its first two
+years, and it is not large relative to total K-12 dollars. Pinning down statistically significant outcomes for the
+program is difficult, even in areas of strong overall performance.
+Student outcomes show mixed results, with graduation rates and CTE measures rising
+and other important outcomes relatively flat or declining
+We evaluated trends in student outcomes related to each of the three HSS areas: CTE, dropout prevention,
+and college-level opportunities. We looked at statewide and district outcome metrics emphasized by ODE,
+focusing on 142 districts with 2022-23 graduation cohorts of at least 25 students.4 Figure 3 shows trends in
+student outcomes related to each category of HSS spending.5
+Figure 3: Statewide and district results were mixed
+Outcome metric HSS Area 2016-17
+Latest Result* Trend Districts Improving
+CTE participation  CTE 62.1% 72.5% Large increase 72%
+CTE participant grad rate CTE 86.3% 88.8% Increase 61%
+4-year Graduation rate  Dropout Prev 76.7% 81.3% Increase 67%
+Ninth grade on-track Dropout Prev 83.4% 83.6% Flat 51%
+Regular attendance Dropout Prev 80.3% 61.9% Large decline 2%
+Dropout/pushout rate  Dropout Prev 3.9% 3.3% Improved 61%
+College-going rate (2020-21) College Ops 62.3% 55.6% Decline 18%
+Accelerated Learning (2021-22) College Ops 34.3% 29.1% Decline 20%
+* 2022-23 school year unless otherwise stated. Source: Auditor analysis of ODE and Education Northwest data.
+4 Smaller districts are more subject to random fluctuations in trends.
+5 The dropout/pushout rate is the only metric where a lower percentage result is better. Regular attendance is based on attendance
+district-wide, not only in high school. Statewide, absenteeism rates are higher in kindergarten and first grade and across all high
+school grades. Percentages of districts improving are based on districts with at least 25 students in their 2022-23 graduation cohort.
+Oregon Secretary of State December 2024
+Report 2024-34 page 9
+The abrupt shift to online learning during the pandemic contributed to sharp decreases in ninth grade on-
+track rates, regular attendance, and college-going rates. Ninth grade on-track has since bounced back to
+pre-pandemic levels.
+In our view, CTE provides the strongest outcome-based evidence for HSS program impact. HSS spending
+on CTE has a straightforward connection to a direct outcome — increasing CTE participation by expanding
+CTE spaces and offerings — and grant recipients reported spending $280.2 million to do so from 2017-18
+to 2022-23.
+ODE data and separate data from Education Northwest, an Oregon-based nonprofit, indicate CTE
+programs, CTE enrollment, and student completion of CTE courses have all increased substantially since
+2016-17, holding steady even through the pandemic. This increased completion of CTE courses extended
+to students from historically underserved races and ethnicities, and also for students with disabilities,
+English Language Learners, and homeless students.6
+Figure 4: CTE participation rates rose before and after HSS implementation
+Source: Auditor analysis of ODE data.
+6 Historically underserved races and ethnicities include four broad Census categories: Hispanic/Latino; Black/African American;
+American Indian/Alaska Native; and Native Hawaiian/Pacific Islander.
+62 61
+72 73
+65 64
+72 73
+15-16 16-17 17-18 18-19 19-20 20-21 21-22 22-23
+●All Students  ● Hispanic/Latino  ●American Indian/Alaska Native
+●Native Hawaiian/Paciﬁc Islander   ●Black/African American
+17-18:
+First year
+of HSS.
+19-20: HSS is
+fully funded.
+March 2020:
+Pandemic
+begins.
+Oregon Secretary of State December 2024
+Report 2024-34 page 10
+Figure 5: CTE participation rates also rose for other student focal groups
+Source: Auditor analysis of ODE data.
+Graduation rates for CTE participants, already high when the measure passed, rose through 2022-23,
+hitting 88.8% that year, well above the 81.3% district average.7
+HSS funds are one way districts support dropout prevention efforts, and dropout prevention is directly
+related to four commonly used student outcomes. Among these four, trends were mixed, with some
+increasing and others staying flat:
+Graduation rates  improved the most from 2016-17 to 2022-23 (including a pandemic rule change
+that temporarily boosted rates in 2019-20). Graduation rates also rose for students with
+disabilities, English learners, migrant and homeless students, and for students across race and
+ethnicity, another encouraging development.
+Despite these gains, Oregon’s overall graduation rates remain low compared to the rest of the
+country.8 In the latest national comparison, based on 2021-22 graduation rates, Oregon ranked
+44th lowest overall, similar to the low ranking that helped spur the 2016 ballot measure.
+7 It is important to note that the connection between CTE course completion and high graduation rates is a correlation — not a proven
+cause. It may be that students who complete CTE courses are more likely to graduate for reasons other than their participation in
+CTE.
+8 In 2022, a legislatively required ODE report indicated Oregon's requirement of 24 credits to graduate was at the high end among
+states, a potential cause of lower ratings. If the required credits did affect graduation rates, core subjects were not the issue. Oregon's
+64 64
+60 60
+72 73
+15-16 16-17 17-18 18-19 19-20 20-21 21-22 22-23
+●All Students  ● Students with Disabilities
+●Homeless Students ●English Language Learners
+2017-18:
+First year
+of HSS.
+2019-20: First
+year HSS is fully
+funded.
+March 2020:
+Pandemic
+begins.
+Oregon Secretary of State December 2024
+Report 2024-34 page 11
+Trends in dropout/pushout rates  are less reliable because of pandemic-era rule changes, but in
+the end, improved — from 3.9% in 2016-17 to 3.3% in 2022-23.
+Ninth grade on -track rates  did not substantially change from 2016-17 to 2022-23, although the
+statewide rate did bounce back from an alarming pandemic dip.
+Regular attendance  — defined as students present for more than 90% of the days they were
+enrolled — dropped sharply after the shift to online learning during the pandemic and has not
+recovered.9
+Figure 6: Graduation rates grew, on-track rates were flat, and regular attendance fell sharply
+Source: Auditor analysis of ODE data.
+District administrators point to the COVID pandemic as a unique disruption to many measures of student
+achievement, including attendance. Students and parents increasingly see attending school as optional,
+they said. Students have more access to online courses and materials, which can be completed quickly,
+and some administrators told us social anxiety has risen leading more students to avoid school.
+required three math credits were middle of the pack, with 17 states requiring four or more credits, as were the three credits required for
+both social studies and science. Almost all states, including Oregon, required four or more English credits. However, the state's
+requirement of one credit each for physical education and health was relatively high, as was Oregon's combined three credits for CTE,
+arts, and world language courses. The report did not analyze how the six remaining required credits, which can include electives,
+compared to other states.
+9 ODE changed graduation requirements and the definitions of dropouts and regular attenders during the pandemic period, affecting
+analysis of HSS outcomes over time. State policy decisions, including suspending a 10-day drop rule for students, depressed dropout
+rates in 2019-20 and 2020-21, then artificially increased them in 2021-22, when the agency reinstated the rules — as a result, rates for
+those three years cannot be compared to other years. Finally, according to ODE, attendance rates for 2020-21 are not comparable to
+rates in other years given changes in attendance rules tied to distance learning.
+2015-16
+2016-17
+2017-18
+2018-19
+2019-20
+2020-21
+2021-22
+2022-23
+Graduation rates 9th grade on track Regular attendance
+2019-20:
+HSS is fully
+funded.
+March 2020:
+Pandemic
+begins
+**
+* Data not available
+2017-18:
+First year of
+HSS funding
+Oregon Secretary of State December 2024
+Report 2024-34 page 12
+District officials describe investing in community-building activities, engagement staff, and extracurricular
+activities, as well as emphasizing CTE electives, as ways to proactively increase attendance. Several
+officials said changes to state truancy law in 2021 have made it more difficult to keep kids coming to school
+by removing pressure on parents.10 Others recommend educating families statewide on why in-person
+attendance is important for future success.
+Metrics assessing college-readiness, meanwhile, have dropped.
+We analyzed college-going rates and participation in accelerated learning.11 College-going rates measure
+how many students attend college within an academic year of graduating high school, while accelerated
+learning is a broad category that includes Advanced Placement and International Baccalaureate courses,
+dual-credit courses offered through partnerships between high schools and colleges, and other forms of
+advanced learning that give students a chance to earn college credit while still in high school.
+Figure 7: Students are going to college and participating in accelerated learning at lower rates
+* Data not available. Source: Auditor analysis of ODE and Education Northwest data
+However, our analysis in this area was somewhat limited — data is not available in key years for both
+metrics, with college-going rates particularly dated. Our accelerated learning participation rates exclude
+Regional Promise, a program eliminated in 2020. Regional Promise data provided by Education Northwest
+is generally limited to three school years: 2016-17, 2017-18, and 2018-19.
+10 The changes, enacted through Senate Bill 817 in 2021, ended the practice of referring families to the judicial system for irregular
+attendance in public schools.
+2015-16
+2016-17
+2017-18
+2018-19
+2019-20
+2020-21
+2021-22
+College-going Accelerated learning
+*
+*
+*
+17-18:First year of HSS
+funding
+SIA ensuresHSS is fully
+funded starting 2019-20.
+March 2020:Pandemic
+begins
+Oregon Secretary of State December 2024
+Report 2024-34 page 13
+College-going rates are also down nationally since the pandemic; in 2020-21, Oregon ranked 36th among
+states.12 Among other factors, district administrators attribute declining college attendance to escalating
+costs, students’ reluctance to take on debt, and students’ need to work to support themselves or their
+families. Students are also increasingly skeptical about the future financial benefits of completing college,
+particularly when jobs that do not require college degrees — such as electricians and other trades, some
+sales and health care jobs, police officers, flight attendants, and entrepreneurial work — can pay relatively
+well.
+Another metric for high school effectiveness in preparing students for college is the need for recent high
+school graduates to take remedial or developmental math and English classes in college. In 2023,
+Oregon’s Higher Education Coordinating Commission reported the percentage of recent Oregon high
+school graduates taking developmental courses in Oregon community colleges dropped from 2016-17
+through 2021-22, with a particular drop in developmental math enrollment. However, the colleges have
+been implementing “corequisite” models for math that place students in college-level classes with extra
+support, instead of placing them in developmental courses. This shift is expected be more effective for
+students needing to develop college-level skills, but it makes remedial course enrollment rates a less
+reliable measure of how well high schools are preparing students for college. Also, the commission
+reported that the percentage of recent Oregon graduates enrolling in college-level writing actually declined
+since 2016-17, while enrollment in college-level math was flat.
+Statewide trends in outcomes and gaps for key focal student groups are also mixed, with
+some gaps remaining alarmingly high
+Improving outcomes and closing “opportunity gaps” — in our analysis, the difference between results for
+focal student groups and the results for all students — are important goals of the HSS program and the K-
+12 education system in general.
+To analyze progress in this area, we primarily focused on students identifying as Hispanic/Latino,
+Black/African American, American Indian/Alaska Native, or Native Hawaiian/Pacific Islander, students with
+disabilities, students who have been English Language Learners at some point in high school, and, when
+data was available, homeless students.
+According to ODE data, CTE participation rates  and graduation rates  rose for all of these groups, often
+substantially, and gaps narrowed for all the groups on graduation rates. Gap closure was more mixed on
+CTE participation, though every group saw double-digit increases in CTE participation from 2016-17 to
+2022-23. Education Northwest data on participation rates, calculated with a different methodology, also
+showed substantial increases and mixed results on gap closure for these groups.
+Conversely, regular attend ance  rates , college -going rates  and accelerated learning rates  fell for each
+of these groups, often substantially. Gaps in regular attendance rates widened in every case — a challenge
+12 The national data, from the National Center for Education Statistics, focuses on 18- to 24-year-olds enrolled in degree-granting
+institutions, a different population than ODE’s college-going metric which focuses on recent high school graduates. The NCES data
+misses a ”shrinking but non-trivial” percentage of college-going students, such as those from some for-profit institutions, which can
+understate enrollment.
+Oregon Secretary of State December 2024
+Report 2024-34 page 14
+to progress on equitable outcomes — and widened for all groups but English Learners for college-going
+rates.
+Hispanic/Latino students had relatively high graduation and ninth grade on-track rates in 2022-23.
+Black/African American students had relatively high college-going rates, while English Learners had
+relatively high regular attendance rates, followed closely by Black/African American students.
+Figure 8: Large gaps remain in graduation rates in 2023
+Source: Auditor analysis of ODE data.
+Many gaps in 2022-23 remained alarmingly high, even when they did fall relative to 2016-17. Gaps still hit
+double digits on multiple metrics for students identifying as American Indian/Alaska Native, Native
+Hawaiian/Pacific Islander, students with disabilities, and homeless students. In 2022-23, outcomes for
+homeless students, who accounted for 8% of the state’s graduation cohort that year, were 20 percentage
+points lower than the all-student average for graduation rates, ninth grade on-track rates, and regular
+attendance.
+Determining the HSS program’s specific impact has been difficult
+To gauge the effect of HSS, we compared 15 measures of district-level HSS spending against changes in
+district outcomes since 2016-17, the year before HSS funding began, and found no moderate or strong
+correlations. Correlations were weak for changes in graduation rates, CTE participation, ninth grade on-
+track, dropout/pushout rates, and regular attender rates. Correlations were also weak for college-going
+rates, though the college-going information is dated, with the most recent available for 2020-21.13
+Several factors could explain these results. The pandemic had a strong negative effect on some outcomes,
+complicating trend analysis. Districts and high schools also rely on multiple funding sources, including
+13 Correlations with district-wide childhood poverty were much stronger, reaching moderate levels for graduation rates, college-going
+rates, and participation in Advanced Placement and International Baccalaureate courses. These negative correlations indicate
+districts with higher proportions of low-income families generally have lower results on these metrics.
+Homeless
+English Learners
+American Indian/Alaska Native
+Students with Disabilities
+Black/African American
+Native Hawaiian/Pacific Islander
+Hispanic/Latino
+All Students
+Migrant
+White
+CTE Participants
+Asian
+Oregon Secretary of State December 2024
+Report 2024-34 page 15
+state, federal, and local funding such as property taxes, making the HSS grant’s impact more difficult to
+tease out.
+The HSS program, while substantial, is also a relatively small portion of a district’s overall budget. Fully
+implemented, the HSS program provides about $800 per student, compared to the roughly $15,700
+Oregon districts spent per student in 2021-22.
+A University of Oregon research team used a more targeted approach to evaluate HSS impacts. Working
+with ODE staff, they ranked implementation of ninth grade student success teams at 277 schools: “Student
+Success Teams and On-Track to Graduation Status in Oregon: An Interrupted Time Series Analysis.” The
+authors analyzed whether schools that implemented the teams more intensively had greater improvement
+in ninth grade on-track rates than those that did not, but they found no statistically conclusive results. They
+also noted the pandemic’s negative effects on outcomes make it more difficult to assess HSS impacts. The
+authors may update the study with 2022-23 results.
+District successes highlight the potential for high school improvement
+During this audit, we found no districts with graduation cohorts of 25 students or more that improved
+across all metrics since the HSS program took effect. However, many districts improved in one or more
+important areas, including several districts we visited during the audit. Leaders and staff in these districts
+told us HSS investments, combined with other funds, have contributed to increased student success,
+including helping districts rebound from pandemic-related decreases.
+CTE participation grew rapidly at Woodburn High School
+Officials in the Woodburn School District, a majority Latino district, opted to invest heavily in CTE. The
+district reported using about 60% of its HSS funds from 2017-18 to 2022-23 to invest in CTE — specifically,
+a new CTE wing at the high school, new and upgraded equipment, classroom supplies, and more student
+opportunities at the Willamette Career Academy, a regional center operated by the Willamette Education
+Service District. Students also have the option to take CTE courses at a nearby community college as part
+of a partnership with the district.
+The investments paid off. CTE participation rose 40% from 2017 to 2023, among the highest increases in
+the state. When auditors visited the high school, students said CTE courses helped to connect them with
+school. Shawn Delay, an engineer who left industry five years ago to teach, offered a tour of the
+Oregon Secretary of State December 2024
+Report 2024-34 page 16
+engineering lab. We observed engineering students learning the basics of computer-aided drafting, solid
+modeling, and robotics. Several were eager to show us complex 3-D printings they made.
+CTE offerings cover a wide range of student interests. Computer science courses introduce programming
+languages such as C++, Python, and Java. Graphic design courses provide experience with Adobe
+Photoshop and Illustrator. Students can take career-specific courses, such as Emergency Medical
+Technician training through dual-enrollment with Chemeketa Community College.
+"I got a job through the CTE program,” said one student guiding our tour of the school, a junior at the time.
+“It’s hard to get a job unless you have experience.”
+Woodburn continues work to improve attendance and graduation rates. Students and district officials think
+CTE programs can help improve those outcomes as well.
+“You can spend billions of dollars on school, but it doesn’t force anyone to go,” said another junior leading
+our tour. “You need to motivate students. [CTE and dual credit courses] keep them motivated because
+they have a goal and are working toward it.”
+Salem-Keizer’s CTE participation rose after investments in their Career Technical
+Education Center and CTE programs at individual schools
+The Salem-Keizer School District spent nearly three-quarters of its HSS dollars on CTE and saw CTE
+participation grow from 61% of the 2016-17 graduating class to 80% of graduates in 2022-23. Combined
+with funds from a 2018 voter-approved bond, the money helped fund programs at individual high schools
+as well as staffing at a central Career Technical Education Center.
+The center offers a wide range of programs, including construction, manufacturing, biotechnology and
+medical science, cosmetology, behavioral health, and aviation. The district provides transportation and has
+eliminated student fees to make the center more accessible to students whose families face financial
+hardship. HSS provided funding for teachers, supplies, and new equipment, including flight simulators for
+the district’s CTE aviation program.
+The district still has challenges, including a low regular attendance rate in 2022-23. District administrators
+and teachers say CTE can help connect students to school and drive student success; graduation rates for
+CTE participants hit 89% in 2022-23, and over 95% for more intensive CTE concentrators.
+Oregon Secretary of State December 2024
+Report 2024-34 page 17
+Teachers and administrators at the Career Technical Education Center emphasized how important these
+programs are for students who face adversity, and provided examples of students leaving programs with
+professional certifications and competitive job offers in their fields of choice. A new behavioral health
+program aims to address staff shortages in Oregon's behavioral health system. It also focuses on building
+students’ life skills, provides mentorships, and seeks to build connections, with students in the program
+reporting a higher sense of belonging than at traditional high schools. Behavioral Health Instructors Erin
+Dannecker and Scott Filley said some of their students, if not connected to the center, would be at risk of
+being lost in a traditional high school model.
+Salem-Keizer also used HSS funds to bolster existing programs, like the center’s construction program.
+Before Measure 98 passed, students in the first year of the construction program focused on constructing
+sheds. The center has since expanded the first-year construction program to focus on home design,
+residential code, and hands-on tiny home construction including electrical, plumbing, and interior finishing.
+As seniors, students build an entire home in a local neighborhood. Some students become licensed
+building code inspectors before they receive their high school diplomas.
+The Career Technical Education Center has heavily expanded their construction program
+Oregon Secretary of State December 2024
+Report 2024-34 page 18
+The Career Technical Education Center continues to expand its programs, including through collaboration
+between programs. For example, students in the construction program are building therapy practice rooms
+and offices for the school’s behavioral health program.
+Parkrose High School used success teams to boost ninth grade on-track rates
+Since the HSS program began, Parkrose High School increased ninth graders on-track to 86%, above the
+state average, with double-digit growth during a time when growth statewide was flat.
+Officials at the diverse district in Multnomah County have focused on a ninth grade on-track success team,
+which aims to ensure that students have a quarter of their required credits by the end of their first year of
+high school. In practice, that means building strong relationships with students through a team of
+administrators, teachers, counselors, and five on-track coordinators funded through HSS. The team also
+draws on district contracts with culturally specific mentor groups that can connect with students.
+“We talk about what steps have worked with the student, and who has strong relationships with the student
+that we can build on.” said Jessica Burbach, a math teacher and the ninth grade on-track lead.
+The on-track coordinators focus on building relationships and act as go-betweens for students and
+teachers, helping to remedy problems. The full ninth grade success team meets regularly to discuss
+individually tailored student supports that can help students succeed. Assistant Principal Kenneth Keys
+works with the rest of the team, tracking data on how students are doing in class and working to build better
+connections with incoming eighth graders. The team can also connect students with mentors and mental
+health support.
+One student, now a sophomore, had low grades and attendance because of what he was going through
+outside of school, but said the ninth grade on-track team  connected him with the on-track coordinator and
+the non-profit Latino Network.
+Keys started meeting with the student’s parents every week, shifting to monthly meetings as he connected
+more strongly to school.
+Oregon Secretary of State December 2024
+Report 2024-34 page 19
+Parkrose’s graduation rates have not risen compared to 2016-17 but have risen in recent years. Research
+indicates keeping students on track early on can be an effective strategy to boost graduation.
+“I hope that the kids will find out what they’re passionate about and go on to be successful in life,” Keys
+said. “Not having a diploma is an unnecessary barrier to that. My worry is we will lose track of them. There’s
+all this stuff going on at home. They just disappear. I worry about what happens to them when they’re not
+here.”
+Graduation rates for Native American students in the Jefferson County School District
+have risen substantially
+In 2022-23, the Jefferson County School District had the largest graduation cohort of Native American
+students in the state. Those students also graduated at a rate of 79% in 2023, a dramatic increase from just
+54% in 2016-17.
+District reports indicate the HSS program helped fund teachers and staff for CTE, dropout prevention, and
+their Future Center, which offers college and career information and one-on-one mentoring services
+tailored to some focal student groups, including Native American students. With the help of other funding
+sources, the district has also hired a Tribal student liaison and graduation coaches focused on indigenous
+students.
+At Madras High, where roughly a third of students are Native American, both the Tribal student liaison and
+the college and career coordinator help juniors and seniors plan their next steps. Students who want to
+jump straight into the workforce have told the school’s Tribal student liaison they are interested in
+construction or firefighting, and others might work at the Tribe’s casino or the Kah-Nee-Ta Hot Springs
+Resort on the Warm Springs Reservation.
+The Native American student center at Madras High School is a space where students can get support and build community
+The graduation coaches have also worked with students and families on increasing attendance. Native
+American student attendance rose from 79% to 89% in the first semester of the 2023-24 school year,
+district officials said. Tony Summers, principal at Madras High School, attributed the district’s
+Oregon Secretary of State December 2024
+Report 2024-34 page 20
+improvements to targeted support. “Having full time staff who can focus on specific groups is pivotal,” he
+said.
+Q and A: A Front-Line Perspective on Student Success
+At Pilot Rock Jr/Sr High School in rural Umatilla County, seniors wanted
+more post-secondary advising than their academic teachers could offer.
+In late 2022, the district used HSS funds to hire education veteran Aaron
+Umpleby as a success coach for the school’s 150 students. In 2023, all
+of the students in the district’s graduation cohort graduated on time.
+Q:  What is the best thing about being a student success coach?
+When you can look a student in the eye and see their personal inward drive come alive. They realize they
+have purpose, they can accomplish more than they thought, or more than their peers, teachers, and
+sometimes even parents have realized.
+Q:  How has Pilot Rock created a culture of post -high school success ?
+Through our ASPIRE, GEAR UP, and AVID programs (designed to improve career and college readiness)
+we work with every student to help them achieve a personal success plan. Students are taking classes
+they are interested in and they are performing well with increased rigor. We also coordinate college and
+career field exploration days, giving many students a new desire through exposure they otherwise would
+not have been given.
+Q:  How can we better prepare students for the workforce?
+It starts in each class. By being consistent and helping students succeed with soft skills, like being on time
+and communicating with their teachers, they learn skills that help prepare them for the workforce. CTE
+classes also help equip them for the workforce.
+Q:  How can we better prepare students for college?
+This is an opportunity for growth. We are working to increase our rigor and expectations at every level in all
+classes. We are also looking for opportunities to help more students begin college classes while in high
+school, which prepare them for college success.
+Q:  How can the state better support students ’ transition into the workforce  and college?
+A big question. We need to support students and teach them how to make decisions that will take them
+closer to their preferred future self. The state’s graduation requirements for classes like personal finance
+help each student with training and life skills. But we also need to ensure that each class is rigorous and
+supported well by administration and staff. I would love to see local districts have the flexibility to include
+more CTE training pathways in secondary education plans and have the financial support to bring new
+opportunities to small rural communities like Pilot Rock.
+Oregon Secretary of State December 2024
+Report 2024-34 page 21
+ODE’s HSS program monitoring and eligibility reviews have improved, yet
+analysis of program performance remains limited
+Over three performance audits, we have seen staff in ODE’s Office of Education Innovation and
+Improvement focus regularly on making improvements, drawing on feedback from grantees and their own
+experiences. ODE has made improvements in the forms they ask HSS grantees to submit, in the guidance
+they provide, and in the intensity of grantees’ connection with ODE and community partners.
+ODE staff review grantee plans, budgets, and spending and help grantees understand what is allowable
+with HSS funds. The agency’s regional teams intentionally build relationships across the state, helping
+connect school district staff with needed supports. The agency also consistently focuses on equity.
+Overall, ODE’s eligibility reviews of HSS grantees stand out as a potential strength, while the agency’s
+limited review of HSS program and grantee outcomes was an important deficit.
+Eligibility reviews can help foster student success
+ODE’s grantee eligibility reviews stood out to us as an example of positive direct intervention. Despite a
+lack of consistency in ODE staff notes from these reviews, some showed promise for helping promote
+district practices that benefit students.
+In late 2020, ODE staff began reviewing eligibility for all HSS grantees. These statutorily required reviews
+focus on important practices that can increase equity and improve student results at high schools, such as
+ensuring at-risk students stay on track to graduate. The eligibility requirements were included in statute to
+improve students’ progress toward graduation beginning with grade 9, increase the graduation rates of
+high schools, and improve high school graduates’ readiness for college or career.14
+After districts complete a self-evaluation, ODE staff meet with them to discuss strengths and areas for
+improvement. Beginning in the 2021-23 biennium, grant recipients that did not meet eligibility requirements
+after initial ODE recommendations were placed on corrective action plans, which allowed ODE to direct a
+portion of HSS funding toward that goal. In 2021-23, 40 of 224 grantees were placed on corrective action
+plans. Thirty-two of them reported spending HSS funds to address the corrective action plans, though in
+relatively small amounts totaling about 1% of reported spending for the biennium.
+14 ORS 327.883
+To be eligible for grants, HSS grantees must:
+• Provide time for staff to review student grades, absences, and discipline by school and course;
+• Identify and implement strategies to ensure at-risk students stay on track to graduate;
+• Use evidence-based practices for reducing chronic absenteeism in grades 9 through 12;
+• Ensure that high school students — including English Language Learners — are taking courses
+required for on-time graduation; and
+• Assign high school students to advanced and dual-credit courses based on academic
+qualifications in order to avoid bias in course assignments.
+Oregon Secretary of State December 2024
+Report 2024-34 page 22
+The reviews are intended to be part of an ongoing improvement framework, yet school district officials we
+heard from expressed mixed opinions on their effectiveness. One district administrator said eligibility
+reviews were too broad to be helpful, and another called the process cumbersome. However, officials at
+one rural district said the review helped them develop more of a growth mindset. Officials at a large urban
+district said ODE provided clear feedback that allowed the district to comply with eligibility requirements.
+To gauge the impact of ODE’s eligibility reviews, we looked at documentation from eligibility meetings for
+the 20 districts chosen for our spending review. ODE’s notes for seven of the districts lacked detail or
+indicated minimal focus on low student outcomes. In 13 of the districts, the reviews appeared to be
+thorough. In some cases, ODE staff recommended actions in areas the districts still needed to work on,
+and we saw grantees addressing potentially significant shortfalls during the review. For example:
+• A rural district added collaboration time for teachers into their schedules and began the district’s
+interventions with struggling students.
+• A large urban district developed a districtwide approach to tracking attendance.
+• ODE staff worked with staff in one small district on a corrective action plan to re-direct funds to a
+tutoring center that supports students enrolling in advanced coursework.
+While ODE focuses eligibility reviews on whether districts have systems in place, they do not have a
+process to determine whether systems are effective once they have been established.
+ODE’s review of HSS program and grantee outcomes is limited
+The most substantial deficit we saw in ODE’s process was the agency’s limited monitoring of HSS program
+outcomes.
+ODE required grantees to report on HSS goals. Grantees set and reported on more than 1,200 goals
+overall, making it difficult for ODE staff to meaningfully track or assess. In addition, grantees’ reporting
+provided limited insight on HSS program success. In 2022-23, grantees told ODE they had made progress
+on nearly two-thirds of the goals and met a quarter of them. However, not all grantees provided data to
+support the outcomes they reported, reducing the validity of the reporting. Grantees also reported no
+results for nearly 10% of the goals. It is also not clear if ODE is evaluating or using this reporting for grant
+management.
+In general, ODE has not taken a systemic approach to monitoring or reviewing the HSS program as a
+whole, instead focusing on monitoring individual districts and grantees. One consequence is the agency is
+less able to report in detail on how the HSS program has met its goals, six years after the program began.
+ODE has also not identified and evaluated HSS program outcomes or used information gathered from
+districts to identify successful strategies for increasing student success. Interviews indicated some
+Education Service Districts are emphasizing effective HSS practices with their regions, but ODE has not
+yet done this statewide, though the HSS statutes emphasize implementing strategies for school districts to
+share best practices.
+Oregon Secretary of State December 2024
+Report 2024-34 page 23
+ODE must ensure effective implementation of program integration and
+new district growth targets to help increase student success systemwide
+In 2019, the Legislature passed the Student Success Act, which provided more funding for education and
+initiated two changes with the potential to improve performance in all grades.
+• Program Integration : The Legislature required ODE to look for ways to simplify the grant system. The
+agency has responded in part by consolidating grantee applications, budgets, financial and
+performance reporting, and monitoring for nine grant programs, all of them important to school
+improvement. Among those grant programs are HSS, a new statewide early literacy program, federal
+CTE and Title I school improvement programs, and the Student Investment Account passed as part of
+the Student Success Act. All told, the integrated programs account for more than $1.5 billion in planned
+spending in the 2023-25 biennium, including $1.1 billion for the Student Investment Account and $325
+million for HSS. Grant integration has the potential to streamline compliance requirements for districts
+and allow the districts and ODE to spend less time on grant compliance and more on increasing
+system performance.
+• District growth targets : The Student Success Act also prompted ODE and districts to jointly create
+“Longitudinal Performance Growth Targets” (LPGTs) for Student Investment Account grantees to
+track district progress on five key student outcomes, ranging from third-grade reading to graduation.
+These targets and other performance review measures, including continued HSS eligibility reviews and
+corrective action plans, can help ODE both increase accountability and identify effective investments
+in student success. However, HSS grantees who do not also receive Student Investment Account
+funds are not required to set LPGTs, and only districts receiving HSS funds are required to participate
+in HSS eligibility reviews and related corrective action plans.
+These initiatives have promise, but could be derailed by ineffective implementation, as the state has seen
+with other K-12 reform efforts. Five years after the Student Success Act passed, both initiatives are still in
+the early stages, in part because of pandemic delays.
+Accountability does not have to include punishing districts with low results, part of the path taken by the
+federal No Child Left Behind Act of 2002. At the state level, accountability requires ODE to verify how
+program funds are spent, determine whether funded activities benefit students, identify and share
+successful strategies, assist struggling districts, and report program performance and challenges to policy
+makers.
+As HSS has been integrated with other programs with complementary goals, improvements to ODE’s
+accountability processes will affect programs beyond HSS. It is too early in the integration process to know
+whether the changes will be effective, but past challenges with HSS can help inform future
+recommendations. We reviewed the application, budgeting, and reporting process for integrated grants
+and all district LPGT submissions for the 2023-25 grant cycle, including related notes by ODE review
+teams to understand how the new monitoring processes will affect HSS recipients. Our analysis found
+ODE can take four steps to increase the likelihood of success, learning from drawbacks in HSS progress
+reporting and building on progress the agency has made so far. In sum, ODE can do more to:
+• Streamline administrative requirements for districts;
+• Ensure it can determine why district strategies worked or did not;
+• Foster statewide discussion of effective practices; and
+Oregon Secretary of State December 2024
+Report 2024-34 page 24
+• Provide meaningful reporting to policymakers and the public.
+ODE can do more to reduce burdens on districts receiving HSS funds
+ODE’s program integration and consolidation is a strong start, and ODE’s formation of the Office of
+Education Innovation and Improvement put more efforts under one department. Even so, the agency, with
+help from the Legislature and the State Board of Education, needs to standardize reporting systems and
+streamline district requirements across more grants and initiatives. Doing so could streamline school
+district workload and foster a sharper state and district focus on student outcomes, but integration of
+additional grants without standardizing compliance and reporting requirements could introduce more
+administrative burden. ODE may need help from the Legislature and the State Board of Education to do so.
+District frustration with ODE monitoring stems in part from substantial requests of school districts tied to
+multiple grants, each with unique compliance requirements, and from more than 50 student data
+collections. The danger for system improvement is that well-intentioned reforms can become checkbox
+exercises for overloaded districts.
+During this audit we asked district officials about the impact of ODE report integration. While some
+appreciated the intent behind consolidation, many remain frustrated by inefficient and redundant
+documentation requirements. In the HSS program, some district administrators said they were not sure
+how ODE reviewed the reporting or used it to improve performance. Reporting requirements were also the
+same for all HSS grantees, regardless of size, a particular concern for small districts with few administrative
+staff.
+ODE has addressed some of these concerns as part of the integration process. For instance, the agency
+consolidated more programs, simplified application forms for smaller districts, and reduced the amount of
+reporting for districts. Other concerns are difficult to address. ODE cannot override federal grant
+requirements or state statutes, and the student data the agency collects are important for system
+accountability.
+However, the ODE grant process has more opportunities for streamlining. We saw two issues that
+contribute to district overload that ODE, the State Board of Education, and legislators could better address.
+The first is ODE’s use of multiple reporting systems. Grantees submit spending requests to a central grant
+database and submit extensive reports on planning, budgets, spending, and progress through a separate,
+spreadsheet-based system that was developed for HSS and expanded to include other programs. This
+approach means districts have to navigate different systems, which can change as new grants are
+established. Some reporting has been standardized across more grants as part of the integration process,
+Oregon has not sustained past improvement efforts
+As our office noted in its 2022 report on systemic risks in K-12 education, Measure 98 and the Student
+Success Act together comprise Oregon’s fourth major K-12 improvement effort since the 1990s. The
+key reforms of the previous three — the Oregon Educational Act for the 21st Century in 1991; the
+Oregon Investment Board in 2011; and the Chief Education Office that eventually replaced the board
+— were all abandoned.
+Oregon Secretary of State December 2024
+Report 2024-34 page 25
+but opportunities exist to further consolidate reporting. For example, Washington uses a centralized grant
+management system for submission, reporting, and review.
+The second issue that could be addressed is the number of grants, each with specific requirements. Our
+2022 report on systemic risks in the K-12 system noted ODE administered more than 108 state and federal
+grants, with new grants and initiatives added each legislative session — including 22 in the 2021 legislative
+session alone.
+The Legislature sets specific requirements for each new program, and the State Board of Education adds
+more through administrative rules. ODE officials note reporting requirements for grants and initiatives are
+often introduced without a built-in sunset, and they stay in place even as new programs are created.
+Requirements set in statute or rule are not easily changed if they prove cumbersome, redundant, or not
+useful to school improvement efforts. Federal programs also come with their own rules which cannot be
+changed by ODE or the Oregon Legislature.
+The cumulative requirements significantly increase reporting burdens and require districts to work with
+different ODE personnel overseeing different grant programs. A significant part of ODE’s monitoring
+focuses more on process and compliance than on student outcomes due in part to this complexity.
+ODE has worked with the State Board of Education to find some opportunities to simplify. The Legislature
+can do more to consolidate requirements and revisit statutes and rules that are not generating useful
+information. It can also do more to ensure new grants and initiatives do not add unnecessary administrative
+burdens.
+ODE should ensure it can determine whether district strategies are working
+Districts that receive funds from the Student Investment Account — the biggest dollar item in the Student
+Success Act of 2019 — are required to develop long-term and interim growth targets for student outcomes,
+collectively known as LPGTs. ODE plans to use these targets as part of their integrated monitoring system
+to help improve student outcomes, including outcomes for focal student groups, expanding its focus
+beyond the performance of single grants. Districts that receive both HSS and Student Investment Account
+funds will participate in this process. Districts that receive HSS funds, but not funds from the Student
+Investment Account, are not required to participate but may benefit from doing so.
+Oregon Secretary of State December 2024
+Report 2024-34 page 26
+Districts and ODE staff co-developed targets for the 2023-25 biennium in Summer 2023 and have begun
+submitting reports on progress. Getting district administrators, school boards, and ODE staff to jointly
+agree on these common performance goals is a big step forward and holds substantial potential for
+improving the system.
+The growth targets start at a good point and ODE is close to building a system that can spotlight ground-
+level successes and challenges. The targets clearly quantify expected results for five global outcomes in a
+way that can be tracked. Districts identify related strategies and activities and tie them to their requested
+budget and reported spending and staffing.
+However, LPGT growth targets do not provide information about some critical HSS goals, including
+improving CTE and accelerated learning participation and college-going rates. These may be included in a
+district’s additional goals but are not required, leaving a potential gap in HSS program monitoring.
+District reporting also relies heavily on non-standardized narratives to make the link between planned
+activities and expected outcomes. These narratives are difficult to aggregate and lack quantifiable data, as
+was the case with the HSS goal reporting. In our review of LGPT setting, we found some districts estimated
+expected growth and detailed specific spending on staff and programs they felt would generate that
+growth. Other districts estimated future performance with little support or rationale, because that
+documentation is optional.
+There is also no requirement that districts establish baseline data or identify quantitative measures other
+than LPGTs when setting goals, strategies, or related activities as part of the budget process. The
+integrated application and district reporting rely on narratives, and annual reports for the 23-24 academic
+year include only two questions: reflect on overall progress and reflect on challenges encountered. To
+reduce reporting burdens, each question asks districts to discuss “at least one outcome.”  The result is a
+partial description of district progress that complicates analysis of the program’s effectiveness.
+LPGTs and Progress Markers
+Districts that apply for Student Investment Account funds and enroll more than 80 students must
+report performance on five common metrics: Four-Year Graduation, Five-Year Completion, Ninth
+Grade On-Track, Regular Attendance, and Third Grade Reading. ODE works with districts to
+determine how much progress to expect on each measure.
+Districts must report two sets of performance improvement targets each biennium: one for all
+students and another for a combined group of focal students. Targets must reflect continuous
+improvement each academic year. Districts can also set locally specific targets at their discretion,
+such as reducing teacher-to-student ratios, increasing student club offerings, or improving
+performance on other metrics. The process includes both expected goals and higher “stretch” goals.
+ODE also asks districts to report on 15 “Progress Markers,” or practices that should help increase
+student success. The practices center on family engagement, equity and inclusion, curricular
+innovation, and data-driven decision making. Districts self-report their progress on markers they
+select. Unlike ODE’s review of eligibility requirements in the HSS program, ODE officials say they do
+not see the markers as part of a district accountability system.
+Oregon Secretary of State December 2024
+Report 2024-34 page 27
+The missing step is to ensure all districts connect planned activities — such as adding staff to ninth grade
+success teams or expanding CTE programs — to an expected increase in growth targets, or a quantifiable
+interim goal. By doing this, the districts and ODE could identify which strategies worked, which did not, and
+why. This step is a crucial aspect of accountability and system improvement.
+ODE plans to review the first round of growth target analysis to see how districts met targets. Part of that
+review will include a 90-minute discussion with each district. However, it is not clear the current system,
+with its lack of required detail, will collect the information needed for that process to work. High district
+turnover can make it difficult for new officials to explain the results of past activities, particularly when
+documentation is scarce and baseline data on staffing or outcomes was not documented from the
+beginning. Adding a requirement that districts include some quantifiable measures for their goals,
+strategies, and activities could provide a way for ODE to reduce the number of narrative questions they
+require. Requiring these quantified measures alongside LPGTs could serve as a jumping off point for their
+regular discussions with district administrators, and ODE could set internal expectations for what staff
+should discuss and document during these meetings. Doing so while ODE is still rolling out accountability
+processes for integrated programs will allow ODE to collect baseline data on grantee goals.
+ODE can do more to foster statewide discussion of what works
+ODE has helped disseminate some important practices:
+• Some districts conduct empathy interviews, where school officials talk with students about
+what they need.
+• Oregon’s Quality Education Commission prepares a biennial “Quality Education Model” report
+on staffing and funding required to meet Oregon’s education goals, which includes high-level
+discussion of best practices.
+• ODE’s Every Day Matters program, which focuses on attendance, details steps districts can
+take.
+• Individual state programs to increase the success of specific focal student groups, such as
+African-American students and Latino students, also detail both high-level and specific
+strategies.
+Information from district progress on LPGTs and additional goals can provide additional concrete, ground-
+level examples. To start, ODE could look at data from its own LPGT implementation process, which
+includes improvement rates for the Top 10% of districts to help districts set targets. At this point, ODE does
+not clearly describe which districts are included within Top 10% metrics or what practices they used to
+drive above-average performance. More information on the results of planned district activities can add to
+this detail.
+ODE needs to better report results and challenges to policymakers and the public
+ODE’s efforts for HSS and other integrated grants focus largely on results in individual districts. The
+agency has not yet developed a plan to report summaries of progress and results once LPGT outcomes
+are clear. ODE needs a plan for systematic evaluation that quantifies outcomes, explains how strategies
+are expected to improve outcomes, and verifies whether those improvements have occurred. This plan
+should identify data sources so the agency can ensure the right data are available and collected.
+Oregon Secretary of State December 2024
+Report 2024-34 page 28
+As we noted in our 2022 systemic risk report, meaningful reporting is crucial for the Student Success Act to
+be effective. The act’s requirements for student growth targets and evaluation by ODE could generate
+meaningful public reporting, but it is not clear yet how ODE will report these results and evaluations.
+Our overall concern is that ODE’s reporting to policy makers and the public on district results under HSS
+and the Student Success Act will be limited to high-level LPGT results, self-reported district results on
+some progress markers, and excerpts from selective narrative reports by districts on successful strategies
+and challenges.
+With effective planning, ODE can provide reports to the Legislature that highlight student outcomes,
+effective practices, and identify challenges districts face — such as teacher shortages in key areas — that
+may need legislative action. With nearly 200 districts in Oregon and multiple goals for each, this will not be
+a simple task. ODE rightly notes improvement on outcome metrics like graduation rates may take time to
+materialize — the agency does not expect to have outcome trends it can act on until 2026 — and may
+focus mainly on the more nebulous district progress markers to start.
+This limited focus, particularly given the years that have passed since the HSS program and the Student
+Investment Account began, is likely to be more accepted by state leaders and the public if the agency can
+detail how it plans to identify and report on successful practices and effective spending. A plan for effective
+reporting to the Legislature and the public could also give policymakers more confidence when considering
+increases in state funding for K-12 schools.
+Recommendations
+Oregon Secretary of State December 2024
+Report 2024-34 page 29
+To strengthen its ability to promote improvements in student success through HSS, ODE should:
+1. Update ODE processes for HSS grantees to enable ODE to collect baseline data, efficiently connect
+strategies to results, identify effective investments in student success, and identify barriers that policy
+makers can address. ODE should:
+a. As part of the biennial planning process, work with grantees to identify measurable indicators
+relevant to the strategies they choose to invest in, including CTE participation and accelerated
+learning rates where applicable. Grantees should briefly explain, and ODE should document,
+the effect strategies are expected to have on LPGTs, Local Optional Metrics, or other
+measurable indicators, to better understand whether expectations are appropriate.
+b. Collect and review outcome data on the measurable indicators selected during the biennial
+planning process, in addition to any LPGTs and Local Optional Metrics.
+c. As part of biennial plan approval, ensure that grantees consider past performance and address
+strategies that aren’t working.
+d. Ensure ODE collects information during quarterly and annual reporting to understand whether
+a strategy is effective for multiple grantees and what common challenges grantees face in
+adopting their strategies.
+e. Consider adopting these processes for grantees who participate in other programs integrated
+with HSS.
+2. Develop a plan for how ODE will use any information requested from grantees so grantees are only
+asked to provide information ODE will use.
+3. To ensure eligibility requirements meet statutory intent, develop a process to evaluate whether
+systems implemented in high schools to meet eligibility requirements improve students’ progress
+toward graduation beginning with grade 9, increase the graduation rates of high schools, and improve
+high school graduates’ readiness for college or career.
+4. Develop a plan to document and share strategies statewide that have been effective at helping
+grantees meet their targets or overcome challenges, including the roles played by ODE staff,
+Education Service District liaisons, and any other external partners.
+5. No later than the 2026 legislative session, report to the Legislature on how ODE plans to identify,
+disseminate, and report on successful practices, effective spending, and statewide challenges facing
+grantees.
+To reduce administrative demands on districts and enable ODE staff to focus more on student success,
+ODE should work with the State Board of Education and Legislature to further:
+6. Integrate related grants.
+7. Standardize reporting systems.
+8. Make compliance requirements more efficient.
+Objective, Scope, and Methodology
+Oregon Secretary of State December 2024
+Report 2024-34 page 30
+OBJECTIVES
+1. To what extent have HSS funds resulted in expanded CTE offerings, increased college-level
+opportunities, and added additional dropout prevention supports for Oregon students?
+• How have program participants spent their funds?
+• Have HSS investments expanded CTE programs?
+• Have HSS investments expanded dropout prevention strategies?
+• Have HSS investments expanded college readiness programs?
+2. Have HSS funds had a positive impact on graduation rates and students’ college and career readiness?
+• To what extent have HSS funds improved key outcome measures?
+• To what extent have program participants closed access gaps (i.e. the ability to participate) for
+focal student groups?
+• To what extent have program participants closed outcome gaps (i.e. whether students benefit
+from the interventions) for focal student groups?
+SCOPE
+This audit examined HSS spending for the first six years of the program and the impact of the HSS funds
+on program participants and student success. It also examined ODE’s monitoring of the HSS program, its
+efforts to integrate programs, including the HSS program, and its efforts to help districts set and report
+LPGTs. While the audit did include review of monitoring under the new integration, it did so only as it relates
+to the HSS program.
+METHODOLOGY
+To meet our objectives, we performed the following procedures:
+• Documented requirements for the program under Oregon statute and administrative rule;
+• Reviewed best practices for increasing or expanding CTE, increasing access to college-level
+opportunities, dropout prevention, and reduction of chronic absenteeism;
+• Reviewed best practices for grant distribution and accountability, performance monitoring,
+provision of technical assistance, and sharing best practices;
+• Reviewed HSS documentation submitted to ODE by program participants, including grant
+agreements and amendments;
+• Conducted interviews with agency staff and external stakeholders;
+• Reviewed previous HSS program analyses  by ODE and external parties;
+• Reviewed ODE's monitoring and support for program participants;
+• Evaluated grantee-reported spending and staffing data from 2017-18 through 2022-23, the
+first six years of the HSS program;
+• Analyzed datasets related to success in high school from ODE, Education Northwest, and
+national sources to evaluate Oregon high school results on key outcome metrics since the
+program took effect;
+Oregon Secretary of State December 2024
+Report 2024-34 page 31
+• Selected 20 districts for in-depth spending and performance review, visited six of them, and
+corresponded with the remaining 14 districts. Site visits included program tours and Interviews
+with school and district staff, teachers, and students;
+• Analyzed the potential impact of district-level HSS spending on district level metrics;
+• Calculated correlations of changes in district level outcomes since 2016-17 against 17
+variables: district child poverty levels, the size of the district’s 2022-23 graduation cohort, and
+15 measures of district-level HSS spending; and
+• Reviewed the application, budgeting, and reporting process for integrated grants and all
+district LPGT submissions for the 2023-25 grant cycle, including related notes by ODE review
+teams.
+Our analysis of outcome metrics relied in part on confidential student outcome information by district or
+school that is suppressed in public records to avoid inadvertently identifying results for individual students.
+This information was not included in the report.
+Our judgmental selection of 20 districts to review in depth focused on districts of various sizes, urban and
+rural districts, representation from multiple regions within the state, poverty levels, results on outcome
+measures, and size of student groups by race and ethnicity. The 20 districts reported spending $253
+million in HSS funds from 2017-18 to 2022-23, a third of the $760 million in total spending reported for the
+six years.
+DATA RELIABILITY REVIEW
+Our assessment of the reliability of data used in this audit focused on grantee-reported spending and
+staffing data and on high school performance outcome metrics reported by ODE and Education Northwest.
+The Education Northwest reporting drew on data from ODE, the Higher Education Coordinating
+Commission, and the National Student Clearinghouse.
+We evaluated data reliability by reviewing reliability assessments conducted by this office in previous
+audits of ODE and the Higher Education Coordinating Commission, requesting and reviewing up-to-date
+information about data and systems, corresponding with ODE and Education Northwest officials about the
+data, reviewing HSS program spending data in detail for 20 school districts, and examining district
+responses and supporting documents for a limited subset of reported spending transactions in these
+districts.
+For outcome metrics, we determined trends reported for economically disadvantaged students were not
+reliable because federal rules intended to expand eligibility for free-and-reduced price lunches — the basis
+for defining students in the economically disadvantaged category — have begun allowing all students at
+certain schools to qualify without income verification, reducing year-to-year comparability. We also
+determined key outcomes and counts, including dropout rates, ninth grade on-track rates, graduation
+rates, regular attender rates, and the number of CTE programs, were less reliable during the pandemic,
+also reducing comparability. Finally, we determined outcome trends for small districts can be less reliable
+because small fluctuations — such as having slightly more graduates than in years past — can
+substantially affect outcome results.
+For HSS spending and staffing reported by grantees, we determined grantee-reported staffing numbers
+appeared to be imprecise, reliable for our purposes only in the statewide aggregate. We also concluded
+Oregon Secretary of State December 2024
+Report 2024-34 page 32
+statewide HSS spending data is likely more reliable than individual grantee spending data. As a result, the
+spending data included in this report is only at the statewide level.
+After accounting for these issues, we determined the reported spending and staffing data and performance
+outcome data from ODE, the Higher Education Coordinating Commission, and Education Northwest were
+sufficiently reliable for the purposes of this report.
+INTERNAL CONTROL REVIEW
+We identified deficiencies in the following internal controls significant to our audit objectives.15
+• Control activities
+o ODE co-development, approval, and monitoring of LPGTs and Local Optional Metrics
+• Information and communication
+o Sharing of best practices
+o Collecting high quality, accurate data
+o Public reporting
+Deficiencies with these internal controls were documented in the results section of this report.
+We conducted this performance audit in accordance with generally accepted government auditing
+standards. Those standards require that we plan and perform the audit to obtain sufficient, appropriate
+evidence to provide a reasonable basis for our findings and conclusions based on our audit objectives. We
+believe that the evidence obtained provides a reasonable basis for our findings and conclusions based on
+our audit objectives.
+We sincerely appreciate the courtesies and cooperation extended by officials and employees of ODE and
+school districts during the course of this audit.
+ABOUT THE SECRETARY OF STATE AUDITS DIVISION
+The Oregon Constitution provides that the Secretary of State shall be, by virtue of the office, Auditor of
+Public Accounts. The Audits Division performs this duty. The division reports to the Secretary of State and
+is independent of other agencies within the Executive, Legislative, and Judicial branches of Oregon
+government. The division has constitutional authority to audit all state officers, agencies, boards and
+commissions as well as administer municipal audit law.
+15 Auditors relied on standards for internal controls from the U.S. Government Accountability Office, report GAO-14-704G.
+Audit team
+Andrew Love, CFE, Audit Manager
+Krystine McCants, MEcon, CIA, Principal Auditor
+Scott Learn, M.S.J., Principal Auditor
+Denise Brock, M.Ed Staff Auditor
+Matt Kaufman, Ph.D., CPA, CISA, Staff Auditor
+Dorian Pacheco, MPA, Staff Auditor
+Oregon achieves . . . together!
+255 Capitol St NE, Salem, OR 97310  |  Voice: 503-947-5600  | Fax: 503-378-5156  |  www.oregon.gov/ode
+Dr. Charlene Williams
+Director of the Department of Education
+December 6, 2024
+Kip Memmott, Director
+Secretary of State, Audits Division
+255 Capitol St. NE, Suite 180
+Salem, OR 97310
+Dear Mr. Memmott,
+This letter provides a written response to the Audits Division’s final draft audit report titled, “High School
+Success Grants Have Expanded Important Programs, but ODE can do More to Identify and Share Effective
+Strategies.”
+Thank you for highlighting the work underway at the Oregon Department of Education (ODE) through the
+High School Success initiative. The recommendations offered will support our continuous improvement
+efforts both through High School Success as well as our efforts across the agency to increase collaboration,
+reduce duplication of effort, and streamline efforts to support students on their path to graduation and
+beyond.
+Thank you to the Audits Division staff for the engagement, conversations, and intentional recommendations
+to support and strengthen our work.
+Below is our detailed response to each recommendation in the audit.
+Oregon Department of Education
+255 Capitol St NE, Salem, OR 97310  |  Voice: 503-947-5600  | Fax: 503-378-5156  |  www.oregon.gov/ode
+RECOMMENDATION 1
+Update ODE processes for HSS grantees to enable ODE to collect baseline data, efficiently connect
+strategies to results, identify effective investments in student success, and identify barriers that policy
+makers can address. ODE should:
+A. As part of the biennial planning process, work with grantees to identify measurable indicators
+relevant to the strategies they choose to invest in, including CTE participation and accelerated learning
+rates where applicable. Grantees should briefly explain, and ODE should document, the effect strategies
+are expected to have on LPGTs, Local Optional Metrics, or other measurable indicators, to better
+understand whether expectations are appropriate.
+B.  Collect and review outcome data on the measurable indicators selected during the biennial
+planning process, in addition to any LPGTs and Local Optional Metrics.
+C. As part of biennial plan approval, ensure that grantees consider past performance and address
+strategies that aren’t working.
+D. Ensure ODE collects information during quarterly and annual reporting to understand whether a
+strategy is effective for multiple grantees and what common challenges grantees face in adopting their
+strategies.
+E. Consider adopting these processes for grantees who participate in other programs integrated with
+HSS.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number of specific
+point of contact for implementation
+Agree June 2027
+Maggie Mashia
+503-559-0736
+Narrative for Recommendation 1
+ODE supports this recommendation.  It has overlap with several of the other recommendations around
+dissemination of good strategies to help grantees meet their student’s educational goals; those components
+are within the scope that can be addressed over the next few years.
+To be in good partnership with grantees, and not substantially increase administrative burden for the 2025-
+27 biennium’s application cycle, ODE will thoughtfully consider how to meet the intent of this
+recommendation while staying within the purview of the HSS legislation.
+ODE will further review existing legislation; hold listening sessions with grantees on how to approach this
+recommendation while making it a fruitful exercise for grantees; and consider the technical, legislative, and
+State Board steps needed. ODE does not expect to make any changes to the format or measurability of the
+grantee outcomes prior to the 2027-29 biennium.
+Additionally, it is important to note that a few items included in this recommendation are already in place or
+are planned to be in place within the next few years, including: (c) the consideration of past performance and
+Oregon Department of Education
+255 Capitol St NE, Salem, OR 97310  |  Voice: 503-947-5600  | Fax: 503-378-5156  |  www.oregon.gov/ode
+strategies that aren’t working; and (d) reviewing grantee reporting for strategies that are effective across
+multiple grantees.
+RECOMMENDATION 2
+Develop a plan for how ODE will use any information requested from grantees so grantees are only asked
+to provide information ODE will use.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number of specific
+point of contact for implementation
+Agree
+June 2027
+Maggie Mashia
+503-559-0736
+Narrative for Recommendation 2
+All of the information currently requested as part of the application submission are based on requirements
+rooted in statute. All programs under the Integrated Application, including HSS, use this information to learn
+what a grantee is hearing from their community and discovery through the needs assessment process. The
+information in the application also provides insight into the outcomes and strategies established, as well as
+challenges grantees are facing. We have adjusted what information we collect during quarterly and annual
+reporting to reduce administrative burden for grantees, and ensure information is used for further
+improvement.
+Furthermore, ODE continues to explore opportunities to develop systems to effectively review and analyze
+information gathered in order to identify instances of duplication and establish more effective information
+sharing across the agency.
+RECOMMENDATION 3
+To ensure eligibility requirements meet statutory intent, develop a process to evaluate whether systems
+implemented in high schools to meet eligibility requirements improve students’ progress toward
+graduation beginning with grade 9, increase the graduation rates of high schools, and improve high school
+graduates’ readiness for college or career.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number of specific
+point of contact for implementation
+Agree
+June 2027 Maggie Mashia
+503-559-0736
+Narrative for Recommendation 3
+Oregon Department of Education
+255 Capitol St NE, Salem, OR 97310  |  Voice: 503-947-5600  | Fax: 503-378-5156  |  www.oregon.gov/ode
+ODE staff will engage in a process to assess system implementation as it relates to HSS eligibility starting in
+September 2025 and continuing through December 2026. During that time frame grantees will have
+opportunities to meet with ODE staff to demonstrate that required systems, as described in the HSS Eligibility
+Rubric, are fully in place to support every high school student. Any HSS grantee still not meeting eligibility will
+be put on a Corrective Action Plan for the 27-28 school year where a portion of their HSS funds will be
+directed by ODE to target the area(s) of eligibility that still remain unfulfilled.
+As we move through the eligibility review process ODE will analyze available student outcome data related to
+graduation rates, 9th Grade On-track, and other measures connected to college and career readiness to
+assess the effectiveness of systems implementation as measured by the eligibility reviews.
+RECOMMENDATION 4
+Develop a plan to document and share strategies statewide that have been effective at helping grantees
+meet their targets or overcome challenges, including the roles played by ODE staff, Education Service
+District liaisons, and any other external partners.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number of specific
+point of contact for implementation
+Agree  June 2026
+Maggie Mashia
+503-559-0736
+Narrative for Recommendation 4
+ODE staff have already begun examining student outcome data to identify grantees with high achievement
+levels across all students and focal student categories. From there, staff further analyze to identify those
+grantees who have seen significant and / or consistent growth year over year. The next step is to identify the
+strategies, or individual activities, grantees identified as part of their Integrated Application & Budget.
+To build on this work, ODE will continue to analyze and reach out to grantees to learn additional contextual
+information and how grantees overcame the challenges or barriers they experienced. As we gather this
+information, we will establish a system by which we publish our findings and share annually, at a minimum, in
+order to provide an additional resource for planning and implementation.
+RECOMMENDATION 5
+No later than the 2026 legislative session, report to the Legislature on how ODE plans to identify,
+disseminate, and report on successful practices, effective spending, and statewide challenges facing
+grantees.
+Oregon Department of Education
+255 Capitol St NE, Salem, OR 97310  |  Voice: 503-947-5600  | Fax: 503-378-5156  |  www.oregon.gov/ode
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number of specific
+point of contact for implementation
+Agree  December 2025
+Maggie Mashia
+503-559-0736
+Narrative for Recommendation 5
+ODE will submit a report to the Legislature on our plan to further identify, disseminate, and report on
+successful practices, effective spending, and statewide challenges facing grantees as described in
+Recommendation 4.
+RECOMMENDATION 6
+Work with the State Board of Education and Legislature to further integrate related grants.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number of specific
+point of contact for implementation
+Agree
+June 2027
+Tim Boyd
+(503) 580-5105
+Narrative for Recommendation 6
+This is ongoing work for ODE, with a commitment to make strides toward further integration throughout the
+2025-27 biennium.
+RECOMMENDATION 7
+Work with the State Board of Education and Legislature to further standardize reporting systems.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number of specific
+point of contact for implementation
+Oregon Department of Education
+255 Capitol St NE, Salem, OR 97310  |  Voice: 503-947-5600  | Fax: 503-378-5156  |  www.oregon.gov/ode
+Agree June 2027 Tim Boyd
+(503) 580-5105
+N
+arrative for Recommendation 7
+This is ongoing work for ODE, with a commitment to make strides toward further standardization of reporting
+systems and requirements throughout the 2025-27 biennium.
+RECOMMENDATION 8
+Work with the State Board of Education and Legislature to further make compliance requirements more
+efficient.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number of specific
+point of contact for implementation
+Agree June 2027 Tim Boyd
+(503) 580-5105
+Narrative for Recommendation 8
+This is ongoing work for ODE, with a commitment to make strides toward ensuring compliance requirements
+are efficient, including the reduction of requirements where applicable, throughout the 2025-27 biennium.
+Please contact Cassie Medina at 503-510-2968 with any questions.
+Sincerely,
+Dr. Charlene Williams
+Deputy Superintendent of Public Instruction
+Director of the Oregon Department of Education
+cc:
+Secretary of State LaVonne Griffin -Valade
+Audits Director Kip R. Memmott
+This report is intended to promote the best possible
+management of public resources.
+Copies may be obtained from:
+Oregon Audits Division
+255 Capitol St NE, Suite 180
+Salem OR 97310
+(503) 986-2255
+audits.sos@oregon.gov
+sos.oregon.gov/audits

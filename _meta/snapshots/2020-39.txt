@@ -1,0 +1,1730 @@
+Secretary of State Bev Clarno
+Audits Division Director Kip Memmott
+Oregon Health Authority: Public Employees’ Benefit Board and the
+Oregon Educator’s Benefit Board
+Efforts Have Helped Limit Some Employee Health
+Care Costs, but PEBB and OEBB Can Do More to
+Manage Costs and Optimize Benefits
+November 2020
+Report 2020-39
+Oregon Health Authority: Public Employees’ Benefit Board and the
+Oregon Educator’s Benefit Board
+Efforts Have Helped Limit Some Employee Health
+Care Costs, but PEBB and OEBB Can Do More to
+Manage Costs and Optimize Benefits
+What We Found
+1. PEBB and OEBB have kept the growth in premiums relatively low,
+charged less than allowed for administrative fees, and implemented
+multiple cost containment strategies. (pg. 9)
+2. PEBB and OEBB seem to effectively communicate open enrollment
+information. However, the programs fall short on member education on
+benefit use, transparency about board efforts to control costs, and
+obtaining feedback from employers and members. (pg. 11)
+3. PEBB and OEBB rely on contractors for much of the work needed to
+provide health and wellness benefits. Our limited review of consultant
+contracts and invoices identified concerns with contract monitoring,
+contract terms, consultant invoices, and claims oversight. (pg. 13)
+4. PEBB’s reserve balance was significantly reduced by a $120 million
+legislative sweep, triggering a $12 million federal penalty. The board
+does not have a strategic plan for how to use reserve funds when the
+reserve accumulates more than needed to address claims and other
+program costs. (pg. 14
+)
+5. Thirteen school districts obtain their health insurance outside of OEBB.
+These districts are not held to the legislative requirements that OEBB
+must adhere to and their health benefit costs and steps taken to contain
+costs are not publicly transparent. (pg. 15)
+What We Recommend
+Our report includes seven recommendations to PEBB and OEBB to further
+address managing health care benefit costs for state, university, community
+college, and K-12 employees. PEBB and OEBB agreed with all of our
+recommendations. Their response can be found at the end of the report.
+We also offered two suggestions for the Legislature to consider.
+Why This Audit is
+Important
+» Industry health care costs
+and premiums are continuing
+to significantly increase.
+Overall national health
+spending is projected to grow
+to nearly $6.2 trillion by 2028
+and is unsustainable.
+» Health insurance is a part of
+state employees’
+compensation, and, when
+combined with salaries and
+other benefits, helps the state
+meet its competitive
+employment goals.
+» The Public Employees’
+Benefit Board (PEBB)
+administers health plans for
+143,890 state government
+and university employees and
+their dependents.
+» The Oregon Educator’s
+Benefit Board (OEBB)
+administers health plans for
+about 157,860 school district,
+education service district, and
+community college employees
+and their dependents.
+» The state only allows PEBB
+and OEBB premiums and
+claims costs to increase 3.4%
+per member per year. Health
+commercial insurance market
+trends are nearly double that
+— ranging from 7% to 8% for
+PEBB and 8% to 9% for OEBB.
+The Oregon Secretary of State Audits Division is an independent, nonpartisan organization that conducts audits based on
+objective, reliable information to help state government operate more efficiently and effectively. The summary above should be
+considered in connection with a careful review of the full report.
+Oregon Secretary of State | Report 2020-39 | November 2020 | Page 1
+Introduction
+Like other states, employee health benefit plans for Oregon state
+workers have attracted attention from legislators, the Governor,
+and policymakers, often due to the impact of increasing health care
+benefits, a part of employee compensation. Health plan premiums
+are rapidly rising in states and other costs (e.g., deductibles and
+out-of-pocket costs) are also on the rise.
+The Public Employees’ Benefit Board (PEBB) and Oregon
+Educator’s Benefit Board (OEBB) are responsible for providing
+health benefits to state workers and educators. In response to
+rising health care costs, the Oregon Legislature mandated an annual
+growth cap on per member costs and other cost containment
+requirements for state employees’ health benefits in 2017. While
+the boards have been meeting this requirement, continuing to do so is challenging given the
+market in which the boards operate.
+The purpose of our audit was to evaluate how PEBB and OEBB are managing health care benefit
+costs. Our audit work was limited due to the disruption caused by COVID-19 and its impact on
+the health care system and audit resources.
+Oregon offers high-valued health benefits that help to mitigate lower
+employee wages
+A 2015 Economic Policy Institute national report found government employees earned less than
+similar private-sector workers, despite having higher education levels. To address the wage
+disparity and entice people to work in public service, state agencies offset some of the difference
+with generous health and retirement benefits.
+Two studies recently examined benefits for Oregon state workers compared to its neighbors.
+Milliman, commissioned by the Oregon Business Council, reported its study in 2019 and
+examined the value of health care benefits provided to Oregon’s state workers compared to four
+“Behind Medicaid, state
+and local employer
+contributions to public
+employee health insurance
+premiums represent the
+second largest cost driver
+for state health care
+expenditures.”
+- National Conference of
+State Legislatures
+Oregon Secretary of State | Report 2020-39 | November 2020 | Page 2
+neighboring states — California, Idaho, Nevada, and Washington.1 The study found, when
+comparing the costs of the most popular health plan in each state, Oregon state employees had
+the highest average total premium, employee contribution to premiums were the lowest, and
+employees paid a lower share of medical costs than three of the other states. For Oregon
+teachers, the study found the total premiums were generally lower than California or
+Washington, though there was wide variation in the premium contribution paid by teachers.
+The Oregon Department of Administrative Services conducts a compensation study every two
+years, most recently in 2018. This study measured compensation of state workers against
+compensation in the sectors it most frequently competes in for applicants: county workers,
+neighboring states, and the private market.2 The study found Oregon state workers have a lower
+wage than their counterparts, the state provides a comprehensive benefit plan consistent with
+those found in comparison markets, the employer health plan cost is similar to comparison
+markets, the health plan is more generous with lower out-of-pocket costs for employees, and
+total employee compensation (salaries and benefits) was 97.5% of market on average. This
+percentage is within Oregon’s stated goal of compensating employees within 95% to 105% of
+the market range.
+PEBB and OEBB administer health care benefits to over 301,000 Oregonians
+Most states, like Oregon, have a dedicated agency to manage state employee health care plans,
+and at least 13 states have educator health care handled at a state level, either through a
+dedicated agency or combined with the state employee coverage. Oregon and many other states
+allow smaller entities — such as municipalities and districts — to opt into a state-administered
+plan.
+Oregon administers benefits to public employees through
+two separate boards: PEBB for public employees and OEBB
+for educators. Together, the two boards are responsible for
+managing state employee health care plans to over 301,000
+employees and their dependents, or about 7% of
+Oregonians.
+Each board operates independently, has its own budget,
+and is comprised of a mix of management and labor.
+3 Each
+board contracts with a national actuarial firm to identify
+benchmarks for program cost and design, monitor
+spending and utilization, and conduct studies to determine
+effectiveness and feasibility of their goals for employee
+health care. The firms also act as negotiators for the boards
+when determining coverage and premium rates with
+insurance carriers. Standing workgroups, such as the Joint
+Innovation Workgroup and OEBB’s Strategies on Evidence
+and Outcomes Workgroup, help the boards coordinate
+efforts and develop shared solutions to issues.
+1 Milliman Report “Comparison of Health Benefits Offered to State Employees and Teachers.” January 4, 2019.
+2 DAS’ 2018 Oregon Salary and Benefit Report, https://www.oregon.gov/das/HR/Documents/Salary-benefit-report-2018.pdf.
+3 By statute, PEBB and OEBB members serve four-year, repeatable terms. PEBB has at least eight voting members (four members
+represent the state as an employer and four represent employees) and two non-voting members who are also members of the
+Legislature. OEBB has at least ten voting members (four members represent the district boards and management, four represent
+employees, and two with expertise in health policy or risk management).
+Program Vision Statements
+PEBB: “We seek optimal health for
+our members through a system-of-
+care that is patient-centered,
+focused on wellness, coordinated,
+efficient, effective, accessible and
+affordable.”
+OEBB: “OEBB will work
+collaboratively with participating
+entities, members, carriers and
+providers to offer value-added
+benefit plans that support
+improvement in members’ health
+status, hold carriers and providers
+accountable for outcomes, and
+provide affordable benefits and
+services.”
+Oregon Secretary of State | Report 2020-39 | November 2020 | Page 3
+While the boards share many similarities and have an established partnership to deliver on their
+missions, there are notable differences.
+Figure 1: PEBB and OEBB have some notable differences in how they administer their plans
+PEBB OEBB
+Plan Year January 1 – December 31 October 1 – September 30
+Employers 100+ state agencies, universities, state
+library, semi-independent agencies
+250+ school districts, community colleges,
+education service districts, counties
+Member
+Enrollment
+56,610 employees/subscribers
+143,890 total lives covered
+66,040 employees/subscribers
+157,860 total lives covered
+Employer
+Contribution
+Agencies pay 95% or 99%, and
+universities pay 95% or 97%, depending
+on plan choice
+Each employer determines contribution
+amount
+Plan Offerings
+IRS Section 125 Cafeteria Plan – all
+employers must offer all 5 plans to all
+employees
+Operates like an “Exchange of Plans” –
+each employer can choose to offer a
+subset of plans, or all 10 plans, to
+employees
+For example, PEBB is largely self-funded meaning the board is responsible for paying the cost of
+members’ claims and must carry enough reserves to cover the risk of expensive claims. Self-
+funding is a strategy where the employer (in this case, the state) pays a third-party
+administrator to process health care claims, but the employer is the payer of the claims. This
+gives more control over the benefits offered and eliminates most premium taxes, though it
+carries with it the financial risk for setting the premium levels and paying claims. Whereas with
+fully insured health plans, the insurance carrier is responsible for setting premiums and paying
+the medical costs. For the 2019 plan year, about 81% of PEBB members were enrolled in PEBB’s
+self-funded medical plans, either Providence or Moda plans, and 19% were in fully insured plans
+offered by Kaiser. OEBB has many plan options, but all are fully insured.
+PEBB also administers a “cafeteria plan,” which requires all members be allowed to choose from
+all plans. In contrast, OEBB is set up as a health care exchange, providing a wide variety of plan
+options to meet the needs of its diverse membership, which are primarily school districts.
+PEBB and OEBB are budgeted with Other Funds, revenue received from premium payments
+collected for all insured individuals.4 Their combined 2019-21 legislatively adopted budget was
+$3.86 billion. As legislatively mandated by Senate Bill 1067, passed in 2017, PEBB and OEBB
+administrative functions were combined in 2018 to about 40 staff positions.
+PEBB and OEBB program operations are funded through an administrative charge that is added
+to medical and dental insurance premiums. By statute, the administrative charge cannot exceed
+2% of monthly premiums. Both programs are charging less than the 2% cap. For PEBB, the
+administration rate for the 2020 plan year is 0.90%. For OEBB, the administration rate is 1.3%
+for the 2019-20 plan year.
+Our plan to analyze further cost details was halted due to complications and competing
+priorities arising from COVID-19.
+4 Of the PEBB premium payments collected from agencies and universities, nearly 45% is paid with General Fund moneys. According
+to program management, OEBB is estimated to derive approximately 57% of premiums from General Fund moneys.
+Oregon Secretary of State | Report 2020-39 | November 2020 | Page 4
+Figure 2: PEBB and OEBB have a combined legislatively adopted budget of approximately $3.86 billion for
+2019-21 biennium
+Source: OHA 2021-23 Agency Request Budget
+PEBB and OEBB benefits offer multiple plan choices with key decisions left to employers
+and members
+PEBB and OEBB benefits offered to employers and members are based on factors such as union
+bargaining agreements, board mission and goals, and state mandates and directives. The boards
+annually negotiate with multiple insurance carriers to provide medical health plan coverage to
+members. Though there are different carriers, the coverage is similar with varying cost
+structures with the exception of OEBB high-deductible plans.
+PEBB offers five medical plans, consisting of:
+• Providence PEBB Statewide (36% members enrolled);
+• Providence Choice (35% members enrolled);
+• Kaiser Permanente Traditional (15% members enrolled);
+• Kaiser Permanente Deductible (3% members enrolled); and
+• Moda (9% members enrolled).5
+OEBB offers 10 medical plans, consisting of:
+• Seven Moda plans (71% members enrolled); and
+• Three Kaiser Permanente plans (21% members enrolled).6
+PEBB members select one of the five available plans. For those in OEBB, districts select which of
+the ten plans to offer their employees — some districts offer all plans, and some choose to offer
+less — and employees select a plan from those offered.
+Union negotiations with employers participating in PEBB and OEBB dictate the employee
+contribution amounts and health care coverage to be offered. For PEBB, many state agency
+employees pay 1% or 5% of the monthly premium depending on the health care plan they
+selected.7 For OEBB members, employees pay any remaining premium costs for the plan they
+5 Current enrollee counts as of March 2019, includes both employed and retired members (Kaiser enrollee counts were estimated
+between the two plans). There were approximately 2% of employees that did not enroll for PEBB medical coverage. Within each
+medical plan, there is a part-time employee plan offered. Also, Providence and Moda are self-funded medical insurance coverage.
+6 Current enrollee counts for the October 2018 to September 2019 benefit year, includes both employed and retired members. There
+were approximately 7% of employees that did not enroll for OEBB medical coverage.
+7 Some university employees pay either 3% or 5% of the monthly premium for PEBB plans.
+Oregon Secretary of State | Report 2020-39 | November 2020 | Page 5
+select beyond what employers have agreed to contribute
+for coverage. Beyond contributing to the insurance
+premium either through PEBB or OEBB, covered employees
+must pay a share of the cost (e.g., deductible, copays, and
+coinsurance) when they use health care services.
+PEBB participant premiums are based on four different
+coverage tiers: employee only, employee and children,
+employee and spouse or domestic partner, and employee
+and family. The premiums vary by the level of dependent
+coverage the employee selects. Dependents that can be
+covered include a current spouse, domestic partner, or an
+eligible dependent child. OEBB employers either use the
+four-tier structure or have one composite rate, which is one
+rate for all employees regardless of how many dependents
+are covered, for premiums.
+Eligible retirees wishing to continue PEBB or OEBB
+coverage can do so until they qualify for Medicare, and they
+must self-pay the entire premium. Some OEBB employers contribute towards the premium cost
+for eligible retirees’ health care.
+Besides medical plans, PEBB and OEBB offer wellness programs, such as Healthy Team Healthy
+U and WW (Weight Watchers Reimagined) and coordinate dental and vision benefit plans. They
+also offer optional benefits for employers and members, such as life insurance, long-term care
+insurance, disability insurance, and an employee assistance program. PEBB also offers flexible
+spending accounts and commuter accounts.
+Oregon legislative mandates seek to manage and contain the state’s overall
+health care costs as well as PEBB and OEBB costs
+With health care inflation rates exceeding the rate of state revenue growth, health care is taking
+a larger share of the state budget. Oregon’s Legislature has implemented programs and
+initiatives to help contain and manage the state’s overall health care costs.
+Figure 3: Examples of some steps Oregon has taken to help manage state health care costs
+Program or Initiative Description
+Oregon Health Policy Board This board, created in 2009, is charged with overseeing the
+development and implementation of state health care policy.
+Medicaid Coordinated Care
+Organizations
+In 2012, Oregon changed its Medicaid program by establishing
+coordinated care organizations. The organizations provide a
+model to have health care providers work together in their local
+communities, focus on prevention, and help people manage
+chronic conditions.
+Health Plan Quality Metrics Committee
+This committee, established by 2015 legislation, is the single
+body created to align health outcome and quality measures
+used in Oregon and ensure measures and requirements are
+coordinated, evidence-based, and focused on a long-term
+statewide vision.
+Deductible: Amount employee pays
+before the plan begins paying for
+covered services.
+Copays: A flat fee the employee
+pays for a covered service.
+Coinsurance: Employee’s share of a
+covered service after the deductible
+has been met (e.g., 20%).
+Out-of-Pocket Maximum: The most
+employees will pay with a plan year
+for covered services.
+Premium: The monthly cost for an
+employee’s medical plan, which is
+shared between the employer and
+the employee.
+Oregon Secretary of State | Report 2020-39 | November 2020 | Page 6
+Primary Care Transformation Initiative
+Legislatively mandated in 2017, this initiative on Oregon’s
+primary care health infrastructure was to support innovation
+and care improvement in primary care, besides reporting of
+medical spending for primary care by certain health care payer
+and requiring health insurance carriers and coordinated care
+organizations to allocate at least 12% of health care
+expenditures to primary care by 2023.
+Oregon Health Care Cost Growth
+Benchmark Program
+Legislation in 2019 created a program to set a state spending
+target for all insurance companies, hospitals, and health care
+providers to rein in the increasing costs of health care.
+Universal Health Care Task Force
+This task force was created to recommend, for the 2021
+legislative session, a design for a publicly funded health care
+plan for all Oregonians that provides equitable, affordable,
+comprehensive, and high-quality health care to all residents.
+Further, with increasing pharmaceutical costs, Oregon enacted the Prescription Drug Price
+Transparency Act in 2018 to provide accountability of specific cost and price information from
+pharmaceutical manufacturers and health insurers.8
+Oregon’s Legislature also mandated requirements to contain state health care costs in specific
+state government programs, including PEBB and OEBB.9 Legislation in 2017 set forth PEBB and
+OEBB requirements, such as:
+• Limiting both annual growth in per member expenditures for health services and health
+benefit plan premiums to no more than 3.4%;
+• Limiting payments to in-network hospitals to 200% and out-of-network to 185% of the
+Medicare allowable rate;
+• Appointing the executive director of PEBB as executive director of OEBB, and requiring
+the combination of administrative functions and operations of PEBB and OEBB to the
+greatest extent practicable;
+• Requiring any actuarial or technical support contracts the board enters into be solicited
+at least every three years and defines certain proposal information to include;
+• Instructing a carrier or third party to audit dependent eligibility annually (legislatively
+changed in 2019 to allow PEBB and OEBB to conduct these as frequently as determined
+by the board); and
+• Prohibiting duplicate health benefit plan coverage by public employees and opt out
+payments to PEBB/OEBB double-covered employees (legislatively changed in 2019 to
+allow for a surcharge fee).
+PEBB and OEBB have kept annual premium increases notably lower than Oregon’s health
+insurance market trends
+Premium rates for health insurance plans are subject to varying factors. For PEBB and OEBB,
+some factors are within their control (e.g., plan design, level of reserves and fund balances, and
+8 The Prescription Drug Price Transparency Act requires pharmaceutical manufacturers to report on new prescription drugs costing
+more than $670 a month, or a shorter course of treatment, within 30 days of introducing the drug, and prescription drugs that had
+net yearly price increases of 10% or more and had a price of $100 or more for a one-month supply or for a course of treatment
+lasting less than one month during the previous year.
+9 To help contain costs and create more predictable budget environments, Oregon capped health care cost increases for the Oregon
+Health Plan at two percentage points below the national trend starting in 2012, which resulted in a growth cap of 3.4% per member
+per year. The Legislature extended this cap to health care costs in the PEBB and OEBB budgets in 2019.
+Oregon Secretary of State | Report 2020-39 | November 2020 | Page 7
+administrative costs), and some are not (e.g., age of members, the
+extent members use services, and health care inflation and market
+rates).
+PEBB and OEBB contract with commercial health carriers to provide
+and manage health care coverage for their members. As such,
+premiums for fully insured plans and actual health care costs for self-
+insured plans are subject to the trends in those markets.
+According to their actuaries, PEBB and OEBB have maintained their
+annual insurance cost increases at or below 3.4% since 2014, which
+was generally half the cost increases experienced in the commercial
+markets. Oregon’s self-insurance market generally grew 7.5% a year and Oregon’s commercial
+insurance market grew between 8% and 9% during the same time period.
+Figure 4: PEBB and OEBB annual insurance health care premium costs have stayed lower than their relative
+market trends
+Source: PEBB and OEBB actuarial consultant reports.
+Each board appears to be outperforming national health care trends. OEBB’s consultant
+reported that OEBB is 6% more efficient than national health care providers, and 4% more
+efficient than government health care providers for a 2018 savings of $45.5 million and $30.9
+million, respectively.10
+While the boards have been able to meet this requirement, management acknowledges keeping
+to that cap, when Oregon’s commercial insurance market trend averages 6% to 7%, is its biggest
+challenge, as that equates to a combined annual savings requirement of $70 to $80 million.
+PEBB and OEBB made some plan adjustments to facilitate health services
+with the COVID-19 pandemic
+PEBB and OEBB have taken action to address potential concerns with benefit eligibility and plan
+costs with the COVID-19 pandemic. For example, the boards removed the member cost share for
+in-network testing and treatment related to COVID-19, as well as expanding telehealth services.
+10 The consultant’s study involved 2,248 companies in 18 industry groups including governments across the United States and was
+normalized for four things to compare plans between entity groups - age and gender, family status (size), geography, and plan value.
+People get health
+coverage in a variety of
+ways, from employers,
+government program,
+and purchasing
+individually. About 94%
+of Oregonians, or
+approximately 3.9
+million residents, have
+health insurance.
+Oregon Secretary of State | Report 2020-39 | November 2020 | Page 8
+Both programs also enacted a temporary rule through 2020 to continue health coverage for
+people in a leave without pay status due to COVID-19. Consultants have advised the boards that
+expenses are expected to drop in 2020 as elective procedures are cancelled. However, these
+costs are expected to be shifted to an upcoming plan year and this is a consideration in boards’
+decisions as they plan for unexpected expenses in future years.
+Further, PEBB and OEBB created a webpage for members on resources to help with mental and
+physical wellbeing support during COVID-19, which are offered through the Employee
+Assistance Program and carriers.
+Oregon Secretary of State | Report 2020-39 | November 2020 | Page 9
+Audit Results
+Health care is an expensive and complex industry. PEBB and OEBB must balance containing
+health care costs in an environment where health costs continue to rise faster than inflation and
+meet their goals of improved member health. PEBB and OEBB go through a rigorous process
+each year of analyzing options and negotiating with carriers to meet cost and quality needs.
+Our intended review of plan benefits, wellness programs, claims processing, and data handling,
+as well as cost analyses, were not conducted due to COVID-19 impacts on resources and
+priorities.
+Our limited review found that PEBB and OEBB have implemented strategies to help address
+costs, but those strategies have some limitations. We also found areas where the program could
+make further improvements to help manage costs in: communication and member education,
+contract administration and oversight, and managing PEBB stabilization reserves. Additionally,
+while PEBB and OEBB have legislatively required caps placed on them that they have met, we
+found there is no similar directive for school districts outside of OEBB to contain health care
+costs.
+Like other states, Oregon’s PEBB and OEBB implement multiple strategies for
+state health care cost containment
+PEBB and OEBB boards put forth considerable effort to try to provide quality benefits that are
+affordable to employers and members. They regularly use information from consultants, work
+groups, and program staff to explore cost containment measures. This includes budget, financial
+benchmarks, and other statistics, such as plan enrollment and benefit utilization. The boards
+also coordinate with the Oregon Health Policy Board and Oregon Health Authority on health
+initiatives and health plan quality metrics.
+Each benefit year, PEBB and OEBB boards go through a rigorous
+process of decision-making to meet financial and benefit coverage
+goals. Boards review previous plan year information (e.g., aggregate
+costs, large claims, and chronic condition costs) and consultants
+present data from their national surveys of health plans and compare
+survey results to initial carrier offerings for the new plan year. This
+process involves multiple rounds of communication and negotiations
+with the carriers over the course of several months.
+Both boards have implemented multiple recognized strategies to help
+manage plan costs. Examples of strategies include:
+• pooling state employee health benefits with other entities (e.g., municipalities);
+• reviewing costs and member utilization trends (e.g., different types of care obtained,
+where getting care, and specialty drug medications);
+• prioritizing preventive care;
+• moving to value-based payments for services;
+• incentivizing members to select lower cost plans that promote the use of coordinate
+care;
+• offering wellness services and programs; and
+• regularly ensuring dependents are eligible.
+Similarly, other states are addressing rising health care costs. A strategy used by nearly all the
+states is to offer self-funded plan options. PEBB offers multiple self-funded plans to members,
+Half of Oregon adults
+have at least one
+chronic disease (e.g.,
+cancer, lung or
+cardiovascular diseases,
+diabetes, or asthma),
+and many citizens have
+risk factors for
+developing or
+complicating a disease.
+Oregon Secretary of State | Report 2020-39 | November 2020 | Page 10
+and OEBB offers only fully insured plans. Oregon has also considered the feasibility of modeling
+processes successful in other states such as Maryland’s hospital payment rate setting process.
+We found some states have taken unique initiatives to help reduce their health care costs that
+may be of benefit to Oregon. Recognizing each state varies widely on state employee health care
+plan eligibility, plan benefits, premiums, and cost-sharing arrangements, not all of these may be
+directly applicable in Oregon.11
+Some other states provide financial incentives for members to shop for
+lower costs services from approved high-quality providers, known as right-
+to-shop programs. For example, Florida’s shared savings program gives
+credits to a member’s account or can be provided as a reimbursement for
+out-of-pocket medical expenses when members shop around and choose
+lower cost services on select procedures.
+For Utah public employees, the state has a pharmacy tourism program. This
+program pays for members to travel to Canada or Mexico to fill prescriptions
+for certain high-cost medicines (e.g., multiple sclerosis disease modifying
+therapies, which have increased annually at rates five to seven times higher
+than prescription drug inflation). The state has found a three-month supply of
+these medications to be much less expensive in Canada or Mexico.
+Colorado allows health care cooperatives to directly negotiate health care
+prices with providers. The Peak Health Alliance in Summit County found this
+approach reduced premiums by 15% to 20% for its collective of small and
+large businesses and individuals. The state is considering an expansion to a
+statewide purchasing alliance.
+Some states have created or implemented statewide prescription drug cost
+controls. Maryland, for example, created a prescription drug affordability
+board with the authority to establish the maximum costs for certain drugs,
+including some of the most expensive medications, that state and local
+governments purchase for employees and programs.
+California is creating a statewide purchasing system for prescription drugs where
+a coalition of public and private purchasers would pool purchasing power to
+negotiate lower prices with drug manufacturers. Further, a few states have
+enacted legislation for prescription drug importation like Vermont, which has
+developed a plan to administer a wholesale prescription drug importation
+program using Canadian suppliers.
+As mentioned, health care is expensive and complex. Even the best cost containment strategy
+cannot address all the factors that go into health care costs such as the expense of new
+technologies and medications, provider consolidation, the age of members, and disease
+prevalence. As the boards continue their efforts and look for further ways to contain costs and
+maintain quality coverage, OHA has a policy package option for its 2021-2023 budget to align
+PEBB and OEBB with other publicly funded programs (e.g., Oregon Health Plan, the Marketplace,
+and other local governments) for stronger state purchasing power to improve care and lower
+costs.
+11 Our research was conducted prior to COVID-19; the pandemic may affect how these initiatives operate.
+Oregon Secretary of State | Report 2020-39 | November 2020 | Page 11
+PEBB and OEBB can enhance communication with members and employers
+We found PEBB and OEBB seem to effectively communicate open enrollment information to
+members but fall short in multiple areas including educating members on selecting and using
+their benefits, providing clarity on board efforts, and obtaining and analyzing feedback from
+employers and members. Improvements in these areas would help the programs better identify
+issues, more effectively roll out cost-control measures, and help employees better manage costs
+and their own health care. When members understand, use, and appreciate their health care
+benefits, they are more likely to optimize them to stay healthy, which ultimately helps to contain
+health insurance costs in the long run.
+PEBB and OEBB need to better educate members on their benefits and board efforts to
+more effectively implement cost containment strategies
+Employees are key partners in containing health care costs — they
+select the health plans purchased and choose the services to use each
+plan year. As employees share in the cost of premiums and insurance
+claims, it is important they know how to effectively select and use the
+health care plan best suited for their situation to optimize cost and
+health outcomes.
+Health care plan selection can be overwhelming, and employees may
+form incorrect assumptions about benefits (e.g., an assumption that
+the most expensive plans are the best). To help, PEBB’s and OEBB’s
+communication with members has mainly revolved around open
+enrollment, the one-month time period when members are selecting
+their plans for the next plan year. Open enrollment communications
+focus on plan option information, enrollment requirements, and
+high-level summaries of insurance coverage provided. This
+information is provided in multiple ways (e.g., webinars, emails, and
+physical mailers). PEBB also provides a virtual benefits counselor, an online benefit comparison
+tool, and payroll deduction estimator on its website to help members with enrollment decisions.
+Once plans have been selected, education should also be provided to help members understand
+and effectively use their benefits. For example, explaining covered preventative care and other
+health services as well as providing information on how to evaluate choices and costs when
+faced with a medical situation (e.g., primary doctor, specialist, urgent care, or emergency room)
+or treatment. This could also reduce the stress of not knowing how
+much their care will cost.
+Helping members understand their benefits and options empowers
+them to be more active in health decisions such as evaluating the
+cost of services prior to making health care decisions (e.g., the same
+procedure can have a large cost difference depending on the
+provider used). A well-informed consumer can make better choices
+and more optimally use health plan features to get the care needed
+to prevent or manage conditions. Better-informed consumers can
+also help identify and report incorrect billings, keeping the system
+accurate and accountable.
+Further, PEBB and OEBB generally do not proactively give members
+details about the board’s ongoing administration of benefits,
+including efforts and decisions made to help control benefit costs
+and the reasons behind the decisions. Generally, meeting recordings
+OEBB’s enrollment guide
+cover (2020-21 plan year).
+PEBB’s enrollment guide
+cover (2020 benefit year).
+Oregon Secretary of State | Report 2020-39 | November 2020 | Page 12
+and materials are available online for recent PEBB and OEBB board meetings, subcommittees,
+and workgroups, but members would need to listen to hours of discussion involving dense
+information and industry terminology to figure out what applies to them and how it affects their
+situation.
+Members have little opportunity to understand from the programs the extent boards represent
+their interests. Educating members on board actions and decisions and the reasoning behind
+those decisions could help members be more informed about cost containment efforts and help
+better engage in the boards’ cost-control measures being implemented.
+PEBB and OEBB need to obtain more feedback from employers and members to better
+inform board decisions
+PEBB and OEBB are missing opportunities for obtaining feedback from employers and members.
+There is limited contact between board members and plan members to help each group
+understand the needs and goals of the other. While board and member goals may be simple —
+stay healthy, keep costs down — the experiences of members as they obtain and pay for their
+health care are not consistently collected for board decision
+making.
+One example of an underused feedback mechanism is PEBB’s and
+OEBB’s annual survey of employees. These surveys focus almost
+exclusively on members’ experience interacting with program
+staff, not about their other benefit experiences such as access to
+benefits, experiences with carriers and providers, or the extent of
+their satisfaction with benefits. This is a missed opportunity for
+the boards to learn key information about how well the benefits
+are serving members and to address problems they are having.
+Another underused avenue is obtaining members’ input. PEBB’s member advisory committee,
+comprised of labor and management members, was created with the intent to provide advice
+and feedback to the board. The committee has focused, at the request of the board, on PEBB’s
+wellness offerings for the past two years. The committee, supported by program staff and
+consultants, has monthly discussions of issues impacting members. Program management stated
+committee members regularly bring individual concerns from members at their respective
+agencies for discussion, but these are informal and are not tracked.
+OEBB, however, does not have an equivalent member committee to help represent its over 250
+employers. Having such a committee could enable more informed decision-making, improve
+success with initiatives, and promote better communication and relations.
+Customer service calls from members is another feedback
+opportunity not used effectively to identify member issues and
+inform board decisions. When members call the programs with
+questions or concerns, staff track and categorize the calls. However,
+the categories have not been tracked consistently. For example,
+program staff stated that contact reasons have been removed or
+consolidated in the system, causing affected calls to be reclassified
+as “unknown.” From October to December 2017, PEBB classified
+nearly 52% of calls as unknown. Without having consistent and known categories, ensuring staff
+are using the categories consistently, and analyzing the information to inform management and
+board decisions, the value of the feedback collected is substantially reduced.
+PEBB and OEBB staff take
+a combined average of
+5,000 calls a month during
+open enrollment, with an
+annual combined average
+of 31,000 calls a year.
+HealthCare.gov has member
+experience as one of its
+three categories for quality
+ratings of health plans, which
+is based on surveys of
+member satisfaction with
+their health care and doctors,
+and the ease of getting
+appointments and services.
+Oregon Secretary of State | Report 2020-39 | November 2020 | Page 13
+Communication is a vital component for any program. Identifying ways to better inform
+members throughout the plan year and encouraging their feedback will help to strengthen the
+programs and ensure cost containment measures are understood and more effectively
+implemented.
+Contract and claims oversight improvements need to be implemented to
+ensure transparency and accountability
+PEBB and OEBB rely on contractors to perform much of the work needed to attain their boards’
+missions. There are gaps in the program’s oversight that can be improved to ensure clarity and
+accountability of contracted services.
+PEBB and OEBB contract annually with consultants for actuarial services and to negotiate
+carrier contracts. They also contract with carriers to deliver medical services to members and
+handle medical claims processing. In reviewing the consultant contracts and a sample of
+consultant invoices, we found issues with contract monitoring, contract terms, consultant
+invoices, and claims oversight. Specifically:
+Contract monitoring has not been prioritized and implemented by
+program management. Although various staff track some aspects of the
+contracts, the programs have no systematic process for identifying
+contract deliverables and confirming they are received. For one
+consultant contract we reviewed, the consultant had not submitted
+annual work plans for 2019 or 2020, though required by the contract.
+Staff also did not calculate and track the not-to-exceed amount on the
+same consultant’s contract. We estimated payments to the consultant in
+2019 exceeded the contract’s maximum amount by $83,000, and
+payments in 2020 through April exceeded the maximum amount by
+almost $290,000. If the work was part of the contract, then the
+consultant was overpaid. If this was additional work, then the contract
+should have been revised to ensure contract terms clearly defined the
+extra work to be done and the cost.
+Contract terms in one consultant contract we reviewed did not have a defined cost tied to the
+work. The contract terms did not clearly state what work would be completed for what total
+cost. Additionally, the contract had a not-to-exceed (NTE) amount stated in terms of a
+percentage of premiums paid rather than a set amount. While permissible, defining the NTE as a
+percentage creates tracking issues for monitoring as noted in the previous paragraph. Without
+clearly defined work and corresponding cost, contractors cannot be held accountable in a clear,
+transparent way. Further, neither PEBB’s nor OEBB’s consultant contracts had identified
+performance measures in their contracts, which is a good accountability practice for contractors
+to demonstrate the quality of work being delivered.
+Consultant invoices lacked information to verify amounts billed and contract compliance. The
+invoices we reviewed for one particular contract did not have enough information to verify
+amounts billed were mathematically accurate and adhered to contract terms. The contract’s
+terms defined compensation by staff hour, but invoices did not provide the individual staff rates
+used to calculate the invoice cost. Additionally, with no contract budget to compare to, cost
+accountability could not be verified.
+Claims oversight by the programs is not comprehensive. In the sample of carrier contracts that
+we reviewed, there were various provisions to help address aspects of improper claims such as
+required reports, claims processing accuracy measures, and clinical audits of claims that exceed
+high dollar thresholds. Though, program staff stated that information is not consistently
+In 2019, PEBB and
+OEBB spent a
+combined total of
+$3.8 million to their
+actuarial consultants.
+In their last
+completed plan year,
+PEBB and OEBB
+members incurred a
+total of over $1.5
+billion in claims.
+Oregon Secretary of State | Report 2020-39 | November 2020 | Page 14
+reviewed and used. Management reported there are some efforts
+taken by carriers to identify and address improper claims, including
+fraudulent claims; however, it is not something the program
+monitors. While their consultants perform some claims data
+analysis, program management clarified that this work is high level
+and not necessarily specific to improper payments. PEBB had a
+claims audit conducted of two of their carriers in 2016, which
+included medical claims, pharmacy claims, clinical assessments, and
+behavioral health program assessments, though it was unclear if all
+audit findings were fully resolved.
+Having limitations in contract administration and monitoring
+processes puts greater financial, legal, and reputational risk on
+those involved. PEBB and OEBB need to ensure all of their contracts are appropriately
+administered to ensure clear contract terms, monitoring, and accountability. Proper contract
+administration includes defining and assigning responsibilities, as well as ensuring staff have the
+proper training and knowledge of the contract terms. PEBB and OEBB also need to have a
+comprehensive strategy for ensuring claims accuracy and have that reflected in their contracts.
+Without proper monitoring and oversight of claims and claims data such things as system errors,
+billing errors, misapplied benefit rules, incorrect billings, and fraud could go undetected and
+impact plan costs.
+PEBB’s reserve needs better planning and legislative sweeps have reduced
+the balance
+Most PEBB members have enrolled in self-funded plans, where PEBB is responsible for paying
+claims costs. PEBB maintains a reserve balance to cover its share of costs when claims and other
+program costs exceed monthly premium contributions, such as unanticipated specialized
+hospital care. PEBB has set a targeted reserve level, but the board does not have a strategic plan
+for using funds when the reserve accumulates more than needed. This has left the reserve open
+to Legislative sweeps and resulting federal penalties.
+PEBB began moving toward self-funded plans in 2006 to better control premium cost increases
+and help save money. PEBB plans were mostly self-funded by 2010. Under self-funded plans,
+PEBB pays for employees’ health benefits with its own funds (collected from premiums) and
+assumes direct risk for paying benefit claims, with any moneys remaining saved in reserve. The
+PEBB board, based on consultant recommendations, sets the premium rates, which includes a
+calculation for the reserve. PEBB has historically targeted a middle reserve level.12
+According to program management, PEBB’s reserves grew considerably
+higher than anticipated over the years as the board used a conservative
+reserve calculation based on national and market projections, while
+actual costs came in lower than projected. Rather than using some of
+the reserve to lower premiums, or other allowable services to reduce
+benefit plan costs, the reserve continued to grow for multiple years.
+PEBB’s reserve was reduced significantly by the Legislature when it
+was used to help balance the state’s budget. The Legislature swept
+12 Consultants have proposed four rate stabilization reserve ranges – low, mid-point (low to middle), middle, and high. The greater
+the range, the more funds that should be maintained in the reserve. For example, going from the low level to the mid-point level or
+from the mid-point level to the middle level, increases the targeted reserve level by $10.5 million.
+“The financial losses due
+to health care fraud are
+estimated in the tens of
+billions of dollars each
+year [in the U.S.]. A
+conservative estimate is
+3% of total health care
+expenditures.”
+The National Health Care
+Anti-Fraud Association
+Multiple legislative
+sweeps lessen PEBB
+reserves by about
+$147.5 million — $135
+million to balance the
+budget and about
+$14.5 million in
+federal fines.
+Oregon Secretary of State | Report 2020-39 | November 2020 | Page 15
+$120 million from PEBB’s nearly $435 million reserve in Spring 2017 and is set to take another
+$15 million in 2021.
+As a result, PEBB was fined $12 million for the first sweep from the federal government. The
+Office of Management and Budget’s A-87 Circular requires that allocating the cost of plans to
+agencies be done on a consistent basis and there should be an equitable distribution of costs
+based on benefits received. The legislative sweep violated those required cost principles.
+Likewise, the program is expected to be fined $2.5 million from the second sweep in 2022.
+In accordance with state statute, the board has opted
+to use some reserves to help pay for program costs
+such as program incentives (e.g., the Health
+Engagement Model) and taxes (state tax on
+commercial health insurance plans). Reserve funds
+have also been used to align tiers, such as employee
+and family, within each medical plan so the program
+would avoid a tax penalty. Recently, in June 2020, the
+board discussed options and approved using some
+reserve funds to buy-down premiums to help with
+agencies’ budgets in addressing forecasted budget
+concerns and economic uncertainties of the COVID-19
+pandemic.
+However, the board does not have a formal policy or
+strategic plan for determining the appropriate reserve amount to be maintained or for the steps
+to take when the reserve reaches higher or lower than targeted levels. Having a policy or plan
+could help ensure reserve funds are more effectively used toward meeting the program mission
+and containing plan costs.
+Not all school districts are required to adhere to legislatively mandated OEBB
+cost containment requirements
+The Legislature mandated requirements for PEBB and OEBB to help contain state employee
+health care costs. Although OEBB manages plans for most educators and staff, including all
+education service districts and community colleges, there are some school districts that obtain
+health care for all or some employees on their own.13 As of June 2020, there are 13 school
+districts that do not use OEBB for overseeing all their health plans. These districts are not held to
+the legislative requirements the other educator entities must adhere to and their health benefit
+costs and steps taken to contain costs are not transparent.
+Prior to OEBB, Oregon’s educational entities purchased and administered health care benefits on
+their own. They obtained benefits on the open market through brokers, directly from carriers,
+the Oregon School Boards Association Health Trust, the Oregon Education Association Choice
+Trust, or the Oregon School Employees Association.14 With this, there were about 90 different
+medical plans offered throughout Oregon school districts. OEBB was created to centralize health
+care benefit administration for school districts and education service districts. The intent was to
+increase stability in premium rates and reduce administrative costs.
+When OEBB started in 2008, districts with a previously established trust or were self-funded
+could opt out of OEBB. Otherwise, districts were required to join OEBB when their current
+13 Please refer to Appendix A and B for a complete list of employers participating in PEBB and OEBB.
+14 With how these were designed, school districts could join or leave the plans at their discretion.
+Per OAR 101-001-0015, PEBB may use its
+reserves for the four following purposes:
+• reimburse insurers for contracts
+payments (e.g., if benefit expenses
+exceed premium revenues);
+• minimize premium increases and the
+impact on premium contributions
+due to benefit plan changes;
+• pay for expenses critical to PEBB
+program administration (e.g., data
+processing); and
+• pay for services, programs, or studies
+that will reduce benefit plan costs.
+Oregon Secretary of State | Report 2020-39 | November 2020 | Page 16
+collective bargaining contracts expired, no later than October 2010.
+This meant that some districts or subgroups were not required to
+join for up to two years.
+Restrictions were later legislatively relaxed, allowing districts to
+delay joining if a comparability assessment proved that their
+benefit plans were comparable to OEBB’s in both cost and plan
+design. Legislation in 2013 eliminated the requirement for regular
+comparability assessments and allowed districts already outside of
+OEBB to remain so indefinitely with no reporting requirements.
+School districts already in OEBB were not allowed to opt out. Since
+OEBB’s creation, each regular legislative session has had bills
+proposed to allow districts participating in OEBB to opt out. Though
+none of the bills moved out of committee, 17 bills have been put
+forward since 2009.
+School districts outside of OEBB collectively comprise about 14,500
+employees, including approximately 28% of the state’s teachers.
+These districts are not held to the same OEBB legislatively
+mandated cost containment requirements, such as the 3.4% growth
+and payment caps, surcharges for double coverage through the
+state, and regular dependent eligibility verification. Further, their costs and cost containment
+strategies are not transparent and shared.
+Additionally, information on which schools covered by OEBB plans is not readily provided. Given
+there are school districts where only some of the employees are covered and other districts not
+in its program, OEBB should clearly state the extent school districts and their employees are
+covered by OEBB plans such as on its website and externally with stakeholders.
+In 2020, the Oregon School Boards Association approached OEBB management to work with
+multiple education associations — the Oregon School Boards Association, the Oregon Education
+Association, the Coalition of Oregon School Administrators, the Oregon School Business
+Professionals Association, and the Oregon School Employees Association — to facilitate better
+communication about OEBB and engage in data sharing.
+However, without appropriate cost reporting for all school districts, the state does not know
+whether health benefit costs are being effectively contained. Comprehensive reporting of health
+care benefits and cost by all school districts is not within OEBB’s authority. Such a change would
+require action by the Legislature to determine and require the reporting and analysis needed to
+ensure all school districts are adequately containing health care costs. As an example, Wisconsin,
+which does not have state managed insurance pool for educators, requires its school districts to
+annually report plan design and cost information to the state about health insurance programs
+provided to district employees.
+School districts obtaining
+health care outside of
+OEBB for all its employees
+Ashland
+Beaverton
+Fern Ridge
+Medford
+North Clackamas
+St. Paul
+Springfield
+Three Rivers
+West Linn-Wilsonville
+Districts obtaining health
+care outside of OEBB for
+its teachers
+Bethel
+Central
+Corvallis
+Portland
+Oregon Secretary of State | Report 2020-39 | November 2020 | Page 17
+Recommendations
+To strengthen cost containment, communication, and contract administration, we recommend
+PEBB and OEBB:
+1. Regularly communicate to members further educational opportunities in addition to
+open enrollment for members to learn how to better understand the details of their
+insurance coverage and how to utilize their benefits to make optimal health and cost
+decisions.
+2. Periodically communicate to employers, members, and stakeholders about the board’s
+ongoing administration of benefits, cost containment efforts, and the anticipated effects
+on affordability and accessibility of health care coverage to stakeholders, including
+employers and members.
+3. Consistently collect, analyze, and share results of employers’ and members’ experiences
+to better inform board decisions; for example, consistently track customer service calls
+to the programs, ask about benefit and claim experiences on the annual member survey,
+and obtain information from carriers on claims calls and appeals.
+4. Promptly enhance oversight and clarity of consultant and carrier contracts, which should
+include:
+a. ensuring consultant contracts have clearly defined deliverables that are of value
+and the related costs;
+b. identifying deliverables in current contracts, and monitoring and enforcing
+deliverables are contract compliant;
+c. verifying invoices for mathematical accuracy and contract compliance by staff
+who have the pertinent training and knowledge of contract terms; and
+d. having a comprehensive program for identifying improper claim payments that
+is reflected in contracted services.
+To better manage its reserve, we recommend PEBB:
+5. Develop a formal strategic plan that includes elements such as the appropriate amount
+to be maintained in reserve and steps to take when the reserve reaches higher or lower
+levels than targeted.
+To further strengthen communication and information for decision-making, we recommend
+OEBB:
+6. Clearly communicate the extent school districts participate in OEBB (e.g., when
+communicating externally to stakeholders such as in Legislature communications and on
+OEBB’s website).
+7. Create a member advisory committee or an alternative method for member advice and
+feedback to the board.
+Oregon Secretary of State | Report 2020-39 | November 2020 | Page 18
+To help ensure adequate cost transparency and that cost containment strategies are being used
+by all school districts in the state, we offer the following for the Legislature to consider:
+8. Consider requiring school districts outside of OEBB to regularly report on their health
+care cost containment efforts.
+9. Consider having OEBB and school districts not participating in OEBB to regularly report
+basic facts and costs of their health plans.
+Oregon Secretary of State | Report 2020-39 | November 2020 | Page 19
+Objective, Scope, and Methodology
+Objective
+The purpose of this audit was to evaluate how PEBB and OEBB are managing state employees’
+health care benefit costs.
+Scope
+This audit focused on the cost containment measures and management practices PEBB and
+OEBB have implemented to address rising health care costs. Our intended review of plan
+benefits, wellness programs, carrier contracts, claims processing, and data handling, as well as
+cost analyses, were not conducted due to COVID-19 impacts on resources and priorities.
+Methodology
+To address our objective, we interviewed PEBB and OEBB board chairs, program management,
+and staff. We also interviewed legislative members, board consultants, school districts, and
+management at agencies in other states responsible for employee benefits.
+We reviewed PEBB and OEBB laws and rules, legislative mandates placed on the boards for cost
+containment and associated legislatively required reports, and board meeting minutes and
+materials. We also listened to recordings of select board meetings, legislative testimony, and
+work group meetings. Further, we reviewed comprehensive annual financial reports and union
+agreements for school districts to obtain public information on benefits, and studies and reports
+related to employee health benefit cost containment practices and efforts to reduce health care
+spending.
+We obtained and reviewed the lists of 2020 participating employers from PEBB and OEBB.  We
+also reviewed management performance metrics, consultant reports to the boards,
+communication mailers and guides to employers and members, PEBB carrier audit reports, and
+dependent eligibility verification removal rates.
+We also obtained and reviewed two years of monthly member services call data from PEBB and
+OEBB for the volume and reason for member calls. We also reviewed five years of data on the
+annual number and type of appeals made by members to the program.
+We performed a limited, high-level review of key PEBB and OEBB contracts and contract
+administration. We obtained copies of recent consultant contracts and reviewed them for
+content and key controls for review. For each of the consultants, we also obtained and reviewed
+two to three months of 2019 invoices for contract compliance. Further, we compared the 2019
+consultant not-to-exceed provisions to payments and expanded this comparison for one
+consultant into 2020.
+We conducted this performance audit in accordance with generally accepted government
+auditing standards. Those standards require that we plan and perform the audit to obtain
+sufficient, appropriate evidence to provide a reasonable basis for our findings and conclusions
+based on our audit objectives. We believe that the evidence obtained provides a reasonable basis
+for our findings and conclusions based on our audit objectives.
+We sincerely appreciate the courtesies and cooperation extended by officials and employees of
+PEBB and OEBB during the course of this audit.
+Oregon Secretary of State | Report 2020-39 | November 2020 | Page 20
+Appendix A: Employers Participating in PEBB
+The following are 107 Oregon employers participating in the PEBB program for medical insurance as of
+May 2020:
+Appraiser Certification and
+Licensure Board
+Beef Council
+BenefitHelp Solutions
+Board of Accountancy
+Board of Chiropractic
+Examiners
+Board of Clinical Social
+Workers
+Board of Dentistry
+Board of Examiners for
+Engineering and Land
+Surveying
+Board of Geologist Examiners
+Board of Massage Therapists
+Board of Optometry
+Board of Parole and Post-
+Prison Supervision
+Board of Pharmacy
+Board of Tax Service
+Examiners
+Bureau of Labor and
+Industries
+Columbia Drainage Vector
+Control District
+Commission for The Blind
+Commission on Indian
+Services
+Commission on Judicial Fitness
+and Disability
+Community College
+Association
+Construction Contractors
+Board
+Corrections Enterprise
+Criminal Justice Commission
+Dairy Products Commission
+Department of Administrative
+Services
+Department of Agriculture
+Department of Aviation
+Department of Consumer and
+Business Services
+Department of Corrections
+Department of Education
+Department of Energy
+Department of Environmental
+Quality
+Department of Fish and
+Wildlife
+Department of Forestry
+Department of Geology and
+Mineral Industries
+Department of Human
+Services
+Department of Justice
+Department of Land
+Conservation and
+Development
+Department of Parks and
+Recreation
+Department of Public Safety
+Standards and Training
+Department of Revenue
+Department of Transportation
+Department of Veterans
+Affairs
+District Attorneys and their
+Deputies
+Division of State Lands
+Dungeness Crab Commission
+Eastern Oregon University
+Employment Department
+Employment Relations Board
+Film & Video Office
+Government Standards and
+Practices Commission
+Health Related Licensing
+Board
+Higher Education Coordinating
+Commission
+Housing and Community
+Services
+Judges
+Judicial Department
+Land Use Board of Appeals
+Landscape Contractors Board
+Legislative Administration
+Legislative Assembly
+Legislative Counsel Committee
+Legislative Fiscal Office
+Legislative Policy and
+Research Committee
+Legislative Revenue Office
+Long Term Care Ombudsman
+Mental Health Regulatory
+Agency
+Office of the Governor
+Oregon Secretary of State | Report 2020-39 | October 2020 | Page 25
+Oregon Advocacy
+Commissions Office
+Oregon Business Development
+Department
+Oregon Forest Resources
+Institute
+Oregon Health Authority
+Oregon Hop Commission
+Oregon Institute of Technology
+Oregon Liquor Control
+Commission
+Oregon Medical Board
+Oregon Military Department
+Oregon Patient Safety
+Commission
+Oregon Potato Commission
+Oregon Racing Commission
+Oregon Real Estate Agency
+Oregon Salmon Commission
+Oregon State Library
+Oregon State Lottery
+Oregon State Marine Board
+Oregon State Police
+Oregon State Treasury
+Oregon State University
+Oregon Tourism Commission
+Oregon Travel Information
+Council
+Oregon Trawl Commission
+Oregon Wheat Commission
+Oregon Youth Authority
+Physical Therapist Licensing
+Board
+Portland State University
+Psychiatric Security Review
+Board
+Public Defense Services
+Commission
+Public Employees Retirement
+System (PERS)
+Public Utility Commission
+Secretary of State
+Southern Oregon University
+State Board of Architect
+Examiners
+State Board of Nursing
+Teachers Standards &
+Practices
+University of Oregon
+Water Resources Department
+Watershed Enhancement
+Board
+Western Oregon University
+Oregon Secretary of State | Report 2020-39 | October 2020 | Page 26
+Appendix B: Employers Participating in OEBB
+The following are over 250 employers participating in the OEBB program for medical health insurance
+as of May 2020:
+Adel SD 21
+Adrian SD 61
+Alsea SD 7J
+Amity SD 4J
+Annex SD 29
+Arlington SD 3
+Arock SD 81
+Ashwood SD 8
+Astoria SD 1
+Athena-Weston SD 29RJ
+Baker SD 5J
+Bandon SD 54
+Banks SD 13
+Bend-LaPine SD 1
+BenefitHelp Solutions (BHS)-
+TPA
+Bethel SD 52*
+Blachly SD 90
+Black Butte SD 41
+Blue Mountain Community
+College
+Brookings-Harbor SD 17C
+Burnt River SD 30J
+Butte Falls SD 91
+Camas Valley SD 21J
+Canby SD 86
+Cascade SD 5
+Centennial SD 28J
+Center for Advanced Learning
+- CS
+Central Curry SD 1
+Central Linn SD 552
+Central Oregon Community
+College
+Central Point SD 6
+Central SD 13J*
+Chemeketa Community
+College
+Clackamas Community College
+Clackamas ESD
+Clatskanie SD 6J
+Clatsop Community College
+Colton SD 53
+Columbia Gorge Community
+College
+Columbia Gorge ESD
+Condon SD 25J
+Coos Bay SD 9
+Coquille SD 8
+Coquille Valley Hospital
+Corbett SD 39
+Corvallis SD 509J*
+Cove SD 15
+Crater Lake Charter Academy
+Creswell SD 40
+Crook County SD
+Crow-Applegate-Lorane SD 66
+Culver SD 4
+Dallas SD 2
+David Douglas SD 40
+Dayton SD 8
+Dayville SD 16J
+Diamond SD 7
+Double O SD 28
+Douglas County SD 15
+Douglas County SD 4
+Douglas ESD
+Drewsey SD 13
+Dufur SD 29
+Eagle Point SD 9
+Eagle Ridge High School
+Echo SD 5
+Eddyville Charter School
+Elgin SD 23
+Elkton SD 34
+Enterprise SD 21
+Eola Hills Charter School
+Estacada SD 108
+Eugene SD 4J
+Falls City SD 57
+Forest Grove SD 15
+Fossil SD 21J
+Four Rivers Community School
+French Glen SD 16
+Frontier Charter Academy
+Gaston SD 511J
+Gervais SD 1
+Gladstone SD 115
+Glendale SD 77
+Oregon Secretary of State | Report 2020-39 | October 2020 | Page 27
+Glide SD 12
+Grant ESD
+Grants Pass SD 7
+Greater Albany Public SD 8J
+Gresham-Barlow SD 10J
+Harney County Health District
+Harney County SD 3
+Harney County SD 4
+Harney County Union High SD
+1J
+Harney ESD Region XVII
+Harper SD 66
+Harrisburg SD 7J
+HB2557
+Helix SD 1
+Hermiston SD 8
+High Desert ESD
+Hillsboro SD 1J
+Hood River County
+Hood River County SD
+Huntington SD 16J
+Imbler SD 11
+InterMountain ESD
+Ione SD R2
+Jefferson County SD 509J
+Jefferson ESD
+Jefferson SD 14J
+Jewell SD 8
+John Day SD 3
+Jordan Valley SD 3
+Joseph SD 6
+Josephine County
+Junction City SD 69
+Juntura SD 12
+Klamath Community College
+Klamath County
+Klamath County SD
+Klamath Falls City Schools
+Knappa SD 4
+La Grande SD 1
+Lake County SD 7
+Lake ESD
+Lake Oswego SD 7J
+Lane Community College
+Lane ESD
+Lebanon Community SD 9
+Lewis and Clark Montessori
+Charter School
+Lincoln County SD
+Linn Benton Lincoln ESD
+Linn-Benton Community
+College
+Long Creek SD 17
+Lowell SD 71
+Luckiamute Valley Charter
+School
+Malheur ESD Region 14
+Mapleton SD 32
+Marcola SD 79J
+McKenzie SD 68
+McMinnville SD 40
+Milton-Freewater Unified SD 7
+Mitchell SD 55
+Molalla River SD 35
+Monroe SD 1J
+Monument SD 8
+Morrow SD 1
+Mt Angel SD 91
+Mt Hood Community College
+Multnomah ESD
+Myrtle Point SD 41
+Neah-Kah-Nie SD 56
+Nestucca Valley SD 101J
+Newberg SD 29J
+Nixyaawii Community School
+North Bend SD 13
+North Central ESD
+North Douglas SD 22
+North Lake SD 14
+North Marion SD 15
+North Powder SD 8J
+North Santiam SD 29J
+North Wasco County SD 21
+Northwest Regional ESD
+Nyssa SD 26
+Oakland SD 1
+Oakridge SD 76
+Ontario SD 8C
+Oregon Cascades West COG
+Oregon Charter Academy
+Oregon City SD 62
+Oregon Coast Community
+College
+Oregon Trail SD 46
+Oregon Virtual Education
+Paisley SD 11
+Parkrose SD 3
+Oregon Secretary of State | Report 2020-39 | October 2020 | Page 28
+Pendleton SD 16
+Perrydale SD 21
+Philomath SD 17J
+Phoenix-Talent SD 4
+Pilot Rock SD 2
+Pine Creek SD 5
+Pine Eagle SD 61
+Pinehurst SD 94
+Pleasant Hill SD 1
+Plush SD 18
+Port Orford-Langlois SD 2CJ
+Portland Community College
+Portland SD 1J*
+Powell Butte Community
+Charter School
+Powers SD 31
+Prairie City SD 4
+Prospect SD 59
+Rainier SD 13
+Redmond SD 2J
+Reedsport SD 105
+Region 18 ESD
+Reynolds SD 7
+Riddle SD 70
+Riverdale SD 51J
+Rogue Community College
+Rogue River SD 35
+Salem-Keizer SD 24J
+Santiam Canyon SD 129J
+Scappoose SD 1J
+Scio SD 95
+Seaside SD 10
+Self-Pay Retirees
+Sheridan All Prep Academy
+Sheridan SD 48J
+Sherman County SD
+Sherwood SD 88J
+Siletz Valley Charter School
+Silver Falls SD 4J
+Silvies River Charter School
+Sisters SD 6
+Siuslaw SD 97J
+South Coast ESD
+South Harney SD 33
+South Lane SD 45J3
+South Umpqua SD 19
+South Wasco County SD 1
+Southern Oregon ESD
+Southwestern Oregon
+Community College
+Spray SD 1
+St Helens SD 502
+Stanfield SD 61
+Suntex SD 10
+Sutherlin SD 130
+Sweet Home SD 55
+Teach NW
+Tigard-Tualatin SD 23J
+Tillamook Bay Community
+College
+Tillamook SD 9
+Treasure Valley Community
+College
+Troy SD 54
+Ukiah SD 80R
+Umatilla SD 6R
+Umpqua Community College
+Union SD 5
+Vale SD 84
+Vernonia SD 47J
+Village School
+Wahtonka Community School
+Wallowa SD 12
+Warrenton-Hammond SD 30
+Web Academy Public Charter
+School
+West Lane Technical Learning
+Center
+Willamette ESD
+Willamina SD 30J
+Winston-Dillard SD 116
+Woodburn SD 103
+Yamhill Carlton SD 1
+Yoncalla SD 32
+* - not all district employees are covered by OEBB; some employees are provided with health care benefits from
+the district’s employee trust
+HEALTH POLICY AND ANALYTICS
+Public Employees’ Benefit Board
+Oregon Educators Benefit Board
+Kate Brown, Governor
+500 Summer Street NE, E-88
+Salem, OR 97301-1063
+Toll-free 888-469-6322
+November 20, 2020
+Kip Memmott, Director
+Secretary of State, Audits Division
+255 Capitol St. NE, Suite 500
+Salem, OR 97310
+Dear Mr. Memmott,
+This letter provides a written response to the Audits Division’s final draft audit report titled Efforts
+Have Helped Limit Some Employee Health Care Costs, but PEBB and OEBB Can Do More to Manage
+Costs and Optimize Benefits.
+It was a pleasure working with the audit staff assigned to PEBB and OEBB from the Secretary of
+State’s Office. We thought the audit was conducted very professionally, was fair to PEBB and
+OEBB, and overall was very well done. We welcomed the opportunity for a professional, third -
+party evaluation of our programs and thought the time and resources we dedicated to ass ist the
+auditors was time well spent.
+Cost containment is without a doubt the biggest challenge the boards face each year.  Yet the
+boards have been able to maintain top quality benefit offerings for PEBB and OEBB members
+while meeting the 3.4% annual rate of growth the legislature has mandated.  Beating the
+commercial insurance market trend of 6-7% each year is not the only cost containment challenge.
+Securing the Operating budget authority to invest in new communication mediums and dedicated
+contracting resources are identified as top priorities of the board as reflected in this year’s board
+meeting agendas focused on supporting members moving to a more virtual workplace, along with
+new legislatively mandated RFP’s and alterations to benefit designs forced by COVID-19.
+As detailed in this report, there is still much work to be done.  The PEBB and OEBB boards remain
+committed to alignment and participation in the SB 889 Statewide Cost Growth Committee’s
+proposed “Compact” around value-based payments and the statewide cost growth target. The
+future looks bright to leverage the purchasing power of the boards  and other publicly-funded
+programs, and even expand the size of the risk pools by welcoming new local government entities.
+The boards remain focused on embracing innovation, centering around health equity, and
+executing on their short- and long-term strategic plans even while battling a pandemic.
+Public Employees’ Benefit Board
+Oregon Educators Benefit Board
+Below is our detailed response to each recommendation in the audit.
+RECOMMENDATION 1
+To strengthen cost containment, communication, and contract administration, we recommend
+PEBB and OEBB:
+Regularly communicate to members further educational opportunities in addition to open
+enrollment for members to learn how to better understand the details of their insurance coverage
+and how to utilize their benefits to make optimal health and cost decisions.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number of
+specific point of contact for
+implementation
+Agree
+PEBB New Hire training
+Q4 2020
+Comms Strategy Phases 1-4
+throughout 2021 and 2022,
+complete in Q3 2022
+OEBB carrier benefits videos
+Q2 2021
+Cindy Bowman
+971-600-8969
+Narrative for Recommendation 1
+PEBB staff are currently collaborating with Rise Partnership, SEIU, and DAS to develop training and
+materials for newly hired State employees. Rise Partnership and SEIU began piloting the training
+with DAS in October 2020.
+In 2019, the PEBB Board directed our consultant, Mercer, to develop a comprehensive
+communications strategy.
+o Staff will begin work in Q1 2021 with Mercer, to develop and implement a
+dedicated new hire section for the PEBB website, with supporting materials. This
+section is aimed at guiding new employees through the benefits decision-making
+process.
+o PEBB will also work with Mercer to create a monthly calendar for “Did you
+know?” emails, integrating carrier resources where possible. Calendar is targeted
+for Q4 2020 completion; implementation to begin Q1 2021.
+PEBB and OEBB, in collaboration with contracted insurance carriers will create educational
+resources including webinars, targeted videos, downloadable flyers and newsletters. The goal to
+create the same “on demand” experience we have during open enrollment. Open Enrollment
+focuses on choosing the right plan. This resource hub will be focused on how best to use your plan
+once chosen.
+Public Employees’ Benefit Board
+Oregon Educators Benefit Board
+RECOMMENDATION 2
+To strengthen cost containment, communication, and contract administration, we recommend
+PEBB and OEBB:
+Periodically communicate to employers, members, and stakeholders about the board’s ongoing
+administration of benefits, cost containment efforts, and the anticipated effects on affordability and
+accessibility of health care coverage to stakeholders, including employers and members.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number of
+specific point of contact for
+implementation
+Agree
+July 1, 2021
+Cindy Bowman
+971-600-8969
+Narrative for Recommendation 2
+PEBB and OEBB already sponsor and lead employer focus groups. They are the  PEBB Information
+Exchange (PIE) and OEBB Business Information Exchange (BIE) and were created to communicate
+and exchange information on emerging issues from board meeting s, act as a conduit to the boards
+and place an emphasis on disseminating Board decision-making around benefits, cost-
+containment efforts, and making sure information is getting to the right places at the right time.
+These focus group meetings have been on hold during COVID- 19 but will re-emerge on a more
+frequent basis with an expanded outreach to other stakeholders.
+PEBB and OEBB will include a more detailed breakdown of board discussions, the decision-making
+process, and take a more pro-active role in disseminating information. Examples would include
+adding a new section to the PEBB monthly “Did you know” and will expand PEBB and OEBB Board
+web pages to highlight board decisions.
+RECOMMENDATION 3
+To strengthen cost containment, communication, and contract administration, we recommend
+PEBB and OEBB:
+Consistently collect, analyze, and share results of employers’ and members’ experiences to better
+inform board decisions; for example, consistently track customer service calls to the programs, ask
+about benefit and claim experiences on the annual member survey, and obtain information from
+carriers on claims calls and appeals.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number of
+specific point of contact for
+implementation
+Agree
+July 1, 2021  Cindy Bowman
+971-600-8969
+Public Employees’ Benefit Board
+Oregon Educators Benefit Board
+Narrative for Recommendation 3
+OEBB currently has “benefit-experience” related questions on the annual member survey. Rather
+than expand the number of questions in the  survey, staff will work with contracted insurance
+carriers to collect and synthesize information annually about: utilization of benefits, claims
+processing timeliness, member call resolution, overall satisfaction as well as information related
+to benefit appeals.
+PEBB currently performs a customer-service focused survey that does not contain benefit
+utilization questions.  PEBB will seek to align with OEBB over the next year and  request the
+carriers collect the same information.
+RECOMMENDATION 4
+To strengthen cost containment, communication, and contract administration, we recommend
+PEBB and OEBB:
+Promptly enhance clarity and oversight of consultant and carrier contracts, which should include:
+a) ensuring consultant contracts have clearly defined deliverables that are of
+value and the related costs;
+b) identifying deliverables in current contracts, and monitoring and enforcing
+deliverables be contract compliant;
+c) verifying invoices for mathematical accuracy and contract compliance by staff
+who have the pertinent training and knowledge of contract terms; and
+d) having a comprehensive program for identifying improper claim payments
+that is reflected in contracted services.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number of
+specific point of contact for
+implementation
+Agree
+New processes established
+and documented by end of
+2021
+Brian Olson
+(503) 983-4446
+Narrative for Recommendation 4
+a) Ensuring consultant contracts have clearly defined deliverables that are of value
+and the related costs.
+We have implemented new processes and regular meetings with both consultants to
+better track assigned work and approve invoices, which have gone well and have
+been effective. We have also asked Mercer to provide additional information as part
+of their invoice process, which has been helpful. We plan to build on all this going
+forward. In addition, we have decided to move to a raw dollar NTE, which will be
+Public Employees’ Benefit Board
+Oregon Educators Benefit Board
+amended into the consultant contracts for the upcoming terms. Furthermore, we
+are addressing these various needs through our development of an upcoming
+Consultant RFP. Currently, we have Contracts staff working with other department
+staff and leadership to identify what our exact consultant needs are going forward
+and how to best build that into the next procurement.
+b) Identifying deliverables in current contracts, and monitoring and enforcing
+deliverables be contract compliant.
+Contracts staff worked with leadership to review and refine carrier contractual
+reporting requirements, scoping down what was not needed and being actively
+monitored. In the future, we will review each report and ensure it is assigned to
+specific staff with the requisite expertise to review.
+Staff is developing several updated contract administration processes, including
+those tied to monitoring and enforcement. We are currently focusing on the annual
+contract renewal process. This updated process will be a full end to end process that
+actively incorporates contract deliverables and analysis into real time decision-
+making processes for the subsequent plan year renewals. We envision reporting
+certain information from contracts to consultants and the Boards at the very
+beginning of the annual renewal process and again before the end of the process
+after we have a more complete picture of the prior year (due to claims lag). We also
+envision asking consultants and certain staff to take a more active role in
+determining reporting needs and required performance measures during the
+renewal process itself and around the time we provide contract report information
+to the decision-makers. We anticipate partially standing up new processes in 2021
+and then refining and adjusting them near the end of 2021 based on our experience.
+c) Verifying invoices for mathematical accuracy and contract compliance by staff who
+have the pertinent training and knowledge of contract terms.
+See comments in a) regarding changes in how we review consultant work and
+invoices.
+d) Having a comprehensive program for identifying improper claim payments that is
+reflected in contracted services.
+This will be partially addressed through the process work described above in b).
+Specifically, we will review the current claims-related contract deliverables staff
+receive (there are some claims reports as well as some claims-related performance
+measures) and determine whether the deliverables are adequate and appropriate.
+As part of the renewal process work, we will identify when and where the contract
+deliverable information will flow into the annual renewal process. We will then
+determine how that information will be coupled with more detailed and complex
+claims information our consultants typically develop and present during the renewal
+process. We will also need to determine how that information together is best used
+to lead to Board renewal decisions.
+Public Employees’ Benefit Board
+Oregon Educators Benefit Board
+RECOMMENDATION 5
+To better manage its reserve, we recommend PEBB:
+Develop a formal strategic plan that includes elements such as the appropriate amount to be
+maintained in reserve and steps to take when the reserve reaches higher or lower levels than
+targeted.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number of
+specific point of contact for
+implementation
+Agree
+Oct. 1, 2021
+Ali Hassoun
+503-779-4385
+Narrative for Recommendation 5
+The PEBB board maintains the Stabilization Fund (also known as “the reserve”) in the state
+treasury. The board works with its consultant actuary each year to project an amount in the
+Stabilization Fund sufficient to meet both anticipated and unanticipated fluctuations in claims
+costs. The Board has used the fund to stabilize premiums, subsidize the employee premium share,
+and fund programs designed to reduce premium increases, but the board has no formal policy for
+how to manage funds in the event that reserves exceed the fully funded target level.
+When the PEBB Reserve exceeds the targeted fully funded reserve level, the legislature has in
+recent years legislated a “fund sweep” of those excess reserves that have resulted in a n OMB
+Circular A87 Federal payback for an unallowable transfer. Over the next 12 months the PEBB
+board will consider developing a “Formal” reserve policy that includes direction for handling of
+excess funds in the reserve when they exceed the target. One i tem to note is that PEBB’s
+legislatively adopted biennial budget is developed using a 3.4% annual increase. For the board to
+“buy-down” a higher than anticipated annual contract renewal beyond the 3.4%, it would likely
+need to secure additional budget limitation from the legislature in an Emergency Board rebalance
+request, or full legislative session. A formal reserve policy may inhibit future fund sweeps.
+RECOMMENDATION 6
+To further strengthen communication and information for decision-making, we recommend OEBB:
+Clearly communicate the extent school districts participate in OEBB (e.g., when communicating
+externally to stakeholders such as in Legislature communications and on OEBB’s website).
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number of
+specific point of contact for
+implementation
+Agree
+January 31, 2021
+Damian Brayko
+503-559-3763
+Public Employees’ Benefit Board
+Oregon Educators Benefit Board
+Narrative for Recommendation 6
+Because a total penetration figure will be more meaningful than a raw number to most audiences,
+staff will add a statement to the OEBB website indicating the percentage of education -based
+entities covered by OEBB. Since local government entities can participate in OEBB bu t were never
+required to, staff will also add the raw number of local government entities who have chosen to
+participate in OEBB. Staff will use these figures in future communications to the Legislature, such
+as the Ways and Means presentation in January 2021.
+RECOMMENDATION 7
+To further strengthen communication and information for decision-making, we recommend OEBB:
+Create a member advisory committee or an alternative method for member advice and feedback to
+the board.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number of
+specific point of contact for
+implementation
+Agree
+October 31, 2021
+Damian Brayko
+503-559-3763
+Narrative for Recommendation 7
+Staff will present the OEBB board with a proposal to establish an OEBB advisory committee similar
+to PEBB’s Member Advisory Committee (PMAC). Staff  will seek both OEBB entity representatives
+and OEBB members from across the state to serve on the committee  and will look to center
+health equity in the proposal. Accordingly, staff will seek to add diverse candidates in all
+committee recruitments. The intent would be to first secure approval from the board, then
+formally establish the group with a charter and bylaws by th e end of October 2021, and to
+establish a desired meeting frequency at the initial committee meeting by January 2022.
+Please contact Damian Brayko
+at 503-559-3763 or Ali Hassoun at 503-779-4385 with any
+questions.
+Sincerely,
+Ali Hassoun
+Director,
+Oregon Educators Benefit Board /
+Public Employees’ Benefit Board
+cc:
+Audit Team
+Ian Green, M.Econ, CGAP, CFE, CISA, Audit Manager
+Jamie Ralls, CFE, Audit Manager
+Karen Peterson, Principal Auditor
+Wendy Kam, MBA, CFE, Staff Auditor
+Jeffrey Watson, Staff Auditor
+About the Secretary of State Audits Division
+The Oregon Constitution provides that the Secretary of State shall be, by virtue of the office, Auditor of Public
+Accounts. The Audits Division performs this duty. The division reports to the elected Secretary of State and is
+independent of other agencies within the Executive, Legislative, and Judicial branches of Oregon government.
+The division has constitutional authority to audit all state officers, agencies, boards and commissions as well as
+administer municipal audit law.
+This report is intended to promote the best possible management of public resources.
+Copies may be obtained from:
+Oregon Audits Division
+255 Capitol St NE, Suite 500 | Salem | OR | 97310
+(503) 986-2255
+sos.oregon.gov/audits

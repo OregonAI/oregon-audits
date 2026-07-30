@@ -1,0 +1,2367 @@
+Secretary of State Bev Clarno
+Audits Division Director Kip Memmott
+Oregon Department of Education, Oregon Department of Human
+Services, and Oregon State Police
+Oregon Should Improve Child Safety by
+Strengthening Child Care Background Checks and
+the State’s Sex Offender Registry
+June 2020
+2020-21
+Oregon Departments of Education, Human Services, and State Police
+Oregon Should Improve Child Safety by
+Strengthening Child Care Background Checks
+and the State’s Sex Offender Registry
+What We Found
+1. Background checks for state-approved child care providers include an in-
+depth fitness determination that considers both child safety and
+employment rights. Audit work found the vast majority of child care
+providers have no criminal convictions. However, OCC and BCU have
+approved some who committed concerning crimes, child abuse or
+neglect, or have patterns of criminal convictions or abuse allegations
+after concluding these did not create risk to children. (pg. 12)
+2. Oregon rules provide little guidance on which criminal backgrounds are
+permissible for providers. OCC and BCU have varying interpretations and
+inconsistencies in screening child care providers and do not consider
+some convictions automatically disqualifying, even when the state has
+deemed it so for other professions involving children. (pg. 16)
+3. OCC and BCU have information and data system limitations preventing
+them from having complete information, including information on abuse
+and neglect and background checks for preschool and school-age
+programs. Also, regulatory agencies could better coordinate and
+proactively share pertinent information they collect to help ensure the
+ongoing safety of children in child care settings. (pg. 22)
+4. Registered sex offenders are federally disqualified from being a regulated
+child care provider or staff. Inaccurate and incomplete information,
+delays with notification, and limitations to the state’s public sex offender
+registry site diminish the accuracy and thoroughness of background
+checks. (pg. 24)
+What We Recommend
+We made eight recommendations in total to OCC, BCU, and the Oregon State
+Police (OSP) to improve child care provider background checks and the safety
+of children in child care settings. OCC and OSP agreed with all their applicable
+recommendations. DHS, with the exception of partially agreeing to one
+recommendation, agreed with their applicable recommendations. Their
+responses can be found at the end of the report.
+Why This Audit is
+Important
+» Oregon has incidents of
+child abuse and neglect by
+child care providers.
+Comprehensive
+background checks and
+high standards for child
+care providers can help
+ensure the safety of
+children in child care.
+» The Oregon Department
+of Education’s Office of
+Child Care (OCC) licenses
+and regulates over 3,600
+child care facilities and
+providers and maintains a
+central background
+registry.
+» The Oregon Department
+of Human Services’
+Background Check Unit
+(BCU) screens the
+backgrounds of about 4,500
+providers caring for
+children in the
+Employment-Related Day
+Care subsidy program.
+» OCC and BCU are subject
+to the federal Child Care
+and Development Block
+Grant Act that, when
+reauthorized in 2014, set
+many new background
+check and fingerprint
+requirements for child care
+providers and staff.
+The Oregon Secretary of State Audits Division is an independent, nonpartisan organization that conducts audits based on
+objective, reliable information to help state government operate more efficiently and effectively. The summary above should be
+considered in connection with a careful review of the full report.
+Oregon Secretary of State | Report 2020-21 | June 2020 | Page 1
+Introduction
+Child care plays a critical role in child development and allows parents
+to maintain employment. Parents rely on child care providers to care
+for and protect their children. Yet Oregon has seen disturbing
+instances of child abuse, neglect, and death in child care settings. Cases
+of child abuse and neglect, and even deaths associated with child care
+providers, have raised concerns with how the state regulates and
+oversees child care providers.
+This audit resulted from a request from the Governor’s Office for us to examine statewide child
+care investigation coordination risks and challenges. Newly expanded federal background check
+requirements for child care providers and all other persons with unsupervised access to
+children in child care, along with a 2018 state statute and governor directive, dramatically
+expanded Oregon’s child care background check requirements. Conducting these background
+checks involves three state agencies: the Oregon Department of Human Services (DHS), Oregon
+Department of Education (ODE), and Oregon State Police (OSP). The purpose of this audit was to
+assess how well Oregon is meeting these requirements.
+“Three out of four
+children will be in paid
+day care before
+entering kindergarten.”
+- ODE 2017-19 Agency
+Request Budget
+Oregon Secretary of State | Report 2020-21 | June 2020 | Page 2
+Oregon families have challenges finding and affording child care and have to
+be mindful about provider safety
+In Oregon, the vast majority of parents work and have a need for high-quality child care that is
+accessible, affordable, and most importantly, safe. Although various child care options are
+available to parents, the cost and limited availability of child care throughout the state limits the
+viability of some of these options for many families. Some providers are not licensed or
+regulated by the state, meaning it is up to parents to exercise due diligence when selecting a
+provider. In contrast, for providers under the purview of regulatory agencies, such as DHS and
+ODE, parents should be able to trust background checks and the licensing process to help ensure
+the safety of their children.
+Oregon families face challenges with access and affordability
+Oregon families, especially those with young children,
+struggle to find child care due to an inadequate supply.
+Providers, depending on the type of child care they provide,
+have a finite number of openings, or slots, they can offer. A
+recent Oregon State University study concluded that most
+Oregon families with children age five and under, and all
+families with an infant or toddler, live in a child care
+desert.1 A child care desert is a community with more than
+three children for every single licensed child care slot. The
+study found, on average, all 36 Oregon counties had at least
+eight infants and toddlers for each child care slot available to those age groups, and 25 counties
+on average had three preschool-age children for every child care slot available to that age group.
+Child care is also expensive. In recent years, Oregon has ranked in the top 10 of least affordable
+states for infant, toddler, and 4-year-old care. The average annual
+price for care was over $13,500 for an infant and over $12,600 for a
+toddler in an Oregon-licensed care center.2 This is more than a
+year’s tuition for a resident undergraduate attending any Oregon
+public university in 2018-19.3
+Although the Employment-Related Day Care program helps low
+income families offset the cost of child care so they can maintain
+employment, Oregon still has among the highest parent co-pays in
+the nation, which can leave low-income families spending as much
+as 30% of their income on child care. Additionally, the program only
+serves 16% of eligible families.
+Oregon passed legislation in 2019 that created the Access to Quality
+Affordable Child Care task force and charged it with developing
+recommendations to improve access and affordability of child care
+by September 15, 2020.
+1 Oregon’s Child Care Deserts: Mapping Supply by Age Group, Metropolitan Status, and Percentage of Publicly Funded Slot, 2019
+Oregon Child Care Research Partnership, Oregon State University.
+2 The US and the High Cost of Child Care: A Review of Prices and Proposed Solutions for a Broken System, 2018, Child Aware of
+America.
+3 The highest Oregon public university tuition was under $12,000 and this included fall, winter, spring, and summer terms.
+The average cost of child
+care is not affordable
+Affordable child care,
+according to the U.S.
+Department of Health and
+Human Services should be
+no more than 7% of a
+family’s income.
+The national average price
+of child care for one child
+is around $9,000 to $9,600
+per year, which is 11% of a
+married couple’s income
+and 36% of a single
+parent’s income.
+Oregon has child care deserts
+On average, Oregon has at least
+eight infants and toddlers for a
+single child care slot, and there are
+at least three preschool-age
+children for a single child care slot in
+25 counties.
+- 2019 Oregon State University study
+Oregon Secretary of State | Report 2020-21 | June 2020 | Page 3
+Oregon continues to see maltreatment of children in child care settings
+In addition to the challenge of finding and paying for child care, parents have to be careful about
+the safety of their children. Unfortunately, children are vulnerable to abuse and neglect by
+adults, including by caregivers.4 According to the Centers for Disease Control and Prevention,
+child maltreatment is common, with at least 1 in 7 children in the nation experiencing child
+abuse or neglect in the past year. Further, the rates of child abuse and neglect are five times
+higher for children living in poverty.
+In Oregon, for the past six years, at least 1 in 5 incidents of child abuse and neglect investigated
+by DHS was confirmed (or founded) as child abuse or neglect. These involved over 10,000
+victims each year; almost half were children younger than six years of age. While family
+members most often committed the abuse and neglect, a small subset of perpetrators were child
+care providers.5
+Figure 1: Founded cases of child abuse and neglect involving Oregon child care providers  have generally
+increased over the past eight years
+Source: Oregon Child Welfare Data Books for founded cases of child abuse and neglect
+ODE has confirmed receiving hundreds of complaints annually against licensed child care
+providers on issues such as physical harm to a child, safety risks for children, and unsanitary
+conditions. While it is uncommon, OCC has also reported 10 children have died in Oregon
+licensed child care settings from 2011 to 2018, with at least one due to child neglect.
+Unfortunately, more incidents of child abuse and neglect likely have gone unreported to
+authorities. The trauma from child maltreatment is harmful and lasting; it has been linked to
+risky health behaviors, chronic health conditions, reduced life potential, and early death. Given
+these negative consequences and associated costs, reasonable measures to prevent child abuse
+and neglect, such as comprehensive background checks, are warranted.
+Parents have diverse options for child care providers, including providers
+licensed or regulated by the state
+Parents use many different arrangements, including some child care providers who are not
+licensed or regulated by the state. For example, providers who care for three or fewer children,
+4 The Child Abuse Prevention and Treatment Act (PL 100-294), as amended by the CAPTA Reauthorization Act of 2010 (PL 111-320),
+defines child abuse and neglect as, at a minimum: Any recent act or failure to act on the part of a parent or caretaker which results in
+death, serious physical and emotional harm, sexual abuse or exploitation; or an act or failure to act, which present an imminent risk
+of serious harm.
+5 According to the National Child Abuse and Neglect Data System, established in response to the Child Abuse Prevention and
+Treatment Act of 1988, perpetrator is defined as “a person who is determined to have caused or knowingly allowed the
+maltreatment of a child.” Maltreatment includes instances of child abuse (e.g., physical, sexual, or psychological) and neglect.
+5 6
+26 33
+57 62
+2011 2012 2013 2014 2015 2016 2017 2018
+Founded cases perpetrated by childcare providers
+Oregon Secretary of State | Report 2020-21 | June 2020 | Page 4
+or only care for children on an occasional basis, are exempt from state licensing requirements. In
+these cases, parents have the full responsibility to evaluate the provider.
+Other child care providers are licensed or regulated by the state, which regularly conducts
+background checks and ensures providers meet certain requirements, such as training to ensure
+they keep children in their care safe. Licensed providers include registered family child care,
+certified family child care, and certified child care centers. The state also regulates subsidy-
+eligible providers, who care for non-related children where the family is eligible for child care
+assistance, and maintains a record of part-time preschool and school-age programs.
+Figure 2: Child care arrangements offer diverse care options and have different state requirements
+Registered
+Family Child Care
+Certified Family
+Child Care
+Certified Child Care
+Center
+Regulated Subsidy
+Provider
+Recorded Programs
+Care Options
+Home-based
+child care with 4-
+10 children
+Home-based
+child care with
+4-16 children
+Center-based child care
+with number of
+children dependent on
+floor space and staff
+(generally more than
+13 children)
+Family, friend, and
+some programs with
+limited hours that are
+eligible for state
+subsidy reimbursement
+Preschool programs for
+four hours or less per day
+and school-age programs
+that are not required to
+be licensed
+Oversight
+Agency
+Department of
+Education’s
+Office of Child
+Care
+Department of
+Education’s
+Office of Child
+Care
+Department of
+Education’s Office of
+Child Care
+Department of Human
+Services
+Department of
+Education’s Office of Child
+Care
+Extent of
+Oversight
+Comprehensive background checks, on-site inspections, monitored regularly, and ongoing
+training*
+Self-attest use of criminal
+background checks on all
+staff and volunteers age
+18 and older
+Eligible for
+Subsidy
+Dollars
+Eligible Eligible Eligible Eligible
+Only eligible if programs
+meet requirements for
+regulated subsidy
+Total
+providers as of
+May 2019  1,636 789 1,207 4,497 450
+* Licensed providers must meet higher health, safety, and program standards than regulated subsidy providers for on-site inspections.
+Source: ODE Early Learning Division
+Multiple agencies conduct background checks to help ensure child safety in
+Oregon
+Oregon is one of a few states that assigns oversight responsibility for child care background
+checks to two different state agencies, ODE and DHS. Additionally, several DHS programs
+maintain abuse and neglect allegation information and OSP maintains the criminal and sex
+offender registry information used in conducting the background checks.
+ODE’s Office of Child Care oversees Oregon licensed child care providers
+The Office of Child Care (OCC), housed in the Early Learning Division of ODE, licenses child care
+providers, monitors those providers, and maintains the state’s Central Background Registry
+-------------------------------Licensed------------------------------- ----------------License Exempt------------------
+Oregon Secretary of State | Report 2020-21 | June 2020 | Page 5
+(CBR).6 Background checks are required for licensing and OCC coordinates the background
+check process for new or renewing licensed child care providers. OCC runs approximately
+28,000 background checks annually and performs quarterly criminal checks on all individuals in
+the CBR.
+OCC also maintains a record of preschool and school-age programs, administers the federal Child
+Care and Development Block Grant for Oregon, and maintains the Child Care Safety Portal. This
+portal is an online, public resource for health and safety information about Oregon licensed and
+recorded child care facilities. Portal information includes valid complaints against child care
+providers and corrective actions taken by OCC.
+Multiple DHS programs are involved in conducting background checks and maintaining
+abuse and neglect investigation information
+The Background Check Unit (BCU) at DHS performs the required background checks on license-
+exempt child care providers and is Oregon’s point of contact for processing child protective
+service background check requests within and outside of the state.
+Before BCU conducts these background checks, the application for a license-exempt provider is
+screened by the DHS Direct Pay Unit for completeness and meeting other program
+requirements. Only after the background checks and required trainings are completed is the
+applicant approved for listing and payment with the state as an approved Employment-Related
+Day Care (ERDC) provider. In this program, families choose their DHS-approved child care
+provider, and DHS passes through federal funding to pay the subsidy portion to the provider
+while the family pays the remaining cost. The agency receives federal funding for this program
+and subsidizes child care for about 7,800 families. According to DHS, most ERDC providers are
+not caring for relatives.
+As part of the background check process, BCU uses three sources within DHS to look for abuse
+and neglect information.
+• The Child Welfare program, which reviews and investigates child abuse and neglect
+allegations, maintains child welfare investigation information in OR-Kids, which is the
+database containing the state’s child abuse and neglect registry.
+• The Aging and People with Disabilities program, which provides services to any adult
+over the age of 65 and adults with developmental or physical disabilities, maintains
+information on its investigations of reported adult abuse occurring within in-home
+services, community-based facilities, and nursing facilities.
+• The Office of Training, Investigations, and Safety in DHS’s Shared Services program
+maintains information on its investigations of reported abuse and neglect of seniors and
+people with disabilities, adults with developmental disabilities or mental illness, and
+children receiving residential treatment services.
+Oregon State Police maintains criminal justice information and the state’s sex offender
+registry
+Among its many responsibilities, OSP maintains the Law Enforcement Data System (LEDS) and
+the state sex offender registry.7 OSP conducts the fingerprint-based criminal background checks
+6 Oregon laws require certain child care staff and individuals who may have unsupervised access to children to apply for enrollment
+in the Central Background Registry.
+7 LEDS is a database containing law enforcement records such as warrants, criminal histories, and other vital investigative files.
+Oregon Secretary of State | Report 2020-21 | June 2020 | Page 6
+on child care providers for OCC and BCU. OSP also
+sends the fingerprints to the FBI, which then conducts
+a fingerprint-based check of the National Crime
+Information Center.
+Oregon’s sex offender registry includes information on more than 30,000 adult offenders with
+approximately 900 meeting the criteria for being listed on the public website.
+Efforts have been taken to enhance child care provider background checks
+Child care providers are expected to be of good character and to offer safe, nurturing
+environments for children. Background checks for providers help reduce the likelihood that
+someone who might hurt children has access to them. These checks also reassure parents that
+people who have access to their children do not have records of endangering behavior. This
+safety expectation is recognized by new federal regulations, which sets a standard of no stone
+left unturned in requiring that multiple sources of information must be examined to evaluate the
+backgrounds of child care providers.
+Federal law now requires eight background checks for providers and prohibits individuals
+with certain criminal backgrounds from being around children in child care
+The Child Care and Development Block Grant (CCDBG) Act, created in 1991, is the primary
+federal grant providing child care assistance for families in need. Its reauthorization in 2014
+aimed to protect children’s health and safety, help parents make informed choices, improve the
+quality of care, and provide equal access to high-quality care. To enhance the health and safety of
+children, many new requirements were added to the CCDBG, including mandatory,
+comprehensive criminal background checks for all child care staff members.9 The background
+checks were put in place as a “basic safeguard essential to protect the safety of children in child
+care and reduce children’s risk of harm.”
+As of September 30, 2017, states are required to conduct eight
+distinct background checks for all licensed, regulated,
+registered, and subsidy-eligible providers and staff.10 This
+includes not only caregivers, teachers, or directors, but also
+janitors, cooks, and other employees of a provider who, even
+though they may not regularly engage with children, have the
+opportunity for unsupervised access. It also requires checks for
+all adults living in a family child care home. The eight
+background checks include a mix of national, in-state, and
+interstate checks:
+• FBI fingerprint: A FBI fingerprint check using biometrics;
+• National sex offenders: A search of NCIC’s National Sex
+Offender Registry;
+• State criminal records: A search of the state criminal
+registry or repository in the state where the individual resides
+(fingerprints required);
+8 45 CFR Part 98
+9 The CCDBG Act of 2014 is the primary source of federal funding to states through the Child Care and Development Fund. These
+funds help low-income families, who are working or participating in education or training to offset the high cost of child care.
+10 Comprehensive background checks are not required of child care providers if they are familial.
+New federal requirements for
+background checks
+Prior to the new federal
+requirements, about 14.5% of
+individuals applying for
+enrollment in the OCC Central
+Background Registry to be a
+child care provider were
+required to complete the FBI
+fingerprint checks.
+With the new requirements, the
+FBI background check applied to
+all 63,000 individuals enrolled in
+the OCC Central Background
+Registry.
+-Oregon Department of
+Education 2017-19 Agency
+Request Budget
+On average, over the past 10 years, 1,200
+new offenders were added to Oregon’s
+sex offender registry database annually.
+Oregon Secretary of State | Report 2020-21 | June 2020 | Page 7
+• Other state criminal records: A search of other state criminal registries or repositories
+in each state the individual resided during the preceding five years (use of fingerprints
+optional);
+• State sex offenders: A search of the state sex offender registry or repository;
+• Other state sex offenders: A search of other state sex offender registries or repositories
+where the individual resided during the preceding five years;
+• State child abuse and neglect history: A search of the state child abuse and neglect
+registry and database; and
+• Other state child abuse and neglect history: A search of other state child abuse and
+neglect registries where the individual resided during the preceding five years.
+Besides mandatory background checks, federal requirements also, for the first time, expressly
+disqualify individuals with certain criminal backgrounds (regardless of how long ago the
+conviction occurred) from caring for children. These criminal backgrounds include:
+• registered sex offender;
+• convicted of a violent misdemeanor committed as an adult against a child; and
+• convicted of a felony consisting of murder, child abuse or neglect, crimes against
+children, spousal abuse, crimes involving rape or sexual assault, kidnapping, arson,
+physical assault or battery, or certain drug-related offenses.11
+Oregon, already performing some background checks, received waivers to postpone
+implementation of the remaining federal requirements
+Before the new federal requirements went into effect,
+Oregon’s agencies overseeing child care providers were
+conducting some background checks on prospective and
+existing providers. These included checking Oregon’s
+criminal history repository, Oregon’s sex offender registry,
+and Oregon’s child abuse and neglect registry, as well as an
+FBI fingerprint check if there were concerns about the
+person’s criminal history.
+Oregon, like other states, was granted additional time to
+comply with the new background check requirements. Since
+then, only two states have met all the requirements. In
+August 2019, Oregon requested a waiver for an additional
+year to implement the remaining requirements:
+• conducting remaining checks of the state criminal
+registry using fingerprints for about 216 current
+providers; and
+• establishing requirements and procedures and conducting checks on all new and
+existing staff using the National Sex Offender Registry, and the three interstate checks
+(i.e., criminal history, sex offender, and child abuse and neglect checks).12
+Oregon requires three additional background checks on child care providers
+Beyond the federal requirements, Oregon recently added three additional background check
+requirements of its own for providers. In July 2018, the Governor directed OCC to check the
+11 With the exception of a felony conviction of a drug-related offense committed during the preceding five years, all of the felony and
+violent misdemeanor convictions listed by the act are lifetime bans against employment by a child care provider.
+12 According to OCC, the number of providers remaining for fingerprint checks as of March 3, 2020, was 86.
+Statewide Oregon criminal
+records check rules
+Oregon rules provide examples of
+crime convictions and offenses
+that are “potentially
+disqualifying” and those “likely to
+result in denial” unless there are
+significant mitigating
+circumstances, but require each
+state agency to do a fitness
+determination to assess the
+circumstances around those
+convictions. These rules apply for
+all of Oregon, and include
+individuals who have direct access
+or provide services to children.
+Oregon Secretary of State | Report 2020-21 | June 2020 | Page 8
+license status of providers who provided care in other states. This check determines if licensees
+in other states were in good standing. Also in 2018, Oregon added both foster care certification
+and adult protective service checks to the list of background checks to be conducted by OCC.
+These checks look at whether individuals have histories of negative actions taken on their foster
+home certifications or substantiated allegations of adult abuse and neglect. They can also help
+prevent individuals who may have negative histories in other areas of caregiving from working
+in child care.
+A fitness determination is required if background checks reveal concerning
+behavior
+Most states, including Oregon, appear to use the same basic model for processing provider
+background checks. The process begins with a provider submitting a new or renewal application
+to a regulating agency. The agency reviews the application for accuracy and completeness and
+works with a law enforcement agency to conduct the criminal and sex offender registry checks,
+and with a human services department to conduct abuse and neglect checks.
+A key step in the process in Oregon is a requirement for OCC and DHS to conduct a fitness
+determination if a provider or staff have a history of criminal behavior. For convictions other
+than those that are federally disqualifying, such as sexual misconduct and luring a minor,
+agencies collect further information to understand the conviction circumstances and to help
+assess the character of the individual. Such information includes court documents and abuse and
+neglect investigation reports. Then agencies weigh and evaluate the information using different
+factors to determine whether the person poses a considerable risk to a child’s safety. These
+factors include, but are not limited to:
+• nature, details, and relevancy of the criminal or abuse incident;
+• intervening circumstances, such as time since incident, age at the time of the incident,
+and likelihood of repetition;
+• subsequent incidents and criminal history; and
+• changes or treatment since the incident.
+In evaluating each criminal or abuse incident, OCC and BCU base their decisions, in part, on
+assumptions. Some of these assumptions are that:
+• the age at which a person committed the offense impacts
+the likelihood of reoffending;
+• more years since an allegation indicates less risk of
+committing new offenses;
+• one founded incident does not indicate a pattern of abuse
+or neglect;
+• the presence or absence of a self-report on the application
+form is indicative of personal responsibility; and
+• unfounded allegations are not a strong basis for
+suspending or denying a provider.
+If a criminal conviction was in another state, OCC or BCU has
+to collect and interpret the criminal records to determine
+how the crime relates to Oregon laws, as criminal offenses
+vary in name and severity across states. Also, while federal
+Oregon is one of 20 states
+participating in the FBI National
+Fingerprint File program. For the
+other 30 states that do not
+participate, OCC and BCU have to
+contact those states directly for
+state criminal histories. Unlike
+criminal records, there is no
+national registry established for
+child abuse and neglect. States
+have to be contacted directly for
+abuse and neglect information,
+but they vary in the extent they
+share that information.
+Oregon Secretary of State | Report 2020-21 | June 2020 | Page 9
+requirements have states check criminal histories across the United States, criminal convictions
+in other countries are not checked.13
+As fitness determinations are somewhat subjective and require judgement, both OCC and DHS
+have multiple levels of review prior to final approval or denial. Individuals who are denied have
+appeal rights, and go through a contested case hearing process.
+13 According to the FBI and OSP staff, a fingerprint check does not include looking at international crimes unless Interpol is
+contacted, which occurs in very rare situations and is a very lengthy process.
+Oregon Secretary of State | Report 2020-21 | June 2020 | Page 10
+Audit Results
+Parents who rely on child care providers trust the regulatory agencies overseeing those
+providers have measures in place to ensure the safety of their children. One of those measures
+includes the expectation that a comprehensive background check will be conducted for those
+who may come into contact with children.
+However, background checks are not as stringent as parents might expect.
+Oregon has not implemented background requirements
+beyond federally disqualifying crimes as some other states
+have. Oregon statutes and rules allow for additional
+considerations through a fitness determination in an effort
+to balance child safety with the employment opportunity
+rights of child care providers. These allowances have
+resulted in the approval of some providers who have
+histories of concerning criminal convictions or
+involvement in founded cases of abuse and neglect.
+Additionally, inconsistencies, gaps, and delays in the
+existing process can limit the value and effectiveness of
+background checks.
+Better coordination is needed among the responsible agencies to
+improve the sharing of information and the thoroughness and quality of
+background checks. This includes OSP, which maintains the state Sex
+Offender Registry. This registry falls short of federal and public
+expectations regarding what information should be available on the
+public-facing website. The limitations on public disclosure are
+particularly important when providers are not regulated, leaving
+oversight to parents alone.
+Some approved child care providers and staff have concerning convictions or
+founded cases of abuse and neglect in their histories
+We found Oregon’s regulatory agencies for child care providers were generally successful at
+disqualifying those who had committed egregious crimes from being around children in child
+care settings, as federally required. However, Oregon’s rules regarding what behavior is
+permissible are more lax than some other states. As a result, passing a background check does
+not necessarily mean the person has not committed alarming crimes or has not perpetrated
+child abuse or neglect.
+Oregon agencies previously approved child care providers convicted of crimes recently
+designated as federally disqualifying and have taken actions to disqualify these individuals
+With the federal CCDBG reauthorization, current and potential child care workers became
+subject to a multi-level criminal background check and disqualification if they had been
+convicted of certain crimes. With that change, and the reevaluation of approved providers, BCU
+and OCC removed, or are in the process of removing, 70 providers.14 These providers were
+14 States set crime laws differently. If a person was convicted in another state but wants to provide child care in Oregon, then that
+crime has to be interpreted and classified to an Oregon crime. Some providers appealed Oregon’s classification of their out-of-state
+crime as a federal disqualifying crime. Further, there were some providers who had disqualifying criminal convictions who chose not
+to renew their license.
+“Parents have the right to be
+confident that their children’s
+caregivers, and others who come into
+contact with their children, do not
+have a record of violent offenses, sex
+offenses, child abuse or neglect, or
+other behaviors that would disqualify
+them from caring for children.”
+45 CFR Part 98 § 98.43
+See Appendix A for
+public information
+that parents could use
+to check on a child
+care provider.
+Oregon Secretary of State | Report 2020-21 | June 2020 | Page 11
+previously allowed under Oregon rules to care for children although they had concerning
+convictions on their records.
+Figure 3: State child care agencies identified 70 previously approved providers whose convictions are
+disqualifying under new rules and have removed, or in the process of removing, those providers from the
+programs
+Background Check Unit at DHS Office of Child Care at ODE
+Providers with
+disqualifying crimes
+identified and removed
+from agency program1
+38 32
+Disqualifying crimes
+those providers had in
+their histories
+Assault was the most common,
+followed by possession or delivery of a
+controlled substance, child neglect,
+corporal injury, endangering the
+welfare of a minor, kidnapping, willful
+child cruelty, voluntary manslaughter
+(to a minor), and criminal
+mistreatment.
+Some additional providers were also
+disqualified because household
+members had been convicted of a
+disqualifying crime.
+Predominately included assault and
+endangering the welfare of a minor.
+Other providers’ crimes included child
+neglect, kidnapping, sex abuse, arson,
+strangulation, and recent felony drug
+crimes.
+1 BCU evaluated and removed existing providers based on the federal disqualifying crimes from 2017 to 2019, while OCC did so in 2018 and
+2019.
+In addition to the providers OCC and BCU identified, we found 21 more DHS providers who
+should have been disqualified from providing care under federal rules. We identified these
+individuals by reviewing criminal histories of approved providers and providers who had
+addresses matching those of sex offenders. We reported this information to DHS, which has
+taken the following actions:
+• We identified one DHS-approved provider who had a recent criminal arrest for
+strangulation since their last background check. DHS is conducting a new fitness
+determination on this provider.
+• We identified 14 DHS-approved ERDC providers who had a registered sex offender
+reportedly residing in the home where care was provided, which disqualifies the
+provider from caring for children. After DHS investigated these instances, seven
+providers were suspended from the program for failing to report all individuals residing
+in the home, six providers not currently providing care had notes attached to their file to
+require a new background check if they return as providers, and one provider was sent a
+notice reminding them about ERDC reporting requirements.
+• Similarly, DHS paid six ERDC providers at a residential treatment in-patient facility
+where a sex offender was also residing. According to the DHS Child Protective Services
+(CPS) investigation, staff at the facility stated the individual did not disclose being a sex
+offender, which would have disqualified the individual from participating in the
+program. DHS has sent a reminder about ERDC reporting requirements to the facility.
+Oregon agencies have cleared child care providers with other concerning arrest or
+conviction history or who perpetrated abuse and neglect
+The CCDBG requires an FBI and state criminal check, as well as a check of child abuse and
+neglect registries. However, having an extensive criminal history or being a perpetrator of child
+Oregon Secretary of State | Report 2020-21 | June 2020 | Page 12
+abuse and neglect is not an automatic disqualifier for child care providers and their workers
+under federal rules.15 States have flexibility in deciding how to handle those instances. In
+Oregon, providers with these backgrounds are not automatically disqualified, but are evaluated
+on a case-by-case basis in a fitness determination.
+We found most OCC- and BCU-approved providers had no criminal
+convictions in their history. For those we reviewed with convictions —
+roughly 1,250 providers — OCC and BCU had known and assessed the
+criminal history in a fitness determination for most providers prior to
+approval. Some examples of allowed crimes include assault, child neglect,
+harassment, controlled substance offenses (including manufacturing,
+possessing, and delivering illegal drugs, some within 1,000 feet of a school), disorderly conduct,
+unlawfully obtaining public assistance, and hit and run. We also found some approved providers
+who had a concerning, continual history of felony or misdemeanor convictions. For example:
+Management at the agencies provided the following common reasons histories of such criminal
+convictions were allowable:
+• Many convictions were considered very old — ten or more years — which either could
+not be considered or were weighed in favor of approving the provider if no new criminal
+activity or abuse and neglect involvement had occurred since the conviction.
+• Many of the convictions that occurred within the past ten years involved misdemeanors
+and often with mitigating factors (e.g., completion of treatment or a mental health, drug,
+and alcohol assessment).
+15 Due to great variation in the information states maintain in child abuse and neglect registries, federal rules did not include child
+abuse or neglect findings in the list of disqualifying crimes but left that to states to determine. Federal rules did note the value of
+findings in these registries to identify patterns of negative behavior.
+From 2006 to 2011, this provider
+had a felony or misdemeanor
+conviction for trespassing, theft,
+possession of meth, identity theft,
+and failure to appear as well as
+multiple probation violations.
+This provider had convictions in
+the 1980s, 1990s, and early 2000s
+that included robbery, theft,
+endangering the welfare of a
+minor, drug offenses, falsifying a
+public report, hit and run, and
+harassment.
+From 2001 to 2006, this provider
+had an assault conviction, two
+felony controlled substance
+offense convictions, and eight
+probation violations.
+Nearly every year from 2000 to
+2010, this provider had a felony
+or misdemeanor conviction for
+either criminal driving or
+controlled substance offenses.
+From 2005 to 2009, this provider
+was convicted of seven felony
+identity theft charges and two
+forgery charges.
+This provider was convicted of
+about 30 felonies, misdemeanors, or
+violations from 1994 to 2000 for
+crimes including forgery, theft,
+escape, resisting arrest, traffic
+offenses, and parole violations.
+Most state-
+approved child
+care providers
+had no criminal
+convictions.
+Oregon Secretary of State | Report 2020-21 | June 2020 | Page 13
+• Some convictions were reduced to lesser offenses (e.g., violations) or were dismissed by
+completing diversion requirements, and so were not considered by the agency as
+potentially disqualifying convictions or conditions.
+• BCU determined in some cases that certain crimes, such as child neglect, did not involve
+violence against a child.
+• OCC does not look at convictions that occur outside of the timelines it has defined in rule.
+We also identified 11 approved providers who had concerning crimes not previously known to
+BCU. This was due to providers not adhering to reporting requirements or the timing of interim
+criminal checks. We notified BCU of those providers, who were either recently arrested or had
+been convicted of crimes such as theft, public order crimes, and driving under the influence, and
+BCU was requested to reassess those providers in fall 2019.
+Further, while child abuse and neglect findings are not in the list of federally disqualifying
+crimes, they are valuable and to be considered in looking at patterns of negative behavior that
+may be unsuitable for a child care provider. We identified 125 providers who had at least one
+founded allegation of perpetrating child or adult abuse and neglect. OCC and BCU had identified
+most abuse and neglect instances and included them in the agencies’ fitness determination for
+the provider. For example:
+• One provider had a significant amount of contact with CPS, from 2007 to 2013, prompted
+by alcohol and drug abuse. According to the agency, the provider showed evidence of
+fitness suitability (e.g., having completed treatment and training). Since the conviction
+for substance abuse was over five years old and no new issues had occurred, OCC
+approved the provider.
+• Another provider was the perpetrator in multiple founded and unfounded cases of child
+abuse and neglect. The agency, in consultation with the Oregon Department of Justice,
+reached a settlement with the provider to allow the individual to only work at a child
+care center because most of the CPS issues concerned the provider’s home environment.
+• Another provider had a founded allegation of physical abuse in 2017. The provider hit a
+grandchild in the face, reportedly due to the child being disrespectful, causing the child
+to bleed. BCU included this information in the fitness determination and approved the
+provider.
+• Lastly, another provider had a founded allegation of neglect and mental injury. The
+provider took her children in and out of school, claiming to be providing home schooling.
+The allegation included threatening the children, not keeping mental health
+appointments for one of the children, and not maintaining stable housing for the children
+(including food and shower). This information was included in the fitness determination
+and BCU approved the provider.
+Additionally, we found OCC had approved three providers who were perpetrators in founded
+child abuse and neglect cases before being approved, but that information was not included in
+the fitness determination. OCC was reassessing those providers in fall 2019.
+Oregon has not expanded its disqualifying crimes list and could do more to readily identify
+criminal activity among child care providers
+Oregon has not expanded its disqualifying crime list for child care providers. This could be due
+to concerns about employment opportunity rights of providers and privacy rights around
+allowing the retention of fingerprints for people who have never been convicted of a crime. The
+latter omission also prevents Oregon from participating in the FBI’s Rap Back program, which
+provides authorized government agencies ongoing status notifications of any criminal history
+record information reported to the FBI on individuals who hold positions of trust (e.g., child care
+Oregon Secretary of State | Report 2020-21 | June 2020 | Page 14
+workers and school teachers), and requires fingerprint retention of those individuals. If
+legislatively authorized, this program would notify OCC or BCU of any new arrests or triggering
+events on child care providers, such as criminal dispositions, warrants, or sex offender entries.
+We found at least three states that have a state rap back program and notify their applicable
+agencies of such events, including the agency responsible for child care.
+At least four other states have expanded the federal criminal offenses that disqualify a provider.
+For example:
+Illinois has expanded its list of sex offenses that automatically disqualify someone
+from providing childcare to include prostitution, promoting prostitution, soliciting
+for a prostitute, and harmful materials. Unlike Oregon, its disallowed bodily harm
+convictions also include stalking and endangering the life or health of a child.
+Indiana does not allow child care providers to have any felonies or misdemeanors
+related to the health and safety of a child, or any misdemeanor related to welfare
+fraud. Indiana also disqualifies a provider, employee, caregiver, or volunteer named
+as an alleged perpetrator in its Child Protection Index registry.
+In California, a conviction for an elder or dependent adult abuse crime disqualifies
+a person from being a child care provider.
+A child care provider, staff member, volunteer, or household member in Nebraska
+cannot be listed as a perpetrator in its Central Registry of Child Abuse and Neglect
+and the Central Registry of Adult Abuse and Neglect. Further, they cannot have
+parental rights terminated by a court because of abuse or neglect of a child or inability to care
+for a child.
+Oregon agencies have differing and inconsistent interpretations of
+disqualifying crimes and rules affecting how rigorously background checks are
+performed
+Due to varying interpretations by agencies, some crimes may or may not be automatically
+disqualifying for being around children
+Federal requirements are generalized when it comes to the crimes that permanently disqualify a
+child care provider. For example, one federally disqualifying crime is murder; this may or may
+not be construed by a state to include manslaughter. With Oregon lacking a unified, strategic
+approach to ensuring child safety in all state licensed and regulated settings, OCC and DHS must
+individually interpret what Oregon crimes are disqualifying on a federal level.
+OCC has designated specific Oregon crimes in rule that permanently disqualify a person from
+providing or being around children in a child care setting. DHS only references the federal
+exclusions and has not referenced those to Oregon crimes in rule and considers all felonies and
+misdemeanors to warrant a fitness determination review. BCU management provided us a list of
+the Oregon crimes it has deemed as disqualifying.
+OCC and DHS consider many of the same crimes to be disqualifying, such as criminal homicide
+and first degree child neglect, but we found some crimes that only one agency considers to be
+disqualifying. Agencies’ interpretations of what constitutes a disqualifying crime can have
+widely different results. For example, OCC and DHS have differing interpretations of how the
+Oregon Secretary of State | Report 2020-21 | June 2020 | Page 15
+state crime of endangering the welfare of a minor applies to the federally disqualifying crime of
+child endangerment.16
+Figure 4: OCC and DHS do not have the same automatic disqualifying crimes for child care providers
+OCC automatically disqualifies child care
+providers for these crimes but DHS weighs these
+in a fitness determination
+DHS automatically disqualifies child care providers
+for these crimes but OCC weighs these in a fitness
+determination
+Custodial sexual misconduct II  Criminally negligent homicide
+Contributing to sexual delinquency of a minor  Unlawful use of electrical stun gun, tear gas, or mace
+I
+Manslaughter I, if unintentional or against an
+adult   Unlawfully being in a location where children
+regularly congregate
+If a misdemeanor or against an adult - arson I & II;
+assault II & III; kidnapping I; strangulation; rape I
+& II; sodomy I & II; unlawful sexual penetration I &
+II; and sexual abuse I, II, & III
+Unlawful contact with a child
+If it does not involve violence against a child -
+child neglect II; endangering the welfare of a
+minor; and criminal nonsupport
+Adult using minor in commission of controlled
+substance offense
+If felony conviction or against a child - coercion;
+menacing; rape III; and sodomy III
+If against a child - assault IV; recklessly endangering
+another person; criminal mistreatment I; unlawful
+use of electrical stun gun, tear gas, or mace II;
+custodial interference I & II; subjecting another
+person to involuntary servitude I & II; public
+indecency; and private indecency
+Invasion of personal privacy II, if against child and
+involves capturing images of the child
+Manslaughter II, if intentional or against a child
+Robbery I, II, & III, if felony conviction involving child
+or spouse, or misdemeanor against a child
+Criminal mistreatment II, if against a child or felony
+physical assault against an adult
+Intimidation I, if violence against a child
+Assaulting a public safety officer, if felony conviction
+Until 1/30/20 - purchasing sex with a minor; incest,
+with a child victim; paying for viewing child's sexually
+explicit conduct; invasion of personal privacy I; and
+transporting child pornography into the state
+Source: OCC – OAR 414-061-0045 and 414-061-0050; DHS – OAR 407-007-0279(3) and Background Check Unit Management
+OCC has interpreted federal language to mean that any misdemeanor for child endangerment is
+considered a violent crime, and is therefore automatically disqualifying. BCU, however, has
+interpreted this exclusion to apply only when violence is directed toward the child, using
+Oregon’s statutory definition of violence.17 According to BCU management, child endangerment
+in general — such as leaving young children in a car or home unattended by an adult, leaving
+illegal substances where a child could access the drugs, or the use of drugs around a child — is
+16 By federal rule, a “violent misdemeanor committed as an adult against a child” includes the following crimes: child abuse, child
+endangerment, sexual assault, or of a misdemeanor involving child pornography” and is a disqualifying crime for a child care
+provider.
+17 Within Oregon statute (ORS 419A), a violent felony is “any offense that, if committed by an adult, would constitute a felony and: (a)
+involves actual or threatened serious physical injury to a victim; or (b) is a sexual offense.”
+Oregon Secretary of State | Report 2020-21 | June 2020 | Page 16
+not viewed as a violent act. Without specific language of a crime matching the federal statutory
+definitions for convictions that are mandatory disqualifying, BCU management did not feel they
+had the federal or state statutory authority to deny a person appeal rights.18 BCU staff review
+related court documents and police reports to determine the specific nature of the incident and
+decide on a case-by-case basis whether the conviction is disqualifying. Though we requested
+federal clarification on this from the U.S. Department of Health and Human Services’
+Administration for Children and Families, we did not receive a response.
+Lastly, OCC and DHS do not consider some convictions automatically disqualifying even when
+the state has deemed it so for other professions involving children. For example, teachers and
+school administrators have an integral role in the safety and well-being of children and are
+mandatory reporters of abuse and neglect. Oregon’s Teachers Standards and Practices
+Commission will deny or revoke teacher and administrator licenses, charter school registrations,
+and permission to student teach for those convicted of certain crimes, such sexual misconduct,
+prostitution, and displaying obscene materials to minors. OCC and DHS do not consider these
+crimes as automatically disqualifying, and depending on the agency, may consider and
+potentially allow based on a fitness determination.
+Figure 5: Prohibited convictions for Oregon teachers and administrators, charter schools, and student
+teachers, but both DHS and OCC may allow for child care providers
+Crimes
+• sexual misconduct • public indecency • bigamy
+• treason • abuse of a corpse I • prostitution
+• patronizing a prostitute • promoting prostitution • luring a minor
+• sadomasochistic abuse or
+sexual conduct in live show
+• exhibiting an obscene
+performance to a minor
+• displaying obscene
+materials to minors
+• publicly displaying nudity or
+sex for advertising purposes
+Additional crimes if the conviction was over five years ago*
+• unlawful manufacture within 1,000 feet of school of hydrocodone; methadone; oxycodone; heroin,
+3, 4-methylenedioxymethamphetamine; cocaine; or methamphetamine
+• unlawful delivery of hydrocodone; methadone; oxycodone; cocaine; or methamphetamine
+• unlawful delivery within 1,000 feet of school of hydrocodone; methadone; oxycodone; heroin; 3, 4-
+methylenedioxymethamphetamine; cocaine; methamphetamine; or a controlled substance
+• penalties for distribution (of a controlled substance) to minors
+*OCC and DHS disqualify these crimes if the date of the conviction is less than five years from applying to be a child care provider. After five
+years, these crimes go through a fitness determination.
+Source: ORS 342.143 (3) and Teacher Standards and Practices Commission
+Consequently, there are seven approved child care providers who were convicted of crimes
+considered disqualifying by the Teachers Standards and Practices Commission. These providers,
+for whom BCU and OCC conducted the fitness determination and approved four and three
+providers respectively, had convictions of: prostitution, bigamy, sexual misconduct (also
+convicted of criminally negligent homicide a few years later), distributing a controlled substance
+to minors, and unlawful delivery of methamphetamine, including within 1,000 feet of a school.
+18 By federal program rules, a person convicted of a mandatory disqualifying crime is not allowed to provide child care and has no
+due process rights to appeal.
+Oregon Secretary of State | Report 2020-21 | June 2020 | Page 17
+As a result of our audit work highlighting differences in crimes between agencies, OCC
+management prepared an amendment in December 2019 to its disqualifying conditions for child
+care providers. The amendment incorporates some additional crimes (e.g., incest with a child
+victim, sodomy in the third degree, purchasing sex with a minor, and sexual misconduct) for
+consideration by the Early Learning Council. These changes were adopted and effective as of
+January 30, 2020.
+Further background check inconsistencies can allow approval by one agency but denial by
+the other
+All Oregon regulated child care providers go through the same federal background check
+requirements. However, OCC and BCU have set differing requirements. Likewise, background
+checks for agency employees follow different processes. This creates inconsistencies in how
+background checks are performed not only for Oregon’s providers, but also for the agency
+employees overseeing those providers. This not only makes it more difficult to consistently
+ensure child safety, but it conflicts with the expectation by parents and the public that the same
+rigorous process is being used when conducting background checks on child care providers.
+In reviewing OCC and BCU processes for conducting background checks, we found some
+variances that could impact a fitness determination and delay identifying individuals with a
+conviction or abuse and neglect allegation that affects child safety. These differences were
+related to other potential crimes, timing of background checks, minimum age requirements,
+provider reporting requirements, and access to abuse and neglect information.
+Figure 6: Within the flexibility of federal rules, there are inconsistencies between OCC and BCU in conducting
+required background checks on state-regulated child care providers
+Background Check
+Procedures  Federal Rules OCC at ODE BCU at DHS
+Length of time a
+crime is
+considered, other
+than those
+federally
+disqualifying
+Rules allow states
+to prohibit
+providers based on
+other crime
+convictions
+Defined certain criminal
+convictions to be considered
+if they occurred 5, 7, 10, 15,
+or 20 years ago and those
+that will always be considered
+(e.g., felonies and
+misdemeanors of violence or
+unauthorized sexual conduct,
+theft, fraud, or deception,
+crimes against the state and
+public justice, and major
+traffic violations)
+Considers criminal convictions,
+all felonies and misdemeanors,
+to be reviewed regardless of
+how long ago the conviction
+occurred
+Arrested for
+disqualifying crime
+but no final
+determination
+(e.g., convicted,
+acquitted, or
+dismissed)
+Rules reference
+conviction of
+crimes
+Crime not considered unless it
+was a conviction
+Rule changes adopted in 2020
+allow consideration of arrests
+for any disqualifying crime on
+or after January 1, 2015
+Fitness determination paused if
+a court date is pending,
+otherwise can make a decision
+factoring in the arrest
+Oregon Secretary of State | Report 2020-21 | June 2020 | Page 18
+Background Check
+Procedures  Federal Rules OCC at ODE BCU at DHS
+Renewal and
+interim
+background checks
+At least every five
+years
+Comprehensive background
+check every five years for all
+individuals in the central
+background registry
+In the interim — quarterly
+state criminal history checks
+and CPS checks every 2.5
+years
+Comprehensive background
+check every two years for its
+child care providers
+In the interim — child
+protective service checks
+monthly
+Minimum age
+requirement for
+background check
+Any individual
+employed by a
+child care provider
+Individuals age 18
+or older residing in
+a provider’s family
+child care home
+Providers and household
+members who are 18 years of
+age or older
+Providers and household
+members who are 16 years of
+age or older Access to abuse
+and neglect
+information
+Required to check
+intrastate child
+abuse and neglect
+registry
+Access to OR-Kids child abuse
+and neglect case information
+No direct access to, or
+regularly receives, adult
+abuse and neglect
+information — agency
+requests such information
+only when an applicant self-
+discloses they were involved
+in an abuse and neglect
+investigation
+Access to OR-Kids child abuse
+and neglect case information
+Obtains and compiles adult
+protective service on abuse and
+neglect information from
+multiple DHS programs into
+spreadsheets for use at least
+monthly by BCU staff
+Provider reporting
+requirements N/A
+Requires providers to notify
+the program in writing of a
+change of name, address, or
+phone number within 30 days
+Providers must report changes
+to their information within five
+days including information such
+as name, phone, or address
+changes, any new individuals
+who may have unsupervised
+access to the children in care,
+and any new arrests,
+indictments, convictions, or
+involvement with child or adult
+protective services for those
+that may have unsupervised
+access to the children in care
+(e.g., provider, staff,
+volunteers, visitors, and
+household members)
+Oregon Secretary of State | Report 2020-21 | June 2020 | Page 19
+Although OCC regularly checks employees for criminal convictions and involvement in
+abuse and neglect, DHS does not and has some employees with concerning criminal
+backgrounds
+OCC employees undergo the same initial and recurring background checks required of licensed
+child care providers. DHS employees, however, are not held to these same requirements.
+OCC staff, as with all employees in offices within ODE’s Early Learning Division, are held to the
+same criminal background check requirements (e.g., interim and renewal checks) and
+disqualifying conditions as the providers they oversee. This is because employees may have
+access to protected private and sensitive information. Our review of ODE division employees’
+criminal backgrounds found no concerning criminal histories or involvement in child or elder
+abuse and neglect cases.
+DHS takes a different approach. It has defined in rule potentially disqualifying convictions for all
+agency employees that require a fitness determination to be conducted, which are not as
+stringent as those for providers. Other than an initial background check done before being hired,
+DHS does not do another background check unless it becomes aware of new concerning
+incidents (e.g., arrests, indictments, convictions, or involvement with child or adult protective
+services) or there is a new work requirement (e.g., access to Criminal Justice Information System
+information).
+In reviewing most of DHS’s employees who had criminal activity in their background, BCU
+reported many of those crimes had been included and considered in a fitness determination.
+Some of those crimes included assault and endangering the welfare of a minor, which are
+disqualifying for OCC staff, and some employees had concerning criminal histories. For example,
+one employee who works in child welfare had 24 total convictions, including 18 felony
+convictions for theft, forgery, and identity theft.
+We identified 10 employees about whose criminal histories DHS’s Human Resources was
+unaware. Arrests or convictions included driving under the influence, criminal mischief,
+harassment, theft, and assault. Many of these occurred within the last two years. In addition, BCU
+and Human Resources were unable to locate background check or fitness determination records
+for 29 employees who had criminal convictions for crimes such as theft, assault, driving under
+the influence, and criminal trespassing. Examples of positions included data entry operator,
+office specialist, human resource assistant, mental health therapy technician, human services
+case manager, and executive manager.
+Furthermore, we identified 15 DHS employees named as perpetrators in child welfare
+allegations. Though all these employees were not directly providing care, they are involved in
+working with vulnerable populations in positions such as human services case manager, human
+services specialist, mental health therapy technician, and child welfare case worker. According
+to agency management, DHS’s Human Resources division knew about six of the employees, but
+not the other nine.
+While there may be intentional reasons to allow staff with criminal histories and child welfare
+allegations as workers, agency staff need be aware of such backgrounds to make an informed
+employment decision, given child safety and the safety of other vulnerable populations could be
+impacted.
+Oregon Secretary of State | Report 2020-21 | June 2020 | Page 20
+Background checks lack important information that can affect the safety of
+children
+Besides outside factors impacting background checks (such as whether and how long it takes
+other states to provide needed criminal and abuse and neglect information, as well as the timing
+of criminal justice information), OCC and BCU have information and data system limitations that
+prevent them from having complete information to ensure the safety of children. This includes
+access to adult abuse and neglect information and background checks of state recorded
+programs (preschool and school-age programs).
+Lack of unique identifiers in state systems limits the extent of checking for abuse and
+neglect allegations
+As a part of background checks, OCC and BCU search child abuse and neglect records, foster care
+records, and adult protective services records. To do so, they must access multiple sources of
+data, as no statewide centralized database exists that contains all abuse and neglect information
+needed to complete background checks. This process is complicated because there are no
+consistent unique identifiers maintained to readily confirm matches between data systems such
+as Social Security number. For example, OCC and BCU do not require providers to have a Social
+Security number to apply. We found OCC approved 6,289 providers (13%) and BCU approved 96
+providers (2.5%) who did not have a Social Security number. Furthermore, some approved
+providers supplied their tax identification number instead. For these approvals, the agencies
+relied on providers accurately and consistently reporting names, dates of birth, and addresses to
+check against other records.
+To obtain child abuse and neglect information, both OCC and BCU access case information in OR-
+Kids, the state’s child abuse and neglect registry. Due to the number of records in OR-Kids, the
+complexity of that data system, and naming variations, searching and correctly connecting
+allegations to the right person without common unique identifiers is not likely to yield as many
+actual matches.19 This increases the risk a pertinent allegation will not be identified.
+We found OR-Kids did not have Social Security numbers for over 8,500 founded perpetrators
+and no date of birth for about 790 founded perpetrators. For example, a current provider’s name
+matched that of an individual in OR-Kids who had a founded CPS allegation. However, OR-Kids
+did not have a Social Security number or date of birth to verify if it was the same individual.
+Without verification, that information may not be factored into the fitness determination.
+As detailed below, there are two DHS programs that maintain adult abuse and neglect
+information. As in OR-Kids, these programs do not have Social Security numbers as a consistent
+unique identifier to readily confirm whether a provider was involved in a case of adult abuse and
+neglect.
+• Aging and People with Disabilities maintains community- and facility-level adult abuse
+and neglect information. Of the 18,815 perpetrators within its data system, about 87%
+do not have a Social Security number listed and just over half do not have a date of birth
+listed.
+• The Office of Training, Investigations, and Safety maintains information on abuse and
+neglect investigations involving seniors, adults with physical or developmental
+disabilities or mental illness, and children receiving residential treatment services. The
+19 The Secretary of State Audits Division released an audit of OR-Kids in February 2020. See report 2020-01, “Oregon’s Child Welfare
+Information System is Adequate for Case Management, but Enhancements Are Needed to Improve Usability.”
+Oregon Secretary of State | Report 2020-21 | June 2020 | Page 21
+office’s investigation information, which includes about 6,700 perpetrators, also does not
+have Social Security numbers.
+Limited unique identifiers in data systems makes it likely that not all pertinent abuse and
+neglect information is identified, shared, and included in a provider’s fitness determination —
+potentially allowing an ill-informed decision of approval that may negatively impact the safety of
+children in child care.
+OCC does not receive background check results for individuals working in recorded
+preschool and school-age programs
+OCC is responsible for monitoring preschool and school-age recorded programs. Preschool
+programs are designed to be primarily educational and last no more than four hours a day.
+School-age programs are designed for enrichment activities during hours school is not in
+session. About 5% of all regulated child care providers are recorded programs. In total, these
+programs have been approved to serve over 51,100 children, ranging in age from 3-year-olds to
+children attending public school.
+Providers in these programs are required to have background checks, although OCC is not
+obligated to be the entity providing the check. Recorded programs only need to self-certify on
+applications that all staff and volunteers, 18 years of age and older, had a criminal background
+check done prior to having contact with children. OCC does not receive copies of these criminal
+checks nor does it independently verify that programs are completing the background checks as
+required.
+There are fewer regulations for recorded programs compared to licensed facilities. These
+programs are not required to meet health and safety standards, are not monitored regularly, and
+their staff are not required to participate in ongoing training. This was intentional. Laws were
+enacted to ensure recorded programs, which were not created to provide full child care services,
+meet a minimum safety standard of criminal background checks. However, that minimum safety
+standard, which covers many children that receive care in these programs, cannot be ensured
+without verification that background checks are actually occurring.
+Better coordination is needed to share new and relevant information
+regarding criminal activity
+Regulatory agencies conduct initial background checks when approving a new provider and
+again at renewal junctures. However, it may be a significant period of time from when agencies
+conduct initial background checks to when renewal checks are performed. Any new criminal
+activity by a provider may go undetected by regulatory agencies for months or even years before
+a renewal check is done. Instead of waiting for renewal, agencies could proactively share
+pertinent information they collect to help ensure the ongoing safety of children in child care
+settings.
+Relevant background check information not always shared within or between agencies
+overseeing child care providers
+CPS, within DHS, is required by law to notify certain entities of reported child abuse and neglect
+allegations and the results of its investigations. If the allegation involves a licensed child care
+provider, CPS is to notify OCC. This way, OCC is promptly informed of potential safety concerns.
+However, we found some instances where OCC or BCU were unaware of a CPS allegation.
+From our review, OCC was unaware of new CPS history for 17 providers. Once we informed OCC,
+they initiated a new fitness determination for those providers in fall 2019.
+Oregon Secretary of State | Report 2020-21 | June 2020 | Page 22
+Additionally, OCC is required to conduct an adult protective services check as a part of the
+background check. Again, OCC does not have direct access to, or regularly receives, adult abuse
+and neglect information. When an applicant self-discloses they were involved in an adult abuse
+and neglect investigation, then OCC requests that from DHS. OCC was unaware eight providers
+had adult abuse and neglect history. These allegations occurred prior to OCC reviewing such
+information; the division plans to conduct a new fitness determination for those providers.
+Child care and law enforcement agencies are not updating each other when they identify
+new or corrected sex offender information
+Registered sex offenders are federally disqualified from being child care providers or even from
+working as staff at a child care facility. We compared listed addresses for sex offenders in
+Oregon’s sex offender registry to those of providers. With the results of our data match, we met
+with OSP staff and reviewed sex offender registry records on 35 offenders whose addresses
+matched providers. Of those, five offenders had not updated their current locations as required
+and were out of compliance with self-reporting requirements, but the system did not readily
+indicate them as such.
+We found further instances of offenders failing to update their address in the registry by looking
+into potential matches between the registry and providers paid through the ERDC program. For
+example, one sex offender’s address matched a provider, and a CPS investigation noted that the
+individual was living in the backyard. One agency told us they do not forward such information
+to OSP. This leaves OSP without key information that could be shared among law enforcement or
+used under certain circumstances to make community notifications. We also found instances
+where a sex offender’s Social Security number in the registry was incorrect. It is common to have
+inaccuracies with self-reported information.
+Some sex offenders report having an occupation in the child care field, but OSP is not
+allowed to share that information
+When we analyzed the sex offender registry focusing on offender occupation, we identified 26
+individuals who voluntarily stated their employment was related to providing care for a
+vulnerable population (e.g., child care, caregiver, care provider). According to OSP staff, they
+enter the information as provided by the offender and do not communicate any potential
+concerns related to child care providers to OCC or DHS. Although OSP is a mandatory reporter, it
+is limited by statute in its ability to be a proactive sharer of sex offender information.
+We found none of the 26 individuals were licensed providers or providers who participate in a
+state child care subsidy program. However, there is a risk that, should OSP become aware of an
+individual on the registry who is licensed to provide care, they would be unable to share this
+information with the regulatory agencies.
+Shortcomings to the sex offender registry lessen the ability to protect
+children
+Apart from OSP’s limited ability to proactively share sex offender information with the
+regulatory agencies, we also found weaknesses in Oregon’s sex offender public registry site that
+affect not only background checks completed by other states, but checks performed by parents
+when choosing a provider for their children.
+20 The final rule of the CCDBG Act does not specify whether or not a search beyond a state’s general public sex offender registry is
+required when completing the background check requirement of searching other state sex offender registries.
+Oregon Secretary of State | Report 2020-21 | June 2020 | Page 23
+Oregon’s Legislature, like those in all other
+states, makes its own determinations about who
+is required to be reported in its sex offender
+registry, what information offenders must
+provide, and which offenders are posted on the
+public registry site. The Legislature and Oregon
+Board of Parole and Post-Prison Supervision
+enact and implement, respectively, the laws that
+set these determinations.
+Oregon’s sex offender registry rules are
+complex. As rules have been added, they have not all been retroactive. Also, depending on
+factors such as age or the date of the crime or conviction, there are some sex offenders not
+required to report in Oregon. For example, an individual convicted of a military sex crime before
+June 18, 2013, is not required to report in Oregon.
+Currently, the public is not notified about the majority of sex offenders in Oregon’s registry. In
+addition, inaccurate and incomplete information, delays with notification, and limitations to the
+public registry site hinders the accuracy and thoroughness of sex offender background check
+results by other states and parents’ ability to screen providers before selecting one to care for
+their children.
+OSP’s sex offender registry relies on offenders to accurately and regularly report, which
+does not always happen
+National data shows Oregon has the highest number of registered
+offenders per capita, and almost 2.5 times the national average.21 This
+could be in part because Oregon has up to 26 registerable sex crimes and
+an offender must report for registration and continue to report unless
+the offender is approved for relief or pardoned, or the conviction is
+reversed or cancelled.22
+Registered sex offenders are required to regularly report their current information, such as
+residence and employment, to law enforcement. However, offenders’ reporting forms may
+contain inaccuracies not caught by local law enforcement, and some offenders do not report at
+all. All information in the registry is self-reported.
+It is difficult for law enforcement to identify offenders who do not register as required unless
+they are arrested for another crime. In an effort to mitigate that problem, OSP staff run system
+reports and manually go through the registry to update inaccuracies. OSP also conducts sweeps
+to bring offenders into compliance.
+Leveling and reporting issues limit the public’s ability to check for sex offenders at or near
+child care locations
+Not all of Oregon’s sex offenders have been classified into risk levels, or “leveled,” as required by
+state and federal law. Those who have yet to be leveled are not included on the public website,
+regardless of the severity of their offense.
+Federal law requires each state to provide the public with information about registered sex
+offenders living in their area. This public notification is typically made available through the
+21 Statistics are from Oregon State Police’s 2019-2021 Agency Request Budget.
+22 Registerable sex crimes are referenced in ORS 163A.005. Adults and juveniles convicted of certain sexual offenses are required to
+register with the Oregon’s Sex Offender Registry (SOR).
+Oregon has almost
+2.5 times the
+national average of
+registered sex
+offenders per capita.
+All 50 states are required to have sex offender
+registries, but implementation has been left up
+to each state. Thus, requirements for sex
+offenders vary considerably between states —
+registering can be for a few years or for life, and
+some offenders have to check in every few days
+while others can go several months. With
+differences in state laws, an offender can be
+required to register in one state but not another.
+Oregon Secretary of State | Report 2020-21 | June 2020 | Page 24
+public sex offender website. In Oregon, however, a sex offender must undergo leveling before
+their information can be viewed by the public. The leveling process, which classifies an offender
+into one of three risk levels, determines how likely the person is to sexually reoffend, which in
+turn determines whether information about the sex offender is made public.
+Figure 7: Majority of sex offenders have not been leveled and Oregon’s public registry includes only Level 3
+offenders
+Oregon’s Sex Offender Registry
+Offenders required to register: 31,177
+Offenders not leveled: 25,054
+Offenders leveled: 6,122
+Level 3 (high risk to reoffend, and only level listed on the public website): 914
+Level 2 (moderate risk to reoffend): 1,081
+Level 1 (low risk to reoffend): 4,127
+Source: OSP Sex Offender Registry management provided registry totals as of February 4, 2020
+As of February 4, 2020, there were about 31,180 offenders in Oregon’s registry; 25,054 of those
+offenders, or 80%, had not yet been leveled. Of those not yet leveled, OSP reports there are 524
+offenders who were previously designated as predatory and most, if not all, are reportedly in
+police custody or under supervision. Until a sex offender is leveled, their information is not
+disclosed, meaning high-risk sex offenders who have not been leveled are not publicly known.23
+In 2013, the Oregon Legislature passed a law to adopt a three-level sex offender classification
+system, with only Level 3 offenders listed on Oregon’s public sex offender website. The law
+required the Board of Parole and Post-Prison Supervision to classify and level all adult convicted
+and registered sex offenders. Originally, the board was given until December 1, 2016, to
+complete the classifications; this has since been extended to December 1, 2026.
+The new classification system removed references to predatory designations and replaced them
+with references based on an offender’s risk level. It also inadvertently limited OSP’s authority to
+notify the public about concerning sex offenders. According to OSP management, these changes
+were based on the assumption that all existing predatory offenders had been classified into a
+risk level prior to the new laws going into effect. When this did not occur, a series of
+consequences unfolded that required OSP to remove 29 offenders from the public sex offender
+registry website who had previously been designated as predatory but who had not been
+assigned a risk level as of December 1, 2018.
+The Board of Parole and Post-Prison Supervision has until
+December 2026 to complete this notification leveling.
+However, the board testified during the 2019 legislative
+session that it is unlikely to meet this deadline. Given
+current resource levels, the board estimated it would take
+almost 44 years to complete the backlog of leveling along
+with leveling the approximate 100 new sex offender
+registrants added each month. This estimate may be
+further impacted by another new law allowing sex
+offenders to request relief from registration and
+reclassification.
+23 If a Level 3 sex offender is under supervision of the Psychiatric Security Review Board, the Board may authorize OSP to release
+that offender’s information on the public site.
+Sex offender registry relief from
+registration and reclassification
+In certain circumstances:
+Registered Level 2 and 3 sex
+offenders can request reclassification
+to a lower notification level
+Registered Level 1 sex offenders can
+request terminating the obligation to
+report as a sex offender
+Oregon Secretary of State | Report 2020-21 | June 2020 | Page 25
+Until the board is able to complete its risk notification
+leveling, thousands of potentially moderate- and high-
+risk sex offenders will remain undisclosed and
+unknown to parents and other members of the public.
+Oregon’s sex offender registry is not meeting
+national minimum standards
+Enacted in 2006, Title 1 of the Adam Walsh Child
+Protection and Safety Act created a baseline standard
+for sex offender registration and public notification,
+known as SORNA. As of June 2019, 18 states, four
+territories, and over 130 federally recognized Indian
+tribes have met all minimum SORNA requirements.
+Oregon has met the minimum requirements for two of
+the five categories on which states are graded: tracking
+and penalizing truants, and information sharing (e.g.,
+with law enforcement and prosecution agencies).
+Where Oregon still lags behind is in the categories of
+having offenses and offenders included in its sex offender registry, community notification, and
+offender appearance and verification.
+SORNA standards also require expanding the amount of information available to the public
+regarding registered sex offenders. Oregon, however, has chosen to reduce the available
+information. Previously, Oregon’s registry provided information about the offender’s victim
+profile (e.g., juvenile females under seven years of age), methods of offending, and conditions
+and restrictions, but OSP stated this information is only sporadically provided by the Board of
+Parole and Post-Prison Supervision and has been removed from the public registry.25
+Legislative changes in 2019 will bring Oregon closer to complying with these federal standards.
+When these changes take effect, Oregon’s sex offender registry will meet over half of SORNA’s
+offender appearance and verification standards. For example, House Bill 2045B, which goes into
+effect January 1, 2021, will require sex offenders to report a legal name change within 10 days of
+that change taking effect and to report international travel at least 21 days in advance. However,
+even with these changes, Oregon’s sex offender registry still falls short of national standards.
+Strengthening the registry and the consistency and measures used in conducting child care
+provider background checks will better protect children in child care settings that are licensed
+and regulated by the state.
+24 Two of Oregon’s tribes, the Confederated Tribes of the Umatilla Indian Reservation and the Confederated Tribes of Warm Springs,
+have substantially implemented SORNA requirements.
+25 ORS 163A.060 requires the Board of Parole and Post-Prison Supervision to provide offender profiling information to OSP for Level
+3 sex offenders and those designated as a predatory sex offender prior to January 1, 2014. Offender profiling information includes
+such records as presentence investigations, sex offender risk assessments, and conditions of parole and probation and other
+corrections records.
+Oregon law requires public notification
+for Level 3 offenders. Level 2 offender
+information can only be disclosed by OSP
+upon specific request, to certain persons
+the offender has a relationship with, care
+facilities, and other places where children
+and other potential victims might
+frequent, such as schools, residential
+neighbors, churches, and businesses.
+Level 1 offender information can only be
+disclosed by OSP to a person who resides
+with the offender.
+Comparatively, Washington State, which
+uses a similar risk-based leveling system
+for sex offenders, publishes all of its Level
+2 and Level 3 offenders on its public
+registry site as well as any non-compliant
+and transient Level 1 offenders.
+Oregon Secretary of State | Report 2020-21 | June 2020 | Page 26
+Recommendations
+To help the OCC and BCU strengthen child care provider background checks to more
+consistently protect children in child care settings, we recommend:
+1. To ensure consistency and standardization, OCC and BCU propose legislation to have all
+child care background checks performed by a single agency that conducts child care
+provider background checks.
+2. Specific actions OCC and BCU should take include:
+a. In consultation with the Oregon Department of Justice, create a consistent list of
+automatic disqualifying crimes to use in background check determinations for
+state licensed and regulated child care providers, and periodically evaluate that
+list as criminal laws change. Agencies should seek clarification from the U.S.
+Department of Health and Human Services Office of Child Care, as needed, for act
+requirements.
+b. Work together to set the same background check requirements for all child care
+providers that are at a high enough standard to protect the welfare of children. At
+a minimum, this should happen on a regular basis due to law changes and include
+determining other concerning crimes to consider, looking at trends or patterns of
+concerning behavior, timing of renewal and interim background checks, setting
+minimum age requirements, and reporting requirements.
+c. Advocate to the U.S. Department of Health and Human Services Office of Child
+Care the need for interstate sharing of information critical in assessing child care
+providers.
+d. Establish policies and procedures to share updated, pertinent information
+resulting from background checks on related individuals.
+e. Check the provider’s address with Oregon’s sex offender registry when
+conducting background check procedures on a provider whose home is where
+child care is provided.
+To further strengthen coordination with child care background checks and help with the safety
+of children, we recommend DHS:
+3. Work with OCC to regularly provide OCC with adult protective services reports.
+4. Have common identifiers within its abuse and neglect registries that are reliable and can
+be used to readily identify a person involved in a protective service allegation. DHS
+should collect and work with OCC to also collect those identifiers for all child care
+providers. This will allow a more complete check of abuse and neglect registries.
+5. Regularly check department employees for criminal convictions and involvement in
+founded abuse and neglect allegations.
+In order to strengthen the safety of children in recorded programs, we recommend OCC:
+6. Propose legislative changes to confirm or conduct criminal background checks on
+employees and volunteers in preschool and school-age recorded programs, and ensure
+Oregon Secretary of State | Report 2020-21 | June 2020 | Page 27
+employees and volunteers are held to the same background check standards as licensed
+child care providers.
+Further, for OSP to help with safety and community notification, we recommend the agency:
+7. Propose legislative changes to allow proactively providing information to DHS, such as
+when registered sex offenders state their occupation involves caring for a vulnerable
+population. This would allow a check to ensure the care being provided is in a safe
+manner.
+8. For Oregon’s sex offender registry public site, propose legislative changes to follow
+SORNA standards. Also, OSP should work with the Board of Parole and Post-Prison
+Supervision to regularly obtain the required offender profile information and include
+further information on the public registry site such as general victim profiles.
+Oregon Secretary of State | Report 2020-21 | June 2020 | Page 28
+Objective, Scope, and Methodology
+Objective
+The purpose of this audit was to report on Oregon’s efforts to meet the federal and state child
+care background check requirements to help ensure the safety of children in child care.
+Scope
+This audit focused on the CCDBG 2014 reauthorization and additional state requirements for
+child care background checks implemented since 2018.
+Methodology
+To address our objective, we interviewed key staff and management DHS, OCC, and OSP. We also
+obtained information from the U.S. Administration for Children and Families’ Office of Child Care
+staff responsible for overseeing the CCDBG, and management at agencies in other states
+responsible for conducting child care provider background checks.
+We reviewed CCDBG rules, state laws, and agency policies and procedures related to child care
+background checks and our audit objective. We also reviewed Oregon’s and other states’ plans to
+adhere to CCDBG funding requirements, states’ waiver requests in meeting CCDBG
+requirements, the National Fingerprint File program, and the Sex Offender Registration and
+Notification Act standards for state sex offender registries. Further, we reviewed studies and
+reports related to child care and child welfare.
+We obtained lists of approved child care providers from BCU as of January 1, 2017, through
+January 31, 2019, and from the ERDC unit as of January 1, 2016, through January 1, 2018, and
+OCC individual providers as of April 2019 and facilities as of December 19, 2018. This provided
+us with a list of all state approved child care providers and staff during that time, which totaled
+about 56,000 individuals. For those on the list, we obtained and reviewed criminal history
+information as of the first part of July 2019. We also compared the list of approved providers
+and staff to the following sets of data:
+• all sex offenders as of January 29, 2019, in Oregon’s Sex Offender Registry, which we
+obtained from OSP;
+• individuals with child welfare abuse and neglect allegations that occurred between
+January 1, 2012, and December 31, 2018, which we obtained from DHS’s Child Welfare
+Program; and
+• individuals with allegations of abuse against an elderly person or a person with a
+disability or mental illness, occurring between January 1, 2012, and February 21, 2019,
+and January 1, 2012, and March 1, 2019, provided, respectively, by DHS’s Aging and
+People with Disabilities program and its Office of Training, Investigations, and Safety.
+We performed limited data reliability testing and analyzed data to identify the extent criminal
+and abuse and neglect histories were included in a fitness determination. We performed
+matches between the list and data sets based on Social Security number, name, date of birth, and
+address to attempt to identify individuals who were providing care that should not be or who
+reside in a home in which a provider is providing care. We used multiple unique identifier
+combinations as not every list had Social Security number or date of birth information and there
+is a possibility of different first and last name conventions or a provider may not reported all of
+the individuals living in their household. For any approved child care provider or staff who had
+Oregon Secretary of State | Report 2020-21 | June 2020 | Page 29
+criminal, abuse, or neglect histories, we confirmed with the agency that the information was
+included in a fitness determination as part of the background check.
+Further, we obtained lists of DHS and OCC employees as of February 7, 2019, as there are state
+background check rules and the potential for employees to have access to vulnerable
+populations or their information. We obtained criminal histories and compared those employees
+to the same sets of data used to compare to child care providers and staff. Likewise, we used
+multiple unique identifier combinations to check for matches. For any approved employees who
+had criminal or abuse and neglect histories, we confirmed whether the agency included a fitness
+determination as part of the background check.
+During the course of the audit, there were delays due to the needed security measures we added
+for maintaining and analyzing criminal justice information, and delays with publicly issuing our
+audit report due to the focus and impact of the coronavirus pandemic (COVID-19). Throughout
+these delays, we had continued communication with the Governor’s Office and agencies so they
+were alerted of matters timely.
+We conducted this performance audit in accordance with generally accepted government
+auditing standards. Those standards require that we plan and perform the audit to obtain
+sufficient, appropriate evidence to provide a reasonable basis for our findings and conclusions
+based on our audit objective. We believe that the evidence obtained provides a reasonable basis
+for our findings and conclusions based on our audit objectives.
+We sincerely appreciate the courtesies and cooperation extended by officials and employees of
+the Governor’s Office, ODE, DHS, and OSP during the course of this audit.
+The Oregon Secretary of State Audits Division is an independent, nonpartisan
+organization that conducts audits based on objective, reliable information to
+help state government operate more efficiently and effectively.
+sos.oregon.gov/audits
+Appendix A: Information Available to the Parents Seeking
+Child Care
+Parents who entrust their children to state approved child care providers also trust those providers
+have been rigorously vetted to safeguard child safety. However, parents should know that while
+the state conducts background checks, details from state background checks, which involve
+sensitive criminal justice information, cannot be shared with the public. There are resources
+available to parents who wish to independently confirm the background information of a child care
+provider:
+☑
+Oregon State Police
+Open Records Program
+» Must, under state law, provide public access to Oregon criminal
+history record information
+» Includes convictions and recent open arrests (within the past year)
+» $10 fee
+☑ Oregon eCourt System » Provides non-confidential court and case records information
+» Includes all Oregon circuit and tax courts
+☑
+U.S. Department of
+Justice
+National Sex Offender
+Public Website
+» Contains registered sex offender information reported by
+participating jurisdictions
+» Federal database that spans nationwide
+☑
+Oregon public
+Sex Offender Registry
+» Lists sex offenders with the highest risk of reoffending (Level 3 sex
+offenders)
+» State database that is Oregon specific
+☑
+Oregon State Police
+Sex Offender Registry
+Unit
+» Can contact the unit directly to ask about a specific individual by
+name (provided it is for a public safety purpose)
+» Phone: (503) 934-1258
+» Email: sexoffender.questions@osp.oregon.gov
+☑
+Office of Child Care
+Safety Portal
+» Available for parents to check the safety and quality monitoring
+results of licensed child care providers
+» Includes information such as license status, results of inspection
+visits, complaints, and enforcement activity
+Want more information on choosing child care? Visit the Early Learning Division of the Oregon
+Department of Education or Child Care Aware of America.
+Do you have suspicious activity or criminal acts to report involving your children? Contact local law
+enforcement or your local Oregon State Police office.
+700 Summer St NE, Salem OR 97301 | Phone (503) 947-1400 | FAX (503) 947-1428 | www.oregonearlylearning.com
+May 6, 2020
+Kip Memmott, Director
+Secretary of State, Audits Division
+255 Capitol St. NE, Suite 500
+Salem OR  97310
+Dear Mr. Memmott,
+This letter provides a written response to the Audits Division’s final draft audit report titled
+“Oregon Should Improve Child Safety by Strengthening Child Care Background Checks and the
+State’s Sex Offender Registry.”
+The Office of Child Care (OCC), part of the Early Learning Division of the Department of
+Education, welcomed the Secretary of State’s audit of the OCC background check process, the
+Department of Human Services (DHS) background check process, and the related work of
+Oregon State Police (OSP). OCC appreciates the Governor requesting the review in an effort to
+determine compliance with federal law, and to identify issues and solutions.
+OCC also appreciates the expertise and professionalism demonstrated by the Audits Division’s
+staff. The audit report provides important information and reflects the philosophy which ELD
+shares—that audits are tools to improve processes, laws, and ultimately outcomes for the
+populations served.
+In addition, the audit highlights the struggles Oregonians face: child care deserts in all 36
+counties, and a lack of affordability for many families. The Early Learning Division (ELD) works to
+keep children in child care safe, and to expand access so that parents can find quality care at an
+affordable price.
+The background checks on child care providers in Oregon are far more robust than many states.
+For enrollment in OCC’s Central Background Registry (CBR), background checks are fingerprint-
+based for accuracy. Criminal records are checked and routinely re-checked, child and adult
+abuse and neglect records are also checked, and more. However, “better than others” should
+not be the standard.
+Oregon agencies and policy-makers should pursue the appropriate decisions for Oregon:
+assessing the right crimes, findings, and behaviors for the right period of time with routine
+coordination among agencies. In short, the OCC agrees with the audit recommendations. The
+two agencies performing background checks related to child care must, in the short term,
+better align our standards. OCC appreciates that the auditors adopted the suggestions made by
+OCC and DHS. With appropriate time and resources, all child care-related background checks
+should be performed by one agency – OCC – so there is a single standard with a single point of
+accountability. In addition, staff in recorded programs should be subject to OCC-conducted
+background checks and enrollment in the CBR.
+The agencies will work together to meet the dates described, but there is significant uncertainty
+due to the COVID-19 crisis policy work and legislative priorities.
+Below is our detailed response to each recommendation in the audit.
+RECOMMENDATION 1
+To ensure consistency and standardization, OCC and BCU propose legislation to have all
+child care background checks performed by a single agency that conducts child care
+provider background checks.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree February 2021 Amy Joyce, OCC Director
+503-373-0865
+Narrative for Recommendation 1
+OCC agrees with the recommendation. OCC and DHS-BCU suggested this idea to the auditors,
+as this is the best way for the state to have the most consistent background checks performed
+on child care providers, regardless of whether they are licensed through OCC or only receiving
+ERDC payment through DHS. An earlier potential recommendation was for the BCU and OCC
+standards to be amended to more closely align. OCC and DHS-BCU suggested, however, that
+the better way to achieve uniformity, while also make use of state resources more efficiently, is
+for one agency to conduct all background checks using the same criteria.
+OCC is better situated to perform this work. OCC and BCU are already working with DAS and the
+Governor’s Office to introduce legislation for the 2021 session. The agencies ask that the
+executive branch introduce such legislation, to allow this task to be complete by February 2021.
+In addition, OCC commits to actively pursuing passage of that legislation.
+RECOMMENDATION 2a
+Specific actions OCC and BCU should take include:
+a. In consultation with the Oregon Department of Justice, create a consistent list
+of automatic disqualifying crimes to use in background check determinations
+for state licensed and regulated child care providers, and periodically evaluate
+that list as criminal laws change. Agencies should seek clarification from the
+U.S. Dept. of Health & Human Services Office of Child Care, as needed, for
+act requirements.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree June 2021 Amy Joyce, OCC Director
+503-373-0865
+Narrative for Recommendation 2a
+OCC agrees with the recommendation. The two agencies need to work with multiple attorneys
+at the Department of Justice and with our federal partners to create a consistent list of
+automatically disqualifying crimes. Once the agencies develop a beginning list, both agencies
+should open their respective rule-making processes, which must include a Rules Advisory
+Committee (RAC).
+OCC is governed by the Early Learning Council (ELC) and must seek approval at one of their
+quarterly meetings. OCC anticipates being ready to propose rules at the second quarter 2021
+meeting. OCC must then take implementation measures. This includes programming computer
+information systems, updating materials, training staff, and then evaluating the existing CBR
+enrollees (approximately 50,000 people) against the newly adopted standards. Because this
+recommendation could be implemented much sooner than Recommendation 1 (unified
+background check by a single agency), the agencies should move forward with this work and
+rule adoption even if the legislation in Recommendation 1 passes.
+RECOMMENDATION 2b
+Specific actions OCC and BCU should take include:
+b. Work together to set the same background check requirements for all child care
+providers that are at a high enough standard to protect the welfare of children.
+At a minimum, this should happen on a regular basis due to law changes and
+include determining other concerning crimes to consider, looking at trends or
+patterns of concerning behavior, timing of renewal and interim background
+checks, setting minimum age requirements, and reporting requirements.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree September 2021 Amy Joyce, OCC Director
+503-373-0865
+Narrative for Recommendation 2b
+OCC agrees with the recommendation. However, if the legislation in Recommendation 1
+becomes law, this recommendation will no longer be needed. The analysis, however, still would
+be necessary for OCC to ensure the appropriate standards are adopted into rule. Therefore, the
+work between the agencies and DOJ would continue regardless of the outcome of the
+legislation. Should the legislation pass, the analysis will be used for OCC to improve the
+forthcoming unified background check standard. Should the legislation not pass, the agencies
+will continue with a rule-writing process to achieve this recommendation.
+RECOMMENDATION 2c
+Specific actions OCC and BCU should take include:
+c. Advocate to the U.S. Dept. of Health and Human Services Office of Child Care
+the need for interstate sharing of information critical in assessing child
+care providers.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree
+Ongoing. (Conversations
+with US-OCC have been
+occurring since 2017.)
+Amy Joyce, OCC Director
+503-373-0865
+Narrative for Recommendation 2c
+OCC and BCU have been advocating to the US Office of Child Care since 2017 for a national
+leadership clearinghouse of state data. Oregon’s OCC will continue to advocate at the regional
+and national level. To date our advocacy has primarily been through the Federal Region 10
+Office, whose staff counsels states and acts as liaison between states and the federal
+decision-makers in Washington D.C. In March 2020, ELD-OCC submitted comments to the
+Federal Register regarding a regulation requiring states to post information on the web that
+would describe how to obtain that state’s background information. OCC used the opportunity
+to again describe the difficulties in obtaining interstate records and request the national
+clearinghouse. OCC will continue discussions with federal partners, and engage Oregon’s
+federal delegation in effort to gain change at the federal level.
+RECOMMENDATION 2d
+Specific actions OCC and BCU should take include:
+d. Establish policies and procedures to share updated, pertinent information
+resulting from background checks on related individuals.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree January 2022 Amy Joyce, OCC Director
+503-373-0865
+Narrative for Recommendation 2d
+OCC agrees with this recommendation. OCC and BCU will collaborate with Department of
+Justice and Oregon State Police to clearly identify what information may be exchanged under
+which circumstances, and establish a clear process for consistent and accurate exchange. OCC
+notes that there is no computerized data system, in existence or planned, that would gather all
+the various types of information into one central, accessible data pool. Rather, the agencies will
+develop better systems and processes to ensure the information is exchanged timely and
+accurately. If any statutory or rule changes are needed to allow that data exchange, OCC will
+pursue those legal changes.
+RECOMMENDATION 2e
+Specific actions OCC and BCU should take include:
+e. Check on the provider’s address in its search of the state sex offender registry
+when conducting a background check on a provider whose home is where
+child care is provided.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree January 2021 Amy Joyce, OCC Director
+503-373-0865
+Narrative for Recommendation 2e
+OCC and BCU will collaborate with OSP’s Sex Offender Unit to identify and implement the
+specific procedures necessary to review home-based provider applicants’ addresses and cross-
+check for offenders listed at that address. The agencies will collaboratively develop procedures
+to take appropriate action when a check reveals a potential hit on a provider address.
+RECOMMENDATION 6
+OCC propose legislative changes to confirm or conduct criminal background checks on
+employees and volunteers in preschool and school-age recorded programs, and
+ensure employees and volunteers are held to the same background check standards
+as licensed child care providers.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree February 2021 Amy Joyce, OCC Director
+503-373-0865
+Narrative for Recommendation 6
+OCC agrees with this recommendation. Recorded programs have very little oversight from the
+state agency entrusted to regulate child care. Background checks are done by the facilities
+themselves and no law requires any particular standard for those background checks. The
+Legislature should consider requiring recorded programs’ staff to be subject to the full
+background check and enrolled in the Central Background Registry before providing
+unsupervised care of children. OCC is developing a legislative concept and Policy Option
+Package (POP) for the 2021 Legislative session. The concept and POP development process for
+all agencies is occurring now. We will present this through DAS for the Governor’s consideration
+to introduce for the 2021 legislative session.
+Please contact Amy Joyce, OCC Director, 503-373-0865 with any questions.
+Sincerely,
+Miriam Calderon
+Early Learning Division Director
+Cc:  Sue Miller, Early Learning Council Chair
+“Assisting People to Become Independent, Healthy and Safe”
+Department of Human Services
+Office of the Director
+500 Summer St. NE, E-15
+Salem, OR 97301
+Voice: 503-945-5600
+Fax: 503-581-6198
+TTY: 503-945-5896
+Oregon
+Kate Brown, Governor
+May 18, 2020
+Kip Memmott, Director
+Secretary of State, Audits Division
+255 Capitol St. NE, Suite 500
+Salem, OR 97310
+Dear Mr. Memmott,
+This letter provides a written response to the Audits Division’s final draft audit report
+titled “Oregon Should Improve Child Safety by Strengthening Child Care Background
+Checks and the State’s Sex Offender Registry.”
+DHS thanks the Audits Division for the opportunity to rigorously explore its background
+check systems, and for the advocacy in improving those systems and cross-agency
+communication identified in Findings 3 and 4 of the Executive Summary. DHS agrees
+with Recommendations 1 through 4, and partially agrees with Recommendation 5.
+As DHS and the Oregon Office of Child Care (OCC) move forward in work related to
+Findings 1 and 2 of the Executive Summary, and as community leaders and legislators
+discuss any changes to law, DHS poses some factors for consideration in social policy
+development.
+As noted in the audit report, DHS and OCC are required by ORS 181A.195 to perform a
+fitness determination weighing multiple factors including but not limited to evidence of
+rehabilitation, and passage of time since the commission of the crime. Evidence of
+rehabilitation can include training, education, counseling, therapy or other activities
+performed for courts, adult or child protective services, or other authorities.
+For example, before potentially approving any individual with criminal or protective
+service history, DHS does not only note an individual’s criminal conviction or abuse
+substantiation, but thoroughly reviews the specific events as described in a variety of
+official documentation. When available, these documents include but are not limited to:
+police and court records; parole and probation records; witness and mandatory reporter
+statements; Oregon abuse investigation reports; out-of-state abuse information; case
+details of ongoing protective service involvement and evaluations; behavioral health
+evaluations; treatment and counseling records; compliance with court and protective
+service requirements; restitution records; and other verifications.
+This Oregon statutory requirement is directly supported by Equal Employment
+Opportunity Commission (EEOC) guidance. Nationally acknowledged disparities in arrest
+and convictions of African Americans, Native Americans, and Latinos exist. Title VII of
+the Civil Rights Act of 1964 addresses disparate impact.1 Consequently the EEOC has
+established the following three factors for consideration in background checks to reduce
+how disparities in the criminal justice system affect protected populations’ chances at
+employment or licensing:
+1. The nature and gravity of the offense or conduct;
+2. The time that has passed since the offense or conduct and/or completion of the
+sentence;
+3. The nature of the job held or sought.2
+Since there is nationally acknowledged disproportionality in child protective service
+(CPS) assessments, and CPS information is used in fitness determinations for
+employment and licensing, EEOC guidelines based on Title VII’s disparate impact apply.
+Factors of time since a substantiation, rehabilitative activities, and the severity of the
+abuse or neglect must also be considered in the weigh test. For example, during the
+audit, concerning crimes and abuse patterns of history were found in many cases.
+However the vast majority ended a decade or longer in the past, generally with
+rehabilitative activities including but not limited to successful treatment of substance
+abuse and mental health disorders.
+Fitness determinations look at specific circumstances in both any potentially
+disqualifying history and specific actions of each individual to recompense those they
+harmed, serve their community, and stabilize their life. In that regard, fitness
+determinations create an important balance between laws that will always make
+someone ineligible for a position or profession (i.e., a disqualifying crime) regardless of
+years or decades since a conviction, and laws that automatically remove a crime from
+consideration after a set number of years.
+The weighing process allows for a person-centered, research-informed analysis of the
+individual’s risk to vulnerable Oregonians. This is especially important when certain
+crimes or abuse/neglect substantiations are considered societally “concerning” at face
+value.
+DHS agrees that greater consistency must be achieved between DHS and OCC regarding
+mandatory exclusions. This process of policy alignment will be performed carefully
+1  Equal Employment Opportunity Commission. (2012, April 25). Enforcement Guidance on the
+Consideration of Arrest and Conviction Records in Employment Decisions Under Title VII of the Civil
+Rights Act of 1964, as amended, 42 U.S.C. § 2000e et seq. Retrieved from
+https://www.eeoc.gov/laws/guidance/arrest_conviction.cfm
+2  EEOC 2012, p. 11.
+under federal guidelines from the EEOC and Title VII of the Civil Rights Act based on
+disparate impact. In addition to being permanently barred from a position (in this
+audit’s case, child care), mandatory exclusions may result in the individual losing
+constitutional rights of due process to appeal the decision.
+As the EEOC explains:
+To establish that a criminal conduct exclusion that has a disparate impact is job
+related and consistent with business necessity under Title VII, the employer needs to
+show that the policy operates to effectively link specific criminal conduct, and its
+dangers, with the risks inherent in the duties of a particular position.3
+Compliance to federal statutory and regulatory requirements that mandatorily exclude
+individuals with specific types of criminal history from employment in some industries
+provide a defense against a charge of discrimination under Title VII.
+4 However Title VII
+preempts state and local laws and regulations, consequently compliance to state or
+county-dictated mandatory exclusions would not shield an employer or background
+check organization from a charge of discrimination.
+5 Any state-initiated mandatory
+exclusions should consequently be carefully considered to preserve legal sufficiency.
+There are additional legal precedents in support of caution in establishing mandatory
+exclusions. In Nixon v. Commonwealth (2001) and Peake v. Commonwealth (2015),
+Pennsylvania courts (including the Pennsylvania Supreme Court in appeal) determined
+that lifetime exclusions violated the defendants’ constitutional right to pursue a lawful
+occupation and required hiring decisions be made on an individual basis.
+In these cases it was determined that there was no merit to the assumption that
+individuals with certain barrier crimes would always pose a danger. The lifetime ban was
+deemed unconstitutional as a violation of due process, and the Commonwealth was
+instructed to use individual assessments of risk, additionally considering factors of
+rehabilitation and previous experience in pertinent employment without committing
+abuse or neglect.
+Modern research on recidivism has also demonstrated that mandatory exclusions
+unnecessarily restrict employment. Most studies have found that if someone will
+recidivate, it will occur within the first 5 years after release.7 Two of the highest
+recidivism factors for crimes involve (1) violence and (2) theft of money or property. Due
+3  EEOC 2012, p. 14.
+4  EEOC 2012, p. 24.
+5  EEOC 2012, p. 24.
+6  Peake v. Commonwealth of Pennsylvania, et al., 216 (M.D. 2015)
+7  Congressional Research Service, 2016, p. 10; Cooper, Durose & Snyder, 2014, p. 14-15.
+Blumstein, A. & Nakamura, K. (2009b). Redemption in the Presence of Widespread Criminal
+Background Checks. Criminology, 47(2), 327-359.
+to that combination of violence and theft, robbery had a higher risk of recidivism than
+either burglary or aggravated assault in one study of 27 years of New York recidivism
+data. Yet 7.7 years after release robbery hit a point where the risk of recidivism was
+lower than the risk of someone with no criminal history offending for the first time.8
+Lastly employment is a factor in preventing recidivism. A Canadian study found that 45%
+of recidivism was due to lack of employment upon reentry, with lack of pertinent
+education as a secondary factor.9 A British study of individuals reentering society after
+being incarcerated for a year or less found that up to 70% of recidivism was due to lack
+of employment.10 As a U. S. Department of Justice report explained:
+The individual’s interest in the fair use of criminal history information is mirrored by
+the broader social policy of facilitating the reentry of ex-offenders into the
+workforce. Steady gainful employment is a leading factor in preventing recidivism.
+The unfair use of or discrimination based upon criminal records can raise barriers to
+employment by ex-offenders and, as a result, undermine the reentry that makes us
+all safer.11
+Use of the weigh test provides an individual assessment of both the history and positive
+changes an individual has enacted in their life. This process allows for the potential
+approval of an individual who has achieved meaningful changes in their life and thereby
+significantly reduced their risk to vulnerable Oregonians to provide meaningful care and
+earn a constructive living.
+DHS looks forward to working on these findings and recommendations, utilizing
+guidance from federal and state requirements, principles of due process, EEOC
+guidance, and the DHS vision and mission achieving safety, well-being and
+independence for all Oregonians.
+Below is our detailed response to each recommendation in the audit. Please note that
+these responses are made with two caveats: (a) the Oregon Office of Child Care is the
+lead agency for the Oregon Child Care block grant; (b) all target dates for
+implementation of recommendations are dependent on policy work and legislative
+priorities for the public good related to COVID-19.
+8  Blumstein, A. & Nakamura, K. (2009b).
+9  Warde, B. (2013). Black Male Disproportionality in the Criminal Justice Systems of the USA, Canada,
+and England: a Comparative Analysis of Incarceration. Journal of African American Studies, 17, 461-
+479. doi 10.1007/s12111-012-9235-0
+10  Warde, 2013.
+11  U. S. Department of Justice (DOJ), Office of the Attorney General (OAG). (2006). The Attorney General’s
+Report on Criminal History Background Checks. Page 2. Retrieved from
+https://www.bjs.gov/content/pub/pdf/ag_bgchecks_report.pdf
+RECOMMENDATION 1
+To ensure consistency and standardization, OCC and BCU propose legislation to have all
+child care background checks performed by a single agency that conducts child care
+provider background checks.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree
+2/1/2021
+Kirstin Holman, DHS SSP
+Program Design Manager
+for Child Care Policy &
+Direct Pay Unit
+503-945-6720
+Narrative for Recommendation 1
+Implementation will require submission of a Policy Option Package (POP) for the 2021
+Legislative Session. As OCC is the lead agency for Child Care in Oregon, OCC will be
+responsible for submitting the POP.
+The target date assumes that the POP is passed in the 2021 Session. If the POP was not
+approved, the target date would need to be extended as needed until legislative
+authority to centralize background checks was provided.
+RECOMMENDATION 2a
+Specific actions OCC and BCU should take include:
+a. In consultation with the Oregon Department of Justice, create a consistent list
+of automatic disqualifying crimes to use in background check determinations
+for state licensed and regulated child care providers, and periodically evaluate
+that list as criminal laws change. Agencies should seek clarification from the
+U.S. Dept. of Health & Human Services Office of Child Care, as needed, for act
+requirements.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree
+3/1/2021 for rules;
+6/1/2021 for training and
+Kirstin Holman, DHS SSP
+Program Design Manager
+final implementation.
+for Child Care Policy &
+Direct Pay Unit
+503-945-6720
+Barbara Muller, BCU
+Program Manager, 503-
+385-7203
+Narrative for Recommendation 2a
+Implementation will require collaboration between the DHS Background Check Unit
+(BCU), DHS Child Care Unit (CCU) and the Oregon Office of Child Care (OCC), and Oregon
+Department of Justice (DOJ) before proceeding to a Rules Advisory Committee (RAC) to
+publish permanent rules. Crime lists will be reviewed annually thereafter.
+RECOMMENDATION 2b
+Specific actions OCC and BCU should take include:
+b. Work together to set the same background check requirements for all child care
+providers that are at a high enough standard to protect the welfare of children.
+At a minimum, this should happen on a regular basis due to law changes and
+include determining other concerning crimes to consider, looking at trends or
+patterns of concerning behavior, timing of renewal and interim background
+checks, setting minimum age requirements, and reporting requirements.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree
+6/1/2021 for rules;
+9/1/2021 for training and
+final implementation.
+Kirstin Holman, DHS SSP
+Program Design Manager
+for Child Care Policy &
+Direct Pay Unit
+503-945-6720
+Barbara Muller, BCU
+Program Manager, 503-
+385-7203
+Narrative for Recommendation 2b
+Implementation will require collaboration between BCU, CCU and OCC, and DOJ before
+proceeding to RCA to publish permanent rules. Thereafter procedural and other
+documents will need to be updated and training on new processes provided to all
+pertinent BCU and OCC staff.
+Synchronization of practice and requirements will be reviewed annually thereafter to
+maintain quality control.
+RECOMMENDATION 2c
+Specific actions OCC and BCU should take include:
+c. Advocate to the U.S. Dept. of Health and Human Services Office of Child Care
+the need for interstate sharing of information critical in assessing child care
+providers.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree
+Conversations with US
+OCC have been occurring
+since 2017. Advocacy will
+be ongoing.
+Kirstin Holman, DHS SSP
+Program Design Manager
+for Child Care Policy &
+Direct Pay Unit
+503-945-6720
+Barbara Muller, BCU
+Program Manager, 503-
+385-7203
+Narrative for Recommendation 2c
+As noted above, conversations and advocacy for interstate data-sharing tools and
+processes between BCU, OCC, and the US Office of Child Care have been ongoing since
+early 2017. Oregon has participated in a variety of Region X teleconferences with US
+Office of Child Care and other states’ licensing and background check agencies, as well
+as state police departments working toward acquiring Federal statutory data-sharing
+authority, as well as Federally-provided tools and applications.
+RECOMMENDATION 2d
+Specific actions OCC and BCU should take include:
+d. Establish policies and procedures to share updated, pertinent information
+resulting from background checks on related individuals.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree
+1/1/2022
+Kirstin Holman, DHS SSP
+Program Design Manager
+for Child Care Policy &
+Direct Pay Unit
+503-945-6720
+Barbara Muller, BCU
+Program Manager, 503-
+385-7203
+Narrative for Recommendation 2d
+BCU and OCC will collaborate with DOJ and Oregon State Police (OSP) to identify what
+information can be shared, and what processes for that sharing are legally sufficient.
+BCU and OCC will enact those recommendations for data-sharing as applicable.
+RECOMMENDATION 2e
+Specific actions OCC and BCU should take include:
+e. Check the provider’s address with Oregon’s sex offender registry when
+conducting background check procedures on a provider whose home is where
+child care is provided.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree
+1/1/2021
+Kirstin Holman, DHS SSP
+Program Design Manager
+for Child Care Policy &
+Direct Pay Unit
+503-945-6720
+Barbara Muller, BCU
+Program Manager, 503-
+385-7203
+Narrative for Recommendation 2e
+BCU and OCC will collaborate with OSP’s Sex Offender Unit to identify and implement
+the specific procedures necessary to request address-based checks of the Oregon Sex
+Offender Registry.
+BCU, CCU and OCC will thereafter jointly formulate procedures for how to apply such
+checks when a positive hit on a provider address occurs.
+RECOMMENDATION 3
+DHS work with OCC to regularly provide OCC with adult protective services reports.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree
+Implementation activities
+started in Oct. 2018 for APD
+APS.
+The Office of Training,
+Investigation and Safety
+(OTIS) are currently
+meeting with OCC.
+Marie Cervantes, APS
+Administrator,
+(503) 947-5005
+Charles Hibner, Director of
+OTIS, 503-945-9491
+Narrative for Recommendation 3
+The Office of Child Care (OCC) received statutory authority per (HB4054/2018 session)
+ORS 329A.030(4)(a)(A) to access state adult abuse history when individuals apply to be
+listed on OCC’s Central Background Registry. Upon receipt of this information, Aging &
+People with Disabilities (APD) coordinated with OCC in October of 2018 to create the
+following initial process for sharing adult protective services reports for investigations in
+both licensed (referred to as Facility APS investigations) and unlicensed settings
+(referred to as Community APS investigations):
+1. OCC will request abuse history from APD whenever an applicant self-discloses
+abuse history on their application.
+2. APD established a central APD-APS Unit email address to send requests and
+created a specific contact person/gatekeeper, so OCC can send the request to
+one APD entity. Part of the contact person/gatekeeper’s role is obtaining
+information from the Office of Safety, Oversight and Quality (SOQ) for
+information related to Facility APS investigations and combining it with any
+information contained in Community APS investigations for a consolidated APD
+response.
+3. The request from OCC is sent via a secure e-mail from the Oregon Department of
+Education (ODE) helpdesk to the APD-APS Unit mailbox with a subject line
+identifier “OCC Request for Adult Abuse History.” The OCC request includes a
+cover letter requesting “Adult Abuse History” and provides an APS case number,
+type of abuse, date the record was closed. APD is asked to return confirmation of
+all substantiated cases and any details. The applicant’s name, DOB and SSN are
+included in the cover letter as verification points.
+It is important to note that APD (in coordination with other DHS/OHA programs)
+implemented a new Centralized Abuse Management (CAM) System. All APD or Area
+Agency on Aging (AAA) offices were operational in CAM as of Jan. 1, 2019. Our
+gatekeeper coordinates with respective contacts in SOQ and APD to ensure all relevant
+systems (legacy, CAM) are queried for pertinent information to ensure a comprehensive
+review is completed.
+DHS (including APD-APS, SOQ and the OTIS) will continue working with OCC to develop a
+process for sharing information necessary for OCC to perform their background checks.
+RECOMMENDATION 4
+DHS have common identifiers within its abuse and neglect registries that are reliable
+and can be used to readily identify a person involved in a protective service allegation.
+DHS should collect and work with OCC to also collect those identifiers for all child care
+providers. This will allow a more complete check of abuse and neglect registries.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree Statewide APD/APS Marie Cervantes, APS
+identifiers established
+1/1/2019, SOQ identifiers
+established 2/18/2019.
+Administrator
+(503) 947-5005
+Charles Hibner, Director of
+OTIS, 503-945-9491
+Narrative for Recommendation 4
+DHS Aging and People with Disabilities (APD), in coordination with other DHS/OHA
+programs, implemented a new Centralized Abuse Management (CAM) System for Adult
+Protective Services (APS). All APD or Area Agency on Aging (AAA) offices were
+operational in CAM as of Jan. 1, 2019. In addition, the Safety Oversight and Quality
+Office (SOQ) implemented a new Corrective Action and Licensing Management System
+(CALMS) as of 02/18/2020. CALMS imports information/records from CAM to SOQ that
+enables them to perform Licensing and Corrective Action tasks. In each system, several
+common identifiers exist to identify a person involved in an APS investigations and SOQ
+corrective action.
+Examples include:
+1. Each intake or investigation is assigned a CAM/CALMS identification number as a
+unique identifier.
+2. CAM has a global search feature that allows a user to search for an individual
+and any role they had in an APS intake or investigation. The roles include: alleged
+victim, alleged perpetrator, reporter, witness, collateral contact, etc. This is
+another identification source that can be utilized.
+3. Each individual involved in an APS intake or investigation has a unique person
+record created in CAM that contains identifiers such as name, alias, date of birth
+(DOB), address, Social Security Number (SSN), as available. A person record must
+be created before an intake or investigation can be assigned or closed.
+APD and OTIS recognize that DOB or SSN information is not always available. It is
+important to note, APS is not an eligibility-based program that requires this type of
+identification. Investigation parties have the right to decline APS interventions and
+asking for this type of identification during a case of familial type abuse could create a
+safety risk for a vulnerable adult.
+However, whenever possible, this information is included in the CAM/CALMS system or
+provided via other sources such as through SOQ for licensed providers. Currently, a data
+analysis query is being conducted by the APS Unit, QA/QI Coordinator to determine data
+trends for SSN and DOB numbers for both Community and Facility APS settings. The data
+analysis will be shared with Field Administration and respective offices for a quality
+improvement plan. Early results from the data query show a modest improvement in
+this area of data collection.
+OTIS investigations similarly are using CAM and will review data capture for these
+common identifiers.
+Child Welfare (CW) consistently requests identifying information, such as: name, DOB,
+address and SSN numbers. Like APS, child protective services (CPS) is not an eligibility-
+based program that requires this type of identification. Case participants have the right
+to decline providing this type of information during the investigation phase and even
+when a case is opened for services. When the information is available, it is added to the
+CW case record and is searchable.
+CW and OTIS have developed business processes that facilitate the entry of OTIS
+investigations into the OR-Kids system for enhanced tracking of perpetrators and
+individuals involved in investigations.
+In terms of working wit h OCC to collect comm on identifiers, there are notable privacy
+and securit y issues with  gathering and storing  sensitive information such as  SSNs.
+Establishing data-sharing with DHS protective services for OCC-collected Employment
+Identification Numbers (EI Ns) or Social Security Numbers (SSNs) , and  other common
+identifiers would require revie w by DOJ to establish what could be requested and
+shared between parties while remaining legally sufficient.
+Secure methods of sharing the information would need to be implemented. Data-
+sharing would also need to include data integrity procedures to ensure that fraudulent
+or incorrect information (ex., incorrect SSNs) was not being added to protective service
+records. Likewise, even correct information would need to be cross-matched accurately
+to the correct APS or CPS files. Erroneous or incorrectly-matched information could
+create false negatives or false positives that would erode the integrity of the
+background check process as well as protective service records.
+RECOMMENDATION 5
+DHS regularly check department employees for criminal convictions and involvement
+in founded abuse and neglect allegations.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Partially Agree
+Immediately
+Belinda Teague, DHS HR
+Director, 503-931-8179
+Mark Rasmussen, DHS HR
+Deputy Director, 971-273-
+6134
+Narrative for Recommendation 5
+Currently OAR 407-007-0020 (3) requires DHS employees to report to DHS Human
+Resources (HR) any new arrest, charge or conviction of any crime within 5 days of
+occurrence. HR is immediately notified by Child Welfare or Adult Protective Services if
+protective service investigations involve a DHS employee. When an employee is
+determined to have new criminal or abuse history, progressive discipline may be applied
+in such situations, or HR may request that a new background check is completed.
+BCU and CW are both CJIS programs, consequently BCU and CW employees are all
+subject to the CJIS background check requirements. If an employee commits a crime
+that does not meet CJIS clearance thresholds, DHS will currently be notified by OSP, and
+are required to take action to remove CJIS-related duties. These requirements may
+circumvent progressive discipline and could make a new background check superfluous.
+DHS has previously advocated unsuccessfully (HB 2228 in 2015) for statutory language
+that would have provided Oregon access to the FBI’s Rap Back Program. This program
+provides employers with immediate updates when enrolled employees acquire new
+criminal history anywhere within the United States. Such a program could bring
+efficiencies to both provider and state employee background checks, especially for
+larger organizations like DHS. Without such an efficiency, ongoing rechecks of
+employees may lead to increased workload and fiscal impacts without proportional
+increases to safety.
+Per BCU and HR records during the audit, a total of eight employees were found to have
+not complied explicitly with OAR 407-007-0020 (3); two of the eight reported the history
+to their supervisor.
+DHS currently has 10,084 employees resulting in 0.0008% non-compliance. Due to the
+extremely low rate of non-compliance, DHS HR will continue to recheck employees
+under current procedures.
+It should be noted that DHS adheres in its employment practices to EEOC guidelines,
+including those requirements delineated at the beginning of this response. In addition,
+due to the variety of populations that DHS serves, in most circumstances it is best
+practice to have staff with lived experience who have successfully overcome issues such
+as addiction disorders, mental health issues, domestic violence, and other crisis to work
+with families with similar challenges. Experience has shown that a person-centered
+approach that takes into consideration individual circumnutates always works better
+than a one size fits all approach.
+Please contact Frank T. Miles at 503-507-7851 with any questions.
+Sincerely,
+Fariborz Pakseresht
+DHS Director
+cc:
+Liesl Wendt, DHS Deputy Director
+Don Erickson, DHS Chief Administrative Officer
+Dan Haun, SSP Program Director
+Rebecca Jones Gaston, CW Program Director
+Sarah Landis, DHS Director of Audits and Consulting
+Audit Team
+William Garber, CGFM, MPA, Deputy Director
+Jamie Ralls, CFE, Audit Manager
+Karen Peterson, Principal Auditor
+Amelia Eveland, MBA, Senior Auditor
+Synthea Russell, CPA, Senior Auditor
+Lisa Durden, MPA, Staff Auditor
+Kathryn Scott, DrPH, Staff Auditor
+About the Secretary of State Audits Division
+The Oregon Constitution provides that the Secretary of State shall be, by virtue of the office, Auditor of Public
+Accounts. The Audits Division performs this duty. The division reports to the elected Secretary of State and is
+independent of other agencies within the Executive, Legislative, and Judicial branches of Oregon government.
+The division has constitutional authority to audit all state officers, agencies, boards and commissions as well as
+administer municipal audit law.
+This report is intended to promote the best possible management of public resources.
+Copies may be obtained from:
+Oregon Audits Division
+255 Capitol St NE, Suite 500 | Salem | OR | 97310
+(503) 986-2255
+sos.oregon.gov/audits

@@ -1,0 +1,535 @@
+Kip Memmott
+Division Director
+Fiscal Year 2025
+Keeping Oregon Accountable
+May 2026
+Report 2026-16
+Letter from the Secretary of State
+Oregon Secretary of State May 2026
+Report 2026-16 page 1
+Oregonians rely on their state government to keep our
+communities healthy, safe, and growing. Through partnerships at
+the local and federal levels, state government at its best supports
+great schools, reliable transportation, dependable public safety, a
+clean environment, and a business climate where bigger and
+better opportunities are the norm for entrepreneurs and
+employees.
+Doing that work well means staying focused on results. It means
+treating taxpayer dollars with care, following the law, and making
+sure government programs actually deliver for the people they
+serve.
+As Oregon’s Chief Auditor, it’s with these goals in mind that I am
+pleased to be able to present the Keeping Oregon Accountable
+Report for Fiscal Year 2025.
+Every year, experienced, impartial, and independent auditors
+within the Secretary of State’s Audits Division examine the
+largest public agencies in the State of Oregon. They produce audits on financial accounting, state
+management of federal programs, the performance of state agencies, and IT security and controls.
+The 2024-2025 fiscal year report summarizes our review of the State of Oregon’s financial statements, as
+well as compliance with federal program requirements. Our auditors look at financial transactions,
+evaluating the controls agencies apply to ensure accurate financial information, offering recommendations
+for improved accounting, and presenting their conclusions about the accuracy of the Oregon’s financial
+statements and compliance with federal program requirements.
+As part of this report, auditors also follow up on findings from previous financial and federal compliance
+audits to see if agencies fixed the problems and measure the impact of those changes. Oregonians
+deserve to know whether or not state agencies are actually following through on their commitment to
+implement recommendations. Audits are most effective when they lead to real, meaningful action.
+I’m excited to share that starting with next fiscal year’s Keeping Oregon Accountable Report, we
+will also share agency progress on performance audits and IT audits.  That means Oregonians will
+have an even clearer picture of whether state agencies are improving over time and delivering results.
+By publishing strong, independent audits and consistently following up on the implementation of
+recommendations, my hope is that we can continue to close the gap between good intentions and great
+outcomes in Oregon state government.
+Thanks to the Audits Division team for its hard work this year on behalf of the people of Oregon.
+Tobias Read
+Oregon Secretary of State
+Oregon Secretary of State May 2026
+Report 2026-16 page 1
+Secretary of State Tobias Read
+Audits Director Steve Bergmann
+Report Summary
+Fiscal Year 2025
+Keeping Oregon Accountable
+This report is intended to provide Oregonians with an accountability tool, by transparently reporting out recent audit results
+as well as efforts undertaken by the Secretary of State Audits Division to perform follow-up on outstanding audit
+recommendations from past periods. It also summarizes the results of financial and compliance audit efforts performed by
+the Audits Division.
+The primary body of work performed by the Audits Division consists of the following:
+1. Annual financial audit  of the State of Oregon’s financial statements. The financial statements cover the most
+recent fiscal year for the period of July 1, 2024 – June 30, 2025. The financial statements are the responsibility of
+the Oregon Department of Administrative Services. The audit report is the responsibility of the Oregon Secretary of
+State. The financial statements and audit report are intended to be published in a combined package by
+December 31 each year. Financial auditors perform follow-up work on past audit findings each year.
+2. Annual compliance audit  of the State of Oregon’s usage of federal grant funding, as reported in the Statewide
+Single Audit Report. This report includes the State of Oregon’s Schedule of Expenditures of Federal Awards for the
+period of July 1, 2024 – June 30, 2025. The Schedule is the responsibility of the Oregon Department of
+Administrative Services. The audit report is the responsibility of the Oregon Secretary of State. The Statewide
+Single Audit Report and audit report are published in a combined package by March 31 each year. Financial
+compliance auditors perform follow-up work on past audit findings each year.
+3. Execution of the annual Performance Audit  Plan. In addition to conducting performance audits, the performance
+audit team also performs audit recommendation follow-up engagements in accordance with the Secretary of
+State’s Audit Recommendation Follow-up Policy.
+4. Execution of the annual Information Technology Audit  Plan. In addition to conducting information technology
+audits, the information technology audit team also performs audit recommendation follow-up engagements in
+accordance with the Secretary of State’s Audit Recommendation Follow-up Policy.
+This report is divided into the following sections: 1. Report Highlights ; 2. Financial and Compliance Audit Results ; and
+3. Performance  and Information Technology  Audit Results
+Please direct any questions regarding this report to the Audits Division’s central email inbox at audits.sos@sos.oregon.gov.
+Section 1 – Report Highlights
+Oregon Secretary of State May 2026
+Report 2026-16 page 3
+We issued an unmodified (clean) opinion on the state’s financial statements for fiscal year 2025.
+We followed up on 20 findings from the prior three years at 13 agencies to see if corrective action had been
+taken. Fourteen findings were corrected, while six remained outstanding. We follow up on outstanding
+findings to determine whether an agency has reported the corrective action and status appropriately.
+We identified $2.5 billion in accounting errors (unintentional mistakes) and proposed adjustments to
+correct them in the financial statements. Accounting errors do not represent misspent funds.
+We issued 12 significant deficiencies and two material weaknesses in internal control with
+recommendations to improve standard controls used to ensure the accuracy of financial information. A
+material weakness is a deficiency that could reasonably lead to a material misstatement. A significant
+deficiency is less severe than a material weakness, yet requires corrective action.
+We audited 16 federal programs at nine agencies and issued 16 findings and recommendations.
+We followed up on 66 findings from the prior three years at 13 agencies to see if corrective action had been
+taken. Twenty-seven findings were corrected, two do not warrant further action, while 37 remain
+outstanding. We follow-up on outstanding findings to determine whether an agency has reported the
+corrective action and status appropriately.
+The state expended more than $21.1 billion in federal funds in fiscal year 2025.
+We questioned whether $15.6 million (known and likely) in expenditures were appropriately paid with
+federal funds. Questioned costs are program costs that may, or may not, be allowed to be paid with federal
+funds.
+We issued a disclaimer of opinion on the Highway Planning and Construction Program due to lack of
+sufficient evidence to complete all audit procedures and form an opinion.
+We issued an adverse opinion on the Basic Health Plan Program, which indicates program management
+did not comply with certain requirements. The noncompliance identified was both material and pervasive to
+the program.
+Effective July 1, 2025, Oregon Secretary of State adopted its new Audit Recommendation Follow-up
+Policy. This policy provided clarifications for how and when the agency will perform follow-up work on
+outstanding audit recommendations.
+The contents of the Audit Recommendation Follow-up Policy will be applied to all audit recommendations
+issued on, or after, July 1, 2025. As of the date of this report, no audit recommendations were subject to
+follow-up over the past 12 months.
+Audit of the State of Oregon’s financial statements
+Audits of compliance with federal program requirements
+Performance and Information Technology audit recommendation follow-up
+Section 2 – Financial and Compliance Audit Results
+Oregon Secretary of State May 2026
+Report 2026-16 page 4
+The Secretary of State Audits Division annually audits the State of Oregon’s financial statements and
+compliance with federal program requirements. The federal government requires these audits for the
+financial assistance Oregon receives every year. These audits determine whether amounts reported in
+Oregon’s financial statements are materially correct and adequately supported; evaluate the state’s
+administration of major federal programs for compliance with applicable laws, rules, and regulations;
+conclude on whether the Schedule of Expenditures of Federal Awards is fairly presented in relation to the
+state’s financial statements; and review accounting and compliance control procedures. Follow-up of prior
+year audit findings is also performed during these audits.
+The results of these audits are included in the State’s Annual Financial Report and the annual Statewide
+Single Audit Report. This report summarizes the audits of fiscal year 2025, which went from July 1, 2024, to
+June 30, 2025. Detailed financial and federal findings, auditor recommendations, and agency planned
+corrective actions are included in the Statewide Single Audit Report.
+Annual Financial Report
+State agency directors and managers are accountable to Oregonians for how they use public monies. To
+help ensure accurate financial reporting, state agencies are to comply with Generally Accepted Accounting
+Principles. The management of each state agency is responsible for implementing and maintaining
+effective internal controls to ensure the integrity of financial and accounting information.
+The annual financial report (financial statements) provides a comprehensive view of the state’s financial
+activities during the fiscal year (Statement of Activities) and an overall picture of the state’s financial
+position at the end of the fiscal year (Statement of Net Position).
+Statewide Accounting and Reporting Services, a unit of the Department of Administrative Services,
+prepares the statements by compiling financial information from more than 100 state agencies into the
+proper format for governmental reporting.
+We audit these financial statements following Government Auditing Standards applicable to financial
+audits, which require we plan and perform audit work to obtain reasonable assurance about whether the
+financial statements are materially correct. As part of the annual audit of the state’s financial statements,
+we provide our professional opinion about the completeness, accuracy, and reliability of the state’s
+accounting information.
+Fiscal year 2025 results
+We issued an unmodified opinion on the state’s financial statements for fiscal year 2025, meaning the
+financial statements, as corrected, are “fairly presented in conformance with Generally Accepted
+Accounting Principles.”
+To conduct this audit, our financial auditors performed audit procedures on all major funds of the
+government and audited over 300 accounts at 26 state agencies. During the course of our audit, we
+reviewed assets of $52 billion, liabilities of $25 billion, revenues of $46 billion, and expenditures of
+$45 billion. We reported the results of our audit to agency management, the state Legislature, federal
+officials, and to the public.
+Oregon Secretary of State May 2026
+Report 2026-16 page 5
+Our audit of the state’s financial records resulted in 14 findings across 11 state agencies. To mitigate risks
+from these findings, we recommended agencies improve standard controls commonly used to ensure the
+accuracy of financial information. The type of control finding we report depends on the degree of control
+weakness and falls into one of two categories: a significant deficiency or material weakness. A material
+weakness is more severe and more likely to have an impact on the financial statements.
+Figure 1: The number of internal control deficiencies identified varies from year to year
+Audit adjustments are proposed if identified as more than trivial, a threshold set by the auditors relevant to
+the amounts reported in the financial statements. When errors are identified that exceed the trivial
+threshold, we propose audit adjustments to correct accounting errors and estimates in the state’s financial
+statements to correct the account balance. Estimate corrections are necessary when estimated amounts
+differ significantly from actuals. For example, an agency may record the current portion of taxes receivable
+by estimating taxes to be collected within the 90-day period after the end of the fiscal year. If the estimate is
+not materially accurate, an audit adjustment is proposed to correct the account. Five of the largest
+adjustments, accounting for 51% of the audit adjustments made for FY25, were estimation errors. The
+proposed audit adjustments are used to improve the accuracy of the financial statements.
+Accounting errors occur in several ways. An agency might not record a transaction, may use incorrect
+account coding, or may simply make a typographical error when entering information in the accounting
+system. The result can be amounts appearing in the wrong year or the wrong place in the financial
+statements. Adjustments may also be necessary when an accounting standard is misinterpreted or
+misapplied. The latter type of error is more frequent when changes to accounting regulations occur.
+Accounting errors do not represent misspent funds.
+11 10
+FY 2021 FY 2022 FY 2023 FY 2024 FY 2025
+Significant Deficiency Material Weakness
+Oregon Secretary of State May 2026
+Report 2026-16 page 6
+Figure 2: The dollar amount of adjustments increased in fiscal year 2025
+Most of our proposed adjustments moved reported amounts from one financial account to another to
+properly report account balances in the correct classification. These proposed adjustments were
+necessary to align Oregon’s financial statements with accounting standards.
+Follow-up of annual financial report findings
+As part of our audit, we assessed whether agencies have made progress correcting 20 findings at 13
+agencies from the three prior years. Fourteen financial findings from prior years were corrected in 2025.
+While six prior year findings remain outstanding, the agencies have made progress toward addressing the
+recommendations.
+The corrected findings were primarily related to improving internal controls over accounting processes and
+year-end procedures. The outstanding findings recommended strengthening controls in various areas,
+including, training, year-end procedures, cash handling, reconciliations, and system controls.
+118 226 176 145 138
+$0.0
+$0.5
+$1.0
+$1.5
+$2.0
+$2.5
+$3.0
+$3.5
+$4.0
+$4.5
+$5.0
+2021 2022 2023 2024 2025
+Amount of proposed adjustments in billions
+Number of proposed account adjustments each fiscal year
+Oregon Secretary of State May 2026
+Report 2026-16 page 7
+Figure 3: 70% of prior year financial findings were corrected in FY25
+FY 2021 FY 2022 FY 2023 FY 2024 FY 2025
+Total prior year findings reviewed  17 15 22 23 20
+Prior year findings, not resolved  7 5 10 14 6
+Prior year findings, corrected  10 10 12 9 14
+Rate of corrections  59% 67% 55% 39% 70%
+Statewide Single Audit
+Oregon receives and expends federal dollars annually through grant agreements with federal agencies. In
+fiscal year 2025, this totaled $21.1 billion, about 37% of total state expenditures. Agencies receiving the
+funds are required to comply with various federal requirements for the administration of the programs.
+The Oregon Secretary of State issues the Single Audit Report, which includes a schedule prepared by the
+Department of Administrative Services of all federal funds spent by the state for the year. The report also
+includes audit findings from the annual financial audit and the federal compliance audits. Agency
+management provides responses on whether they agree with each finding and what actions they plan to
+take to address our recommendations. In addition, the report presents the status of findings for the prior
+two years and any action agency management has taken to correct the findings.
+The federal Office of Management and Budget (OMB) develops nationwide rules for performing federal
+compliance audits. OMB provides rigid instructions for determining which programs to audit and the
+specific audit procedures to perform to ensure the state is complying with federal requirements when
+administering the programs. The federal government uses the annual Single Audit Report to monitor how
+well its programs are administered and to follow-up on any findings. Federal granting agencies follow-up on
+audit findings to enforce compliance and determine whether questioned costs need to be repaid or if
+sanctions will be imposed.
+Fiscal year 2025 federal expenditures
+In fiscal year 2025, the State of Oregon spent $21.1 billion in federal funds across 412 federal programs
+administered by 42 state agencies. Adhering to OMB requirements to select programs based on
+expenditures and risk, we audited 16 major programs for compliance with federal requirements.
+The audited programs accounted for $14.6 billion, or 69%, of the $21.1 billion spent in fiscal year 2025.
+Medicaid is the single largest program; alone it accounts for $13.2 billion in federal funds spent by the state.
+Of the 412 federal programs administered by the State of Oregon in fiscal year 2025, 14 programs account
+for 91% of the state’s total federal expenditures. The “All Other Programs” category combines the other
+398 federal programs, each with expenditures less than $100 million.
+Oregon Secretary of State May 2026
+Report 2026-16 page 8
+Figure 4: Medicaid expenditures far exceed expenditures of other programs, fiscal year 2025 (in millions)
+*Full program names: Child Care Development Fund Cluster; Disaster Grants – Public Assistance (Presidentially Declared
+Disasters); Highway Planning and Construction; and Supplemental Nutrition Assistance Program Cluster
+Fiscal year 2025 Statewide Single Audit results
+We audited 16 federal programs administered by the State of Oregon – some programs across multiple
+agencies – as seen in Figure 5.
+We reported 16 findings to five agencies with recommendations to improve controls over compliance
+relevant to each program; the findings also include the level of noncompliance identified. We reported an
+additional finding (not included in figure 5) related to finding follow-up for a nonmajor program. Similar to
+our audit of the annual financial report, the type of internal control finding we report depends on the degree
+of control weakness and falls into one of two categories: a significant deficiency or a material weakness in
+internal controls over compliance.
+$13,172
+$2,019
+$1,952
+$954
+$770
+$576
+$258
+$194
+$194
+$182
+$182
+$176
+$171
+$171
+$102
+$0 $2,000 $4,000 $6,000 $8,000 $10,000$12,000$14,000
+Medicaid Cluster
+SNAP Cluster*
+All Other Programs
+Unemployment Insurance
+Highway Planning*
+Disaster Grants*
+Child Nutrition Cluster
+Temporary Assistance for Needy
+Families
+Coronavirus State and Local Fiscal
+Recovery Funds
+Education Stabilization Fund
+Basic Health Program (Affordable Care
+Act)
+Title I Grants to Local Educational
+Agencies
+Foster Care Title IV-E
+Special Education Cluster (IDEA)
+CCDF Cluster*
+Millions
+Oregon Secretary of State May 2026
+Report 2026-16 page 9
+Figure 5: We audited 16 programs expending $14.6 billion in federal funds for fiscal year 2025
+Federal Program  Agency  2025
+Findings
+Federal Program
+Expenditures
+Medicaid Cluster ODHS
+ODHS/OHA
+$13,172,453,226
+Highway Planning and Construction ODOT 1 770,126,525
+Basic Health Plan (Affordable Care Act) OHA 3 181,738,469
+Immunization Cooperative Agreements OHA 2 87,800,424
+Adoption Assistance ODHS 1 50,545,617
+Capitalization Grants for Clean Water State Revolving Funds DEQ 0 44,522,640
+Disability Insurance/SSI Cluster ODHS 1 39,905,367
+Epidemiology and Laboratory Capacity for Infectious
+Diseases (ELC)
+OHA 4 37,701,197
+Pacific Coast Salmon Recovery/Pacific Salmon Treaty
+Program
+OWEB
+ODFW
+35,216,521
+Fish and Wildlife Cluster ODFW 1 32,007,597
+Block Grants for Community Mental Health Services (MHBG) OHA 3 28,882,571
+Capitalization Grants for Drinking Water State Revolving Fund OHA
+OBDD
+28,079,784
+Block Grants for Prevention and Treatment of Substance
+Abuse (SUPTRS)
+OHA 3 27,998,222
+Supporting Effective Instruction State Grant (formerly
+Improving Teacher Quality State Grants)
+ODE 0 20,893,161
+Inflation Reduction Act - Forest Legacy Program ODF 0 20,253,873
+Housing Trust Fund OHCSD 0 12,315,180
+16*  $          14,590,440,375
+*We identified 16 findings, some at multiple agencies or across multiple programs. One finding is shared with Medicaid, Basic Health
+Plan, Immunization, Adoption Assistance, Disability/SSI, ELC, MHBG and SUPTRS and is counted eight times. Two findings are
+shared with MHBG and SUPTRS and are counted four times. One finding is shared with Immunization and ELC and is counted twice.
+One additional finding was also reported for a program only subject to finding follow-up in the current year.
+Most federal program findings also report noncompliance or material noncompliance, as shown in Figure
+6. Occasionally, a finding will only be related to compliance, with no related internal control over
+compliance deficiency identified. For fiscal year 2025, we issued three findings as material weaknesses
+with material noncompliance; 11 findings as significant deficiencies with noncompliance; and three findings
+as significant deficiencies only (no noncompliance).
+Oregon Secretary of State May 2026
+Report 2026-16 page 10
+Figure 6: Internal control deficiencies and noncompliance have decreased from fiscal year 2022 highs
+Findings are generally identified as significant deficiency or material weakness in internal control over compliance as well as
+noncompliance or material noncompliance. Some findings may only report a deficiency in internal control over compliance, and
+occasionally may only report noncompliance.
+In relation to the findings, we also questioned whether Oregon’s spending of $15,556,530 in federal funds
+was appropriate under federal program rules. “Questioned costs” is a term OMB requires when reporting
+findings. When we question costs, we are identifying program costs that may, or may not, be allowed to be
+paid for with federal funds. The federal funding agency reviews our findings and determines whether the
+costs are appropriate and federally reimbursable, or whether they consider the costs improper payments.
+We questioned $8.2 million in directly identifiable costs and another $7.4 million in projected (likely) errors
+based on our sample testing. The Basic Health Program at the Oregon Health Authority had the largest
+amount with $15 million in known and likely questioned costs. Questioned costs were primarily due to
+errors within eligibility compliance, which ensures only those individuals meeting the program
+requirements are receiving benefits.
+Program internal control and compliance opinions
+When the results of an audit determine the agency has sufficient controls to administer the program and
+the program is generally in compliance with federal requirements, we issue an unmodified opinion. An
+unmodified, or “clean,” opinion means there are no “qualifications” (concerns) that would cause us to alter
+our opinion. Modified opinions include the following:
+• Qualified: internal controls are inadequate to prevent or detect significant noncompliance.
+22 21
+33 32
+1 1
+FY 2021 FY 2025FY 2024FY 2023FY 2022
+ Signiﬁcant deﬁciency  Material weakness       Noncompliance  Materialnoncompliance
+Oregon Secretary of State May 2026
+Report 2026-16 page 11
+• Adverse: pervasive weaknesses in a program’s internal controls such that it will not prevent or
+detect significant noncompliance
+• Disclaimer: lack of sufficient, appropriate audit evidence to support an opinion on program
+compliance.
+For fiscal year 2025, we issued two modified opinions: one adverse opinion, and one disclaimer of opinion,
+as shown in Figure 7.
+Figure 7: Modified Opinions issued fiscal years 2021 through 2025
+Program  FY 2021  FY 2022  FY 2023  FY 2024  FY 2025
+Emergency Solutions Grant   Disclaimer Disclaimer
+Temporary Assistance for Needy
+Families Qualified Qualified Qualified
+Low-Income Home Energy Assistance
+Program Qualified Qualified Qualified
+Block Grants for Community Mental
+Health Services  Qualified Qualified Qualified
+Block Grants for Prevention and
+Treatment of Substance Abuse  Qualified Qualified Qualified
+Coronavirus State and Local Fiscal
+Recovery Fund  Qualified
+Medicaid Cluster   Qualified
+Rehabilitation Services – Vocational
+Rehabilitation Grants to States   Qualified
+Emergency Rental Assistance  Adverse
+Highway Planning and Construction     Disclaimer
+Basic Health Program     Adverse
+Qualified Opinions  2 5 6 2 0
+Adverse Opinions  0 1 0 0 1
+Disclaimer of Opinion  0 1 1 0 1
+Blank spaces indicate the program was either not required to be audited or received an unmodified opinion.
+The Basic Health Program (BHP) received an adverse opinion after auditors discovered the system
+contained errors associated with both the upper and lower limits of income eligibility resulting in known and
+likely questioned costs of $15 million. Auditors recommended the department identify all individuals
+impacted by system errors and refund BHP.
+The Highway Planning and Construction program received a disclaimer of opinion. Auditors requested
+expenditure data needed to perform required testing of key compliance requirements. The department
+provided transaction data but could not limit it to just the 2025 fiscal year federal expenditures. Auditors
+were unable to reconcile this data to the information that was needed.
+Follow-up of Statewide Single Audit findings
+The OMB establishes categories of compliance requirements and the federal awarding agencies
+determine which categories are key for their programs. Not all requirements apply to every program, and
+some requirements are more complex than others. Figure 8 illustrates compliance requirements with
+Oregon Secretary of State May 2026
+Report 2026-16 page 12
+findings for the past five years. Totals by category indicate which requirements are most problematic for
+Oregon.
+Figure 8: Findings history by type of compliance requirement
+Compliance requirement  2021 2022 2023 2024 2025
+Allowable Activities and Costs 4+ 16+ 9+ 6+ 6
+Cash Management  2 1
+Eligibility  3+ 2+ 5+ 2+
+Equipment 1 1 1+  1+
+Matching, Level of Effort, Earmarking 4+ 3 2+ 0+ 0+
+Period of Performance 1 2 1+ 3
+Procurement and Suspension and Debarment  2 1+  1+
+Reporting 7 9 7+ 11 3
+Subrecipient Monitoring 5+ 6 2 4 2
+Special Tests and Provisions 7 6 5+ 6+ 2+
+Total findings  29 50 31 35 17
+Note: Plus sign indicates multiple compliance requirements appear in one finding, but are only counted once in this table.
+The OMB requires auditors to perform follow-up procedures in the following year to determine whether an
+agency has taken appropriate corrective action to resolve the findings. We followed up on the status of 66
+federal compliance findings at 13 agencies that remained uncorrected from the prior three years and found
+agencies had corrected 27 of them. Two additional findings did not warrant further action. However, 37
+prior year findings will continue into fiscal year 2026 and are subject to further follow-up because they
+remain uncorrected.
+For a finding to warrant no further action, all of the following must have occurred, 1) Two years have passed
+since the audit report in which the finding occurred was submitted to the federal audit clearinghouse; 2)
+The federal agency or pass-through entity is not currently following up with the auditee on the audit finding;
+and 3) A management decision was not issued by the federal agency.
+Figure 9 displays a history of ongoing findings by agency, program, and nature of the findings that continue
+to be uncorrected at the end of fiscal year 2025 and have been ongoing for at least four years. When a
+finding is uncorrected, we are required to continue auditing the requirement until it is resolved.
+Figure 9: History of ongoing findings
+Agency  Program  Finding Summary  Origination
+Year
+Years
+Ongoing
+ODHS Temporary Assistance for Needy Families Accurate reports 2010 16
+DELC/ODHS Child Care and Development Fund Incorrect copays 2014 12
+DELC/ODHS  Child Care and Development Fund Payroll controls 2020 6
+ODHS Temporary Assistance for Needy Families Eligibility controls 2021 5
+Oregon Secretary of State May 2026
+Report 2026-16 page 13
+The TANF program has an unresolved audit finding originating in fiscal year 2010. Over the years, auditors
+found TANF data reports required to be submitted to the federal agency did not accurately reflect case
+status and activity of the reporting period. Additionally, reporting errors increased after the implementation
+of a new case management system in fiscal year 2021. In the following years, agency management has
+made efforts and worked with their vendor to resolve system errors to ensure proper reporting from the new
+system in the future. However, while auditors noted an overall improvement in the accuracy and
+completeness of the data reported, issues still exist requiring agency management’s attention.
+The Child Care and Development Fund finding originating in 2014 has repeatedly identified errors in co-pay
+amounts and authorized childcare hours. The errors primarily resulted from human error when entering
+information for the calculations. After implementation of a new system, the amounts are calculated
+automatically, but errors have still been identified due to incorrect inputs. The payroll controls finding
+originating in 2020 has repeatedly identified errors as the agency does not consistently maintain signed
+position descriptions or approve monthly timesheets. Additionally, auditors continue to identify questioned
+costs relating to employees not working on the program.
+As shown in figure 10, one finding in the Medicaid program was corrected in fiscal year 2025 after
+remaining outstanding for 13 years; and two findings in the Opioid STR (State Targeted Response)
+program were corrected after remaining outstanding for 6 years. Medicaid’s provider eligibility finding,
+originating in 2012, found provider eligibility determinations are not fully supported with required
+documentation. During 2025 the Oregon Department of Human Services and the Oregon Health Authority
+corrected this outstanding finding by providing additional training, improving enrollment forms, improving
+communication and updating procedure manuals.
+The Opioid STR findings at the Oregon Health Authority, originating in 2019, were also corrected during
+2025. Corrective action included developing training for subrecipient determinations and implementing a
+review process for reporting.
+Figure 10: Ongoing findings corrected in fiscal year 2025
+Agency  Program  Finding Summary  Origination Year
+OHA Opioid STR Subrecipient monitoring 2019
+OHA Opioid STR Review reports before submission 2019
+ODHS/OHA  Medicaid Provider eligibility 2012
+It is the responsibility of the federal granting agency to follow-up with state agencies on findings included in
+the Single Audit Report. Federal regulation requires a management decision to be issued by the federal
+granting agency within six months of the federal audit clearinghouse acceptance of the audit report. After
+investigating, the federal agency issues a determination letter to the state agency, providing its conclusion
+about the finding and the corrective action the state agency plans to take to resolve the finding. Sometimes
+the federal agency imposes a sanction upon the state or adjusts future funding to correct the issue.
+Occasionally, the federal agency will clarify a requirement in favor of the state agency and the finding is no
+longer valid. Only federal agencies have the authority to enforce their grant requirements.
+Section 3 – Performance and Information Technology
+Audit Results
+Oregon Secretary of State May 2026
+Report 2026-16 page 14
+The Oregon Secretary of State performs performance and information technology audits each year to
+improve state government performance and operations, reduce costs, facilitate decision making, and
+contribute to public accountability.
+Effective July 1, 2025, Oregon Secretary of State adopted its new Audit Recommendation Follow-up
+Policy. This policy provided clarifications for how and when the agency will perform follow-up work on
+outstanding audit recommendations. Key highlights from the policy that are pertinent to performance and
+information technology audit recommendations include:
+• Recommendation follow-up engagements will be conducted six months after the latest date in the
+corrective action plan, or no more than 18 months after report release.
+• A recommendation follow-up engagement shall have two objectives, as follows:
+o Whether an audited entity has appropriately acted upon audit findings; and
+o Whether implementation of audit recommendations achieved the anticipated benefits
+identified in an audit report or in an audited entity’s response to an audit report.
+• If the Audits Division determines that an audited entity has not appropriately acted upon audit
+findings, an additional follow-up engagement will commence no later than 12 months after this
+determination has been made.
+The contents of the Audit Recommendation Follow-up Policy will be applied to all audit recommendations
+issued on, or after, July 1, 2025. As of the date of this report, no audit recommendations were subject to
+follow-up over the past 12 months. Future iterations of the Keeping Oregon Accountable report will include
+reporting on audit recommendation follow-up efforts for performance audits.
+About the Team
+Oregon Secretary of State May 2026
+Report 2026-16 page 15
+ABOUT THE SECRETARY OF STATE AUDITS DIVISION
+The Oregon Constitution provides that the Secretary of State shall be, by virtue of the office, Auditor of
+Public Accounts. The Audits Division performs this duty. The division reports to the Secretary of State and
+is independent of other agencies within the Executive, Legislative, and Judicial branches of Oregon
+government. The Secretary of State has constitutional authority to audit all state officers, agencies, and
+boards and commissions.
+Report team
+Sarah Anderson, CPA, Audit Manager
+Amy John, CPA, Audit Manager
+Kelly Olson, CPA, Audit Manager
+Michelle Searfus, CPA, Audit Manager
+Tracey Gates, CPA, Principal Auditor
+Michelle Rock, CPA, Principal Auditor
+Secretary of State Tobias Read
+Audits Director Steve Bergmann
+Oregon Audits Division
+255 Capitol St NE, Suite 180
+Salem OR 97310
+(503) 986-2255
+sos.oregon.gov/audits

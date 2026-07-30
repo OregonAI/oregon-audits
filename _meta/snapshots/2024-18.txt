@@ -1,0 +1,617 @@
+Kip Memmott
+Division Director
+Fiscal Year 2023
+Keeping Oregon Accountable
+June 2024
+Report 2024-18
+The Secretary of State Audits Division annually audits the State of Oregon’s financial statements and compliance with
+federal program requirements. The federal government requires these audits for the financial assistance Oregon receives
+every year. These audits determine whether amounts reported in Oregon’s financial statements are materially correct and
+adequately supported; evaluate the state’s administration of major federal programs for compliance with applicable laws,
+rules, and regulations; conclude on whether the Schedule of Expenditures of Federal Awards is fairly presented in relation
+to the state’s financial statements; and review accounting and compliance control procedures.
+The results of these audits are included in the State’s Annual Financial Report and the annual
+Statewide Single Audit
+Report. This report summarizes the audits of fiscal year 2023, w hich went from July 1, 2022, to June 30, 2023.
+AUDIT OF THE STATE OF OREGON’S
+FINANCIAL STATEMENTS
+• We issued an unmodified opinion (clean)
+on the state’s financial statements for
+fiscal year 2023.
+• We identified $2.9 billion in accounting
+errors (unintentional mistakes) and
+proposed adjustments to correct them in
+the financial statements.
+• We issued four material weaknesses and
+10 significant deficiencies in internal
+control with recommendations to improve
+standard controls used to ensure the
+accuracy of financial information. A
+material weakness is a deficiency that
+could reasonably lead to a material
+misstatement. A significant deficiency is
+less severe than a material weakness, yet
+requires corrective action.
+AUDITS OF COMPLIANCE WITH FEDERAL PROGRAM
+REQUIREMENTS
+• We audited 18 federal programs at 11 agencies and issued 31
+findings and recommendations.
+• The state expended more than $20.4 billion in federal funds,
+including over $3.6 billion in COVID-related funding.
+• We questioned whether $2.8 million in expenditures were
+appropriately paid with federal funds.
+• We issued a disclaimer of opinion on the Emergency Solutions
+Grant program due to a lack of sufficient evidence to complete all
+audit procedures and form an opinion. This is the second year in a
+row we have issued a disclaimer for this program.
+• We issued qualified opinions on the Low-Income Home Energy
+Assistance; Block Grants for Community Mental Health Services;
+Block Grants for Prevention and Treatment of Substance Abuse;
+Medicaid Cluster; Temporary Assistance for Needy Families; and
+Rehabilitation Services Vocational Rehabilitation Grants to States
+programs. Qualified opinions indicate the internal controls are
+inadequate to prevent or detect significant noncompliance in a
+timely manner.
+• We followed up on 71 findings from the prior three years to see if
+corrective action had been taken at nine agencies.
+Report Highlights
+Fiscal Year 2023
+Keeping Oregon Accountable
+Secretary of State LaVonne Griffin -Valade
+Audits Director Kip R. Memmott
+Overview of Annual Financial and Federal Audits
+Oregon Secretary of State June 2024
+Report 2024-18 page 1
+The Secretary of State Audits Division annually audits the State of Oregon’s financial statements and
+compliance with certain federal program requirements. The federal government requires these audits for
+Oregon to receive financial assistance. Prior to the pandemic, federal financial assistance ranged between
+$11 and $12 billion per year. With the onset of the pandemic came new and expanded federal programs; as
+a result, the state received $17.4 billion in fiscal year 2020, $21.9 billion in fiscal year 2021, $20.8 billion in
+fiscal year 2022, and $20.4 billion in fiscal year 2023.
+The annual financial and federal audits determine whether the amounts reported in Oregon’s financial
+statements are materially correct and adequately supported, and evaluate the state’s administration of
+major federal programs for compliance with applicable laws, rules, and regulations.
+This report summarizes the results of the fiscal year 2023 annual audits: The State’s
+Annual
+Comprehensive Financial Report and annual Statewide Single Audit Report. Detailed financial and federal
+findings, auditor recommendations, and agency planned corrective actions are included in the Statewide
+Single Audit Report. A
+glossary of audit and accounting terms is located at the end of this report.
+Annual Financial Report
+State agency directors and managers are accountable to Oregonians for how they use public monies. To
+help ensure accurate financial reporting, state agencies are to comply with Generally Accepted Accounting
+Principles. The management of each state agency is responsible for implementing and maintaining
+effective internal controls to ensure the integrity of financial and accounting information.
+Preparing accurate financial statements is essential to ensure reliable and transparent financial information
+is provided to decision-makers and key stakeholders. These statements provide a comprehensive view of
+the state’s financial activities during the fiscal year (Statement of Activities) and an overall picture of the
+state’s financial position at the end of the fiscal year (Statement of Net Position).
+Statewide Accounting and Reporting Services, a unit of the Department of Administrative Services,
+prepares the statements by compiling financial information from more than 100 state agencies into the
+proper format for governmental reporting. The unit also provides accounting guidance and training to state
+agency staff throughout the year.
+We audit these financial statements following Government Auditing Standards applicable to financial
+audits, which require we plan and perform audit work to obtain reasonable assurance about whether the
+financial statements are materially correct. As part of the annual audit of the state’s financial statements,
+we provide our professional opinion about the completeness, accuracy, and reliability of the state’s
+accounting information.
+Accurate and reliable accounting data is crucial to tracking how state dollars are
+spent and provides a starting point for the next budget cycle.
+Fiscal year 2023 results
+We issued an unmodified opinion on the state’s financial statements for fiscal year 2023, meaning the
+financial statements, as corrected, are “fairly presented in conformance with Generally Accepted
+Accounting Principles.”
+Oregon Secretary of State June 2024
+Report 2024-18 page 2
+To conduct this audit, our financial auditors performed audit procedures on all major funds of the
+government and audited over 300 accounts at 25 state agencies, including the Departments of Human
+Services, Education, Transportation, Revenue, and the Oregon Health Authority. During the course of our
+audit, we reviewed assets of $62 billion, liabilities of $17 billion, revenues of $41 billion, and expenditures of
+$38 billion. We reported the results of our audit to agency management, the state Legislature, federal
+officials, and the public.
+Our audit of the state’s financial records resulted in 14 findings across 11 state agencies. To mitigate risks
+from these findings, we recommended agencies improve standard controls commonly used to ensure the
+accuracy of financial information. The type of control finding we report depends on the degree of control
+weakness and generally falls into one of two categories, as shown in Figure 1: a significant deficiency or
+material weakness. A material weakness is more severe and more likely to have an impact on the financial
+statements.
+Figure 1: The number of material weaknesses identified varies from year to year
+We proposed audit adjustments to correct accounting errors in the state’s financial statements. Accounting
+errors occur when an agency does not record a transaction, or records a transaction using incorrect
+account coding, resulting in amounts appearing in the wrong year or the wrong place in the financial
+statements. Adjustments may also be necessary when an accounting standard is misinterpreted or
+misapplied.
+When errors are large enough to misrepresent the balance of a fund, we propose adjustments to correct
+the account balance. Figure 2 shows the dollar amount and number of adjustments decreased in fiscal
+year 2023 from 2022, but were still larger than the amount of adjustments in fiscal year 2021.
+8 8
+11 10
+FY 2019 FY 2020 FY 2021 FY 2022 FY 2023
+Significant Deficiency Material Weakness
+Oregon Secretary of State June 2024
+Report 2024-18 page 3
+Figure 2: The dollar amount of adjustments decreased in fiscal year 2023
+Approximately 88% of audit adjustments resulted from control deficiencies related to year-end accounting
+entries, where accruals did not reasonably estimate actuals, contained arithmetic errors, or were not made.
+Additionally, deficiencies were related to incorrect revenue recognition, bond valuations, account
+classifications, correcting prior period entries, and payable balances. Another 11% were adjustments to the
+recording of opioid, tobacco, and other settlements. Although fiscal year 2023 was the first year GASB 96
+was implemented (requiring capitalization of subscription-based information technology assets), less than
+1% of the adjustments were related to this new standard. Adjustments related to COVID-19 funding were
+also less than 1% of the total made.
+Most of our proposed adjustments moved reported amounts from one financial account to another to
+properly report account balances in the correct classification.These proposed adjustments were necessary
+to align Oregon’s financial statements with accounting standards and demonstrate the importance of the
+annual financial audit. Figure 3 lists the agencies where we proposed audit adjustments for fiscal year
+2023.
+62 121 118 226 176
+$0
+$1
+$2
+$3
+$4
+$5
+$6
+$7
+2019 2020 2021 2022 2023
+Amount of proposed adjustments in billions
+Number of proposed account adjustments each fiscal year
+Oregon Secretary of State June 2024
+Report 2024-18 page 4
+Figure 3: Proposed financial audit adjustments totaled $2.9 billion for fiscal year 2023
+State agency  Accounts
+affected  Amount
+Oregon Department of Human Services / Oregon Health Authority 42 $2,276,137,006
+Department of Revenue 8 198,403,462
+Oregon Business Development Department 8 82,361,802
+Multiple agencies* 18 78,969,992
+Department of Justice 41 77,321,062
+Oregon Employment Department 6 64,514,343
+Department of Consumer and Business Services 6 61,782,458
+Oregon Department of Emergency Management 8 50,540,290
+Oregon Department of Forestry 7 23,528,885
+Department of Administrative Services 6 10,818,586
+Oregon Judicial Department 12 9,554,595
+Oregon State Police 11 4,203,570
+Higher Education Coordinating Commission 3 1,399,602
+Total  176 $2,939,535,653
+*Note: In fiscal year 2023, adjustments were proposed to identify and track activity related to smaller agencies (e.g., Oregon Film &
+Video, Travel Information Council, and Commodity Commissions) that are part of the reporting entity, but optionally excluded from the
+financial statements.
+History of annual financial report findings
+As part of our audit, we also assess whether agencies have made progress on correcting findings from
+prior years. As shown in Figure 4, 11 financial findings from prior years were corrected in 2023. While 11
+prior year findings remain outstanding, the agencies have made progress toward addressing the
+recommendations.
+Figure 4: Fiscal year 2023 saw half of the prior year financial findings corrected
+FY 2019  FY 2020  FY 2021  FY 2022  FY 2023
+Total prior year findings reviewed  20 16 17 15 22
+Prior year findings, not resolved  13 7 7 5 11
+Prior year findings, corrected  7 9 10 10 11
+Rate of corrections  35% 56% 59% 67% 50%
+Statewide Single Audit
+Oregon receives and expends federal dollars annually through grant agreements with federal agencies; in
+fiscal year 2023, this totaled $20.4 billion, about 40% of total state expenditures. These grants are awarded
+to state agencies for programs that provide various services, including public health and safety, agricultural
+research, and homeland security. Agencies receiving the funds are required to comply with various federal
+requirements for the administration of the programs. The state continued to expend COVID-19 funds
+resulting from the global pandemic — $3.6 billion, or 18% of the federal dollars expended in fiscal year
+Oregon Secretary of State June 2024
+Report 2024-18 page 5
+2023, were the result of COVID-19 legislation. Figure 5 identifies the largest programs in fiscal year 2023
+expending COVID-related funding.
+Figure 5: Five programs expended over 85% of fiscal year 2023 COVID-19 funding (in millions)
+The Oregon Audits Division issues the Single Audit Report, which includes a schedule prepared by the
+Department of Administrative Services of all federal funds spent by the state for the year. The report also
+includes audit findings from the annual financial audit and the federal compliance audits. Agency
+management provide responses on whether they agree with each finding and what actions they plan to
+take to correct the underlying issues. In addition, the report presents the status of findings for the prior two
+years and any action agency management has taken to correct the findings.
+The federal Office of Management and Budget (OMB) develops nationwide rules for performing federal
+compliance audits. OMB provides rigid instructions for determining which programs to audit and the
+Supplemental
+Nutrition Assistance
+Program, $880.5,
+24%
+State and Local Fiscal
+Recovery Fund,
+$829.3, 23%Medicaid Cluster,
+$745.1, 21%
+All Other Programs,
+$526.0, 15%
+Education
+Stabilization, $413.6,
+11%
+Disaster Grants,
+$215.8, 6%
+The federal government uses the annual Single Audit Report to monitor how well its programs are
+administered and to follow up on any findings. Federal granting agencies follow up on audit findings to
+enforce compliance and determine whether questioned costs need to be repaid or if sanctions will be
+imposed.
+Oregon Secretary of State June 2024
+Report 2024-18 page 6
+specific audit procedures to perform to ensure the state is complying with federal requirements when
+administering the programs. The federal government uses the annual Single Audit Report to monitor how
+well its programs are administered and to follow up on any findings. Federal granting agencies follow up on
+audit findings to enforce compliance and determine whether questioned costs need to be repaid or if
+sanctions will be imposed.
+Fiscal year 2023 federal expenditures
+In fiscal year 2023, the State of Oregon spent $20.4 billion in federal funds across 404 federal programs
+administered by 43 state agencies. Adhering to OMB requirements to select programs based on
+expenditures and risk, we audited 18 major programs for compliance with federal requirements.
+As shown in Figure 6, the audited programs accounted for $15.4 billion, or 75%, of the $20.4 billion spent in
+fiscal year 2023. Medicaid is the single largest program; it alone accounts for $11.8 billion in federal funds
+spent by the state.
+Figure 6: We audited 75% of fiscal year 2023 single audit expenditures (in billions)
+As shown in Figure 7, the Oregon Health Authority and the Oregon Department of Human Services
+accounted for $16.1 billion, or 79%, of the state’s federal expenditures.
+The Medicaid program accounts for
+89% of the Oregon Health Authority’s federal expenditures and 51% of the Oregon Department of Human
+Services’ federal expenditures. The Oregon Department of Human Services administers other large federal
+programs, including Supplemental Nutrition Assistance, commonly known as food stamps, Temporary
+Assistance for Needy Families, and Foster Care.
+Medicaid $11.8 billion
+404 programs totaling $20.4 billion
+$0 $2 $4 $6 $8 $10 $12 $14 $16 $18 $20 $22
+18 programs audited
+Spent
+billions
+$15.4 billion
+total
+Oregon Secretary of State June 2024
+Report 2024-18 page 7
+Figure 7: ODHS and OHA account for 79% of federal expenditures by state agencies, fiscal year 202 3
+Of the 404 federal programs administered by the State of Oregon in fiscal year 2023, 14 programs account
+for 91% of the state’s total federal expenditures. The Medicaid program is by far the largest public
+assistance program administered by the state, as depicted in Figure 8. The “All Other Programs” category
+combines the other 390 federal programs, each with expenditures less than $100 million.
+Oregon Health
+Authority, $9.5 billion
+Dept of Human
+Services, $6.6 billion
+Department of
+Education, $1.2 billion
+Department of
+Transportation, $784
+million
+Employment
+Department, $734
+million
+Other, $1.7 billion
+Oregon Secretary of State June 2024
+Report 2024-18 page 8
+Figure 8: Medicaid and SNAP expenditures far exceed expenditures of other programs, fiscal year 202 3 (in
+millions)
+* Note: Full titles are: Title I Grants to Local Educational Agencies, Child Care and Development Fund Cluster, Temporary Assistance
+for Needy Families, Children’s Health Insurance Program, Disaster Grants - Public Assistance (Presidentially Declared Disasters),
+and Coronavirus State and Local Fiscal Recovery Fund.
+The Medicaid program provides health insurance coverage to low-income families. The cost to provide this
+coverage generally grows every year. Figure 9 shows Oregon’s Medicaid costs, both federal and state, for
+the past five years.
+$11,829
+$2,333
+$1,765
+$829
+$682
+$675
+$499
+$414
+$400
+$216
+$183
+$165
+$162
+$149
+$134
+$0 $2,000 $4,000 $6,000 $8,000 $10,000 $12,000 $14,000
+Medicaid Cluster
+SNAP Cluster
+All Other Programs
+SLFRF*
+Unemployment Insurance
+Highway Planning and Construction
+Disaster Grants*
+Education Stabilization Fund
+CHIP*
+Child Nutrition Cluster
+TANF*
+CCDF Cluster*
+Special Education Cluster (IDEA)
+Title I Grants to LEAs*
+Foster Care Title IV-E
+millions
+Oregon Secretary of State June 2024
+Report 2024-18 page 9
+Figure 9: Total Medicaid expenditures increase each year
+Fiscal year 2023 Statewide Single Audit results
+As shown in Figure 10, we audited 18 federal programs administered by the State of Oregon (some
+programs across multiple agencies). Prior to 2021, only Medicaid was considered a high-risk program by
+the federal government. Due to the risks associated with COVID funding, the federal government began
+classifying additional programs as high risk beginning in fiscal year 2021. The Education Stabilization
+Fund, Coronavirus State and Local Fiscal Recovery Fund, and Emergency Rental Assistance programs,
+like Medicaid, were also considered high-risk by the federal government and required to be audited this
+year.
+We audited six programs at Oregon Health Authority, four programs at Oregon Department of Human
+Services, four programs at Oregon Housing and Community Services, two programs at the Oregon
+Employment Department, and two programs at the Oregon Department of Education. Programs were also
+audited at Oregon Department of Corrections, Oregon Business Development Department, Oregon
+Department of Emergency Management, Oregon Commission for the Blind, the Department of Consumer
+and Business Services, and the Department of Administrative Services. OMB Uniform Guidance requires
+these audits. Some programs involved auditing multiple agencies.
+We reported 31 findings to eight of these agencies with recommendations to improve controls over
+compliance with the key federal requirements relevant to each program. Similar to our audit of the annual
+financial report, the type of control finding we report depends on the degree of control weakness and
+generally falls into one of two categories: a significant deficiency or a material weakness in controls over
+compliance.
+$7.6
+$8.4
+$9.4 $10.8 $11.8
+$2.9
+$3.1
+$3.0
+$3.2
+$3.9
+$0
+$2
+$4
+$6
+$8
+$10
+$12
+$14
+$16
+$18
+FY 2019 FY 2020 FY 2021 FY2022 FY2023
+Billions
+Federal Medicaid Expenditures  State Medicaid Expenditures
+Oregon Secretary of State June 2024
+Report 2024-18 page 10
+In addition to the findings, we questioned whether Oregon’s spending of $2,780,636 in federal funds was
+appropriate under federal program rules. “Questioned costs” is a term OMB requires when reporting
+findings. When we question costs, we are identifying program costs that may, or may not, be allowed to be
+paid for with federal funds. The federal funding agency reviews our findings and determines whether the
+costs are appropriate and federally reimbursable.
+Figure 10: We audited 18 programs expending $15.4 billion in federal funds for fiscal year 2023
+Federal Program  2023 Findings  Federal Program
+Expenditures
+Medicaid Cluster  3  $11,828,635,188
+Coronavirus State and Local Fiscal Recovery Funds (SLFRF) 1  829,300,192
+Unemployment Insurance 0  682,228,562
+Disaster Grants - Public Assistance 2  499,077,364
+Education Stabilization Fund (ESF) 3  413,608,266
+Children's Health Insurance Program (CHIP) 0  399,526,764
+Temporary Assistance for Needy Families (TANF) 3  183,272,827
+Child Care and Development Fund (CCDF) 4  165,135,037
+Special Supplemental Nutrition Program for Women, Infants, and
+Children (WIC)
+1  71,282,325
+Low-Income Home Energy Assistance (LIHEAP) 3  64,650,021
+Rehabilitation Services Vocational Rehabilitation Grants to States 5  60,744,637
+1332 State Innovation Waivers 0  60,262,446
+Emergency Rental Assistance (ERA) 1  44,735,180
+Block Grants for Treatment of Substance Abuse (SABG) 1  26,309,071
+Block Grants for Community Mental Health Services (MHBG) 2  18,589,894
+Emergency Solutions Grant Program (ESG) 2  11,407,900
+Trade Adjustment Assistance 0  29,786,635
+Homeowner Assistance Fund (HAF) 1 21,938,207
+32 $ 15,410,490,516
+One SABG finding is shared with MHBG and was counted twice.
+This year, we questioned $562 thousand in directly identifiable costs and another $2.2 million in projected
+(likely) errors based on our sample testing. Figure 11 shows the amount of known and likely questioned
+costs we identified by program and state agency.
+The Temporary Assistance for Needy Families program at the Oregon Department of Human Services had
+the largest amount of questioned costs: $1.3 million in known and likely errors.
+Questioned costs were
+primarily due to failure to document compliance with specific eligibility requirements before issuing
+benefits. Eligibility compliance ensures only those individuals meeting the program requirements are
+receiving benefits.
+Oregon Secretary of State June 2024
+Report 2024-18 page 11
+Figure 11: The majority of likely questioned costs were for the Temporary Assistance for Needy Families and
+Rehabilitation Services - Vocational Rehabilitation Grants to States programs
+State Agency  Federal Program
+Expenditures
+Questioned
+Costs
+Oregon Department of Human Services
+Temporary Assistance for Needy Families $      183,272,827 $    1,285,903
+Oregon Department of Human Services/Oregon Commission for the Blind
+Rehabilitation Services Vocational Rehabilitation Grants to States 60,744,637 885,903
+Department of Early Learning and Care
+Child Care and Development Fund 165,135,037 444,242
+Oregon Housing and Community Services
+Emergency Rental Assistance 44,735,180 96,624
+Low-Income Home Energy Assistance Program 64,650,021 42,483
+Oregon Health Authority
+Special Supplemental Nutrition Program for Women, Infants, and Children 71,282,325 18,002
+Oregon Health Authority/Oregon Department of Human Services
+Medicaid 11,828,635,188 7,478
+Total  $ 12,418,455,215  $ 2,780,636
+Program internal control and compliance opinions
+When the results of an audit determine the agency has sufficient controls to administer the program and
+the program is generally in compliance with federal requirements, we issue an unmodified opinion. An
+unmodified, or “clean,” opinion means there are no “qualifications” (concerns) that would cause us to alter
+our opinion. Modified opinions include the following:
+• Qualified: internal controls are inadequate to prevent or detect significant noncompliance.
+• Adverse: pervasive weaknesses in a program’s internal controls such that it will not prevent or
+detect significant noncompliance.
+• Disclaimer: lack of sufficient, appropriate audit evidence to support an opinion on program
+compliance.
+For fiscal year 2023, we issued modified opinions for the programs shown in Figure 12. The Emergency
+Solutions Grant program was issued a disclaimer of opinion for the second year in a row. The Temporary
+Assistance for Needy Families (TANF) program has been issued a qualified opinion for the last six years.
+The Low-Income Home Energy Assistance Program has been issued a qualified opinion three years in a
+row. The Block Grant for Prevention and Treatment of Substance Abuse and the Block Grant for
+Community Mental Health Services Programs both received qualified opinions in 2022 and 2023.
+Oregon Secretary of State June 2024
+Report 2024-18 page 12
+Figure 12: Disclaimer, Adverse, and Qualified Opinions issued fiscal years 2019 – 2023
+Program  FY 2019 FY 2020 FY 2021 FY 2022 FY 2023
+Emergency Solutions Grant     Disclaimer Disclaimer
+Temporary Assistance for Needy Families Qualified Qualified Qualified Qualified Qualified
+Low-Income Home Energy Assistance Program   Qualified Qualified Qualified
+Block Grants for Community Mental Health
+Services    Qualified Qualified
+Block Grants for Prevention and Treatment of
+Substance Abuse    Qualified Qualified
+Coronavirus State and Local Fiscal Recovery
+Fund    Qualified
+Medicaid Cluster     Qualified
+Rehabilitation Services – Vocational
+Rehabilitation Grants to States     Qualified
+Emergency Rental Assistance    Adverse
+Qualified Opinions  1 1 2 5 6
+Adverse Opinions  0 0 0 1 0
+Disclaimer of Opinion  0 0 0 1 1
+History of Statewide Single Audit findings
+The OMB establishes categories of compliance requirements and the federal awarding agencies
+determine which categories are key for their programs. Not all requirements apply to every program and
+some requirements are more complex than others. Figure 13 illustrates compliance requirements with
+findings for the past five years. Totals by category indicate which requirements are most problematic for
+Oregon.
+Figure 13: Findings history by type of compliance requirement
+Compliance requirement  2019 2020 2021 2022 2023
+Allowable Activities and Costs  5+ 6+ 4+ 16+ 9+
+Cash Management     2 1
+Eligibility  2 5+  3+ 2+
+Equipment   1 1 1 1+
+Matching, LOE, Earmarking  1 2+ 4+ 3 2+
+Period of Performance  1 2 1 2 1+
+Procurement and Suspension and Debarment  1   2 1+
+Reporting  3 5 7 9 7+
+Subrecipient Monitoring  1 2 5+ 6 2
+Special Tests  3 5+ 7 6 5+
+Total findings  17 28 29 50 31
+Note: Plus sign indicates multiple compliance requirements appear in one finding, but are only counted once in this display.
+Oregon Secretary of State June 2024
+Report 2024-18 page 13
+The OMB requires auditors to perform follow-up procedures in the following year to determine whether an
+agency has taken appropriate corrective action to resolve the findings. We followed up on the status of 71
+federal compliance findings that remained uncorrected from prior years and found agencies had corrected
+23 of them. An additional 2 findings did not warrant further action. However, 46 prior year findings will
+continue into fiscal year 2024 because they remain uncorrected. In addition, 14 of the 18 programs audited
+for fiscal year 2023 have findings that will require follow-up or full audits in 2024.
+Some findings remain uncorrected from one year to the next because agencies do not correct the
+underlying issues causing the noncompliance or control weaknesses. While some findings take time and
+resources to correct, others may remain simply because management does not make it a priority to
+address them.
+Figure 14 displays a history of ongoing findings by agency, program, and nature of the findings that
+continue to be uncorrected at the end of fiscal year 2023 and have been ongoing for at least four years.
+When a finding is uncorrected, we are required to continue auditing the requirement until it is resolved.
+Figure 14: History of ongoing findings
+Agency  Program  Finding Summary  Origination
+Year
+Years
+Ongoing
+ODHS Temporary Assistance for Needy Families Accurate reports 2010 14
+ODHS/OHA  Medicaid Provider eligibility 2012 12
+DELC/ODHS Child Care and Development Fund Incorrect copays 2014 10
+ODFW Fish & Wildlife Cluster  Monitoring real property 2017 7
+ODHS Temporary Assistance for Needy Families Accurate report calculations 2019 5
+OHA Opioid STR Subrecipient monitoring 2019 5
+OHA Opioid STR Report review 2019 5
+ODHS/OHA  Medicaid Return questioned costs 2019 5
+ODEM Disaster Grants Subrecipient risk assessment 2020 4
+DELC/ODHS Child Care and Development Fund Payroll controls 2020 4
+The TANF program has an unresolved audit finding originating in fiscal year 2010. Auditors found TANF
+data reports required to be submitted to the federal agency do not accurately reflect case status and
+activity of the reporting period. Since the implementation of a new system, reporting errors have increased,
+but agency management has made efforts and worked with their vendor to resolve system errors to ensure
+proper reporting from the new system in the future. However, fixing the data issues has not been prioritized
+by the service provider of the new system.
+Medicaid’s provider eligibility finding, originating in 2012, includes provider eligibility determination not fully
+supported with required documentation. Progress has been made with the implementation of updated
+applications, procedures, and policies.
+The Child Care and Development Fund finding, originating in 2014, has repeatedly identified errors in
+copay amounts and authorized child care hours. The errors primarily resulted from human error when
+Oregon Secretary of State June 2024
+Report 2024-18 page 14
+entering information for the calculations. After implementation of a new system, the amounts are
+calculated automatically, but errors have still been identified due to incorrect inputs.
+Since the finding was identified in 2017, Oregon Department of Fish and Wildlife has acquired a new Asset
+Management system, and during fiscal year 2023 concluded entering historical land records into the
+system. During fiscal year 2024, regional managers will be making site inspections of each plot to ensure
+the property is being used accordingly. The goal is to have this finding resolved by the end of fiscal year
+2024.
+It is the responsibility of the federal granting agency to follow up with state agencies on findings included in
+the Single Audit Report. After investigating, the federal agency issues a determination letter to the state
+agency, providing its conclusion about the finding and the corrective action the state agency plans to take
+to resolve the finding. Generally, the determination letters uphold our findings, reinforce our
+recommendations, and request action from the state agency. Sometimes the federal agency imposes a
+sanction upon the state or adjusts future funding to correct the issue. Occasionally, the federal agency will
+clarify a requirement in favor of the state agency and the finding is no longer valid. Only federal agencies
+have the authority to enforce their grant requirements.
+Glossary of Terms
+Oregon Secretary of State June 2024
+Report 2024-18 page 15
+Adverse Opinion : The type of audit opinion given when audit procedures identify pervasive weaknesses in
+a department or program’s internal controls such that it will not prevent or detect significant noncompliance
+or financial material misstatements.
+Asset: A resource with economic value that the government owns or controls with the expectation it will
+provide future benefit.
+Annual Financial Report : The government entity’s official annual report that includes financial statements
+designed to report the financial position and results of operations of the primary government (including its
+blended component units) and provide an overview of the discretely presented component units.
+Determination Letter : Letter written by the federal awarding agency in response to single audit findings.
+This letter provides their conclusions about the findings and the actions the state agency plans to take to
+resolve the findings.
+Disclaimer of Opinion : The type of audit opinion given when audit procedures result in a lack of sufficient,
+appropriate audit evidence to support an opinion on financial statements or program compliance.
+Error : A mistake in an accounting entry that was not intentional.
+Expenditure : Designates the cost of goods delivered or services rendered, whether paid or unpaid.
+Federal Expenditure : Charges made by a non-Federal entity to a project or program for which a Federal
+award was received.
+Generally Accepted Accounting Principles (GAAP) : A combination of authoritative standards (set by
+policy boards) and the commonly accepted ways of recording and reporting accounting information.
+Government Auditing Standards : The professional standards and guidance issued by the Comptroller
+General of the United States that provide the framework for conducting high quality audits of governmental
+entities.
+Internal Controls : Methods put in place by management to ensure the integrity of financial and accounting
+information and regulatory compliance.
+Liability : Legal debts or obligations between one party and another not yet completed or paid for, defined
+by previous business transactions, events, sales, exchange of assets or services, or anything that would
+provide economic benefit at a later date.
+Material : The auditor’s determination of materiality is a matter of professional judgment. It is affected by
+the auditor’s perception of the needs of the users of the financial statements, or in the case of a federal
+compliance audit, on the needs of the users of the report on compliance with a federal program. Judgments
+about materiality involve both qualitative and quantitative considerations.
+Qualified Opinion : The type of audit opinion given when audit procedures identify a department or
+program’s internal controls are inadequate to prevent or detect significant noncompliance or financial
+material misstatements.
+Oregon Secretary of State June 2024
+Report 2024-18 page 16
+Questioned Cost : A cost questioned by the auditor for violation of federal award provisions, or lack of
+supporting documentation, or because the cost appears unreasonable.
+Revenue : Income received or earned during a specific period.
+Statement of Activities : Required basic financial statement that shows the financial results of the year’s
+activities. The statement of activities presents revenues less expenditures to show net position.
+Statement of Net Position : Required basic financial statement that shows the balance of the assets,
+liabilities, deferrals, and net position at June 30.
+Subrecipient : An entity that receives federal funds from the state to carry out a federal program.
+Unmodified Opinion : The type of audit opinion given when the financial statements, as corrected, are
+fairly presented in conformance with GAAP.
+About the Report
+Oregon Secretary of State June 2024
+Report 2024-18 page 17
+ABOUT THE SECRETARY OF STATE AUDITS DIVISION
+The Oregon Constitution provides that the Secretary of State shall be, by virtue of the office, Auditor of
+Public Accounts. The Audits Division performs this duty. The division reports to the Secretary of State and
+is independent of other agencies within the Executive, Legislative, and Judicial branches of Oregon
+government. The division has constitutional authority to audit all state officers, agencies, boards and
+commissions as well as administer municipal audit law.
+Report team
+Sarah Anderson, CPA, Audit Manager
+Amy John, CPA, Audit Manager
+Kelly Olson, CPA, Audit Manager
+Michelle Searfus, CPA, Audit Manager
+Tracey Gates, CPA, Principal Auditor
+Secretary of State LaVonne Griffin -Valade
+Audits Director Kip R. Memmott
+This report is intended to promote the best possible
+management of public resources.
+Copies may be obtained from:
+Oregon Audits Division
+255 Capitol St NE, Suite 180
+Salem OR 97310
+(503) 986-2255
+sos.oregon.gov/audits

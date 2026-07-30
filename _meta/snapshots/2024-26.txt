@@ -1,0 +1,2115 @@
+Kip Memmott
+Division Director
+255 Capitol St NE,
+Ste 180
+Salem, Oregon 97310
+LaVonne Griffin -Valade Cheryl Myers  Information
+(503) 986-2255
+Oregon Secretary of State  Deputy Secretary & Tribal Liaison
+sos.oregon.gov/audits
+Fiscal Year 2023
+State of Oregon Financial
+Condition Report
+September 2024
+Report 2024-26
+Kip Memmott
+Division Director
+255 Capitol St NE, Ste 180
+Salem, Oregon 97310
+LaVonne Griffin -Valade Cheryl Myers  Information (503) 986-2255
+Oregon Secretary of State  Deputy Secretary & Tribal Liaison sos.oregon.gov/audits
+Fellow Oregonians:
+Oregon state government plays a major role in the lives of all Oregonians. State agencies regulate
+industries for public health and safety, provide vital social services to vulnerable populations, and maintain
+the infrastructure in which you live every day. All of these important needs must compete for funding in an
+environment of limited financial resources.
+For this reason, it is critical Oregon maintain sound financial condition. Various indicators — such as
+demographic information, expenditures, and revenues — can provide information for decision-makers,
+allowing them to capitalize on opportunities, tackle challenges, and manage the financial condition of the
+state.
+We issue this report every few years to share high-level historical indicators of Oregon’s financial condition.
+This report, for the period ending June 30, 2023, also includes information regarding the impacts of
+weather-related emergencies, opioid use, and a summary of COVID pandemic spending.
+Since our 2020 report, the following aspects of Oregon’s financial condition are worth noting:
+• Human services continue to be the largest expenditures by program area at $22.5 billion, or 51% of
+state expenditures. Approximately $15.8 billion relates to the Medicaid program, with $11.8 billion
+provided through federal funds.
+• Education expenditures by K-12 institutions totaled $9.9 billion, with state funding being the
+primary revenue source.
+• Transportation expenditures decreased 16% from 2022, after a two-year upsurge.
+• Oregon’s unhoused population increased 37% since 2020, with assistance expenditures totaling
+$193.6 million in 2023.
+• Weather-related emergencies — including wildfires, heat, drought, and storms — have increased
+significantly in the past 20 years, with 64 executive orders issued by the Governor in the last three
+years alone.
+I ask state leaders to give thoughtful consideration to the following information, as responsible governance
+of our resources will pay dividends for all Oregonians.
+Sincerely,
+LaVonne Griffin -Valade
+Oregon Secretary of State
+Kip Memmott
+Division Director
+255 Capitol St NE, Ste 180
+Salem, Oregon 97310
+LaVonne Griffin -Valade Cheryl Myers  Information (503) 986-2255
+Oregon Secretary of State  Deputy Secretary & Tribal Liaison sos.oregon.gov/audits
+Oregon state government plays a major role in the lives of Oregonians. It provides vital services to a growing population in
+an environment of limited financial resources. Maintaining sound financial condition is key to sustaining and improving
+services. Various indicators can provide key information for decision-makers, enabling them to capitalize on opportunities,
+tackle challenges, and manage financial condition timely and effectively.
+Expenditures by Program
+Human Services continues to be the largest program, with the
+majority of expenditures for the Medicaid program, which
+assists low-income families in paying for medical care.
+Education spending includes K-12 schools, universities, and
+community colleges.
+Revenues (in billions)
+The state’s main revenue sources are taxes, federal
+revenues, and charges for services. Since 2020, tax
+revenues have increased about $5.2 billion.
+The Rainy Day Fund
+increased to almost $1.4
+billion and remains
+available to weather
+economic downturns and
+uncertainties.
+Oregon’s 2024 kicker tax refund
+was $5.6 billion, the largest in
+Oregon history. Kicker amounts
+are refunded to taxpayers
+through credits on subsequent
+tax returns.
+Oregon had the highest rate
+of chronic homelessness in
+the nation with 44% of
+individuals experiencing
+homelessness showing
+patterns of chronic
+homelessness.
+The state has funded
+about 74% of the
+pension liability, which is
+now $7.7 billion. It is
+projected to reach 100%
+funded in 2040.
+Human Services51%
+Education
+21%
+Other 18%
+Public
+Safety 5%
+Transportation
+5%
+$0
+$10
+$20
+$30
+$40
+$50
+$60
+19 20 21 22 23
+Taxes Federal Revenue Charges for Services
+Report Highlights
+Fiscal Year 2023
+State of Oregon Financial Condition Report
+Secretary of State LaVonne Griffin -Valade
+Audits Director Kip R. Memmott
+Table of Contents
+Introduction                                                                                                                                                                 pg. 1
+Revenues
+Total Revenues  pg. 3
+Tax Revenues  pg. 3
+Federal Revenues  pg. 5
+Charges for Services  pg. 6
+Restricted and Unrestricted Revenues  pg. 7
+Expenditures
+Total Expenditures  pg. 8
+General Fund Expenditures  pg. 8
+Human Services  pg. 9
+K-12 Education  pg. 10
+Public Universities  pg. 12
+Community Colleges  pg. 13
+Transportation  pg. 15
+Public Safety  pg. 15
+Unhoused  pg. 17
+Other  pg. 18
+Long-Term Debt
+Long-Term Debt  pg. 19
+Debt Per Capita  pg. 20
+Future Debt Service  pg. 20
+Fiscal Health
+Governmental Fund Balance  pg. 22
+Oregon Rainy Day Fund  pg. 22
+State Retirement Liabilities  pg. 23
+Employee Health Care Costs  pg. 25
+Tax Expenditures  pg. 25
+Environmental
+Population  pg. 27
+Age Demographics  pg. 27
+Poverty  pg. 28
+Unhoused  pg. 28
+Oregon Health Plan  pg. 30
+Supplemental Nutrition Assistance Program  pg. 30
+Percent Unemployed  pg. 31
+Oregon Businesses  pg. 31
+Per Capita Personal Income  pg. 32
+Violent Crime and Property Crime Rate  pg. 32
+2023 Significant Factors
+COVID Pandemic  pg. 34
+Weather-Related Emergencies pg. 35
+Opioid Use pg. 37
+Aging Systems and Workforce pg. 38
+Appendix – Oregon Expenditures by Program Area and State Agency  pg. 40
+Introduction
+Oregon Secretary of State September 2024
+Report 2024-26 page 1
+Objective, Scope, Methodology
+The objective of this report is to provide information for the evaluation of the financial condition of the State
+of Oregon by decision-makers, the Oregon Legislature, and Oregonians.
+To complete our objective, we used indicators from the Financial Trend Monitoring System developed by
+the International City and County Management Association. We selected financial and environmental
+indicators that we believed were most suited to evaluate Oregon’s financial condition.
+Revenue indicators disclose the main sources of state resources, revealing whether they may be
+vulnerable to changes in economic conditions or federal regulations. Expenditure indicators outline
+obligations of the state to serve Oregonians. Environmental indicators such as population and poverty
+rates can affect both revenue and expenditure trends.
+Oregon operates with a balanced budget. If revenues decrease but the demand for services remains the
+same or increases, decisions would have to be made regarding new revenue streams or which services to
+reduce or eliminate. We believe the information in this report, when considered collectively, will assist with
+these important decisions.
+The data in the report generally covers a 10-year period from fiscal year 2014 through 2023. Unless
+otherwise indicated, data is on a fiscal year basis (e.g., fiscal year 2023 represents July 1, 2022, through
+June 30, 2023). We express financial data in constant dollars to account for inflation by adjusting dollar
+amounts from each prior year to equal the purchasing power of money on June 30, 2023. We used the
+Consumer Price Index for the West region, as reported by the Bureau of Labor Statistics.
+We reviewed information for reasonableness and consistency; however, we did not audit the accuracy of
+the source documents or the reliability of data in computer-based systems. Our review is not to give
+absolute assurance that all information is free from error. Rather, our intent was to provide reasonable
+assurance the reported information presents a fair picture of the state’s financial condition. In addition,
+while the report offers financial highlights, it does not thoroughly determine the reasons for negative or
+positive performance. Explanations would require more analysis.
+Data Sources
+Nearly all financial information is from the State of Oregon’s Annual Comprehensive Financial Reports.
+Additional information, such as environmental indicators, is from state and federal agencies and may
+present different time periods if only available on a calendar year basis. Some information useful to readers
+extends beyond the 10 fiscal years covered in the report. Resources used include the following:
+Oregon Secretary of State September 2024
+Report 2024-26 page 2
+Oregon Department of Administrative Services
+Oregon Department of Education
+Oregon Department of Forestry
+Oregon Department of Human Services
+Oregon Department of Revenue
+Oregon Department of Transportation
+Oregon Employment Department
+Oregon Governor’s Office
+Oregon Health Authority
+Oregon Higher Education Coordinating Commission
+Oregon Housing & Community Services Department
+Oregon Office of Economic Analysis
+Oregon Public Employees’ Retirement System
+Oregon Secretary of State
+Oregon State Treasury
+Oregon State Lottery Annual Comprehensive Financial
+Report
+State Debt Policy Advisory Commission
+State of Oregon Annual Comprehensive Financial Report
+State of Oregon Single Audit
+University of Oregon
+Oregon State University
+Portland State University
+Western Oregon University
+Southern Oregon University
+Eastern Oregon University
+Oregon Institute of Technology
+Portland State University, Population Research Center
+The White House
+United States Bureau of Economic Analysis
+United States Bureau of Labor and Statistics
+United States Census Bureau
+United States Centers for Disease Control and
+Prevention
+United States Congress
+United States Department of Health and Human Services
+United States Department of Housing and Urban
+Development
+United States Federal Bureau of Investigation
+United States Treasury Department
+This report is for informational purposes and does not constitute an audit performed in accordance with
+generally accepted government auditing standards.
+We sincerely appreciate the courtesies and cooperation extended by officials and employees of all state
+agencies during the course of this engagement.
+ABOUT THE SECRETARY OF STATE AUDITS DIVISION
+The Oregon Constitution provides that the Secretary of State shall be, by virtue of the office, Auditor of
+Public Accounts. The Audits Division performs this duty. The division reports to the Secretary of State and
+is independent of other agencies within the Executive, Legislative, and Judicial branches of Oregon
+government. The division has constitutional authority to audit all state officers, agencies, boards and
+commissions as well as administer municipal audit law.
+Report team
+Amy John, CPA, Audit Manager
+Janet Lowrey, CPA, Senior Auditor
+Cassidy Fahey, Staff Auditor
+Rose Bravo, CPA, Staff Auditor
+Revenues
+Oregon Secretary of State September 2024
+Report 2024-26 page 3
+Total Revenues
+Revenues are affected by economic and policy changes and determine the capacity of the government to
+provide services to Oregonians. Total revenues consist of three categories: tax revenues such as income
+taxes, federal revenues, and charges for services such as transportation fees and Oregon Public Utility
+Commission payments by consumers. In 2023, total revenues consisted of 43% taxes, 41% federal
+revenue, and 16% charges for services.
+Overall, total revenues have increased 43% since 2014. The substantial increase seen in 2021 was
+primarily related to a rising tax revenues, and federal revenues related to the COVID pandemic. Total
+revenues have been decreasing since 2021 as federal funding for the pandemic decreases.
+Chart 1: Total Revenues by Source, adjusted for inflation (in billions), FY  ended June 30
+Tax Revenues
+In 2023, Oregon ranked 14th nationally in state taxes collected per capita and first in terms of personal
+income tax collections per capita, which remains Oregon’s primary source of tax revenues. The three taxes
+that have increased the most since 2020, adjusted for inflation, are corporate income taxes at 56%,
+tobacco taxes at 45%, and personal income taxes at 36%. Marijuana taxes peaked in 2021 at $206 million
+and were $168 million in 2023, making up less than 1% of 2023 tax revenue.
+$0
+$10
+$20
+$30
+$40
+$50
+14 15 16 17 18 19 20 21 22 23
+Taxes Federal Revenue Charges for Services
+$49.2
+Oregon Secretary of State September 2024
+Report 2024-26 page 4
+Chart 2: Tax Revenues, adjusted for inflation (in billions), FY ended June 30
+The Corporate Activity Tax (CAT), adopted by the Legislature in 2019 to provide additional revenues for
+education spending, comprised 6% of 2023 tax revenues.
+Chart 3: Fiscal Year 2023 Tax Revenues, adjusted for inflation
+Personal Income Tax Kicker
+When General Fund revenues, which are primarily made up of personal income taxes, exceed forecasted
+revenues by 2%, state law requires the excess amount (referred to as the “kicker”) be refunded to
+taxpayers. Kicker amounts are refunded to taxpayers through credits on subsequent tax returns. The $5.6
+billion kicker is the largest in Oregon history. It’s nearly three times larger than the previous record kicker of
+$1.9 billion two years ago. The 2021-23 biennium is the fifth straight with a kicker and the current kicker is
+larger than the total of the kickers in the four previous biennia.1
+1 10 Things You Should Know About Oregon’s $5.61 Billion Kicker, Robin Maxey, October 11, 2023, My Oregon News
+CAT
+tax
+begins
+$0
+$5
+$10
+$15
+$20
+$25
+14 15 16 17 18 19 20 21 22 23
+Personal Income Tax Corporate Income Tax Corporate Activity Tax
+Transportation Taxes Other Taxes
+Personal Income Tax
+65%Corporate Income Tax
+8%
+Corporate Activity Tax
+6%
+Transportation Taxes
+7%
+Other Taxes
+14%
+Oregon Secretary of State September 2024
+Report 2024-26 page 5
+Chart 4: Personal Income Tax Kicker Amount and Percentage of General Fund Surplus, not adjusted for inflation
+(in billions), FY ended June 30
+Federal Revenues
+Federal revenues are grants and reimbursements received from the federal government for programs and
+services provided to eligible recipients and are often restricted in their use. The state received federal
+funding in response to the COVID pandemic consisting of $6.55 billion in 2021, $5.61 billion in 2022, and
+$3.58 billion in 2023. The congressional actions included funding for expenditures resulting from the
+pandemic that were not previously budgeted for, as well as expanded unemployment benefits.
+The state received $5.4 billion in American Recovery and Reinvestment Act (ARRA) funds from 2009 to
+2020 which were primarily expended by 2012; however, ARRA funds continue to be expended with $231
+million expended from 2014 through 2023.
+Chart 5: Federal Revenues, adjusted for inflation (in billions), FY ended June 30
+5.6% 5.6%
+17.2% 17.3%
+44.3%
+$0
+$1
+$2
+$3
+$4
+$5
+$6
+14 16 18 20 22 24
+Credited in fiscal year
+$0
+$4
+$8
+$12
+$16
+$20
+$24
+14 15 16 17 18 19 20 21 22 23
+Other Federal Revenue COVID Revenue
+Oregon Secretary of State September 2024
+Report 2024-26 page 6
+Federal Revenues by Program Area
+The state received about $20 billion in federal assistance in 2023. This represented a $2.4 billion (10.5%)
+decrease since 2022, and an overall increase of $7 billion (53%) since 2014.
+Traditionally, the largest federal revenue source is the Medicaid program within the human services
+program area, at approximately $11.8 billion in 2023. Significant increases in the education, public safety,
+and economic and community development programs occurred between 2020 and 2023, largely due to
+funding received related to the COVID pandemic.
+Chart 6: Fiscal Year 2023 Federal Revenues by Program (in billions)
+Charges for Services
+Charges for services are amounts collected from customers, applicants, employers, and others who use,
+purchase, or directly benefit from services provided. In 2023, charges for services totaled $7.8 billion and
+represented 16% of total state revenues. When omitting charges related to the university system, which
+was reported as a state activity until 2015, charges for services increased $1.7 billion, or 28.3%, since
+2014. Charges for services generally support services of a particular program area; however, those of the
+Liquor Control Commission and Lottery support services of other program areas as well.
+Education, $1.3
+Human Services,
+$15.6
+Public Safety, $1.0
+Economic and Community
+Development, $0.5
+Transportation, $0.8
+Other, $1.1�20.3 billion
+Oregon Secretary of State September 2024
+Report 2024-26 page 7
+Chart 7: Fiscal Year 2023 Charges for Services (in billions)
+Restricted and Unrestricted Revenues
+The Legislature has discretion over spending General Fund revenues. Of the $49.5 billion in total state
+revenues in 2023, approximately 34% are in the state General Fund with the majority available to fund
+education, human services, and public safety programs. Approximately 62% are federal revenues that can
+only be used for federal programs. The remaining revenues are restricted for specific purposes by grant
+agreements, the Oregon Constitution, or Oregon statutes, including motor fuel and other vehicle taxes.
+Chart 8: Restricted and Unrestricted Revenues, adjusted for inflation (in billions), FY ended June 30
+$0.0 $0.2 $0.4 $0.6 $0.8 $1.0 $1.2 $1.4 $1.6 $1.8
+Lottery Operations
+All Other
+Human Services
+Unemployment Compensation
+Liquor Control
+Public Safety
+Natural Resources
+Transportation
+Fund Support General Government Support
+$0
+$10
+$20
+$30
+$40
+$50
+14 15 16 17 18 19 20 21 22 23
+Restricted Revenues General Fund Revenues
+Expenditures
+Oregon Secretary of State September 2024
+Report 2024-26 page 8
+Total Expenditures
+Expenditures remained fairly steady from 2014 to 2019, with increases beginning in 2020 related to the
+COVID pandemic response, most notably for human services, unemployment compensation and
+economic and community development programs. Expenditures spiked in 2021, then decreased as the
+pandemic impacts began to subside.
+Chart 9: Total State Expenditures, adjusted for inflation (in billions), FY ended June 30
+In 2023, about 82% of the state’s $43.9 billion in total expenditures occurred in four programs: human
+services (51%), education (21%), public safety (5%), and transportation (5%).
+Chart 10: Fiscal Year 2023 Total Expenditures by Program Area  (in billions)
+General Fund Expenditures
+General Fund expenditures are those expenditures that are Legislatively dictated. These expenditures can
+either be directly spent by state agencies or passed through to other government units to provide services.
+For example, education expenditures are primarily passed-through to local school districts, public
+universities, and community colleges to provide education services.
+$25
+$30
+$35
+$40
+$45
+$50
+14 15 16 17 18 19 20 21 22 23
+$43.9
+Education, $9.1
+Human
+Services,
+$22.5
+Public Safety, $2.4
+Economic and Community Development, $1.2
+Natural Resources, $1.1
+Transportation, $2.2
+Other Expenditures, $5.4
+�43.9 billion
+Oregon Secretary of State September 2024
+Report 2024-26 page 9
+Of the state’s $43.9 billion in total expenditures, about $14.9 billion (34%) were General Fund
+expenditures. The majority of General Fund spending occurred in three areas: education (44%), human
+services (25%), and public safety (11%). These three programs accounted for 79% to 88% of General
+Fund expenditures in each of the last ten years.
+Chart 11: Fiscal Year 2023 General Fund Expenditures by Program (in billions)
+Human Services
+Human services spending has steadily increased in the last 10 years, with spending at approximately $22.5
+billion in 2023. Increases in 2015 were due to expanded eligibility for the Medicaid program as part of the
+Affordable Care Act (ACA). Increases from 2020 to 2023 were primarily due to a temporary additional 6.2%
+federal medical assistance percentage (FMAP) increase to the federal share of expenditures beginning
+January 2020 in response to the COVID pandemic.
+In 2023, a total of $15.8 billion was spent for Medicaid. The state share of $3.9 billion represents 36 cents of
+every state dollar — which is a 25.7% increase from the 29 cents of every dollar spent in 2014.
+The Medicaid program compensates health care providers for services for eligible individuals and the state
+receives federal reimbursement for a portion of eligible Medicaid expenditures.
+Chart 12: Human Services Expenditures, adjusted for inflation (in billions), FY ended June 30
+$6.5
+$3.8
+$1.7
+$0.9
+$0.6
+$0.3
+$0.3
+$0.3
+$0.5
+$0 $1 $2 $3 $4 $5 $6 $7
+Education
+Human Services
+Public Safety
+Administration
+Judicial
+Natural Resources
+Economic Development
+Debt Service Principal
+Other
+Direct State Other Government Pass-Through
+$0
+$5
+$10
+$15
+$20
+$25
+14 15 16 17 18 19 20 21 22 23
+Medicaid Expenditures - Federal Medicaid Expenditures - State Non-Medicaid
+Oregon Secretary of State September 2024
+Report 2024-26 page 10
+Health care expenditures in Oregon rely heavily on federal reimbursements. Federal reimbursements are
+determined by FMAP rates which are calculated annually by the federal government. FMAP rates consist
+of two main elements: a formula which is heavily influenced by per capita income, meaning that higher
+federal reimbursements would be attributed to states with lower per capita incomes, and policy creation,
+such as the FMAP increase seen in response to the Affordable Care Act expansion and COVID.
+Chart 13: Federal FMAP Rate, Federal FY Oct. 1 – Sept. 30
+In the absence of policy creation, the FMAP rate is generally expected to decrease over time, leaving the
+state responsible for making up the difference. In 2023, a 1% decrease in the FMAP rate would cost the
+state approximately $158 million in additional expenditures.
+K-12 Education
+In 1990, Oregon voters passed Ballot Measure 5, which phased in property tax limitations for local
+governments and shifted a significant portion of the responsibility for school funding to the state. In 2023,
+state funding contributed 57% of K-12 expenditures and local funds provided 33%. The state legislatively
+funds K-12 education from three main sources: the General Fund (income taxes), lottery receipts, and the
+fund for Student Success Act, with funds from the Corporate Activities Tax. Funding is distributed through
+the State School Fund, through either the funding formula or grant-in-aid-programs. The formula allocates
+funds across school districts and educational service districts to achieve equal per-student funding and
+adjusts for cost differences through teacher experience adjustments, transportation grants, and weighted
+student counts. The grant-aid programs are usually denoted for a specific purpose such as nutrition, or
+special education.
+Increase tied to
+economic
+downturn in
+2008
+Increase tied to
+ACA expansion
+COVID
+pandemic
+begins
+COVID
+pandemic ends
+58%
+60%
+62%
+64%
+66%
+68%
+05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+COVID Increase Base FMAP Rate
+Oregon Secretary of State September 2024
+Report 2024-26 page 11
+Chart 14: Education (K-12) Revenue by Source, adjusted for inflation (in billions), School Year Ended
+Total K-12 public education expenditures exceeded $9.9 billion in the 2022-2023 school year. Adjusted for
+inflation, this is a decrease of 3.5% since 2021-2022 and an increase of 27% since 2013-2014. Most
+education spending at the district level, about $9.2 billion (93%), occurred in the Instruction and Support
+Services categories, which relates to teaching students and services to facilitate and enhance instruction.
+Chart 15: K-12 Education Expenditures by Category (in billions), School Year Ended 2023
+Enrollment for K-12 public schools, which includes merged schools and charter schools, was 552,380
+students in the 2022-2023 school year, with a significant decrease of 3.7% from the school years ended
+2020 and 2021. The decline is due to homeschooling, drop outs, lack of kindergarten enrollment, and to a
+lesser extent, the switch to private school. Enrollment has continued to fall since the 2020-2021 school
+year, although the rate of decline has slowed. The decline is expected to remain due to lower birth rates.
+$0
+$2
+$4
+$6
+$8
+$10
+14 15 16 17 18 19 20 21 22 23
+State Local Federal
+$5.4,
+Instruction,
+54%
+$3.8,
+Support Services,
+39%
+$0.7,
+Other,
+7%
+Oregon Secretary of State September 2024
+Report 2024-26 page 12
+Chart 16: Public K-12 School Enrollment, number of students (in thousands), School Year Ended
+Public Universities
+There are seven public universities in Oregon, the largest of which are Oregon State University, the
+University of Oregon, and Portland State University. University expenditures focus on instruction,
+research, public service, auxiliary services such as housing and dining, athletics, health services, and
+academic, student, and institutional support.
+The majority of university funding is tuition and grants, with additional funding from the state’s General
+Fund, Lottery funds, and other sources. The Public University Support Fund is the state’s primary direct
+funding contribution for university operations. Funding is allocated to universities using the Student
+Success and Completion Model (SSCM). The SSCM is an outcomes-based formula comprised of three
+funding categories: mission differentiation, activity-based, and outcomes-based. Outcomes-Based
+Funding rewards degree and certificate completions by Oregon resident students, as well as completions
+by underrepresented students (minority, low-income, rural, and veterans) and those in academic
+disciplines in high-demand and high-reward fields with additional resources.
+In 2023, the universities received $590 million from the General Fund and $82 million from other
+governmental sources, including Lottery funds and SELP debt service.
+14 15 16 17 18 19 20 21 22 23
+Oregon Secretary of State September 2024
+Report 2024-26 page 13
+Chart 17: Public Universities Expenditures by Revenue Source, adjusted for inflation (in billions), FY ended June 30
+Enrollment in public universities has decreased by 7% in the last ten years, to approximately 101,000
+students in 2022-2023. The largest decreases in this time occurred between 2018-2019 and 2020-2021
+when enrollment decreased more than 1% each year. The decrease is primarily related to closures of
+education institutions in response to COVID, however rising tuition costs, issues with the Free Application
+for Federal Student Aid, and a shift in the ratio of the enrollment population have contributed as well.
+In school year 2022-2023, 60.5% of enrolled students were Oregon residents, down from 68.7% in 2013-
+2014. Despite the overall decrease in enrollment, the increased percent of nonresident students has
+resulted in a continued increase or maintained level in tuition revenues. Nonresident tuition is
+approximately three times the cost of resident tuition.
+Chart 18: 2022-2023 School Year Enrollment by Residency Status
+Community Colleges
+Oregon has a network of 17 community colleges with locally elected boards that received approximately
+$472.9 million in state funding in 2023 through the Higher Education Coordinating Commission. This is
+$0.0
+$0.5
+$1.0
+$1.5
+$2.0
+$2.5
+$3.0
+$3.5
+$4.0
+14 15 16 17 18 19 20 21 22 23
+Tuition and other revenues General Fund and other governmental sources
+60.5% Resident
+Students
+39.5%
+Nonresident
+Students
+Oregon Secretary of State September 2024
+Report 2024-26 page 14
+19.3% more than in 2014 and 4.3% less than in 2022. Since 2014, community colleges have received an
+average of 54% of funding from local sources, such as tuition and property taxes, 22% from federal
+sources, and the remainder from state sources.
+State funding is provided through the Community College Support Fund, which includes categorical
+funding for specific program areas, such as distributed learning, and base payments and enrollment
+funding to ensure equitable funding based on the full-time equivalent enrollment for Oregon, Idaho,
+Washington, Nevada, and California residents who take part in coursework offered within Oregon
+boundaries.
+Chart 19: Community College Expenditures by Revenue Source, adjusted for inflation (in billions),
+FY ended June 30
+Enrollment for community colleges has declined 39.5% since 2014, to 193,000 students in 2022-2023.
+The largest decreases in this period occurred during the 2019-2020 and 2020-2021 school years when
+enrollment decreased 12% and 22%, respectively. The primary reasons attributed to the decreases in
+enrollment include improving economic conditions prior to the COVID pandemic, which encouraged
+people to remain employed instead of seeking education for a career change, and the COVID pandemic,
+which caused disruption to the education system and the economy. Enrollment has been increasing since
+2020-2021.
+Chart 20: Community College Enrollment, number of students (in thousands) , School Year End
+$0.0
+$0.5
+$1.0
+$1.5
+$2.0
+$2.5
+14 15 16 17 18 19 20 21 22 23
+Federal Local State
+-
+14 15 16 17 18 19 20 21 22 23
+Oregon Secretary of State September 2024
+Report 2024-26 page 15
+Enrollment declined during the COVID pandemic in school years ended 2020 and 2021 even though
+colleges saw an increase in revenue. In 2020, revenues from state sources increased by 16.7% (inflation
+adjusted) from 2019, including funding for operations, institutional support, and construction projects.
+Federal and local funding also increased in response to the COVID pandemic providing institutional
+support and aid for operations.
+Transportation
+Transportation expenditures consist of costs to maintain, build, and repair Oregon’s network of highways,
+tunnels, and bridges. Transportation revenues are primarily from the State Highway Fund, which includes
+constitutionally dedicated highway user taxes and vehicle registration taxes, in addition to various federal
+highway funds.
+Chart 21: Transportation Expenditures, adjusted for inflation (in billions), FY ended June 30
+Expenditures increased 4% in the last decade. 2019 and 2020 increases were due to 2017’s passage of
+the Keep Oregon Moving Act. 2021 and 2022 increases were due to authorized issuances of Highway User
+Tax Revenue Bonds per the amended Keep Oregon Moving Act, and the federal Infrastructure Investment
+and Jobs Act of 2021. The sharp decrease in 2023 is due to a multitude of factors, including flattening and
+declining fuels tax revenues as consumers switch to more fuel-efficient, hybrid, and electric vehicles. State
+funding available for maintenance and agency operations went down as almost half the funding is sent to
+cities and counties and another quarter is dedicated by the Legislature to pay for construction projects and
+paying debt connected to past projects.
+Distributions by the Oregon Department of Transportation to cities and counties as required by statutes
+decreased since 2020 to $589 million; however, distributions remained the same percentage of all
+transportation expenditures at 27%.
+Public Safety
+The Public Safety program provides services to ensure the safety of Oregonians and their property through
+police, military, courts, and correctional facilities. The majority of public safety expenditures were by the
+Department of Corrections to operate 12 correctional facilities, which house approximately 12,176 adults in
+custody.
+$2.2
+$1.5
+$2.0
+$2.5
+$3.0
+14 15 16 17 18 19 20 21 22 23
+Oregon Secretary of State September 2024
+Report 2024-26 page 16
+Chart 22: Fiscal Year 2023 Public Safety Expenditures by Agency
+The number of adults in custody in Oregon’s prisons decreased 17% over the past decade. The decrease
+beginning in 2020 was primarily attributed to COVID pandemic factors, namely a sharp reduction in prison
+intakes. Ongoing decreases are due to higher than anticipated release rates, and a reduction in serious
+crime rate convictions in Oregon.
+Chart 23: Oregon Prison Inmate Population, FY ended June 30
+Overall, expenditures increased moderately over the past 10 years. 2016 increases were caused by the
+Oregon Supreme Court ruling in Moro v. State of Oregon, which reversed a significant portion of reductions
+and resulted in the recognition of $373 million in pension expenses. Additionally, 2015 had a credit to
+expense with a 2016 debit to expense due to a change in government accounting of pension expenses.
+Department of
+Justice
+22%
+Oregon State Police
+16%
+Department of
+Corrections
+44%
+Oregon Youth
+Authority
+8%
+Others
+10%
+$2.4 billion
+10,000
+12,000
+14,000
+16,000
+14 15 16 17 18 19 20 21 22 23
+Oregon Secretary of State September 2024
+Report 2024-26 page 17
+Chart 24: Public Safety Expenditures, adjusted for inflation (in millions), FY ended June 30
+Unhoused Expenditures
+The unhoused population in Oregon has increased 66% since 2014 to over 20,100 individuals. Housing
+assistance programs focus on helping low-income persons who are unstably housed or have emergency
+needs and work to reduce community poverty and ensure available shelter resources for the unhoused.
+Program expenditures totaled $193.6 million in 2023 and are primarily funded by state sources. The 2022
+increase was due to expanded federal funding for the Oregon Emergency Rental Assistance program to
+address the COVID pandemic.
+Chart 25: Unhoused Program Expenditures, adjusted for inflation (in millions), FY ended June 30
+$0.0
+$0.5
+$1.0
+$1.5
+$2.0
+$2.5
+14 15 16 17 18 19 20 21 22 23
+General Fund Other Fund
+$-  $50  $100  $150  $200  $250
+Oregon Housing & Community Services Dept.
+Oregon Dept. of Human Services/Oregon Health Authority
+Oregon Dept. of Education
+Oregon Secretary of State September 2024
+Report 2024-26 page 18
+Other Expenditures
+Governmental funds also support the operations of other smaller agencies and programs that account for a
+smaller extent of the state’s total expenditures. In 2023, about $5.4 billion, or 12.4% of the state’s total
+expenditures were related to other expenditures including administration, liquor control costs, and
+operations of the Judicial and Lottery systems. See the appendix for expenditure details by program area
+and state agency.
+Chart 26: Fiscal Year 2023 Other State Expenditures by Program Area , adjusted for Inflation (in billions)
+Administration, $1.0 Lottery Operations,
+$0.8
+Liquor Control, $0.6
+Judicial, $0.6
+State Hospitals, $0.6
+Unemployment
+Compensation, $0.6
+Consumer and Business
+Services, $0.5
+Other,
+$0.7
+�5.4 billion
+Long-Term Debt
+Oregon Secretary of State September 2024
+Report 2024-26 page 19
+Long-Term Debt Structure
+The issuance of long-term debt allows the State to acquire major assets and finance large projects such as
+buildings, bridges and highways, prisons, technology upgrades, and infrastructure improvements. An
+increase in debt, however, limits the state’s ability to react to current economic conditions and unexpected
+or adverse events. When resources are committed to pay fixed amounts for debt service, the ability to
+maintain service levels becomes more difficult, especially when revenues decline.
+Chart 27: Long Term Debt, adjusted for inflation (in billions), FY ended June 30
+The Oregon Constitution and state statutes limit the total amount of debt the state may incur, but individual
+agencies may issue debt for specific programs pursuant to state law.
+Oregon’s outstanding debt falls into four broad categories:
+Revenue Bonds finance a variety of general government projects. Repayment is secured by a pledge of
+specific revenues, such as highway projects using highway user taxes as the repayment source. The
+amount of revenue bonds outstanding as of June 30, 2023, was $4.95 billion.
+General Obligation Bonds finance a variety of general government projects. These bonds are secured
+by a pledge of the full faith, credit, and taxing power of the state, and are limited to a percentage of the real
+market value of all taxable real property in the state. The amount of general obligation bonds outstanding
+as of June 30, 2023, was $7.1 billion, or 7.3% of the maximum allowed.
+DVA General Obligation Bonds issued by the Department of Veterans’ Affairs (DVA) finance housing
+loans for qualifying veterans. Veterans’ home loan repayments fund the debt service payments for these
+bonds, but other state funds are available if DVA is unable to repay the bonds. The amount of DVA general
+obligation bonds outstanding as of June 30, 2023, was $391 million.
+$0
+$2
+$4
+$6
+$8
+$10
+$12
+$14
+$16
+$18
+04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+Revenue Bonds DVA GO Debt Other GO Debt COPS
+Oregon Secretary of State September 2024
+Report 2024-26 page 20
+Certificates of Participation (COPS) are financing agreements used to purchase computer and
+telecommunications systems and other state facility projects. The amount of certificates of participation
+outstanding as of June 30, 2023, was $85.7 million.
+Debt Per Capita
+For 2023, the state’s bonded debt totaled $12.7 billion, or $2,953 per Oregonian. This was less than $3,000
+for the first time in more than ten years beginning in 2022. The estimated local government outstanding
+debt totaled $36.8 billion, or $8,563 per Oregonian. Additionally, outstanding U.S. government debt was
+$25.1 trillion, or $74,943 per person.
+2021 local debt increases were attributable to advance and current refunding activities and issuance of
+Pension Obligation Bonds
+. 2022 local debt was issued for a variety of purposes including pension,
+healthcare, transportation, public facilities, and education.2
+Chart 28: Debt Per Capita, adjusted for inflation, FY ended June 30
+Future Debt Service
+Expected future debt service payments are the amounts to be paid using General Fund monies and other
+tax revenues. The amounts in this section are not inflation adjusted. Other tax revenues include lottery
+revenue bond debt and highway user bond debt. As of June 30, 2023, the outstanding General Fund debt
+principal was $5.3 billion, and the outstanding other tax supported debt principal totaled $5 billion. The
+State expects to make approximately $14.2 billion in future debt payments (principal and interest) until the
+debt is satisfied in 2049, with a significant decrease in annual debt service payments beginning in 2028 due
+to the completed repayment of pension obligation bonds.
+2 Oregon Municipal Debt Advisory Commission 2022 Annual Report
+$0
+$1,500
+$3,000
+$4,500
+$6,000
+$7,500
+$9,000
+14 15 16 17 18 19 20 21 22 23
+State Debt Local Debt
+Oregon Secretary of State September 2024
+Report 2024-26 page 21
+Chart 29: Future Debt Service Payments 2024-2035 (in billions), FY ended June 30
+$0.0
+$0.2
+$0.4
+$0.6
+$0.8
+$1.0
+$1.2
+$1.4
+24 25 26 27 28 29 30 31 32 33 34 35
+General Fund Principal General Fund Interest Other Tax Principal Other Tax Interest
+Fiscal Health
+Oregon Secretary of State September 2024
+Report 2024-26 page 22
+Governmental Fund Balance
+Fund balance is the excess of assets over liabilities. Accounting standards require governments to report
+fund balance based upon constraints on the use of the resources reported in governmental funds. The five
+fund balance classifications are: nonspendable, restricted, committed, assigned, and unassigned. In
+general, nonspendable balances are “not in spendable” form, such as inventories. Restricted fund
+balances identify constraints imposed by state or federal law, the Oregon Constitution, or external parties
+such as creditors or grantors. Committed balances are constrained through the legislative process.
+Assigned balances reflect the state’s intent to use the funds for specific purposes. Unassigned balances
+are General Fund amounts not otherwise restricted, committed, or assigned.
+Chart 30: Governmental Fund Balance (in millions), June 30, 2023
+Oregon Rainy Day Fund
+The 2007 Legislature established the Oregon Rainy Day Fund through a transfer of excess corporate
+income taxes. Its purpose is to serve as a resource in times of economic downturns that significantly affect
+state government. State law requires General Fund transfers to the Oregon Rainy Day Fund when General
+Fund revenues exceed appropriations. For example, $128.6 million was transferred to the Oregon Rainy
+Day Fund in 2023.
+$7,770
+$531
+$3,396
+$70
+$3,005
+$4,200
+$3,167
+$1,174
+$313
+Unassigned
+Assigned
+Committed
+Donor Restricted
+Restricted - Debt Covenants
+Restricted - Legislation
+Restricted - Constitution
+Restricted - Federal
+Nonspendable
+$0 $2,000 $4,000 $6,000 $8,000
+Oregon Secretary of State September 2024
+Report 2024-26 page 23
+Chart 31: Oregon Rainy Day Fund, adjusted for inflation (in billions), FY ended June 30
+State Retirement Liabilities
+The State of Oregon provides pension and other retirement benefits to its employees, administered
+through the Public Employees Retirement System (PERS). PERS also administers pension plans for local
+governments, including cities, counties, and school districts. The following charts are limited to only the
+state’s share of the pension liabilities and are not intended to provide a comprehensive analysis of all plans
+administered by PERS. The PERS 2023 financial statements are located on the PERS website.
+The funded ratio is an analysis of resources to pay estimated pension obligations; however, the funded
+ratio is only one factor to consider when evaluating the health of a pension plan. Other factors include the
+size of the pension obligation relative to the sponsor, the financial health of the sponsor, the funding or
+contribution policy and whether contributions are made in accordance with policy, and investment strategy.
+As of December 31, 2022, the state’s funded ratio was 74%, down from 82% in 2021, resulting in an
+unfunded PERS liability of about $7.7 billion. According to the State Treasurer and PERS’ actuarial firm,
+2022 was a volatile investment market and not a great year for any pension system. As of June 30, 2023,
+actuaries estimated the average funded ratio of the 100 largest U.S. public pension plans was 76.8%.
+PERS’ actuarial firm estimates the funded status is projected to reach 100% in 2040 with a steady +6.9%
+return scenario.
+3  https://www.oregon.gov/pers/Pages/Financials/Actuarial-Financial-Information.aspx
+$1.4
+$0.0
+$0.2
+$0.4
+$0.6
+$0.8
+$1.0
+$1.2
+$1.4
+14 15 16 17 18 19 20 21 22 23
+Oregon Secretary of State September 2024
+Report 2024-26 page 24
+Chart 32: Funded Ratio: State Agencies, Calendar Year ended Dec 31
+To fund pension benefits, agencies make required contributions based on a percentage of employee
+payroll. The required contribution includes an actuarially determined employer rate, updated every two
+years by the PERS Board, and a member contribution rate of 6%, set by statute.
+Chart 33: State Agency Retirement Contribution Rates, percentage of payroll, B iennia ended June 30
+Adjusted for inflation, the state paid approximately $1.8 billion in retiree benefit payments in 2022 to 61,829
+retirees, down from $1.9 billion in 2021 to 60,697 retirees. About 70% of the 2022 monthly payments were
+for $3,000 or less, with the average monthly state service payment of $2,314. The average monthly
+payment in 2021 was $2,415.
+Fully Funded
+0%
+20%
+40%
+60%
+80%
+100%
+120%
+13 14 15 16 17 18 19 20 21 22
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+05-07 07-09 09-11 11-13 13-15 15-17 17-19 19-21 21-23 23-25
+$ 7.7 billion
+unfunded
+Oregon Secretary of State September 2024
+Report 2024-26 page 25
+Chart 34: State Service Retirement - Monthly Benefit Payments to Retirees, calendar year ended 2022
+(not adjusted for inflation)
+Employee Health Care Costs
+Although inflationary health care costs have declined since 2020, the average healthcare costs per
+employee have remained relatively steady over the last decade with an overall increase of 2.7%. In 2023,
+the state paid an average of $19,949 per employee. Oregon added over 1,400 new employees in 2021,
+which was an atypical year for employee growth rates. The Oregon Employment Department, for example,
+added over 450 positions due to increased demands for unemployment insurance during the pandemic.
+One result of more employees without significant increases in costs is a lowering of the average health care
+costs per employee.
+Chart 35: Average Annual Health Care Costs per State Employee, adjusted for inflation (in thousands),
+FY ended June 30
+Tax Expenditures
+Tax expenditures are federal or state laws that exempt certain persons, property, income, goods, or
+services from the impact of established taxes. These provisions primarily support specific activities or
+43,323
+13,552
+3,785
+1,169
+0 5,000 10,000 15,000 20,000 25,000 30,000 35,000 40,000 45,000
+$0-$3,000
+$3,001-$6,000
+$6,001-$9,000
+$9,001+
+$19.95
+$14
+$16
+$18
+$20
+$22
+14 15 16 17 18 19 20 21 22 23
+Oregon Secretary of State September 2024
+Report 2024-26 page 26
+assist specific groups of taxpayers. Thus, tax expenditures often accomplish the same goals as direct
+spending programs at the cost of reduced tax revenues.
+Chart 36: Selected Oregon Income Tax Expenditures, Tax Years 2012 -2021, adjusted for inflation (in billions)
+The Legislature, as the law-making and budget-setting branch of state government, decides how to
+balance tax expenditures with other policies. While the Legislature can define most tax expenditures, some
+are beyond its ability to change due to pre-existing laws and regulations. For example, Article IX, Section 9,
+of the Oregon Constitution prohibits the taxation of social security benefits. Many other tax expenditures
+are the result of the Legislature’s desire for Oregon’s income tax laws to align with federal income tax laws.
+The Governor issues a report outlining the estimated tax expenditures for the upcoming biennium pursuant
+to Oregon’s 1995 Budget Accountability Act. This Tax Expenditure Report helps legislators and
+Oregonians to understand the nature and estimated fiscal impact of tax expenditures. The complete tax
+expenditures report is available on the Department of Revenue website.
+4 https://www.oregon.gov/dor/gov-research/Pages/tax_expenditure_report.aspx
+$0.0
+$0.5
+$1.0
+$1.5
+$2.0
+$2.5
+12 13 14 15 16 17 18 19 20 21
+Tax Rates for Certain Pass Through Income Earned Income Credit & Working Family Child Care
+Other Credits and Subtractions Federal Income Tax Subtraction
+Social Security Benefits (Oregon) Personal Exemption
+Environmental
+Oregon Secretary of State September 2024
+Report 2024-26 page 27
+Population
+Oregon has an estimated population of 4,291,525 as of July 1, 2023. The state’s population has grown
+8.3% since July 1, 2014, but the growth rate has lessened since 2019.
+Chart 37: Oregon Population (in millions), July 1
+Age Demographics
+As Oregon’s population continues to age, more individuals are reaching retirement age and are eligible for
+Social Security and Medicare health care benefits. The expected average annual growth rate of the
+population over age 65 is 1.7% over the next decade. By 2033, roughly one in every five Oregonians will be
+over 65.
+There is also a slowdown in the number of people having children, which may result in a stagnant or
+slowing population. By 2033, it is expected that 17% of the population will be under the age of 18, which is a
+3% drop from the current rate of 20%.
+3.8
+3.9
+4.0
+4.1
+4.2
+4.3
+4.4
+14 15 16 17 18 19 20 21 22 23
+Oregon Secretary of State September 2024
+Report 2024-26 page 28
+Chart 38: Oregon Age Structure 2003-2033 (number of people in millions), July 1
+Poverty
+The poverty threshold is the federally determined level of income necessary to achieve a minimum
+standard of living. For example, in calendar year 2022, a family of four with a gross annual income of less
+than $29,950 (not inflation adjusted) would be considered living in poverty. People living in poverty drive
+demand for many state services such as health care, unemployment, and public assistance.
+Chart 39: Number of Oregonians in Poverty 2013-2022 (in thousands), December 31
+Twelve percent of the population in Oregon live in poverty, a decrease of 22% since 2013. For 2022,
+Washington County had the lowest poverty rate in the state at 7.6% and Malheur County had the highest at
+19.8%. In 2022, Oregon ranked 27th for people in poverty in the U.S., an improvement from its ranking of
+33rd in 2013.
+Unhoused Population
+Oregon has an unhoused population of approximately 20,142 individuals, an increase of approximately
+66% since 2014, with 2,617 of those individuals under the age of 18.
+03 08 13 18 23 28 33
+0-17 18-64 65+
+13 14 15 16 17 18 19 20 21 22
+Adults (Ages 18+) Children (Ages 0-17)
+Oregon Secretary of State September 2024
+Report 2024-26 page 29
+Compared to the percentage of population they comprise, houselessness is higher for non-White and non-
+Asian populations. Approximately 13,000 individuals were identified as unsheltered, or 65% of the
+unhoused population. The number of unsheltered houseless persons has increased 46% since 2020. Per
+a December 2022 U.S. Department of Housing and Urban Development report, Oregon had the highest
+rate of chronic homelessness in the nation with 44% of individuals experiencing homelessness showing
+patterns of chronic homelessness. Chronic homelessness means that someone has a disability and has
+been homeless for more than one year or has experienced homelessness multiple times over several
+years. They define disability as an individual having a condition that results in physical, mental, or
+emotional impairment, including impairments caused by substance abuse, and could be improved by more
+suitable housing conditions.
+In January 2023, Governor Kotek issued executive orders declaring a state of emergency due to
+homelessness in certain continuum of care regions and instructing state agencies to prioritize reducing
+both sheltered and unsheltered homelessness in all areas of the state, not just those in which an
+emergency has been declared.
+Chart 40: Unhoused Population, Point In Time January
+2021 Note : Due to the COVID pandemic, the January 2021 point in time count
+of unsheltered persons was not conducted in most regions nationwide, including Oregon.
+Sheltered safe haven housing represents less than 23 persons.
+The different types of shelters for the unhoused include:
+• Emergency Shelters, which are facilities with the primary purpose of providing temporary
+shelter;
+• Transitional Housing, which are facilities that provide shelter combined with supportive
+services for up to 24 months; and
+• Safe Havens, which are projects that provide temporary shelter and services to people
+experiencing severe mental illness; limited to no more than 25 people within a facility.
+Emergency
+Sheltered
+Homeless
+Transitionally
+Housed
+Homeless
+Unsheltered
+Homeless
+2,000
+4,000
+6,000
+8,000
+10,000
+12,000
+14,000
+14 15 16 17 18 19 20 21 22 23
+Oregon Secretary of State September 2024
+Report 2024-26 page 30
+Oregon Health Plan
+The Oregon Health Plan (plan) is a public/private partnership that provides access to basic health care for
+low-income Oregonians. Medicaid, the single largest state program, is the primary component of the plan.
+The increases beginning in 2020 occurred as more individuals qualified for the plan due to job loss and
+impacts from COVID. In 2023, nearly 33% of Oregon’s population was enrolled in the plan; this is an
+increase from 24.5% of the population in 2014.
+Chart 41: Oregon Health Plan Clients (in thousands), FY ended June 30
+Supplemental Nutrition Assistance Program
+In 2020, 15% of Oregon’s population participated in the Supplemental Nutrition Assistance Program
+(SNAP), formerly known as food stamps, relying partly on the government for supplemental assistance
+with purchasing basic groceries. In recent years, Oregon has typically ranked in the top five states in terms
+of percent of SNAP participants per capita.
+Chart 42: Supplemental Nutrition Assistance Program Average Number of Individuals (in thousands),
+FY ended June 30
+* At the time of this report’s finalization, data for fiscal years 2021-2023 were unavailable for reporting.
+1,414
+1,000
+1,250
+1,500
+14 15 16 17 18 19 20 21 22 23
+* See note
+1,000
+14 15 16 17 18 19 20 21 22 23
+Oregon Secretary of State September 2024
+Report 2024-26 page 31
+Percent Unemployed
+The unemployment rate measures those without employment actively seeking employment. Oregon's
+calendar year 2020 unemployment rate spiked due to COVID but has since returned to near pre-pandemic
+levels. Oregon's rate in 2022 and 2023 was 4%; with U.S. rates at 3.5% and 3.7%. Oregon is tied with two
+other states at 35th for low unemployment, worsening from a ranking of 21st in 2019.
+Chart 43: Percent of Labor Force Unemployment Rate (seasonally adjusted), Calendar Year ended Dec. 31
+Within Oregon, Wheeler and Hood River counties have the lowest unemployment rates at 2.7% and 3.0%,
+respectively, while Crook and Lake counties have the highest rates of 5.7% and 5.0%, respectively.
+In 2022 the U.S. Census Bureau estimated unemployment rates are higher for those with less education
+and non-White and non-Asian demographics.
+Oregon Businesses
+One measure of economic strength is the number of businesses in the state. Businesses provide goods
+and services for consumers and provide jobs and benefits for employees. Oregon business registrations
+peaked in 2022. The number of Oregon businesses increased 31.9% in the last ten years, and 10.1% since
+2020.
+0.0
+2.0
+4.0
+6.0
+8.0
+10.0
+12.0
+Oregon US
+Oregon Secretary of State September 2024
+Report 2024-26 page 32
+Chart 44: Number of Businesses Registered in Oregon (in thousands), FY ended June 30
+Per Capita Personal Income
+Oregon’s per capita personal income (PCPI) continues to follow national trends in recent years but remains
+below the national average. In 2023, Oregon’s PCPI was about 95% of the national average at $65,426,
+making Oregon 22nd among states. The gap has steadily improved since 2014, when Oregon’s PCPI was
+90% of the national average. A 2022 report issued by the Oregon Employment Department stated the
+COVID pandemic impacted PCPI as many people lost their jobs and the pandemic drastically slowed the
+economy, however, the significant increase and peak seen in 2021 is primarily due to COVID federal
+stimulus funding, and increased unemployment insurance benefits.
+Chart 45: Per Capita Personal Income, adjusted for inflation (in thousands), FY ended June 30
+Violent Crime Rate
+Oregon’s crime rate affects public safety expenditures, such as prisons and state police. The Federal
+Bureau of Investigation’s (FBI) Uniform Crime Reporting Program defines violent crimes as those offenses
+involving force or threat of force. Violent crime is composed of four offenses: murder, rape, robbery, and
+aggravated assault. Oregon has historically had a lower violent crime rate than the nation, however, the
+disparity significantly lessened in calendar years 2021 and 2022. Oregon’s violent crime rate has increased
+20% since 2019 while the U.S. increase was 0.3%. In 2022, Oregon ranked 25
+th in violent crimes, up from
+36th in 2019.
+14 15 16 17 18 19 20 21 22 23
+$55
+$60
+$65
+$70
+$75
+14 15 16 17 18 19 20 21 22 23
+United States Oregon
+Oregon Secretary of State September 2024
+Report 2024-26 page 33
+Chart 46: Violent Crime Rate per 1,000 Residents, Calendar Year basis
+Property Crime Rate
+In the FBI’s Uniform Crime Reporting Program, property crime is composed of four offenses: burglary,
+larceny-theft, motor vehicle theft, and arson. The object of the theft-type offense is the taking of money or
+property, but there is no force or threat of force against the victims. Historically, Oregon has had a higher
+property crime rate than the nation, but the disparity is increasing. Oregon's property crime rate increased
+7% since calendar year 2019 while the U.S. property crime rate decreased 7%. In 2022, Oregon ranked 4
+th
+in property crimes.
+Chart 47: Property Crime Rate per 1,000 Residents, Calendar Year basis
+13 14 15 16 17 18 19 20 21 22
+Oregon United States
+13 14 15 16 17 18 19 20 21 22
+Oregon United States
+2023 Significant Factors
+Oregon Secretary of State September 2024
+Report 2024-26 page 34
+COVID Pandemic
+In January 2020, the COVID pandemic began. The pandemic was declared a United States national
+emergency in March 2020 and had major impacts on the day-to-day lives of Oregonians. The COVID
+national emergency was in effect until legislation was signed into law on April 10, 2023, declaring an end to
+the national emergency.
+During the COVID pandemic, the federal and state governments implemented various actions and
+procedures to mitigate the impacts of COVID and address economic slowdown. In total, 42 Oregon
+executive orders were signed into effect which included declaring a state emergency, sanitization and
+distancing practices to follow federal guidelines, and the ending of the state emergency. The state
+government was also responsible for administering the emergency pandemic funding received from the
+federal government. During the approximately three years, Oregon received and expended $15.7 billion in
+federal pandemic funds with $13.2 billion (84%) being direct expenditures by state agencies and $2.5
+billion (16%) in funds passed-through to local governments.
+The majority of COVID funds received were expended by three state agencies: the Oregon Employment
+Department expended $5 billion (32%); the Oregon Department of Human Services expended $4.1 billion
+(26%); and the Oregon Health Authority expended $2.3 billion (14%).
+Chart 48: Total COVID Expenditures by Agency (in billions), Fiscal Years ended June 30, 2021-2023
+The majority of COVID expenditures related to four programs: Unemployment Insurance (32%), Medicaid
+(14%), SNAP (12%), and Coronavirus State and Local Fiscal Recovery Funds (10%).
+$0 $1 $2 $3 $4 $5
+Employment Department
+Oregon Department of Human Services
+Oregon Health Authority
+Department of Education
+Department of Corrections
+Housing and Community Services Department
+Other Agencies
+Direct Expenditures
+Pass Thru Amount
+Oregon Secretary of State September 2024
+Report 2024-26 page 35
+Chart 49: Total COVID Expenditures by Federal Program (in billions), FY end June 30 2021-2023
+Weather-Related Emergencies
+Weather-related emergencies in the state, consisting of fire, heat, drought, and storm, have increased
+during the last 20 years. The number of fire-related executive orders issued by the Governor averaged 2.5
+per year from calendar year 2004 through 2013, then rose to an average of 7.9 per year from 2014 to 2023.
+Chart 50: Number of Weather-Related Executive Orders, Calendar Year
+Wildfires
+The Oregon Department of Forestry (ODF) fire program protects 16 million acres of public and private
+forestland, about one-half of the state’s total forest acreage. Most of the lands protected by the agency are
+working forests that produce revenue and support jobs. ODF’s firefighting policy is to prevent fire damage
+to the timber resource and to safeguard fish and wildlife habitats. Additionally, the Governor can authorize
+the state to assist in the protection of land that is outside the state’s responsibility through the Emergency
+Conflagration Act in response to fire, a heightened danger of fire, or a significant reduction in available
+firefighting resources.
+Although the number of fires increased in both calendar years 2021 and 2023 since the historic Labor Day
+fires of 2020, the acreage burned each year has decreased.
+5.0
+2.2
+1.8
+1.6
+1.3
+1.0
+0.7
+2.1
+$0 $1 $2 $3 $4 $5
+Unemployment Insurance
+Medicaid Cluster
+SNAP Cluster
+Coronavirus State and Local Fiscal Recovery Funds
+Coronavirus Relief Fund
+Education Stabilization Fund
+Pandemic EBT Food Benefits
+Other 2021
+2022
+2023
+Oregon Secretary of State September 2024
+Report 2024-26 page 36
+Chart 51: Acres Burned, ODF vs. Non-ODF Acres (in thousands), Calendar Year
+Firefighting costs for large fires are covered through a combination of the state General Fund, federal
+funds, and public and private landowner funds. In 2023, the Oregon Department of Forestry did not renew
+its catastrophic wildfire insurance policy it held with Lloyd’s of London for 50 years due to increased
+premiums and deductibles. Per the department, the premium amount was higher than what the department
+had paid for past firefighting costs. The Federal Emergency Management Agency (FEMA) reimburses the
+state for qualified fires through a Fire Management Assistance Grant. Qualified fires are those that have
+significant potential to destroy homes and businesses, or to displace or risk lives.
+Firefighting expenditures were $1.5 million in 2023 compared to $127.5 million in 2021, which were the
+result of wildfires in fall of 2020. FEMA reimbursements can lag behind fire expenditures for several years.
+Chart 52: FEMA Firefighting Expenditures and Reimbursements (in millions), FY ended June 30
+Other Disaster Expenditures
+The objective of Disaster Grants - Public Assistance (Presidentially Declared Disasters), another federal
+program, is to assist states in responding to and recovering from the devastating effects of disasters by
+providing assistance for debris removal, emergency protective measures, and the repair, restoration,
+reconstruction or replacement of public and eligible private non-profit facilities or infrastructure damaged or
+destroyed as the result of Presidentially-declared major disasters or emergencies.
+Number of ﬁres
+1,091 1,111
+1,020
+1,134
+884 1,012
+1,000
+17 18 19 20 21 22 23
+ODF Acres Non-ODF Acres
+$0
+$20
+$40
+$60
+$80
+$100
+$120
+$140
+17 18 19 20 21 22 23
+Expenditures FEMA Reimbursements
+Oregon Secretary of State September 2024
+Report 2024-26 page 37
+In 2021, 2022, and 2023, Oregon expended and passed-through a total of $408 million, $121 million, and
+$499 million, respectively, in Disaster Grants.
+Chart 53: Disaster Grant Expenditures by Agency, Fiscal Years 2021 -2023 ended June 305
+Another $7.9 million was expended in total those same years to reduce the risk of future damage in areas
+already affected by a major disaster, through the Hazardous Mitigation Grant, which provides funding
+support to states to reduce the risk of future damage, loss of life and property in any area affected by a
+major disaster.
+Opioid Use
+Like the rest of the nation, Oregon is experiencing an opioid crisis, involving misuse, abuse, overdose and
+death. Opioids include prescription painkillers such as oxycodone and morphine, as well as heroin and
+illicitly manufactured fentanyl.
+As part of a strategic plan to reduce addiction and alleviate its impacts, former Governor Brown issued an
+executive order in March 2018, tasking nine state agencies to work with the Alcohol and Drug Policy
+Commission to create a Statewide Addiction Prevention, Treatment, and Recovery Plan.
+As of calendar year 2021, Oregon continued to rank high nationally in rates of substance use disorders and
+low in access to treatment.6 Oregon’s opioid overdose death rate is rapidly growing compared to the nation
+as a whole. Oregon’s rate of increase was 58% in 2021 and 27% in 2022, compared to the U.S. rate of
+increase of 17% and 2%, respectively. In 2015 one in 12,196 persons died from opioid overdose,
+compared to one in 3,393 in 2023.
+5 2021 House Bill 2927 established the Oregon Department of Emergency Management as an independent agency breaking out from
+the Oregon Military Department.
+6 Oregon Health Authority and Oversight and Accountability Office: Funding and Delivery of Measure 110 Substance use Disorder
+Services Show Progress, but Significant Risks Remain, Secretary of State Audits Division, December 2023
+Oregon Departments
+of Military and
+Emergency
+Management
+27%
+Oregon Health Authority
+23%Oregon Department of Human
+Services
+15%
+Department of
+Administrative Services
+14%
+Oregon Department of
+Transportation
+11%
+Other
+10%
+Oregon Secretary of State September 2024
+Report 2024-26 page 38
+Chart 54: Opioid overdose deaths in Oregon as of December 3 1
+Chart 55: 20177 Costs of Opioid Overdose and Use Disorder in Oregon, Adjusted for inflation
+Oregon’s Ballot Measure 110, the Drug Addiction Treatment and Recovery Act, became effective February
+1, 2021. It was the first national program decriminalizing drug possession and allocated over $100 million
+per year in cannabis revenue to expand treatment services. It is unclear whether policy makers and the
+public will be able to gauge the impact of the measure.8 Per an April 2024 report commissioned by the
+Oregon Health Authority, the total cost for meeting identified gaps in substance use disorder services and
+supports in Oregon is estimated at $6.85 billion per year. On April 1, 2024, House Bill 4002 passed and
+rolled back key provisions of Measure 110, recriminalizing drug possession, but also expanding funding for
+substance abuse treatment.
+Aging Systems and Workforce
+Systems
+Oregon relies on some outdated legacy systems for critical functions. The Statewide Financial
+Management Application, R*STARS, the Relational Statewide Accounting and Reporting System, is the
+7 Florence C, Luo F, Rice K. The economic burden of opioid use disorder and fatal opioid overdose in the United States, 2017
+8 Oregon Health Authority: Too Early to Tell: The Challenging Implementation of Measure 110 Has Increased Risks, but the
+Effectiveness of the Program has Yet to Be Determined, Secretary of State Audits Division, December 2023
+328 306 344 346 326
+1,340
+1,000
+1,200
+1,400
+2015 2016 2017 2018 2019 2020 2021 2022 2023
+2023
+Cases Cost (millions) Per capita cost Cases
+Fatal opioid overdose 344 10,403$             2,511$              1,340
+Opioid use disorder 37,000 5,049$               1,219$
+15,452$             3,730$
+2017
+Oregon Secretary of State September 2024
+Report 2024-26 page 39
+primary accounting application for the State of Oregon and is 29 years old. It is considered the book of
+record for financial reporting and becomes the basis for the amounts shown in the Annual Comprehensive
+Financial Report. The Oregon Department of Transportation (ODOT) implemented TEAMS in the 1990s, a
+subsidiary system that tracks payments, billings, and receipts before interfacing data to R*STARS. ODOT
+has several other systems that interface to TEAMS.
+Outdated legacy systems may lack capacity for current data volumes, may no longer suit current business
+needs, and may be difficult to integrate with newer systems that are being implemented. Legacy systems
+also risk losing support from their original vendors, lack access to necessary updates, and can be
+challenging for staff unfamiliar with the programming code. Furthermore, out-of-market hardware systems
+may not provide adequate security for the latest vulnerabilities, increasing their susceptibility to common
+cyber threats.
+Workforce
+The percentage of overall employees eligible for retirement has remained steady since 2020. In 2023, over
+14,000 (27%) of the state's active employees were eligible for retirement. Of those eligible for retirement,
+about 5,800 are enrolled in Tier 1 and Tier 2 pension plans which were closed to new entrants on January
+1, 1996, and August 28, 2023, respectively. As a result, Tier 1 and Tier 2 participants have become eligible
+for retirement at an increased rate since 2020 and contributed to the steady increase in total retirees. When
+an agency faces retirements or turnover there is a risk the agency loses critical knowledge and skills
+necessary for the agency’s success. It takes valuable time and resources to recruit, hire, and train for
+positions. To ensure the success and continuation of operations and service levels, state agencies should
+engage in succession planning and encourage knowledge transfer among existing staff.
+Chart 56: Number of Retirees From State Service, FY ended June 30
+40,000
+45,000
+50,000
+55,000
+60,000
+65,000
+70,000
+13 14 15 16 17 18 19 20 21 22
+Appendix: Oregon Expenditures by Program Area and State Agency
+not adjusted for inflation
+Oregon Secretary of State      September 2024
+Report 2024-26      page 40
+2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Chief Education Office4               2,381,231              18,123,218                3,585,915                4,160,245                 1,913,201
+2,869,605
+(99)                                  -                                     -                                     -
+Higher Education
+Coordinating
+Commission               1,620,737                3,420,841        1,057,704,449        1,095,955,804         1,214,856,431
+1,187,523,712
+1,423,871,182
+1,263,304,632
+1,501,630,777
+1,524,212,083
+Oregon Student Access
+Commission            65,597,267              67,942,412                  (369,191)                              -                                 -                                     -                                     -                                     -                                     -                                     -
+Department of
+Education       4,077,959,368        4,388,400,994        4,571,698,837        4,722,392,027        5,148,109,407
+5,285,662,650
+5,591,143,536
+6,423,060,919
+7,156,176,394
+7,419,073,970
+Teacher Standards &
+Practices
+Commission               2,377,376                2,582,331                3,177,438                3,417,280                3,317,914
+3,348,190
+3,497,778
+4,977,351
+6,735,746
+8,093,896
+Community Colleges &
+Workforce
+Development          349,729,652            261,269,192              15,265,331                               -                                 -                                     -                                     -                                     -                                     -                                     -
+Oregon University
+System       2,566,484,000           334,943,000                               -                                 -                                 -                                     -                                     -                                     -                                     -                                     -
+Education Total
+7,066,149,631
+5,076,681,987
+5,651,062,779
+5,825,925,356
+6,368,196,953
+6,479,404,157
+7,018,512,398
+7,691,342,901
+8,664,542,917
+8,951,379,949
+Department of Human
+Services       4,424,369,756        4,699,810,770        4,966,442,591        5,098,817,160         5,217,100,155
+5,457,587,480
+6,134,236,012
+7,179,040,935
+8,976,966,029
+9,321,811,038
+Long Term Care
+Ombudsman               1,488,455                1,695,144                2,586,841                3,120,550                3,066,948
+3,760,924
+4,034,613
+4,487,662
+5,241,269
+6,240,034
+Psychiatric Security
+Review Board               1,076,936                 1,119,413                1,230,104                1,475,477                1,339,570
+1,520,358
+1,555,177
+1,524,387
+1,694,339
+2,083,425
+Oregon Health
+Authority       6,655,470,892        8,218,683,330        8,715,629,335        8,696,037,875        9,058,159,448
+9,642,807,473
+10,502,704,973
+11,723,009,007
+13,061,336,982
+15,125,340,388
+Commission for the
+Blind               8,031,352                8,006,035                8,508,364              10,557,455              10,579,162
+10,868,692
+12,209,846
+11,856,878
+11,620,768
+12,557,636
+Human Services Total
+11,090,437,391
+12,929,314,691
+13,694,397,236
+13,810,008,518
+14,290,245,284
+15,116,544,926
+16,654,740,621
+18,919,918,869
+22,056,859,388
+24,468,032,521
+Department of Justice           215,331,259           222,477,424           282,236,828           275,772,782           290,703,768
+269,800,933
+322,993,432
+345,203,194
+382,416,502
+514,018,629
+Appendix: Oregon Expenditures by Program Area and State Agency
+not adjusted for inflation
+Oregon Secretary of State      September 2024
+Report 2024-26      page 41
+District Attorneys and
+their Deputies               5,293,070                5,623,530                5,959,513                6,032,223                6,385,608
+6,856,171
+6,571,000
+7,236,183
+7,599,657
+7,735,459
+Oregon Criminal
+Justice Commission             23,510,631                8,491,938             28,387,534              30,702,716              35,376,176
+37,741,801
+36,525,007
+49,196,080
+44,833,990
+89,768,407
+Military Department          140,344,795           128,023,076            115,047,885           159,643,769           147,333,804
+132,398,798
+170,589,708
+611,013,468
+247,952,208
+96,855,826
+State Board of Parole
+and Post Prison
+Supervision               2,004,623                2,113,098                2,780,013                3,776,537                4,033,326
+4,404,525
+5,049,328
+4,210,836
+4,943,028
+5,550,630
+Department of State
+Police          167,558,374            174,961,634           198,975,385           198,363,099           223,662,527
+236,536,110
+248,233,586
+279,880,795
+315,386,906
+371,905,545
+Department of
+Emergency
+Management5 - - - - - - - - -
+302,441,366
+Department of Public
+Safety Standards
+Training             18,786,119              21,431,558             25,878,985              26,012,586             29,487,479
+31,761,811
+30,128,862
+29,775,914
+30,167,865
+36,614,473
+Department of
+Corrections          747,886,443           749,221,836            800,121,631           815,786,500           868,701,995
+897,758,843
+968,759,505
+1,005,515,523
+1,052,866,189
+1,082,312,034
+Oregon Youth Authority          150,265,560           152,077,639            158,553,166            163,195,741            167,170,831
+171,314,461
+179,323,017
+181,673,530
+188,137,052
+193,303,222
+Public Safety Total
+1,470,980,875
+1,464,421,732
+1,617,940,940
+1,679,285,952
+1,772,855,514
+1,788,573,453
+1,968,173,446
+2,513,705,523
+2,274,303,398
+2,700,505,592
+Business Oregon             90,519,961              95,951,211             99,304,806            121,316,618            162,520,148
+200,111,511
+223,220,389
+430,173,541
+216,817,525
+304,549,896
+Oregon Department of
+Veterans' Affairs             40,374,181              49,014,487             64,657,724             72,087,935              81,071,848
+79,733,896
+84,594,698
+81,178,664
+84,294,438
+102,301,419
+Employment
+Department          973,798,408           708,225,743           678,274,757           674,229,641           671,733,993
+681,991,650
+4,148,309,561
+5,984,980,712
+1,608,366,720
+816,874,554
+Housing & Community
+Services Department          222,652,456            219,451,998           239,362,052           245,554,059           251,922,890
+284,889,990
+305,063,550
+639,254,502
+964,014,409
+767,070,527
+Oregon State Lottery          500,963,009           526,946,242           600,010,390           589,576,034           616,000,884
+644,486,752
+595,251,591
+667,913,940
+711,624,161
+772,721,080
+Economic and
+Community
+Development Total
+1,828,308,015
+1,599,589,682
+1,681,609,729
+1,702,764,286
+1,783,249,763
+1,891,213,798
+5,356,439,790
+7,803,501,359
+3,585,117,252
+2,763,517,477
+Appendix: Oregon Expenditures by Program Area and State Agency
+not adjusted for inflation
+Oregon Secretary of State      September 2024
+Report 2024-26      page 42
+Department of State
+Lands             23,418,078              24,917,287             25,240,500             25,426,006              36,303,711
+42,594,546
+22,183,218
+35,539,598
+30,210,048
+33,947,010
+Oregon State Marine
+Board             12,393,581              16,922,197              13,675,010              16,636,629              14,397,289
+16,411,004
+13,332,583
+18,766,583
+13,057,613
+20,166,180
+Oregon Department of
+Energy            23,766,536             26,564,385              21,659,299             22,492,997              19,755,665
+18,550,588
+18,911,742
+20,037,544
+20,136,578
+33,296,625
+Department of
+Environmental
+Quality            86,495,836              95,341,695              95,551,769            103,691,408           100,488,525
+120,688,965
+131,712,168
+159,386,402
+159,390,144
+196,369,604
+Columbia River Gorge
+Commission                  427,472                   461,579                   446,512                   469,251                   476,319
+515,593
+546,796
+578,886
+640,674
+736,300
+Oregon Department of
+Agriculture             43,573,717              45,500,571             49,204,836               51,121,561             53,545,935
+55,765,081
+59,025,546
+57,821,344
+82,045,476
+73,916,345
+Oregon Forest
+Resources Institute               3,734,086                3,870,971                4,172,094                4,206,238                4,101,673
+4,092,929
+3,837,329
+2,657,549
+3,638,572
+4,040,926
+Department of Forestry          185,743,692            181,081,293           193,026,253           158,702,725            190,553,019
+256,625,314
+202,287,830
+329,434,083
+356,648,439
+249,306,208
+Department of Geology
+& Mineral Industry               6,458,609                9,635,344                9,045,406                6,533,962                7,746,413
+7,070,758
+6,101,932
+7,838,548
+6,967,093
+9,532,040
+Parks and Recreation
+Department            87,493,442             93,098,026              83,240,184             98,855,445             94,633,462
+103,981,149
+101,012,495
+90,167,863
+98,917,747
+125,753,673
+Oregon Department of
+Fish & Wildlife          142,964,483            147,208,816           145,873,040           156,386,687             161,142,114
+165,266,175
+165,236,949
+170,376,982
+175,295,070
+203,812,482
+Department of Land
+Conservation &
+Development               8,020,075                9,981,742                 8,317,511                9,565,295                7,821,949
+12,381,309
+9,943,611
+13,782,240
+12,519,762
+19,830,533
+Land Use Board of
+Appeals                  792,281                   856,298                   915,082                   931,726                1,000,834
+973,327
+1,038,852
+1,147,315
+1,209,436
+1,396,314
+Water Resources
+Department             16,215,802              19,043,178              20,412,688              23,143,073             28,635,769
+26,742,659
+40,546,542
+30,757,627
+38,502,146
+67,328,417
+Oregon Watershed
+Enhancement Board            38,267,939              35,381,892               41,141,201             45,038,690              43,541,462
+46,678,220
+55,770,702
+53,546,864
+40,788,015
+68,253,433
+Natural Resources
+Total
+679,765,629
+709,865,273
+711,921,386
+723,201,692
+764,144,142
+878,337,618
+831,488,296
+991,839,428
+1,039,966,813
+1,107,686,091
+Department of Aviation               5,276,643                5,120,346                5,837,991                6,512,078                8,637,979
+8,799,018
+9,683,785
+8,353,426
+7,632,805
+10,334,961
+Appendix: Oregon Expenditures by Program Area and State Agency
+not adjusted for inflation
+Oregon Secretary of State      September 2024
+Report 2024-26      page 43
+Department of
+Transportation       1,336,185,306        1,197,282,929        1,238,945,548        1,352,053,784        1,304,315,606
+1,435,344,912
+1,516,186,187
+1,764,128,242
+1,998,017,390
+1,722,171,857
+Transportation Total
+1,341,461,949
+1,202,403,275
+1,244,783,538
+1,358,565,863
+1,312,953,585
+1,444,143,930
+1,525,869,972
+1,772,481,668
+2,005,650,195
+1,732,506,818
+Mental Health
+Regulatory Agency2                              -                                 -                                 -                                 -                  1,428,007
+1,761,290
+1,869,133
+2,082,132
+2,221,118
+2,732,072
+Board of Licensed
+Professional
+Counselors &
+Therapists2                  472,603                    516,102                   644,654                   674,297                               -                                     -                                     -                                     -                                     -                                     -
+State Board of Tax
+Practitioners                  546,236                   533,631                   602,976                   512,956                   529,286
+437,329
+430,409
+515,312
+579,703
+640,276
+State Board of
+Accountancy               1,144,836                1,168,638                 1,114,850                1,159,860                 1,151,440
+1,180,163
+1,263,344
+1,307,147
+1,091,238
+1,169,054
+State Board of
+Psychologists
+Examiners2                  516,955                   531,006                   648,667                   613,558                               -                                     -                                     -                                     -                                     -                                     -
+State Board of Licensed
+Social Workers                   597,191                   658,345                   692,594                   718,439                   780,627
+866,740
+969,951
+1,011,946
+1,100,025
+1,161,876
+Department of
+Consumer &
+Business Services3           200,571,691            190,112,140           207,538,583            210,546,721           195,324,259
+209,106,901
+727,740,511
+518,645,062
+480,533,043
+674,079,115
+State Board of
+Chiropractic
+Examiners                  751,760                   705,714                   795,478                   877,769                1,052,246
+924,966
+881,408
+787,858
+870,439
+1,086,824
+Oregon Health
+Licensing Agency6               3,618,705                  (106,215)                              -                                 -                                 -                                     -                                     -                                     -                                     -                                     -
+Health Related
+Licensing Boards               2,166,492                2,247,289                2,340,031                2,562,587                3,010,120
+2,934,341
+3,673,069
+3,518,761
+3,934,126
+4,152,072
+Board of Dentistry                1,313,857                1,346,039                1,380,272                1,469,712                1,478,009
+1,521,009
+1,583,705
+1,627,538
+1,747,029
+1,961,616
+Bureau of Labor and
+Industries             10,930,377              11,994,990              11,701,520              12,809,502              12,588,195
+13,402,077
+13,716,931
+16,348,012
+17,355,648
+35,969,865
+Oregon Medical Board               4,933,583                4,798,897                5,173,655                5,104,893                5,523,524
+5,936,661
+6,252,065
+6,910,053
+7,191,676
+7,999,596
+Board of Nursing               6,583,483                6,947,295                7,513,440                7,880,622                8,086,215
+8,535,952
+9,311,821
+10,046,455
+10,960,588
+11,111,516
+State Board of
+Pharmacy               2,570,414                3,052,531                3,055,459                3,261,800                3,445,004
+3,528,579
+4,058,029
+4,011,989
+4,374,808
+4,692,088
+Appendix: Oregon Expenditures by Program Area and State Agency
+not adjusted for inflation
+Oregon Secretary of State      September 2024
+Report 2024-26      page 44
+Public Utility
+Commission             60,108,856             59,702,358             55,206,255              51,628,803              51,850,963
+51,497,022
+50,643,962
+51,500,124
+51,190,203
+53,864,863
+Construction
+Contractors Board               6,612,310                6,347,075                6,426,351                6,791,268                6,379,967
+7,515,941
+8,127,126
+8,165,033
+8,492,576
+9,049,818
+Real Estate Agency               3,176,033                3,544,553                3,312,991                3,529,201                3,777,699
+3,689,199
+5,319,095
+6,615,735
+7,054,059
+5,596,840
+Consumer and
+Business Services
+Total
+306,615,380
+294,100,389
+308,147,775
+310,141,988
+296,405,561
+312,838,169
+835,840,562
+633,093,159
+598,696,278
+815,267,491
+Department of
+Administrative
+Services          491,832,768           800,847,779        1,282,744,192           826,415,874           606,897,501
+682,235,935
+1,029,552,035
+1,623,649,796
+901,160,696
+999,990,092
+Employment Relations
+Board               1,966,345                1,976,809                2,115,962                2,143,976                2,292,253
+2,422,240
+2,571,285
+2,705,883
+2,854,013
+2,910,917
+Office of the Governor                8,781,121                8,983,611                8,722,991                8,685,488              12,630,231
+10,401,554
+12,188,270
+11,865,277
+12,480,832
+12,361,835
+Oregon Advocacy
+Commissions Office                  189,595                   240,838                   297,155                   331,495                   304,105
+403,308
+300,763
+355,234
+592,628
+1,129,700
+Department of
+Revenue3             91,363,171            110,707,689            100,851,923            141,149,361            139,131,572
+156,640,914
+587,950,617
+602,019,999
+805,254,880
+713,171,274
+Secretary of State             26,387,812             30,007,598              33,317,980              33,419,538             36,340,657
+38,342,392
+42,883,555
+46,398,955
+48,421,221
+53,826,324
+Oregon State Treasury             21,397,221             22,896,672              29,314,901             30,739,487             34,585,543
+39,977,253
+42,774,914
+46,391,168
+50,474,894
+56,180,066
+Oregon Facilities
+Authority                  204,656                   237,775                   277,541                   324,495                   297,413
+219,899
+232,270
+244,870
+195,191
+309,081
+Oregon Government
+Ethics Commission                  918,540                1,076,765                1,236,946                1,249,855                1,243,843
+1,325,828
+1,407,614
+1,421,319
+1,405,623
+1,612,299
+Oregon Public
+Employees
+Retirement System1       4,590,438,649        4,700,710,394        4,990,121,863        5,138,220,721        5,604,638,747
+5,646,995,528
+5,996,214,349
+6,142,372,186
+6,551,544,784
+6,707,405,769
+Oregon State Library               6,690,677                 6,511,071                6,907,249                8,210,690                7,432,842
+8,012,945
+6,891,303
+8,084,420
+9,883,698
+9,444,162
+Oregon Liquor Control
+Commission          385,255,945           404,347,404           427,625,200           453,471,369           478,153,278
+508,431,761
+563,223,825
+607,743,225
+655,029,552
+671,299,009
+Oregon Racing
+Commission               2,747,883                2,396,591                2,825,259                3,063,905                3,002,340
+3,130,694
+2,171,159
+3,757,926
+3,339,859
+3,809,903
+Appendix: Oregon Expenditures by Program Area and State Agency
+not adjusted for inflation
+Oregon Secretary of State      September 2024
+Report 2024-26      page 45
+Central Agency/State
+General Fund             10,166,109                1,391,759                1,759,931                4,281,236                5,462,095
+934,797                                   -                                     -                                     -                                     -
+Administration Total
+5,638,340,493
+6,092,332,754
+6,888,119,092
+6,651,707,490
+6,932,412,419
+7,099,475,049
+8,288,361,961
+9,097,010,257
+9,042,637,871
+9,233,450,430
+Office of the Legislative
+Counsel               4,800,477                6,086,962                5,558,239                6,148,870                5,956,105
+7,186,094
+7,722,118
+9,011,933
+8,572,004
+10,042,619
+Legislative Policy &
+Research
+Committee7 - - - -               3,973,176
+4,917,875
+4,505,804
+6,616,816
+6,755,432
+9,197,882
+Legislative Revenue
+Officer               1,156,757                1,437,078                1,397,672                1,363,473                1,306,424
+1,427,935
+1,344,271
+1,713,402
+1,687,999
+1,704,716
+Legislative Fiscal
+Officer               2,961,250                3,385,923                3,504,400                3,752,938                4,011,468
+4,388,657
+4,717,798
+5,248,101
+5,119,164
+5,628,681
+Legislative Assembly             17,170,132              19,110,903              17,852,634              21,141,424              18,826,856
+24,777,367
+22,913,375
+29,820,411
+28,156,959
+32,599,037
+Legislative
+Administration
+Committee             16,886,034              18,038,811              10,703,439              17,735,986              19,255,727
+32,698,891
+61,940,767
+39,110,502
+26,338,199
+28,694,465
+Commission on Indian
+Services                   180,231                   215,249                   223,927                   199,487                   308,415
+202,425
+387,133
+245,460
+384,032
+530,793
+Legislative Total
+43,154,881
+48,274,926
+39,240,311
+50,342,178
+53,638,171
+75,599,243
+103,531,265
+91,766,626
+77,013,789
+88,398,192
+Commission on Judicial
+Fitness                    88,764                    112,538                   276,561                   134,406                    144,111
+131,344
+136,511
+117,461
+161,912
+137,834
+Judicial Department3          204,704,938           228,398,956           257,007,848           258,901,373           282,203,379
+322,432,409
+367,139,457
+315,310,546
+368,874,384
+402,921,636
+Office of Public Defense
+Services          130,667,820           128,782,935            141,893,541            145,587,215           154,862,235
+159,699,231
+175,846,753
+192,899,222
+204,470,626
+243,312,124
+Judicial
+335,461,522
+357,294,429
+399,177,950
+404,622,994
+437,209,725
+482,262,984
+543,122,722
+508,327,230
+573,506,922
+646,371,594
+Total Expenditures
+29,800,675,767
+29,774,279,139
+32,236,400,737
+32,516,566,318
+34,011,311,116
+35,568,393,328
+43,126,081,031
+50,022,987,021
+49,918,294,823
+52,507,116,155
+1The Public Employees Retirement System (PERS) expenditures include distributions on non-state resources held in an agent capacity for local governments as PERS includes pensions for both state and non-state employees and
+retirees.
+Appendix: Oregon Expenditures by Program Area and State Agency
+not adjusted for inflation
+Oregon Secretary of State      September 2024
+Report 2024-26      page 46
+2 The Mental Health Regulatory Agency was formed on May 8, 2017, pursuant to ORS 675.160 through .178. It provides administrative and regulatory oversight to the State Board of Psychologists Examiners and the Board of Licensed
+Professional Counselors and Therapists.
+3 Implementation of Governmental Accounting Standards Board Statement No. 84, Fiduciary Activities in fiscal year 2020 included new requirements to report inflows and outflows related to activities where the State is holding assets on
+the behalf of others. This resulted in increased expenditures in various agencies.
+4 Chief Education Office legislatively sunset as of June 30, 2019, and all functions transferred to other state agencies per Oregon Senate Bill 215, 2015.
+5 Oregon House Bill 2927, 2021, established the Oregon Department of Emergency Management as an independent agency from the Oregon Military Department.
+6 The Oregon Health Licensing Agency was an independent agency until House Bill 2074, 2013, moved it under the authority of the Oregon Health Authority.
+7 The Legislative Policy and Research Office was established in 2013 by Senate Bill 1569.
+Appendix: Oregon Expenditures by Program Area and
+State Agency
+not adjusted for inflation
+Secretary of State LaVonne Griffin -Valade
+Audits Director Kip R. Memmott
+This report is intended to promote the best possible
+management of public resources.
+Copies may be obtained from:
+Oregon Audits Division
+255 Capitol St NE, Suite 180
+Salem OR 97310
+(503) 986-2255
+audits.sos@oregon.gov
+sos.oregon.gov/audits

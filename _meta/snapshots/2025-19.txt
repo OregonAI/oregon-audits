@@ -1,0 +1,2730 @@
+SAIF Corporation
+(A Component Unit of the State of Oregon)
+Financial Statements and Supplementary
+Schedules as of and for the Years
+Ended December 31, 2024 and 2023, and
+Report of Independent Auditors
+SAIF CORPORATION
+TABLE OF CONTENTS
+Page
+OVERVIEW OF SAIF CORPORATION FINANCIAL REPORTING (Unaudited) 1
+REPORT OF INDEPENDENT AUDITORS 2-4
+REQUIRED SUPPLEMENTARY INFORMATION: MANAGEMENT’S DISCUSSION
+AND ANALYSIS (Unaudited) 5-17
+FINANCIAL STATEMENTS AS OF AND FOR THE YEARS ENDED
+DECEMBER 31, 2024 AND 2023:
+Statements of Net Position 18
+Statements of Revenues, Expenses, and Changes in Net Position 19
+Statements of Cash Flows 20–21
+Notes to Financial Statements 22–59
+REQUIRED SUPPLEMENTARY INFORMATION:
+Defined Benefit Pension Plan Schedule of the Proportionate Share of the Net
+Pension Liability (Asset) (Unaudited) 60
+Defined Benefit Pension Plan Schedule of Employer Contributions (Unaudited) 61
+Postemployment Healthcare Benefit Plan (SAIF) Schedule of Changes in
+Total OPEB Liability and Related Ratios (Unaudited) 62
+Postemployment Healthcare Benefit Plan Retiree Health Insurance Account
+(RHIA) Schedule of Proportionate Share of the Net OPEB Liability (Asset) and
+Employer Contributions (Unaudited) 63
+Postemployment Healthcare Benefit Plan Retiree Health Insurance Premium
+Account (RHIPA) Schedule of Proportionate Share of the Net OPEB Liability
+(Asset) and Employer Contributions (Unaudited) 64
+- 1 -
+OVERVIEW OF SAIF CORPORATION FINANCIAL REPORTING (Unaudited)
+SAIF Corporation (SAIF) has prepared the accompanying financial statements in accordance
+with accounting principles generally accepted in the United States of America. As a discrete
+component unit of the State of Oregon, SAIF is subject to the pronouncements of the
+Governmental Accounting Standards Board (GASB). Under accounting principles generally
+accepted in the United States of America as applied to governmental entities, SAIF accounts for
+its activities as a special purpose government engaged solely in business-type activities.
+Accordingly, SAIF follows the accrual basis of accounting. Revenues are recognized when
+earned, regardless of when received, and expenses are recognized when incurred, regardless of
+when paid.
+SAIF also prepares financial statements in conformity with statutory accounting practices, which
+are prescribed for use in reporting accounting transactions for insurance companies. These
+practices arise from state laws and from rules adopted by the State Insurance Commissioner
+and, for Oregon, are the practices promulgated by the National Association of Insurance
+Commissioners (NAIC). Statutory accounting practices are conservative in nature and are
+designed to protect policyholders and claimants to ensure, in the event of liquidation, sufficient
+amounts will have been set aside to provide for the outstanding claims of injured workers and
+their dependents, whereas generally accepted accounting principles (GAAP) are based on the
+going-concern concept and recognize revenues when earned and expenses when incurred.
+There are significant differences between the statutory statements SAIF prepares for regulatory
+and management purposes and the accompanying financial statements. They include:
+• Statutory accounting requires the majority of invested assets to be recorded at
+amortized cost, whereas investments are stated at fair value in the accompanying
+statements with the corresponding change in the fair value for the year recorded as
+investment income (loss).
+• Statutory accounting requires certain assets not readily available for the payment of
+claims be “nonadmitted” and removed from the statement of net position. Those assets,
+such as furniture and equipment, are included in the GAAP financial statements.
+Report of Independent Auditors
+The Board of Directors of
+SAIF Corporation
+The Secretary of State Audits Division of
+The State of Oregon
+Report on the Audit of the Financial Statements
+Opinion
+We have audited the financial statements of SAIF Corporation (“SAIF”), a component of the State of
+Oregon, which comprise the statement of net position, revenues, expenses, and change in net
+position, and statement of cash flows, as of and for the years ended December 31, 2024 and 2023,
+and the related notes to the financial statements.
+In our opinion, the accompanying financial statements referred to above present fairly, in all material
+respects, the respective financial position of SAIF as of December 31, 2024 and 2023, and the
+respective changes in financial position and, where applicable, cash flows thereof for the years then
+ended in accordance with accounting principles generally accepted in the United States of America.
+Basis for Opinion
+We conducted our audits in accordance with auditing standards generally accepted in the United
+States of America (GAAS) and the standards applicable to financial audits contained in Government
+Auditing Standards (Government Auditing Standards), issued by the Comptroller General of the
+United States. Our responsibilities under those standards are further described in the Auditor’s
+Responsibilities for the Audit of the Financial Statements section of our report. We are required to be
+independent of SAIF and to meet our other ethical responsibilities, in accordance with the relevant
+ethical requirements relating to our audit. We believe that the audit evidence we have obtained is
+sufficient and appropriate to provide a basis for our audit opinion.
+Responsibilities of Management for the Financial Statements
+Management is responsible for the preparation and fair presentation of the financial statements in
+accordance with accounting principles generally accepted in the United States of America, and for the
+design, implementation, and maintenance of internal control relevant to the preparation and fair
+presentation of financial statements that are free from material misstatement, whether due to fraud or
+error.
+In preparing the financial statements, management is required to evaluate whether there are
+conditions or events, considered in the aggregate, that raise substantial doubt about SAIF’s ability to
+continue as a going concern for twelve months beyond the financial statement date, including any
+currently known information that may raise substantial doubt shortly thereafter.
+Auditor’s Responsibilities for the Audit of the Financial Statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole
+are free from material misstatement, whether due to fraud or error, and to issue an auditor’s report
+that includes our opinion. Reasonable assurance is a high level of assurance but is not absolute
+assurance and therefore is not a guarantee that an audit conducted in accordance with GAAS and
+Government Auditing Standards will always detect a material misstatement when it exists. The risk of
+not detecting a material misstatement resulting from fraud is higher than for one resulting from error,
+as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of
+internal control. Misstatements are considered material if there is a substantial likelihood that,
+individually or in the aggregate, they would influence the judgment made by a reasonable user based
+on the financial statements.
+In performing an audit in accordance with GAAS and Government Auditing Standards, we
+ Exercise professional judgment and maintain professional skepticism throughout the audit.
+ Identify and assess the risks of material misstatement of the financial statements, whether due to
+fraud or error, and design and perform audit procedures responsive to those risks. Such
+procedures include examining, on a test basis, evidence regarding the amounts and disclosures
+in the financial statements.
+ Obtain an understanding of internal control relevant to the audit in order to design audit
+procedures that are appropriate in the circumstances, but not for the purpose of expressing an
+opinion on the effectiveness of SAIF’s internal control. Accordingly, no such opinion is expressed.
+ Evaluate the appropriateness of accounting policies used and the reasonableness of significant
+accounting estimates made by management, as well as evaluate the overall presentation of the
+financial statements.
+ Conclude whether, in our judgment, there are conditions or events, considered in the aggregate,
+that raise substantial doubt about SAIF’s ability to continue as a going concern for a reasonable
+period of time.
+We are required to communicate with those charged with governance regarding, among other
+matters, the planned scope and timing of the audit, significant audit findings, and certain internal
+control–related matters that we identified during the audit.
+Required Supplementary Information
+Accounting principles generally accepted in the United States of America require that management’s
+discussion and analysis on pages 5 through 17, be presented to supplement the basic financial
+statements. Such information is the responsibility of management and, although not a part of the
+basic financial statements, is required by the Governmental Accounting Standards Board who
+considers it to be an essential part of financial reporting for placing the basic financial statements in
+an appropriate operational, economic, or historical context. We have applied certain limited
+procedures to the required supplementary information in accordance with auditing standards
+generally accepted in the United States of America, which consisted of inquiries of management
+about the methods of preparing the information and comparing the information for consistency with
+management's responses to our inquiries, the basic financial statements, and other knowledge we
+obtained during our audit of the basic financial statements. We do not express an opinion or provide
+any assurance on the information because the limited procedures do not provide us with sufficient
+evidence to express an opinion or provide any assurance.
+Other Information
+Management is responsible for the other information included in the annual report. The other
+information comprises the introductory section titled, Overview of SAIF Corporation Financial
+Reporting, but does not include the basic financial statements and our auditor’s report thereon. Our
+opinion on the basic financial statements do not cover the other information, and we do not express
+an opinion or any form of assurance thereon.
+In connection with our audit of the basic financial statements, our responsibility is to read the other
+information and consider whether a material inconsistency exists between the other information and
+the basic financial statements, or the other information otherwise appears to be materially misstated.
+If, based on the work performed, we conclude that an uncorrected material misstatement of the other
+information exists, we are required to describe it in our report.
+Other Reporting Required by Government Auditing Standards
+In accordance with Government Auditing Standards, we have also issued our report dated July 29,
+2025 on our consideration of SAIF’s internal control over financial reporting and on our tests of its
+compliance with certain provisions of laws, regulations, contracts, and grant agreements and other
+matters. The purpose of that report is solely to describe the scope of our testing of internal control
+over financial reporting and compliance and the results of that testing, and not to provide an opinion
+on the effectiveness of SAIF’s internal control over financial reporting or on compliance. That report is
+an integral part of an audit performed in accordance with Government Auditing Standards in
+considering SAIF’s internal control over financial reporting and compliance.
+Portland, Oregon
+July 29, 2025
+- 5 -
+SAIF CORPORATION
+Management’s Discussion and Analysis
+December 31, 2024 and 2023
+Management of SAIF Corporation (SAIF) prepares Management’s Discussion and Analysis for
+readers of SAIF’s financial statements. This narrative overview and analysis of the financial
+activities of SAIF is as of and for the years ended December 31, 2024 and 2023. Readers are
+encouraged to consider this information in conjunction with SAIF’s financial statements and
+notes that follow.
+Financial Statements
+This discussion and analysis is intended to serve as an introduction to SAIF’s financial
+statements: the Statements of Net Position; the Statements of Revenues, Expenses, and
+Changes in Net Position; and the Statements of Cash Flows. The financial statements are
+designed to provide the readers with an overview of SAIF’s financial position and activities.
+The Statements of Net Position present information on SAIF’s assets, deferred outflows of
+resources, liabilities, and deferred inflows of resources, with the difference reported as net
+position. Assets and liabilities are classified as either current or noncurrent.
+The Statements of Revenues, Expenses, and Changes in Net Position are SAIF’s income
+statements. Revenues earned and expenses incurred during the year are classified as either
+operating or nonoperating.
+The Statements of Cash Flows present the changes in SAIF’s cash and cash equivalents during
+the year. These statements are prepared using the direct and indirect method of cash flows.
+The statements break out the sources and uses of SAIF’s cash and cash equivalents into the
+following categories: operating activities, investing activities, and capital and related financing
+activities.
+- 6 -
+Condensed Financial Information
+(In thousands)
+Condensed Statements of Net Position Information
+2023 to 2024 2022 to 2023
+December 31, Increase Increase
+2024 2023 2022 (Decrease) (Decrease)
+ASSETS (Restated)
+CURRENT ASSETS:
+Cash and cash equivalents 52,555$         54,745$         37,228$         (2,190)$        17,517$
+Investments 4,305,746      4,280,134      4,172,941      25,612          107,193
+Securities lending cash collateral 135,641         65,366           50,288           70,275          15,078
+Accounts and interest receivable, net 440,823         435,401         409,385         5,422            26,016
+Other assets                     1,028             942                (1,028)          86
+Total current assets 4,934,765      4,836,674      4,670,784      98,091          165,890
+NONCURRENT ASSETS:
+Capital assets, nondepreciable 5,064             41,181           32,839           (36,117)        8,342
+Capital assets, depreciable, net 130,975         105,145         106,082         25,830          (937)
+Net other postemployment benefit (OPEB) asset (RHIA) 3,255             3,710             3,362             (455)             348
+Net OPEB asset (RHIPA) 1,140             1,259             810                (119)             449
+Total noncurrent assets 140,434         151,295         143,093         (10,861)        8,202
+Total assets 5,075,199      4,987,969      4,813,877      87,230          174,092
+DEFERRED OUTFLOWS OF RESOURCES
+Related to OPEB 2,263             2,108             1,643             155               465
+Related to pensions 65,778           52,475           78,232           13,303          (25,757)
+Total deferred outflows of resources 68,041           54,583           79,875           13,458          (25,292)
+LIABILITIES
+CURRENT LIABILITIES:
+Reserve for losses and
+loss adjustment expenses 360,032         332,453         341,566         27,579          (9,113)
+Unearned premiums 260,405         268,874         253,975         (8,469)          14,899
+Accounts payable 113,745         117,264         113,183         (3,519)          4,081
+Obligations under securities lending 135,615         65,353           50,274           70,262          15,079
+Other liabilities and deposits 42,733           43,927           41,737           (1,194)          2,190
+Total current liabilities 912,530         827,871         800,735         84,659          27,136
+NONCURRENT LIABILITIES:
+Reserve for losses and
+loss adjustment expenses 2,267,839      2,178,072      2,120,189      89,767          57,883
+Total OPEB liability (SAIF) 9,805             9,307             9,007             498               300
+Pension related payable 1,978             3,373             4,405             (1,395)          (1,032)
+Net pension liablility 120,721         72,694           72,675           48,027          19
+Lease liabilities 10,119           10,082           5,666             37                4,416
+Compensated absences 13,040           11,621                               1,419            11,621
+Total noncurrent liabilities 2,423,502      2,285,149      2,211,942      138,353        73,207
+Total liabilities 3,336,032      3,113,020      3,012,677      223,012        100,343
+DEFERRED INFLOWS OF RESOURCES
+Related to OPEB 1,803             2,623             3,063             (820)             (440)
+Related to pensions 21,814           32,220           46,670           (10,406)        (14,450)
+Total deferred inflows of resources 23,617           34,843           49,733           (11,226)        (14,890)
+NET POSITION
+Net investment in capital assets 136,039         146,325         138,921         (10,286)        7,404
+Unrestricted 1,647,552      1,748,364      1,692,421      (100,812)       55,943
+Total net position 1,783,591$     1,894,689$     1,831,342$     (111,098)$     63,347$
+-
+-
+- 7 -
+Condensed Revenues, Expenses,
+and Changes in Net Position Information
+2023 to 2024 2022 to 2023
+Years Ended December 31, Increase Increase
+2024 2023 2022 (Decrease) (Decrease)
+(Restated)
+OPERATING REVENUES:
+Premiums earned, net 605,093$      590,847$      555,377$      14,246$        35,470$
+Other income 56,421          56,849          53,374          (428)              3,475
+Total operating revenues 661,514        647,696        608,751        13,818          38,945
+OPERATING EXPENSES:
+Net losses and loss adjustment
+expenses incurred 639,562        542,964        392,198        96,598          150,766
+Policyholders' dividends 59,938          134,986        74,995          (75,048)         59,991
+Underwriting expenses 250,230        224,400        207,503        25,830          16,897
+Bad debt provision 2,729            1,719            1,431            1,010            288
+Other expense 752
+646               334               106               312
+Total operating expenses 953,211        904,715        676,461        48,496          228,254
+OPERATING LOSS (291,697)      (257,019)      (67,710)        (34,678)         (189,309)
+NONOPERATING REVENUES:
+Net investment income (loss) 180,599        337,412        (652,568)      (156,813)       989,980
+(DECREASE) INCREASE IN NET POSITION (111,098)      80,393          (720,278)      (191,491)       800,671
+NET POSITION—Beginning of year 1,894,689     1,831,342     2,551,897     63,347          (720,555)
+Cumulative effect of change in
+accounting principles -               (17,046)        (277)             17,046          (16,769)
+RESTATED—Beginning net position 1,894,689     1,814,296     2,551,620     80,393          (737,324)
+NET POSITION—End of year 1,783,591$   1,894,689$   1,831,342$   (111,098)$     63,347$
+- 8 -
+Financial position as of December 31, 2024
+At the end of 2024, total assets increased $87.2 million from the prior year, and deferred
+outflows of resources increased $13.5 million. Total liabilities increased $223.0 million for
+the year, deferred inflows of resources decreased $11.2 million, and net position
+decreased $111.1 million.
+Inflation, interest rates, and geopolitical risks continue to impact SAIF’s financial position.
+Looking ahead to 2025, geopolitical conflicts, inflation, interest rates, federal spending, and
+trade policies keep the markets on edge.
+Significant changes include:
+Cash and cash equivalents—The majority of SAIF’s cash accounts consist of short-term
+investments and money market funds utilized by external investment managers. Cash
+and cash equivalents of $52.6 million decreased $2.2 million from December 31, 2023, to
+December 31, 2024. This was due to a $3.8 million increase in cash and a $6.0 million
+decrease in the money market fund.
+Investments—At the end of 2024, investments were $4,305.7 million and were $25.6
+million or 0.6 percent higher than at the end of 2023. Investment holdings (principal and
+cost) increased $73.0 million for bonds, primarily due to the reinvestment of income
+partially offset by sales of investments to fund operations and the policyholder dividend.
+Equity holdings cost decreased by $22.2 million in 2024 due to the sale of equities to
+rebalance the portfolio. Real estate holdings cost increased $1.8 million, and the final
+capital commitment of $2.5 million was contributed in January 2024. At the end of 2024,
+SAIF had invested $120.0 million in DWS RREEF America II LP. Market values decreased
+$40.5 million for bonds in 2024. SAIF’s fixed income portfolio had a positive return of
+2.77 percent for 2024 as interest income offset mark-to-market losses. The mark-to-
+market adjustments for equities increased $24.4 million as the BlackRock MSCI ACWI
+fund had a positive return of 16.46 percent for the year. Real estate market adjustments
+decreased $11.0 million as the real estate funds had a negative return of 5.01 percent for
+the year.
+Effective October 23, 2024, the Council approved a revised asset allocation policy for
+SAIF Corporation. The allocation reaffirms a 5 percent target allocation to real estate in
+the form of private or publicly traded funds, allows for a 5 percent allocation to private
+credit through senior secured direct lending, and increased the target allocation to fixed
+income holdings from 77 percent to 80 percent. The target allocation to global equities is
+unchanged at 10 percent.
+Securities lending cash collateral—This line item can fluctuate significantly from
+period to period depending on the amount of investment securities on loan. The amount
+of securities on loan will vary depending on market conditions and the demand for certain
+securities in SAIF’s portfolio. The balance as of December 31, 2024 was $135.6 million,
+an increase of $70.3 million from the prior year. A corresponding securities lending
+liability of $135.6 million was recorded on the statement of net position at December 31,
+2024.
+Accounts and interest receivable—The balance in this line is comprised of investment
+income receivable, net premiums receivable, accrued retrospective premiums receivable,
+and other accounts receivable. This balance of $440.8 million increased $5.4 million or
+1.3 percent from December 31, 2023 to December 31, 2024.
+- 9 -
+Accrued investment income of $36.9 million increased $3.7 million or 11.1 percent from
+December 31, 2023 to December 31, 2024, as interest rates on longer term bonds
+remained elevated.
+Premiums receivable of $319.9 million decreased $19.3 million or 5.7 percent in 2024,
+due to a decrease in written premium. Net written premiums decreased 2.1 percent from
+2023 to 2024 due to pure premium rate reductions of 6.7% for 2024 which were largely
+offset by increased payrolls. Accrued retrospective premiums increased $20.7 million or
+78.2 percent compared to the prior year due to changes in accrual estimates for loss-
+sensitive policies and the timing of when receivables are collected.
+Other accounts receivable of $36.8 million increased $0.4 million or 1.2 percent. Premium
+assessment due from policyholders increased $0.6 million due primarily to rising
+premiums. Other receivables related to court costs and fees decreased $0.2 million.
+Capital assets—Nondepreciable capital assets which includes land and capital projects in
+process, decreased $36.1 million over the prior year, due to the claims system project
+and registration profile management project phase II (RPM) being placed in service in
+February and April 2024, respectively. Lease assets net of accumulated depreciation of
+$13.1 million were included on the statement of net position as depreciable capital
+assets, due to GASB 87 and the implementation of GASB 96 (see Notes 2 and 6). Lease
+assets consist primarily of building leases and subscription-based IT arrangements
+(SBITAs). Depreciable capital assets, net of depreciation increased $25.8 million over the
+prior year as depreciation partially offset reclassifying software costs for projects placed
+in service during the year. Software development costs for the claims system, RPM Phase
+II project, and digital payment platform project totaled $3.7 million, for the year ended
+December 31, 2024.
+Net other postemployment benefit (OPEB) asset (RHIA)—The balance of $3.3
+million decreased $0.4 million or 12.3 percent from December 31, 2023 to December 31,
+2024. This is an estimate of SAIF’s allocated share of the net asset for the Retirement
+Health Insurance Account (RHIA) due to GASB Statement No. 75 (see Note 12).
+Net OPEB asset (RHIPA)— This line decreased from $1.2 million in 2023 to $1.1
+million in 2024 due to a change in proportionate share. The balance in this line is an
+estimate of SAIF’s allocated share of the net asset for the Retirement Health Insurance
+Premium Account (RHIPA) due to GASB Statement No. 75 (see Note 12).
+Deferred outflows of resources—The $68.0 million balance in this line is an increase
+of $13.5 million over prior year and is related to pensions in accordance with GASB
+Statement No. 68 and OPEB in accordance with GASB Statement No. 75. The deferred
+outflows of resources related to pensions was $65.8 million, an increase of $13.3 million
+over the prior year. This was primarily due to a decrease of $19.2 million in the
+differences between employer contributions and employer’s proportionate share of
+system contributions, offset by a $5.7 million increase in change in PERS assumptions,
+$16.7 million increase in the changes in employer contributions and proportion,
+contributions after measurement date increased $0.2 million, difference in economic
+experience increased $3.6 million, and the difference in expected investment earnings
+increased $6.4 million (see Note 11). The deferred outflows of resources related to OPEB
+was $2.3 million, an increase of $0.2 million over the prior year. The balance is based on
+GASB Statement No. 75 (see Note 12).
+Reserve for losses and loss adjustment expenses—The total (current and
+noncurrent) reserve for losses and loss adjustment expenses (LAE) of $2.6 billion
+increased $117.3 million or 4.7 percent from the prior year. Loss reserves increased
+$78.3 million or 3.7 percent and LAE reserves increased $39.0 million or 10.0 percent
+- 10 -
+during 2024. This was driven by establishing reserves for the 2024 accident year, offset
+by payments made on previously incurred claims, and favorable development in prior
+accident years. In past years, favorable development was strongly driven by medical
+claims. However, in 2024 favorable medical claim development slowed due to increasing
+average medical payment per claim. Subsequently, there was less total favorable reserve
+development. The increase in LAE reserves was driven by newly established reserves for
+the 2024 accident year, partially offset by paid LAE associated with previously incurred
+claims and unfavorable development in prior accident years. The unfavorable
+development in unpaid LAE for prior accident years was largely attributable to rising
+operating expenses.
+Unearned premiums—The amount of unearned premium of $260.4 million for 2024
+decreased $8.5 million or 3.1 percent primarily due to decreased premiums written.
+Accounts payable—The balance in this line of $113.7 million is comprised of
+commissions payable, reinsurance payable, accrued premium assessment, and other
+accounts payable. This line decreased $3.5 million from 2023 to 2024. Commissions
+payable for the current year was $19.4 million, a decrease of $0.8 million over prior year
+due to decreased premium levels. Reinsurance payable decreased $2.2 million due to
+decreased current payables to the assigned risk pool. Premium assessment payable
+decreased $0.6 million due to lower premium levels. Other accounts payable decreased
+$0.2 million from 2023 to 2024, due to timing of payments at year end.
+Obligations under securities lending—This line item can fluctuate significantly from
+period to period depending on the amount of investment securities on loan. The amount
+of securities on loan will vary depending on market conditions and the demand for certain
+securities in SAIF’s portfolio. The balance as of December 31, 2024 was $135.6 million,
+an increase of $70.3 million from the prior year. A corresponding securities lending cash
+collateral asset of $135.6 million was recorded on the statement of net position at
+December 31, 2024.
+Other liabilities and deposits—The balance in this line of $42.7 million is comprised of
+accrued retrospective premiums payable, premium deposits, policyholder dividends
+payable, pension related payable, and other liabilities. This balance decreased $1.2 million
+from the prior year. A $1.1 million decrease of return premium payable on retrospectively
+rated policies was largely due to loss experience on retrospective policies and timing of
+billings, and premium deposits decreased $0.9 million over the prior year. Other liabilities
+decreased $0.1 million over the prior year. A $0.3 million increase is due to recognizing the
+current portion of lease liabilities from the implementation of GASB 96, and a $0.6 million
+increase in accrued compensated absences is due to the implementation of GASB 101 (see
+Note 2).
+Total OPEB liability (SAIF)—The $9.8 million balance in this line is the amount of SAIF’s
+OPEB liability under GASB Statement No. 75 (see Note 12). This line increased $0.5 million
+over the prior year.
+Pension related payable—Prior to the formation of the PERS State and Local
+Government Rate Pool (SLGRP), the State and community colleges were pooled together
+in the State and Community College Pool (SCCP) (including SAIF), while local government
+employers participated in the Local Government Rate Pool (LGRP). The unfunded
+actuarial liability (UAL) attributable to the SCCP at the time the SLGRP was formed is
+maintained separately from the SLGRP and is reduced by contributions and increased for
+interest charges at the assumed interest rate, which was 6.90 percent in fiscal year 2024.
+The $2.0 million balance in this line is the noncurrent portion of the pre-SLGRP pooled
+liability attributable to SAIF, which is being amortized straight line over the period ending
+December 31, 2027.
+- 11 -
+Net pension liability—The balance in this line of $120.7 million increased $48.0 million
+over the prior year, primarily due to an increase in the proportionate share and an increase
+in the overall unfunded actuarial liability. SAIF’s net pension liability was allocated by the
+Oregon Public Employees Retirement System and was based on GASB Statement No. 68
+actuarial valuation as of December 31, 2022 (see Note 11).
+Lease liabilities—The balance in this line of $10.1 million is related to building leases and
+SBITAs. This includes a $5.2 million liability for SBITAs per GASB Statement No. 96, and a
+$4.9 million liability for building leases per GASB Statement No. 87 (see Notes 2 and 6).
+Compensated absences—SAIF restated the 2023 financial statements in accordance
+with the implementation of both GASB 100 and 101. As a result of GASB 101, SAIF
+restated the 2023 financial statements to include a $17.1 million cumulative effect of
+accounting change in net position, a $1.5 million increase in underwriting expenses, and
+a $18.6 million increase in liabilities. In 2024, the liabilities related to GASB 101 changes
+for compensated absences (including accrued taxes and benefits) increased $1.8 million
+from $18.6 million to $20.4 million. See Note 2 for additional information.
+Deferred inflows of resources—The balance in this line of $23.6 million is related to
+pensions based on GASB Statement No. 68 and OPEB based on GASB Statement No. 75.
+$21.8 million of the balance in this line is related to pensions based on GASB Statement
+No. 68. The pension portion decreased $10.4 million over the prior year primarily due to
+lower than expected investment earnings and changes in employer contributions and
+proportionate share. As of December 31, 2024, SAIF was reported separately from the
+state agencies proportionate share of the net pension liability (see Note 11). The $1.8
+million balance in deferred inflows of resources related to OPEB decreased $0.8 million
+over prior year (see Note 12).
+Operations - year ended December 31, 2024
+SAIF recorded a net operating loss of $291.7 million for the year ended December 31,
+2024, compared to a 2023 net operating loss of $257.0 million.
+Significant changes in revenues and expenses include:
+Net premiums earned—In 2024, net premiums earned were $605.1 million and
+increased $14.2 million or 2.4 percent compared to 2023. This was driven by higher
+premium on direct policies as increased payrolls were offset by pure premium rate
+reductions of 6.7 percent and 3.2 percent for 2024 and 2023, respectively. Net written
+premium decreased 2.1 percent due to the larger pure premium rate reductions in 2024.
+Other income—This line decreased $0.4 million or 0.8 percent to $56.4 million in 2024.
+Premium assessment income decreased $0.7 million due to declining written premium
+levels. The premium assessment rate remained unchanged at 9.8 percent for 2024.
+Net losses and loss adjustment expenses incurred—Total net losses and loss
+adjustment expenses incurred were $639.6 million for the year ended December 31,
+2024. Net losses incurred for the current year of $473.1 million increased $60.4 million
+from 2023, while net LAE incurred of $166.4 million increased $36.2 million for a total net
+increase of $96.6 million. Net paid losses for 2024 were $18.1 million higher than the
+prior year, and the change in loss reserves was $42.3 million higher than the prior year
+due to less favorable reserve development recorded in 2024. This was driven by
+establishing reserves for the 2024 accident year, offset by payments made on previously
+incurred claims, and favorable development in prior accident years. In past years, favorable
+development was strongly driven by medical claims. However, in 2024 favorable medical
+claim development slowed due to increasing average medical payment per claim.
+- 12 -
+Subsequently, there was less total favorable reserve development. The increase in LAE
+reserves was driven by newly established reserves for the 2024 accident year, partially
+offset by paid LAE associated with previously incurred claims and unfavorable development
+in prior accident years. The unfavorable development in unpaid LAE for prior accident years
+was largely attributable to rising operating expenses.
+Policyholders’ dividends—Substantially all of SAIF’s business is written under various
+participating plans wherein a dividend may be returned to the policyholder. Dividends may
+be paid to the extent a surplus is accumulated from premiums, investment gains, and/or
+loss reserve reductions. In 2024 and 2023, policyholder dividends of $59.9 million and
+$135.0 million, respectively, were incurred and paid to qualifying policyholders.
+Underwriting expenses—This line increased $25.8 million or 11.5 percent from the
+prior year to $250.2 million. The largest drivers of the increases are higher employee
+costs and increases in software expenses. SAIF recorded a $1.5 million increase in
+underwriting expenses due to implementation of GASB 101.
+Bad debt provision—This line increased $1.0 million over the prior year driven by a
+couple of large write-offs, mostly due to the OSC program.
+Other expense—This line includes interest expense related to building leases and
+SBITAs. This line increased $0.1 million over the prior year, due to interest expense on
+SBITAs.
+Net investment income (loss)—In 2024, SAIF recorded a net investment gain of
+$180.6 million, as a $27.0 million unrealized decrease in the fair value of investments
+was offset by $173.4 million in interest and dividend income, and $34.2 million in realized
+gains. In 2023, SAIF recorded a net investment gain of $337.4 million. The decrease of
+$156.8 million over prior year was primarily due to fair value changes. During 2023
+bonds and equities recouped some of their value from the significant losses in 2022 as
+inflation eased and interest rates were lowered. The change in fair value of investments
+recorded for 2024 was a negative $27.0 million compared to a positive $214.1 million for
+2023. Interest and dividend income earned increased by $13.4 million during 2024 due to
+higher yields on bonds. Net realized investment gain was $34.2 million for 2024,
+compared to a net realized loss of $39.9 million for 2023. For 2024, net realized
+investment loss was $23.7 million for bonds offset by a $57.9 million gain in equities.
+Cumulative effect of change in accounting principles—SAIF restated the 2023
+financial statements in accordance with the implementation of both GASB 100 and 101.
+As a result of GASB 101, SAIF recorded a $17.1 million cumulative effect of accounting
+change in net position, a $1.5 million increase in underwriting expenses, and a $18.6
+million increase in liabilities. In 2024, the compensated absences liability increased $1.8
+million from $18.6 million to $20.4 million. See Note 2 for additional information.
+Future Plans— The May 2025 economic forecast from Oregon’s state economist expects
+continued economic growth despite slowing population trends. However, the risk of
+economic volatility is increased as significant uncertainty remains in federal trade policies
+and for programs or agencies that rely on federal funding. Additionally, inflation, geopolitical
+unrest, and interest rate fluctuations could have significant impacts on SAIF’s financial
+position. The 3.2 percent pure premium rate reduction approved for 2025 may offset
+premium growth due to new sales, rate increases, and increased policyholder payrolls
+during 2025.
+The 2025 capital budget of $8.9 million includes projects to extend our digital offerings,
+renovate facilities, and replace fleet vehicles.
+- 13 -
+In 2025, SAIF will work on implementing the results of the asset allocation study in
+partnership with the Oregon State Treasury which was completed in 2024. SAIF will also
+continue working towards 3-year and 7-year visions to improve experiences and
+relationships with policyholders, workers, employees, partners, and the community.
+Financial position as of December 31, 2023
+At the end of 2023, total assets increased $174.1 million from the prior year, and deferred
+outflows of resources decreased $25.3 million. Total liabilities increased $100.3 million for
+the year, deferred inflows of resources decreased $14.8 million, and net position increased
+$63.3 million.
+Significant changes include:
+Cash and cash equivalents—The majority of SAIF’s cash accounts consist of short-term
+investments and money market funds utilized by external investment managers. Cash
+and cash equivalents of $54.7 million increased $17.5 million from December 31, 2022,
+to December 31, 2023. This was due to a $16.7 million increase in cash and a $0.8
+million increase in the money market fund.
+Investments—At the end of 2023, investments were $4,280.1 million and were $107.2
+million or 2.6 percent higher than at the end of 2022. Investment holdings (principal and
+cost) decreased $108.8 million for bonds, primarily due to the withdrawal of bond
+principal to fund the policyholder dividend payment and operations offset by reinvested
+income. Equity holdings cost remained flat in 2023. Real estate holdings cost increased
+$1.9 million, as the DWS real estate investment fund had a capital call in the fourth
+quarter of 2023. At the end of 2023, SAIF had invested $117.5 million in DWS RREEF
+America REIT II. The final capital commitment of $2.5 million was contributed in January
+2024. Market values increased $160.1 million for bonds as SAIF’s fixed income portfolio
+had a positive return of 8.32 percent for 2023. The mark-to-market adjustments for
+equities increased $93.7 million as the BlackRock MSCI ACWI fund had a positive return
+of 21.87 percent for the year. Real estate market adjustments decreased $39.6 million as
+the real estate funds had a negative return of 10.34 percent for the year ended
+December 31, 2023.
+Effective April 24, 2019, the Oregon Investment Council approved a revised asset
+allocation policy for SAIF Corporation. The allocation reaffirms a 5 percent target
+allocation to real estate in the form of private or publicly traded funds, allows for an 8
+percent combined target allocation to bank loans and private credit, and reduced the
+target allocation to fixed income holdings from 90 percent to 77 percent. The target
+allocation to global equities is unchanged at 10 percent. SAIF’s asset allocation was in
+compliance with the asset allocation policy as of December 31, 2023. Effective October
+23, 2024, the Council approved a revised asset allocation policy for SAIF Corporation. The
+allocation reaffirms a 5 percent target allocation to real estate in the form of private or
+publicly traded funds, allows for a 5 percent allocation to private credit through senior
+secured direct lending, and increased the target allocation to fixed income holdings from
+77 percent to 80 percent. The target allocation to global equities is unchanged at 10
+percent.
+Securities lending cash collateral—This line item can fluctuate significantly from
+period to period depending on the amount of investment securities on loan. The amount
+of securities on loan will vary depending on market conditions and the demand for certain
+securities in SAIF’s portfolio. The balance as of December 31, 2023 was $65.4 million, an
+increase of $15.1 million from the prior year. A corresponding securities lending liability
+of $65.4 million was recorded on the statement of net position at December 31, 2023.
+- 14 -
+Accounts and interest receivable—The balance in this line is comprised of investment
+income receivable, net premiums receivable, accrued retrospective premiums receivable,
+and other accounts receivable. This balance of $435.4 million increased $26.0 million or
+6.4 percent from December 31, 2022 to December 31, 2023.
+Accrued investment income of $33.2 million increased $0.1 million or 0.4 percent from
+December 31, 2022, to December 31, 2023, as interest rates rose during the year.
+Premiums receivable of $339.2 million increased $32.9 million or 10.8 percent in 2023,
+due to new business, higher tier factors, and increased policyholder payrolls. Net written
+premiums increased 7.5 percent from 2022 to 2023 as decreases in pure premium rates
+were offset by increases in policyholder payrolls, higher tier factors, and new business.
+Accrued retrospective premiums decreased $7.0 million or 20.9 percent compared to the
+prior year due to changes in accrual estimates and the timing of when receivables are
+collected.
+Other accounts receivable of $36.5 million remained flat from 2022 to 2023. Premium
+assessment due from policyholders increased $1.4 million due primarily to increased
+premium receivables and increased premium assessment rates. Equity in the assigned
+risk pool decreased $1.7 million.
+Capital assets—Nondepreciable capital assets increased $8.3 million over the prior year,
+due to investments in the claims system, the registration and profile management (RPM)
+project phase II and the digital payment platform project, which are in progress and not
+yet in use. The registration profile management project phase I was placed in service in
+April 2023. As of December 31, 2023, lease assets net of accumulated depreciation of
+$13.9 million were included on the statement of net position as depreciable capital
+assets, due to GASB 87 and the implementation of GASB 96 (see Notes 2 and 6). Lease
+assets consist primarily of building leases and subscription-based IT arrangements
+(SBITAs). Depreciable capital assets, net of depreciation decreased $0.9 million over the
+prior year as depreciation was partially offset by the implementation of GASB 96 and
+reclassifying software costs for the RPM Phase I project, which went live in April 2023.
+Software development costs for the claims system, HR core system, RPM Phase I and II
+project, and digital payment platform project totaled $8.1 million, $0.2 million, $1.1
+million, and $1.0 million respectively, for the year ended December 31, 2023.
+Net other postemployment benefit (OPEB) asset (RHIA)—The balance of $3.7
+million increased $0.3 million or 10.3 percent from December 31, 2022 to December 31,
+2023. This is an estimate of SAIF’s allocated share of the net asset for the Retirement
+Health Insurance Account (RHIA) due to GASB Statement No. 75 (see Note 12).
+Net OPEB asset (RHIPA)— This line increased $0.4 million from 2022 to $1.3 million in
+2023 due to a change in proportionate share. The balance in this line is an estimate of
+SAIF’s allocated share of the net asset for the Retirement Health Insurance Premium
+Account (RHIPA) due to GASB Statement No. 75 (see Note 12).
+Deferred outflows of resources—The $54.6 million balance in this line is a decrease of
+$25.3 million over prior year and is related to pensions in accordance with GASB
+Statement No. 68 and OPEB in accordance with GASB Statement No. 75. The deferred
+outflows of resources related to pensions was $52.5 million, a decrease of $25.8 million
+over the prior year. This was primarily due to a decrease of $19.2 million in the
+differences between employer contributions and employer’s proportionate share of
+system contributions, a $4.9 million decrease in change in PERS assumptions, and $4.0
+million decrease in the changes in employer contributions and proportion. These decreases
+were partially offset by a $1.0 million increase in contributions subsequent to the
+measurement date and a $1.3 million increase in expected investment earnings (see Note
+- 15 -
+11). The deferred outflows of resources related to OPEB was $2.1 million, an increase of
+$0.5 million over the prior year. The balance is based on GASB Statement No. 75 (see
+Note 12).
+Reserve for losses and loss adjustment expenses—The total (current and
+noncurrent) reserve for losses and loss adjustment expenses (LAE) of $2.5 billion
+increased $48.8 million or 2.0 percent from the prior year. Loss reserves increased $36.0
+million or 1.7 percent and LAE reserves increased $12.8 million or 3.4 percent during
+2023. This was driven by newly established reserves for the 2023 accident year, partially
+offset by paid LAE associated with previously incurred claims and favorable development
+in prior accident years. The favorable development in unpaid LAE for prior accident years
+was largely attributable to the decrease in loss reserves. In past years, favorable
+development was strongly driven by medical claims. However, in 2023 favorable medical
+claim development slowed due to increasing average medical payment per claim.
+Subsequently, there was less total favorable reserve development, and the favorable
+development is evenly spread across all portfolio segments.
+Unearned premiums—The amount of unearned premium of $268.9 million for 2023
+increased $14.9 million or 5.9 percent primarily due to increased premiums written.
+Accounts payable—The balance in this line of $113.0 million is comprised of
+commissions payable, reinsurance payable, accrued premium assessment, and other
+accounts payable. This line decreased $0.2 million from 2022 to 2023. Commissions
+payable for the current year was $20.2 million, an increase of $1.8 million over prior year
+due to increased premium levels. Reinsurance payable decreased $0.5 million due to
+decreased current payables to the assigned risk pool. Premium assessment payable
+increased $3.7 million due to higher premium levels. Other accounts payable decreased
+$5.2 million from 2022 to 2023, primarily due to a decrease in policyholder credits from
+changes in SAIF’s invoicing process.
+Obligations under securities lending—This line item can fluctuate significantly from
+period to period depending on the amount of investment securities on loan. The amount
+of securities on loan will vary depending on market conditions and the demand for certain
+securities in SAIF’s portfolio. The balance as of December 31, 2023 was $65.4 million, an
+increase of $15.1 million from the prior year. A corresponding securities lending cash
+collateral asset of $65.4 million was recorded on the statement of net position at
+December 31, 2023.
+Other liabilities and deposits—The balance in this line of $41.2 million is comprised of
+accrued retrospective premiums payable, premium deposits, policyholder dividends
+payable, pension related payable, and other liabilities. This balance decreased $0.5 million
+from the prior year. A $3.0 million decrease of return premium payable on retrospectively
+rated policies was largely due to increased loss experience on retrospective policies, and
+premium deposits decreased $1.0 million over the prior year. Other liabilities increased $3.5
+million over the prior year. A $2.8 million increase is due to recognizing the current portion
+of lease liabilities from the implementation of GASB 96, and a $0.8 million increase in
+accrued compensated absences were offset by a $0.1 million decrease in federal premium
+assessments.
+Total OPEB liability (SAIF)—The $9.3 million balance in this line is the amount of SAIF’s
+OPEB liability under GASB Statement No. 75 (see Note 12). This line increased $0.3 million
+over the prior year.
+Pension related payable—Prior to the formation of the PERS State and Local
+Government Rate Pool (SLGRP), the State and community colleges were pooled together
+in the State and Community College Pool (SCCP) (including SAIF), while local government
+- 16 -
+employers participated in the Local Government Rate Pool (LGRP). The unfunded
+actuarial liability (UAL) attributable to the SCCP at the time the SLGRP was formed is
+maintained separately from the SLGRP and is reduced by contributions and increased for
+interest charges at the assumed interest rate, which was 6.90 percent in fiscal year 2023.
+The $3.4 million balance in this line is the noncurrent portion of the pre-SLGRP pooled
+liability attributable to SAIF, which is being amortized over the period ending December
+31, 2027.
+Net pension liability—The balance in this line of $72.7 million remained flat from 2022 to
+2023. SAIF’s net pension liability was allocated by the Oregon Public Employees Retirement
+System and was based on GASB Statement No. 68 actuarial valuation as of December 31,
+2021 (see Note 11).
+Lease liabilities—The balance in this line of $10.1 million is related to building leases and
+SBITAs. This includes a $5.5 million liability for SBITAs as SAIF implemented GASB 96
+effective December 31, 2023, and a $4.6 million liability for building leases per GASB
+Statement No. 87 which was implemented as of December 31, 2022 (see Notes 2 and 6).
+Deferred inflows of resources—The balance in this line of $34.8 million is related to
+pensions based on GASB Statement No. 68 and OPEB based on GASB Statement No. 75.
+The $32.2 million balance in this line is related to pensions based on GASB Statement No.
+68. The $14.5 million decrease over the prior year is primarily due to lower than
+expected investment earnings and changes in employer contributions and proportionate
+share. As of December 31, 2023, SAIF was reported separately from the state agencies
+proportionate share of the net pension liability (see Note 11). The $2.6 million balance in
+deferred inflows of resources related to OPEB decreased $0.4 million over prior year (see
+Note 12).
+Operations - year ended December 31, 2023
+SAIF recorded a net operating loss of $255.5 million for the year ended December 31,
+2023, compared to a 2022 net operating loss of $67.7 million.
+Significant changes in revenues and expenses include:
+Net premiums earned—In 2023, net premiums earned were $590.8 million and
+increased $35.5 million or 6.4 percent compared to 2022. This was driven by higher
+premium on voluntary guaranteed cost policies as increased payrolls and higher tier
+factors were partially offset by pure premium rate reductions of 3.2 percent and 5.8
+percent for 2023 and 2022, respectively. Net written premium increased 7.5 percent due
+to the same reasons.
+Other income—This line increased $3.5 million or 6.5 percent to $56.8 million in 2023.
+Premium assessment income increased $3.5 million due to rising premium levels. The
+premium assessment rate remained unchanged at 9.8 percent for 2023.
+Net losses and loss adjustment expenses incurred—Total net losses and loss
+adjustment expenses incurred were $542.9 million for the year ended December 31,
+2023. Net losses incurred for the current year of $412.7 million increased $109.6 million
+from 2022, while net LAE incurred of $130.2 million increased $41.2 million for a total net
+increase of $150.8 million. Net paid losses for 2023 were $15.7 million higher than the
+prior year, and the change in loss reserves was $93.9 million higher than the prior year
+due to less favorable reserve development recorded in 2023. This was driven by newly
+established reserves for the 2023 accident year, partially offset by paid LAE associated
+with previously incurred claims and favorable development in prior accident years. The
+favorable development in unpaid LAE for prior accident years was largely attributable to
+- 17 -
+the decrease in loss reserves. In past years, favorable development was strongly driven by
+medical claims. However, in 2023 favorable medical claim development slowed due to
+increasing average medical payment per claim. Subsequently, there was less total favorable
+reserve development, and the favorable development is evenly spread across all portfolio
+segments. SAIF continues to observe fewer than expected permanent disabling claims and
+severe COVID-19 disease claims.
+Policyholders’ dividends—Substantially all of SAIF’s business is written under various
+participating plans wherein a dividend may be returned to the policyholder. Dividends may
+be paid to the extent a surplus is accumulated from premiums, investment gains, and/or
+loss reserve reductions. In 2023 and 2022, policyholder dividends of $135.0 million and
+$75.0 million, respectively, were incurred and paid to qualifying policyholders.
+Underwriting expenses—This line increased $15.4 million or 7.4 percent from the prior
+year to $222.9 million. Increases in commission expenses as premiums increased, higher
+employee costs, increased premium assessment expense, and increased software costs
+make up majority of the increases over prior year.
+Bad debt provision—This line increased $0.3 million over the prior year, due to write
+offs assumed from the assigned risk pool.
+Other expense—This line includes interest expense related to building leases and
+SBITAs. This line increased $0.3 million over the prior year, due to interest expense on
+SBITAs from the implementation of GASB 96.
+Net investment income (loss)—In 2023, SAIF recorded a net investment gain of
+$337.4 million, due to $214.1 million unrealized increase in the fair value of investments,
+$163.2 million in interest and dividend income, and $39.9 million in realized losses. In
+2022, SAIF recorded a net investment loss of $652.6 million. The increase of $990.0
+million over prior year was due primarily to higher returns on bond values as SAIF’s fixed
+income portfolio returned 8.32% in 2023. The change in fair value of investments
+recorded for 2023 was a positive $214.1 million compared to a negative $760.9 million
+for 2022. Interest and dividend income earned increased by $23.1 million during 2023 as
+the Federal Reserve increased short term interest rates. Net realized investment loss was
+$39.9 million for 2023, compared to a net realized loss of $33.8 million for 2022. For
+2023, net realized investment loss was $40.1 million for bonds offset by a $0.2 million
+gain in equities.
+Cumulative effect of change in accounting principles—See Notes 2 and 6 for
+additional information. In addition, SAIF restated the 2023 financial statements in
+accordance with the implementation of both GASB 100 and 101. As a result of GASB 101,
+SAIF recorded a $17.1 million cumulative effect of accounting change in net position, a
+$1.5 million increase in underwriting expenses, and a $18.6 million increase in liabilities.
+See Note 2 for additional information. SAIF implemented GASB 96 related to SBITAs for
+the fiscal year ended December 31, 2023. The net impact of this Statement on SAIF’s
+financials resulted in a restatement of net position, an increase of $78 thousand.
+- 18 -
+SAIF CORPORATION
+STATEMENTS OF NET POSITION
+AS OF DECEMBER 31, 2024 AND 2023
+(In thousands)
+2024 2023
+(Restated)
+CURRENT ASSETS:
+Cash and cash equivalents 52,555$          54,745$
+Investments 4,305,746       4,280,134
+Securities lending cash collateral 135,641          65,366
+Investment income receivable 36,914            33,241
+Premiums receivable, net 319,944          339,243
+Accrued retrospective premiums receivable 47,162            26,461
+Accounts receivable 36,803            36,456
+Other assets -                 1,028
+Total current assets 4,934,765       4,836,674
+NONCURRENT ASSETS:
+Capital assets, nondepreciable 5,064             41,181
+Capital assets, depreciable, net 130,975          105,145
+Net other postemployment benefit (OPEB) asset (RHIA) 3,255             3,710
+Net OPEB asset (RHIPA) 1,140             1,259
+Total noncurrent assets 140,434          151,295
+Total assets 5,075,199       4,987,969
+DEFERRED OUTFLOWS OF RESOURCES
+Related to OPEB 2,263             2,108
+Related to pensions 65,778            52,475
+Total deferred outflows of resources 68,041            54,583
+CURRENT LIABILITIES:
+Reserve for losses and loss adjustment expenses 360,032          332,453
+Unearned premiums 260,405          268,874
+Accrued retrospective premiums payable 8,331             9,401
+Commissions payable 19,352            20,161
+Reinsurance payable 2,296             4,535
+Accrued premium assessment payable 44,786            45,426
+Premium deposits 16,389            17,325
+Accounts payable 47,311            47,142
+Obligations under securities lending 135,615          65,353
+Pension related payable 893                980
+Lease liabilities 4,227             3,895
+Other liabilities 12,893            12,326
+Total current liabilities 912,530          827,871
+NONCURRENT LIABILITIES:
+Reserve for losses and loss adjustment expenses 2,267,839       2,178,072
+Total OPEB liability (SAIF) 9,805             9,307
+Pension related payable 1,978             3,373
+Net pension liability 120,721          72,694
+Lease liabilities 10,119            10,082
+Compensated absences 13,040            11,621
+Total noncurrent liabilities 2,423,502       2,285,149
+Total liabilities 3,336,032       3,113,020
+DEFERRED INFLOWS OF RESOURCES
+Related to OPEB 1,803             2,623
+Related to pensions 21,814            32,220
+Total deferred inflows of resources 23,617            34,843
+NET POSITION
+Net investment in capital assets 136,039          146,325
+Unrestricted 1,647,552       1,748,364
+Total net position 1,783,591$      1,894,689$
+See notes to financial statements.
+ASSETS
+LIABILITIES
+- 19 -
+SAIF CORPORATION
+STATEMENTS OF REVENUES, EXPENSES, AND CHANGES IN NET POSITION
+FOR THE YEARS ENDED DECEMBER 31, 2024 AND 2023
+(In thousands)
+2024 2023
+(Restated)
+OPERATING REVENUES:
+Premiums earned, net 605,093$      590,847$
+Other income 56,421          56,849
+Total operating revenues 661,514        647,696
+OPERATING EXPENSES:
+Net losses and loss adjustment expenses incurred 639,562        542,964
+Policyholders' dividends 59,938          134,986
+Underwriting expenses 250,230        224,400
+Bad debt provision 2,729            1,719
+Other expense 752               646
+Total operating expenses 953,211        904,715
+OPERATING LOSS (291,697)      (257,019)
+NONOPERATING REVENUES:
+Investment income 192,538        346,175
+Investment expenses (11,939)        (8,763)
+Net investment income  180,599        337,412
+(DECREASE) INCREASE IN NET POSITION (111,098)      80,393
+NET POSITION—Beginning of year 1,894,689     1,831,342
+Cumulative effect of change in accounting principles -                   (17,046)
+RESTATED—Beginning net position 1,894,689     1,814,296
+NET POSITION—End of year 1,783,591$   1,894,689$
+See notes to financial statements.
+- 20 -
+SAIF CORPORATION
+STATEMENTS OF CASH FLOWS
+FOR THE YEARS ENDED DECEMBER 31, 2024 AND 2023
+(In thousands)
+2024 2023
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Premiums collected, net of reinsurance 590,976$      575,337$
+Loss and loss adjustment expenses paid (522,216)      (494,194)
+Underwriting expenses paid (250,230)      (222,894)
+Policyholder dividends paid (59,938)        (134,986)
+Other receipts 91,611          76,576
+Net cash used in operating activities (149,797)      (200,161)
+CASH FLOWS FROM INVESTING ACTIVITIES:
+Purchases of investments (1,060,784)   (799,616)
+Proceeds from sales and maturities of investments 1,040,195     862,013
+Interest received on investments and cash balances 172,516        167,299
+Interest received from securities lending 6,210            2,939
+Interest paid for securities lending (5,764)          (2,638)
+Net cash provided by investing activities 152,373        229,997
+CASH FLOWS FROM CAPITAL AND RELATED FINANCING
+ACTIVITIES:
+Acquisition of capital assets (4,848)          (12,319)
+Proceeds from disposition of capital assets 82
+Net cash used in capital and related financing activities (4,766)          (12,319)
+NET (DECREASE) INCREASE IN CASH AND CASH EQUIVALENTS (2,190)          17,517
+CASH AND CASH EQUIVALENTS—Beginning of year 54,745          37,228
+CASH AND CASH EQUIVALENTS—End of year 52,555$        54,745$
+(Continued)
+-
+- 21 -
+SAIF CORPORATION
+STATEMENTS OF CASH FLOWS
+FOR THE YEARS ENDED DECEMBER 31, 2024 AND 2023
+(In thousands)
+2024 2023
+RECONCILIATION OF OPERATING LOSS TO NET CASH
+USED IN OPERATING ACTIVITIES:
+Operating loss (291,698)$       (255,513)$
+Adjustments to reconcile operating loss to net cash
+used in operating activities:
+Depreciation and amortization 18,872            15,872
+(Gain)/loss on disposal of capital assets (3)                    -
+Bad debt provision 2,730              1,719
+Net changes in assets:
+Premiums receivable, net 16,568            (34,660)
+Accrued retrospective premiums receivable (20,700)           6,972
+Accounts receivable (346)                81
+Other assets 124                 -
+Net OPEB asset (RHIA) 455                 (348)
+Net OPEB asset (RHIPA) 119                 (449)
+(Increase)/decrease in deferred outflows of resources:
+Related to OPEB (155)                (465)
+Related to pensions (13,303)           25,756
+Net changes in liabilities:
+Reserve for losses and loss adjustment expenses 117,346          48,769
+Unearned premiums (8,469)             14,899
+Accrued retrospective premiums payable (1,070)             (2,989)
+Commissions payable (809)                1,765
+Reinsurance payable (2,240)             (450)
+Accrued premium assessment payable (640)                3,698
+Premium deposits (935)                (1,002)
+Accounts payable 169                 (4,628)
+Pension related payable (1,483)             (978)
+Compensated absences payable 1,992              838
+Other liabilities (50)                  (198)
+Total OPEB liability (SAIF) 498                 300
+Net pension liability 48,027            19
+Lease liabillities (3,569)             (4,280)
+Increase/(decrease) in deferred inflows of resources:
+Related to OPEB (821)                (439)
+Related to pensions (10,406)           (14,450)
+Total adjustments 141,901          55,352
+NET CASH USED IN OPERATING ACTIVITIES (149,797)$       (200,161)$
+SUPPLEMENTAL SCHEDULE OF NONCASH INVESTING
+ACTIVITIES: Investments acquired and sold
+through tax free and taxable exchange transactions 37,824$          45,322$
+Tax free restructuring of DWS Real Estate Fund -$                120,628$
+See notes to financial statements.
+- 22 -
+SAIF CORPORATION
+NOTES TO FINANCIAL STATEMENTS
+AS OF AND FOR THE YEARS ENDED DECEMBER 31, 2024 AND 2023
+1. DESCRIPTION OF BUSINESS & REGULATORY ENVIRONMENT
+SAIF Corporation (SAIF) is a public corporation created by an act of the Oregon Legislature. It
+traces its origins to 1914 when its predecessor organization commenced business.
+SAIF is an insurance company authorized to write workers’ compensation coverage in Oregon
+and is a servicing carrier for accounts in the assigned risk pool. SAIF also provides coverage
+governed by the Longshore and Harbor Workers’ Compensation Act, Jones Act, and Federal
+Employers Liability Law. SAIF partners with Zurich Insurance Group Ltd. (Zurich) and Acrisure
+United States Insurance Services (USIS) to provide other states coverage. SAIF’s Board of
+Directors is appointed by the governor of the State of Oregon and consists of Oregon business
+and community leaders not otherwise in the employ of SAIF. Certain members of SAIF’s Board
+of Directors are SAIF policyholders or are employed by SAIF policyholders. The transactions
+between SAIF and these policyholders were within SAIF’s standard terms and conditions.
+SAIF writes business on a direct basis as well as through agents. Premiums written on a direct
+basis were 16.8 and 16.9 percent of standard premium during 2024 and 2023, respectively.
+SAIF issues workers’ compensation insurance policies to individual Oregon employers including
+state agencies.
+DCBS enforces workers’ compensation laws under the Oregon Revised Statutes (ORS). Under
+the reporting requirements of the DCBS, Oregon Division of Financial Regulation (Insurance
+Division), SAIF is subject to Risk Based Capital (RBC) requirements of the National Association
+of Insurance Commissioners (NAIC), which establishes certain amounts of capital and surplus
+be maintained. SAIF’s Company Action Level (CAL) RBC calculated minimum capital and
+surplus amount was $427.5 million and $435.2 million at December 31, 2024 and 2023,
+respectively. At December 31, 2024 and 2023, the statutory capital and surplus of SAIF
+exceeded the minimum RBC requirements. While SAIF is not subject to the minimum capital
+and surplus requirements set forth in ORS 731.554, SAIF uses various benchmarking and risk
+level techniques to monitor and maintain an adequate level of capital and surplus.
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Basis of accounting—SAIF has prepared the accompanying financial statements in
+accordance with accounting principles generally accepted in the United States of America for
+governmental entities. As a discretely presented component unit of the State of Oregon, SAIF
+is subject to the pronouncements of the Governmental Accounting Standards Board (GASB).
+Under accounting principles generally accepted in the United States of America as applied to
+governmental entities, SAIF accounts for its activities as a special purpose government
+engaged solely in business-type activities. Accordingly, SAIF follows the economic resources
+measurement focus and the accrual basis of accounting. Revenues are recognized when
+earned, regardless of when received, and expenses are recognized when incurred, regardless
+of when paid.
+Investments—SAIF reports investments at fair value on the statement of net position and
+recognizes the corresponding change in the fair value of investments in the year in which the
+change occurs as investment income (loss). The fair value of debt and equity securities is
+determined using recognized pricing services or prices quoted by one or more independent
+brokers. Equity securities traded on a national exchange are valued at the last reported sales
+- 23 -
+price. Debt securities are valued using evaluated bid prices at December 31, 2024 and 2023.
+Real estate investments are valued at net asset value (NAV).
+Cash and cash equivalents—Cash and cash equivalents include investments in highly liquid
+debt instruments with an original maturity of three months or less. SAIF places its temporary
+cash investments with the Oregon Short-Term Fund (OSTF), an external cash and investment
+pool. SAIF’s participation in this fund is involuntary. This fund is not registered with the
+Securities and Exchange Commission and is not rated. The OSTF is a cash and investment pool
+that operates as a demand deposit account. As a result, SAIF’s investment is not impacted by
+changes in the market value of the OSTF. By statute, the OSTF may hold securities with
+maturities no greater than three years. Audited financial statements and monthly compliance
+summaries, which include information about the OSTF’s maturity distribution and credit
+quality, may be obtained at the Oregon State Treasury’s web site:
+https://www.oregon.gov/treasury/public-financial-services/oregon-short-term-
+funds/pages/default.aspx. As of December 31, 2024 and 2023, SAIF’s balance in the OSTF
+was $39.1 million and $35.5 million, respectively.
+Oregon’s State Treasurer employs the services of two external investment managers to
+manage SAIF’s fixed income portfolios. The cash balances of the fixed income managers are
+invested in money market funds with the objective of maximizing current income while
+maintaining a stable net asset value. The average maturity of the Institutional U.S.
+Government Money Market Fund as of December 31, 2024 and 2023, was 40 days and 46
+days, respectively. The Institutional U.S. Government Money Market Fund had a credit quality
+rating of AAAm as of December 31, 2024 and 2023. At December 31, 2024 and 2023, SAIF’s
+balance in the Institutional U.S. Government Money Market Fund was $13.1 million and $4.1
+million, respectively.
+There were no Treasury bills held as of December 31, 2024. As of
+December 31, 2023, SAIF held $15.0 million in Treasury bills.
+Concentrations of credit risk—Financial instruments, which potentially subject SAIF to
+concentrations of credit risk, consist principally of temporary cash investments and debt
+securities. SAIF places its investment securities with financial institutions approved by the
+State of Oregon and limits the amount of credit exposure to any one financial institution.
+Concentrations of credit risk with respect to investments in debt securities are limited due to
+the large number of such investments and their distribution among many different industries
+and geographic regions. SAIF maintains cash in bank deposit accounts which, at times, may
+exceed federally insured limits. Financial instruments potentially subjecting SAIF to
+concentrations of credit risk also consist primarily of bank demand deposits in excess of
+Federal Deposit Insurance Corporation (FDIC) insurance thresholds. If any of the financial
+institutions with whom SAIF does business were to be placed into receivership with the FDIC,
+SAIF may be unable to access the cash it has on deposit with such institutions. If SAIF was
+unable to access its cash and cash equivalents as needed, SAIF’s financial position and ability
+to operate its business could be adversely affected. SAIF has not experienced any losses in
+such accounts, and management believes it is not exposed to any significant credit risk on
+these cash and cash equivalents.
+Capital assets—Capital assets are stated at historical cost, less accumulated depreciation.
+Maintenance, repairs, and minor renovations are charged to expense as costs are incurred.
+Upon retirement or sale, any resulting gain or loss is recorded as other income.
+Costs incurred to develop internal-use computer software and web sites during the application
+development stage are capitalized if they meet the $1.0 million threshold. Costs incurred
+during the preliminary project stage and post-implementation/operation stage are expensed
+as incurred.
+- 24 -
+Capital assets are capitalized and depreciated using the straight-line method over the
+estimated useful lives of the assets as follows:
+SAIF has several capital projects in progress or completed during the years ended December
+31, 2024 and 2023. These include a registration and profile management system phase I and
+II, a digital payment project, final costs on a human resource (HR) system completed in 2023,
+and final costs on a new claims system completed in 2024. A registration and profile
+management system phase II and a digital payment project were in progress in 2024. The
+table below shows the total costs incurred on these projects for the years ended December 31,
+2024 and 2023.
+The projects costs are displayed in the table below (dollars in thousands):
+SAIF implemented GASB 96 effective December 31, 2023. SBITAs were calculated beginning
+with January 1, 2023 information and are capitalized in the following table. Lessee
+arrangements include Right-of-Use (ROU) lease assets in capital assets and lease liabilities in
+current and noncurrent long-term liabilities in the statements of net position. SAIF chose to
+restate the beginning net position as of January 1, 2023, rather than restate 2022 financial
+statements as the impact was considered immaterial. Refer to Note 2 new accounting
+pronouncements for additional information on the restated beginning net position and Note 6
+for additional lease information.
+Useful Life
+Buildings and improvements 15–50 years
+Furniture, equipment, and automobiles 3–7 years
+Operating and nonoperating system software 3-5 years
+Capitalization Threshold
+All
+$25,000
+$1,000,000
+Year-to-date Life-to-date Year-to-date Life-to-date
+HR core system -$              3,032$           162$              3,032$
+Claims system 2,767$           38,907$         8,175$           36,140$
+RPM phase I -$              950$              380$              950$
+RPM phase II 67$                787$              720$              720$
+Digital payment 866$              1,838$           972$              972$
+2024 2023
+- 25 -
+Capital assets activity for the years ended December 31, 2024 and 2023, was as follows (dollars
+in thousands):
+Beginning Ending
+Balance Increases Decreases Balance
+Land 2,922$         -$                -$                2,922$
+Software in development 37,842         3,700           (39,694)       1,848
+Capital assets not yet in service 417              1,090           (1,213)         294
+Total nondepreciable capital assets 41,181         4,790           (40,907)       5,064
+Buildings and improvements 112,081       117              -                  112,198
+Lease assets-buildings 8,729           681              -                  9,410
+Lease assets-SBITAs 13,197         2,514           -                  15,711
+Furniture, equipment, and automobiles 9,930           1,032           (861)            10,101
+Data processing software 45,812         39,694         -                  85,506
+Total depreciable capital assets 189,749       44,038         (861)            232,926
+Total 230,930       48,828         (41,768)       237,990
+Less accumulated depreciation for:
+Buildings and improvements (28,271)       (3,248)         -                  (31,519)
+Lease assets-buildings (3,615)         (1,184)         733              (4,066)
+Lease assets-SBITAs (4,410)         (3,538)         10                (7,938)
+Furniture, equipment, and automobiles (7,776)         (930)            782              (7,924)
+Data processing software (40,533)       (9,971)         -                  (50,504)
+Total accumulated depreciation (84,605)       (18,871)       1,525           (101,951)
+Capital assets, net 146,325$     29,957$       (40,243)$     136,039$
+2024
+- 26 -
+Premiums—Premiums are based on individual employers’ reported payroll using
+predetermined, DCBS-approved insurance rates based on employee risk classifications and are
+recognized as income on a pro rata basis over the coverage period, which is generally one
+year. Ceded premiums are recognized consistent with the underlying policies. The portion of
+premiums that will be earned in the future are deferred and reported as unearned premiums.
+Policyholders’ premiums due to SAIF are recorded as premiums receivable, net of the
+allowance for uncollectible accounts of $1.5 million and $1.4 million at December 31, 2024 and
+2023, respectively. Premiums receivable consists of both billed amounts and unbilled amounts.
+Unbilled premiums receivable primarily represents premiums recorded as written at the policy
+inception date and not yet billed, as well as an estimate of the difference between amounts
+earned ratably on installment-billed policies and the amount billed on the policy. Unbilled
+premiums receivable also includes estimated billings on payroll reporting policies that were
+earned but not billed prior to year end. SAIF uses its historical experience to estimate earned
+but unbilled amounts, which are recorded as premiums receivable. These unbilled amounts are
+estimates, and while SAIF believes such amounts are reasonable, there can be no assurance
+the amounts ultimately received will equal the recorded unbilled amounts. The ultimate
+collectability of the unbilled premiums receivable can be affected by general changes in the
+economy and the regulatory environment due to the increased time required to determine the
+billable amount. SAIF considers these factors when estimating the premium receivable for
+unbilled premiums. Unbilled premiums receivable at December 31, 2024 and 2023, were
+$313.4 million and $330.4 million, respectively, including unearned premiums of $171.6
+million and $184.1 million, respectively, and are included in premiums receivable, net.
+Beginning Ending
+Balance Increases Decreases Balance
+Land 2,922$         -$                 -$                 2,922$
+Software in development 28,902         10,409         (1,469)          37,842
+Capital assets not yet in service 1,015           1,836           (2,434)          417
+Total nondepreciable capital assets 32,839         12,245         (3,903)          41,181
+Buildings and improvements 112,081        -                  -                  112,081
+Lease assets-buildings 8,729           -                  -                  8,729
+Lease assets-SBITAs -                  13,197         -                  13,197
+Furniture, equipment, and automobiles 8,032           1,910           (12)               9,930
+Data processing software 44,343         1,469           -                  45,812
+Total depreciable capital assets 173,185        16,576         (12)               189,749
+Total 206,024        28,821         (3,915)          230,930
+Less accumulated depreciation for:
+Buildings and improvements (25,034)        (3,237)          -                  (28,271)
+Lease assets-buildings (2,410)          (1,205)          -                  (3,615)
+Lease assets-SBITAs -                  (4,410)          -                  (4,410)
+Furniture, equipment, and automobiles (6,732)          (1,056)          12                (7,776)
+Data processing software (32,927)        (7,606)          -                  (40,533)
+Total accumulated depreciation (67,103)        (17,514)        12                (84,605)
+Capital assets, net 138,921$      11,307$        (3,903)$        146,325$
+2023
+- 27 -
+Certain policyholders are required to remit deposits based on their credit worthiness. Deposits
+are generally in the form of cash and are recorded as policyholders’ premium deposits.
+However, policyholders may pledge surety bonds and securities, as well as letters of credit, in
+lieu of cash deposits. Premium deposits at December 31, 2024 and 2023, were $16.4 million
+and $17.3 million, respectively.
+In addition to its regular premium plans, SAIF offers employers retrospective premium rating
+plans under which premiums are adjusted annually for up to 10½ years following the plan year
+based on policyholders’ loss experience. Adjustments to the original premiums are paid to or
+collected from the policyholders six months following the expiration of the policy and annually
+thereafter for up to 10½ years. The estimate of the net accrued premiums receivable for
+retrospective rating plans as of December 31, 2024 and 2023, is as follows (dollars in
+thousands):
+SAIF estimates accrued retrospective premiums receivable and payable by reviewing historical
+loss and premium development patterns at various stages of maturity and using these
+historical patterns to arrive at the best estimate of return and additional retrospective
+premiums on all open retrospectively rated policies. Premiums written on retrospective
+workers’ compensation policies for 2024 and 2023 were $79.0 million and $102.3 million,
+respectively, or 13.3 percent and 16.8 percent of net premiums written, respectively.
+Reserve for losses and loss adjustment expenses—The reserve for losses and loss
+adjustment expenses (LAE) is generally based on past experience. The liability includes
+provisions for reported claims and claims incurred but not reported.
+Management believes the reserve for unpaid losses and LAE at December 31, 2024 and 2023,
+is a reasonable estimate of net future claim costs and expenses associated with administering
+claims. Annually, executive leaders review key actuarial assumptions used to estimate this
+liability and consider the significant uncertainty associated with these estimates in booking the
+reserve. Actual future claims costs and LAE depend on a number of factors, including, but not
+limited to, the duration of worker disability, claimant and beneficiary lifespans, medical cost
+trends, occupational disease exposure, inflation, and other societal, legislative, judicial, and
+economic factors. As a result, the process used to compute the ultimate cost of settling claims
+and expenses associated with administering claims is necessarily based on estimates. The
+amount ultimately paid may be higher or lower than these estimates. Adjustments resulting
+from changes in estimates of these liabilities are charged or credited to operations in the
+period in which they occur (see Note 4). Beginning with the 2023 financial statement, SAIF used
+the Appointed Actuary’s models and analysis to inform SAIF’s recorded liabilities for unpaid
+claims. When necessary, SAIF adjusted the Appointed Actuary’s model assumptions to reflect
+SAIF’s reserving philosophy. SAIF’s reserving philosophy remains unchanged from the prior year.
+Premium deficiency—Premium deficiency is based upon an estimate of the amount by which
+the sum of anticipated claims costs, claims adjustment expenses, and maintenance expenses
+exceeds expected premium income and earnings on investments. At December 31, 2024 and
+2023, no reserve for premium deficiency was required to be recorded.
+Policyholders’ dividends—Substantially all of SAIF’s business is written under various
+participating plans wherein a dividend may be returned to the policyholder. Dividends may be
+paid to the extent that a surplus is accumulated from premiums, investment gains, or loss
+2024 2023
+Accrued retrospective premiums receivable 47,162$   26,461$
+Accrued retrospective premiums payable (8,331)     (9,401)
+Net 38,831$   17,060$
+- 28 -
+reserve reductions. In 2024 and 2023, policyholder dividends of $59.9 million and $135.0
+million, respectively, were incurred and paid to qualifying policyholders.
+Taxes and assessments—The Oregon Department of Justice has determined that SAIF is
+exempt from federal and state income taxes, because it is an integral part of the State of
+Oregon and, alternatively, exempt under either or both Sections 501(c)(27)(B) and 115(1) of
+the Internal Revenue Code.
+SAIF collects and remits levies on behalf of their policyholders to the Oregon Workers’
+Compensation Division of DCBS. Such assessments constitute an in-lieu-of-tax relative to
+premiums. Premium assessments were $53.8 million and $54.5 million for the years ended
+December 31, 2024 and 2023, respectively. Accrued premium assessment payable totaled
+$44.8 million and $45.4 million as of December 31, 2024 and 2023, respectively.
+Use of estimates—The preparation of financial statements in conformity with accounting
+principles generally accepted in the United States of America requires management to make
+estimates and assumptions that affect the reported amounts of assets and liabilities, the
+reported amounts of revenues and expenses during the reporting period, and disclosures of
+contingent assets and liabilities at the date of the financial statements. Actual results could
+differ from those estimates.
+Deferred outflows of resources and deferred inflows of resources—Deferred outflows of
+resources represent a consumption of net position that applies to a future period and will not
+be recognized as an outflow of resources (expense) until then. Deferred inflows of resources
+represent an acquisition of net position that applies to a future period and will not be
+recognized as an inflow of resources (revenue) until that time.
+New accounting pronouncements—In May 2020, the GASB issued Statement No. 96,
+Subscription-Based Information Technology Arrangements. This Statement provides guidance
+on the accounting and financial reporting for subscription-based information technology
+arrangements (SBITAs) for government end users (governments). This Statement (1) defines
+a SBITA; (2) establishes that a SBITA results in a right-to-use subscription asset—an
+intangible asset—and a corresponding subscription liability; (3) provides the capitalization
+criteria for outlays other than subscription payments, including implementation costs of a
+SBITA; and (4) requires note disclosures regarding a SBITA. To the extent relevant, the
+standards for SBITAs are based on the standards established in Statement No. 87, Leases, as
+amended. A SBITA is defined as a contract that conveys control of the right to use another
+party’s (a SBITA vendor’s) information technology (IT) software, alone or in combination with
+tangible capital assets (the underlying IT assets), as specified in the contract for a period of
+time in an exchange or exchange-like transaction.
+Under this Statement, a government generally should recognize a right-to-use subscription
+asset—an intangible asset—and a corresponding subscription liability. A government should
+recognize the subscription liability at the commencement of the subscription term, which is
+when the subscription asset is placed into service. The subscription liability should be initially
+measured at the present value of subscription payments expected to be made during the
+subscription term. Future subscription payments should be discounted using the interest rate
+the SBITA vendor charges the government, which may be implicit, or the government’s
+incremental borrowing rate if the interest rate is not readily determinable. A government
+should recognize amortization of the discount on the subscription liability as an outflow of
+resources (for example, interest expense) in subsequent financial reporting periods.
+The subscription asset should be initially measured as the sum of (1) the initial subscription
+liability amount, (2) payments made to the SBITA vendor before commencement of the
+subscription term, and (3) capitalizable implementation costs, less any incentives received
+from the SBITA vendor at or before the commencement of the subscription term. A
+- 29 -
+government should recognize amortization of the subscription asset as an outflow of resources
+over the subscription term.
+Activities associated with a SBITA, other than making subscription payments, should be
+grouped into the following three stages, and their costs should be accounted for accordingly:
+• Preliminary Project Stage, including activities such as evaluating alternatives,
+determining needed technology, and selecting a SBITA vendor. Outlays in this stage
+should be expensed as incurred.
+• Initial Implementation Stage, including all ancillary charges necessary to place the
+subscription asset into service. Outlays in this stage generally should be capitalized as an
+addition to the subscription asset.
+• Operation and Additional Implementation Stage, including activities such as subsequent
+implementation activities, maintenance, and other activities for a government’s ongoing
+operations related to a SBITA. Outlays in this stage should be expensed as incurred
+unless they meet specific capitalization criteria.
+This Statement provides an exception for short-term SBITAs. Short-term SBITAs have a
+maximum possible term under the SBITA contract of 12 months (or less), including any
+options to extend, regardless of their probability of being exercised. Subscription payments for
+short-term SBITAs should be recognized as outflows of resources. This Statement requires a
+government to disclose descriptive information about its SBITAs other than short-term
+SBITAs, such as the amount of the subscription asset, accumulated amortization, other
+payments not included in the measurement of a subscription liability, principal and interest
+requirements for the subscription liability, and other essential information. SAIF implemented
+the requirements of this Statement as of December 31, 2023. See Note 6 for additional
+information. The impact of this Statement on SAIF’s financials resulted in a restatement of net
+position. The 2023 beginning net position was restated as follows and includes GASB 101
+change in accounting principle (refer to GASB 101 for more information):
+In April 2022, the GASB issued Statement No. 99, Omnibus 2022. The objectives of this
+Statement are to enhance comparability in accounting and financial reporting and to improve
+the consistency of authoritative literature by addressing (1) practice issues that have been
+identified during implementation and application of certain GASB Statements and (2)
+accounting and financial reporting for financial guarantees. The practice issues addressed by
+this Statement are as follows:
+• Classification and reporting of derivative instruments within the scope of Statement No.
+53, Accounting and Financial Reporting for Derivative Instruments, that do not meet the
+definition of either an investment derivative instrument or a hedging derivative
+instrument
+• Clarification of provisions in Statement No. 87, Leases, as amended, related to the
+determination of the lease term, classification of a lease as a short-term lease,
+recognition and measurement of a lease liability and a lease asset, and identification of
+lease incentives
+January 1,
+2023
+Net position, as previously stated 1,831,342$
+Cumulative effect of change in accounting principle
+due to GASB 96 implementation 78
+Cumulative effect of change in accounting principle
+due to GASB 101 implementation (17,124)
+Net position, as restated 1,814,296$
+- 30 -
+• Clarification of provisions in Statement No. 94, Public-Private and Public-Public
+Partnerships and Availability Payment Arrangements, related to (a) the determination of
+the public-private and public-public partnership (PPP) term and (b) recognition and
+measurement of installment payments and the transfer of the underlying PPP asset
+• Clarification of provisions in Statement No. 96, Subscription-Based Information
+Technology Arrangements, related to the subscription-based information technology
+arrangement (SBITA) term, classification of a SBITA as a short-term SBITA, and
+recognition and measurement of a subscription liability
+• Extension of the period during which the London Interbank Offered Rate (LIBOR) is
+considered an appropriate benchmark interest rate for the qualitative evaluation of the
+effectiveness of an interest rate swap that hedges the interest rate risk of taxable debt
+• Accounting for the distribution of benefits as part of the Supplemental Nutrition
+Assistance Program (SNAP)
+• Disclosures related to nonmonetary transactions
+• Pledges of future revenues when resources are not received by the pledging government
+• Clarification of provisions in Statement No. 34, Basic Financial Statements—and
+Management’s Discussion and Analysis—for State and Local Governments, as amended,
+related to the focus of the government-wide financial statements
+• Terminology updates related to certain provisions of Statement No. 63, Financial
+Reporting of Deferred Outflows of Resources, Deferred Inflows of Resources, and Net
+Position
+• Terminology used in Statement 53 to refer to resource flows statements.
+The requirements of this Statement related to extension of the use of LIBOR, accounting for
+SNAP distributions, disclosures of nonmonetary transactions, pledges of future revenues by
+pledging governments, clarification of certain provisions in Statement 34, as amended, and
+terminology updates related to Statement 53 and Statement 63 are effective upon issuance.
+SAIF implemented the requirements related to leases, PPPs, and SBITAs as of December 31,
+2023. There was no significant impact to the financial statements. SAIF implemented the
+requirements related to financial guarantees and the classification and reporting of derivative
+instruments within the scope of Statement 53 as of December 31, 2024. There was no
+significant impact to the financial statements.
+In June 2022, the GASB issued Statement No. 100, Accounting Changes and Error
+Corrections—An Amendment of GASB Statement No. 62. The primary objective of this
+Statement is to enhance accounting and financial reporting requirements for accounting
+changes and error corrections to provide more understandable, reliable, relevant, consistent,
+and comparable information for making decisions or assessing accountability. This Statement
+defines accounting changes as changes in accounting principles, changes in accounting
+estimates, and changes to or within the financial reporting entity and describes the
+transactions or other events that constitute those changes. This Statement also addresses
+corrections of errors in previously issued financial statements. This Statement prescribes the
+accounting and financial reporting for (1) each type of accounting change and (2) error
+corrections. This Statement requires that (a) changes in accounting principles and error
+corrections be reported retroactively by restating prior periods, (b) changes to or within the
+financial reporting entity be reported by adjusting beginning balances of the current period,
+and (c) changes in accounting estimates be reported prospectively by recognizing the
+change in the current period. This Statement also requires that the aggregate amount of
+adjustments to and restatements of beginning net position, fund balance, or fund net
+position, as applicable, be displayed by reporting unit in the financial statements.
+This Statement requires disclosure in notes to financial statements of descriptive information
+about accounting changes and error corrections, such as their nature. This Statement
+addresses how information that is affected by a change in accounting principle or error
+correction should be presented in required supplementary information (RSI) and
+- 31 -
+supplementary information (SI). SAIF implemented the requirements of this Statement as of
+December 31, 2024. The impact to the financial statements was a change in accounting
+principle related to GASB Statement No. 101, Compensated Absences. SAIF restated the
+2023 financial statements and recorded a $17.1 million cumulative effect of accounting
+change in equity, a $1.5 million increase in underwriting expenses, and a $18.6 million
+increase in liabilities. Refer to GASB Statement No. 101 for additional information.
+In June 2022, the GASB issued Statement No. 101, Compensated Absences. The objective of
+this Statement is to better meet the information needs of financial statement users by
+updating the recognition and measurement guidance for compensated absences. That
+objective is achieved by aligning the recognition and measurement guidance under a unified
+model and by amending certain previously required disclosures. This Statement requires that
+liabilities for compensated absences be recognized for (1) leave that has not been used and
+(2) leave that has been used but not yet paid in cash or settled through noncash means. A
+liability should be recognized for leave that has not been used if (a) the leave is attributable
+to services already rendered, (b) the leave accumulates, and (c) the leave is more likely
+than not to be used for time off or otherwise paid in cash or settled through noncash means.
+This Statement requires that a liability for certain types of compensated absences—including
+parental leave, military leave, and jury duty leave—not be recognized until the leave
+commences. This Statement also requires that a liability for specific types of compensated
+absences not be recognized until the leave is used. This Statement also establishes guidance
+for measuring a liability for leave that has not been used, generally using an employee’s pay
+rate as of the date of the financial statements. With respect to financial statements prepared
+using the current financial resources measurement focus, this Statement requires that
+expenditures be recognized for the amount that normally would be liquidated with
+expendable available financial resources. This Statement amends the existing requirement to
+disclose the gross increases and decreases in a liability for compensated absences to allow
+governments to disclose only the net change in the liability (as long as they identify it as a
+net change). SAIF implemented the requirements of this Statement as of December 31,
+2024. The impact to the financial statements resulted in a restatement of 2023 balances for
+compensated absences. SAIF recorded a $17.1 million cumulative effect of accounting
+change in equity, a $1.5 million increase in underwriting expenses, and a $18.6 million
+increase in liabilities. The 2023 beginning net position was restated as follows (and includes
+GASB 96 change in accounting principle):
+In December 2023, the GASB issued Statement No. 102, Certain Risk Disclosures. The
+objective of this Statement is to provide users of government financial statements with
+essential information about risks related to a government’s vulnerabilities due to certain
+concentrations or constraints. This Statement defines a concentration as a lack of diversity
+related to an aspect of a significant inflow of resources or outflow of resources. A constraint is
+a limitation imposed on a government by an external party or by formal action of the
+government’s highest level of decision-making authority. Concentrations and constraints may
+limit a government’s ability to acquire resources or control spending.
+January 1,
+2023
+Net position, as previously stated 1,831,342$
+Cumulative effect of change in accounting principle
+due to GASB 96 implementation 78
+Cumulative effect of change in accounting principle
+due to GASB 101 implementation (17,124)
+Net position, as restated 1,814,296$
+- 32 -
+This Statement requires a government to assess whether a concentration or constraint makes
+the primary government reporting unit or other reporting units that report a liability for
+revenue debt vulnerable to the risk of a substantial impact. Additionally, this Statement
+requires a government to assess whether an event or events associated with a concentration
+or constraint that could cause the substantial impact to have occurred, have begun to occur,
+or are more likely than not to begin to occur within 12 months of the date the financial
+statements are issued.
+If a government determines that those criteria for disclosure have been met for a
+concentration or constraint, it should disclose information in notes to financial statements in
+sufficient detail to enable users of financial statements to understand the nature of the
+circumstances disclosed and the government’s vulnerability to the risk of a substantial impact.
+The disclosure should include descriptions of the following:
+• The concentration or constraint
+• Each event associated with the concentration or constraint that could cause a
+substantial impact if the event had occurred or had begun to occur prior to the
+issuance of the financial statements
+• Actions taken by the government prior to the issuance of the financial statements to
+mitigate the risk.
+The requirements of this Statement are effective for SAIF’s 2025 financial statements. SAIF
+is currently evaluating the impact of this Statement on the financial statements.
+In April 2024, the GASB issued Statement No. 103, Financial Reporting Model Improvements.
+The objective of this Statement is to improve key components of the financial reporting model
+to enhance its effectiveness in providing information that is essential for decision making and
+assessing a government’s accountability. This Statement also addresses certain application
+issues. This Statement continues the requirement that the basic financial statements be
+preceded by management’s discussion and analysis (MD&A), which is presented as required
+supplementary information (RSI). MD&A provides an objective and easily readable analysis of
+the government’s financial activities based on currently known facts, decisions, or conditions
+and presents comparisons between the current year and the prior year. This Statement
+requires that the information presented in MD&A be limited to the related topics discussed in
+five sections: (1) Overview of the Financial Statements, (2) Financial Summary, (3) Detailed
+Analyses, (4) Significant Capital Asset and Long-Term Financing Activity, and (5) Currently
+Known Facts, Decisions, or Conditions. Furthermore, this Statement stresses that the detailed
+analyses should explain why balances and results of operations changed rather than simply
+presenting the amounts or percentages by which they changed. This Statement emphasizes
+that the analysis provided in MD&A should avoid unnecessary duplication by not repeating
+explanations that may be relevant to multiple sections and that “boilerplate” discussions
+should be avoided by presenting only the most relevant information, focused on the primary
+government. In addition, this Statement continues the requirement that information included
+in MD&A distinguish between that of the primary government and its discretely presented
+component units.
+This Statement describes unusual or infrequent items as transactions and other events that
+are either unusual in nature or infrequent in occurrence. Furthermore, governments are
+required to display the inflows and outflows related to each unusual or infrequent item
+separately as the last presented flow(s) of resources prior to the net change in resource flows
+in the government-wide, governmental fund, and proprietary fund statements of resource
+flows. This Statement requires that the proprietary fund statement of revenues, expenses,
+and changes in fund net position continue to distinguish between operating and nonoperating
+revenues and expenses. Operating revenues and expenses are defined as revenues and
+expenses other than nonoperating revenues and expenses. Nonoperating revenues and
+- 33 -
+expenses are defined as (1) subsidies received and provided, (2) contributions to permanent
+and term endowments, (3) revenues and expenses related to financing, (4) resources from
+the disposal of capital assets and inventory, and (5) investment income and expenses.
+In addition to the subtotals currently required in a proprietary fund statement of revenues,
+expenses, and changes in fund net position, this Statement requires that a subtotal
+for operating income (loss) and noncapital subsidies be presented before reporting other
+nonoperating revenues and expenses. Subsidies are defined as (1) resources received from
+another party or fund (a) for which the proprietary fund does not provide goods and services
+to the other party or fund and (b) that directly or indirectly keep the proprietary fund’s current
+or future fees and charges lower than they would be otherwise, (2) resources provided to
+another party or fund (a) for which the other party or fund does not provide goods and
+services to the proprietary fund and (b) that are recoverable through the proprietary fund’s
+current or future pricing policies, and (3) all other transfers.
+This Statement requires governments to present each major component unit separately in the
+reporting entity’s statement of net position and statement of activities if it does not reduce the
+readability of the statements. If the readability of those statements would be reduced,
+combining statements of major component units should be presented after the fund financial
+statements. This Statement requires governments to present budgetary comparison
+information using a single method of communication—RSI. Governments also are required to
+present (1) variances between original and final budget amounts and (2) variances between
+final budget and actual amounts. An explanation of significant variances is required to be
+presented in notes to RSI. The requirements of this Statement are effective for SAIF’s 2026
+financial statements. SAIF is currently evaluating the impact of this Statement on the financial
+statements.
+In September 2024, the GASB issued Statement No. 104, Disclosure of Certain Capital Assets.
+State and local governments are required to provide detailed information about capital assets
+in notes to financial statements. Statement No. 34, Basic Financial Statements—and
+Management’s Discussion and Analysis—for State and Local Governments, requires certain
+information regarding capital assets to be presented by major class. The objective of this
+Statement is to provide users of government financial statements with essential information
+about certain types of capital assets.
+This Statement requires certain types of capital assets to be disclosed separately in the capital
+assets note disclosures required by Statement 34. Lease assets recognized in accordance with
+Statement No. 87, Leases, and intangible right-to-use assets recognized in accordance with
+Statement No. 94, Public-Private and Public-Public Partnerships and Availability Payment
+Arrangements, should be disclosed separately by major class of underlying asset in the capital
+as-sets note disclosures. Subscription assets recognized in accordance with Statement No.
+96, Subscription-Based Information Technology Arrangements, also should be separately
+disclosed. In addition, this Statement requires intangible assets other than those three types
+to be disclosed separately by major class.
+This Statement also requires additional disclosures for capital assets held for sale. A capital
+asset is a capital asset held for sale if (a) the government has decided to pursue the sale of
+the capital asset and (b) it is probable that the sale will be finalized within one year of the
+financial statement date. Governments should consider relevant factors to evaluate the
+likelihood of the capital asset being sold within the established time frame. This Statement
+requires that capital assets held for sale be evaluated each reporting period. Governments
+should disclose (1) the ending balance of capital assets held for sale, with separate disclosure
+for historical cost and accumulated depreciation by major class of asset, and (2) the carrying
+amount of debt for which the capital assets held for sale are pledged as collateral for each
+- 34 -
+major class of asset. The requirements of this Statement are effective for SAIF’s 2026 financial
+statements. SAIF is currently evaluating the impact of this Statement on the financial
+statements.
+Reclassifications—Certain reclassifications have been made to prior year amounts in order to
+conform with current year presentation.
+3. CASH, CASH EQUIVALENTS, AND INVESTMENTS
+Cash and cash equivalents—SAIF’s cash is held in demand accounts with the State
+Treasurer, State Street Bank and Trust Company, and U.S. Bank. The cash held by the State
+Treasurer is invested in the OSTF, a cash and investment pool that is available for use by all
+state funds and eligible local governments. Cash equivalents held by State Street Bank and
+Trust Company consist of $13.1 million in the Institutional U.S. Government Money Market
+fund as of December 31, 2024. There were no Treasury bills held as of December 31, 2024. As
+of December 31, 2023, SAIF held $15.0 million in Treasury bills. The Institutional U.S.
+Government Money Market Fund and the Short-Term Investment Fund are reported at
+amortized cost, which approximates fair value. SAIF’s cash and cash equivalents totaled
+$52.6 million and $54.7 million as of December 31, 2024 and 2023, respectively, and are
+composed of the following (dollars in thousands):
+Custodial credit risk for cash and cash equivalents (deposits)—Custodial credit risk for
+deposits is the risk that in the event of a bank failure, SAIF will not be able to recover the
+value of its deposits or collateral securities that are in possession of an outside party. State
+Treasury demand deposit accounts and investments of the OSTF held in state banks are
+insured up to the Federal Deposit Insurance (FDIC) amount of $250 thousand. Where balances
+exceed the FDIC amount, the balances are covered by collateral held in a multiple financial
+institution collateral pool administered by the Oregon State Treasury in the Public Funds
+Collateralization Program. As of December 31, 2024, the cash held by both State Street Bank
+and Trust Company (State Street) and U.S. Bank is in noninterest bearing accounts, is FDIC
+insured up to $250 thousand, and is uninsured for any balances exceeding that amount.
+Cash balances 2024 2023
+Oregon Short-Term Fund 39,130$   35,527$
+State Street Bank and Trust Company 158         -
+U.S. Bank 186         163
+39,474     35,690
+Cash equivalents
+State Street Bank (Treasury bills) -              14,954
+State Street Bank (Institutional U.S. Government money market fund) 13,081     4,101
+13,081     19,055
+Total cash and cash equivalents 52,555$   54,745$
+- 35 -
+Investments—SAIF’s investment policies are governed by statute and the Oregon
+Investment Council (Council). The State Treasurer (Treasurer) is the investment officer for the
+Council and is responsible for the funds on deposit in the State Treasury. In accordance with
+ORS 293.726, the investment funds are required to be invested, and the investments of those
+funds managed, as a prudent investor would do, exercising reasonable care, skill, and caution.
+While the Treasurer is authorized to use demand deposit accounts and fixed income
+investments, equity investment transactions must be directed by external investment
+managers that are under contract with the Council. Equity investments are limited to not more
+than 50 percent of the monies contributed to the Industrial Accident Fund (SAIF Corporation).
+However, SAIF’s adopted investment policy as approved by the Council limits equity holdings
+to a range of 7 percent to 13 percent of the market value of invested assets with a target
+allocation of 10 percent.
+Effective October 23, 2024, Council approved a revised asset allocation policy for SAIF
+Corporation. The allocation reaffirms a 5 percent target allocation to real estate in the form of
+private or publicly traded funds, allows for a 5 percent allocation to private credit through
+senior secured direct lending, and increased the target allocation to fixed income holdings from
+77 percent to 80 percent. The target allocation to global equities is unchanged at 10 percent.
+Bond, mortgage-backed, asset-backed, and equity security transactions are recorded on a
+trade-date basis, generally three business days prior to the settlement date. However, the
+number of days between trade and settlement dates for mortgage-backed securities can be up
+to 30 days or longer, depending on the security. Due from brokers for security sales at
+December 31, 2024 and 2023, were none and $1.0 million, respectively. Due to brokers for
+security purchases at December 31, 2024 and 2023, were $44 thousand and none,
+respectively.
+Interest rate risk—Interest rate risk is the risk that changes in interest rates of debt
+investments will adversely affect the fair value of an investment. SAIF’s policy for fixed income
+investments provides that a duration target be used to manage interest rate risk. The policy
+calls for the portfolio duration to be within 20 percent of the benchmark duration. The
+benchmark duration as of December 31, 2024, was 5.87 years, with an acceptable range of
+4.70 to 7.05 years. As of that date, the fixed income portfolio’s duration was 6.06 years.
+The following 2024 maturity distribution schedule includes $1.1 billion in interest-rate sensitive
+securities. As of December 31, 2024, SAIF held $472.7 million of U.S. federal agency
+mortgage-backed securities and $282.3 million of collateralized mortgage obligations (CMOs).
+These securities are based on cash flows from principal and interest payments on underlying
+mortgages. Therefore, they are sensitive to prepayments by mortgagees, which may result
+from a decline in interest rates. As of December 31, 2024, SAIF held $317.3 million of asset-
+backed securities which consisted primarily of collateralized loan obligations (CLOs),
+equipment loan and lease receivables, student and automobile loans, and other mortgage
+loans. The value of these securities can be volatile as interest rates fluctuate. Additional risk
+inherent with these securities is the unpredictability of default on loans that are the collateral
+for the debt.
+The following schedule represents the fixed income investments by maturity date as of
+December 31, 2024 and 2023, using the segmented time distribution method. Expected
+maturities will differ from contractual maturities, because borrowers may have the right to call
+or prepay obligations with or without call or prepayment penalties (dollars in thousands):
+- 36 -
+Credit risk—Credit risk is the risk that an issuer or other counterparty to an investment will
+not fulfill its obligations. SAIF’s credit risk policy is to maintain a well-diversified investment
+portfolio. Fixed income holdings shall be the largest component of the portfolio. The policy
+seeks to maintain an overall fixed income portfolio quality of at least “A” or higher. The
+majority of SAIF’s debt securities as of December 31, 2024 and 2023, were rated by Moody’s
+and Standard & Poor’s, which are credit rating providers. The following schedule represents
+the ratings of debt securities by investment type as of December 31, 2024 and 2023, using
+either Moody’s or Standard & Poor’s rating scale (dollars in thousands):
+More
+Less Than 1–5 6–10 Than 10 Fair
+2024 1 Year Years Years Years Value
+Bonds:
+U.S. Treasury obligations -$                68,562$        48,872$        178,021$      295,455$
+U.S. federal agency mortgage securities 39,691         131,636        118,400        182,970        472,697
+U.S. federal agency debt -                  -                   -                   1,362            1,362
+Corporate bonds 44,617         443,702        617,199        653,409        1,758,927
+Municipal bonds 5,291           -                   8,803            17,910          32,004
+Collateralized mortgage obligations 77,697         98,978          73,664          31,945          282,284
+Asset-backed securities 40,704         191,512        69,181          15,907          317,304
+International debt securities 11,868         134,785        147,978        77,227          371,858
+Total bonds 219,868$     1,069,175$   1,084,097$   1,158,751$   3,531,891$
+Equity securities:
+BlackRock MSCI ACWI IMI index fund 524,180
+Total equity securities 524,180
+Real estate open ended funds:
+Morgan Stanley Prime Property Fund LLC 134,794
+DWS RREEF America II LP 114,881
+Total real estate 249,675
+Total investments 4,305,746$
+More
+Less Than 1–5 6–10 Than 10 Fair
+2023 1 Year Years Years Years Value
+Bonds:
+U.S. Treasury obligations 4,102$         99,322$        16,005$        207,932$      327,361$
+U.S. federal agency mortgage securities 32,800         110,514        103,121        178,915        425,350
+U.S. federal agency debt -                  -                   -                   1,417            1,417
+Corporate bonds 15,574         491,217        569,436        664,131        1,740,358
+Municipal bonds 1,022           3,381            3,149            35,647          43,199
+Collateralized mortgage obligations 93,662         101,514        91,371          36,062          322,609
+Asset-backed securities 39,166         160,555        32,158          3,181            235,060
+International debt securities 1,079           167,770        142,660        92,533          404,042
+Total bonds 187,405$     1,134,273$   957,900$      1,219,818$   3,499,396$
+Equity securities:
+BlackRock MSCI ACWI IMI index fund 521,906
+Total equity securities 521,906
+Real estate open ended funds:
+Morgan Stanley Prime Property Fund LLC 141,353
+DWS RREEF America II LP 117,479
+Total real estate 258,832
+Total investments 4,280,134$
+2024
+AAA AA A BBB BB B CCC CC C D Unrated Fair Value
+Bonds:
+U.S. Treasury obligations -$                295,455$       -$                -$                -$              -$              -$           -$           -$           -$           -$              295,455$
+U.S. federal agency mortgage securities -                  472,697         -                  -                  -                -                -             -             -             -             -                472,697
+U.S. federal agency debt -                  1,362            -                  -                  -                -                -             -             -             -             -                1,362
+Corporate bonds 18,606          103,919         594,401         909,299         121,640      7,299          3,413       -             -             -             350            1,758,927
+Municipal bonds 1,765            16,821          6,390            -                  7,028          -                -             -             -             -             -                32,004
+Collateralized mortgage obligations 35,008          190,020         28,967          14,201          10,459        3,629          -             -             -             -             -                282,284
+Asset-backed securities 90,903          132,219         64,113          21,726          1,424          -                -             -             -             -             6,919          317,304
+International debt securities -                  2,096            143,944         189,441         30,245        5,574          558         -             -             -             -                371,858
+Total bonds 146,282$       1,214,589$    837,815$       1,134,667$    170,796$     16,502$       3,971$     -$           -$           -$           7,269$        3,531,891$
+2023
+AAA AA A BBB BB B CCC CC C D Unrated Fair Value
+Bonds:
+U.S. Treasury obligations -$                327,361$       -$                -$                -$              -$              -$           -$           -$           -$           -$              327,361$
+U.S. federal agency mortgage securities -                  425,350         -                  -                  -                -                -             -             -             -             -                425,350
+U.S. federal agency debt -                  1,417            -                  -                  -                -                -             -             -             -             -                1,417
+Corporate bonds 19,398          105,970         562,493         923,947         115,585      12,615        -             -             -             -             350            1,740,358
+Municipal bonds 2,017            28,292          6,731            -                  6,159          -                -             -             -             -             -                43,199
+Collateralized mortgage obligations 40,045          234,886         19,847          12,163          9,496          6,172          -             -             -             -             -                322,609
+Asset-backed securities 57,908          99,438          40,891          28,455          1,522          -                -             -             -             -             6,846          235,060
+International debt securities -               2,068            164,356         190,199         38,251        9,168          -             -             -             -             -                404,042
+Total bonds 119,368$       1,224,782$    794,318$       1,154,764$    171,013$     27,955$       -$           -$           -$           -$           7,196$        3,499,396$
+Quality Ratings
+Quality Ratings
+- 37 -
+- 38 -
+Concentration of credit risk—Concentration of credit risk is the risk of loss attributed to the
+magnitude of an entity’s investment in a single issuer. SAIF’s investment policy places
+limitations on the amount that may be invested in any one issuer. The following specific
+limitations reflect, in part, the Oregon Investment Council’s current investment philosophy
+regarding diversification.
+• No fixed income investment in any one issue shall be in excess of 5 percent of the
+outstanding fixed income obligations of the issuer.
+• Issuer level restrictions shall not apply to U.S. government and agency obligations,
+including agency-backed mortgages (no limit) and private mortgage-backed and asset-
+backed securities, which shall be limited to 10 percent per issuer.
+• Obligations of other national governments are limited to 10 percent per issuer.
+As of December 31, 2024 and 2023, SAIF did not have a concentration of credit risk in any
+one issuer that exceeded the policy outlined above.
+Fair value measurement— Fair value is defined as the price that would be received to sell an
+asset or paid to transfer a liability in an orderly transaction between market participants at the
+measurement date. Observable inputs are developed based on market data obtained from
+sources independent of the reporting entity. Unobservable inputs are developed based on the
+best information available about the assumptions market participants would use in pricing the
+asset. The classification of securities within the fair value hierarchy is based upon the activity
+level in the market for the security type and the inputs used to determine their fair value, as
+follows:
+Level 1 – Quoted prices in active markets for identical assets and liabilities: This category, for
+items measured at fair value on a recurring basis, includes hybrid securities and exchange-
+traded common stocks. The estimated fair value of the equity securities within this category
+are based on quoted prices in active markets and are thus classified as Level 1.
+Level 2 – Significant other observable inputs: This category, for items measured at fair value
+on a recurring basis, includes bonds and common stocks which are not exchange-traded. The
+estimated fair values of some of these items were determined by independent pricing services
+using observable inputs. Others were based on quotes from markets which were not
+considered actively traded.
+Level 3 – Significant unobservable inputs: This category, for items measured at fair value
+where there is no independent pricing source available, includes bonds, common stocks, and
+other invested assets. The estimated fair values of these items were determined by SAIF’s
+investment managers’ own assumptions using unobservable inputs.
+Bonds categorized as Level 2 were valued using a market approach. These valuations were
+determined to be Level 2 valuations as quoted market prices for similar instruments in an
+active market were utilized. This was accomplished by the use of matrix pricing. Matrix pricing
+takes quoted prices of bonds with similar features and applies analytic methods to determine
+the fair value of bonds held. Features that are inputs into the analysis include duration, credit
+quality, tax status, and call and sinking fund features.
+Common stocks categorized as Level 2 were valued using a market approach. These
+valuations were determined to be Level 2 valuations because quoted market prices for
+identical instruments trading in an inactive market were utilized. When an equity instrument is
+illiquid due to limited trading activity, the use of quoted market prices for identical instruments
+was determined by SAIF to be the most reliable method to determine fair value.
+- 39 -
+At the end of 2024, SAIF had invested $120.0 million in DWS RREEF America II LP. The final
+capital commitment of $2.5 million was contributed in January 2024. A total of $120.0 million
+was invested in Morgan Stanley Prime Property Fund, LLC, which was funded completely in
+2020. Both funds are open-ended real estate funds that permit quarterly redemption of
+shares, subject to certain requirements being met. The funds are valued using net asset value
+(NAV). The funds are expected to be held for the long term and generate a cash flow that will
+represent a significant component of the total return.
+The following schedule represents the fair value measurement of SAIF’s debt securities by
+investment type, equity securities, and real estate funds as of December 31, 2024 and 2023
+(dollars in thousands):
+Net Asset Value
+2024 Level 1 Level 2 Level 3 (NAV) Total
+Bonds:
+U.S. Treasury obligations -$                    295,455$       -$                      -$                      295,455$
+U.S. federal agency mortgage securities -                      472,697        -                       -                       472,697
+U.S. federal agency debt -                      1,362            -                       -                       1,362
+Corporate bonds 2,248               1,756,329     -                       -                       1,758,577
+Municipal bonds -                      32,004          -                       -                       32,004
+Collateralized mortgage obligations -                      282,284        -                       -                       282,284
+Asset-backed securities -                      317,304        -                       -                       317,304
+International debt securities -                      371,858        -                       -                       371,858
+Total bonds 2,248               3,529,293     -                       -                       3,531,541
+Equity securities:
+BlackRock MSCI ACWI IMI index fund -                      524,180        -                       -                       524,180
+Total equity securities -                      524,180        -                       -                       524,180
+Real estate open ended funds:
+Morgan Stanley Prime Property Fund LLC -                      -                       -                       134,794             134,794
+DWS RREEF America II LP -                      -                       -                       114,881             114,881
+Total real estate funds -                      -                       -                       249,675             249,675
+Total investments by fair value level 2,248$             4,053,473$    -$                      249,675$           4,305,396$
+Other investments:
+*Nonnegotiable certificates of deposit 350
+Total investments 4,305,746$
+*Nonnegotiable certificates of deposit are exempt from fair value reporting under GASB 72.
+Net Asset Value
+2023 Level 1 Level 2 Level 3 (NAV) Total
+Bonds:
+U.S. Treasury obligations -$                    327,361$       -$                      -$                      327,361$
+U.S. federal agency mortgage securities -                      425,350        -                       -                       425,350
+U.S. federal agency debt -                      1,417            -                       -                       1,417
+Corporate bonds 2,140               1,737,868     -                       -                       1,740,008
+Municipal bonds -                      43,199          -                       -                       43,199
+Collateralized mortgage obligations -                      322,609        -                       -                       322,609
+Asset-backed securities -                      235,060        -                       -                       235,060
+International debt securities -                      404,042        -                       -                       404,042
+Total bonds 2,140               3,496,906     -                       -                       3,499,046
+Equity securities:
+BlackRock MSCI ACWI IMI index fund -                      521,906        -                       -                       521,906
+Total equity securities -                      521,906        -                       -                       521,906
+Real estate open ended funds:
+Morgan Stanley Prime Property Fund LLC -                      -                       -                       141,353             141,353
+DWS RREEF America II LP -                      -                       -                       117,479             117,479
+Total real estate funds -                      -                       -                       258,832             258,832
+Total investments by fair value level 2,140$             4,018,812$    -$                      258,832$           4,279,784$
+Other investments:
+*Nonnegotiable certificates of deposit 350
+Total investments 4,280,134$
+*Nonnegotiable certificates of deposit are exempt from fair value reporting under GASB 72.
+- 40 -
+Securities on deposit—U.S. Treasury obligations with a fair value of $8.4 million were on
+deposit with the Federal Reserve as required by the U.S. Department of Labor under the
+Longshore and Harbor Workers’ Compensation Act as of December 31, 2024 and 2023,
+respectively. Certificates of deposit with a fair value of $350 thousand were on deposit at U.S.
+Bank as required by DCBS at December 31, 2024 and 2023. U.S. Treasury obligations with a
+fair value of $52.1 million and $49.2 million were on deposit with Wilmington Trust for loss
+payments with Zurich, a reinsurer for other states coverage, as of December 31, 2024 and
+2023, respectively.
+Securities lending—In accordance with state investment policies, SAIF participates in
+securities lending transactions. The Oregon State Treasury has, through a Securities Lending
+Agreement, authorized State Street to lend SAIF’s securities to broker-dealers and banks
+pursuant to a form of loan agreement. Both SAIF and the borrowers maintain the right to
+terminate all securities lending transactions on demand. There have been no significant
+violations of the provisions of securities lending agreements.
+During 2024 and 2023, State Street loaned SAIF’s fixed income securities and received cash
+and noncash collateral denominated in U.S. dollars. Borrowers were required to deliver
+collateral for each loan equal to at least 102 percent of the fair value of the loaned security.
+SAIF did not impose any restrictions on the amount of the loans State Street made on its
+behalf. Securities received as collateral may not be sold or pledged by SAIF, except in the
+event of borrower default. SAIF was fully indemnified by State Street against losses due to
+borrower default, and there were no losses during the year from the failure of borrowers to
+return loaned securities.
+Cash collateral received for securities loaned is invested in the State Street Bank and Trust
+Company Oregon Short-Term Investment Fund (the Fund), an “external investment pool” for
+purposes of GASB Statement No. 31. SAIF’s participation in the Fund is voluntary. The fair
+value of investments held by the Fund is based upon valuations provided by a recognized
+pricing service. The fair value of SAIF’s reinvested cash collateral is determined using the NAV
+(net asset value) per share of the Fund. The Fund is not registered with the Securities and
+Exchange Commission, but the custodial agent is subject to the oversight of the Federal
+Reserve Board and the Massachusetts Commissioner of Banks. No income from the Fund was
+assigned to another fund by the custodial agent during 2024 and 2023. At December 31, 2024
+and 2023, the Fund had an average life-final maturity of 64 days and 88 days, respectively.
+The cash collateral held at December 31, 2024 and 2023, was $135.6 million and $65.4
+million, respectively. As of December 31, 2024, SAIF held $16.1 million in securities received
+as collateral. There were no securities received as collateral as of December 31, 2023. At
+December 31, 2024 and 2023, the fair value, including accrued investment income related to
+the securities on loan, was $148.3 million and $64.0 million, respectively. For 2024 and 2023,
+securities lending income was $6.2 million and $3.0 million and securities lending expense was
+$5.8 million and $2.6 million, respectively.
+4. RESERVE FOR LOSSES AND LOSS ADJUSTMENT EXPENSES
+SAIF has established a reserve for both reported and unreported insured events, which
+includes estimates of future payments of losses and related LAE. In estimating the reserve for
+losses and LAE, SAIF considers prior experience, industry information, currently recognized
+trends affecting data specific to SAIF, and other factors relating to workers’ compensation
+insurance underwritten by SAIF. Beginning with the 2023 financial statement, SAIF used the
+Appointed Actuary’s models and analysis to inform SAIF’s recorded liabilities for unpaid claims.
+When necessary, SAIF adjusted the Appointed Actuary’s model assumptions to reflect SAIF’s
+reserving philosophy.
+- 41 -
+The following table provides a reconciliation of the beginning and ending reserve for losses and
+LAE at December 31, 2024 and 2023 (dollars in thousands):
+The net reserve for losses and LAE increased $117.3 million in 2024, which was net of favorable
+loss development of $16.8 million. Loss reserves increased $78.3 million as compared to the prior
+year. This was driven by establishing reserves for the 2024 accident year, offset by payments
+made on previously incurred claims, and favorable development in prior accident years. In past
+years, favorable development was strongly driven by medical claims. However, in 2024 favorable
+medical claim development slowed due to increasing average medical payment per claim.
+Subsequently, there was less total favorable reserve development.
+• Projected ultimate claims costs reduced primarily due to lower than expected frequency
+on disabling and non-disabling claims.
+• Rising costs of medical services is driving medical escalation adding pressure to claims
+costs. These impacts are partially offset by decreased utilization.
+LAE reserves increased $39.0 million in 2024. This was driven by newly established reserves
+for the 2024 accident year, partially offset by paid LAE associated with previously incurred
+claims and unfavorable development in prior accident years. The unfavorable development in
+unpaid LAE for prior accident years was largely attributable to rising operating expenses.
+The net reserve for losses and LAE increased $48.8 million in 2023, which was net of favorable
+loss development of $101.1 million. Loss reserves increased $36.0 million as compared to the
+prior year. This was driven by establishing reserves for the 2023 accident year, offset by
+payments made on previously incurred claims, and favorable development in prior accident years.
+In past years, favorable development was strongly driven by medical claims. However, in 2023
+favorable medical claim development slowed due to increasing average medical payment per
+claim. Subsequently, there was less total favorable reserve development, and the favorable
+development is even spread across all portfolio segments.
+2024 2023
+Gross reserve for losses and loss adjustment
+expenses—beginning of year 2,582,633$    2,529,420$
+Less reinsurance recoverable—beginning of year (72,108)         (67,665)
+Net reserve for losses and loss adjustment
+expenses—beginning of year 2,510,525     2,461,755
+Incurred losses and loss adjustment expenses:
+Provision for insured events of the current year 656,410        644,022
+Provision for insured events of prior years (16,848)         (101,058)
+Total incurred losses 639,562        542,964
+Loss and loss adjustment expense payments attributable to:
+Insured events of the current year 204,433        195,601
+Insured events of prior years 317,783        298,593
+Total payments 522,216        494,194
+Net reserve for losses and loss adjustment expenses—end of year 2,627,871     2,510,525
+Plus reinsurance recoverable—end of year 68,154          72,108
+Gross reserve for losses and loss adjustment expenses—end of year 2,696,025$    2,582,633$
+- 42 -
+• Projected ultimate medical claims costs reduced primarily due to fewer than expected
+permanent partial disability (PPD) claims and favorable average medical cost per claim.
+Although medical costs have emerged more favorably than expected, medical
+escalation is increasing, partially due to changes in the Oregon medical fee schedule.
+• Projected ultimate indemnity claim costs reduced primarily due to favorable frequency
+rates for permanent disabling and fatal claims.
+• Projected ultimate COVID-19 claim costs reduced due to fewer than expected severe
+claims as well as overall favorable frequency trends.
+LAE reserves increased $12.8 million in 2023. This was driven by newly established reserves
+for the 2023 accident year, partially offset by paid LAE associated with previously incurred
+claims and favorable development in prior accident years. The favorable development in
+unpaid LAE for prior accident years was largely attributable to the decrease in loss reserves.
+SAIF discounts the indemnity case reserves for workers’ compensation claims on a tabular
+basis using the 2007 United States Life Tables, the 1997 United States of America Railroad
+Retirement Board Remarriage Table, and a discount rate of 3.5 percent. For federal claims,
+SAIF uses the 1999 United States Life Tables and a discount rate of 3.5 percent. SAIF does not
+discount any incurred but not reported (IBNR) reserves, any medical reserves, or any LAE
+reserves, except for assumed IBNR reserves reported by the National Workers Compensation
+Reinsurance Pool. Net reserves subject to tabular discounting were $209.6 million and $209.2
+million for 2024 and 2023, respectively. The discounts were $109.1 million and $106.0 million
+as of December 31, 2024 and 2023, respectively.
+Anticipated salvage and subrogation of $59.8 million and $54.7 million was included as a
+reduction of the reserve for losses and LAE at December 31, 2024 and 2023, respectively.
+SAIF’s exposure to asbestos claims arose from the sale of workers’ compensation policies.
+Reserves of $13.9 million and $12.6 million for losses and LAE are related to asbestos claims
+as of December 31, 2024 and 2023, respectively. Amounts paid for asbestos-related claims
+were $409 thousand and $841 thousand for the years ended December 31, 2024 and 2023,
+respectively.
+5. REINSURANCE
+In the ordinary course of business, SAIF cedes premiums for purposes of risk diversification
+and limiting maximum loss exposure from catastrophic events through contractual agreements
+with reinsurers. If such assuming reinsurers are unable to meet the obligations assumed under
+these reinsurance agreements, SAIF would be liable to pay the obligation. To minimize its
+exposure to significant losses from reinsurer insolvencies, SAIF evaluates the financial
+condition of its reinsurers and monitors concentration of credit risk.
+SAIF maintains reinsurance protection which provides $160 million of coverage per occurrence
+in excess of a $35 million retention, with a $15 million limit on any one life. The Terrorism Risk
+Insurance Act provides coverage for certified domestic and foreign terrorist events that are
+nuclear, biological, chemical, or radiological in nature, which are excluded from the
+reinsurance contract. During 2024, SAIF had reinsurance protection for 80 percent of losses in
+excess of 20 percent of 2023 direct earned premium for acts of foreign and domestic terrorism
+through the Terrorism Risk Insurance Program Reauthorization Act.
+- 43 -
+The following amounts have been deducted in the accompanying financial statements as a
+result of reinsurance ceded, excluding balances ceded to the Oregon Workers’ Compensation
+Insurance Plan, for 2024 and 2023 (dollars in thousands):
+Of the $18.0 million and $22.4 million recoverable, SAIF had a reinsurance recoverable from
+an individual reinsurer of $10.0 million and $15.0 million, respectively as of December 31,
+2024 and 2023. SAIF did not commute ceded reinsurance in 2024 and 2023.
+SAIF partners with Zurich and USIS to provide other states coverage. Zurich issues policies
+covering the non-Oregon operation of SAIF’s customers and manages claims arising from
+those policies. SAIF reinsures those policies in full. USIS, a broker licensed in all fifty states,
+provides marketing and administrative services.
+The following amounts are included in the accompanying financial statements as a result of
+participation in other states coverage in 2024 and 2023 (dollars in thousands):
+SAIF is authorized to write business on behalf of the Oregon Workers’ Compensation Insurance
+Plan (the Plan), administered by the National Council on Compensation Insurance through the
+National Workers’ Compensation Reinsurance Pool (NWCRP). The Plan provides a guaranteed
+source of workers’ compensation insurance for employers unable to obtain coverage because
+of unstable financial conditions, poor loss experience, or the inherently dangerous nature of
+the work. SAIF cedes such business to the Plan. In addition, SAIF is required to assume its
+share of premiums and losses from the Plan based on SAIF’s voluntary market share.
+The following amounts are included in the accompanying financial statements as a result of
+participation in the Plan in 2024 and 2023 (dollars in thousands):
+2024 2023
+Reserve for losses and loss adjustment expenses 18,003$   22,400$
+Premiums earned 2,203       2,170
+Losses and loss adjustment expenses incurred (4,276)     8,769
+Other States Coverage 2024 2023
+Assumed:
+Reserve for losses and loss adjustment expenses 47,236$   43,657$
+Unearned premiums 9,712       9,564
+Premiums written 25,170     24,305
+Premiums earned 25,022     24,279
+Losses and loss adjustment expenses incurred 17,923     17,331
+Commission expense 3,933       4,464
+- 44 -
+6. LEASE COMMITMENTS AND SUBSCRIPTION BASED TECHNOLOGY AGREEMENTS
+SAIF is a lessee for various noncancelable leases of buildings in multiple locations and
+subscription IT arrangements that expire during various years through 2030. For leases and
+subscriptions with a maximum possible term of 12 months or less at commencement, SAIF
+recognizes expense based on the provisions of the lease contract and SBITA. SAIF considers
+lease contracts with an initial lease asset value of $250,000 or less to be immaterial, SBITA’s
+with an initial lease asset value of $1 million or less to be immaterial and therefore excludes
+them as a capital lease from the financial statements.
+SAIF uses an estimated incremental borrowing rate of 4.5 percent as the discount rate for
+leases/SBITAs unless the rate that the lessor charges is known. The current incremental
+borrowing rate was determined to represent the approximate cost of capital for SAIF. SAIF
+monitors changes in circumstances that may require remeasurement of a lease/SBITA. When
+certain changes occur that are expected to significantly affect the amount of the lease/SBITA
+liability, the liability is remeasured, and a corresponding adjustment is made to the
+lease/SBITA asset, respectively.
+In accordance with GASB Statement No. 87, at lease commencement, SAIF initially measures
+the lease liability as the present value of payments expected to be made during the lease
+term. Subsequently, the lease liability is reduced by the principal portion of lease payments
+made. The lease asset is initially measured as the initial amount of the lease liability plus any
+initial direct costs ancillary to placing the underlying asset into service, less any lease
+incentives received at or before the lease commencement date. Subsequently, the lease asset
+is amortized into depreciation expense on a straight-line basis over the lease term.
+In accordance with GASB Statement No. 96, at subscription commencement, SAIF initially
+measures the subscription liability as the present value of payments expected to be made
+during the subscription term. Subsequently, the subscription liability is reduced by the
+principal portion of lease payments made. The subscription IT asset is initially measured as
+the initial amount of the subscription liability, less any vendor incentives received at or before
+the subscription commencement date. Subsequently, the subscription IT asset is amortized
+into depreciation expense on a straight-line basis over the subscription term.
+SAIF’s future annual lease payments for buildings as of December 31, 2024, are as follows
+(dollars in thousands):
+NWCRP 2024 2023
+Assumed:
+Reserve for losses and loss adjustment expenses 85,665$   90,633$
+Unearned premiums 3,653       4,149
+Premiums written 13,484     14,367
+Premiums earned 13,980     15,039
+Losses and loss adjustment expenses incurred 1,982       3,497
+Commission expense 4,059       4,287
+Ceded:
+Reserve for losses and loss adjustment expenses 50,152$   49,707$
+Unearned premiums 3,436       3,875
+Premiums written 8,157       9,689
+Premiums earned 8,596       10,415
+Losses and loss adjustment expenses incurred 5,834       1,659
+Commission expense 2,205       2,997
+- 45 -
+SAIF’s future annual lease payments for subscriptions as of December 31, 2024, are as follows
+(dollars in thousands):
+7. RISK MANAGEMENT
+The State of Oregon administers property and casualty insurance programs covering state
+government agencies through its Insurance Fund, an internal service fund. The Insurance
+Fund, established by ORS 278.425, is used to provide both self-insurance and commercial
+insurance coverage for State of Oregon agencies. The Insurance Fund services claims for:
+direct physical loss or damage to state property; tort liability claims brought against the state,
+its officers, employees, or agents; and employees, elected officials, and members of
+commissions and boards for faithful performance. The Insurance Fund is backed by a
+commercial excess property policy with limits of $425 million and a blanket commercial excess
+bond with limits of $4.6 million.
+SAIF participates in the Insurance Fund. The cost of servicing insurance claims and payments
+is covered by charging an assessment to each participating state entity based on its share of
+services provided in a prior period. The total statewide assessment of each type of coverage is
+based on independent biennial actuarial forecasts and administrative expenses, less any
+available fund balance of the Insurance Fund from the prior biennium. In addition, SAIF can
+elect to purchase additional coverage through the fund. SAIF’s assessment was $0.4 million
+for the years ended December 31, 2024 and 2023.
+SAIF is self-insured for workers’ compensation insurance. SAIF’s employees do not participate
+in the State of Oregon’s health insurance plans. SAIF is also self-funded for one health and
+one dental insurance option offered to its employees.
+8. CONTINGENCIES
+SAIF has entered into structured settlements wherein SAIF has purchased annuities for which
+the claimant is payee, but for which SAIF is contingently liable. The amount of the contingent
+liability is the amount of the liability due to the various claimants that has been offset by the
+purchase of the annuity. Contingent liabilities arising from these settlements were $1.5 million
+and $1.6 million at December 31, 2024 and 2023, respectively.
+Years ending Total
+December 31, Principal Interest Payment
+2025 1,100$      250$         1,350$
+2026 1,139        200           1,339
+2027 1,255        146           1,401
+2028 1,348        88             1,436
+2029 - 2030 1,207        31             1,238
+Total 6,049$      715$         6,764$
+Years ending Total
+December 31, Principal Interest Payment
+2025 3,128$      364$         3,492$
+2026 1,714        233           1,947
+2027 1,810        155           1,965
+2028 1,001        74             1,075
+2029 - 2030 645           44             689
+Total 8,298$      870$         9,168$
+- 46 -
+During the normal course of business, SAIF becomes involved in litigation arising out of
+matters incident to the conduct of its insurance operations. SAIF is represented in these
+actions by the Oregon Department of Justice. Some of these potential liabilities become actual
+liabilities when one or more future events occur or fail to occur. To the extent that the future
+event is likely to occur or fail to occur, and a reasonable estimate of the loss can be made, an
+estimated liability would be recorded on SAIF's financial statements. Management believes
+that these matters do not materially impact the financial statements. SAIF had no unfunded
+commitments as of December 31, 2024. As of December 31, 2023, SAIF had unfunded
+commitments of $2.5 million to be invested in the DWS RREEF America II LP fund, subject to
+capital calls by the fund.
+9. SUBSEQUENT EVENTS
+Subsequent events have been considered through July 29, 2025, which is the date the
+financial statements were available to be issued.
+10.  DEFERRED COMPENSATION PLAN
+SAIF provides a deferred compensation plan, authorized under and consistent with Internal
+Revenue Code Section 457(b), as a benefit available to eligible employees. As a tax-
+advantaged retirement savings vehicle, the plan authorizes the employee to execute an
+individual agreement with the plan’s record keeper, Empower Retirement. Participants cannot
+receive the funds until certain circumstances are met. Funds withheld from employee
+compensation and remitted to the plan may be invested by the employee in a variety of
+mutual funds, collective investment trusts, and other offerings selected by SAIF’s Deferred
+Compensation Plan Committee. Plan assets are generally held in a trust account with Great-
+West Trust Company, LLC and administered by Empower Retirement for the exclusive benefit
+of the participants and their beneficiary(ies). Participants’ rights under the plan are equal to
+the fair market value (or book value in the case of stable value option) of their deferred
+compensation plan account. SAIF has no rights to participant funds and does not perform the
+investing function for the participant, except in the instance where a participant fails to make
+an affirmative investment election. SAIF’s primary fiduciary responsibilities for the plan
+extends to selection and monitoring of the investment options that are made available to the
+participants as well as the monitoring of plan service providers. Thus, plan assets and any
+related liability to plan participants have been excluded from the financial statements.
+11. RETIREMENT PLAN
+Plan descriptions—SAIF’s employees hired prior to August 29, 2003, participate in the
+Oregon Public Employees’ Retirement System (PERS), a cost-sharing multiple-employer
+defined benefit pension plan. The PERS Board of Trustees under the guidelines of ORS
+Chapter 238 administers PERS. The PERS retirement allowance, payable monthly for life, may
+be selected from multiple retirement benefit options. Options include survivorship benefits,
+non-survivorship benefits, and lump-sum benefits. The basic benefit formula is 1.67 percent of
+a member’s final average salary multiplied by the member’s number of years of service.
+Benefits may also be calculated under either a money match or an annuity-plus-pension
+computation if a greater benefit results. PERS also provides death and disability benefits. A
+copy of the Oregon Public Employees’ Retirement System annual financial report may be
+obtained by writing to PERS, Fiscal Services Division, PO Box 23700, Tigard, Oregon 97281-
+3700. The report may also be accessed online at:
+http://www.oregon.gov/PERS/pages/financials/actuarial-financial-information.aspx.
+- 47 -
+On December 30, 2019, SAIF funded a PERS side account totaling $97.0 million which
+represented approximately 90 percent of SAIF's unfunded actuarial liability based on a
+preliminary actuarial valuation from PERS. This side account does not impact employee
+benefits received under PERS; instead, it represents a prepayment of SAIF's on-going
+contributions. SAIF will see the benefit of lower contribution rates over 16 years as the
+account is amortized. As of December 31, 2024, SAIF received rate relief of 10.27 percent of
+each covered employee’s salary for its otherwise required pension contribution rates. The
+balance is factored into the calculation of the net pension liability and deferred outflows of
+resources as a difference between employer contributions and employer’s proportionate share on
+the statement of net position.
+Beginning January 1, 2004, all covered employees are required by state statute to contribute
+6.00 percent of their salary to the Individual Account Program (IAP), a defined contribution
+plan. Current law permits employers to pay employees’ contributions to PERS, which SAIF has
+elected to do. Additionally, SAIF is required by statute to contribute a percentage of each
+covered employee’s salary to fund the PERS program. Beginning on July 1, 2020, certain
+amounts of the IAP contributions are “redirected” under Oregon statute from employee
+accounts to fund the pension UAL. This provision remains in effect until the pension reaches a
+certain funded status.
+As of December 31, 2024, SAIF contributes 21.78 percent of each employee’s covered salary
+to the PERS program. This contribution is the minimum contribution required for future
+periods. For the required contributions, 10.27 percent of employees’ salaries is covered by the
+side account rate relief, and SAIF contributes the remaining 11.51 percent of salary.
+Rates are
+subject to change as a result of subsequent actuarial valuations.
+SAIF employees hired on or after August 29, 2003, participate in the Oregon Public Service
+Retirement Plan (OPSRP) after completing six months of service. OPSRP is a hybrid pension
+plan (cost-sharing multiple-employer plan) administered by the PERS Board of Trustees under
+the guidelines of ORS Chapter 238A with two components: the Pension Program (defined
+benefit) and the IAP (defined contribution). As of December 31, 2024, SAIF contributes 18.28
+percent of each covered employee’s salary to the Pension Program and 6.00 percent to the
+IAP. This contribution is the minimum contribution required for future periods. For the required
+OPSRP Pension Program contributions, 10.27 percent of employee’s salaries is covered by the
+side account rate relief, and SAIF contributes the remaining 8.01 percent of salary. Rates are
+subject to change as a result of subsequent actuarial valuations.
+SAIF participates, along with other State of Oregon agencies, in paying the debt service for
+State of Oregon general obligation bonds issued in October 2003 to reduce an unfunded PERS
+liability. The bonds are scheduled to mature 25 years after the date of issuance. Currently, the
+repayment rate is 4.80 percent of payroll each month. The payment rate is recalculated
+periodically, as needed.
+The total amount contributed by SAIF for all plans (including RHIA and RHIPA plans discussed
+in Note 12) for the years ended December 31, 2024 and 2023, consist of the following (dollars
+in thousands):
+- 48 -
+For the years ended December 31, 2024 and 2023, SAIF’s employer contributions were equal
+to the annual required contributions. SAIF’s contributions were less than 5.00 percent of each
+plan’s total contributions. There are no funding improvement or rehabilitation plans
+implemented or pending for any of the plans SAIF participates in. SAIF did not pay any
+surcharges during the year ended December 31, 2024. SAIF is a funder of last resort,
+embodied in the scheme of ORS Chapter 238, along with every other employer in PERS. PERS’
+board from time to time will evaluate the liabilities of PERS and set the amount of
+contributions to be made by SAIF to ensure that those liabilities will be funded no more than
+40 years after the date on which the determination is made.
+Net pension liability—At December 31, 2024, SAIF reported a liability of $120.7 million for
+its proportionate share of the net pension liability. The net pension liability was measured as of
+June 30, 2024, and the total pension liability used to calculate the net pension liability was
+determined by an actuarial valuation as of December 31, 2022. At December 31, 2024, SAIF’s
+proportionate share was 0.54 percent of the statewide pension plan.
+For the year ended December 31, 2024, SAIF recorded pension expense of $24.3 million. At
+December 31, 2024, SAIF reported deferred outflows of resources and deferred inflows of
+resources related to pensions from the following sources (in thousands):
+2024 2023
+Employer contributions:
+Debt service 5,713$    5,914$
+PERS-Pension Program 5,930     6,054
+OPSRP-Pension Program 16,986    14,428
+Total employer contributions 28,629    26,396
+PERS side account rate relief: (12,342)  (10,904)
+Net employer contributions 16,287    15,492
+Employee contributions paid by SAIF:
+PERS-IAP 1,566     1,615
+OPSRP-IAP 5,574     4,870
+Total employee contributions 7,140     6,485
+Total contributions 23,427 $  21,977 $
+- 49 -
+The $4.4 million reported as deferred outflows of resources related to pensions resulting from
+contributions subsequent to the measurement date will be recognized as a reduction of the net
+pension liability in the year ending December 31, 2025. Other amounts reported as deferred
+outflows of resources and deferred inflows of resources related to pensions will be recognized
+in pension expenses as follows (in thousands):
+Actuarial methods and assumptions—The following methods and assumptions were used
+in the development of the total pension liability:
+Deferred Deferred
+Differences between expected and actual experience 7,152$            288$
+Changes in assumptions 12,137            16
+Net difference between projected and actual earnings
+on investments 7,669              -
+Changes in proportionate share 27,931            11,412
+Differences between employer contributions and employer's
+proportionate share of system contributions 6,479              10,098
+Total (prior to post-measurement date contributions) 61,368            21,814
+Net deferred outflows (inflows) of resources before
+contributions subsequent to the measurement date 39,554            -
+Contributions subsequent to the measurement date 4,410              -
+Net deferred outflows (inflows) of resources 43,964$          -$
+Outflows of
+Resources
+Inflows of
+Resources
+Year ending
+December 31,
+Deferred Outflows (Inflows) of
+Resources (Prior to Post-
+Measurement Date Contributions)
+2025 6,294$
+2026 16,425
+2027 8,756
+2028 6,228
+2029 1,851
+Total 39,554$
+- 50 -
+Long-term expected rate of return—In January 2023, the PERS board sought to develop
+an analytical basis for selecting the long-term expected rate of return assumption. The Board
+reviewed long-term assumptions developed by both Milliman’s capital market assumptions
+team and the Oregon Investment Council’s (OIC) investment advisors. The following table
+shows Milliman’s assumptions for each of the asset classes in which the plan was invested at
+that time based on the OIC long-term target asset allocation:
+Valuation date December 31, 2022
+Measurement date June 30, 2024
+Experience study 2022, published July 24, 2023
+Actuarial assumptions:
+Actuarial cost method Entry age normal
+Inflation rate 2.40 percent
+Long-term expected rate of return 6.90 percent
+Discount rate 6.90 percent
+Projected salary increases 3.40 percent
+Cost of living adjustments (COLA) Blend of 2.00% COLA and graded COLA
+(1.25%/0.15%) in accordance with
+Moro  decision; blend based on service.
+Mortality Healthy retirees and beneficiaries:
+Pub-2010 Healthy Retiree, sex distinct, generational
+with Unisex, Social Security Data Scale, with job category
+adjustments and set-backs as described in the valuation.
+Active members:
+Pub-2010 Employee, sex distinct, generational with
+Unisex, Social Security Data Scale, with job category
+adjustments and set-backs as described in the valuation.
+Disabled retirees:
+Pub-2010 Disabled Retiree, sex distinct, generational with
+with Unisex, Social Security Data Scale, with job category
+adjustments and set-backs as described in the valuation.
+- 51 -
+The OIC’s description of each asset class was used to map the target allocation to the asset
+classes. Each asset class assumption is based on a consistent set of underlying assumptions
+and includes adjustment for the inflation assumption. These assumptions are not based on
+historical returns, but instead are based on a forward-looking capital market economic model.
+Discount rate—The discount rate used to measure the total pension liability was 6.90 percent
+for the Defined Benefit Pension Plan. The projection of cash flows used to determine the
+discount rate assumed that the contributions from plan members and those of the contributing
+employers are made at the contractually required rates, as actuarially determined. Based on
+those assumptions, the pension plan’s fiduciary net position was projected to be available to
+make all projected future benefit payments of the current plan members. Therefore, the long-
+term expected rate of return on pension plan investments for the Defined Benefit Pension Plan
+was applied to all periods of projected benefit payments to determine the total pension
+liability.
+The following table presents the net pension liability (asset) calculated using the discount rate
+of 6.90 percent, as well as what the net pension liability (asset) would be if it were calculated
+using a discount rate that is one percent lower (5.90 percent) or one percent higher (7.90
+percent) than the current rate (in millions):
+Pension plan fiduciary net position—Detailed information about the pension plan’s
+fiduciary net position is available in the separately issued PERS financial report.
+Long-Term Expected Rate of Return1 20-Year
+Annual Annualized Annual
+Target Arithmetic Geometric Standard
+Asset Class Allocation Return2 Mean Deviation
+Global equity 27.50 % 8.57 % 7.07 % 17.99 %
+Private equity 25.50 12.89 8.83 30.00
+Core fixed income 25.00 4.59 4.50 4.22
+Real estate 12.25 6.90 5.83 15.13
+Master limited partnerships 0.75 9.41 6.02 27.04
+Infrastructure 1.50 7.88 6.51 17.11
+Hedge fund of funds - multistrategy 1.25 6.81 6.27 9.04
+Hedge fund equity - hedge 0.63 7.39 6.48 12.04
+Hedge fund - macro 5.62 5.44 4.83 7.49
+Assumed inflation - mean 2.35 % 1.41 %
+1Based on the OIC Statement of Investment Objectives and Policy Framework for the Oregon Public
+Employees Retirement Fund, including revisions adopted at the OIC meeting on January 25, 2023.
+2The arithmetic mean is a component that goes into calculating the geometric mean. Expected
+rates of return are presented using the geometric mean, which the Board uses in setting the
+discount rate.
+1% Decrease Discount Rate 1% Increase
+Net Pension Liability (Asset) (5.90%) (6.90%) (7.90%)
+Defined Benefit Pension Plan 190.4$           120.7$             62.3$
+- 52 -
+Pension related payable— Prior to the formation of the PERS State and Local Government
+Rate Pool (SLGRP), the State and community colleges were pooled together in the State and
+Community College Pool (SCCP), while local government employers participated in the Local
+Government Rate Pool (LGRP). These two pools combined to form the SLGRP, effective
+January 1, 2002. The unfunded actuarial liability (UAL) attributable to the SCCP at the time the
+SLGRP was formed is maintained separately from the SLGRP and is reduced by contributions
+and increased for interest charges at the assumed interest rate, which was 6.90 percent in
+fiscal year 2024. The pre-SLGRP pooled liability attributable to SAIF is being amortized over
+the period ending December 31, 2027. SAIF is being assessed an employer contribution rate of
+1.33 percent of covered payroll for payment of this liability. The outstanding pre-SLGRP pooled
+liability as of December 31, 2024 for SAIF is $2.9 million, of which $0.9 million is recorded as
+the current portion and is reported in the accompanying financial statements as pension
+related payable.
+SAIF’s future principal and interest payments on pension-related debt at December 31, 2024,
+are as follows (dollars in thousands):
+12.   OTHER POSTEMPLOYMENT BENEFIT PLANS (OPEB)
+SAIF administers a single-employer defined benefit healthcare plan for qualified employees
+and postemployment healthcare for retiring employees eligible to receive medical coverage.
+Additionally, for eligible PERS members, PERS administers the Retirement Health Insurance
+Account (RHIA), a cost-sharing, multiple-employer defined-benefit OPEB plan, and the
+Retirement Health Insurance Premium Account (RHIPA), a single-employer plan with the State
+of Oregon as the employer.
+Plan administered by SAIF
+Plan description—SAIF employees retiring under Oregon PERS are eligible to receive medical
+coverage for self and eligible dependents until age 65. Retirees must pay the premium for the
+coverage elected. Premiums for coverage are identical for active and retired employees,
+except to the extent that SAIF pays all or a portion of its active employees’ premiums.
+Participating retirees pay their own monthly premiums based on a blended premium rate since
+retirees are pooled together with active employees for insurance rating purposes. Benefit
+provisions are established by SAIF. No assets are accumulated in a trust that meets the
+criteria in paragraph 4 of GASB Statement No. 75.
+Funding policy—SAIF’s funding policy provides for contributions at amounts sufficient to fund
+benefits on a pay-as-you-go basis. For the years ended December 31, 2024 and 2023
+respectively, retired plan members contributed $712 thousand and $684 thousand through
+their required contributions, and the required contribution rate per retired member was an
+average of $1,137 and $1,005 per month.
+Employees covered by benefit terms—As of the actuarial valuation date of January 1,
+2023, the following employees were covered by the benefit terms:
+Years ending December 31: Principal Interest
+2025 893$     183$
+2026 955       120
+2027 1,023    53
+Total 2,871$  356$
+- 53 -
+Benefit payments—Benefit payments made for the fiscal year ended December 31, 2024
+was $610 thousand.
+Total OPEB liability—SAIF’s total OPEB liability was determined in accordance with the
+parameters of GASB Statement No. 75. The total OPEB liability was calculated using the entry
+age normal actuarial cost allocation method. In addition, GASB Statement No. 75 requires that
+the allocation of costs for accounting purposes be made as a level percentage of employees’
+projected pay, including future anticipated pay increases. The total OPEB liability was
+determined by an actuarial valuation as of January 1, 2023, calculated based on the discount
+rate and actuarial assumptions below, and was then projected forward to the measurement
+date (in thousands):
+Actuarial methods and assumptions—The total OPEB liability in the January 1, 2023
+actuarial valuation was determined using the following actuarial assumptions and other inputs,
+applied to all periods included in the measurement, unless otherwise specified:
+January 1,
+2023
+Active employees 1,081
+Retired members and others
+receiving benefits 68
+Total participants 1,149
+December 31, December 31,
+2024 2023
+Total OPEB liability $9,805 $9,307
+Covered payroll $127,307 $115,613
+Total OPEB liability as a % of covered payroll 7.7% 8.1%
+Discount rate 3.26% 3.72%
+Valuation date January 1, 2023 January 1, 2023
+Measurement date December 31, 2023 December 31, 2022
+Inflation 2.40% 2.40%
+Projected Salary Growth 3.40% 3.40%
+Mortality Rates
+Actuarial cost method Individual Entry Age Normal Level Individual Entry Age Normal Level
+Percent of Pay Percent of Pay
+Post-retirement mortality uses the
+Pub-2010 retiree mortality tables, sex
+distinct, for general employees, set
+back one year for males, no set back
+for females. Pre-retirement mortality
+uses 115% for males and 125% for
+females of the Pub-2010 employee
+mortality tables, sex distinct, for
+general employees, set back one year
+for males, no set back for females.
+Mortality is projected on a
+generational basis using the Unisex
+Social Security Data Scale.
+Post-retirement mortality uses the
+Pub-2010 retiree mortality tables, sex
+distinct, for general employees, set
+back one year for males, no set back
+for females. Pre-retirement mortality
+uses 115% for males and 125% for
+females of the Pub-2010 employee
+mortality tables, sex distinct, for
+general employees, set back one year
+for males, no set back for females.
+Mortality is projected on a
+generational basis using the Unisex
+Social Security Data Scale.
+- 54 -
+Health care cost trend affects both the projected health care costs as well as the projected
+health care premiums.
+Change in total OPEB liability—At December 31, 2024, SAIF’s change in total OPEB liability
+is as follows (in thousands):
+Discount rate—The following presents the total OPEB liability of the Plan, calculated using the
+discount rate of 3.26 percent, as well as what the Plan’s total OPEB liability would be if it were
+calculated using a discount rate that is one percentage point lower (2.26 percent) or one
+percentage point higher (4.26 percent) than the current rate. A similar sensitivity analysis is
+then presented for changes in the healthcare cost trend assumption (in thousands):
+The discount rate was based on the Bond Buyer 20-Year General Obligation Bond Index.
+OPEB expense and deferred outflows of resources and deferred inflows of resources
+related to OPEB—For the year ended December 31, 2024, SAIF recognized a negative OPEB
+expense of $101 thousand. At December 31, 2024, the deferred outflows and inflows of
+resources related to OPEB were as follows (in thousands):
+Health Care Cost Trend Year Pre-65 Trend
+2024 6.75
+2025 6.25
+2026 5.50
+2027 5.00
+2028-2029 4.75
+2030-2031 4.50
+2032-2066 4.25
+2067-2072 4.00
+2073+ 3.75
+Total OPEB
+Liability
+Balance as of December 31, 2023 9,307$
+Changes for the year:
+Service cost 460
+Interest on total OPEB liability 352
+Effect of changes to benefit terms -
+Effect of economic/demographic gains or loss -
+Effect of assumptions changes or inputs 296
+Benefit payments (610)
+Balance as of December 31, 2024 9,805$
+1% Decrease Discount Rate 1% Increase
+(2.26%) (3.26%) (4.26%)
+Total OPEB liability $10,478 $9,805 $9,173
+Assumed Healthcare
+1% Decrease Trend Rate 1% Increase
+Total OPEB liability $8,866 $9,805 $10,900
+- 55 -
+The contributions made subsequent to the measurement date of $674 thousand will be
+recognized as a reduction in the total OPEB liability during the year ending December 31,
+2025.
+Other amounts currently reported as deferred outflows of resources and (deferred inflows) of
+resources related to OPEB will be recognized in OPEB expense as follows (in thousands):
+Plans administered by the Public Employees Retirement System (PERS)
+Plan descriptions—The Retirement Health Insurance Account (RHIA), administered by PERS,
+is a cost-sharing, multiple employer OPEB plan. The plan authorizes a payment of up to $60
+toward the monthly cost of health insurance for eligible PERS members. To be eligible the
+PERS member must have eight or more years of qualifying service in PERS at the time of
+retirement, receive both Medicare parts A and B coverage, and enroll in a PERS-sponsored
+health plan. The coverage also extends to members receiving a disability allowance as if the
+member had at least eight years of creditable service. A surviving spouse or dependent of a
+deceased PERS retiree is eligible if he or she is receiving a retirement benefit or allowance
+from PERS or was insured at the time of the member’s death and the member retired before
+May 1, 1991. The plan is closed to entrants hired on or after August 29, 2003. The RHIA plan
+and benefit amount is established by ORS 238.420. There are no automatic or ad-hoc
+adjustments to the benefit amount in the statute.
+The other plan administered by PERS is the Retiree Health Insurance Premium Account
+(RHIPA). This plan is a single employer plan with the State of Oregon as the single employer.
+As authorized by ORS 238.415, retirees receive payment for the average difference between
+the health insurance premiums paid by retired state employees and the premiums paid by
+active state employees. The average amount is determined by PERS Board on or before
+January 1 of each year. This plan is closed to entrants hired on or after August 29, 2003.
+Retirees are eligible for the RHIPA plan if they have eight or more years of qualifying service
+but are not eligible for federal Medicare coverage. Retirees receiving a disability pension are
+also eligible if the pension was calculated as if they had eight or more years of qualifying
+service and are not receiving federal Medicare coverage. A surviving spouse or dependent of a
+Deferred Outflows Deferred Inflows
+of Resources of Resources
+Differences between expected and actual experience 658$                  447$
+Changes of assumptions or inputs 606 827
+Contributions made subsequent to measurement date 674 -
+Total as of December 31, 2024 1,938$               1,274$
+Years ending December 31:
+2025 (130)$
+2026 18
+2027 (43)
+2028 52
+2029 47
+Thereafter 46
+Total (10)$
+- 56 -
+retired state employee is eligible if he or she is receiving a retirement benefit from PERS or
+was insured at the time the member died and the member retired on or after September 29,
+1991.
+Funding policy—Both plans are required by statute to be funded through employer
+contributions actuarially necessary to fund the liabilities of the plan. Employer contribution
+levels must be established by the PERS Board using the same actuarial assumptions it uses to
+determine employer contribution rates for PERS fund. Contribution rates for the fiscal year
+ended December 31, 2024, were effective July 1, 2023, and based on the December 31, 2021
+valuation. The rates are a percentage of covered payroll and vary by the retirement plan of
+the participant. SAIF made no employer contributions to PERS for RHIA and RHIPA for the
+fiscal year ended December 31, 2024 as the plans were fully funded. There were no
+contractually required contributions for both RHIA and RHIPA for the fiscal year.
+Net OPEB Asset (RHIA)—At December 31, 2024, SAIF reported an asset of $3.3 million for
+its proportionate share of the net OPEB asset. The net OPEB asset was measured as of June
+30, 2024, and the total OPEB liability used to calculate the net OPEB asset was determined by
+an actuarial valuation as of December 31, 2022. At December 31, 2024, SAIF’s proportionate
+share was 0.90 percent of the statewide pension plan, and 2.63 percent of employer state
+agencies, and was estimated by SAIF based on prior year allocations.
+Net OPEB Asset (RHIPA)—At December 31, 2024, SAIF reported a net OPEB asset of $1.1
+million. The net OPEB asset was measured as of June 30, 2024, and the total OPEB liability
+used to calculate the net OPEB asset was determined by an actuarial valuation as of December
+31, 2022. At December 31, 2024, SAIF’s proportionate share was 2.22 percent of employer
+state agencies, and was estimated by SAIF based on prior year allocations.
+OPEB expense and deferred outflows of resources and deferred inflows of resources
+related to OPEB—For the year ended December 31, 2024, SAIF recognized OPEB expense of
+$232 thousand for the RHIA plan and a negative $34 thousand for the RHIPA plan. The
+deferred outflows and inflows of resources for the two plans were as follows (in thousands):
+The were no contributions made subsequent to the measurement date for RHIA and RHIPA as
+of December 31, 2024, as both plans were fully funded. Other amounts reported as deferred
+outflows or inflows of resources related to OPEB will be recognized in OPEB expense as follows
+(in thousands):
+Deferred Deferred Deferred Deferred
+Outflows of Inflows of Outflows of Inflows of
+Resources Resources Resources Resources
+Differences between expected and actual experience -$              64$            -$              224$
+Changes in assumptions -                41 9                197
+Net difference between projected and
+actual earnings on investments 92              -                42              -                $
+Changes in proportion and differences between fund
+contributions and proportionate share of contributions 182            3                -                -
+Total (prior to post-measurement date contributions) 274            108            51              421
+Net deferred outflow/(inflow) of resources before
+contributions subsequent to measurement date -                166            -                (370)
+Contributions subsequent to the measurement date -                -                -                -
+Net deferred outflow/(inflow) of resources 166$          (370)$
+RHIA RHIPA
+- 57 -
+Actuarial methods and assumptions—The following methods and assumptions were used
+in the development of the total OPEB liability:
+Fiscal Years Ending
+December 31 RHIA RHIPA
+2025 (22)$         (121)$
+2026 128           (125)
+2027 50             (56)
+2028 10             (54)
+2029 -               (14)
+Total 166$         (370)$
+RHIA RHIPA
+Valuation date December 31, 2022 December 31, 2022
+Measurement date June 30, 2024 June 30, 2024
+Experience study 2022, published July 24, 2023 2022, published July 24, 2023
+Actuarial assumptions:
+Actuarial cost method Entry age normal Entry age normal
+Inflation rate 2.40 percent 2.40 percent
+Long-term expected rate of return 6.90 percent 6.90 percent
+Discount rate 6.90 percent 6.90 percent
+Projected salary increases 3.40 percent 3.40 percent
+Retiree healthcare participation Healthy retirees: 25.0% 8-14 Years of Service: 10.0%
+Disabled retirees: 15.0% 15-19 Years of Service: 11.0%
+20-24 Years of Service: 12.0%
+25-29 Years of Service: 20.0%
+30+ Years of Service: 25.0%
+Healthcare cost trend rate Not applicable Applied at beginning of plan year,
+starting with 6.6% for 2023, increasing
+to 7.0% for 2024, decreasing to 4.2%
+for 2032, increasing to 4.3% for 2055,
+and decreasing to an ultimate rate
+rate of 3.8% for 2074 and beyond.
+Mortality Healthy retirees and beneficiaries: Healthy retirees and beneficiaries:
+Pub-2010 Healthy Retiree, sex distinct, Pub-2010 Healthy Retiree, sex distinct,
+generational with Unisex, Social Security generational with Unisex, Social Security
+Data Scale, with job category adjustments Data Scale, with job category adjustments
+and set-backs as described in the valuation. and set-backs as described in the valuation.
+Active members: Active members:
+Pub-2010 Employee, sex distinct, gener- Pub-2010 Employee, sex distinct, gener-
+ational with Unisex, Social Security Data ational with Unisex, Social Security Data
+Scale, with job category adjustments and Scale, with job category adjustments and
+set-backs as described in the valuation. set-backs as described in the valuation.
+Disabled retirees: Disabled retirees:
+Pub-2010 Disabled Retiree, sex distinct, Pub-2010 Disabled Retiree, sex distinct,
+generational with Unisex, Social Security generational with Unisex, Social Security
+Data Scale, with job category adjustments Data Scale, with job category adjustments
+and set-backs as described in the valuation. and set-backs as described in the valuation.
+- 58 -
+Long-term expected rate of return— In January 2023, the PERS board sought to develop
+an analytical basis for selecting the long-term expected rate of return assumption. The Board
+reviewed long-term assumptions developed by both Milliman’s capital market assumptions
+team and the Oregon Investment Council’s (OIC) investment advisors. The following table
+shows Milliman’s assumptions for each of the asset classes in which the plan was invested at
+that time based on the OIC long-term target asset allocation for both RHIA and RHIPA:
+Each asset class assumption is based on a consistent set of underlying assumptions and
+includes adjustment for the inflation assumption. These assumptions are not based on
+historical returns, but instead are based on a forward-looking capital market economic model.
+Discount rate—The discount rate used to measure the total OPEB liability was 6.90 percent
+for both RHIA and RHIPA plans. The projection of cash flows used to determine the discount
+rate assumed that the contributions from plan members and those of the contributing
+employers are made at the contractually required rates, as actuarially determined. Based on
+those assumptions, the RHIA and RHIPA plans’ fiduciary net position was projected to be
+available to make all projected future benefit payments of the current plan members.
+Therefore, the long-term expected rate of return on OPEB plan investments for the RHIA and
+RHIPA plan was applied to all periods of projected benefit payments to determine the total
+OPEB liability.
+The following table presents the net OPEB liability (asset) for the RHIA and RHIPA plans
+calculated using the discount rate of 6.90 percent, as well as what the net OPEB liability
+(asset) would be if it were calculated using a discount rate that is one percent lower (5.90
+percent) or one percent higher (7.90 percent) than the current rate (in thousands):
+Long-Term Expected Rate of Return1 20-Year
+Annual Annualized Annual
+Target Arithmetic Geometric Standard
+Asset Class Allocation Return2 Mean Deviation
+Global equity 27.50 % 8.57 % 7.07 % 17.99 %
+Private equity 25.50 12.89 8.83 30.00
+Core fixed income 25.00 4.59 4.50 4.22
+Real estate 12.25 6.90 5.83 15.13
+Master limited partnerships 0.75 9.41 6.02 27.04
+Infrastructure 1.50 7.88 6.51 17.11
+Hedge fund of funds - multistrategy 1.25 6.81 6.27 9.04
+Hedge fund equity - hedge 0.63 7.39 6.48 12.04
+Hedge fund - macro 5.62 5.44 4.83 7.49
+Assumed inflation - mean 2.35 % 1.41 %
+1Based on the OIC Statement of Investment Objectives and Policy Framework for the Oregon Public
+Employees Retirement Fund, including revisions adopted at the OIC meeting on January 25, 2023.
+2The arithmetic mean is a component that goes into calculating the geometric mean. Expected
+rates of return are presented using the geometric mean, which the Board uses in setting the
+discount rate.
+Current
+1% Decrease Discount Rate 1% Increase
+Employers' Net OPEB Liability/(Asset) (5.90%) (6.90%) (7.90%)
+OPEB - RHIA (3,014)$              (3,255)$              (3,464)$
+OPEB - RHIPA (1,093)$              (1,140)$              (1,188)$
+- 59 -
+The following table presents the net OPEB liability (asset) for the RHIA and RHIPA plans
+calculated using the assumed healthcare cost trend rate, as well as what the net OPEB liability
+(asset) would be if it were calculated using a discount rate that is one percent lower or one
+percent higher than the current rate (in thousands):
+RHIA and RHIPA plans’ fiduciary net position—Detailed information about the RHIA and
+RHIPA’s fiduciary net position is available in the separately issued PERS financial report.
+Assumed Healthcare
+Employers' Net OPEB Liability/(Asset) 1% Decrease Trend Rate 1% Increase
+OPEB - RHIA (3,255)$              (3,255)$              (3,255)$
+OPEB - RHIPA (1,210)$              (1,140)$              (1,064)$
+- 60 -
+(Unaudited)
+REQUIRED SUPPLEMENTARY INFORMATION
+DEFINED BENEFIT PENSION PLAN
+SCHEDULE OF PROPORTIONATE SHARE OF THE NET PENSION LIABILITY (ASSET)
+Last 10 Fiscal Years
+(In thousands)
+The Schedule of the Proportionate Share of the Net Pension Liability (Asset) presents multi-year
+trend information comparing the proportionate share of the net pension liability (asset) to covered
+payroll.
+Schedule of the Proportionate Share of the Net Pension Liability (Asset)
+2024 2023 2022 2021 2020
+Proportion of the net pension
+liability (asset) 0.54% 0.39% 0.47% 0.37% 0.38%
+Proportionate share of the net
+pension liability (asset) 120,721$ 72,694$  72,675$  44,322$  82,928$
+Covered payroll 127,307$ 115,613$ 110,788$ 96,427$  91,190$
+Employer net pension liability (asset)
+as a percentage of covered payroll 94.8% 62.9% 65.6% 46.0% 90.9%
+Plan fiduciary net position as a
+percentage of the total pension liability 79.3% 81.7% 84.5% 87.6% 75.8%
+2019 2018 2017 2016 2015
+Proportion of the net pension
+liability (asset) 0.72% 0.59% 0.68% 0.62% 0.60%
+Proportionate share of the net
+pension liability (asset) 124,823$ 90,082$  91,953$  93,594$  34,187$
+Covered payroll 86,110$  81,426$  77,158$  72,940$  68,447$
+Employer net pension liability (asset)
+as a percentage of covered payroll 145.0% 110.6% 119.2% 128.3% 49.9%
+Plan fiduciary net position as a
+percentage of the total pension liability 80.2% 82.1% 83.1% 80.5% 91.9%
+- 61 -
+(Unaudited)
+REQUIRED SUPPLEMENTARY INFORMATION
+DEFINED BENEFIT PENSION PLAN
+SCHEDULE OF EMPLOYER CONTRIBUTIONS
+Last 10 Fiscal Years
+(In thousands)
+The Schedule of Employer Contributions presents multi-year trend information comparing the
+actual contributions to the contractually required contributions.
+Schedule of Employer Contributions
+2024 2023 2022 2021 2020
+Contractually required contributions 10,573$   9,454$     8,126$    6,787$   5,615$
+Contributions in relation to the
+contractually required contributions (10,573)    (9,454)      (8,126)     (6,787)    (5,615)
+Contribution deficiency (excess) -$            -$            -$            -$          -$
+Covered payroll 127,307$ 115,613$ 110,788$ 96,427$ 91,190$
+Contributions as a percentage of
+covered payroll 8.3% 8.2% 7.3% 7.0% 6.2%
+2019 2018 2017 2016 2015
+Contractually required contributions 12,217$   10,162$   8,985$    7,340$   6,541$
+Contributions in relation to the
+contractually required contributions (12,217)    (10,162)    (8,985)     (7,340)    (6,541)
+Contribution deficiency (excess) -$            -$            -$            -$          -$
+Covered payroll 86,110$   81,426$   77,158$   72,940$ 68,447$
+Contributions as a percentage of
+covered payroll 14.2% 12.5% 11.6% 10.1% 9.6%
+- 62 -
+(Unaudited)
+REQUIRED SUPPLEMENTARY INFORMATION
+POSTEMPLOYMENT HEALTHCARE BENEFIT PLAN (SAIF)
+SCHEDULE OF CHANGES IN TOTAL OPEB LIABILITY AND RELATED RATIOS
+Last 10 Fiscal Years*
+(In thousands)
+The Schedule of Changes in Total OPEB Liability and Related Ratios presents multi-year trend
+information comparing the proportionate share of the total OPEB liability to covered payroll.
+Schedule of Changes in Total OPEB Liability and Related Ratios
+*10-year trend information specific to SAIF Corporation will be presented prospectively.
+Total OPEB Liability 2024 2023 2022 2021
+Service cost 460$       493$       478$       474$
+Interest on total OPEB liability 352 191 191 259
+Effect of changes to benefit terms -          -          -          -
+Effect of economic/demographic gains
+or (losses) -          887         -          (1,063)
+Effect of assumption changes or inputs 296 (851) 38 334
+Benefit payments (610) (420) (421) (491)
+Net change in total OPEB liability 498         300         286         (487)
+Total OPEB liability, beginning 9,307 9,007 8,721 9,208
+Total OPEB liability, ending  9,805$    9,307$     9,007$    8,721$
+Covered payroll $127,307 $115,613 $110,788 $96,427
+Total OPEB liability as a % of covered payroll 7.7% 8.1% 8.1% 9.0%
+Total OPEB Liability 2020 2019 2018 2017
+Service cost 378$       449$       408$       N/A
+Interest on total OPEB liability 342 354 369 N/A
+Effect of changes to benefit terms -          -          -          N/A
+Effect of economic/demographic gains
+or (losses) -          225 -          N/A
+Effect of assumption changes or inputs 784 (2,371) 263 N/A
+Benefit payments (522) (531) (617) N/A
+Net change in total OPEB liability 982         (1,874)     423         -
+Total OPEB liability, beginning 8,226 10,100 9,677 N/A
+Total OPEB liability, ending  9,208$    8,226$     10,100$   9,677$
+Covered payroll 91,190$   86,110$   81,426$   N/A
+.
+Total OPEB liability as a % of covered payroll 10.1% 9.6% 12.4% N/A
+Fiscal year ended December 31
+- 63 -
+(Unaudited)
+REQUIRED SUPPLEMENTARY INFORMATION
+POSTEMPLOYMENT HEALTHCARE BENEFIT PLAN
+RETIREE HEALTH INSURANCE ACCOUNT (RHIA)
+SCHEDULE OF PROPORTIONATE SHARE OF THE NET OPEB LIABILITY (ASSET)
+AND EMPLOYER CONTRIBUTIONS
+Last 10 Fiscal Years*
+(In thousands)
+The Schedule of the Proportionate Share of the Net OPEB Liability (Asset) and the Schedule of
+Employer Contributions present multi-year trend information comparing the proportionate share of
+the net OPEB liability (asset) to covered payroll, and the actual contributions to the contractually
+required contributions.
+*10-year trend information specific to SAIF Corporation will be presented prospectively.
+Schedule of the Proportionate Share of the Net OPEB Liability (Asset)
+2024 2023 2022 2021 2020 2019 2018
+Proportion of the net OPEB liability (asset) 0.90% 1.00% 1.10% 0.75% 2.95% 0.75% 0.71%
+Proportionate share of the net OPEB
+liability (asset) (3,255)$   (3,710)$   (3,362)$   (3,390)$   (6,019)$   (1,456)$   (794)$
+Covered payroll 127,307$ 115,613$ 110,788$ 96,427$   91,190$   86,110$   81,426$
+Employer net OPEB liability (asset) as a
+percentage of covered payroll (2.6%) (3.2%) (3.0%) (3.5%) (6.6%) (1.7%) (1.0%)
+Plan fiduciary net position as a percentage
+of the total OPEB liability 220.6% 201.6% 194.6% 183.9% 150.1% 144.4% 124.0%
+Schedule of Employer Contributions
+2024 2023 2022 2021 2020 2019 2018
+Contractually required contributions -$            8$           14$         17$         19$         207$       360$
+Contributions in relation to the
+contractually required contributions -              (8)            (14)          (17)          (19)          (207)        (360)
+Contribution deficiency (excess) -$            -$            -$            -$            -$            -$            -$
+Covered payroll 127,307$ 115,613$ 110,788$ 96,427$   91,190$   86,110$   81,426$
+Contributions as a percentage of
+covered payroll 0.00% 0.01% 0.01% 0.02% 0.02% 0.24% 0.44%
+- 64 -
+(Unaudited)
+REQUIRED SUPPLEMENTARY INFORMATION
+POSTEMPLOYMENT HEALTHCARE BENEFIT PLAN
+RETIREE HEALTH INSURANCE PREMIUM ACCOUNT (RHIPA)
+SCHEDULE OF PROPORTIONATE SHARE OF THE NET OPEB LIABILITY (ASSET)
+AND EMPLOYER CONTRIBUTIONS
+Last 10 Fiscal Years*
+(In thousands)
+The Schedule of the Proportionate Share of the Net OPEB Liability (Asset) and the Schedule of
+Employer Contributions present multi-year trend information comparing the proportionate share of
+the net OPEB liability (asset) to covered payroll, and the actual contributions to the contractually
+required contributions.
+*10-year trend information specific to SAIF Corporation will be presented prospectively.
+Schedule of the Proportionate Share of the Net OPEB Liability (Asset)
+2024 2023 2022 2021 2020 2019 2018
+P
+roportion of the net OPEB liability (asset) 2.22% 2.86% 2.37% 2.72% 2.72% 2.43% 2.27%
+Proportionate share of the net OPEB
+liability (asset) (1,140)$   ( 1,259)$   (810)$      (421)$      271$       615$       803$
+Covered payroll 127,307$ 115,613$ 110,788$ 96,427$   91,190$   86,110$   81,426$
+Employer net OPEB liability (asset) as a
+percentage of covered payroll (0.9%) (1.1%) (0.7%) (0.4%) 0.3% 0.7% 1.0%
+Plan fiduciary net position as a percentage
+of the total OPEB liability 220.7% 193. 2% 169.7% 124.6% 84.5% 64.9% 49.8%
+Schedule of Employer Contributions
+2024 2023 2022 2021 2020 2019 2018
+Contractually required contributions -$            114$       192$       238$       273$       309$       335$
+Contributions in relation to the
+contractually required contributions -              (114)        (192)        (238)        (273)        (309)        (335)
+Contribution deficiency (excess) -$            -$            -$            -$            -$            -$            -$
+Covered payroll 127,307$ 115,613$ 110,788$ 96,427$   91,190$   86,110$   81,426$
+Contributions as a percentage of
+covered payroll 0.00% 0.10% 0.17% 0.25% 0.30% 0.36% 0.41%

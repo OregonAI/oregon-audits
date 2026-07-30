@@ -1,0 +1,1421 @@
+Oregon Employment Department
+The Pandemic’s Effects on
+Oregonians Exposed
+Risks and Highlighted the
+Need to Modernize
+Oregon’s Unemployment
+Insurance System
+July 2022
+Report 2022-21
+The pandemic was damaging to many Oregonians. Tens of thousands lost their jobs, and delays in paying unemployment
+benefits hurt those already struggling. OED has made progress addressing some of the most public concerns, such as the
+inability of its phone-based system to handle the spike in claims that occurred in March 2020. Regarding fraud, another
+concern that garnered significant attention around the country, Oregon fared comparatively well. This audit focuses on
+information and recommendations we can provide to improve the UI system ahead of future surges in unemployment.
+Why this audit is important
+The Oregon Employment Department
+(OED) administers the Unemployment
+Insurance (UI) program, which provides
+payments to workers who become
+unemployed through no fault of their
+own.
+The pandemic led to a sudden and
+unprecedented surge in UI claims with
+which every state struggled. OED’s
+antiquated IT systems exacerbated
+this difficulty.
+Prior audits and reviews have
+documented why efforts to modernize
+OED’s IT systems have been delayed,
+including lingering effects of the Great
+Recession, turnover among agency
+leadership, and changes to state
+processes after the CoverOregon
+failure.
+Delayed UI payments for eligible
+unemployed workers can cause serious
+financial hardships and undermine the
+system’s ability to support the
+economy during future emergencies.
+What we found
+1. Complex UI claims go through a process called adjudication, in which OED
+staff gather more information to determine whether a claimant is eligible
+for benefits. Even before the pandemic, the agency struggled to meet
+timeliness requirements to process these claims. (pg. 18) The pandemic
+and its resulting surge in claims only exacerbated the problem, causing
+some to wait months or more than a year to receive benefits. (pg. 19)
+2. Delays were worsened by several inefficiencies in OED’s systems: a lack
+of formal policies to monitor claims that need additional action; outdated
+procedures on how to contact involved parties; and online resources
+that contained conflicting and difficult-to-find information. (
+pg. 20)
+3. Auditors found data anomalies in the agency’s current IT systems;
+however, the agency’s antiquated and rigid IT systems make it difficult
+to add additional controls. OED’s ongoing IT system modernization
+should address this, as well as help simplify how the agency
+communicates with parties involved in UI claims. (pg. 18
+)
+4. Oregonians could benefit from an OED ombuds office to advocate for
+and help individuals navigate the complex UI system. (pg. 25)
+5. Auditors identified some concerning demographic trends during the
+pandemic: adjudicated claims for some groups, separated by race or by
+income, appeared to take longer on average than for others. T
+hough the
+cause of these trends was not determined, OED should continue to track
+the data and develop strategies to reduce any disparities found. (pg. 27)
+What we recommend
+We made seven recommendations to OED. OED agreed with all our recommendations. The response can be found at
+the end of the report.
+Audit Highlights
+Oregon Employment Department
+The Pandemic’s Effects on Oregonians Exposed Risks and Highlighted
+the Need to Modernize Oregon’s Unemployment Insurance System
+Oregon Secretary of State | Report 2022-21 | July 2022 | page 1
+Introduction
+Unemployment insurance (UI) is a program delivered through a federal-state partnership that began in
+1935 with the Social Security Act. The program is funded at both the federal and state level, with
+administrative funding amounts tied to economic conditions; when unemployment is high, states
+receive more federal funding. Employers contribute most of the funding through payroll taxes.
+States develop and deliver their own unique UI program while following broader federal program
+requirements. The program is administered in Oregon by the Oregon Employment Department (OED).
+Each state also determines its own method for calculating weekly benefit amounts and the duration of
+benefit coverage, with most states, including Oregon, offering up to 26 weeks of compensation. The
+main purpose of unemployment insurance is twofold: provide temporary, partial wage replacement to
+eligible unemployed workers, and help stabilize the economy during economic recessions.
+The COVID-19 pandemic caused unprecedented increases in unemployment claims across the country.
+Like many other states, Oregon struggled under this surge in claims and in setting up new , emergency
+unemployment programs authorized by Congress. OED’s antiquated computer systems could not easily
+handle the many program changes implemented during the pandemic and the agency’s phone-based
+approach, while generally adequate in normal times, could not accommodate the wave of phone calls
+OED received. The agency’s online published resources were also not updated timely during the
+pandemic to reflect new legislation. OED’s shortcomings and challenges during the pandemic have been
+well documented in the media.
+Even before the pandemic, OED struggled with meeting federal timeliness guidelines for making
+complex claim decisions, through a process called adjudication. Until January 2022 , the agency had only
+met federal timeliness standards for job separation-related adjudications once since 2014. Reasons
+include inefficient communication procedures and a lack of detailed monitoring of claims that need
+further action. Additionally, the agency’s outdated mainframe IT system includes many anomalies and
+data entry errors. The system is so antiquated, updating it to add more controls and functionality is
+difficult and expensive. OED is currently in the process of designing and implementing a new IT system,
+which is estimated to be completed in the spring of 2024.
+The devastating impacts from delays in UI benefits to so many during this pandemic compelled this
+performance audit. People were desperate and often unable to reach someone to assist them in
+getting their claims processed. Some reached out to their legislators. Some reached out to the media.
+Some undoubtedly gave up. The purpose of this audit is to provide useful information and
+Delays to UI benefit payments can cause significant financial hardships
+UI is intended to be a safety net for individuals who lose work through no fault of their own. When eligible
+workers experience delays in obtaining UI benefits, there can be significant financial and other impacts to
+individuals, their families, and their communities. This can include the inability to pay utility bills, mortgage or
+rent, medical care, prescriptions, and basic necessities such as food. These hardships can result in
+homelessness, hunger, degraded mental and physical health, loss of savings and assets, and damage to one’s
+credit, among other effects.
+Oregon Secretary of State | Report 2022-21 | July 2022 | page 2
+14-Mar-2020,
+4,269
+21-Mar-2020,
+30,054
+28-Mar-2020,
+47,498
+04-Apr-2020,
+62,788
+Initial Claims
+(Processed)
+recommendations for the agency to improve the UI process ahead of future events of significant
+unemployment.
+Like most states, OED struggled to pay unemployment benefits and
+implement new programs during the pandemic
+Source: Oregon Employment Department, QualityInfo.org
+The COVID-19 pandemic caused a sudden and unprecedented spike in unemployment
+claims. OED was greatly impacted, straining with the task of administering regular UI
+benefits, multiple new pandemic-related programs, and retroactive changes to existing
+UI programs while simultaneously trying to hire and train new staff — and existing staff
+from other areas of the agency — to answer phones and address the growing backlog
+of claims, as well as implementing an ongoing IT modernization project and creating the
+new Paid Leave Oregon program.
+By the end of March 2020, initial claims for unemployment were 10 times
+higher than just two weeks earlier
+The economic effects of the pandemic were unique, hitting state and local economies at
+a time when unemployment rates were near record lows. In 2019, Oregon’s annual
+unemployment rate hit a record low of 3.8% and the state achieved a record number of
+employed workers, at over 2 million workers. When COVID-19 hit, many states, including
+Oregon, made emergency declarations and shut down businesses, schools, and public
+offices, bringing the state economy to a halt and triggering massive layoffs in multiple
+industries. In just two months, Oregon’s unemployment rate nearly quadrupled, going
+from 3.4% in February 2020 to 13.3% by April 2020.
+As shown in Figure 1, initial claims for unemployment insurance in Oregon increased by
+more than 10 times in March 2020, jumping from just 4,269 for the week ending on
+March 14 to 47,498 by the week ending March 28. Initial claims peaked a week later at
+62,788. Overall, OED reports just over 580,000 paid claimants for 2020, and a total of
+nearly $7.5 billion in UI benefits paid to claimants that year.
+Figure 1: In March 2020, initial UI claims in Oregon increased by more than a factor of 10
+Oregon Secretary of State | Report 2022-21 | July 2022 | page 3
+This represents a 600% increase in paid claims and a 1,400% increase in benefits paid out compared to
+2019, when Oregon had approximately 93,000 paid UI claimants and paid out a total of $525 million in
+unemployment benefits. Figure 2 shows how the number of employed workers, unemployed workers,
+and the unemployment rate changed drastically from February to April 2020.
+Figure 2: Due to the pandemic, the number of unemployed Oregon residents rose dramatically from
+February to April 2020
+February 2020 April 2020
+Employed workers 2,015,218 1,759,680
+Unemployed workers 71,765 268,802
+Unemployment rate 3.4% 13.3%
+Source: Bureau of Labor Statistics
+According to OED, the job sectors hardest hit by the pandemic closures were Leisure and Hospitality,
+Other (including barbers, hair and nail salons, tattoo parlors, repair shops, etc.), and  private education.
+OED and other state workforce agencies were confronted with the pandemic at a time when staffing
+was already low due to record low unemployment numbers and years of federal underfunding of the
+administration of state UI programs. OED needed to process the surge of pandemic-related claims while
+quickly hiring and training new staff.
+Congress passed several new federal UI programs as state workforce agencies were
+already strained by record-high initial unemployment claims
+Soon after COVID-19 hit the U.S., Congress passed the Families First Coronavirus Response Act, which
+provided changes to the UI program, among other provisions. This was followed by the Coronavirus Aid,
+Relief and Economic Security (CARES) Act. This legislation included the creation  of new federal UI
+programs that states were required to implement under the guidance and oversight of the U.S.
+Department of Labor. The CARES Act created three federal UI programs: Pandemic Unemployment
+Assistance (PUA), Pandemic Unemployment Emergency Compensation (PEUC), and Federal Pandemic
+Unemployment Compensation (FPUC). Figure 3 shows the scope of benefits from these programs, as
+well as other programs created by subsequent legislation.
+Figure 3: The pandemic required OED to administer not only its multiple state programs, but several new
+federal UI programs
+Program Benefit Scope Detail
+Federal Pandemic
+Unemployment
+Compensation
+(FPUC)
+Three eligibility periods:
+• March 29, 2020, through July
+25, 2020
+• December 27, 2020, through
+March 13, 2021
+• March 14, 2021, through
+September 4, 2021
+Federal program increasing the weekly benefit
+amount by $600 weekly (March 29, 2020,
+through July 25, 2020) and $300 weekly
+(December 27, 2020, through September 4,
+2021).
+Pandemic Emergency
+Unemployment
+Compensation
+(PEUC)
+Maximum of 53 weeks through
+September 4, 2021
+Federal extension to state unemployment
+benefits for people who have exhausted state
+benefits.
+Oregon Secretary of State | Report 2022-21 | July 2022 | page 4
+Pandemic
+Unemployment
+Assistance (PUA)
+Maximum 79* weeks through
+September 4, 2021
+Federal benefits for people who are:
+• Ineligible for regular UI benefits and
+extensions.
+• Unable to work as a direct result of COVID-19
+during each benefit week.
+*Number of eligible weeks changed when High
+Extended Benefits triggered off.
+Lost Wages
+Assistance (LWA)
+Maximum 6 weeks July 26, 2020,
+through September 5, 2020
+Federal Emergency Management Agency funded
+program providing additional $300 weekly
+benefit to claimants whose calculated weekly
+benefit amount was at least $100, who received
+at least $1 in benefits, and who were
+unemployed or had their hours reduced due to
+the COVID-19 pandemic.
+Source: OED
+As the pandemic continued, Congress passed the Continued Assistance for Unemployed Workers Act,
+which, among other provisions, extended the weeks of eligibility for the PUA, PEUC, and FPUC
+programs. This act also created the Mixed Earner Unemployment Compensation program, which
+provided an extra $100 per week for people who were receiving regular UI benefits and who had earned
+both W-2 wages and at least an annual net income of $5,000 from self-employment work that was in
+addition to the W-2 wages. Additionally, the Continued Assistance Act (CAA) contained a provision for
+PUA that claimants were required to provide proof of employment and/or self-employment to continue
+receiving benefits.
+In August 2020, the Lost Wages Assistance program was created by Presidential Memorandum to
+authorize the Federal Emergency Management Agency (FEMA) to extend Disaster Relief Funds to UI
+recipients. LWA provided an extra weekly benefit of $300, similar to FPUC. To qualify, an individual had
+to already be eligible to receive UI benefits, have a calculated weekly benefit amount of at least $100,
+have received at least $1 in UI benefits during eligible weeks, and have lost their employment or had
+their hours reduced directly due to COVID-19. This lower $300 additional weekly benefit lasted through
+September 5, 2021. Because this program was administered by FEMA and not the U.S. Department of
+Labor, all funding and benefit payments had to remain separate from the UI trust fund, creating
+additional complexity and confusion for some claimants. In March 2021, Congress passed the American
+Rescue Plan Act, which, among other provisions, extended the FPUC, PUA, and PEUC programs through
+September 6, 2021.
+A recent audit by the federal Department of Labor’s Office of Inspector General demonstrated many
+states, including Oregon, struggled to implement the new programs created through the CARES Act.
+1 It
+took Oregon an average of 31 days to make first payments to Pandemic Unemployment Assistance
+recipients, 17 days for Federal Pandemic Unemployment Compensation recipients, a nd 49 days for
+Pandemic Emergency Unemployment Compensation recipients. As shown in Figure 4 , Oregon’s
+performance in these areas was comparable to other states and U.S. territories included in the report.
+1 See US Department of Labor Office of Inspector General Report No. 19-21-004-03-315, titled ‘COVID-19: States Struggled to
+Implement CARES Act Unemployment Insurance Programs’
+Oregon Secretary of State | Report 2022-21 | July 2022 | page 5
+Figure 4: Despite not having a modernized UI Benefits system, Oregon’s average of 31 days to make first
+payments on Pandemic Unemployment Assistance claims was less than the overall average of 38 days*
+Rank State Pandemic
+Unemployment
+Assistance
+(days to first
+payment)
+Federal
+Pandemic
+Unemployment
+Compensation
+(days to first
+payment)
+Pandemic
+Emergency
+Unemployment
+Compensation
+(days to first
+payment)
+UI Benefits IT
+system
+modernization
+status
+1 New Hampshire 3 21 44 Completed
+2 Kentucky 6 9 20 Not completed
+3 New York 10 10 17 Not completed
+4 Louisiana 17 17 49 Completed
+4 Rhode Island 17 14 45 Not completed
+6 Texas 18 17 45 Not completed
+7 Iowa 19 19 61 Not completed
+8 Alabama 21 13 27 Completed
+9 Puerto Rico 24 26 66 Not completed
+9 Washington 24 24 24 Completed
+11 Michigan 26 13 26 Completed
+11 Missouri 26 17 38 Completed
+11 Tennessee 26 17 46 Completed
+14 Massachusetts  27 53 12 Completed
+15 Connecticut 28 41 61 Not completed
+15 Georgia 28 15 76 Not completed
+15 Minnesota 28 12 19 Completed
+15 Mississippi 28 14 34 Completed
+15 New Mexico 28 21 28 Completed
+15 North Carolina 28 18 56 Completed
+15 South Carolina 28 15 61 Completed
+22 Utah 29 15 57 Completed
+23 Colorado 31 31 34 Not completed
+23 Montana 31 16 37 Not completed
+23 Nebraska 31 17 55 Not completed
+23 Oklahoma 31 10 52 Not completed
+23 Oregon 31 17 49 Not completed
+28 California 32 16 61 Not completed
+29 District of Columbia 33 24 40 Not completed
+29 Florida 33 15 60 Completed
+29 North Dakota 33 19 49 Not completed
+32 South Dakota 34 12 53 Not completed
+33 Virginia 38 25 101 Not completed
+33 Wyoming 38 20 80 Completed
+35 Maine 40 19 94 Completed
+36 Indiana 42 42 21 Completed
+36 Pennsylvania 42 15 50 Not completed
+38 Maryland 43 21 43 Completed
+39 Alaska 45 17 84 Not completed
+Oregon Secretary of State | Report 2022-21 | July 2022 | page 6
+39 Arizona 45 17 73 Not completed
+41 Hawaii 48 18 53 Not completed
+41 Illinois 48 10 25 Completed
+43 West Virginia 49 10 42 Not completed
+44 Ohio 52 26 38 Not completed
+45 Wisconsin 56 33 90 Not completed
+46 Nevada 60 18 45 Completed
+47 Kansas 61 27 66 Not completed
+48 Delaware 63 10 31 Not completed
+49 Virgin Islands 101 61 101 Not completed
+Overall Average 38 25 50
+*Arkansas, Idaho, New Jersey, and Vermont are not included, as they did not respond to the OIG’s data request or did not
+have numbers to report.
+Source: OIG Report no. 19-21-004-03-315, “COVID-19 States Struggled to Implement CARES Act Unemployment Insurance
+Programs”
+Due to limitations in the agency’s IT systems, OED was unable to reprogram its syst ems to account for
+new programs created during the pandemic, such as PUA, forcing the agency to implement many of
+these programs using mostly manual processes.
+Previous audits and reviews have documented problems with OED’s
+IT systems and why modernization has been delayed
+OED does not have a case management system. Instead, it uses multiple systems to process
+adjudicated claims, including both an imaging system and OED’s mainframe system. The mainframe
+system originally launched in the 1990s and though it continues to reliably process many claims, it has
+been outdated for at least the last decade. Because of its age, the system is difficult to maintain or
+upgrade. The system uses an obsolete computer language (COBOL) that can require hundreds of hours
+of programming to make simple changes.
+The Secretary of State’s Audits Division performed audits of OED’s mainframe system in 2012 2 and
+2015,3 with the first audit finding the agency’s legacy IT systems to be rigid and inflexible in handling
+complicated claims and implementing any rule or program changes, especially several federal programs
+initiated during the Great Recession. This audit also found the department used many manual
+processes and lacked sufficient internal system controls, leading to more errors. Three years later, the
+2015 audit reemphasized the system’s challenges, including poor system documentation and difficulty
+making program code changes and maintaining the system. This audit included a recommendation that
+OED replace the legacy system.
+The Audits Division also published an IT Management Letter in 2020
+4 that provided an assessment of
+the modernization project. This assessment found many of the same issues, with system challenges
+2 See OAD Report 2012-25, “Oregon Employment Department: Computer Controls for the Oregon Benefit Information System
+Need Attention”
+3 See OAD Report 2015-31, “Oregon Employment Department: Computer Programs for Unemployment Tax Returns and Claims
+Need Attention”
+4 See OAD Report 471-2020-07-01, “Oregon Employment Department IT Modernization Program Project Review, Information
+Technology”
+Oregon Secretary of State | Report 2022-21 | July 2022 | page 7
+implementing the new COVID-19 federal programs and temporary, or new, state UI program changes. It
+also described high-risk areas involving staffing challenges with high turnover in the program, incl uding
+the project’s director, as well as shifting priorities due to impacts of COVID -19 and the need to develop
+the new Paid Family and Medical Leave Insurance program (Paid Leave Oregon). These shifting
+priorities have high risk in affecting the modernization project’s program schedule, with the legacy
+systems being behind schedule at the time of project assessment.
+The Legislative Fiscal Office report also attributed modernization delays during the Great Recession to
+agency failures in IT oversight and project deliverables, describing the IT structure as decentralized,
+which caused multiple projects being created at the same time with unclear prioritization or
+communication.5 In the wake of the CoverOregon IT project failure, the state’s Chief Information Officer
+and Legislative Fiscal Office implemented the Joint Stage Gate Review Process with third-party quality
+assurance oversight in 2014. This is a thorough process with detailed monitoring, documentation, and
+project deliverables that are required for agencies to move through the phases of  a large IT project.
+6 In
+May 2021, OED passed Stage Gate 3, allowing the project to move to the execution phase. At the same
+time, OED contracted with a vendor, FAST Enterprises.
+Regional U.S. Department of Labor representatives described OED as being thorough and thoughtful in
+its planning, problem solving, and actions. They described OED as being methodical and thoughtful in its
+approach to modernizing and conducting thorough research of other states and lessons learned from
+their implementation experiences.
+Most states who received federal ARRA funds in 2009 had not modernized their IT
+systems by 2021
+In 2009, Oregon received approximately $85 million from the U.S. Department of Labor through the
+American Recovery and Reinvestment Act (ARRA). The funding provided through this initiative was
+intended for states to expand UI eligibility and payments, with specific focus on low -wage workers,
+though the program allowed state workforce agencies to use the money for various purposes. Oregon
+chose to earmark most of the funds for replacing and modernizing the antiquated IT system.
+OED began the modernization project in 2015 with a budget request in the 2015 -17 biennium. This
+project is still in process and projected to implement in two phases. First, OED’s Employer UI Tax and
+5 See Legislative Fiscal Office Budget Information Report, titled ‘Oregon Employment Department Information Technology
+Modernization’
+6 See OAD Report 2015-06, “Major IT Projects: Continue Expanding Oversight and Strengthen Accountability”
+Several factors have led to delays in OED’s IT modernization project
+Both the 2020 IT Management Letter and a 2020 Legislative Fiscal Office Budget Information Report attributed
+delays of the modernization project to several factors. After receiving federal funding in 2009, most of which
+OED earmarked for system modernization, OED was still facing high claim volumes and administering federal UI
+programs, as the Great Recession continued to affect employment. When workloads normalized, delays in the
+project were attributed to several years of leadership turnover. OED has had four different agency directors in
+the span of nine years, with the most recent resigning in May 2020, following the agency’s early struggles
+during the pandemic and its strain on the agency. Another factor was a change in the state’s process for
+implementing big IT projects following the $300 million CoverOregon IT project failure.
+Oregon Secretary of State | Report 2022-21 | July 2022 | page 8
+Paid Leave Oregon contribution system is projected to go live in September 2022, with processing of
+Paid Leave Oregon worker applications and small employer grant applications beginning September
+2023. The UI Benefits system is projected to roll out by the end of March 2024.
+Nationwide, less than half of states had modernized their UI Benefits system prior to COVID -19. Of the
+39 states which received partial or full ARRA funding for broadening their UI program eligibility, 23 had
+not yet modernized their UI Benefits IT system as of early 2021, including Oregon. As of early 2021,
+Oregon and 29 other states were in either the planning or development phase of modernizing their UI
+Benefits IT system, and 22 states and U.S. territories had completed modernization of their UI Benefit
+system. Figure 5 shows all 39 states that received ARRA funds in 2009 and whether they are in the
+process of modernizing the UI Benefits system or have completed that modernization.
+Figure 5: Of the 39 states who received the 2009 ARRA funding, 15 completed UI Benefit IT system
+modernization by early 2021
+States who received ARRA funds and are in the
+process of modernizing their UI Benefits system
+States who received ARRA funds and have
+completed modernizing their UI Benefits system
+Alaska Idaho
+Arkansas Illinois
+California Maine
+Colorado Maryland
+Connecticut Massachusetts
+DC Michigan
+Delaware Minnesota
+Georgia Nevada
+Hawaii New Hampshire
+Iowa New Mexico
+Kansas North Carolina
+Montana South Carolina
+Nebraska Tennessee
+New Jersey Utah
+New York Washington
+Ohio
+Oklahoma
+Oregon
+Rhode Island
+South Dakota
+Vermont
+Virginia
+West Virginia
+Wisconsin
+TOTAL: 24  TOTAL: 15
+Source: OAD analysis
+Oregon Secretary of State | Report 2022-21 | July 2022 | page 9
+OED had one of the lowest levels of unemployment fraud in 2020 and
+has worked to address shortcomings identified during the pandemic
+Based on OED figures, Oregon experienced much less unemployment fraud than many other states,
+with OED’s fraud totals coming in substantially lower than its neighbors, California and Washington. This
+is likely due to a combination of employing fraud prevention practices, learning from the experiences of
+other states, and fraudsters targeting states with better computer systems that paid out claims faster.
+According to OED officials, internal figures for 2020 show the agency paid over $24 million in fraudulent
+claims. While $24 million is still a large number, Oregon reported roughly 581,800 individuals received
+unemployment compensation in 2020 totaling nearly $7.5 billion, meaning Oregon’s rate of fraudulent
+payments was just 0.32% of total claims paid for the year.
+Figure 6: Based on OED figures, Oregon had much lower UI fraud in 2020 than Washington or California
+Source: OAD
+By comparison, Washington experienced over $277 million in UI fraud in 2020 (after recovering roughly
+$370 million in fraudulent claims), while Colorado faced $73 million in fraudulent claims over the same
+period. In October 2021, California reported $20 billion in fraud, approximately 11% of total UI paid out
+in the state. Additionally, a recent audit in Arizona estimated about $4.4 billion in fraud with the federal
+UI pandemic programs alone, while an audit of Michigan’s unemployment claims concluded the state
+experienced nearly $8.5 billion in UI fraud, with a majority occurring through the federal UI programs.
+Over the past two years, Texas has reportedly paid out nearly $2.5 billion in fraudulent claims,
+amounting to about 5% of all claims paid in this period. Federal U.S. Department of Labor officials noted
+in December 2021 that Oregon had some of the lowest levels of fraud in the nation. Figure 6 illustrates
+fraud amounts for Oregon, Washington, and California.
+Oregon - $24 million
+Washington -
+$277 million
+California -
+$20 billion
+Oregon Secretary of State | Report 2022-21 | July 2022 | page 10
+OED has taken steps to address known shortcomings occurring during the pandemic
+After early struggles, OED management made efforts to alleviate the enormous backlog in claims,
+expediting hiring and training, suspending some rules to make UI eligibility easier  and better fit with the
+conditions of the pandemic, and improving engagement with the media. Some of these efforts included:
+• Opening new Contact Center locations in Salem and Wilsonville, due to the record high
+volume of claims brought on by the pandemic. By July 2020, the new contact center
+location in Wilsonville (the largest location) was staffed with nearly 500 employees.
+• Contracting with an outside vendor to process imaged documents received from
+claimants that the system does not automatically attach to a claim, freeing up c ontact
+center staff to answer phone calls and process claims.
+• Standing up a new website that was more user-friendly, translated into 15 languages
+other than English, and updated with the latest program requirements and instruction,
+as well as creating instruction guides and video clips to help people navigate the claim
+process.
+• With the new website, creating a “Contact Us” feature that allows people to reach out
+through a ticket system and wait for OED to get back to them.
+• During the pandemic, OED implemented a temporary measure called Benefits While You
+Wait. This process provided benefits to individuals while their UI claims were still pending
+review and determination in adjudication.
+• Revising communication procedures with employers to lessen the time needed to
+adjudicate claims, to try to get benefits out quicker and reduce backlogs.
+• Speeding up adjudicator training by training adjudicators on one type of claim issue at a
+time and then having them work just those types of claim issues.
+• Contracted with a local workforce board to stand up a call center specifically to help
+individuals with limited English proficiency apply for and access UI benefits.
+• Contracted with the Oregon Health Authority to work with community-based
+organizations to help individuals with limited English proficiency and other communities
+facing additional access barriers with obtaining UI benefits.
+OED also contracted with two consultants for assessments to improve agency efficiency with UI
+including the adjudication process and agency communications. These contracts have ended, but the
+agency is continuing to work on projects recommended by one of these consultants, developing
+resources and strategies to implement better, standardized performance metric s and monitoring
+procedures. OED is also in the execution phase of two projects to try to improve adjudication
+timeliness and turnaround, including utilizing office specialists to conduct the initial adjudication case
+file review, set up files, initiate claimant and employer notification, and assign cases to an adjudicator.
+This process would free up adjudicators and begin outreach to claimants and employers earlier,
+potentially reducing the amount of time needed for adjudication.
+Additionally, the agency recently contracted with the U.S. Department of Labor and its “Tiger Team”
+initiative, which deploys UI experts and private sector consultants to identify additional opportunities
+to improve operations and service delivery in the areas of Timeliness and Ba cklog; Equity and
+Accessibility; and Fraud Prevention and Detection.
+Oregon Secretary of State | Report 2022-21 | July 2022 | page 11
+OED administers UI benefits, workforce training, and other
+employment-related programs
+Beyond managing Oregon’s UI program (UI Benefits and UI Tax), OED also administers several other
+programs, including the Workforce Operations Division (a WorkSource Oregon  partner), the Workforce
+and Economic Research Division, and the new Paid Family and Medical Leave Insurance program  (called
+Paid Leave Oregon). The agency also provides administrative support to the Office of Administrative
+Hearings and the Employment Appeals Board.
+The Workforce Operations Division operates with state and local partners in 39 WorkSource Oregon
+centers throughout the state, providing support and resources to job seekers and employers looking
+for qualified workers. The Workforce and Economic Research Division provides data and reports on the
+state’s workforce and economy, including regional labor market data.
+The Paid Leave Oregon program, created in 2019 by House Bill 2005, will allow eligible employees to
+receive some or all of their wages while on family or medical, or safe leave. This program will provide
+employees with compensation while they are on approved leave to care for and bond with a child in its
+first year of birth or arrival through adoption or foster care, provide care for a family member with a
+serious health condition, recover from their own serious health condition, or take “safe leave” related
+to domestic violence, stalking, sexual assault, or harassment. This new program has a planned rollout of
+January 2023 for employer and employee contributions, and employees are projected to be able to
+apply for this benefit starting in September 2023. Additionally, in September 2023, small employers can
+begin applying for small business grants under Paid Leave Oregon. Originally scheduled to begin in
+2022, House Bill 3398 (2021) postponed implementation of employer/employee contributions by one
+year and delayed the start of benefits by eight months, at OED’s request, due to impacts of the
+pandemic.
+Figure 7: OED administers multiple UI programs
+Program Program Duration Detail
+Regular
+Unemployment
+Insurance Benefits
+Program
+Up to 26 weeks in a
+year
+Benefits people who(se):
+Become unemployed due to no fault of their own.
+Earned wages that were subject to unemployment tax.
+Meet specific timeframe requirements related to subject wages or a combination
+of hours worked and subject wages.
+Meet weekly eligibility requirements.
+Trade Act Programs
+Weeks vary based
+on petition filing
+date (after
+exhausting regular
+UI/UI extensions)
+Benefits people who lost eligible jobs due to foreign competition.
+Work Share Program
+(Short-time
+compensation or STC)
+Varies
+Benefits individuals whose employers partner with OED and opt to reduce three
+or more of their employees’ scheduled hours and wages (20% - 40%), allowing
+employees to earn partial UI benefits while staying employed.
+Oregon Secretary of State | Report 2022-21 | July 2022 | page 12
+Training
+Unemployment
+Insurance (TUI)
+Program
+Up to 26 weeks (ties
+to regular UI claim
+and may qualify for
+more weeks if
+eligible for SUD)
+Benefits eligible dislocated workers who can collect regular UI while attending
+approved school or training full-time.
+Supplementary
+Unemployment for
+Dislocated Workers
+(SUD)
+Up to 26 weeks
+(after exhausting
+TUI)
+Additional benefits for individuals in approved training (TUI), who have exhausted
+regular UI benefits, and meet program eligibility requirements.
+Self-Employment
+Assistance (SEA)
+Program
+Up to 26 weeks (ties
+to regular UI claim)
+Benefits people who are interested in starting their own business, have an
+approved business plan, and are likely to run out of regular UI benefits before
+they return to work. Must work on their approved business at least 40 hours
+each week they claim.
+Temporary Lock Out
+Benefits
+Up to 26 weeks
+(after exhausting
+regular UI claim)
+Benefits people who are involved in a labor dispute with their employer and have
+been “locked out” of their place of employment. Must have exhausted regular UI
+benefits before becoming eligible for Temporary Lock Out Benefits.
+Apprenticeship
+Training Program
+Up to 26 weeks (ties
+to regular UI claim)
+Regular UI benefits for individuals attending up to 10 weeks of approved
+apprenticeship training during a benefit year and may be exempt from available-
+for-work and activity-seeking-work requirements.
+Extended Benefits
+(EB) / High Extended
+Benefits (HEB)
+Varies
+During periods of high unemployment, a state will “trigger” on to EB or HEB which
+provides additional weeks of regular UI benefits. EB provides up to 13 additional
+weeks of UI benefits; HEB provides up to 20 additional weeks of benefits.
+Additional Benefits
+(OAB) Varies
+A state will “trigger on” on to OAB during periods of high unemployment,
+traditionally right after the state “triggers off” EB. OAB pays up to 25% of the
+regular UI claim’s maximum weekly benefit amount (approximately 6 weeks of
+benefits).
+Unemployment
+Compensation for
+Federal Employees
+(UCFE)
+Up to 26 weeks
+Regular UI benefits for federal employees. Federal benefits which are
+administered and paid in the same manner as state UI benefits. Federal
+employers do not report wages to states; those wages must be requested from
+the state workforce agency at the time the individual files a claim for benefits.
+Must meet all weekly eligibility requirements.
+Unemployment
+Compensation for Ex-
+Service Members
+(UCX)
+Up to 26 weeks
+Regular UI benefits for ex-services members. Federal benefits which are
+administered and paid in the same manner as state UI benefits. Service branches
+do not report wages to states; those wages must be requested from the state
+workforce agency at time the individual files a claim for benefits. Wages are not
+tied to the location an individual worked, but to the place the individual is located
+when they file their initial claim for benefits. Must meet all weekly eligibility
+requirements.
+Disaster
+Unemployment
+Assistance Program
+(DUA)
+Up to 26 weeks
+If a disaster is declared by the President in one or more Oregon counties and an
+offer of individual assistance is stated in the declaration, residents in impacted
+counties, who are not eligible for any other UI benefits program and meet specific
+criteria, can get DUA benefits. DUA was authorized twice in Oregon during the
+pandemic, in response to flooding in Umatilla County and for the historic wildfire
+season.
+Oregon Secretary of State | Report 2022-21 | July 2022 | page 13
+OED is funded by a combination of employer UI taxes, federal funds, and state general
+funds
+To cover the cost of providing UI benefits, employers pay into their respective states’ UI trust fund s
+through UI taxes. Oregon uses a self-balancing tax structure to fund its UI trust fund, meaning
+employers pay a tax rate determined by OED’s tax schedule as well as the employer’s experience
+rating. Each year’s base tax rate is determined by the strength of the UI trust fund; if the trust fund’s
+solvency is good, the tax rate is low, and if the solvency is poor, the tax rate is higher. This is typically
+countercyclical — rates stay lower through recessions and rise afterwards to rebuild the UI trust fund
+to pay benefits during the next economic downturn.
+Additionally, new employers start at the assigned scheduled tax rate for a specific year, while
+established employers are assigned a tax rate dependent on the assigned scheduled tax rate for the
+year and their experience rating. At a high level, experience rating is determined by the amount of
+benefits paid out from the employer’s account in the previous three years compared to the employer’s
+overall payroll. Essentially, the more employees separated from work through no fault of their own and
+eligible for benefits, the more the experience rating increases. Due to the many mandatory business
+closures and related layoffs during the pandemic, the Legislature passed HB 3389, which holds
+employers’ experience ratings at their pre-pandemic levels through 2024, among other provisions.
+OED’s budget and staffing for the 2021-23 biennium grew substantially, largely due to increases in
+pandemic-related federal funding, the vast increase in workload it saw, and the new Paid Leave Oregon
+program under development (which is funded through a General Fund loan that must be repaid). As
+shown in Figure 8, the agency’s budget for the current biennium more than quadrupled since the 2017 -
+19 biennium, going from just over $1.3 billion to nearly $6.8 billion, with staffing increased from 1,249 to
+2,253 Full-Time Equivalent (FTE) positions, or by 80%. However, OED has limits on how it can use each
+funding stream; for example, Other Funds (Nonlimited) can only be used to pay UI benefits.
+Figure 8: OED’s budget grew considerably in the 2021-23 biennium, mostly due to funding for pandemic-
+related programs
+OED’s Adjudication Unit handles complex claims in which eligibility may be unclear
+and more information is needed
+OED’s UI program, like UI programs in many states, is complex, with multiple eligibility criteria and filing
+requirements. With an unprecedented increase in claims at the start of the pandemic, OED had to hire
+and train new staff on all the rules, requirements, and procedures in administering regular UI, as well as
+2017-19 Actual 2021-23 Legislatively Approved
+Budget
+General Fund  $0 $48,765,505
+Other Funds  $145,089,641 $285,661,087
+Federal Funds  $146,465,578 $310,599,469
+Other Funds (Nonlimited) $980,218,895 $5,058,847,795
+Federal Funds (Nonlimited) $65,274,200 $1,081,179,119
+Total Funds  $1,337,048,314 $6,785,052,975
+Positions  1,303 3,304
+FTE  1,249.88 2,253.62
+Source: 2021-2023 Legislatively Approved Budget
+Oregon Secretary of State | Report 2022-21 | July 2022 | page 14
+training them on several new federal programs passed by Congress and changes made to existing
+programs to adjust to the impacts of the pandemic on employees and businesses .
+This was an even bigger challenge for hiring adjudication staff. Adjudication is the process by which
+OED adjudicators review potential claim eligibility, conduct fact-finding interviews, and apply federal
+and state laws and rules to determine whether an individual is eligible for UI benefits. Adjudicator
+training can take 12 or more weeks to complete all subject areas. OED tripled its Adjudication team in
+2020, growing from roughly 101 staff in the first quarter of 2020 to 319 by the third quarter of that
+year.
+Unemployed workers may be eligible for UI benefits if they cease working through no fault of their own.
+Employment separation reasons that may allow someone to receive UI include being discharged for
+reasons not related to misconduct, voluntarily leaving work with good cause, continuing to work but
+less than 40 hours a week and earning less than their weekly benefit amount, and being laid off due to
+lack of work, among other scenarios.
+When an individual files for UI, they fill out an initial claim application and then file a separate weekly
+claim. They continue to file weekly claims for every week they seek to receive UI benefits. The
+individual can complete these claims online or using the automated telephone weekly claim line. If an
+individual fills out a claim with information that triggers a possible eligibility issue, it must  be
+adjudicated. Additionally, during any week that an individual claims UI benefits, possible eligibility issues
+can be referred to OED from employers or other parties, or be discovered by OED during claim audits or
+eligibility reviews. Regardless of how the eligibility issue is discovered, it will need to be adjudicated.
+Figure 9: Total adjudication decisions from 2019 to 2021 — More adjudicated claims were denied in 2021
+than 2019 or 2020, with a majority attributed to PUA claim denials
+Source: OED and OED website qualityinfo.org
+In addition to separation circumstances, individuals eligible for UI benefits must also meet certain
+requirements each week to receive benefits in that week, so an individual’s responses on their weekly
+claim can also trigger a flag that requires adjudication. Examples include a person indicating they were
+not fully able or available to work in their labor market the whole week, turning down a job offer, not
+completing the minimum job search requirements, or earning income. Figure 9 shows number of
+decisions made by OED adjudicators from 2019-2021, as well as the number of initial UI claims the
+agency received in that period. According to OED, a higher percentage of adjudicated claims were
+Adjudication
+Decisions,
+2019
+% Adjudication
+Decisions,
+2020
+% Adjudication
+Decisions,
+2021
+%
+Approved 46,146 42.2% 59,641 46.4% 99,396 27.0%
+Denied  62,810 57.4% 67,492 52.6% 268,164 72.8%
+Reduced*  479 0.4% 1,289 1.0% 709 0.2%
+Total 109,435  128,422  368,269
+2019  2020  2021
+Initial UI Claims** 218,349  764,300  354,619
+*In ”Reduced” decisions, a claimant is found to be eligible for UI benefits, but at a lower amount.
+** While adjudication decision totals include PUA claims, initial UI claim totals do not.
+Oregon Secretary of State | Report 2022-21 | July 2022 | page 15
+denied in 2021 because many people applied for both regular UI and PU A at the same time. An individual
+can only be eligible for one program or the other, so in these cases, at least one of the two applications
+had to be denied, leading to an overall increase in denials.
+The agency’s online claim system automatically suspends claims (both initial and weekly) that require
+further investigation. If an individual is filing their initial or weekly claims by phone with OED, agency
+staff assisting the individual can manually set a flag and input notes on the claim about the potential
+issue. The adjudicator will look at the claim, review the flags and notes, and conduct fact-finding
+interviews and other research to determine the individual’s eligibility.
+Sometimes, the adjudicator requires a simple clarification by the individual. Other times, the adjudicator
+has to gather information from multiple parties to assess the claim issue and determine the final
+eligibility decision. Some claims have multiple separations that require adjudicating, with each issue
+requiring a separate determination. If an individual is denied benefits, or benefits are reduced, they
+have the right to file an appeal, generally within 20 days.
+To get a sense of the complexity of claim situations requiring adjudication due to either federal or state
+program requirements, see Figure 10.
+Figure 10: Many claim situations can trigger adjudication review
+Discharges/suspensions Voluntary Quits Nonseparation
+Temporary layoff (different eligibility
+requirements if beyond 4 weeks)
+Good cause (adjudicate situations for
+possible good cause; some reasons
+require employee to have attempted
+to seek reasonable alternative work
+assignment)
+Deductible income (i.e., retirement)
+Misconduct
+Leave work to accompany spouse to a
+different labor market (eligibility
+parameters)
+Able to work (physically and mentally
+able to work each week claimed)
+Isolated instance of poor judgment
+Refuse to join bona fide union
+membership when it is a requirement
+for the job
+Available for work (available to work
+customary hours for type of
+employment sought for each week
+claimed)
+Good faith error Reduction in pay and/or hours
+(adjudicate if meets allowable criteria)
+Actively seeking work (meeting OED’s
+required work-seeking activities for
+each week claimed)
+Unavoidable accident Domestic violence, stalking, and
+sexual assault
+Out of the labor market for portion of
+week claimed (possibly may not
+qualify for benefits)
+Absence due to illness, physical or
+mental disability
+Quit to accept other work (can qualify
+under specific criteria)
+Failure to register and complete
+welcome process for OED’s
+iMatchSkills service within required
+timeframe
+Inefficiency due to lack of job skills,
+training, or experience  Quit to avoid paying union dues
+Incarcerated (adjudicate if created
+availability issue for customary hours
+of job being sought)
+Oregon Secretary of State | Report 2022-21 | July 2022 | page 16
+Discharges/suspensions Voluntary Quits Nonseparation
+Drugs and alcohol reason (adjudicate if
+worker was in state-certified
+addiction program after separation;
+adjudicate if employer had a
+reasonable drug and alcohol policy)
+Quits before being discharged
+Attending school (adjudicate if it
+conflicts with customary hours of job
+they are seeking)
+Administrative, investigative, or
+disciplinary suspension (determine
+eligibility depending on type of
+suspension and whether it is a paid
+suspension)
+Quits before a planned voluntary exit
+Job refusals (if job refused during
+week claimed, did it meet job
+suitability criteria)
+Discharged 15 days or less before a
+planned voluntary quit
+Failing to maintain a
+license/certification required for the
+job
+Late reports (filing week(s) outside of
+acceptable timeframes)
+Theft Quit work to attend school Fraud, misrepresentation
+COVID-19 reasons  Compelling family reason Identity theft, hijacked claim
+Left work for self-employment Apprenticeship training
+COVID-19 reasons Professional athletes
+Failure to provide information
+Education workers
+Non-citizen workers (adjudicate if
+worker is authorized to work)
+Union member
+Week(s) not claimed (adjudicate
+whether to restart claim)
+Failure to apply for a job when
+referred
+Labor Dispute
+Oregon Secretary of State | Report 2022-21 | July 2022 | page 17
+During the pandemic, OED staff knew “this is when people need us
+the most”
+Many unemployed workers faced a series of challenges trying to
+claim unemployment benefits during the pandemic, on top of the
+worries and uncertainties that already come with losing a job.
+OED staff were keenly aware of the challenges these workers
+were facing and felt the strain they were under.
+“Take the normal stress of losing a job and just ratchet it up,” said
+OED Lead Adjudicator Jenifer Stepat. She and her fellow
+workers knew they needed to help as much as they could.
+“Overnight, people lost their income. We felt it. We had so much
+compassion for them. We had calls from people who were
+suicidal... the desperation in people’s voices was really hard to
+hear.” However, she also felt thankful to be in a position to help.
+“Everyone pulled together as a team. We did everything we could
+at the time to use our talents to make things better.”
+“If 2008 was a slow mudslide, 2020 was like an avalanche.”
+Like many other workplaces, OED staff had to navigate the challenges of changing workplace rules,
+social distancing, and eventually learning how to function effectively in a virtual environment. “We had
+staff getting up at 4:00 AM so we could stagger shifts,” Jenifer said. At the same time, the Adjudication
+Unit faced a workload unlike anything during the Great Recession. “If 2008 was a slow mudslide, 2020
+was like an avalanche,” she said. Jenifer pointed out that in normal times, it takes about a year to
+become comfortable with the rules and situations an adjudicator has to navigate. With all the new
+programs during the pandemic, adjudicators had to learn and apply the new rules quickly. “You went
+from feeling like you knew your job well to – Ack!”
+“We are 100% more prepared now than before.”
+Jenifer described the agency as being more prepared for the next downturn, due to improvements in
+training and everything they experienced with the surge of work during the pandemic. She also noted
+that the forthcoming IT modernization will have a huge impact. “Everyone is looking forward to that.” In
+the end, she described the role of an adjudicator as objectively applying law and rule to determine if
+someone is eligible for benefits. “It can be hard to have to deny people benefits ,” she said. “It can break
+your heart.” But she explained that, by quickly and accurately making the eligibility decision, you can
+get the claim resolved to help that person move on. “It can be a hard job, but that’s what the job is. My
+coworkers and I care about the public — that’s why we do this work.”
+Oregon Secretary of State | Report 2022-21 | July 2022 | page 18
+Audit Results
+State workforce agencies across the country, including OED, were overwhelmed by the surge of
+pandemic-related UI claims. The agency’s inflexible computer systems could not be updated when
+programs changed, and the phone system could not keep up with the extraordinary increase in calls
+OED received. The agency also struggled to keep its published resources up to date with the many
+legislative and UI program changes that occurred.
+Long before the pandemic, however, OED struggled making timely decisions on adjudicated claims.
+Federal timeliness standards compel state workforce agencies to make at least 80% of these decisions
+within 21 calendar days. Prior to January 2022, OED has not consistently met this benchmark for
+separation decisions since 2014. Inefficient communication procedures for contacting claimants and
+employers can delay decisions; the agency’s IT system lacks some internal controls for tracking case
+issues, allowing some claims to fall through the cracks; and adjudicator guidance is spread across
+several systems. Auditors also found decisions for certain demographic groups took longer, on average,
+than for others, though the cause for this discrepancy could not be determined due to limitations in the
+data.
+OED is already taking some steps to improve its communications, data system controls, and guidance,
+but additional improvements could be made to improve adjudication timeliness , reduce the risk of
+inconsistent determinations, and examine potential inequities. Establishing an ombuds office could also
+help claimants navigate complex UI programs.
+Some claims end up taking months or years to adjudicate due to
+insufficient internal controls in OED’s antiquated IT systems
+OED’s mainframe system, used to administer and adjudicate claims, is outdated and difficult to update,
+as previous audits have found. Many of the data fields used by adjudicators are manually entered,
+without automated or system edit checks or other controls to ensure information entered is accurate.
+Adjudication managers and lead staff are tasked with monitoring lists of suspended, flagged, and
+unresolved adjudicated claims, but at the time of the audit, the agency had not developed any formal
+policies and procedures to ensure these checks are done.
+Many adjudication system fields are manually entered by staff, without additional
+controls to prevent errors
+To review OED data on adjudicated claims, we looked at 155,582 records of separation-related
+adjudications from January 2019 through December 2020. 7  We found a significant number of anomalies
+in the data, including system field errors, missing fields, and test data that should not have been in the
+live production system. For example, we found over 900 adjudicated claims with missing issue
+detection dates or illogical date sequences, such as the date on which an adjudication issue was
+detected coming before the date of the first effective week of the claim.
+7 Separation-related adjudications include adjudicated claims in which the claimant was fired, laid off, voluntarily quit, or
+separated from their job in some way.
+Oregon Secretary of State | Report 2022-21 | July 2022 | page 19
+We also identified 45,524 possible duplicate records, in which there were multiple adjudication records
+— sometimes with the same detection date, decision date, and reason for adjudication — under one
+claimant ID number. According to OED managers, there are many reasons why a claimant may have
+multiple issues needing adjudication within the same claim. For example, a claimant may find and lose
+more than one job over the life of a claim, or lose multiple jobs at the same time, in which case the
+reason for each job loss may need to be adjudicated. However, without looking at the electronic file for
+each claim, we could not determine with certainty which of these records were legitimate issues within
+the same claim and which were potential errors.
+Additionally, we found 2,298 records in which there was no tracking description entered. This field
+captures the type of nonmonetary issue that needs to be adjudicated and is supposed to be a required
+field. OED managers were initially unsure why this field was showing as blank for these records; they
+were later able to determine the information is contained in the mainframe, but not coming up in data
+queries. These examples demonstrate the difficulty of pulling reliable information from these aging data
+systems.
+Complicating matters further, many of the adjudication data fields in OED’s system are manually
+entered, including the decision date, detection date, decision code, and nonmonetary tracking code.
+While the system has some required fields and basic controls, such as not allowing some illogi cal dates,
+most of the manually entered fields do not provide drop-down lists of options for staff to choose from,
+which can reduce errors and typos, or include any input controls to warn staff that an entry may be
+incorrect.
+The errors found in the data and the lack of many basic controls make it difficult to know whether data
+included in the system are correct without cross-checking them against individual claim files, a process
+that would be extremely time-consuming given the number of claims OED received over this period.
+Moreover, because the agency’s IT systems are so outdated, it is also difficult to automate these fields
+or to put additional controls in place to reduce these errors within the current system.
+Claim issues sent to adjudication, including those sent on for fraud investigations, can
+take more than a year to be processed
+We also found more than 1,000 claims that seemed to take a year or more to adjudicate from the time
+of issue detection. Over 300 of these claims appeared to have occurred in 2019, long before any
+pandemic-related delays should have been present. However, looking at the data, it was unclear
+whether these cases actually took more than a year for a decision or whether they were the result of
+errors in either of the date fields.
+To examine this further, we asked OED managers about 10 adjudicated claims among those that
+appeared to have taken the longest to be processed, ranging from 689 to 804 days. Of these 10 files,
+six included errors in either the detection date or decision date. However, the other four files had been
+sent to the Benefit Payment Control (BPC) unit within OED, which investigates claims for issues such as
+potential fraud or identity theft. OED managers reached out to the BPC unit and determined the
+detection and decision dates for these four claims, which took 729 to 804 days to process, were
+accurate. According to agency managers, these claims appeared to have been investigated by BPC
+staff and were set aside while waiting for additional information, where staff then lost track of them
+and did not follow up on until they were finalized roughly two years later.
+Oregon Secretary of State | Report 2022-21 | July 2022 | page 20
+Given the small sample of these reviewed claims, we cannot gauge how many more of the records that
+appeared to have taken more than a year to process were also sent to BPC for investigation without
+looking at each individual record. However, any number of claims taking that long is problematic and
+could significantly affect those claimants.
+The agency indicated it implemented some ad hoc procedures during the pandemic to manage claims
+needing more information or action that end up being suspended or needing adjudication. However,  at
+the time of the audit, it had not developed formal policies or procedures to standardize that monitoring
+to ensure work was consistently being done. OED management indicated they have implemented
+procedures to make sure claims sent to BPC are tracked.
+OED’s communication procedures for adjudications are outdated
+and inefficient for contacting parties involved in adjudicated claims
+While the agency has updated some of the ways in which it communicates with claimants, including
+using caller ID for outgoing calls and accepting emailed information, it still relies heavily on phone calls
+and letters, which can delay the process. Once implemented, OED’s long-planned IT system
+modernization should help streamline the process.
+When the pandemic began, OED relied on its phone system for educating and helping
+people navigate the UI process
+Prior to March 2020, OED’s phone system averaged less than a five-minute hold time. However, the
+system could not keep up with the enormous influx of calls during the pandemic. In part because the
+agency needed to quickly work with phone service providers to expand the capacity of the OED phone
+lines, and also because OED did not have an online contact form
+that could provide an alternative method for reaching the
+agency other than a phone call, people were forced to wait on
+hold for several hours, with some callers being disconnected or
+getting a busy signal.
+In the summer of 2020, OED improved its online resources to
+help individuals access UI benefits without having to rely on
+calling the agency for support. OED launched a new and
+improved website in July 2020 with information translated into
+15 languages other than English. The new website includes a
+built-in chat-bot to provide general information to frequently
+asked questions and a “Contact Us” feature that permits
+individuals to reach out to the agency regarding their claim and
+upload documents. In early 2021, OED updated the initial claim
+application to include a version in Spanish, permitting Spanish-
+speakers to file their initial claim online versus calling in or having
+to submit a translated form.
+Oregon Secretary of State | Report 2022-21 | July 2022 | page 21
+OED meets federal requirements for attempting to reach claimants and employers, but
+delays inherent to OED’s process can impact timeliness
+Federal Department of Labor standards require state workforce agencies to make reasonable attempts
+to reach claimants and, for certain types of issue, employers, when claims are flagged for adjudication.
+Per OED policy, adjudicators are required to make at least one attempt to reach claimants, by phone or
+by mailed letter, which meets the federal minimum. Based on our conversations with several
+adjudicators, they generally reach out to a claimant by phone, leaving their name and direct phone
+number if they are unable to speak with the person directly. If they are unable to leave a message,
+either by voicemail or with another individual who agrees to deliver the message, the adjudicator must
+send a letter (or a secure email if an email address is on file) to the individual notifying them the
+department is trying to reach them regarding their claim. If the person does not respond to the initial
+contact, another call may be made or another letter (or email) may be sent.
+By policy, adjudicators are required to allow a claimant at least 48 hours to respond to a voicemail  or
+email message and at least five days to respond to a letter. While this policy helps ensure people are
+given time to reply to OED requests, it can quickly impact timeliness. For example: An individual might
+call back after hours or when the adjudicator is on another call. If the individual is not available when
+the adjudicator returns the call, the adjudicator must give them another 48 hours to respond. If the
+adjudicator calls and is unable to speak with the person or leave a message, the adjudicator m ust then
+send a letter or secure email, requiring a waiting period of 48 hours for email and at least five days for a
+letter. OED did not previously have consistent caller ID for outbound calls, making it less likely people
+would answer adjudicator calls, and the agency does not use texting as a method for contacting people,
+as many UI fraud schemes also use texting. Furthermore, while some email capability is now included as
+a part of the “Contact Us” form on the OED website, in addition to the agency’s secure email system,
+neither are used as a primary method of contact, and the secure email system is not user -friendly or
+efficient. OED also does not ask claimants for their preferred communication method when they apply
+for UI benefits, due to limitations with the legacy mainframe system.
+The 21-day federal timeliness benchmark for adjudications begins on the date on which the department
+detected — or should have detected — an issue that requires adjudication and includes weekends and
+holidays. If the staff person who initially receives a claim detects an issue needing adjudication, under
+the federal standard, the adjudication timeliness period would generally start on the date the claim was
+received; it could be several days into the 21-day period before it comes to an adjudicator, or even
+beyond the 21-day mark. Also, if an issue is detected late in the work week, it may not get assigned to
+an adjudicator until the following Monday, reducing the number of days available to adjudicate the issue
+within the timeliness standard. According to adjudicators we spoke with, claims are often several days
+into the timeliness period before the adjudicator receives the case.
+Additionally, the high frequency of claim backdating during the pandemic exacerbated this issue. When
+claims were backdated more than 21 days, the adjudication timeliness clock had already run out by the
+time the issue was identified by OED, so the agency never had an opportunity to write a timely
+decision. For example, if an initial claim was filed in September 2020 and backdated to April 2020, when
+the individual separated from work, but OED staff identified an issue needing adjudication  for a week
+claimed in July 2020, the backdating makes it appear the agency should have known about the issue in
+April, months before the initial claim was received.
+Oregon Secretary of State | Report 2022-21 | July 2022 | page 22
+Adjudicated claims sometimes need additional information from an individual’s former employer to
+determine eligibility. When an individual files an initial claim application, their former employers are sent
+a form, called Form 220, to gather information about their job separation. Under state law, an employer
+must respond to a Form 220 within 10 days to maintain their right to appeal the decision . If the
+employer does not respond at all, the adjudicator can proceed with the adjudication using only the
+information provided by the claimant. Also, adjudicators we spoke with noted that if the employer (or
+their representative) only provides some of the information needed, they are required to ma ke another
+reasonable attempt to obtain the needed information via phone, email, or letter , which includes
+another waiting period. Even in these instances, the 21-day timeliness standard still applies.
+The National Association of State Workforce Agencies (NASWA) administers a system known as SIDES
+that allows employers to electronically receive and respond to Form 220s, which can greatly reduce
+delays inherent in mailed forms, such as incorrect addresses and delivery delays. While OED encourages
+employers to use SIDES, it does not require any to do so, even larger employers , third-party
+administrators, or businesses with higher experience ratings.8
+Figure 11: The National Association of State Workforce Agencies (NASWA) administers the SIDES program,
+which allows employers to electronically submit UI information to state UI programs
+Source: NASWA website
+The combined effect of these various policies and circumstances means more than a week can go by
+before an adjudicator has an opportunity to talk with the claimant or, if necessary, the employer.
+Auditors were unable to determine the percentage of adjudicated claims that are delayed in this way,
+due to limitations in the adjudication data we received from OED (see pages 21-22 for more information
+on these data limitations).
+The agency’s planned modernization of its IT systems should present an opportunity to improve its
+communications with claimants. The new system should allow:
+8 To help support an equitable distribution of costs across employers, an employer’s UI tax rate is based in part on its experience
+rating, which measures how many of a business’s former employees go on unemployment insurance.
+Oregon Secretary of State | Report 2022-21 | July 2022 | page 23
+• Easier submission of online claims, making it simpler for claimants and agency staff
+to track and manage claims;
+• More questions to be asked up front, when a person is applying for benefits,
+creating a more complete record with less need for follow-up by the agency; and,
+• OED to both ask for and use a claimant’s preferred communication method.
+According to OED management, the modernized IT system will also incorporate the SIDES system,
+which should allow OED to receive information more quickly from employers or third-party
+administrators.
+During the pandemic, published guidance for claimants and internal
+guidance for adjudicators was often out-of-date or difficult to find
+With the surge of pandemic-related claims, new UI programs, and retroactive federal guidance supplied
+by the federal government, OED struggled to provide the public with accurate and up -to-date
+information. To improve its communication, the agency created a separate UI website for UI claimants
+to be updated with the newest information on pandemic-related changes and new programs. However,
+information on the new site did not always match outdated guidance on OED’s regular website.
+Additionally, adjudicators we spoke with indicated guidance for staff was not centralized or updated
+regularly, and staff often had to create their own systems for organizing resources on new UI programs
+and rule changes, increasing the risk of inconsistent adjudication decisions. According to OED
+management, new information was provided timely to adjudicators by email, memo, and training
+materials when necessary, but the pre-pandemic guidance repositories were not updated regularly.
+The agency's published resources were not updated timely, and information could be
+confusing, conflicting, and difficult to navigate
+The surge of claims OED received during the pandemic put enormous strain on the agency. While
+dealing with this unprecedented rise in claims, the agency also had to stand up new UI programs
+created by Congress and implement multiple changes to these new benefit programs, as well as
+existing programs, due to actions by Congress or the Legislature. As the pandemic continued,
+retroactive guidance from the federal government created additional burdens on the agency as staff
+and managers worked to implement these policies. Taken together, these challenges made it difficult
+for OED to keep information on its websites up-to-date and accurate.
+Early in the pandemic, Congress created new UI programs to help those who did not qualify for regular
+UI, and the federal Department of Labor issued new guidance relaxing some UI requirements, as entire
+industries were effectively shut down to help limit the spread of the COVID-19 virus. In an effort to
+keep up with all the changes, OED created a secondary website that went live in the summer of 2020.
+This new site contained information on the new UI programs created by Congress, as well as pandemic -
+related changes to the regular UI programs, and was more accessible for non-English-speaking
+populations, with UI information translated into multiple languages.
+At the same time, OED kept its main agency website with pre-pandemic UI information. Some of this
+information was outdated and did not reflect program changes made during the pandemic. Though a
+link to the new site was included in a banner on the old site, a claimant would not get the most up -to-
+Oregon Secretary of State | Report 2022-21 | July 2022 | page 24
+date information on filing a claim during the pandemic if they did not see the link to the new site. Figure
+12 shows the Unemployment Insurance section of the main OED website with the banner linking to the
+new, updated site.
+Figure 12: OED’s main website included a link at the top of each web page to the new website
+Source: OED website
+Similarly, the agency produced guidance documents and instructional videos to help walk claimants
+through how to submit a valid online claim during the pandemic. Because OED’s IT systems are
+antiquated and difficult to update, this guidance could not be built into the online claim system.
+However, if a claimant did not see these guides or videos, they could enter their claim information
+incorrectly, possibly resulting in delays, adjudication, or denial of benefits. Figure 13 shows a page from
+an OED guidance document, pointing out information in their claim system was not updated bas ed on
+rule changes due to the pandemic.
+Figure 13: Because OED’s antiquated IT systems are difficult to update, the agency had to create separate
+guidance documents to walk claimants through how to submit a claim during the pandemic
+Source: OED online guide, titled “Filing a New Unemployment Insurance Claim Application During COVID-19”
+Oregon Secretary of State | Report 2022-21 | July 2022 | page 25
+Adjudicator guidance is spread across different sources and is not updated, leading to
+employee workarounds and increased risk of inconsistent determinations
+According to our conversations with OED managers and staff, the agency provides several different
+avenues through which adjudicators can receive support and guidance in conducting their work, in
+addition to the enormous number of training documents they receive during initial training. Lead
+adjudicators provide much of the day-to-day guidance, maintaining chat forums via Microsoft Teams in
+which adjudicators can ask questions, as well as a shared database in which adjudicators can pose more
+difficult questions for leads to answer. Some teams maintain their own Teams chats or other forums in
+which staff can pose questions to their more experienced colleagues. Staff also mentioned the
+Adjudication unit’s internal quality control process, in which a lead or manager reviews a certain number
+of decisions from every adjudicator on their team each month, to help make sure decisions were made
+correctly. These reviews are on top of federally required evaluations of benefit accuracy, quality, and
+timeliness OED also conducts.9
+When discussing written guidance, however, adjudicators we spoke with noted it is scattered across
+several platforms, including an outdated benefit manual, an outdated online document library, emailed
+guidance, laws and rules, U.S. Department of Labor requirement changes, and OED policy changes from
+OED’s UI Operations and Program Support section. According to staff, many adjudicators develop their
+own documents and systems for keeping track of guidance, which puts newer employees at a
+disadvantage, as they may not know all the places where guidance might be stored. In conjunction with
+the lack of organized written guidance, some adjudicators we spoke with also reported getting
+different answers from different lead workers when requesting help on more difficult adjudication
+scenarios, as well as confusion among leads on more recent rule changes.
+Not providing adjudicators with timely guidance that is easy to access increases the chances of
+inconsistent adjudication determinations, potentially resulting in erroneous decisions that could affect
+both claimants and how the agency scores in federally required benefit accuracy  and quality
+evaluations. OED management indicated it is working on creating a centralized resource via Microsoft
+OneNote that will include links to all the various sources of guidance for adjudicators.
+Like other large state agencies with complex programs, OED could
+benefit from an ombuds office to assist and advocate for claimants
+As explained earlier in this report, many of the rules and requirements for UI are complicated and
+decisions are often dependent upon an individual’s particular situation. Not all claimants can understand
+these complexities themselves, and because they have lost employment, they are likely to be stressed
+and anxious. Some state agencies in Oregon, as well as other states, provide an Ombuds office to
+advocate for and assist individuals in getting their cases addressed more quickly.
+An ombuds office can help individuals navigate complex, bureaucratic programs
+Eligibility rules for UI can be incredibly complex, encompassing both federal requirements and additional
+rules and policies implemented by individual states. How an individual became unemployed, the
+circumstances around how and why they became unemployed, how much they worked and earned
+9 The federally required reviews are Benefit Accuracy Measurement (BAM) and Benefit Timeliness and Quality (BTQ).
+Oregon Secretary of State | Report 2022-21 | July 2022 | page 26
+while employed, a person’s ability and availability to work, and whether they are actively seeking work
+can all affect whether a claim is eligible for benefits. Not everyone is able to understand and navigate
+these rules themselves.
+Furthermore, adjudicated claims can take many weeks or months to resolve, and sometimes get lost in
+the system, as we found when examining claims data. Individuals looking for help getting their claim
+resolved have few avenues to turn to outside the regular claim and adjudication processes, short of
+contacting their state legislator for help. Those who are less familiar with the unemployment system,
+who have less education, or for whom English is not their first language, may not be comfortable
+contacting their legislators or even know of that as an option. For these people , as well as those whose
+claims may have fallen through the cracks, an ombuds office could help them navigate the complexities
+of the system and get their claims resolved sooner.
+The State of Oregon has already established ombuds offices for other critical state programs, such as:
+• Governor’s Advocacy Office, which manages the Oregon Department of Human
+Services (ODHS) Ombuds and Foster Care Ombuds programs, as well as other
+complaints regarding ODHS;
+• Office of Long-Term Care Ombudsman, which also includes the Oregon Public Guardian
+and Residential Facilities Ombudsman programs;
+• Ombuds Office for Oregon Workers, which advocates for and helps workers understand
+the state’s workers’ compensation system; and,
+• Office of Small Business Assistance, which offers ombuds services to Oregon
+businesses with up to 100 employees who have questions or concerns about state or
+local government.
+Some other states have ombuds offices that
+help resolve issues related to UI claims. The
+ombuds office for the Arizona Department of
+Economic Security acts as an impartial,
+independent, and confidential resource for
+individuals facing issues with UI and several other
+programs, including the state’s food stamp, cash
+assistance, and developmental disabilities
+programs. In Alaska, the State Ombudsman
+investigates citizen complaints about
+administrative actions taken by state agencies.
+Other states, such as Iowa and Hawaii, have ombuds offices that cover most of state gover nment, as
+well. According to the United States Ombudsman Association, some states also have public agencies
+with their own ombuds offices, such as the Texas Health and Human Services Office, the Georgia
+Department of Corrections, and the Minnesota Ombudsman for Mental Health & Developmental
+Disabilities.
+Implementing an ombuds office for UI could help people who may not be able to advocate for
+themselves and help identify and document trends or gaps in the claims process OED could then
+investigate, monitor, and improve upon.
+Oregon Secretary of State | Report 2022-21 | July 2022 | page 27
+Certain demographic groups appear to have faced longer delays
+during the pandemic
+Based on adjudication data, it appeared that adjudications for individuals from some racial and ethnic
+groups, as well as those with lower earnings, took longer to process during the pandemic than claims
+from some other groups. Data from before the pandemic did not show this same trend. Due to
+limitations in the data, we were unable to determine the exact cause of these disparities, but the data
+are significant enough to warrant further research and attention from OED.
+Though the cause could not be determined, adjudication decisions for certain ethnic
+groups and claimants with lower wages appeared to take longer on average
+As a part of our analysis of OED adjudication data, we examined whether there were differences in
+adjudication timeliness by certain demographic and socioeconomic factors, including race, ethnicity,
+and income, using claimants’ weekly benefit amount as a stand-in for income level. Though the data
+issues mentioned previously prevent us from drawing many conclusions, we noticed certain trends in
+the data that would be worthwhile for OED to further research and monitor.
+When looking at the data on separation-related claims, we found adjudications for individuals from
+certain racial and ethnic groups appeared to take longer to process during the pandemic. For claims
+filed from March 2020 through December 2020, the longest average time span for an adjudication was
+117 days for individuals identifying as Asian — 16 days longer than the shortest average time span, for
+those claimants who did not indicate their race or ethnicity. Figure 14 shows how many extra days it
+took for adjudication decisions, on average, by race or ethnicity both during and prior to the pandemic.
+Figure 14: Average adjudication times were up to 16 days longer for certain racial and ethnic groups than
+adjudications where no race or ethnicity was indicated, though the cause for this disparity is unclear
+Note: Before the pandemic, decisions for individuals identifying as African American took an average of one day less than those
+with no race/ethnicity indicated; this is shown here as -1 in the African American category.
+Source: OED data
+4 4 4
+-1
+Asian Native
+Hawaiian or
+Pacific
+Islander
+Race Unknown
+Indicated
+African
+American
+White Hispanic
+Latino
+American
+Indian or
+Alaskan Native
+More than one
+race/ethnicity
+No
+Race/Ethnicity
+Indicated
+Additional days to decision, March-December 2020
+Additional days to decision, January 2019-February 2020
+Oregon Secretary of State | Report 2022-21 | July 2022 | page 28
+With decisions in the data we analyzed taking an average of over three months during the pandemic, an
+extra two-week delay in receiving benefits can have a major impact on the lives of those eligible to
+receive UI. A two-week delay could mean the difference in someone making an on-time car payment or
+losing their vehicle to repossession, or the ability to purchase food.
+OED adjudication data also showed that as the weekly benefit amount increased — which is based on
+how much a claimant earned while they were employed — the average time to process the adjudication
+went down. Based on the data, claims with a weekly benefit amount of $100 to $185 took an average
+of 109 days to be adjudicated, while claims with an amount of $615 to $700 took an average of 95 days
+to adjudicate. This would suggest adjudications for those with higher earnings were processed faster
+than adjudications for those with lower earnings. Figure 15 shows the average adjudication times by
+weekly benefit amount both during and before the pandemic.
+Figure 15: Claims from those with lower weekly benefit amounts — those with lower earnings — appeared to
+take longer to adjudicate than those with higher weekly benefit amounts, though the cause is uncertain
+Source: OED data
+Because of known data limitations, we could not draw any firm conclusions about the trends we saw.
+These disparities could be the result of errors in the data that, if corrected, would show smaller
+discrepancies in adjudication times by race, ethnicity, or earnings. It is also plausible the trends show
+inequities in the system that need to be corrected. Therefore, it is important for OED to perform
+further data collection and analysis to identify the potential cause.
+Claimants are also not required to provide their race or ethnicity when applying for unemployment
+benefits. In the data we analyzed, only roughly 33% of claims before the pandemic and 60% of claims
+during the pandemic included this information. It is possible these trends would be different if every
+claim had this information.
+Even if the disparities found are accurate, there are many reasons they could be occurring. For
+example, the equity report OED published in 2021 noted workers from communities of color were over -
+represented in leisure and hospitality jobs, the sector of the economy hardest hit by the pandemic. As
+3 3
+$100 - 185 $186 - 271 $272 - 357 $358 - 442 $443 - 528 $529 - 614 $615 - 700
+Additional days to decision, March-December 2020
+Additional days to decision, January 2019-February 2020
+Oregon Secretary of State | Report 2022-21 | July 2022 | page 29
+with that sector, if a specific industry was forced to close or reduce operations during the pandemic,
+there could be many related claims with complicated issues needing adjudication. The pandemic
+affected virtually every sector of the economy in different ways.
+OED should consider monitoring and researching these trends more fully over time. The agency is
+already taking related steps, having received a grant from the U.S. Department of Labor to improve
+equitable access to UI programs.
+OED received a federal grant to improve UI accessibility, as the pandemic highlighted
+barriers to equitable UI access
+OED published an equity report in 2021 that highlights inequity trends in younger workers, women, low-
+paid workers, and workers identifying with one or more race or ethnicity other than white. 10 These
+groups were identified as being more affected by the pandemic due to the high representation of these
+demographics within many of the service-based job sectors that were hit the hardest. The report
+concluded lower-wage workers suffered the most job loss brought on by the pandemic.
+The report also identified possible UI access barriers for workers who primarily speak a language other
+than English. These access challenges could be attributed to barriers in computer or internet access,
+lack of in-person assistance (WorkSource Oregon offices and public libraries were closed due to COVID-
+19), and barriers accessing timely information translated in languages other than English. Additionally,
+the online claims application was initially only offered in English, so benefit seekers would need to try to
+contact OED by phone for assistance. However, callers struggled getting through due to the agency’s
+telephone lines during the pandemic. OED reported receiving more than 20 million calls in April 2020
+alone.
+Oregon was one of the first states to be granted a federal UI equity access grant , in the amount of just
+over $4.5 million, in early 2022. OED plans to stand up an Equitable Access to Unemployment Insurance
+Business Unit to conduct outreach at the community level and assess UI equity access through routine
+data analysis to identify disparities and gaps.
+10 See OED Report titled ‘Disparate Impacts of the Pandemic Recession in Oregon’
+Oregon Secretary of State | Report 2022-21 | July 2022 | page 30
+Recommendations
+To improve adjudication timeliness and potential inequities, OED should:
+1. Implement formal policies and procedures for oversight of adjudicated and suspended claims
+and data systems;
+a. Monitor the suspended claims list and adjudication data reports that identify claim files
+that have not been reviewed within a set period;
+2. Incorporate controls and functionality in the modernized IT system to:
+a. Reduce data errors, such as illogical dates and manual entry errors;
+b. Automatically flag claims that have not been reviewed within a set period;
+c. Allow secure electronic communication methods and use claimants’ preferred method
+of communication;
+d. Allow individuals to securely upload documents and track the progress of their claim;
+e. Continue to make communication available in languages other than English;
+f. Provide accurate guidance, explanations, and tips for filling out claim applications;
+3. Explore whether other state workforce agencies use texting to communicate with claimants
+and consider offering texting as an option for claimants who prefer that contact method;
+4. Consolidate UI information into one website with detailed, updated guidance and resources for
+current and prospective claimants;
+5. Establish a central repository for adjudicator guidance and assign a manager or lead worker to
+regularly update that guidance;
+6. Study the creation of an ombuds office to help claimants navigate the complexities of the UI
+system and address unresolved claim issues, in consultation with the Governor’s Office and
+other states; and
+7. Continue gathering and analyzing OED data on inequities to identify and address the causes for
+any confirmed inequities.
+Oregon Secretary of State | Report 2022-21 | July 2022 | page 31
+Objective, Scope, and Methodology
+Objective
+The objective of this audit was to determine how OED Unemployment Insurance can improve its claim
+adjudication process to improve average processing times for suspended and adjudicated claims and
+reduce hardships and inequities.
+Scope
+The scope of the audit includes nonmonetary determinations related to separations for claims with a
+claim date from January 2019 through December 2020.
+Methodology
+To address our objective, we conducted interviews or corresponded with multiple stakeholders,
+including OED personnel across divisions and programs, the Legislative Fiscal Office, Department of
+Administrative Services Budget Analyst, regional U.S. Department of Labor representatives, Oregon
+Department of Human Services Ombuds program, and auditors from other state audit offices. We
+reviewed state and federal rules related to the program and our audit objective, as well as other states’
+UI program rules and published federal data. We also reviewed federal audits and reports, UI studies,
+and articles. We reviewed OED policies, procedures, processes, training materials, online resources, and
+other agency-provided documentation. We reviewed U.S. Department of Labor unemployment
+insurance program letters, data, and published standards and requirements.
+We obtained adjudicated claim data through OED that was specific to separation -related claims with
+original claim dates spanning from January 2019 to December 2020. Analysis of this data determined it
+was reliable enough to support our audit objectives, but with significant limitations due to a lack of
+system controls, leading to data entry errors, illogical date values, and test data in the production
+environment. The data on claimant demographics is also sufficiently reliable to support our objectives,
+but with limitations, as claimants are not required to enter race and ethnicity information, so only some
+claimants have entered that information. We are unable to determine whether differences in
+adjudication timeliness for these groups are representative of all claimants from these groups or are
+specific to the subset of claimants who entered their race and ethnicity information .
+Internal control review
+We determined that the following internal controls were relevant to our audit objective. 11
+• Control activities
+• We considered whether management has designed control activities related to
+adjudication timeliness and whether management has designed information
+systems and related control activities to achieve objectives and respond to risks.
+• Monitoring activities
+11 Auditors relied on standards for internal controls from the U.S. Government Accountability Office, report GAO-14-704G.
+Oregon Secretary of State | Report 2022-21 | July 2022 | page 32
+• We considered whether management was effectively monitoring internal controls
+for adjudication timeliness and whether management remediated identified internal
+control deficiencies on a timely basis.
+Deficiencies with these internal controls were documented in the results section of this report.
+We conducted this performance audit in accordance with generally accepted government auditing
+standards. Those standards require that we plan and perform the audit to obtain sufficient, appropriate
+evidence to provide a reasonable basis for our findings and conclusions based on our audit objectives.
+We believe that the evidence obtained provides a reasonable basis for our findings and conclusions
+based on our audit objectives.
+We sincerely appreciate the courtesies and cooperation extended by officials and employees of OED
+during the course of this audit.
+About the Secretary of State Audits Division
+The Oregon Constitution provides that the Secretary of State shall be, by virtue of the office, Auditor
+of Public Accounts. The Audits Division performs this duty. The division reports to the elected
+Secretary of State and is independent of other agencies within the Executive, Legislative, and Judicial
+branches of Oregon government. The division has constitutional authority to audit all state officers,
+agencies, boards and commissions as well as administer municipal audit law.
+Audit team
+Ian Green, M.Econ, CGAP, CISA, CFE, CIA, Audit Manager
+Olivia Rechecked, MPA, Audit Manager
+Steve Winn, MPP, Principal Auditor
+Christina Nichols, Staff Auditor
+This report is intended to promote the best possible
+management of public resources.
+Copies may be obtained from:
+Oregon Audits Division
+255 Capitol St NE, Suite 180
+Salem OR 97310
+(503) 986-2255
+audits.sos@oregon.gov
+sos.oregon.gov/audits

@@ -1,0 +1,2660 @@
+Higher Education Coordinating Commission
+Oregon Must Improve
+Community College
+Performance, Student
+Support, and
+Sustainability Amid
+Persistent Enrollment
+Declines
+December 2022
+Report 2022-35
+Correction 12/20/22: In the original report, Figure 6 on
+page 15 included an incorrect number for Umpqua
+Community College’s 2020-21 retention rate. Figure 6 has
+been revised to include the correct number from HECC’s
+updated Snapshot Report on the college.
+Why this audit is important
+• Oregon’s 17 community colleges
+enrich their communities, help
+meet state education and
+workforce goals, and help
+students who may not be able to
+afford college without them.
+• The colleges enroll many
+students historically underserved
+by the education system:
+students identifying as
+Black/African American,
+Hispanic/Latino, American
+Indian/Alaska Native, Native
+Hawaiian/Pacific Islander, low-
+income, older, and rural.
+• More than half of Oregon’s
+community college students
+report food insecurity, housing
+insecurity, or homelessness.
+• The colleges and the state have
+focused primarily on access, but
+are adding a sharper focus on
+student success and equity gaps.
+Our findings indicate this shift
+remains a work in process.
+What we found
+1. Since HECC began overseeing the community college system in
+2015, HECC and the colleges have focused more on equity and
+effective data use, students are earning certificates and associate
+degrees at higher rates, and equity gaps have narrowed. (pg. 14)
+2. As in our last community college audit, also in 2015, student
+performance still lags versus other states, the system continues
+to lack transparency and accountability, and strategic investment
+remains limited. (pg. 13)
+3. State and colleges continue to lack sufficient student and program
+data to guide strategic improvements. (pg.18)
+4. Crucial student support services continue to be inadequately
+monitored and supported, limiting opportunities for students with
+the most need. (pg. 25)
+5. State financial aid to students is relatively strong in national
+comparisons but has significant gaps in students served. (pg. 31)
+6. Despite increased state funding, Oregon’s colleges face substantial
+threats to sustainability, including enrollment declines that
+outpace other states, with little strategic guidance or state
+oversight. (pg. 34)
+7. To ensure system accountability and drive timely improvements,
+state leaders must give HECC the necessary staff and a clear
+mandate to monitor the colleges, publicly report on improvements
+needed, and help advance improvement efforts. (pg. 12)
+What we recommend
+We made five recommendations to HECC and one recommendation to the Governor’s Office and Legislature. HECC
+partially agreed with all of our recommendations. The agency’s response can be found at the end of the report.
+Audit Highlights
+Higher Education Coordinating Commission
+Oregon Must Improve Community College Performance, Student
+Support, and Sustainability Amid Persistent Enrollment Declines
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 3
+Introduction
+Community colleges serve a diverse set of students and are particularly important for historically
+underserved students. Community colleges are also critical to equitably improving workforce and
+education opportunities across the state and meeting workforce needs.
+The Higher Education Coordinating Commission (HECC) has statewide authority for community
+colleges, public universities, and private colleges. This audit focuses on HECC’s role with Oregon’s
+community colleges.
+HECC coordinates multiple areas of higher education, including
+community colleges
+Oregon’s Legislature established HECC in 2011 to be the statewide authority for higher education. The
+agency includes eight offices with 180 employees (161 Full-Time Equivalent, or FTE, positions),
+overseen by a 15-member volunteer commission appointed by the Governor. Commission members
+include one member from each congressional district, four members of the general public, and six
+members representing students, faculty, and staff at public universities and community colleges.
+Statutes authorize HECC to:
+• Develop goals across the postsecondary education system;
+• Prepare strategic plans and statewide budget requests;
+• Encourage and facilitate cost-sharing opportunities;
+• Distribute public funding to colleges and state financial aid to Oregon students;
+• Evaluate and report the success of higher education efforts; and
+• Collaborate with partners to improve access to higher education for diverse and
+underserved populations.
+HECC works with stakeholders to submit higher education budget requests to the Governor. In the
+2021-23 biennium, HECC’s budget for its own operating expenditures totaled $70.7 million.
+The Legislature approved $700 million for 2021-23 to support community college operations. State
+appropriations for individual colleges are allocated through the Community College Support Fund.
+Allocations are based largely on enrollment and adjusted for property tax receipts to ensure total
+public resources per student are relatively equal across the state. In the colleges’ budgets for the 2022-
+23 fiscal year, projected state appropriations for operations ranged from about $3 million at the state’s
+smallest colleges to more than $100 million at Portland Community College, the largest.
+HECC’s Mission
+• Dramatically and equitably improve postsecondary attainment levels.
+• Improve Oregon’s economic competitiveness and quality of life.
+• Ensure that Oregon students have affordable access to colleges and universities.
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 4
+The Office of Community Colleges and Workforce Development (CCWD) provides direct support to
+all 17 community colleges and their roughly 178,000 credit and non-credit students.1 Prior to HECC’s
+creation, CCWD was an independent agency. In 2015, CCWD became an office within HECC. The office
+has 20 positions (18 FTE). It works with the colleges and workforce programs to support student
+learning. CCWD staff collaborate on statewide educational efforts such as: Adult Basic Skills, Career and
+Technical Education, equity and student success initiatives, and transfers to universities. CCWD has
+one dedicated research analyst, who focuses primarily on federal grants for Career and Technical
+Education and Adult Basic Education.
+HECC’s 16 key performance measures include four that pertain to community colleges. Those measures
+focus on four-year completion and transfer rates and on wages five years after students complete
+college, including results by student race and ethnicity.
+Local boards and other parties have substantial roles in the community college system
+Oregon’s community colleges are governed by independent and locally elected boards. The boards
+appoint college presidents, set college policy, approve budgets, and guide the colleges in accomplishing
+their mission and meeting strategic goals.
+The Oregon Community College Association represents colleges and board members. The association
+is separate from HECC, but plays a significant role in HECC and legislative decisions on budget, policy,
+and college funding allocations. The Oregon Student Success Center, under OCCA, leads important
+college improvement initiatives.
+The Northwest Commission on Colleges and Universities is the federally authorized accreditation
+body for Oregon and other Northwest states. Colleges must be accredited for their students to receive
+federal financial aid. The commission monitors and evaluates individual college operations and issues
+periodic independent evaluations to the colleges. If deficits are identified, colleges must address them
+during their seven-year accreditation cycle.
+Local Workforce Investment Boards, supported by HECC’s Office of Workforce Investments, play a
+major role in convening regional industry sector partnerships. The boards work alongside community
+colleges to develop and maintain regional workforce related initiatives.
+Community colleges offer transfer and career-oriented education
+programs in communities throughout Oregon
+The colleges offer technical training degrees and certificates connected to jobs as well as college-level
+courses and associate degrees that can count toward two full years of a bachelor’s degree. Some
+certificates can be obtained in a year or less, allowing for faster skill-building geared toward specific
+jobs. Colleges also offer non-credit courses for professional and personal development, and as of 2019
+can offer applied bachelor’s degrees in specific topics.
+1 Students at community colleges can take courses for college credit and can apply for applicable federal and state financial a id.
+Colleges receive state reimbursement for all eligible for-credit courses and for some non-credit courses, such as Adult Basic
+Education and English language courses.
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 5
+Offerings vary by college, but generally include apprenticeship programs, dual-credit programs for high
+school students, and four types of courses:
+• Lower Division Collegiate: Courses and
+associate degrees provide transferable, college-
+level credits in liberal arts or specific fields such
+as business, English, education, and biology.
+• Career and Technical Education: Courses,
+certificates, and associate degrees focus on
+professional and applied or hands-on subjects,
+such as nursing and welding. CTE courses and
+career pathways can lead directly to jobs and
+may also apply toward a bachelor’s degree. These courses comprise 16% of community
+college course offerings statewide.
+• Adult Basic Skills and Developmental Education: Courses offer instruction in English as a
+second language, writing and math fundamentals, high school diploma and General
+Equivalency Degree (GED) preparation, and workplace skills such as critical thinking and
+digital literacy. Courses may be for credit or not for credit.
+• Adult Continuing Education and Personal Enrichment: Community-based, non-credit
+courses provide work or hobby skills, such as professional training, commercial truck driver
+licensing, foreign languages, watercolor painting, and gardening.
+Figure 1: Oregon has 17 community colleges, supported by property taxes from specific zones
+2020-21 For-Credit
+Headcount Enrollment
+Oregon Coast
+Tillamook Bay
+Columbia Gorge
+Clatsop
+Southwestern
+Blue Mountain
+Klamath
+Treasure Valley
+Umpqua
+Rogue
+Central Oregon
+Linn Benton
+Clackamas
+Lane
+Mt Hood
+Chemeketa
+Portland
+State
+1,527
+1,675
+2,310
+2,367
+2,551
+2,683
+3,356
+5,786
+6,536
+8,380
+11,080
+11,817
+12,263
+13,112
+39,133
+125,972
+Source: HECC
+2020-2021 offerings by type:
+51% Lower Division Coursework
+16% Career Technical Education
+2% For-Credit Developmental Education
+31% Non-Credit Education
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 6
+Community colleges provide opportunities to students who might not otherwise be able
+to attend higher education
+Due to their relatively low tuition, open admission, and dispersed locations, community colleges offer
+critical higher education opportunities for Oregonians — particularly for those who identify as a
+member of an historically underserved or excluded population, such as:
+• Students from low-income families;
+• Rural residents;
+• Older students returning to education;
+• First-generation students, those who are among the first in their family to attend higher
+education; and
+• Students identifying as Black/African American, Hispanic/Latino, American Indian/Alaska
+Native, or Native Hawaiian/Pacific Islander.
+Community colleges in Oregon and across the country follow an open-enrollment model; anyone can
+enroll to take college courses and work toward an associate degree, many of which allow students to
+transfer directly into any Oregon public university.2 This is a common path for Oregon students to take;
+in 2019-2020, one third of students who earned a bachelor’s degree transferred from an Oregon
+community college.
+Oregon Community College Students
+Students of color: 28%
+Older than 25: 50%
+Eligible for Pell Grants: 62%
+Cannot meet college expenses: 30%
+Part-time: 54%
+Average tuition for 2022-23
+Public Universities: $9,838
+Community Colleges: $4,128
+Starting wages for 2021 Oregon job vacancies
+High School Diploma: $17.17
+Postsecondary or Other Certification: $26.22
+Other Advanced Degree: $33.36
+Median salary 5 years after graduation
+All certificates: $40,593
+Associate degree: $43,183
+Bachelor’s degree: $51,186
+While some students come straight from high school, half are older than 25. These older students may
+take courses to further their education, establish a career, develop an existing one, or work toward
+changing careers. Their community college involvement can range from taking a single high-impact
+course to obtaining a certificate or degree. More than half of community college students attend part-
+time, often working and raising families while pursuing their educational goals. Nearly two-thirds are
+eligible for federal Pell Grants, need-based financial aid that covers some college costs for low-income
+students.3
+Students may choose community colleges due to their relatively low tuition costs, to stay in their own
+community, to pursue a particular technical path, to prepare for college-level courses, or some
+2 Open-enrollment exceptions include programs such as first responders, nursing, dental hygienists, and medical technology,
+which require applications and often prerequisite courses. Apprenticeship programs, which can be offered through community
+colleges and may or may not be associated with degree programs, can also have admissions requirements.
+3 Roughly a third of all students in higher education receive Pell Grants. The maximum annual award in 2022-23 was just under
+$7,000.
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 7
+combination of these. Community colleges also serve students who leave high school unprepared for
+college math and writing, offering academic support that fits their needs. Our audits in K-12 education
+have highlighted deficits in graduation rates, math and English performance, and equity gaps in these
+areas, which creates challenges for students beginning their postsecondary education.4 The pandemic
+deepened K-12 challenges.
+Community colleges are an important part of advancing students’ earnings prospects. Historically,
+students who have higher education degrees earn higher wages, on average, than those who do not.
+The state’s 40-40-20 goal envisions 40% of Oregon’s young adult population with university degrees,
+40% with community college completion, and 20% with high school degrees by 2025. Oregon reviewed
+this goal in 2018 and projected the addition of 120,000 additional jobs requiring postsecondary training
+or education by 2030. To meet this need, 300,000 additional adult Oregonians would need to earn a
+new degree, certificate, or credential valued in the workforce.
+As part of 40-40-20 efforts, the state committed to closing educational attainment gaps among
+historically underserved populations, which contribute to inequitable wages.
+Figure 2: Significant wage gaps exist for underserved race or ethnicities, as shown in wages for full-time,
+year-round workers from 2016 to 2020
+Source: Oregon Employment Department 2022 Wage Report
+Community colleges provide students with academic and personal support to increase
+student success
+To better address student needs and increase student success, community colleges provide a series of
+student supports — a key topic covered in this audit. The state provides support directly through
+student financial aid, which increases access and affordability. Colleges provide academic and personal
+support to help students identify academic goals, choose the right courses, and connect to the college.
+These services can be general, applying to all students, or more intensive and tailored to specific
+groups of students based on need.
+4 K-12 audits have included audits on high school graduation rates, results for at-risk students in alternative and online education,
+barriers at struggling, high-poverty schools, and additional support needed for students experiencing disabilities.
+$0
+$10,000
+$20,000
+$30,000
+$40,000
+$50,000
+$60,000
+$70,000
+$80,000
+$90,000
+Asian White Two or More
+Races
+Black / African
+American
+Native
+Hawaiian/
+Pacific Islander
+Hispanic/Latino Some Other
+Race
+American
+Indian/ Alaska
+Native
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 8
+At their best, student support services are holistic and proactive, giving students the academic,
+personal, and financial services they need, when they need them. Many successful student service
+programs help students build connections with advisors, career coaches, mentors, and faculty. These
+students are more likely to complete courses and graduate — and to do so more quickly. Support
+services include:
+Basic support services:
+• Academic advising
+• Financial aid advising
+• Tutoring
+• Career counseling
+Targeted support services:
+• Identify students in need of assistance
+• Support specific student groups, including underserved students
+• May combine advising, counseling, tutoring, coaching, and mentoring
+• May include scholarships or other incentives to participate
+“Wrap-around” support services:
+• Childcare
+• Mental health counseling
+• Transportation vouchers
+• Food and clothing pantries
+• Technology lending programs, including computers
+Several statewide initiatives focus on increasing student success and emphasize the importance of
+strong student support. Two major initiatives, Guided Pathways and Strong Start Oregon, are run by
+the Oregon Student Success Center, which is operated under the Oregon Community College
+Association and is independent of HECC. The other, Career Pathways, receives funding from the state.
+Guided Pathways focuses on getting students into college, creating relevant academic pathways, and
+providing the support necessary to help them earn a postsecondary credential. Recommended
+supports include enhanced career advising for entering students, quickly connecting students with
+faculty, and embedding specialized advisors in broad fields or “meta-majors” to help students stay on
+track. Strong Start Oregon targets student success and equity by moving students quickly through
+Guided Pathways
+•Coordinator: Oregon
+Student Success Center
+•Colleges implement
+comprehensive, student-
+focused redesign to
+streamline college offerings
+and increase student
+success.
+•State funded? No
+Strong Start Oregon
+•Coordinator: Oregon
+Student Success Center
+•Students with remedial math
+needs take college-level
+math courses with
+appropriate supports,
+reducing time to complete a
+credential.
+•State funded? No
+Career Pathways
+•Coordinator: HECC
+•Extra help for students to
+complete accelerated career
+and technical programs and
+quickly land jobs. Students
+may be unemployed or
+career changers.
+•State funded? Partial
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 9
+college-level math. Students who traditionally would have been placed in one or a series of remedial
+math courses are instead placed directly in college-level math courses with a concurrent course that
+provides background knowledge, reviews course material, and previews upcoming topics. Career
+Pathways received nearly $15 million in state funds to spend in 2022 as part of “Future Ready Oregon”
+legislation, which provided $200 million for workforce development. Colleges offer a variety of career
+and technical-focused credentials known as “Career Pathways,” which are accompanied by student
+supports such as wrap-around services, academic support, and job search assistance.
+Student supports can help address the many obstacles students face to completing college, including
+difficulties meeting basic needs. The 2019 nationwide Real College Survey reported combined student
+responses on basic needs from 14 of Oregon’s colleges. All told:
+• 41% of students reported food insecurity
+• 52% reported housing insecurity
+• 20% reported experiencing homelessness
+• 60% reported food insecurity, housing insecurity, or homelessness
+Historically underserved students by race and ethnicity and Indigenous students reported higher rates
+of basic needs insecurity.
+Figure 3: Rates of food insecurity, housing insecurity, and homelessness differ among student groups
+Source: The Hope Center for College, Community, and Justice, 2019 Real College Survey
+Effective supports can be critical for historically underserved and first-time students, who often face
+greater barriers to success. For example, an unguided student without personal or family experience in
+higher education may arrive at community college behind in math and English. They may default to a
+general degree instead of attempting a specialized one, missing out on a streamlined path to a job,
+further education, or potentially significant earnings differences.5 They may not be aware of school
+resources for academic tutoring or food and transportation stipends, or of crucial financial aid
+5 Community colleges offer programs designed to improve students’ economic outcomes. Economic outcomes vary by academic
+degree or certificate. For example, census data indicates that five years after graduation, the median earnings of Chemeketa
+Community College students who complete a general education associate degree is $36,527, compared to $68,666 for students
+who complete a health-related associate degree.
+Food Insecurity (%) Housing Insecurity (%) Homelessness (%)
+White Hispanic/Latino Native Hawaiian/Pacific Islander
+Black/African American American Indian/Alaska Native Indigenous
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 10
+opportunities, and are likely to have fewer in-home resources to help, putting them at greater risk for
+low academic success.
+During the pandemic, student mental health needs increased, Oregon college administrators said, along
+with needs for housing, transportation, and childcare. Research published in 2021 found more than half
+of community college students nationwide had symptoms of one or more mental health conditions.
+Other national research found moderate to substantial increased rates of academic distress, social
+anxiety, family distress, and eating concerns in Fall 2021 compared to pre-pandemic fall terms among
+students seeking services in college counseling centers.
+Student outcomes, and the narrowing of educational and workforce equity gaps, are dependent on
+schools providing both effective education programs and strong student guidance and support.
+Student Lisa Ozuna on the importance of community college
+When she returned to college in 2020, Lisa Ozuna had just filed
+for divorce, received an eviction notice for herself and her
+youngest daughter, and was battling anxiety and depression.
+Ozuna had been a stay-at-home mom for years. She had no work
+experience and no high school degree.
+Ozuna enrolled in Umpqua Community College’s GED program at
+age 35, joining the ranks of students older than 25 who make up
+half the enrollment at Oregon’s community colleges. She had
+attended Umpqua before, after she became pregnant at age 18 and dropped out of Roseburg High
+School. Back then she had been inspired by Adult Basic Education instructor Andre Jacob, who was still
+there, almost 20 years later. Returning “was intimidating for sure,” Ozuna said, but she had her 12-year-
+old daughter at home. “I thought, now is the time to show her Mom can do this.”
+Under Jacob’s instruction, Ozuna obtained a GED in six weeks. Her best friend, Alison, provided shelter
+and an internet connection. Her two daughters and her sister encouraged her. Before she moved into a
+two-year program, she learned about time-management and self-awareness in UCC’s Take Flight
+program. She also connected with her counselor, Christina Wooten, who helped her build a schedule
+that would work for her and her daughter. She received financial aid, and state caseworkers helped
+with assistance for needy families, food stamps, and housing. “I had a lot of support from UCC, from
+family, from everybody,” Ozuna said. “Everybody was willing to guide me.”
+Ozuna is a full-time student now, nearing completion of her associate degree, and targeting a
+bachelor’s degree in business management. She wants to attend the University of Oregon, then build
+an arts and crafts business that draws on her artistic and business skills. In January 2022, she and her
+daughter moved into their own apartment. “It was the smoothest term I’ve ever had,” Ozuna said. “It’s
+very nice to be self-sufficient and on my own.”
+“I had a lot of support from (the college), from family, from everybody. Everybody was willing
+to guide me.”
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 11
+Audit Results
+Since our last community college audit in 2015 — the year HECC began overseeing the community
+college system — HECC and colleges have focused primarily on access, but are adding a sharper focus
+on student success and equity gaps. HECC has improved its analysis of statewide student performance,
+colleges are focusing more on equity and effective data use, and students are completing certificates
+and associate degrees at higher rates. 6
+Despite these encouraging improvements, more work is needed. We found deficits in three primary risk
+areas: student success, student support, and college sustainability. Student success still lags versus
+other states. The system continues to lack transparency and accountability. Use of student and
+program data for improvement, in many cases, remains at the early stages. Crucial student support
+services continue to be inadequately monitored and supported, though evidence for their importance
+has increased.
+Since 2015, threats to the sustainability of Oregon’s community colleges have also increased. Despite
+relatively high per-student funding and increased state funding, Oregon’s colleges face significant
+threats to the sustainability of their current operations, including rising costs for colleges as well as
+students, and enrollment declines that outpace other states.
+Our audit results indicate HECC struggles to address the major risks confronting community colleges, in
+part because of its limited statutory role and in part because of limited staff capacity in key areas. As a
+coordinating agency, HECC must work with the entirety of Oregon’s community college governance
+system — college and state leaders, legislators, accreditors, workforce boards, and college boards — to
+build consensus and help drive system improvements. The rapid improvements students need require
+these groups to collaborate and agree on effective steps to boost student success, equity, and college
+sustainability, a challenging task.
+To help address this challenge and increase accountability for state funds, state leaders must better
+position HECC to help drive improvements in the community college system. The agency needs
+sufficient staff and authority to monitor how the colleges are doing, publicly report on improvements
+needed, and help advance improvement efforts. Continuing to rely largely on individual institutional
+efforts and accreditor review to drive change risks delaying improvements that would benefit students
+and the state economy.
+In this report, we often compare practices in Oregon to those in Washington State. Washington has a
+less decentralized system and a better-staffed state agency than Oregon. Its state board, dedicated
+solely to community colleges, is charged with “general supervision and control” of the system, for
+example, and the governor appoints trustees of individual colleges; in Oregon, they are elected by local
+voters. However, Oregon does not have to make wholesale changes to HECC’s authority and staffing to
+emulate many of the key steps Washington has taken. Improved staffing and clear legislative mandates
+in key risk areas would benefit Oregon colleges and their students.
+6 Our last community college audit was issued in May 2015: Report 2015-14, Community and College Workforce Development:
+Targeted Investments Could Improve Student Completion Rates
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 12
+The next biennium is critical, a time to recover from pandemic setbacks, strive for increased efficiency,
+and assess the sustainability of the system going forward. For a more evidence-based and equitable
+system to emerge, Oregon state and college leaders, working together, will need to focus much more
+intently on addressing student success, student support, and college sustainability.
+HECC needs support from Oregon leaders to increase student and
+college success and better ensure accountability for state funds
+Throughout this audit, we consistently encountered questions about HECC’s ability to effectively
+address systemic barriers to student and college success, either because of a lack of explicit statutory
+authority or legislative support, inadequate staff at HECC and the colleges, or both.
+HECC, a relatively new agency, was formed partly because universities wanted more local control and
+less state oversight of their operations. Community colleges, supported in part by local property taxes,
+have long emphasized local control, and HECC’s statutes governing community colleges contain a
+proviso that all powers not specified in statute reside with the college boards.
+Given its limited statutory authority, HECC cannot force colleges to make operational changes; college
+boards are responsible for college operations. Instead, HECC is responsible for monitoring the system’s
+performance, reporting quality information on how the system is doing, and working with state leaders
+and stakeholders to address problems that arise — all pillars of effective internal control, a process for
+ensuring an organization’s objectives are met. HECC’s authority also includes proposing a higher
+education budget and setting the formula for distributing state funds to colleges, both potential tools
+for addressing problems.
+HECC’s ability to monitor, report, and collaborate to drive change requires commitment from colleges,
+agency staff, and the commission. It also requires state leaders to explicitly prioritize accountability and
+improvement in the community college system. HECC may not be able to gain sufficient college
+cooperation without support from the Governor and Legislature, provided through state budgets,
+statutory changes, budget notes, and clear communication of priorities.
+In some areas, HECC can begin to make improvements relatively quickly, including enhancing
+transparency, using data more effectively at HECC and colleges, and using public reporting to help drive
+decision-making. However, deeper improvements in these areas require more HECC staff devoted to
+community college support and improved staffing at the colleges. In other areas, including monitoring
+and improving student support and college sustainability, state leaders need to provide clear support
+to increase HECC’s role and help the agency be more effective.
+Student Success
+Using data to drive improvement: HECC’s responsibility to provide analysis and data-driven
+recommendations is relatively clear. Statutes charge HECC with advising the colleges, Legislature, and
+Governor on policies to encourage student success and completion. The agency’s own strategic
+From an internal control standpoint, monitoring means consistently reviewing how effectively a system or
+program is working and addressing problems that arise.
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 13
+roadmap emphasizes “reporting to steer progress” as key to its work. Yet limited HECC and college
+staff devoted to data analysis limits efforts in this area.
+Transparency and accountability: HECC’s authority is also clear in this area. The founding principles in
+the legislation that established HECC includes using metrics to foster accountability. HECC has
+increased state reporting of community college performance data since its inception in 2015. Yet its
+reports are not easy to analyze. They also do not include comparisons to the performance of other
+states and colleges that would help identify Oregon’s strengths and weaknesses. HECC needs clear
+direction from state leaders to publicly report student success benchmarks that inform the colleges,
+the public, and policy makers.
+Performance-based funding: HECC is pursuing funding based in part on student performance for the
+second time, an effort that could help focus the system on student success and equity goals. It has
+clear authority to do so since it controls distribution of state funds. However, if HECC does choose this
+path, it will need support and oversight from the Governor’s Office and key legislators to maximize
+system benefits and minimize unintended negative consequences.
+Student Support
+HECC’s statutory role includes increasing educational attainment, reducing barriers to on-time
+completion, and expanding successful student programs — all areas where effective student support
+programs are crucial. Holistic student support is also essential to meet equity goals. However, HECC
+leaders said specific legislative authority and more staff are needed for the agency to effectively
+monitor student services and work with colleges in this area.
+College Sustainability
+In key areas, including monitoring financial condition and spending, HECC has less statutory authority
+to monitor sustainability for community colleges than it does for universities. In other areas, such as
+shared services, HECC has statutory authority to encourage and facilitate change, but has had limited
+success driving improvements. Oregon leaders need to help HECC address these critical voids.
+Increased focus on accountability and effective data use would
+improve lagging student success at Oregon’s community colleges
+Despite improvements in completion and transfer rates, Oregon continues to rank low among states in
+student completion rates and transfers to universities. Similarly, equity gaps in outcomes for
+historically underserved students persist despite narrowing over time.
+The results demonstrate the need to further accelerate efforts to improve student success. Dramatic
+differences between colleges on student outcomes underscore the need for public reporting that
+identifies colleges needing support and highlights effective practices.
+Students who do not pass a class, or who intend to graduate but do not, have lost time and money and
+may leave with significant debt but no degree — a blow to their chances of improved economic
+mobility. System shortfalls also threaten Oregon’s ability to meet its 40-40-20 goal; currently, the
+biggest gap is at the community college level, with 18% of young adults holding an associate degree or
+career certificate as of 2017, well under the 40% goal.
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 14
+HECC’s key roles include enhancing effective data use,
+providing more transparency, and increasing system
+accountability, giving HECC opportunities to help drive
+further improvement.
+Student results have improved at Oregon’s
+community colleges, but are still low nationally
+Key outcomes for community college students include
+completion — how many students obtain associate degrees
+or certificates — and how many successfully transfer to
+universities. Since our last community college audit in 2015,
+student completion and transfer rates to universities have
+improved, and some equity gaps have narrowed.
+One of HECC’s key performance measures for community
+colleges is the percentage of new, “credential-seeking”
+students who complete or transfer within four years.7 This
+metric increased from 45.8% in 2017 to 51% in 2021, just
+short of HECC’s statewide goal. Students’ median annual
+wages five years after they complete a certificate or degree,
+another key performance measure for HECC, also increased
+from about $35,000 to $40,000 from 2017 to 2021.
+Despite this encouraging progress, Oregon still ranks low in
+national comparisons of some key student success
+outcomes, according to data from three primary national
+datasets that track community college performance. The
+datasets cover limited numbers of students, with two
+focusing solely on first-time college students, for example.
+However, our analysis showed concerning results across all
+three datasets.8
+The National Student Clearinghouse Research Center’s
+data shows Oregon ranked on average 39th among states in
+six-year completion rates from 2016 to 2021, and 40th in 2021
+rates. The center focuses on first-time students, both full-
+time and part-time. Its completion rates include degrees or
+certificates earned at community colleges, as well as
+completions after students transfer to a four-year university.
+As shown in Figure 5, Oregon has remained below the
+national average in this metric for the last eight years.
+7 Among other criteria, HECC defines a credential-seeking student as a student new to the institution who takes a certain number
+of credits over time. HECC aligns its definition of credential-seeking student with the Volunteer Framework of Accountability
+(2021 KPM report).
+8 For details on our data analysis methodology, see Appendix A.
+Figure 4: Oregon ranked 40th in 2021 completions
+Source: The National Student Clearinghouse
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 15
+Figure 5: Oregon consistently lags in completion rates over time
+Source: National Student Clearinghouse Research Center 2021 completion report
+Similarly, Oregon’s student outcomes from the federal Integrated Postsecondary Data System, which
+focuses on first-time, full-time students, also ranked low among states. From 2016 to 2019, Oregon
+ranked 35th on average in three-year completion and transfer rates. Oregon’s results fell below the
+national average for all student demographic groups. Individual results for Oregon community colleges
+showed substantial differences, ranging from 59% for the highest-performing college to 27% for the
+lowest. As illustrated in Figure 6, this variation extends to more recent data tracked by HECC.
+Figure 6: Student completion and student retention varied widely across colleges in 2020-21
+Completion and Transfer
+Rate 4-Year Cohort
+Student Retention Year
+1 to Year 2
+Average years to complete
+associate degree
+State Average 51% 75% 3.3
+College:
+Blue Mountain 55% 72% 2.7
+Central Oregon 55% 70% 3.3
+Chemeketa 48% 77% 3
+Clackamas 48% 78% 3
+Clatsop 53% 56% 3
+Columbia Gorge 56% 72% 3.7
+Klamath 60% 72% 3
+Lane 50% 73% 3.7
+Linn Benton 59% 72% 3.3
+Mt. Hood 41% 74% 3.3
+Oregon Coast 35% 72% 3
+Portland 52% 74% 3.7
+Rogue 48% 71% 3.7
+Southwestern 65% 67% 2.3
+Tillamook Bay 49% 82% 3
+Treasure Valley 52% 72% 3
+Umpqua 62% 77% 3
+Source: HECC Statewide Higher Education Snapshots
+Finally, the Voluntary Framework for Accountability offers completion and transfer data as well as
+early indicators of student success. The organization analyzes outcomes across broader student
+cohorts than the other datasets. Early indicators such as early credit accumulation are useful, as
+20%
+25%
+30%
+35%
+40%
+45%
+50%
+2008-14 2009-15 2010-16 2011-17 2012-18 2013-19 2014-20 2015-21
+National Washington Oregon
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 16
+college research shows hitting early milestones is important to long-term student success. However,
+the ability to benchmark is limited, with only a quarter of the nation’s roughly 1,000 community
+colleges participating.
+Our review of Voluntary Framework data showed mixed results. Oregon’s combined completion and
+transfer rates were lower than the average of participating colleges for two of the three 2013 student
+cohorts tracked. For early indicators, average results for students beginning college in three separate
+years — 2013, 2017, and 2018 — showed Oregon exceeding overall results for all participating colleges
+in three areas: passing college-level English, student retention after fall term, and course passing rates.
+However, Oregon fell below the average for all three measures of first-year credit accumulation and for
+students passing college-level math.
+Separately, a confidential analysis of early success indicators in Oregon, completed by a consultant for
+the Oregon Student Success Center, found gains in most areas from 2010 to 2020, but student success
+at low levels in key areas. For example, the average rate of first-time college students who completed
+college-level math doubled over the decade, but to only 20%.9 Similarly, early credits earned all
+increased, but only a third of students completed nine credits in their first term in 2020.10
+The analysis also reported substantial differences between colleges, with concerning low rates at some
+schools. The rate of completion of nine credits in the first term ranged from a low of 18% to a high of
+67%, for example, and students completing college-level math ranged from a low of 3% to a high of
+44%. The confidential analysis did not identify colleges by name.
+College-level math is not required for some relatively high-paying associate degrees, including nursing
+and fire science. However, it is required for Oregon’s transfer-focused associate degrees and shorter
+transfer course “modules,” which are offered statewide and are meant for students planning to attend
+an Oregon university.11 College-level math is generally required for Bachelor of Science degrees. Some
+universities also require it for Bachelor of Arts degrees.
+Outcomes have also improved for historically underserved students, yet significant
+equity gaps remain
+As with all students, combined completion and transfer rates for historically underserved groups by
+race and ethnicity improved from 2017 to 2022. HECC data also indicates median wages five years after
+community college completion have increased for all the groups, narrowing wage gaps. Yet differences
+in outcomes between these groups and white students continue, raising equity concerns for
+underserved students who disproportionately rely on community colleges.
+9 The consultants calculated average college results, with results for every college weighted the same regardless of enrollment.
+10 Students must earn 15 credits per term to obtain an associate degree in two years.
+11 Oregon’s transfer degrees satisfy the lower division general education requirements at baccalaureate degrees at the public
+universities in Oregon. A student who transfers to a university with this degree will have completed at least 90 transferable
+credits and hold junior status for registration purposes. The Oregon Transfer Module is a 45-credit subset of transferable college
+courses.
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 17
+Figure 7: Four-year completion and transfer rates for Oregon credential-seeking students improved from
+2017 to 2022, but equity gaps remain
+Source: HECC data
+These “disaggregated” results should be viewed with caution, particularly for underserved students
+other than Hispanic/Latino students, Numbers for other underserved groups are low in Oregon and
+outcomes can vary substantially with small changes. Community colleges also have significant numbers
+of students who do not report their race or ethnicity, reducing the reliability of the numbers.
+National Student Clearinghouse Research Center data showed Oregon ranked 39th for average six-
+year completion rates for first-time white students from 2019 to 2021. (The center reported three
+years of results by race and ethnicity, not the six years reported for overall totals.)
+Average rates for Black/African American and Hispanic/Latino students ranked higher in comparison to
+other states, in the mid-20s, but remained below rates for white students. White students averaged a
+40% completion rate, while Hispanic/Latino students averaged 37% and Black/African American
+students averaged 28%, for an equity gap of 12 percentage points.
+Similarly, the Integrated Postsecondary Data System showed Oregon ranked 40th for average three-
+year completion and transfer rates for first-time, full-time white students, with an average 41% rate
+from 2016 to 2019. The data also showed higher average rankings for historically underserved races
+and ethnicities, but deficits relative to white students.
+The Voluntary Framework data also identified concerning equity gaps in early indicators of student
+success. Black/African American and American Indian/Alaska Native students were behind the
+outcomes for white students in all 10 early indicators reported for the main cohort that started in 2017.
+Hispanic/Latino and Native Hawaiian/Pacific Islander students were behind in eight of 10, including all
+the measures of early credit attainment and passing college-level math.
+This data also identified significant disparities by race and ethnicity in math readiness upon arrival at
+college, with more than half of Hispanic/Latino students and Black/African American students arriving
+with a developmental math need.
+0% 10% 20% 30% 40% 50% 60% 70%
+American Indian/Alaska Native
+Asian American
+Black/African American
+Hispanic/Latino
+Native Hawaiian/Pacific Islander
+White
+20222017
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 18
+This gap is a particular concern given the low postsecondary completion rates for students who start in
+“developmental” or below-college math. According to a 2020 HECC analysis, only 23% of students who
+begin in developmental math courses earn a postsecondary degree or other credential within six years.
+This statistic does not include career-technical programs, which may not require college-level math.
+Oregon must focus more urgently on using data and strategic analysis to drive
+improvement
+Data use and analysis at HECC and community colleges has also improved since our 2015 audit. Yet
+problems identified in that audit persist, reducing the system’s ability to use strategic analysis and
+reporting to drive faster improvement.
+HECC’s statutory role enables the agency to use data analysis to increase student success, student
+equity, and college efficiency. HECC’s major responsibilities, listed in its strategic plan, include
+evaluating the success of higher education efforts through data analysis, research, and reporting.
+HECC’s strategic roadmap includes “reporting to steer progress” among four primary avenues through
+which HECC conducts its work.
+Since 2015, HECC has produced in-depth reports that illustrate its capability to provide meaningful and
+targeted information. Examples include reporting outcomes on students who transfer from community
+college to a university, students receiving state financial aid grants, and postsecondary outcomes for
+students who have recently graduated from high school. These reports are typically required by the
+Legislature and are reported at a state level, without identifying performance for individual colleges. In
+the financial aid area in particular, HECC’s analysis has helped drive system improvements.
+Individual colleges are focusing more on using data to increase student results. This is due in part to
+new accreditation requirements that require colleges to use student achievement data to drive
+improvement. Colleges are increasingly using student data to improve academic programs, identify
+students who need extra support, and tailor initiatives to improve low student outcomes.
+Some colleges, including Linn-Benton, are further ahead than others, but colleges and the state are
+generally at the early stages of using data to drive improvement. Oregon colleges and the state need
+improvement in five critical data areas:
+• Developing data systems and analysis tools to identify and address student needs.
+• Setting and using meaningful metrics to inform decision-making and budgets.
+• Identifying problems and investing strategically to address them.
+• Effectively evaluating departments, academic programs, and support programs.
+• Using disaggregated data to address equity gaps.
+Data Use at Linn-Benton Community College
+Linn-Benton Community College provides a public dashboard for several key college performance measures,
+disaggregated by categories such as race and ethnicity, and displayed using Tableau for real-time analysis.
+The college has contracted with four other colleges to provide data for them, allowing colleges to not only
+identify their own performance outcomes, but to benchmark against participating colleges.
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 19
+Similar to our 2015 audit, college researchers expressed frustration at spending their time on extensive
+state-level reporting requirements, rather than on analysis to improve student success. To support
+colleges, HECC can:
+Prioritize and define core student success metrics: HECC and community colleges do not have an
+agreed-upon definition of student success and core metrics to measure it. The agency’s key
+performance measures do not tie to data the colleges can use for national benchmarking and do not
+include early indicators of student success, a focus of key state initiatives and national best practices.
+HECC can work with community colleges to identify and define shared metrics to measure student
+success, such as completion, retention, and early momentum metrics. This process should align with
+college accreditation requirements.
+Streamline data collection: College researchers told us they are flooded with data and data reporting
+requirements from national and state reporting systems, with more time-consuming reporting systems
+on the way. HECC can work with colleges and the Oregon Student Success Center to streamline
+duplicative requests, reduce requests for data that is no longer used, identify which data reporting
+systems are most useful statewide, clarify data definitions and reporting schedules, and use the
+established state reporting database to assist colleges in national and state reporting.
+Provide more meaningful analysis of existing data: HECC receives voluminous student-level data
+from the colleges and national student surveys. However, it synthesizes little of it in ways that are
+meaningful to college improvement and accreditation efforts and publishes only limited analysis on its
+website. The lack of meaningful analysis slows movement to address student success. For example:
+• HECC issues several periodic reports that provide useful, in-depth analysis of topics that
+address equity and student success, but does so primarily when legislatively mandated.
+These reports typically do not provide college-level data. They do not help the colleges
+benchmark their own progress against other schools or identify shortfalls to address.
+• HECC submits all the colleges’ student-level data to the Voluntary Framework of
+Accountability initiative, which returns analysis to HECC that provides detailed student
+success results for the state and each college. HECC has not publicly shared those results
+or established state goals for early student success indicators.
+• HECC supported the effort to pass 2022 legislation that designated $10 million biennially to
+community colleges for Career Pathways programs. However, available analysis of Career
+Pathways at the state level is limited. The state does not maintain a central database, and
+definitions of program performance are not standardized statewide. Under the new
+legislation, HECC plans to more effectively track initiative results.
+Increase guidance on data use: Colleges report using a variety of software they have upgraded at
+considerable expense to address college data needs. Yet the data literacy levels of staff and faculty to
+use this data often remain low. Colleges must improve data literacy to collect and use data
+meaningfully. Given new data-focused accreditation requirements, HECC can work with accreditors to
+provide more data-focused training to colleges, administrators, faculty, and staff.
+Provide longitudinal data: A common college need is access to longitudinal data that shows where
+students stand prior to college, and how students who complete specific college programs do at
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 20
+universities and in the job market. HECC inherited the Oregon Longitudinal Collaborative and the
+associated legislative mandate to provide longitudinal data in 2019.12 Overall, Oregon’s reporting and
+progress on longitudinal data has been slow. For the 2021-23 biennium, the Governor and Legislature
+cut six FTE staff from the effort, citing pandemic-era hiring freezes. However, a recent draft report
+from the collaborative, focused on addressing Oregon’s nursing shortage, demonstrates its potential to
+identify important problems and potential solutions. The analysis found Oregon lags the nation in
+healthcare graduates. It also included a survey of community college healthcare programs to identify
+issues, such as difficulty finding faculty, and provided recommendations to address the problem
+HECC and college officials cite limited analytical staff as a key reason for these deficits. HECC has a
+research and policy director who works on all higher education issues and two research analysts solely
+dedicated to college data collection, basic reporting, and analysis related to federal grants. The Oregon
+Student Success Center is a one-person shop.
+By contrast, Washington has made a substantial investment in improving data analysis and reporting,
+including higher staffing in research and analysis, data services, and student success. Its State Board of
+Technical and Community Colleges — a 239-employee agency and board devoted solely to community
+colleges — has five policy research analysts devoted to community colleges instead of two at HECC. It
+also has a six-member Student Success Center instead of a staff of one, and a 13-member data
+services team to maintain central data and help colleges with reporting and training. The board’s
+Information Technology Division provides colleges with centralized services for resource planning and
+manages enterprise IT contracting. In Oregon, colleges do this work individually.
+Washington produces multiple online dashboards, publicly accessible, that provide college-level data on
+student outcomes and early indicators, broken down by specific student groups. The state has clearly
+defined student success metrics and has a statewide data dictionary for accurate reporting. Its data
+governance committee meets monthly to determine data definitions, policies, and quality control, and a
+separate body works with the board to continuously improve data quality.
+HECC needs to further improve the transparency of community college performance
+and accountability for state funding
+Our audit identified two key systemic shortfalls contributing to lagging student success: limited
+transparency and limited accountability in the community college system.
+Transparency — publicly sharing where Oregon’s community colleges are performing well and where
+they are not — can help drive improvement. It can help highlight both weaknesses to address and
+effective practices to maintain or expand.
+HECC’s founding legislation includes using metrics to foster accountability, and HECC has improved
+transparency since community colleges came under the agency in 2015. It publishes annual “snapshots”
+12 Senate Bill 909 (2011) established the directive to establish a statewide longitudinal education data system. The goal was to
+provide policymakers and educators with a tool to direct funds and with methodologies to support continuous improvement.
+Washington State, a relatively high performer on community college student outcomes, takes key data steps
+Oregon does not, backed by a well-staffed agency devoted solely to community colleges.
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 21
+of selected college data on its website, maintains a publicly available database that includes student
+enrollment and completion data by gender, age, race, and ethnicity, and has prepared a set of
+statewide equity briefs that detail outcomes for students of color. Under the new accreditation
+standards, colleges must post indicators of student success on their websites, broken down by
+demographic categories.
+These improvements required significant effort. However, HECC still does not provide a full picture of
+community college student success to the public.
+• It does not publicly benchmark Oregon’s student success outcomes against other states or
+national results in its annual key performance measures or in reports to the Legislature.
+• The limited college-level student success data publicly available on HECC’s website is
+incomplete and difficult to analyze.
+• It collects, but does not publicly release, information on early student progress indicators
+by college.
+• HECC has paid for interested community colleges to administer a national survey of
+student engagement for over a decade. HECC has not publicly shared the results.
+Outside HECC, the Oregon Student Success Center tracks early student progress indicators and long-
+term outcomes as part of its Guided Pathways initiative. However, the center collects this crucial data
+separately from HECC and distributes reports and results to the colleges only — even HECC does not
+receive them. The lack of close collaboration between HECC and the Oregon Student Success Center is
+in sharp contrast to Washington, which has a student success center housed in its state agency for
+community colleges, and recently obtained additional funding for Guided Pathways.
+In addition, the Northwest Commission on Colleges and Universities, which accredits higher education
+institutions in Oregon, does not release detailed accreditation reports, though some Oregon colleges
+do post them on their websites.
+The lack of transparency limits the ability of state leaders, policymakers, students, and stakeholders to
+identify and address system challenges. It is also in sharp contrast to Oregon’s K-12 system and to the
+detailed dashboards and college data made available in other states, such as Washington.
+Accreditation reports from the Northwest Commission on Colleges and Universities provide important
+accountability and can help drive improvements. However, the 7-year accreditation cycle can make for
+slow change. Accreditors also do not consistently evaluate the capacity of colleges to conduct in-depth
+data work. Outside of being notified of significant accreditor findings, HECC does not monitor strengths
+and weaknesses identified in extensive accreditation reports, an independent source of information
+that could deepen its discussions with colleges, the Governor, and the Legislature.
+Oregon has taken some steps to add accountability requirements. For example, the Future Ready
+Oregon legislation in 2022 required specific outcome reporting. It also added staff at HECC to
+administer grants under the program and monitor grant performance, including three permanent
+analysts and seven limited-term analysts. However, the bulk of state funding for community colleges
+has few accountability requirements beyond required college reporting of results and finances.
+Assessment of Oregon’s legislative initiatives, including Future Ready, is confined to separate legislative
+reports. Washington, by contrast, uses publicly available online dashboards to report initiative results.
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 22
+Figure 8: Washington’s public dashboards provide easy access to detailed state and college results
+Source: Washington State Board of Community and Technical Colleges
+The state budget for community colleges includes a HECC strategic fund aimed at promoting student
+success, a potentially more accountable segment of state funding. However, the fund has dropped to
+0.75% of the Community College Support Fund, or $5.2 million for the 2021-23 biennium, contrary to
+recommendations in our 2015 audit.
+Basing community college funding partially on student success and equity has
+substantial risks but could increase Oregon’s focus on equitable improvement
+For the second time since 2015, HECC, working with a committee of stakeholders, is considering
+“performance-based funding” for community colleges as part of a review of its formula for distributing
+state funds to the colleges. Currently, the distribution of state funding is based primarily on enrollment.
+Effectively implemented, performance-based funding could help Oregon reach consensus on
+appropriate student success metrics, increase system focus on student success and equity, and boost
+transparency over college performance – all important steps identified in this audit. HECC also has clear
+authority over distributing state funds to colleges.
+However, academic research indicates performance-based funding is associated with at best modest
+gains in student retention and graduation. It also carries substantial risks of unintended consequences,
+including incentivizing colleges to reduce recruitment of underserved students and college gaming of
+the system. If HECC adopts performance funding for the colleges, it must develop a detailed, credible
+plan to track the extent of systemic improvements and to minimize and monitor these risks.
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 23
+Among states, performance-funding metrics range from early student credit accumulation to final
+outcomes such as transfer to a university, certificate and degree completion, job placement, and
+graduate earnings. Washington and other states also focus on equity. They reward colleges that
+improve outcomes for some combination of students from historically underserved races and
+ethnicities, low-income students, adult students, and academically underprepared students. As of
+2020, 30 states had performance-based funding for community colleges.
+Figure 9: Thirty states had performance funding for community colleges in 2020, but most used it for less
+than 20% of state funding
+Source: Rosinger, Ortagus, Kelchen, Cassell & Brown (2022): New Evidence on the Evolution and Landscape
+of Performance Funding for Higher Education, The Journal of Higher Education
+Oregon has had performance-based funding for public universities, including an equity component,
+since 2016. HECC analysts say results on Oregon university outcomes measured have generally
+increased — as many have for Oregon’s community colleges — but it is too early to attribute university
+gains to the new funding method. Previous efforts to implement performance-based funding have been
+stalled in part by debates about how to define student success in the community college environment,
+where students may seek important goals short of completion, such as obtaining a GED or learning a
+new language or career skill.
+Academic research indicates performance funding, while popular among states, is a “weak policy lever”
+generally associated with null or modest gains in student retention and graduation. In part, that is
+because most states are wary of basing large portions of funding on performance, fearing it will hurt
+low-performing colleges. Research also indicates performance-based funding can have substantial
+negative consequences. It can prompt colleges to emphasize short-term certificates with relatively low
+value in the job market. It can hurt colleges without the resources to increase support for underserved
+students or invest in new data systems to help boost performance. It can also lead colleges to focus
+recruitment and support on students more likely to complete, reducing enrollment of the very students
+state equity goals seek to support.
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 24
+Academic research and Washington’s experience indicates this approach can also help drive important
+systemic improvements, including:
+• Well-defined, consistent data on student outcomes critical to state goals, along with
+agreed-upon measures of student success;
+• Renewed state and college commitments to student success, including efforts to increase
+student retention, increase data analytics, and improve tutoring, academic advising, and
+student support services;
+• Increased focus on struggling and disadvantaged students, labor market outcomes, and on
+educational attainment in high-demand disciplines;
+• Increased public transparency and accountability for the state and individual colleges; and
+• More robust data for college benchmarking and other data-based student success efforts.
+States can take steps to reduce the risk of negative consequences, academic research indicates,
+including rewarding colleges that enroll or graduate underserved student groups. States can include
+bonuses for equity progress in the funding system, reward student progress as well as final outcomes,
+and reward associate degrees and long-term certificates more than short-term certificates.
+Oregon could adjust the distribution formula to address key state goals, short of or in addition to
+performance-based funding. Potential changes include adding funding to help colleges serve
+underserved students, allocating extra money for higher cost CTE programs, and rewarding colleges
+that adopt programs that move students into college-level math and English more quickly.
+The state could also substantially increase strategic funding tied to well-defined and transparently
+reported performance metrics, again with or without using performance metrics in the distribution
+formula. This approach would likely need to cover a substantial portion of college funds to drive
+substantial system improvement, and could be tied to funding increases. The 2019 Legislature’s
+Student Success Act added $1 billion a year in new funding for K-12 and early education, tying the
+funding increase to new accountability measures.
+Either approach could help colleges identify and expand successful programs. Among other areas, that
+improvement could benefit student support, the next risk area our audit addresses.
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 25
+Karen Muñoz and the power of holistic advising
+“The real problem is when a student runs into problems, and they don’t have somebody
+to back them up.”
+Karen Muñoz has seen the importance of advising and student
+support through two lenses — first as a student at Chemeketa
+Community College and then, five years later, as an advisor
+herself. Muñoz is one of four Success Navigators at Chemeketa,
+helping launch new students in their first terms. These positions
+were created as part of Chemeketa’s Hispanic Serving Institution
+Grant. They help students register for classes, apply for financial
+aid and scholarships, choose a focus of study, and connect to
+other sources of support.
+"Often, new students think I'll hand them a schedule,” Muñoz said. “Instead, we have to work together
+to figure out what they need, what their goals are, what the best classes are, and what else they need
+to succeed." The key could be a computer, food stamps, housing, childcare, or visiting the mental
+health counselors on staff. "The real problem is when a student runs into problems, and they don't have
+somebody to back them up."
+Muñoz's approach draws on personal experience. Despite acceptances at four-year colleges, she chose
+Chemeketa to start. "My parents were upset,” she said. “There's this stigma in the Latino community
+that if you go to a community college, you'll drop out and won't succeed." But Muñoz knew what was
+best for her: two years at community college, transfer, and go into medicine. Then came science
+classes, and the realization that medicine wasn't for her. She was devastated.
+"If it weren't for my advisor, I wouldn't have made it,” she said. “I had an advisor I met with every week
+almost, who made sure I was doing everything right. That really got me through that first year, just
+having someone who really guided me and understood me. It was like having a parent figure within
+college.” When it came time to graduate from Chemeketa, she handed each member of her family a
+degree, and told them, "There's still more to come."
+Muñoz earned her bachelor’s degree and returned to work for Chemeketa. Now, she focuses on being
+the kind of advisor who guided her, providing support to keep students coming back.
+HECC, state leaders, and colleges must identify and expand
+effective student supports to increase equity and student success
+Research shows lower advisor caseloads and more holistic student support help drive student success
+and can be especially critical to the success of vulnerable students. However, concerning support
+service shortfalls remain in Oregon. HECC is not monitoring college student support. State funding for
+support services is limited, and their vulnerability to budget cuts threatens ongoing efforts for student
+retention and achievement.
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 26
+Improved student support helps drive student success, particularly for vulnerable
+student populations
+Research on the effectiveness of student support programs, particularly for vulnerable populations, is
+clear: Students do better when provided with holistic, easily accessible financial, academic, and
+personal support, and when they have the resources necessary to focus on their coursework. HECC’s
+equity lens, its strategic roadmap, accreditation requirements, and national stakeholder groups
+consistently emphasize the importance of student support services in student success.
+Academic advising is a fundamental student support service, and research shows that low advisor
+caseloads may help reduce equity gaps. A 2022 consultant study13 of student supports funded by the
+Bill and Melinda Gates Foundation found average caseload size for advisors at community colleges that
+closed graduation outcome gaps for Black/African American, Hispanic/Latino, and Indigenous students
+in the last decade was far lower than at colleges that saw gaps widen. The study identified high
+caseloads as the top barrier to improving advising from 2020 to 2022.
+Building on basic advising, more intensive holistic support services help students get the timely
+academic and personal support they need to succeed in college. These higher-intensity programs
+include academic and career coaching, frequent advising, lower caseloads, and, in some cases,
+scholarships. They also help students build relationships at the college, improving their connection and
+engagement with school. The services are critical for first generation, low-income, and historically
+underserved students, who may face more obstacles to success.
+States and individual colleges around the country have seen results after strengthening advising and
+more holistic support for students:
+• New York’s ASAP program provides extensive student support for students seeking associate
+degrees. It offers personalized advising, tutoring and career development services. It also
+provides financial benefits such as tuition waivers, textbook assistance, and transit cards. The
+program began in 2007, and ASAP students’ three-year completion rates increased to 52.4% —
+almost double those of similar, non-ASAP students. New York has since expanded ASAP
+student enrollment from 4,300 students in 2011, to 25,000 students in the 2018-19 year. These
+results have been duplicated in Ohio community colleges as well.
+• Ohio’s implementation of Guided Pathways, a program also being implemented in Oregon,
+shows how even colleges with limited resources can make large-scale changes in student
+support and success. Participating colleges combined resources and support programs and
+showed improved student progression and completion. Research on Ohio’s work recommends
+increasing personal supports to help meet the needs of underserved students.
+13 Shaw, C., Bharadwaj, P., Smith S., Spence M., Nguyen A., Bryant, G. (2022, July 11) Driving Toward a Degree – 2022. Tyton
+Partners.
+“Significantly improving educational outcomes ... is likely to require major investments in targeted financial
+relief and on-campus student supports that improve their likelihood of success and completion.”
+HECC 2016-20 Strategic Plan
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 27
+• San Antonio College creates a feeling of “family” with the expectation everyone on campus
+from staff to faculty to leaders, is responsible for students’ well-being inside and outside of the
+classroom. Four-fifths of students attend part time, but the college’s three-year graduation
+rate is higher than the national average, with narrow equity gaps for students of color. Faculty,
+staff, and leaders track data and use it to act. Students follow rigorous course guides and lose
+at most one course when they transfer — less than a quarter of the national average.
+• Broward College focused resources on student services, eliminating a small but costly
+athletics program in the process and cutting other programs. The budget adjustments allowed
+them to halve their student-to-advisor ratio from 700-1 to 350-1, embed tutors in hundreds of
+classes with the highest failure rates, and establish food pantries. Faculty receiving equity-
+focused training halved the outcomes gap between Black/African American and white students
+in their courses and eliminated it for students from low-income backgrounds.
+Intensive student support programs have been successful in Oregon colleges as well, though generally
+limited in the students they serve:
+• Portland Community College’s Future Connect program is modeled after New York’s ASAP
+program. It provides full-time incoming students from traditionally underserved communities
+with math, writing, coaching, and scholarships. Research found the program increased
+participants’ retention and overall success versus similar students.
+Students from Portland Community College’s Future Connect program
+Future Connect provides intensive support and scholarships to help students through college, with
+strong evidence of success.
+Nonso Agum wants to start a business, travel, and be debt free. Future
+Connect provides a reliable, quick contact for help and advice, he said
+— and a sense of community from the start. “One of the reasons a lot
+of people are not successful in college is there is no one there to help
+you early on. It’s that shock value.”
+Chelsea Monarch left an abusive situation and was recently homeless
+for seven months. Monarch plans to be a licensed social worker, to
+provide mentoring and therapy for houseless youth. “It was easy to
+stop believing in myself. It’s why it’s so important to have support.”
+Reynaldo Memije Cortez worked throughout high school. After
+graduating, he wants to work as much as he can to help his family,
+including his younger brother and sister. “This program helps connect
+you to people who are struggling with the same things you’re struggling
+with. It really helps a lot.”
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 28
+• Chemeketa Community College improved and expanded their student support services
+using federal funding from a Hispanic Serving Institution grant. The college redesigned its
+website and on-campus student support spaces. It also added positions to provide
+comprehensive academic and career support. The work allowed the college to expand its
+grant-based programs to a wider student population.
+• Southwestern Oregon Community College provides student supports to a significant
+percentage of its student body. The high coverage comes partially because 30% to 40% of the
+college’s students are athletes or in a culinary program, living on-campus. They attend school in
+cohorts full-time, which strengthens engagement and student connections. Southwestern has
+significantly outperformed state averages in early indicators of student success and in
+completion and transfer rates.
+• Ten community colleges run Student Support Services TRIO programs.14 These federal
+programs support transfer-oriented students who are low-income and first-generation.
+Competitive federal funds allow schools to provide intensive advising and other academic
+support not otherwise offered. Continued funding partially depends on meeting or exceeding
+established student success goals, as well as other evidence of providing quality services.
+Despite progress, substantial shortfalls in critical support services remain
+Recent Oregon legislation and pandemic-era grants have helped improve and expand student support.
+In 2021, legislators created benefit navigator positions at each college to help students connect with
+college, local, state, and federal resources. Legislators also established an underserved student
+listening task force and expanded open-source textbook availability to help lower student costs.
+The Legislature’s Future Ready workforce initiative in 2022 includes money for career-technical
+programs that offer related student support. During the pandemic, many colleges acted quickly to use
+millions in federal funds for financial aid, technology, housing, and other basic student needs.
+Since 2015, HECC has awarded competitive, grant-based funds to colleges focused primarily on
+increasing support services for underserved, low-income, and first-generation students.
+However, as in our 2015 audit, we found large shortfalls in student support services across the state.
+College support officials reported staffing and caseloads as their greatest challenges, along with
+concerns about their ability to connect and intervene with students. Intensive support service
+programs that build deeper connections with students are relatively small, with precarious funding and
+limited reach despite significant need.
+While underserved student populations are most at risk, limited support services affect student
+success outcomes for the entire student body. In the national 2021 Community College Survey of
+Student Engagement, 75% of Oregon community college students surveyed reported receiving the
+support they need to succeed at the college. However, only 57% reported having more than one
+meeting with academic advising and planning services, as compared to holistic models that recommend
+14 The history of TRIO began with Upward Bound, which emerged out of the Economic Opportunity Act of 1964 in response to the
+administration's War on Poverty. In 1965, Talent Search, the second outreach program, was created as part of the Higher
+Education Act. In 1968, Student Support Services, which was originally known as Special Services for Disadvantaged Students,
+was authorized by the Higher Education Amendments and became the third in a series of educational opportunity programs. By
+the late 1960's, the term "TRIO" was coined to describe these federal programs.
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 29
+every student meets with an advisor regularly. Only 17% reported attending more than one career
+counseling session; and 19% reported receiving no academic planning. Federal funding for student
+service offerings during the pandemic ends for all colleges in 2023, leaving institutions without a clear
+path forward in the face of ongoing enrollment declines and potential budget cuts.
+Our survey of support service leaders, interviews, and data analysis identified three specific student
+support challenges applicable to all students:
+• Low levels of basic support at some colleges, with college officials reporting advisor
+caseloads of up to 600 to 900 students per advisor, making it challenging to offer students
+more than basic, drop-in advising
+• High turnover in support services, with low salaries and burnout as factors.
+• Wide variance in the role of faculty in advising, with five colleges in our survey of support
+service leaders reporting they do not have formal faculty advising in place and two
+reporting 100% faculty advising.
+• A heavy college reliance on adjunct faculty, who have less time and responsibility for
+student support and may not be paid for advising. As of 2019, about 80% of Oregon’s
+instructional staff were not on a tenure track, higher than the 66% national average.
+We also found gaps in the intensive programs that cover students with high levels of need. These
+programs are small and typically more costly to operate. They often leave large unmet need even in the
+targeted populations they serve, including first-generation college students, low-income students, and
+historically underserved students.
+For example, the ten Oregon community colleges that implemented TRIO Student Support Services in
+the 2021-22 school year served 1,698 students total. For context, one of Oregon’s smallest colleges,
+Southwestern, estimated the total students eligible for the program in 2018 at their college alone as
+more than 1,000 students, two-thirds of the statewide total served three years later. At Portland
+Community College, by far the largest of Oregon’s colleges with almost 40,000 for-credit students, the
+successful Future Connect program generally serves 350-400 students annually.
+High-intensity programs — critical for equity efforts — also face precarious funding. The programs are
+typically supported by up to five-year grants. These temporary grants are costly to apply for and
+administer, can be difficult to hire staff for, and are subject to cuts when grants run out. The programs
+are less likely to be funded by college general funds, a more stable form of funding. Administrators
+report they are at high risk amid budget cuts because it can be easier to cut student service
+administration and staff than it is to cut faculty and course offerings to students.
+Intensive student support also misses crucial categories of students. Many programs focus primarily on
+traditional students, recently out of high school. They often miss non-traditional students, such as
+older students, students working on GEDs, and adult learners returning to college, a significant
+demographic at Oregon’s community colleges.
+In 2021, Connecticut began consolidating its community college system to provide more comprehensive
+student services, including cutting their academic advisors’ caseloads in half to reach a 1:300 advisor-to-
+student ratio.
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 30
+Rural colleges face additional challenges. Among them: fewer community resources, struggles to pass
+voter-approved bonds that improve facilities and services, and difficulty recruiting diverse staff and
+faculty to run key programs.
+The need for student support is also likely to increase. National research and Oregon’s 2021 test results
+indicated drops in important student success measures in the K-12 system during the pandemic.
+Students coming from high school are likely to need more supports upon entering community college,
+increasing the burden on the colleges to provide tutors, coaches, developmental education, and other
+academic supports.
+Our student support findings align with the findings of the Legislature’s Joint Task Force on Student
+Success for Underrepresented Students in Higher Education, which issued its initial reports in
+November 2022 after talking with college and university students across the state. The taskforce
+noted that underrepresented students often do not feel like they belong and recommended expanding
+student support programs with positive outcomes, as well as expanding childcare in both community
+colleges and universities. The taskforce also identified other equity issues. For example, many colleges
+do not include permanent diversity, equity, and inclusion officer positions, the taskforce noted, and
+instructors of color may disproportionately be low-paid adjunct faculty with high rates of turnover.
+HECC’s budget request for the 2023-25 biennium includes $100 million to address taskforce
+recommendations in both colleges and universities.
+Student support services are not adequately monitored or supported
+Despite their importance to improving equity and student success— goals stressed by HECC and
+accreditors — monitoring, analysis, and targeted state funding of student support services at Oregon’s
+colleges are minimal. Accreditor focus on student support is also limited, despite improved standards
+aimed at increasing student support.
+In a general sense, HECC’s statutes appear to support a HECC role in monitoring and promoting these
+services. The statutes direct HECC to increase educational attainment and reduce barriers to on-time
+completion, and student support services have shown great promise in doing so. HECC officials also
+told us they recognize the importance of student support to the agency’s own student success and
+equity goals. However, they said the agency needs more specific legislative authority and more staff
+capacity to effectively monitor student services, request additional data from colleges, and work
+collaboratively on improvements.
+As in our 2015 audit, colleges struggle to analyze the results of student support programs, assess their
+impact, and make improvements. Some colleges have recently acquired software that holds promise
+for improved tracking, but overall challenges include tracking program costs, identifying staffing needs,
+and analyzing program effectiveness in increasing student success and narrowing equity gaps.
+This lack of monitoring of student support offerings has significant consequences. Effective monitoring
+would include tracking the sufficiency and effectiveness of statewide initiatives, college-specific
+student support programs, and academic advising — and reporting on their status. Potential metrics
+Intensive support programs typically focus on traditional students recently out of high school, not adult
+learners returning to college or students in developmental programs.
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 31
+include academic advisor caseloads, students served by programs, estimates of eligible students not
+served, and individual program impacts on student success. Better tracking would help the state and
+colleges analyze the impact of existing student services and identify the extent of shortfalls. It would
+also help the state establish permanent, larger-scale funding for effective programs and establish
+appropriate accountability measures for targeted funding.
+College officials interviewed said the state does not provide sufficient data to assist their efforts,
+despite heavy reporting requirements. In the absence of state assistance, college administrators report
+a high need for data analytics and management software used to identify student needs and analyze
+the impact of particular programs. This software is costly to purchase and implement, and colleges
+must often do so individually, unlike in Washington, which maintains an enterprise resource
+management system for all its colleges.
+Accreditors have improved standards tied to the adequacy of student support services. Their reviews
+could help identify student support successes and limitations. Yet, our review of recent accreditation
+reports found accreditor scrutiny of student support coverage and effectiveness was minimal. Among
+other shortfalls, the reports included limited evaluations of the sufficiency of supports for underserved
+students, despite the accreditation standards’ strong focus on closing equity gaps.
+In addition, unlike the public university funding formula, the community college funding formula does
+not provide extra money for student groups likely to need more support services. The state also
+provides little direct funding for support services.
+One exception is Oregon’s First-Generation Underserved Students Success Grant Fund, established in
+2015 through legislation that created two-year grants for support programs. Program results are
+generally good, but student participation has been limited, ranging from 10 students at some schools to
+350 to 400 students in Portland Community College’s Future Connect program. The dollar amount is
+also relatively small, at less than $2 million a year.
+The state has not analyzed the outcomes of the state-funded success grants. Schools report the grant
+fund is useful, but the low funding and short-term focus is a deterrent to participating. Several colleges
+chose not to reapply after the initial funding round.
+Oregon’s financial aid to students has grown, but it does not fully
+cover costs or fully target the students who need it most
+HECC’s biggest effort to directly support students is distributing state financial aid. In recent years,
+HECC has substantially increased financial aid to help boost student access to community colleges. For
+its 2023-25 budget, the agency is proposing $780 million in additional state funding for student aid at
+community colleges and universities to help increase access.
+“Technolology can help triage and provides efficiency. It can help reach more students efficiently and provide
+early warnings. But it’s not a replacement for human connection.”
+– An Oregon community college dean of student services
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 32
+State grants allow students to borrow less and can help increase student success, particularly for low-
+income students.15 Grants also help address the low college-going rates of low-income students and
+decrease wage gaps, which can improve their earnings prospects substantially. HECC reports that low-
+income Oregonians are half as likely to enroll in an Oregon college or university as higher-income
+Oregonians, but that Oregonians from low-income families are twice as likely to become middle- or
+high-income earners by their mid-30s if they do enroll in college as young adults.
+Oregon’s financial aid has risen in recent years and ranks relatively high per student nationally.
+However, like student support services, financial aid does not cover the full student need and misses
+some key student groups. Oregon Promise, the state’s newest program, has also shifted state aid away
+from Oregon’s lowest income families.
+Oregon’s financial aid has grown in recent years and is now relatively strong nationally
+Oregon has two main financial aid programs for community college students:
+• Oregon Opportunity Grants, offered since 1971, are available to students attending
+Oregon colleges and universities. Of the more than 30,000 students who receive the
+grants, about half attended community colleges. In the 2022-23 school year, students
+received awards ranging from $1,500 to $3,600. This grant is need-based and supports
+students from the lowest income families.
+• Oregon Promise Grants, established in 2015, are awarded to students attending
+community college directly after completing high school or a GED program. These grants
+are not based on need — even students from families with higher expected family
+contributions are eligible to receive them.16 Beginning in the 2022-23 school year, award
+amounts for a full-time student range from $2,000 to $4,128 a year, the average tuition
+charged by Oregon community colleges.
+State appropriations for the two programs rose 68% from the 2015-17 biennium to a total of $242
+million in 2021-23, including $200 million for the Opportunity Grants and $42 million for Promise Grants.
+That increased investment has significantly improved Oregon’s standing relative to other states.
+According to data from the State Higher Education Executive Officers Association, Oregon’s financial
+aid funding for community college students ranked 10th to 12th among states from 2019 to 2021, based
+on aid per student FTE. Thanks in part to the establishment of Oregon Promise, the percentage of first-
+time, full-time students receiving state and local aid at Oregon's community colleges rose from 19% in
+2014 to 56% in 2019, the fastest growth nationally.
+Total costs of attendance — including rising tuition and high living costs — still exceed
+available aid
+Oregon community colleges’ average tuition and fees totaled $6,118 in the 2022-23 academic year — a
+20% increase since 2017. This cost is the second highest among Western states. HECC officials say
+15 In HECC’s 2021 study of the Oregon Opportunity Grant, new low-income community college students who received the grant
+were more likely to return after one year than low-income students who did not (79.6% versus 76.7%) and more likely to
+complete a certificate or degree (48.4% versus 44.6%).
+16 Students’ Expected Family Contributions are estimates of what students and their families can pay for college. They are
+calculated using information from federal or state financial aid applications.
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 33
+increased overall state funding has kept tuition lower than if state funding had remained static. Even
+so, rising tuition and fees and Oregon’s high cost of living — 7th among states in a winter 2022 tally17 —
+make it difficult for students to cover the total cost of attendance.
+Total attendance costs include tuition, fees, and expenses such as textbooks and other school
+materials, transportation, and room and board. In 2020-21, attendance costs totaled up to about
+$24,000 a year at community colleges. A community college student receiving both the maximum
+federal Pell Grants and Oregon Opportunity Grants would still be short more than $12,000 in covering
+these costs.
+HECC reports almost a third of community college students who filled out a FAFSA federal aid
+application cannot meet costs even after accounting for grant aid, family contributions, and other
+resources. HECC also reported that in 2020-21, the average debt among community college graduates,
+even including those with no federal loan debt, was about $13,000. With median earnings of $43,183
+five years after obtaining an associate degree, this is a sizeable financial load.
+A White House initiative to forgive up to $20,000 in federal student loans for many students could help
+address this problem, though it is facing legal challenges and does not address rapidly rising costs in
+higher education.
+State financial aid is not accessible to all Oregon students and a portion is distributed
+inequitably
+By statute, HECC prioritizes available state funds for Oregon Opportunity grant applicants with the
+highest financial need, leaving out many eligible students due to overall limited funding. Many of the
+groups for whom this grant improves affordability the most are historically underserved.
+However, HECC reported that the Opportunity Grant went to less than a quarter of the more than
+130,000 students eligible to receive it in 2021. Similarly, the non-need-based Oregon Promise grant has
+capped funding based on family need due to limited state funding.
+Many students are not eligible for one or both aid programs for reasons apart from financial need.
+Students must attend at least half time to receive state aid. In addition, students returning to college
+after time away are not eligible for the state’s Promise grant, as it is provided only to students who
+have recently graduated from high school or completed a GED. HECC reported in December 2022 that
+students with Promise grants make up only 13% of community college students.
+The Promise grant was also established by statute with an inequitable structure. In 2021, HECC
+reported more than 50% of recipients were low-income — generally defined as students eligible for the
+federal Pell grant — but nearly 80% of the state’s program dollars went to higher income students. This
+disparity is because students from low-income families are more likely than students from high-income
+17 Missouri’s 2022 Q1 analysis of the national Council for Community & Economic Research survey.
+“The hardest part of college should be academics, not trying to pay our tuition.”
+- Nick Keough, University of Oregon student senator and former Lane Community College Student
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 34
+families to receive other aid, and the Promise grant is a “last-dollar-in” program designed to make up
+the difference between aid received and the state’s maximum aid cap. In 2020, students from the
+lowest-income families received a total of $3,628 on average from state grants — over $200 less than
+Promise students from middle and higher-income families. The imbalance also showed up in the
+Integrated Postsecondary Education Data System: From 2014 to 2019, state aid increased in every
+income category, but Oregon had the second largest decline among states in the share of aid going to
+students in the bottom income bracket. HECC research also indicates that Oregon Promise has not
+increased community college enrollment, the number of terms students enroll in college, credits
+earned, or college completion among recent high school graduates.
+The Legislature took several steps in 2022 to address Oregon Promise’s equity issues, including
+doubling the minimum grant award to $2,000 and lowering the GPA required to qualify for the grant.
+These changes, however, are not projected to fully address program inequities. As of August 2022,
+HECC estimated 52% of recipients will be low-income (versus 50% before the legislative changes) and
+64% of the dollars will go to higher-income students (versus 80%).
+The Legislature’s joint task force on underserved students also noted Oregon Promise’s limited focus
+on underserved students and made many recommendations in the financial aid area. Among them, the
+task force called for dramatically expanding need-based financial aid for low-income students and
+working adults, expanding emergency financial aid, and expanding grants to help students who are
+close to finishing complete their degrees or certificates.
+In its budget request for the 2023-25 biennium, HECC proposed a $736 million increase in funds for the
+Oregon Opportunity Grant, a major jump from the current $200 million funding level. The addition
+would bring its funding for the need-based grant to levels comparable with the Washington College
+Grant, funded at $884 million for the 2021-23 biennium. HECC also asked to increase funding for
+Oregon Promise from $42 million to $86 million, in part to offer it to university students as well as
+college students, and for $40 million in ongoing funding for Oregon Tribal Student Grants first
+established in 2022.
+HECC’s budget request says the increase in the Oregon Opportunity Grant would more than double the
+amount of funding provided to community college students with the most need — from $3,600 per
+student to $7,883, significantly more than tuition costs. This could help close aid gaps for vulnerable
+populations and reduce the impact of inequities in the Oregon Promise program.
+Despite increased state funding, Oregon colleges face substantial
+threats to sustaining their operations and fiscal viability, with little
+strategic assistance or oversight from the state
+Falling enrollment and tuition revenue, rising costs, the loss of pandemic-related federal funding, and
+other challenges threaten college budget sustainability, even with growing public support.
+Oregon’s community college enrollment has fallen faster than in other states and its public funding has
+risen. As a result, its overall public funding, staffing, and spending for community colleges is relatively
+strong in national rankings when compared by full-time-equivalent students, used to standardize
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 35
+comparisons across states.18 The increase in funding and spending helped contain tuition increases and
+staffing losses. However, it may be difficult to sustain. For the 2023-25 biennium, colleges project a
+need for a 44% increase in state operations funding jus to preserve the status quo.
+Despite the high risk, HECC is not focusing on increasing the sustainability of college operations, and
+accreditor focus on ensuring future sustainability is limited. In some areas, including monitoring financial
+condition and evaluating spending, HECC has less statutory authority to monitor sustainability for
+community colleges than it does for universities. In other areas, including shared services and
+collaborative online education, HECC has statutory authority to encourage and facilitate changes, but
+has had limited success in driving improvements. The lack of state-level strategic focus increases the
+risk that college financial issues will not be addressed in a way that most benefits students.
+Oregon’s community colleges have relatively strong overall funding, spending, and
+staffing per student compared to other states, though state operations funding ranks
+lower
+Two national data sources — the State Higher Education Executive Officers Association and Integrated
+Postsecondary Education Data System (IPEDS) — indicate Oregon’s overall funding for operations and
+related spending is relatively strong when compared by full-time equivalent students. However,
+Oregon’s state operations funding, a subset of total funding, ranks lower against other states despite
+recent increases.
+Our analysis of both national data sets was adjusted for inflation and cost-of-living differences among
+states. The comparisons also focused on funding and expenses per full-time-equivalent student, which
+is the primary basis for Oregon’s distribution of state funds, and not student headcount.19
+Before the pandemic, from 2016 to 2019, Oregon’s community colleges ranked 12th nationally in total
+revenues per student FTE, according to IPEDS data. Oregon ranked lower in state appropriations, 29th
+over the four years, but ranked relatively high in property tax appropriations and tuition revenue.
+The higher education association reported more recent data. During the pandemic, Oregon’s rank for
+combined state and local funding reached about the national average and 19th highest among states in
+2021, association data indicates. (Several large and well-funded state systems skew the national
+18 Per-student-funding analysis can improve external state rankings. For example, a 2022 study and ranking done by WalletHub
+ranks Oregon community colleges 10th across the nation as an overall system. Oregon’s relatively high state funding per student
+FTE contributed to this ranking.
+19 Per the Integrated Postsecondary Education Data System, part-time students in fall 2019 made up about 60% of student
+headcount in Oregon versus 65% nationally, indicating Oregon does not enroll an unusually high proportion of part-time
+students.
+The State Higher Education Executive Officers’ funding rankings for Oregon’s public universities are much lower
+than for its community colleges, driving down Oregon’s combined rankings for higher education. Similarly, the
+percentage of institutional revenue covered by student net tuition and fees is much higher at public
+universities – 69% in 2021 at the universities versus 25% at the colleges. In budget documents, HECC at times
+reports only the combined figures.
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 36
+average upward.) As with the IPEDS data, property tax appropriations ranked higher and state
+operations appropriations ranked lower, 25th in 2021.
+State operations appropriations, along with state financial aid, have risen substantially in recent years,
+from $550 million to $700 million from the 2015-17 biennium to the 2021-23 biennium, a 27% increase.
+College officials note that much of the inflation-adjusted revenue gain since 2011 effectively recovered
+earlier losses, and that colleges in areas where voters reject construction bonds have to cover repairs
+and maintenance out of operations funds.
+Figure 10: Inflation-adjusted state funding has increased substantially, but did not rise well above mid-2000
+levels until the 2019-21 biennium
+Source: HECC analysis
+Consistent with funding results, Oregon ranked 15th highest nationally in total staff per student in 2019,
+with both students and staff expressed in full-time equivalent terms. From 2014 to 2019, instructional
+FTE reported by the colleges dropped, while some administrative categories rose, including
+management and business operations, according to the IPEDS data.
+By HECC’s calculation, from 2013 through 2019, the colleges’ student-to-staff ratio improved from 18.5
+students per staff to 12.9, as enrollment dropped much faster than staffing.
+Figure 11: Oregon ranks relatively high among states on overall staff FTE per student FTE, but has seen drops
+in instructional staffing levels
+2019 Staff FTE Oregon Rank 2014-19 Change
+Total Staff FTE  7,412 15 -3%
+Select Categories:
+Instructional  3,052 23 -10%
+Office & Administrative Support  1,101  7 -9%
+Management   750 11  9%
+Student and Academic Affairs   655 20  9%
+Computer, Engineering, and Science   438  2  8%
+Business and Financial Operations   272 24  16%
+Source: Auditor analysis of data from the Integrated Postsecondary Education Data System.
+Spending per student is also relatively strong. IPEDS data indicates Oregon spent the 6th highest
+amount per student FTE in current year expenses, primarily salaries and benefits for college employees,
+$0
+$1,000
+$2,000
+$3,000
+$4,000
+$5,000
+$6,000
+1999-01 2001-03 2003-05 2005-07 2007-09 2009-11 2011-13 2013-15 2015-17 2017-19 2019-21 2021-23
+Inflation-Adjusted State Funding by Student FTE
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 37
+from 2016 to 2019 combined. Employee fringe benefits, where Oregon ranked second highest
+nationally, stood out the most. The high ranking likely stems from rising costs for health benefits and
+Public Employee Retirement System costs, a challenge for Oregon government agencies in general.
+We also analyzed more detailed individual college spending data the colleges provide to HECC to gauge
+spending trends from 2009 to 2018, when all 17 colleges reported data. Over those ten years, the data
+suggests that college spending on retirement, insurance benefits, and management salaries has grown
+the fastest, more rapidly than spending on faculty and classified staff salaries.
+Figure 12: Benefits and management salaries have grown fastest since 2009
+2018 Total (millions) % Growth 2009-18
+Faculty Salaries — Full & Part-Time $230 16%
+Classified Staff Salaries  $152 18%
+Management Salaries $98 33%
+Insurance Benefits $95 50%
+PERS $90 69%
+Note: Percent growth not adjusted for inflation.
+Source: Auditor analysis of HECC CCFIS data.
+Unfortunately, other important expense line items in HECC’s publicly available dataset did not appear
+reliable for analysis, including counseling, management of support services, and academic
+administration. These accounts had missing data for some colleges or sharp fluctuations from year to
+year, which may reflect inconsistent accounting. Several colleges also did not report any data for 2019
+and 2020, making those years unusable for overall analysis.
+HECC does not review college submissions to ensure they are complete and address reliability
+problems. These problems limit the ability of HECC, colleges, and the public to evaluate college
+spending even as risks to college sustainability grow.
+Falling enrollment and growing financial challenges pose substantial threats to
+sustaining college operations and meeting the state’s 40-40-20 goal
+Despite Oregon’s relatively high per student funding and spending numbers, persistent enrollment
+declines have driven down tuition revenue and total revenue at most Oregon colleges. The declines
+threaten college finances and stability. They also limit Oregon’s ability to meet the college portion of its
+40-40-20 goal, which is based on the number of students receiving associate degrees and certificates.
+During the initial phase of the pandemic, enrollment fell as Oregon colleges closed in-person learning,
+health issues spiked, and wildfires spurred evacuations across the state. Career-technical programs,
+with their focus on hands-on learning, were hit the hardest. Strong job growth as the pandemic
+continued may have also persuaded more students not to return or start in school.
+A projected decline in the number of high school graduates could reduce enrollment further and
+increase competition from universities, trade schools, and private online schools for the limited number
+of students available. These trends are challenging community college finances. The colleges project a
+need for a 44% increase in state funding for the 2023-25 biennium to avoid large tuition increases and
+maintain status quo college operations.
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 38
+As with student success and funding, we benchmarked Oregon’s community college enrollment trends
+against national results and trends in other states. Community college enrollment has declined rapidly
+nationwide, much more deeply than public university enrollment, with losses accelerating during the
+pandemic. As enrollment declines, tuition revenue does as well, limiting the colleges’ ability to maintain
+a variety of program offerings and threatening college sustainability.
+Benchmarking showed Oregon’s community college enrollment has fallen faster than enrollment in
+most states, both before and during the pandemic.
+• Before the pandemic, from 2014 to 2019, Oregon’s annual student FTE enrollment fell
+roughly 20% versus 10% nationally, the 12th highest decline nationwide.
+• From 2019 to 2021, Oregon’s annual student FTE enrollment fell 17%, more than double the
+national average during the pandemic and the 6th highest drop among states.
+Pre-pandemic, there was some encouraging news in the data: new students and first-time, full-time
+students both grew, with Oregon ranking high in these categories relative to other states.
+Figure 13: Reimbursable annual student FTE has declined significantly at most colleges
+2021 FTE Enrollment 2011 to 2021 Change Pandemic Change
+Total  64,815 -46% -21%
+College:
+Lane 6,088 -60% -21%
+Umpqua 2,087 -59% -21%
+Rogue 2,799 -55% -34%
+Blue Mountain 1,164 -54%  -32%
+Linn Benton 4,048 -50%  -22%
+Treasure Valley 1,227   -49%  -18%
+Chemeketa 7,368 -47% -23%
+Southwestern 1,569 -46% -26%
+Central Oregon 3,630 -45% -16%
+Clatsop 830 -44% -38%
+Clackamas 4,870 -44% -25%
+Mt. Hood 5,994 -44% -19%
+Portland 19,520 -38% -18%
+Columbia Gorge 782 -38% -9%
+Oregon Coast 417 -19% -10%
+Tillamook Bay 429 -16% -11%
+Klamath 1,993 1% 8%
+Note: Pandemic change measures the change from the last academic year prior to the pandemic, 2018-19, to 2020-21, the last
+year of annual enrollment data available.
+Source: Auditor analysis of HECC data.
+However, from 2010-11 to 2020-21, only Klamath Community College avoided a decline in reimbursable
+student FTE enrollment, the basis of Oregon’s payments to the colleges. Twelve colleges had declines
+of more than 40%. Declines were steeper among older students than traditional-age college students,
+age 18 to 21, though traditional-age student FTE still declined by 29%.
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 39
+Oregon’s headcount enrollment far exceeds student FTE enrollment reimbursable by the state, at
+nearly triple for the 2020-21 academic year. Students often need advising, financial aid, and other
+administrative support services regardless of the number of courses they take, an important point for
+colleges that need to support significant numbers of part-time students.
+Oregon’s fall 2022 student headcount enrollment dropped 3.6% from Fall 2021, with declines at seven
+colleges, while FTE rose 0.5% with 11 colleges stabilizing or showing an increase. While these numbers
+show more stability than earlier in the pandemic, they are still below the national headcount average
+for community colleges, which decreased by less than 1%.
+Economic challenges and higher unemployment could prompt more students to enroll at community
+colleges, as they did in economic downturns prior to the pandemic. However, demographers expect the
+long-term supply of students to decline going forward. Data from the Western Interstate Commission
+on Higher Education projects a total growth of nearly 20% in Oregon high school graduates in the 15
+years ending in 2025, fueled by rapid growth in Hispanic, Asian, and Pacific Islander graduates. However,
+in the decade from 2025 to 2035, the number of graduates is expected to drop 11%, including a 15%
+decline in Hispanic graduates. For Oregon’s overall population, Portland State University population
+researchers project Oregon will gain nearly 1 million residents from 2020 to 2045, but only 5% of them
+will be younger than 30. The growth rate for the under 30 age group is projected at 3.5% through 2045,
+much lower than overall population growth rate of 23%.
+Nationally, Oregon also has relatively low, though rising, high school graduation rates and a low rate of
+high school graduates attending college within 12 months.20 Both of these results also limit college
+enrollment.
+These trends are likely to increase competition for students among community colleges, universities,
+private online schools, and career-technical or trade schools. It will also put further pressure on
+community colleges and the state to keep tuition low even if enrollment continues to decline, putting
+more pressure on their finances.
+College financial challenges, which began pre-pandemic, are increasing
+Data from the Integrated Postsecondary Education Data System indicates the colleges’ financial
+problems, as with their enrollment problems, began well before the pandemic. From 2014 to 2018, total
+inflation-adjusted revenues fell at 14 of Oregon’s 17 colleges. Inflation-adjusted state appropriations
+and property tax revenues grew at most colleges while student tuition and fee revenue and federal
+grants and contracts declined. In the same period, 10 colleges reported declines in their net financial
+position of at least 40% out of the 15 colleges that reported the sustainability metric.
+During the pandemic, federal emergency funds helped bridge colleges’ budget shortfalls, but that
+money is running out. Absent deep cuts, total college costs are expected to continue to rise, driven by
+20 A 2019 analysis by HECC consultants found, based on 2016 data, that 49% of Oregon’s high school graduates enrolled in
+college within 12 months of graduation, well below the national average of 63%.
+Portland State University forecasts project Oregon will gain nearly 1 million residents from 2020 to 2045, but
+only 5% of them will be younger than 30, with a growth rate in that category of only 3.5%.
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 40
+benefits and compensation. Colleges are taking steps intended to increase enrollment and improve
+student retention, but absent unexpectedly large enrollment increases, tuition revenue is not likely to
+rise enough to cover rising costs.
+A review of college budgets indicates most colleges are not making substantial cuts for the 2022-23
+school year. Some federal funds can still be used in 2022-23, and state funding for the year is already
+set. However, some colleges made cuts earlier in the pandemic and some colleges are also making
+relatively substantial reductions in 2022-23.
+Reductions since the pandemic began include eliminating vacant positions, hiring and spending freezes,
+separation incentives for faculty, reducing adjunct faculty, and reducing materials and maintenance
+expenses. For 2022-23, Rogue Community College ended four academic programs and temporarily
+suspended seven others as part of a prioritization plan. Blue Mountain Community College laid off five
+full-time faculty after eliminating 39 full and part-time positions in the previous two years. Chemeketa
+Community College eliminated 25 of 552 positions college-wide, mostly vacant positions but including
+some layoffs. Lane Community College raised tuition by 5% and increased technology fees as part of
+its plan to close an $8.1 million budget gap. Several colleges warned in their budget messages that
+deeper cuts are looming for the 2023-25 biennium.
+As college finances decline, HECC’s primary response is to request state spending increases to cover
+college costs, limit staffing losses, and keep tuition from rising sharply. For the 2021-23 biennial budget,
+HECC asked for an additional $57.2 million to cover college costs, including personnel costs, and keep
+average annual tuition increases at or below 3.5% through 2023.
+Operations deficits could be substantially worse in the 2023-25 biennium, starting in July 2023. College
+projections for the 2023-25 budget, which the Legislature will consider in the first half of 2023, indicate
+much higher needs for state funding to cover costs. The colleges project the state needs to increase its
+Community Colleges Support Fund 44% for the 2023-25 biennium — from roughly $700 million to $1
+billion — to maintain college employment and programs and keep average tuition increases at about
+3% a year. That increase would only fund the status quo, maintaining existing services.
+Blue Mountain’s Budget Struggles
+The experience of Pendleton-based Blue Mountain, a small community college with roughly 2,400 for-credit
+students, shows making deeper cuts will be difficult. The college’s 2022-23 budget cut five full-time faculty and
+reduced the general fund budget for full-time faculty from $3.1 million to $2.4 million. The reductions prompted
+student and faculty protests before a college board meeting and the faculty union to file grievances under its
+collective bargaining agreement with the college, with union members saying the cuts would hurt students and
+burden remaining staff. Blue Mountain’s president noted an enrollment drop of 42.5% since 2017, a shift away
+from two-year degrees, and multiple years of General Fund budget cuts, He pledged to re-tool the college’s
+strategy, including sunsetting academic programs that are no longer viable.
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 41
+Figure 14: Colleges project a need for more state funding to cover increased expenses, operations deficits,
+and lost revenue
+College Projections: 2023-25 Needs vs Revenues
+Amount Change from 2021-23
+Needs:
+Expense increases for 2023-25 $221,160,090 12.2% increase
+Deficit (uncovered expenses) 2021-23 biennium $98,826,447 Eliminated under college plan
+Loss of federal pandemic relief money $53,036,148 Not available in 2023-25
+Total projected needs $373,022,686
+Revenue Changes:
+Property tax increase (projected) $34,450,937 7.9% increase
+Tuition revenue increase (projected) $30,796,690 6.6% increase
+Other revenue decrease (projected) $(635,753) 1% decrease
+Revenue subtotal $64,611,873
+Difference: State revenues needed to fill gap $308,410,812 44.3% increase
+Source: College submissions to HECC.
+The proposed increase may not be funded. It is unknown what the Governor will recommend and the
+Legislature will approve. HECC’s request budget, submitted in fall 2022, included a lower proposed
+increase to $905 million, still a 29% increase, plus a proposal for $100 million in additional equity
+funding for public universities and community colleges. In either case, the magnitude of the college
+projections and HECC’s request highlights the deep financial problems the colleges face unless
+enrollment increases substantially. The colleges’ projection assumes enrollment growth of only 1.3% to
+1.4% a year from 2023 to 2025.
+If successful, HECC’s separate $780 million request for additional financial aid for college and university
+students could help spur enrollment growth, though it would also add substantially to the size of
+HECC’s requested budget for higher education as a whole. All told, the 2023-25 higher education
+request totals $5.3 billion, 48% higher than the 2021-23 adopted budget.
+A lack of spending scrutiny and systemic focus on cost-saving measures increases the
+risk college sustainability will not be adequately addressed
+Growing instability at community colleges would damage students, the state’s economy, and the local
+communities the colleges serve. Deep cuts could also hinder progress toward increased equity and
+upward mobility in the state.
+However, aside from requests for additional state funds for colleges and occasional one-time reports,
+HECC is not focusing on college sustainability. It is not monitoring college finances, linking spending to
+state goals, conducting data analysis to help colleges budget strategically, or helping to lead cost-
+sharing initiatives — all steps that could help increase college sustainability.
+Evaluations from the Northwest Commission on Colleges and Universities, the higher-education
+accreditor for Oregon and other Northwest states, also did not focus on strategic efforts to increase
+sustainability. Accreditation standards require colleges to develop plans to address financial
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 42
+sustainability. Our review of accreditation reports found accreditors check college annual audits,
+reserves, and financial management practices, but do not focus on concrete strategies colleges are
+taking to contain tuition, contain costs without reducing student success, and address threats to long-
+term sustainability. Northwest Commission leaders said the pandemic spotlighted sustainability issues,
+and their accreditation review teams are increasing scrutiny of sustainability issues going forward.
+Sustainability areas where HECC could do more include:
+Monitoring financial condition: State statutes require HECC to evaluate the financial condition of
+Oregon’s public universities and require universities to submit reports on actions they have taken to
+control costs to HECC. The statutes do not include these steps for community colleges. As noted
+earlier, HECC obtains and publishes revenue and expense data from community colleges, but does not
+review it or check it for accuracy.
+Linking state funding to educational best practices and state goals: Improved reporting and analysis
+could allow HECC to evaluate system spending and identify the best practices and funding needed to
+reach state goals. Oregon’s K-12 system has a Quality Education Model to evaluate system spending
+and estimate the educational best practices and level of funding needed to run a highly effective
+system of schools in Oregon. HECC does project spending needed to meet 40-40-20 goals, but does
+not tie spending to educational best practices or evaluate system spending.
+Conducting data analysis to support sustainable college budgets: Colleges can struggle to make
+evidence-based budget decisions. HECC’s standard reporting on program results reports results
+statewide and does not include college-level analysis that colleges could use to help make budget
+decisions. HECC also not provide guidance to help colleges make appropriate investments, evaluate
+program results, implement best practices, or strategically reduce budgets.
+Facilitating greater college efficiency: HECC’s statutory role does include “encouraging and
+facilitating” shared services that improve economies of scale, such as shared administrative services or
+collaborative online education among colleges. However, while state statutes require universities to
+establish a collaborative focused on sharing administrative support services, there is no similar
+requirement for community colleges. Despite its statutory role, HECC has had made limited efforts to
+facilitate shared services and has had limited success when it does. Sharing services could result in
+eliminating jobs and may be seen as a threat by the colleges, their staff, and employee unions.
+A 2021 HECC report to the Legislature on mergers in higher education indicates troubled institutions
+should act sooner rather than later to merge or seek structural partnerships and points to other state
+actions. For example, Maine is sharing faculty members and courses across campuses. Connecticut
+consolidated all 12 of its community colleges into an accredited institution and aligned curricula for
+more than 200 degree programs.
+Sustainability statutes for universities that do not apply to community colleges:
+• HECC must evaluate the financial condition of the universities.
+• Universities must submit reports on cost drivers to HECC.
+• Universities must establish a collaborative focused on sharing support services.
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 43
+Colleges have independently made progress toward improving efficiency, but the efforts are limited in
+scope. Institutional researchers at Linn-Benton Community College have contracted with a handful of
+other colleges to provide basic student outcomes data, reducing the individual college burden. Several
+smaller colleges are considering shared online course offerings. Other colleges have worked on a
+shared, grant-driven project to improve and expand student opportunities in cybersecurity and
+advanced manufacturing. Accreditation reviews indicate colleges are making more data-based efforts
+to evaluate the effectiveness of academic programs.
+Oregon’s community colleges have some existing advantages for addressing sustainability and student
+success. Lower student-to-staff ratios maintained through relatively high funding could allow for
+better connections between staff and students. Upgraded online capabilities spurred by the pandemic
+could help the colleges devise more effective models for reaching students who struggle to attend on-
+campus classes, including working students, students with children, and students with long commutes.
+Oregon also has more older adults who attended college in the past but did not complete a program of
+study – an opportunity to increase student enrollment. A 2019 report from the National Student
+Clearinghouse Research Center identified Oregon as one of 12 states with a higher proportion of
+students who have some college and no degree. These students have a high potential to return to
+college and graduate, and most students do so at community colleges, the report noted.
+Current piecemeal efforts, however, are likely not enough to address the sustainability risks colleges
+face. In September 2022, the National Center for Higher Education Management Systems released a
+higher education landscape study commissioned by Oregon’s colleges and universities that is a positive
+step toward a more comprehensive approach. The report’s recommendations included enhancing
+higher education affordability, making new investments aligned with state goals, and establishing a Blue
+Ribbon commission, separate from HECC’s commission, to develop a vision for economic development
+in the state and detail how higher education can better support economic growth.
+The next biennium is critical, a time to recover from pandemic setbacks, strive for increased efficiency,
+and assess the sustainability of the system going forward. For a more efficient, evidence-based, and
+equitable system to emerge, Oregon state and college leaders will need to focus more intently on
+addressing student success, student support, and college sustainability.
+Oregon has a relatively high proportion of students with some college and no degree, a key source of potential
+increased enrollment.
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 44
+Recommendations
+These recommendations are tied to root causes and risks detailed in this audit report. Some may
+require additional authority and staffing. Most will require consultation with stakeholders, including the
+colleges, the Governor, the Legislature, and student and employee associations.
+To increase community college accountability and student and college success, we recommend the
+Governor’s Office and the Legislature:
+1. Help HECC and the colleges make the improvements noted below. Provide clear support,
+statutory language when needed, and necessary staff and funding at HECC and the colleges to
+help drive system improvement.
+To increase student success, student support and college sustainability, we recommend HECC:
+2. Work with state leaders and stakeholders to substantially upgrade the community college
+system’s transparency and use of data for improvement:
+a. Publish student success metrics by college and statewide in an easily analyzable form,
+such as downloadable spreadsheets or online dashboards. Starting with metrics
+currently collected, include completion and transfer rates and rates for early student
+progress indicators. Report results by race/ethnicity and other available demographics.
+b. Work with the colleges to establish agreed-upon core student success metrics, both
+early indicators and outcomes, and a consistent method for calculating them. Use them
+to report to the public and Legislature on college and statewide performance, identify
+successful programs, and evaluate strategic initiatives, including initiatives led by the
+Oregon Student Success Center.
+c. Benchmark statewide outcomes and early indicators against national results on HECC's
+website and in reports to the Legislature. Develop Key Performance Measures for early
+indicators.
+d. Consolidate statewide data collection. Reduce duplicative requests and collection of
+unused data. Clarify data definitions. Assist the Legislature with matching data
+requests to existing data whenever possible. Align efforts with college accreditation
+requirements.
+e. Analyze staffing needs at HECC and community colleges and request staff needed to
+support in-depth research, analysis, and public reporting.
+3. If performance-based funding is adopted, develop a detailed plan to maximize and track
+systemic benefits and minimize and track potential negative results. If performance funding is
+not pursued, substantially increase strategic funds to improve student success and equity and
+publicly track results of those efforts.
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 45
+4. Evaluate the sufficiency and effectiveness of statewide and college-specific student support
+programs and academic advising. Include metrics such as funding, academic advisor caseloads,
+students served by program, estimates of eligible students not served, and individual program
+impacts on student success. Report results biennially to the Legislature and public, identifying
+programs that work, service gaps, and sustainable options for closing them. Pursue legislative
+support or statutory language as needed. Align efforts with college accreditation requirements.
+5. Continue working with the Governor and Legislature to improve Oregon’s financial aid efforts,
+including addressing inequitable distribution and gaps for part-time and older students.
+6. Biennially analyze and report to the public and Legislature on community college sustainability
+systemwide and by college — including financial status, expense and tuition growth, enrollment
+trends and forecasts, and the status of shared services and other steps colleges are taking to
+improve sustainability. Identify best practices and funding needed to reach state goals. Pursue
+legislative support or statutory language as needed. Align efforts with college accreditation
+requirements.
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 46
+Objective, Scope, and Methodology
+Objective
+The objective of this audit was to determine how HECC can help community colleges enhance data use
+and student support to improve college performance, reduce equity gaps, and address substantial risks
+to college sustainability.
+Scope
+The audit focused on the status of community college student success, equity gaps, student support
+services, sustainability, and data use. It also focused on steps HECC can take to help colleges improve
+in these areas and obstacles to improvement within the higher education system.
+Methodology
+To gain an understanding of HECC and community colleges we:
+• Interviewed HECC and college leaders and staff, HECC commissioners, students, and
+stakeholders;
+• Surveyed and conducted group interviews with college institutional researchers, student
+support personnel, and academic administrators;
+• Visited Chemeketa, Klamath, and Portland community colleges;
+• Reviewed extensive HECC and community college documentation and community college
+research;
+• Analyzed college accreditation reports;
+• Reviewed practices in other states and in leading colleges in other states and interviewed
+Washington state-level staff and college staff; and
+• Analyzed multiple community college datasets, from HECC and from national sources, to
+evaluate Oregon community college performance, funding, spending, staffing, and student
+needs (see details in Appendix A).
+Data Reliability
+Our assessment of the reliability of data used in this audit focused on HECC’s internal data sets and the
+external data sets outlined above.
+HECC’s Student and Financial Data Systems
+We evaluated data reliability by evaluating an assessment of reliability conducted by this office in a
+2015 audit, reviewing up-to-date information about HECC’s data and systems, interviewing and
+surveying HECC and community colleges officials knowledgeable about the data, and evaluating the
+reasonableness of individual conclusions in our analysis preparation and review. We found the data on
+college spending had limited reliability and confined our analysis to a level and time period deemed
+reliable, as detailed in the Audit Results section.
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 47
+National datasets
+We evaluated data reliability of national datasets we used for this report by evaluating the
+methodology followed by the preparers of the datasets and evaluating the reasonableness of individual
+conclusions in our analysis preparation and review.
+After accounting for the limitations of HECC’s college spending data, we determined both the HECC and
+national datasets were sufficiently reliable for the purposes of this report. See “Appendix A: Data
+Analysis Details” for more information on data analysis conducted for this audit, including data
+limitations.
+Internal control review
+We determined that the following internal controls were relevant to our audit objective:21
+• Control Environment
+• We interviewed HECC commissioners and personnel at HECC and colleges and
+reviewed statutes, administrative regulations, and HECC and college documents.
+• Risk Assessment
+• We interviewed personnel at HECC and colleges and reviewed statutes,
+administrative regulations, key practices, and HECC and college documents.
+• Control activities
+• We evaluated procedures and practices for effective use of data to assess and
+improve the community college system.
+• Information and communication
+• We evaluated the transparency and effectiveness of information provided about
+the community college system.
+• Monitoring activities
+• We evaluated HECC’s role in monitoring and reporting the status and effectiveness
+of college operations, including performance, funding, spending, and staffing.
+Deficiencies with these internal controls were documented in the results section of this report.
+We conducted this performance audit in accordance with generally accepted government auditing
+standards. Those standards require that we plan and perform the audit to obtain sufficient, appropriate
+evidence to provide a reasonable basis for our findings and conclusions based on our audit objectives.
+We believe that the evidence obtained provides a reasonable basis for our findings and conclusions
+based on our audit objectives.
+We sincerely appreciate the courtesies and cooperation extended by officials and employees of HECC
+and Oregon’s community colleges during this audit.
+21 Auditors relied on standards for internal controls from the U.S. Government Accountability Office, report GAO-14-704G.
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 48
+About the Secretary of State Audits Division
+The Oregon Constitution provides that the Secretary of State shall be, by virtue of the office, Auditor
+of Public Accounts. The Audits Division performs this duty. The division reports to the elected
+Secretary of State and is independent of other agencies within the Executive, Legislative, and Judicial
+branches of Oregon government. The division has constitutional authority to audit all state officers,
+agencies, boards and commissions as well as administer municipal audit law.
+Audit Team
+Andrew Love, CFE, Audit Manager
+Ian Green, M.Econ, CGAP, CFE, CISA, CIA, Audit Manager
+Scott Learn, MS, CIA, Principal Auditor
+Emily Fiocco, MPA, CIA, Staff Auditor
+Zak Ostertag, MPP, Staff Auditor
+Michael Pinkham, MPA, Staff Auditor
+T. Cornforth, Staff Auditor
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 49
+Appendix A: Data Analysis Details
+We analyzed multiple datasets to evaluate Oregon community college performance, funding, spending,
+staffing, and student needs. When possible, we also benchmarked these results against other states.
+National Student Clearinghouse data on completion outcomes and enrollment
+Completion: The National Student Clearinghouse separately gathers completion data directly from
+community colleges and reports results by state. Its most recent report, for 2021, detailed six-year
+completion rates over multiple years by state and disaggregated them by race/ethnicity. The report
+also shows results by gender, age, and enrollment status (part-time or full-time). Student cohorts
+include full-time and part-time “credential-seeking”22 students who started at the college six years
+previously. Completion rates include completions at a community college as well as completions at a
+four-year college if a community college student transfers to a university and graduates. This approach
+provides a more complete picture of student success than other datasets we used, which count
+transfers to universities as a success, regardless of student results once there. We analyzed results
+from the 2021 report, including state rankings and trends over six years. National Student
+Clearinghouse data is updated frequently, a significant strong point, but also focuses solely on
+completion instead of detailing results on a broader range of outcomes and early momentum metrics.
+NSC also reports disaggregated data by race and ethnicity, including groups that can have relatively
+small student numbers and highly variable outcomes as a result. We averaged the three years of data
+provided to help address this limitation.
+Enrollment: We analyzed enrollment data for 2021. National Student Clearinghouse’s relatively rapid
+release of national enrollment data for community colleges allowed us to analyze how Oregon’s
+enrollment decline during the pandemic compared to declines in other states.
+Integrated Postsecondary Education Data System data on performance, funding,
+spending, staffing, and enrollment
+This federal database provides data on colleges, universities and other postsecondary institutions and
+includes 966 public community colleges. We analyzed this data in three areas:
+Funding and Spending: We determined community college funding and spending by line item by state,
+then divided those totals by the state’s full-time student equivalent total for each year to obtain
+comparable line-item results by state. We combined totals for 2016 through 2019 and averaged the
+results to control for unusual year-to-year differences. We also adjusted the annual figures for inflation
+and cost-of-living differences between states, allowing us to benchmark Oregon’s funding and
+spending against other states.
+Outcomes: Among other measures, this federal database provides three-year completion and transfer
+rates to four-year colleges for smaller cohorts of community college students: first-time, full-time
+credential-seeking students. We determined community college outcomes, such as rates of student
+22 At community colleges, credential seeking means a student is seeking a certificate or degree. The National Student
+Clearinghouse defines students as credential seeking if their early term enrollment is more than half-time or they enrolled half
+time for at least two terms within 15 months of their initial fall enrollment. VFA and HECC define credential seeking by setting
+thresholds for credits students earn.
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 50
+transfer to other institutions and completion — students obtaining associate degrees and certificates
+— and benchmarked Oregon’s performance relative to other states. As with the NSC’s disaggregated
+data, IPEDS outcomes for small, disaggregated groups can be highly variable from year to year. We
+averaged results over four years to help address this limitation.
+Enrollment and Staffing: We determined community college enrollment trends and staffing levels, such
+as full-time versus adjunct faculty, and ranked Oregon’s staffing levels relative to other states.
+Overall Methodology: We identified the set of all public community colleges in the United States based
+on the April 2020 list prepared by the Community College Research Center at Columbia University. The
+list adjusted for community colleges classified as four-year institutions under this data system because
+they offer at least one four-year degree.
+This long-running data system allows for comprehensive trend analysis and benchmarking. However,
+the student cohort the system uses to evaluate student performance is limited, primarily focused on
+first-time, full-time college students. This is a cohort that is most likely to succeed, but it also excludes
+large categories of students, including part-time students and students returning to college.
+Voluntary Framework for Accountability data on outcomes and early momentum
+metrics
+HECC provided us with statewide and student-level data it gathers for submission to the Voluntary
+Framework for Accountability administrators, who collect data from about 230 member colleges on
+performance outcomes. The outcomes include completion and transfer rates and early indicators, such
+as students completing 12 credits in their first term or remaining in college from their first to second
+term. Voluntary Framework for Accountability officials provided us with PDFs of statewide and
+individual college results, which are also publicly available on their website.
+We evaluated Oregon’s statewide six-year results as of 2019 and compared them to overall results for
+colleges participating in the framework. We also used Oregon’s student-level data to evaluate results
+on selected Early Momentum Metrics by race/ethnicity and by rural/urban designations.
+The Voluntary Framework for Accountability system, implemented by the American Association of
+Community Colleges, evaluates more comprehensive student cohorts than other datasets and focuses
+on early indicators as well as final student outcomes, providing a more holistic picture of student
+performance. However, the number of colleges used for comparison is limited, as is the data available
+for benchmarking among states.
+State Higher Education Executive Officers Association funding and enrollment data
+This association provides state totals for funding and enrollment at postsecondary institutions,
+including public community colleges, through its annual State Higher Education Finance report. We used
+this data, which is adjusted for inflation and cost-of-living differences, as a second source for funding
+analysis and benchmarking Oregon to other states, focusing on data from 2019 to 2021, the years that
+the association provided separate analysis of community colleges and universities.
+Oregon Secretary of State | Report 2022-35 | December 2022 | page 51
+Hope Center student survey data on student challenges
+The Hope Center conducts an annual survey of community college students on basic needs, using the
+results to gauge levels of housing insecurity, food insecurity, and homelessness. We analyzed 2019
+survey data to help determine need levels in Oregon, disaggregated by race and ethnicity. The
+race/ethnicity results can be volatile from year to year, particularly for groups with relatively small
+numbers in Oregon, such as Black/African American students, American Indian/Alaska Native students,
+and Native Hawaiian/Pacific Islander students. Survey coverage of the nation’s community colleges is
+also limited; the 2019 survey included only 14 of Oregon’s 17 community colleges.
+Center for Community College Student Engagement national student survey data
+The center, based at the University of Texas at Austin, provided national benchmark reports and
+Oregon student-level data for two relatively recent surveys in which Oregon colleges participated: The
+2021 Community College Survey of Student Engagement and the 2018 Survey of Entering Student
+Engagement, which focuses on new students. We benchmarked Oregon results to national results and
+analyzed the student-level data to identify how often students were using critical services, including
+students disaggregated by race/ethnicity, gender and full-time versus part-time students. We also
+analyzed these results by college. As with the Hope Center survey data, the race/ethnicity results can
+be volatile from year to year, particularly for groups with relatively small numbers in Oregon.
+HECC data for additional Oregon-specific results
+HECC maintains an online, publicly accessible database, the Oregon Community Colleges Data Mart,
+that includes a limited set of data on enrollment, student FTE, completions, developmental or remedial
+education, financial aid expenditures, and annual revenues and expenditures. The data is provided by
+college, goes back multiple years, and in many cases can be disaggregated by race/ethnicity, gender,
+and age. We used the data to analyze enrollment trends. We also analyzed the spending data, but
+limited our evaluation to specific statewide categories and those that appeared reliable, as HECC does
+not review spending data submissions by colleges and the data had obvious missing information. In
+2019 and 2020, for example, at least three colleges did not submit any data.
+Enrollment and outcome data available in the Data Mart is drawn from HECC’s Data for Accountability
+system, a student-level database that HECC uses to gather data from the individual colleges, including
+data on outcomes, enrollment, and financial aid. HECC responded to a number of our specific questions
+by drawing on this data, and also uses it to prepare reports for the public, Legislature, and the agency’s
+commission, such as outcomes for transfer students and snapshot reports for colleges and the system
+as a whole.
+Higher Education Coordinating Commission
+Office of the Executive Director
+3225 25th Street SE
+Salem, OR 97302
+www.oregon.gov/HigherEd
+December 13, 2022
+Kip Memmott, Director
+Secretary of State, Audits Division
+255 Capitol St. NE, Suite 180
+Salem, OR 97310
+Dear Mr. Memmott,
+This letter provides a written response to the Audits Division’s report entitled Oregon Must Improve Community
+College Performance, Student Support, and Sustainability Amid Persistent Enrollment Declines.
+In general, management of the Higher Education Coordinating Commission (HECC) agrees with the Secretary
+of State Audits Division’s recommendations and is committed to taking actions to support the goals of
+improving community college performance, student support, and sustainability amid persistent enrollment
+declines. As described below, HECC may sometimes lack the statutory authority and/or the staff and resources
+needed to undertake the recommended tasks.
+This response letter reflects the perspective of HECC management. However, our Governor-appointed
+Commission has final prerogative over many of the policy and funding actions envisioned here. While we
+believe our response generally reflects the spirit and perspective of the Commission, we cannot commit current
+or future members of the Commission to support these specific actions.
+Recommendation 1 (made to the Governor’s Office and the Legislature):  Help HECC and the
+colleges make the improvements noted [in the report].  Provide clear support, statutory language
+when needed, and necessary staff and funding at HECC and the colleges to help drive system
+improvement.
+HECC Management Agrees.  Unusually for Oregon state agencies, HECC is restricted to exercising only the
+powers, duties, and functions that have explicitly been granted to it by law. HECC’s authorities may be found
+throughout ORS 350.075, the final section of which reads:
+(8) (a) The Higher Education Coordinating Commission may exercise only powers, duties and
+functions expressly granted by the Legislative Assembly. Except as otherwise expressly
+provided by law, all other authorities reside at the institutional level with the respective
+boards of the post-secondary institutions.
+(b)   The commission has implied and direct authority to implement the powers, duties and
+functions expressly granted to the commission by the Legislative Assembly.
+(c)   Notwithstanding paragraph (b) of this subsection, the commission may not exercise any
+authority, express or implied, statutorily provided to a governing board of a public
+university listed in ORS 352.002 or a community college operated under ORS chapter
+341.
+This statute has been interpreted by both the Oregon Department of Justice and Oregon’s seventeen community
+colleges to limit our agency’s primary role to that of a coordinating commission.  As such, no matter how much
+the HECC supports the Secretary of State’s recommendations to improve community college outcomes and
+sustainability, implementing the recommendations is at present a shared responsibility of the HECC, local
+community college boards, community college staff, accrediting institutions, and the Oregon Student Success
+Center.
+In addition, the HECC possesses neither the dedicated staff nor the financial resources to implement the
+recommendations alone. To implement the more robust system of supports recommended in this audit would
+likely require expanding the HECC’s authority, either by adding to its enumerated authorities, amending or
+repealing the limiting language in ORS 350.075 (8), or both. Additionally, implementing this more robust
+system would likely require expanding HECC’s capacity. As the audit notes, for example, the State of
+Washington’s governing board for community colleges employs 239 staff, whereas Oregon employs just 20
+staff focused on community college programs. Washington has five policy research analysts and a 13-member
+data services team, whereas Oregon has approximately 1.25 FTE dedicated to community college data and
+reporting.
+Below is HECC’s detailed response to each recommendation in the audit.
+RECOMMENDATION 2a
+Publish student success metrics by college and statewide in an easily analyzable form, such as
+downloadable spreadsheets or online dashboards. Starting with metrics currently collected, include
+completion and transfer rates and rates for early student progress indicators. Report results by
+race/ethnicity and other available demographics.
+Agree or Disagree with
+Recommendation Target date to complete implementation activities Point of
+Contact
+HECC management agrees
+with this recommendation. We
+note that HECC already
+provides much of this
+information through its annual
+Statewide Higher Education
+Snapshot reports. Raw data is
+also available in an online,
+searchable format through the
+HECC Datamart if researchers
+Much of the information requested in Item 2(a) has
+been available to the public and to policymakers for
+the last five years. HECC reports data on enrollment,
+affordability, and other outcomes for resident Oregon
+learners in aggregate, by institution type (university
+and community college), and by individual institution.
+It is further broken down by race and ethnicity to
+highlight additional systemic barriers that are
+experienced by underrepresented populations.
+Amy Cox,
+Director of
+Office of
+Research and
+Data
+503-569-2249
+wish to explore different
+research questions.
+In 2023, HECC will explore
+the potential for reporting
+additional early indicators of
+student success. We will also
+post the data online in
+spreadsheet form.
+The HECC’s State Higher Education’s Snapshot
+reports provide this information in a user-friendly
+manner, and the HECC’s DataMart provides raw data
+in an online, searchable format. In 2023, we will also
+post this information online in spreadsheet form.
+We will explore what it would take to provide
+information on additional early indicators of student
+success beyond the retention data we already report. If
+this information is available, we will endeavor to
+include it in our legislative presentations, including our
+Ways and Means presentation in the spring of 2023,
+and to make it available on the HECC website by the
+summer of 2023 (see this commitment also in 2b and
+2c).
+Narrative for Recommendation 2a
+HECC has provided much of the information noted in this recommendation for the last five years in its annual
+Statewide Higher Education Snapshots, and the raw data is available to partners in an online, searchable format
+through the HECC DataMart.
+While we will continue to explore opportunities to build on published, static reports, we do not currently have
+the financial or staff resources available to create interactive dashboards for use by the community colleges or
+other researchers. We could envision this goal being built into future phases of HECC’s ongoing IT
+Modernization project, but the project is currently not scoped to include this activity. As such, we do not believe
+it is feasible to make substantial progress toward this part of the recommendation unless the agency receives
+additional resources to support the recommendation.
+RECOMMENDATION 2b
+Work with the colleges to establish agreed-upon core student success metrics, both early indicators and
+outcomes, and a consistent method for calculating them. Use them to report to the public and Legislature on
+college and statewide performance, identify successful programs, and evaluate strategic initiatives, including
+initiatives led by the Oregon Student Success Center.
+Agree or Disagree with
+Recommendation
+Target date to complete implementation
+activities Point of Contact
+HECC management partially agrees with
+this recommendation.
+With respect to outcomes metrics, the
+HECC already publishes and provides to
+the colleges agreed-upon measures.
+These both include and build on
+measures of the Voluntary Framework of
+Accountability (VFA) that the colleges
+and HECC to use starting in 2015. As a
+result of that collaboration, HECC
+compiles and submits VFA data on the
+colleges’ behalf. While the VFA website
+publishes those results already, the
+HECC could likewise publish college-
+by-college reports that would perhaps
+provide a more useful illustration of the
+data for the Oregon public and decision-
+makers.
+With respect to early indicator metrics,
+HECC regularly reports retention rates
+based on the VFA cohort, and VFA
+reports early indicators for each college.
+HECC agrees that additional reporting
+on additional early indicators could be
+useful for colleges and the State.
+While the HECC could evaluate Oregon
+Student Success Center (OSSC)
+initiatives, we lack the authority to
+compel OSSC to provide HECC its data
+or respond to HECC findings. OSSC
+itself evaluates programmatic outcomes
+at colleges; it would be important to
+distinguish HECC’s evaluation of OSSC
+efforts from OSSC’s own evaluations of
+the institutions.
+The Oregon Student Success Center
+contracts out the types of institutional and
+community college system evaluations that
+are contemplated by this recommendation.
+So, while the data exists, it is not made
+available or discussed publicly, and it is not
+shared with the HECC.
+Absent new statutory language that
+compelled the HECC to either collect or
+report on existing data gathered by the
+OSSC and evaluate their initiatives, we
+believe ORS 350.075(8) provides a
+statutory barrier that will prevent us from
+implementing this portion of the
+recommendation.
+We will explore what it would take to
+provide information on additional early
+indicators of student success beyond those
+we already report and to compare Oregon’s
+results to national results.  If this
+information is available, we will endeavor
+to include it in our legislative presentations,
+including our Ways and Means presentation
+in the spring of 2023, and to make it
+available on the HECC website by the
+summer of 2023 (see this commitment also
+in 2a and 2c).
+Amy Cox, Director
+of Office of
+Research and Data
+503-569-2249
+Narrative for Recommendation 2b
+While there is no nationally agreed-upon industry standard for student success metrics for community colleges,
+Oregon worked with partners seven years ago to participate in the American Association of Community
+Colleges’ metrics called the Voluntary Framework of Accountability (VFA). The state’s current list of Key
+Performance Measures and other metrics that guide community college data collection and reporting work are
+based on these measures. While we are willing to reconvene the group to build upon the already agreed-upon list
+of success measures, we believe we would need enabling legislation to be the reporting authority for Student
+Success Center activities.
+RECOMMENDATION 2c
+Benchmark statewide outcomes and early indicators against national results on HECC's website and in
+reports to the Legislature. Develop Key Performance Measures for early indicators.
+Agree or Disagree with Recommendation Target date to complete
+implementation activities Point of Contact
+HECC management partially agrees with this
+recommendation. We agree that early indicators of
+student success are useful, and we report retention
+rates for credential-seeking students annually. We
+also agree that expanded benchmarking and
+reporting on early indicators of student success
+would provide colleges with information they
+could use to support student success further.
+HECC Management disagrees with the
+recommendation to incorporate these measures
+into the agency’s legislatively-adopted Key
+Performance Measures (KPMs). HECC already
+has 45% more KPMs than the Oregon Department
+of Education (ODE), a much larger organization
+running more statewide programs. Moreover, early
+and intermediate indicators are less appropriate for
+KPMs than measures of completion. We also note
+there is no nationally accepted standard for early
+indicators of student success in community
+colleges.
+The Legislative Fiscal Office and the Budget and
+Management Division of the Department of
+Administrative Services recommend KPMs be few
+in number, identify performance targets to be
+achieved during a two-year budget cycle, address
+comparable information, and use standard
+terminology and definitions.
+We will explore what it would
+take to provide information on
+additional early indicators of
+student success beyond those we
+already report and to compare
+Oregon’s results to national
+results.  If this information is
+available, we will endeavor to
+include it in our legislative
+presentations, including our
+Ways and Means presentation in
+the spring of 2023, and to make it
+available on the HECC website
+by the summer of 2023 (see this
+commitment also in 2a and 2b).
+In 2023, HECC will work to
+publish 2- and 6-year completion
+rates (as reported through VFA)
+alongside national benchmarks.
+HECC does not support creating
+new legislatively-adopted KPMs
+to measure early or intermediate
+markers.
+Amy Cox,
+Director of Office
+of Research and
+Data
+503-569-2249
+Narrative for Recommendation 2c
+The HECC reports retention rates of credential-seeking students publicly in its Statewide Higher Education
+Snapshots and other reports. While there are other measures of student progress, the industry has not landed on
+specific early indicators of success for community college students. If we can access the data locally and
+nationally, we agree we should include it in our Ways and Means presentation in the spring of 2023 and make it
+available to students and the public by the summer of 2023.
+RECOMMENDATION 2d
+Consolidate statewide data collection. Reduce duplicative requests and collection of unused data. Clarify
+data definitions. Assist the Legislature with matching data requests to existing data whenever possible.
+Align efforts with college accreditation requirements.
+Agree or Disagree with Recommendation Target date to complete
+implementation activities Point of Contact
+HECC management partially agrees with this
+recommendation. While we understand community
+colleges have limited staff and they often feel like
+they receive duplicative requests, we believe this is
+largely from requests originating from multiple
+sources outside of HECC, such as the Oregon
+Student Success Center, accreditation agencies, and
+other researchers. We have no control over other
+organizations and cannot impact or consolidate
+requests they choose to make.
+HECC can commit to streamlining our data
+collection requests and already limit the data we
+collect by performing periodic data maintenance.
+Without additional staff, however, current reporting
+will need to be paused to complete this work.
+Though not the main source of data submissions for
+the colleges, we do expect to begin significant work
+on data definitions as we begin to implement
+HECC’s new IT Modernization project.  We will
+solicit input from the colleges on these definitions as
+we determine what data we need to continue to
+collect from community colleges related to financial
+aid and the Eligible Training Provider List. And, we
+will continue to make the Legislature, as well as
+other partners, aware of available data whenever we
+have the opportunity to do so.
+HECC will continue to
+evaluate our data requests on
+an ongoing basis and will
+eliminate any redundant or
+duplicative requests as they
+are discovered.
+We will seek input from
+community colleges as we
+begin to create common data
+definitions for the HECC
+modernization project so that
+it can capture data required for
+statewide reporting.  We
+anticipate this will begin
+occurring during the summer
+and fall of 2023.
+Amy Cox,
+Director of Office
+of Research and
+Data
+503-569-2249
+Narrative for Recommendation 2d
+HECC will gladly join any collaborative efforts to streamline data collection and reporting practices. And, we
+can commit to monitoring our requests to ensure that all parts of our requests are necessary. We will share
+information we have about available data that can answer questions for the Legislature, the public, and our
+stakeholders. However, we have no ability to influence the practices or requests originating from either
+accreditation agencies or Oregon Student Success Center.
+RECOMMENDATION 2e
+Analyze staffing needs at HECC and community colleges and request staff needed to support in-depth
+research, analysis, and public reporting.
+Agree or Disagree with
+Recommendation
+Target date to complete implementation
+activities Point of Contact
+HECC management agrees.  HECC
+has submitted a 2023-25 Policy
+Option Package entitled
+Comprehensive Data and
+Reporting to build research and
+data capacity for the HECC. This
+package was scoped to provide
+state-level staff to perform ongoing
+reporting needs. The investment is
+not dedicated to community
+colleges, but would have a positive
+impact on measuring affordability,
+equity goals, and increasing access
+to interactive data.
+While we support the
+recommendation for the
+Legislature to make additional
+investment in the staffing levels at
+community colleges, HECC does
+not have the authority to dedicate
+where additional investment should
+or will be spent.
+HECC allocates state funding to
+the community colleges, but
+colleges have the sole authority to
+determine the number and types of
+staff they employ with those funds.
+The Research and Data Policy Option Package
+was submitted with the 2023-
+25 HECC budget.
+It specifically requests six research positions
+and proposes:
+A. A legislative mandate for reporting
+complete data on all learners from all
+postsecondary educational institutions
+and training programs with staff to
+manage new collections. This policy
+would require comprehensive, student-
+level data on all learners at all
+postsecondary institutions and
+programs.
+B. Resources to assess the college
+affordability crisis, evaluate progress
+toward equity, and assess workforce
+training programs in concert with
+Future Ready Oregon and educational
+reporting.
+C. Resources to provide parallel data
+across all postsecondary sectors in a
+publicly searchable way. This
+component would standardize
+measures across the span of
+postsecondary education and training
+programs and data collections and
+provide publicly accessible,
+transparent data in a timely and
+dynamic format not possible in
+existing static reports.
+Amy Cox,
+Director of Office
+of Research and
+Data
+503-569-2249
+If funded, we will begin the work of hiring
+staff and contracting for system supports in
+the Summer of 2023.
+Narrative for Recommendation 2e
+We strongly agree that HECC and Oregon’s community colleges would benefit from a significant increase in
+funding to support comprehensive data collection and analysis. Most research and data positions are established
+within specific programs and are responsible for specific reporting requirements. HECC struggles to meet the
+existing expectations of the Legislature and other stakeholders, but would welcome the opportunity to do more
+proactive work that directly benefits Oregon colleges and their students.
+RECOMMENDATION 3
+If performance-based funding is adopted, develop a detailed plan to maximize and track systemic benefits and
+minimize and track potential negative results. If performance funding is not pursued, substantially increase
+strategic funds to improve student success and equity and publicly track results of those efforts.
+Agree or Disagree with Recommendation Target date to complete
+implementation activities Point of Contact
+HECC management partially agrees. If the HECC decides
+to include outcome (or performance) metrics within its
+formula for allocating state funding to community
+colleges, it will make every effort to maximize benefits
+and minimize negative results. We will track the results
+and report to the Commission on both intended and
+unintended consequences of the decision.  If there are any
+unintended consequences, we will bring those back to the
+Commission for discussion and potential corrective
+actions.
+We do not anticipate increasing the size of the strategic
+fund without consultation with the colleges. Allocating a
+larger share of the Community College Support Fund to
+the strategic fund would not increase overall funding;
+instead, it could have a hydraulic effect by reducing
+funding for basic operational needs, thus potentially
+affecting sustainability goals for both the system and for
+individual colleges alike.
+The Community College
+Support Fund Review
+Workgroup will make
+recommendations to
+HECC staff who are on
+track to present their
+recommendations on
+formula changes and
+potential performance-
+based funding by the
+Commission’s February
+2023 meeting.
+If approved by the
+Commission, an amended
+formula will be used to
+determine the quarterly
+distribution amounts
+beginning in July 2023.
+In Spring, 2023 HECC
+staff will consult with
+community college
+leadership about the size
+Jim Pinkard,
+Director of
+Postsecondary
+Capitol and
+Finance (503) 559-
+9075
+of the strategic fund for
+2023-24.
+Narrative for Recommendation 3
+HECC staff is working closely with a workgroup that has been charged with making recommendations about
+potential changes in the formula that determines the distribution of the Community College Support Fund. The
+workgroup is meeting regularly to analyze other state’s performance funding models and to determine what
+specific goals or activities Oregon would like to incentive. The HECC has identified policy principles for this
+work; the workgroup has identified additional principles for the implementation of any formula changes. HECC
+staff will make recommendations to the Commission on potential formula changes, currently scheduled for the
+February 2023 meeting.
+The HECC’s policy principles for the distribution formula include that it should:
+1. Align with state goals and priorities.
+2. Hold true to the broad mission of community colleges, including access, completion and workforce
+development.
+3. Reflect the diversity across colleges, including region, missions, and student bodies.
+4. Incent and support institutions to invest in student success and evidence-based practices.
+5. Prioritize equitable student access and success by factoring in differential needs and costs among
+student groups.
+The workgroup recommends that implementation principles for the distribution formula include that it should:
+1. Be stable and predictable.
+2. Provide sufficient core funding to support operations and maintenance for all colleges.
+3. Be simple to understand and easy to explain to a diverse group of state, campus, and community
+stakeholders.
+4. Use data that are valid, reliable and consistently available.
+5. Be phased-in to allow institutions to respond/avoid unintended consequences.
+6. Be reviewed regularly (at least every 3 years) to strengthen the model and address any unintended
+consequences.
+We are confident this work will result in an approach to distributing state funding that recognizes the diverse
+roles community colleges play in their communities and the state priorities to which they all contribute.
+RECOMMENDATION 4
+Evaluate the sufficiency and effectiveness of statewide and college-specific student support programs and
+academic advising. Include metrics such as funding, academic advisor caseloads, students served by
+program, estimates of eligible students not served, and individual program impacts on student success.
+Report results biennially to the Legislature and public, identifying programs that work, service gaps, and
+sustainable options for closing them. Pursue legislative support or statutory language as needed. Align
+efforts with college accreditation requirements.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities Point of Contact
+HECC management partially agrees
+with this recommendation.  HECC
+does not currently possess
+information about community
+college staffing decisions or models,
+the authority to evaluate wraparound
+support services for programs that
+we do not fund directly, or data on
+student support services. These
+responsibilities fall to the boards
+and staff of locally-governed
+community colleges.
+However, HECC does provide a
+limited amount of direct funding
+and have proposed several Policy
+Option Packages that support these
+types of services and commits to
+evaluating how well these student
+support programs achieve their
+stated goals.
+If the Legislature appropriates
+specific funding to HECC for
+expanding student support services
+at community colleges – such as
+proposed in the HECC’s student
+equity POP or by expanding the
+pandemic-inspired “Strong Start”
+program that began last biennium at
+the universities -- we will develop
+evaluation and reporting criteria and
+include it in the contract language in
+the summer of 2023. We will
+include information on the
+effectiveness of these program in
+program reports.  If these programs
+demonstrate the positive results we
+expect, we will use the data reported
+to HECC to determine whether we
+pursue new support programs in
+future biennia.
+Donna Lewelling, Director of
+the Office of Community
+Colleges and Workforce
+Development
+(503) 559-4340
+Narrative for Recommendation 4
+HECC will commit to evaluating the effectiveness of student-centered wraparound services that we fund for
+community colleges in the future. If the results are positive, we will use the data to guide our policy decisions
+about requiring and/or supporting these support services in the future.
+RECOMMENDATION 5
+Continue working with the Governor and Legislature to improve Oregon’s financial aid efforts, including
+addressing inequitable distribution and gaps for part-time and older students.
+Agree or Disagree with Recommendation Target date to complete
+implementation activities
+Point of
+Contact
+HECC management agrees. HECC will
+continue to promote financial aid solutions that
+benefit students with the highest need. We will
+build on the positive changes we made to the
+Oregon Opportunity Grant last biennium and
+HECC submitted multiple Policy Option
+Packages designed to close the
+affordability gap for the state’s neediest
+students in August 2022.
+Juan Baez-
+Arevelo,
+Director of
+Oregon Student
+continue to advocate for permanent solutions
+that make education and training more
+affordable.
+Our Commission’s two highest priorities
+when we submitted the HECC’s Agency
+Request Budget were Policy Option Package
+101, Oregon Tribal School Grant, and Policy
+Option Package 102, Oregon Opportunity
+Grant/Oregon Promise Grant Expansion
+Package.
+POP 101 seeks to continue a program that
+was established in 2022 that pays all college-
+related expenses—including tuition, housing,
+books, and other costs not covered by other
+grants—for eligible students who are
+enrolled members of Oregon’s nine federally
+recognized tribes.  This program will correct
+disparities caused by systemic barriers to
+access postsecondary education for Oregon’s
+tribal students.
+POP 102 increases state financial aid support
+to Oregon Opportunity Grant and Oregon
+Promise students, provides tiered awards
+based on level of need, and removes barriers
+to nontraditional learners. This request would
+make significant gains in closing the
+affordability gap for most Oregonian and
+tiered awards would differentiate according
+to need for state assistance.
+They included:
+101:  Oregon Tribal School Grant
+102:  Oregon Opportunity Grant/Oregon
+Promise Expansion
+103:  ASPIRE/FAFSA
+104:  Grants to Students for Child Care
+105:  Oregon National Guard Student
+Tuition
+Assistance
+201:  Student Equity
+202:  Open Educational Resources
+302:  Early Learning Educator Grants
+304:   AmeriCorps Education Incentives
+406:   Future Ready Oregon
+The various packages support a number
+of historically underserved Oregonians,
+including low-income students, student
+parents, veterans, AmeriCorps
+volunteers, and students of color.
+HECC staff will spend the next six to
+eight months advocating for the passage
+of any and all POPs that are included in
+the Governor’s recommended budget
+and will implement program changes
+when they are approved by the
+Legislature.
+Access and
+Completion
+(503) 508-3978
+Narrative for Recommendation 5
+Closing the affordability gap, especially for underrepresented and non-traditional students, is one of HECC’s
+highest priorities. We know these policy decisions would make a huge difference for students; however, they
+require ongoing investments by Oregon legislators, which can be difficult to sustain when resources are scarce.
+HECC uses data, as well as student testimonials, to make sure that we convey the various ways the state benefits
+when we invest in postsecondary education.
+RECOMMENDATION 6
+Biennially analyze and report to the public and Legislature on community college sustainability
+systemwide and by college – including financial status, expense and tuition growth, enrollment trends and
+forecasts, and the status of shared services and other steps colleges are taking to improve sustainability.
+Identify best practices and funding needed to reach state goals. Pursue legislative support or statutory
+language as needed. Align efforts with college accreditation requirements.
+Agree or Disagree with Recommendation
+Target date to
+complete
+implementation
+activities
+Point of Contact
+HECC management partially agrees.
+Every two years, HECC’s staff spends a large
+part of its Ways and Means presentation
+reporting trends in student tuition and fees,
+level of state investment, costs borne by
+students and their families, trends in operating
+costs, and describing various policies that could
+help to bridge the affordability gap. In addition,
+we make recommendations on the level of
+operating support funds required to maintain the
+current level of service at community colleges.
+We do not specifically address the fiscal health
+or financial sustainability of individual
+community colleges because under current law
+that is primarily the responsibility of the local
+boards.  We provide this information for public
+universities, but only as a result of a budget
+note that directed us to report the information to
+the Legislature.
+If the Legislature determines that HECC should
+undertake college-specific financial reporting
+and analysis, we would welcome this additional
+responsibility.
+If the Legislature
+enacted a law that
+directed the HECC to
+provide a report on
+financial sustainability
+or to broker shared
+services for the
+community college
+system, HECC would
+comply with the
+directive.  Until then,
+we believe we lack the
+authority to secure the
+information and we
+would be encroaching
+on the responsibilities
+specifically given to
+colleges’ local boards.
+Should the Legislature
+choose to enact such a
+law, HECC would
+require additional staff
+to conduct the in-depth
+analysis and
+corresponding
+coordination activities.
+Donna Lewelling, Director of
+the Office of Community
+Colleges and Workforce
+Development
+(503) 559-4340
+Narrative for Recommendation 6
+HECC management would be pleased to provide information on the community colleges’ fiscal health and
+financial stability if the Legislature directed us to provide that information. Until then, we must respect the fact
+that local boards are responsible for tracking and making decisions that support colleges’ financial
+sustainability.
+Historically, HECC has offered to broker shared services that could benefit community college students. It has
+proven difficult to make these opportunities attractive enough for the colleges to spend the time and effort
+necessary to collaborate on shared systems. In 2020, we offered $2 million to any higher education institution
+that wanted to take the lead in developing a shared on-line course curriculum. We solicited interest twice and no
+institution stepped forward to participate. We ultimately had to fail the solicitations and recruit rural community
+colleges to lead the effort. However, it has not resulted in the statewide online course curriculum that we had
+hoped to create through the opportunity.
+HECC does not have the legal authority to compel colleges to participate in shared systems. We must rely on
+our persuasive abilities to convince colleges that they will receive a benefit that is robust enough to outweigh the
+perceived cost of participation and the potential loss of control of the service. At times, this is challenging to
+achieve given the HECC’s limited statutory authority.
+Please contact Ramona Rodamaker, Deputy Executive Director at (971) 301-1708 with any questions.
+Sincerely,
+Ben Cannon
+Executive Director
+This report is intended to promote the best possible
+management of public resources.
+Copies may be obtained from:
+Oregon Audits Division
+255 Capitol St NE, Suite 180
+Salem OR 97310
+(503) 986-2255
+audits.sos@oregon.gov
+sos.oregon.gov/audits

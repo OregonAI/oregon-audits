@@ -1,0 +1,523 @@
+Enterprise Fund of the State of Oregon
+Department of Energy
+Small Scale Energy Loan Program
+Financial Statements
+(Together with Independent Auditors Report)
+Year Ended June 30, 2025
+Janine Benner
+Director
+TABLE OF CONTENTS
+Page
+INTRODUCTORY SECTION
+Letter of Transmittal……………………………………………………………………………………..3
+FINANCIAL SECTION
+Independent Auditor’s Report .............................................................................. 6
+Financial Statements
+Statement of Net Position—June 30, 2025  .................................................. 9
+Statement of Revenues, Expenses and
+Changes in Fund Net Position—
+For the Fiscal Year Ended June 30, 2025  ...................................................... 10
+Statement of Cash Flows—
+For the Fiscal Year Ended June 30, 2025  ...................................................... 11
+Notes to the Financial Statements ................................................................ 13
+OTHER REPORTS
+Report on Internal Control over Financial Reporting and on
+Compliance and Other Matters………………………………………………………………………..26
+INTRODUCTORY SECTION
+THIS PAGE INTENTIONALLY LEFT BLANK
+FINANCIAL SECTION
+THIS PAGE INTENTIONALLY LEFT BLANK
+ASSETS
+Current Assets:
+Cash and Cash Equivalents 6,680,019$
+Cash and Cash Equivalents--Restricted 1,448,488
+Securities Lending Collateral 21,156
+Loans Receivable (Net) 9,549,352
+Loan Interest Receivable 153,862
+Total Current Assets 17,852,877
+Noncurrent Assets:
+Cash and Cash Equivalents--Restricted 1,687,766
+Loans Receivable (Net) 50,017,173
+Net OPEB Asset 882
+Total Noncurrent Assets 51,705,821
+Total Assets 69,558,698$
+DEFERRED OUTFLOWS OF RESOURCES
+Bond Refunding 627,332$
+Related to OPEB 168
+Related to Pensions 32,714
+Total Deferred Outflows of Resources 660,214$
+LIABILITIES
+Current Liabilities:
+Accounts Payable 3,327$
+Bond Interest Payable 555,988
+Compensated Absences Payable 16,023
+Unearned Revenue 15,557
+Obligations under Securities Lending 21,156
+Pension-Related Debt 7,100
+Bonds Payable 10,550,000
+Total Current Liabilities 11,169,151
+Noncurrent Liabilities:
+Compensated Absences Payable 37,387
+Borrower Deposit Liability 1,687,766
+Other Postemployment Benefits Obligation (Total Liability) 1,199
+Pension-Related Debt 11,595
+Net Pension Liability 82,902
+Bonds Payable 53,935,574
+Total Noncurrent Liabilities 55,756,424
+Total  Liabilities 66,925,575$
+DEFERRED INFLOWS OF RESOURCES
+Bond Refunding 131,476$
+Related to OPEB 704
+Related to Pensions 6,990
+Total Deferred Inflows of Resources 139,170$
+NET POSITION (DEFICIT)
+Restricted for Debt Service 1,448,488$
+Unrestricted 1,705,679
+TOTAL NET POSITION 3,154,167$
+The accompanying notes are an integral part of these financial statements
+June 30, 2025
+STATE OF OREGON
+DEPARTMENT OF ENERGY
+SMALL SCALE ENERGY LOAN PROGRAM
+ENTERPRISE FUND
+STATEMENT OF NET POSITION
+OPERATING REVENUES
+Interest on Loans 2,833,191$
+TOTAL OPERATING REVENUES 2,833,191
+OPERATING EXPENSES
+Bond Interest 1,869,332
+Bond Expenses 8,145
+Salaries and Other Personal Services 226,681
+Services and Supplies 99,802
+TOTAL OPERATING EXPENSES 2,203,960
+OPERATING INCOME (LOSS) 629,231
+NONOPERATING REVENUES (EXPENSES)
+Interest on Cash Balances 417,188
+Interest Expense-Pension Related Debt (89)
+CHANGE IN NET POSITION 1,046,330
+NET POSITION - BEGINNING 2,119,141
+Restatement of beginning net position due to GASB 101 (11,304)
+Net Position as Restated 2,107,837
+NET POSITION (DEFICIT) - ENDING 3,154,167$
+The accompanying notes are an integral part of these financial statements
+FOR THE FISCAL YEAR ENDED JUNE 30, 2025
+STATE OF OREGON
+DEPARTMENT OF ENERGY
+SMALL SCALE ENERGY LOAN PROGRAM
+STATEMENT OF REVENUES, EXPENSES AND CHANGES IN FUND NET POSITION
+ENTERPRISE FUND
+CASH FLOWS FROM OPERATING ACTIVITIES
+Cash Credited to Borrowers Deposit Liability (697,337)$
+Cash Disbursed from Borrowers Deposit Liability (2,265)
+Cash Paid to Vendors for Goods and Services (95,812)
+Payments to Employees for Services (166,559)
+NET CASH PROVIDED (USED) BY OPERATING ACTIVITIES (961,973)
+CASH FLOWS FROM NONCAPITAL FINANCING ACTIVITIES
+Principal Paid on Bonds (10,150,000)
+Interest Paid on Bonds (2,384,476)
+Bond Issue Costs Paid (8,145)
+NET CASH PROVIDED (USED) BY NONCAPITAL FINANCING ACTIVITIES (12,542,622)
+CASH FLOWS FROM INVESTING ACTIVITIES
+Interest Received on Cash Balances 416,525
+Loan Principal Repayments 12,726,994
+Loan Interest Received 2,814,765
+NET CASH PROVIDED BY INVESTING ACTIVITIES 15,958,285
+NET INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS 2,453,690
+CASH AND CASH EQUIVALENTS - BEGINNING 7,362,583
+CASH AND CASH EQUIVALENTS - ENDING 9,816,273$
+Cash and Cash Equivalents 6,680,019
+Cash and Cash Equivalents--Restricted 3,136,254
+TOTAL CASH AND CASH EQUIVALENTS 9,816,273$
+The accompanying notes are an integral part of these financial statements
+Continued on next page…
+STATE OF OREGON
+DEPARTMENT OF ENERGY
+SMALL SCALE ENERGY LOAN PROGRAM
+STATEMENT OF CASH FLOWS
+FOR THE FISCAL YEAR ENDED JUNE 30, 2025
+ENTERPRISE FUND
+RECONCILIATION OF OPERATING INCOME (LOSS) TO NET
+CASH PROVIDED BY OPERATING ACTIVITIES
+OPERATING INCOME (LOSS) 629,231$
+Adjustments to Reconcile Operating Income (Loss) to Net
+Cash Provided (Used) by Operating Activities:
+Interest Receipts Reported as Operating Revenue (2,814,765)
+Amortization of Bond Premium and Discount (663,553)
+Bond Interest Expense Reported as Operating Expense 2,384,476
+Bond Issuance Costs Reported as Operating Expense 8,145
+Pension-Related Debt Interest Reported as Operating Epense (90)
+Acccounting Principal Change-Compensated Absences GASB 101 (11,304)
+(Increase)/Decrease in Assets:
+Loan Interest Receivable 31,260
+Securities Lending Collateral (9,606)
+Net OPEB Asset (126)
+Increase/(Decrease) in Liabilities:
+Accounts Payable 3,327
+Bond Interest Payable (99,776)
+Compensated Absences Payable 22,169
+Unearned Revenue (49,685)
+Borrower Deposits (699,603)
+Pension-Related Debt (13,491)
+Other Postemployment Benefits Obligation (Total Liability) (147)
+Net Pension Liability 78,088
+Obligations under Security Lending 9,606
+(Increase)/Decrease in Deferred Outflows of Resources
+Loss on Refunding 271,472
+Related to OPEB (121)
+Related to Pensions (21,193)
+Increase/(Decrease) in Deferred Inflows of Resources
+Gain on Refunding (22,624)
+Related to OPEB (271)
+Related to Pensions 6,609
+TOTAL ADJUSTMENTS (1,591,203)
+NET CASH PROVIDED (USED) BY OPERATIONS (961,973)$
+The accompanying notes are an integral part of these financial statements
+FOR THE FISCAL YEAR ENDED JUNE 30, 2025
+STATE OF OREGON
+DEPARTMENT  OF ENERGY
+SMALL SCALE ENERGY LOAN PROGRAM
+ENTERPRISE FUND
+STATEMENT OF CASH FLOWS (continued)
+STATE OF OREGON
+DEPARTMENT of ENERGY
+SMALL SCALE ENERGY LOAN PROGRAM
+ENTERPRISE FUND
+Notes to the Financial Statements
+JUNE 30, 2025
+NOTE 1.  SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+The accompanying financial statements of the Oregon Department of Energy Small Scale Energy Loan
+Program (SELP) have been prepared in conformity with Generally Accepted Accounting Principles (GAAP)
+as prescribed by the Governmental Accounting Standards Board (GASB).
+A. Reporting Entity
+The Small Scale Energy Loan Program (SELP) was created through the adoption of Oregon
+Constitution Article XI-J by statewide vote in May 1980 and is implemented under the provisions of
+Oregon Revised Statutes Chapter 470.  Article XI -J authorizes the sale of State General Obligation
+Bonds to finance fixed -rate, secured loans for the development of energy conservation, renewable
+energy and recycling projects within Oregon.  SELP was designed as a self -supporting loan program
+that is part of the State of Oregon and the Department of Energy (Department).
+The 20 25 financial statements and footnotes include only the financial activity of the funds
+associated with the Small Scale Local Energy Loan Program.
+B. Basis of Presentation
+The accounts of the Department are organized on the basis of funds, each of which is a separate
+accounting entity.  The funds utilize a separate set of self -balancing accounts to record the assets,
+liabilities, net position, revenues, and expenses of their  program activities.  SELP is classified as a
+proprietary fund.  Proprietary funds contain two types of funds:  Enterprise Funds and Internal
+Service Funds.  SELP is accounted for as an Enterprise Fund.  Enterprise funds are used for operations
+that are financed and operated in a manner similar to private business enterprises, where the costs
+of providing goods and services to the general public on a continuing basis is intended to be financed
+or recovered primarily through user charges. Enterprise fund reporting focuses on the determination
+of operating income, changes in net position, financial position and cash flows.
+C. Measurement Focus and Basis of Accounting
+The accounting and financial reporting treatment applied to a fund is determined by its
+measurement focus.  Enterprise funds are accounted for using the flow of economic resources
+measurement focus and are maintained on the accrual basis of accounting. Und er the accrual basis
+of accounting, revenues are recognized when earned and expenses are recognized when the
+liabilities are incurred.  All assets, deferred outflows of resources, liabilities and deferred inflows of
+resources associated with the operations  of these funds are included on the Statement of Net
+Position.  Total net position is segregated into the categories of Restricted Net Position, and
+Unrestricted Net Position.  The Statement of Revenues, Expenses and Changes i n Fund Net Position
+presents increases (e.g., revenues) and  decreases (e.g., expenses) in total net position.  The
+Statement of Cash Flows provides information about how SELP finances and meets the cash flow
+needs of its proprietary activities.
+D. Budgetary Process
+The Oregon Legislature approves budgets for a biennial period.  Operating expenses are subject to
+budget limitation and bond related expenses are subject to administrative limitation.  The Emergency
+Board of the Legislature approves any increase in the bud get that may be necessary during the
+interim.  Both types of limitation are funded from revenues of self-supporting activities and lapse at
+the end of the biennium. Budgets are adopted on a basis that differs from generally accepted
+accounting principles a nd financial reporting standards.  For budgetary purposes, transactions
+related to the treatment of bond proceeds, loan disbursements and other operating revenues and
+expenditures are recorded on a cash basis and converted to the accrual basis for financia l reporting
+purposes.
+E. Cash and Cash Equivalents
+Cash and cash equivalents are defined as cash held in the State Treasury and cash on deposit
+outside the State Treasury.  All SELP monies are held in the Oregon Short Term Fund (OSTF -
+demand accounts), a cash and investment pool that is available for use by all funds and local
+governments.  The OSTF pool operates as a demand deposit account and funds held in the OSTF
+are considered cash equivalents.
+F. Restricted Assets
+Restricted cash and cash equivalents are restricted as to purpose and use by Article XI-J of the Oregon
+Constitution, Bond Indenture, and State statute.  SELP’s funds that are restricted pertain to bond
+debt service.  Individual borrower reserve accounts have been established to meet certain loan
+requirements and the balances of th ese accounts as of June 30, 20 25 were sufficient to meet all
+contractual agreements.  Any cash on deposit with a fiscal agent is held on behalf of bondholders
+and is the result of unclaimed monies from matured bonds and coupons.   SELP’s policy for applying
+resources for payment of expense is to first use funds that are restricted to pay bond debt service
+and then use non-restricted resources to pay for program-related expense.
+G. Receivables
+Receivables reported are amounts due that represent revenues earned or accrued in the applicable
+period.  Types of receivables included in this classification relate to interest, loans receivable, and
+other miscellaneous receivables.  Interest receivable o n loans is recorded at the net recoverable
+amount by management policy.  Loans receivable are recorded net of an allowance for uncollectible
+accounts as discussed in note 3.
+H. Compensated Absences
+Employees accrue vacation leave at various accrual rates and may generally be paid for up to a
+maximum of 300 hours accrued vacation leave at termination.  Accumulated vacation leave is
+recorded as an expense and a liability of those funds as the benefits accrue to the employees.  There
+is no liability for unpaid accumulated sick leave since the State does not pa y any amounts when
+employees separate from State service.
+I. Borrower’s Deposit Liability Accounts
+SELP holds reserve investments for certain borrowers in accordance with contractual obligations.  All
+interest earned on these reserve accounts is credited to the borrower’s account when received.
+Funds in the reserve account in excess of contractual requ irements are remitted to the borrowers
+upon request.
+J. Arbitrage Rebate Liability
+Internal Revenue Code Section 148(f) requires issuers of tax -exempt bonds to rebate income from
+the investment of bond proceeds that exceeds limits established for each bond issue.  These limits
+are based on the bond yield calculated for federal tax purpos es for each bond issue and are subject
+to certain exceptions.  Arbitrage rebate payments are due not later than 60 days after the end of the
+fifth anniversary of each bond issue and every five years thereafter in an amount equal to at least 90
+percent of the calculated arbitrage liability.  Final arbitrage rebate payments are due not later than
+60 days after the final retirement of all bonds in an issue in an amount equal to 100 percent of the
+calculated arbitrage liability.  SELP records arbitrage rebate as a reduction of investment revenue.
+K. Operating Revenues and Expenses
+Operating revenues include loan interest and fees on program loans as well as earnings on cash and
+any investments related to SELP’s loan program. Administrative expenses and bond program related
+expenses are considered operating expenses.  Nonoperating revenues and expenses include interest
+earned on cash and pension-related debt interest payments.
+L. Bond Expenses
+Bond issuance costs are expensed when incurred. Gains or losses on bond debt refunding’s are
+deferred and amortized over the shorter of the new debt or the remaining life of the old debt.  Bond
+discounts and premiums are amortized over the life of the bond  based on interest, which closely
+approximates the effective-interest method.
+NOTE 2.  CASH AND CASH EQUIVALENTS
+All SELP deposits are held in demand accounts with the State Treasurer and are classified as cash and
+cash equivalents. The State ’s investment policies are governed by Oregon Revised Statutes and the
+Oregon Investment Council.  The State Treasurer is the investment officer for the Oregon Investment
+Council and is responsible for the funds entrusted to the Oregon State Treasury.  In a ccordance with
+Oregon statutes, the investment funds are invested, and the investments of those funds managed, as
+would a prudent investor, exercising reasonable care, skill and caution.
+The State Treasurer maintains the Oregon Short Term Fund (OSTF), a cash and investment pool that is
+available for use by all funds and local governments.  Investments in the OSTF are further governed by
+portfolio guidelines recommended by the Oregon Short Term Fund Board, with Oregon Investment
+Council approval, establishing diversification percentages and specifying the types and maturities of
+investments.   The OSTF pool operates as a demand deposit account and earnings are allocated on a pro-
+rata basis on daily account balances.  A separate financial report for the OSTF may be obtained from the
+Oregon State Treasury, Finance Division, 867 Hawthorne Ave, Salem, OR 97301 or fro m the Treasury’s
+website at http://www.oregon.gov/treasury/divisions/investment/pages/Oregon-Short-Term-Fund-
+(OSTF).aspx.
+The custodial credit risk for cash deposits is the risk that, in the event of a bank failure, the State’s
+deposits may not be recovered, or the State will not be able to recover collateral securities that are in
+the possession of an outside party.  The Dep artment does not have a formal policy regarding custodial
+credit risk for deposits; however, banking regulations and Oregon law establish the insurance and
+collateral requirements for deposits in the OSTF.  Balances that exceed the Federal Deposit Insuranc e
+(FDIC) amount of $250,000 are covered by a multiple financial institution collateral pool (ORS 295.015)
+administered by the Oregon State Treasury.
+At June 30, 20 25, the book balance of SELP cash and cash equivalents held  by the Treasury was
+$9,816,273.  The unadjus ted bank balance was $ 9,818,913, all of which was held in demand accounts
+with the State Treasurer invested in the OSTF.
+The following table itemizes cash balances by funds at June 30, 2025:
+SELP Sinking Fund
+Principal & Interest                                             $   6,636,657
+Borrower Revenue Loss Reserve                                                  1,687,766
+Bond Debt Services 1,448,488
+Program Admin 43,362
+TOTAL $ 9,816,273
+Securities Lending:   In accordance with State of Oregon investment policies, state agencies may
+participate in securities lending.  SELP is involved in securities lending only with cash balances invested
+in the Oregon Short-Term Fund (OSTF).  As of June 30, 2025, the amount of the fair value of all securities
+on loan from OSTF allocated to SELP’s Enterprise Funds was $526,433.  OSTF securities on loan in total
+included U.S. Agency securities ( 94.77%), and domestic fixed income securities 5.23%).  The amount
+allocated to SELP’s Enterprise Funds of the fair value of all investments purchase with cash collateral
+received for those securities on loan was $21,158.  Additional information about the Oregon Short-Term
+Fund and securities lending can be found in the Oregon Short -Term Fund financial statements at
+www.oregon.gov/treasury/Divisions/Investment/Pages/Oregon-Short-Term-Fund-(OSTF).aspx.
+NOTE 3.  LOANS RECEIVABLE
+The composition of the loans receivable portfolio includes component unit loans.  The loan portfolio
+value and associated statewide concentration of credit risk at June 30, 2025 is as follows:
+Borrower Type  Number of
+Loans
+Balance Outstanding
+Commercial and residential     4  $   5,563,271
+Cities, counties, school and special districts    20        2,692,215
+Discretely presented component units
+(OSU, PSU, OIT, WOU, EOU, SOU & U of O)
+51,311,038
+Total Loans Receivable  47      59,566,524
+Component Unit loans                ( 51,311,038)
+Net credit risk exposure    $    8,255,486
+SELP uses the allowance method to estimate uncollectible loans receivable. The allowance is periodically
+adjusted by management to accommodate changes in economic conditions, non -performing assets,
+historical loss experience, industry practice, risk rating assigned and other conditions that may affect the
+ultimate collectability of the loans . In fiscal year 2025 the allowance account was adjusted to reflect a
+change in collectability for several accounts . SELP management determined that the balance of the
+allowance account was sufficient to  cover projected losses for the loan portfolio based on segmented
+risk category analysis.   The current loss allowance associated with the loan portfolio represents
+approximately 0.0% of the gross loans receivable in 2025.
+The following table details Net Loans Receivable as of June 30, 2025:
+Loans Receivable $ 59,566,524
+Allowance for uncollectible accounts (                    0)
+Net Loans Receivable $  59,566,524
+NOTE 4. BONDS PAYABLE AND DEBT SERVICE
+General Obligation bonds are secured by the full faith and credit of the State. Bond proceeds are loaned
+to individual residents, businesses, nonprofit organizations, state agencies, school districts and local
+governments in Oregon for energy conservation, renewable resource energy, recycling and alternate
+fuels projects.
+The following table provides a summary of bond transactions as presented on the Statement of Net
+Position for the fiscal year ended June 30, 2025:
+Bonds Payable-beginning
+Bonds New
+$   72,860,000
+Bonds matured & refunded     (10,150,000)
+Bonds Payable-ending           62,710,000
+Premium on Bonds Payable      1,775,574
+Net Bonds Payable $ 64,485,574
+The Department of Energy SELP program has defeased certain general obligation bonds by placing the
+proceeds of new debt in an irrevocable trust to provide for all future debt service payments on the old
+debt. Accordingly, the liability for defeased debt is not included in the department’s financial statements.
+On June 30, 2025, no defeased debt is outstanding.
+Debt Service Requirements to Maturity for General Obligation Bonds
+The following table summarizes the amounts necessary to pay all future bonded debt principal and
+interest requirements as of June 30, 20 25, for each of the next five fiscal year s, and in five year
+increments thereafter:
+Years Ending June 30 Bond Principal Bond Interest Total Debt Service
+2026  $   8,055,000 $ 1,788,333 $  9,843,333
+2027 8,260,000 1,431,955 9,691,955
+2028 8,395,000 1,072,333  9,467,333
+2029 8,190,000 756,560 8,946,560
+2030 3,950,000 442,109 4,392,109
+2031-2034 8,390,000 642,514 9,032,514
+TOTALS $ 45,240,000 $ 6,133,804 $ 51,373,804
+The following table summarizes the outstanding bond issues by series as of June 30, 2025:
+SCHEDULE OF DEBT ISSUED AND OUTSTANDING
+General Obligation Bonds
+Original Issue  Bonds Outstanding
+Final Coupon Interest Range  Beginning   Ending Due Within
+Series Issue Date Maturity From To Amount  Balance Increases Decreases Balance One Year
+2011B    Mar-11    Jan-32 4.000%     4.750% 22,460,000  1,760,000 - 190,000 1,570,000 195,000
+2012D    Mar-12    Jan-27 2.000%     3.000% 4,435,000  1,125,000 - 360,000 765,000 375,000
+2012E    Mar-12    Jan-34 3.000%     3.250% 4,020,000  2,270,000 - 195,000 2,075,000 200,000
+2012F    Mar-12    Jan-28 0.350%     3.600% 2,520,000  775,000 - 170,000 605,000 195,000
+2012N    Aug-12    Oct-32 2.500%     3.000% 11,910,000   5,420,000 - 620,000 4,800,000 635,000
+2014E    Jun-14    Apr-34 3.750%     5.000% 15,260,000  9,355,000 - 775,000 8,580,000 815,000
+2014F    Jun-14    Oct-29 0.400%     3.900% 2,080,000  945,000 - 145,000 800,000 150,000
+2017E    Feb-17    Apr-31 2.000%     5.000% 48,080,000  28,140,000                          - 4,750,000    23,390,000 4,805,000
+2017F    Feb-17    Apr-29 4.250%     4.750% 16,740,000   3,315,000                         - 660,000  2,655,000           685,000
+Total General Obligation Bonds issued  $   127,505,000  $ 53,105,000 $                          -     $ 7,865,000 $ 45,240,000   $8,055,000
+Debt Service Requirements to Maturity for Direct Borrowed General Obligation Bonds
+The following table summarizes the amounts necessary to pay all future bonded debt principal and
+interest requirements as of June 30, 202 5, for each of the next five fiscal year s, and in five year
+increments thereafter:
+Years Ending June 30 Bond Principal Bond Interest Total Debt Service
+2026  $       2,495,000 $    230,209 $   2,725,209
+2027 1,580,000 195,778 1,775,778
+2028 1,575,000 173,974 1,748,974
+2029 1,620,000 152,239 1,772,239
+2030 4,060,000 129,883 4,189,883
+2031-2032 6,140,000  107,647 6,247,647
+TOTALS $ 17,470,000 $    989,729 $18,459,729
+The following table summarizes the outstanding direct borrowing bond issues by series as of June 30, 2025:
+SCHEDULE OF DIRECT BORROWING OF DEBT ISSUED AND OUTSTANDING
+Direct Borrowed General Obligation Bonds
+Original Issue  Bonds Outstanding
+Final Coupon Interest Range  Beginning   Ending Due Within
+Series Issue Date Maturity From To Amount  Balance Increases Decreases Balance One Year
+2020A    Apr-20    Apr-32 1.190%     1.190% 5,725,000  5,725,000 -      -      5,725,000 -
+2020B    Apr-20    Apr-32 1.380%     1.380% 18,590,000  14,030,000 - 2,285,000 11,745,000 2,495,000
+Total Direct Borrowing General Obligation Bonds issued   $ 24,315,000   $ 19,755,000 $                          -     $     2,285,000 $ 17,470,000   $    2,495,000
+NOTE 5.  CHANGES IN OTHER LONG TERM LIABILITIES
+Long term liability activity for June 30, 2025 is as follows:
+Beginning   Ending Due Within
+Balance    Additions Reductions Balance One Year
+Compensated
+Absences Payable $        31,241 $    22,169   $                - $         53,410 $   16,023
+Borrower’s Deposit
+Liability  2,387,369 102,425 802,028 1,687,766 -
+OPEB Total Liability 1,346 - 147 1,199 -
+Pension Related Debt 32,187 - 13,492 18,695 7,100
+Net Pension Liability        4,815 78,087 -          82,902              -
+TOTALS
+$  2,456,958
+$  202,681
+$      815,667
+$  1,843,972
+$  23,123
+NOTE 6.  EMPLOYEE RETIREMENT PLANS
+The Oregon Public Employees Retirement System (PERS) provides defined benefit and defined
+contribution retirement plans for SELP employees .  PERS is administered by the Public Employees
+Retirement Board (Board), as required by Oregon Revised Statutes (ORS), Chapters 238 and 238A.
+PERS is a cost -sharing multiple -employer defined benefit pension plan. The Tier One/Tier Two
+Retirement Benefit Plan, established by ORS Chapter 238, is closed to new members hired on or after
+August 29, 2003. The Oregon Public Service Retirement Plan (OPSRP), established by ORS Chapter 238A,
+provides benefits to members hired on or after August 29, 2003. The Individual Account Program (IAP)
+is a defined contribution plan. Beginning January 1, 2004, all member contributions are deposited into
+the member’s I AP account. The pension plans provide pension benefits, death benefits and disability
+benefits.
+PERS issues a separate financial report that includes audited financial statements and required
+supplementary information.  The report is available publicly and may be found at:
+http://www.oregon.gov/pers/Pages/Financials/Actuarial-Financial-information.aspx
+Contributions
+PERS funding policy provides for monthly employer contributions at actuarially determined rates. These
+contributions, expressed as a percentage of covered payroll, are intended to accumulate sufficient assets
+to pay benefits when due.  The rates in effect for the fiscal year ended June 30, 2025, were 21.78 percent
+for Tier One/Tier Two General Service members, 18.28 percent for OPSRP Pension Program General
+Service members and 6 percent for OPSRP IAP .  The actual contributions equaled the contractually
+required contributions for the fiscal year.
+Pension Liabilities, Pension Expense, and Deferred Outflows of Resources, and Deferred Inflows of
+Resources Related to Pensions
+At June 30, 2025, the State of Oregon and its component units reported a liability of $7.9 billion for its
+proportionate share of the net pension liability. SELP’s allocated amount of the proportionate share of
+the net pension liability was $82,902. The net pension  liability was measured as of June 30, 20 24, and
+the total pension liability used to calculate the net pension liability was determined by an actuarial
+valuation as of December 31, 20 22. The State’s proportion of the net pension liability was based on a
+projection of the State’s long -term share of contributions to the pension plan relative to the projected
+contributions of all participating employers, actuarially determined. At June 30, 20 25, the State’s
+proportion was 27 percent and the component unit was 8.97 percent.   As part of the State of Oregon,
+SELP’s funds were allocated .00037298 percent of the State’s proportionate share in the plan.
+For the year ended June 30, 2025, SELP recognized pension expense of $71,678.  At June 30, 2025, SELP
+reported deferred outflows of resources and deferred inflows of resources related to pensions from the
+following:
+Deferred
+Outflows of
+Resources
+Deferred
+Inflows of
+Resources
+Changes in proportion and differences between contributions and
+proportionate share of contributions $          6,027 $         6,781
+Differences between expected and actual experience               4,911 198
+Changes in Assumptions               8,335 11
+Net difference between projected and actual earnings on investments                5,267 -
+Subtotal 24,540 6,991
+Net Deferred Outflows (Inflows) of Resources before contributions
+subsequent to the measurement date    17,549
+Contributions subsequent to the measurement date               8,175
+Net Deferred Outflows (Inflows) of Resources $     25,724
+NOTE 7.  OTHER POSTEMPLOYMENT BENEFIT PLANS
+SELP employees may be eligible to participate in health insurance plans and other benefit plans after
+retirement, collectively known as Other Postemployment Benefits (OPEB).  Two OPEB plans are offered
+through the Public Employees Retirement System (PERS) and one OPEB plan offered by the Public
+Employees Benefit Board (PEBB). For additional information regarding the State of Oregon’s OPEB plans,
+refer to Note 1 4 of the State of Oregon’s Annual Comprehensive Financial Report for the year ended
+June 30, 2025 at https://www.oregon.gov/das/Financial/Acctng/Pages/pub.aspx.
+As part of the State of Oregon, SELP’s enterprise fund received an allocation of a percentage of the
+State’s OPEB asset and/or OPEB liability and related deferrals of resources as seen on the face of the
+Statement of Net Position.  SELP’s actual employer contributions to PERS for its OPEB plans equaled the
+contractually required contributions for the fiscal year.
+NOTE 8.  RISK FINANCING
+The Department of Administrative Services, Enterprise Goods and Services, Risk Management section (Risk
+Management) administers the State’s property, liability, and workers’ compensation insurance program.
+The Insurance Fund services claims for direct physical loss or damage to State property; tort liability claims
+brought against the State, its officers, employees, or agents; workers’ compensation; and employees for
+dishonesty.  Faithful performance coverage is provided for key positions in state govern ment that are
+required by law to be covered.  Risk Management purchases commercial insurance for specific insurance
+needs not covered by self-funding.  For the State of Oregon, the amount of claim settlements did not exceed
+commercial insurance coverage for each of the past three fiscal years.
+As part of a state agency, SELP participates in the Insurance Fund.  The cost of servicing insurance claims
+and payments is covered by charging an assessment to each State entity based on its share of services
+provided in a prior period.  The total statewide risk charges are based on independent biennial actuarial
+forecasts and administrative expenses, less any available fund balance in the Insurance Fund from the prior
+biennium.
+NOTE 9.  LITIGATION, TROUBLED DEBT RESTRUCTURINGS AND DELINQUENCIES
+During the ordinary course of business, SELP becomes involved in litigation regarding its lending activities.
+The program is represented in these actions by the Attorney General of the State of Oregon.  SELP makes
+every reasonable effort to work with borr owers that experience financial difficulties making payments
+under existing loan agreements.
+As of the end of fiscal year 2025, there is one SELP loan with a principal balance of $4,417 in default. This
+loan has been turned over to the Department of Revenue for collection.  SELP does not anticipate a loan
+loss on this credit.
+There are no SELP loans in forbearance. When in forbearance, SELP agrees not to issue notices of default or
+commence foreclosure litigation to enforce security interests against a borrower. There were no material
+troubled debt restructurings.
+OTHER REPORTS
+THIS PAGE INTENTIONALLY LEFT BLANK

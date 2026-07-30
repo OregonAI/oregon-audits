@@ -1,0 +1,2444 @@
+OREGON. LOT TERYTM
+Together, we do good things.
+Annual Comprehensive Financial Report
+For the Fiscal Year Ended - June 30, 2023
+An Enterprise Fund of the State of Oregon
+Oregon State Lottery
+An Enterprise Fund of the State of Oregon
+Annual Comprehensive Financial Report
+For the Fiscal Year Ended June 30, 2023
+Mike Wells
+Director
+Kathy Ortega, CPA, CGMA
+Chief Financial Officer
+Report Prepared by:
+Finance and Accounting
+Oregon State Lottery
+Karen Caulfield, CPA
+Michael Davidson
+Monique Fawver
+Martha Wildfang
+ANNUAL COMPREHENSIVE FINANCIAL REPORT
+For the Fiscal Year Ended June 30, 2023
+TABLE OF CONTENTS
+Introductory Section
+Letter of Transmittal ........................................................................................................................................ 2
+Organization Chart with Principal Officials ...................................................................................................... 6
+Financial Section
+Independent Auditor’s Report ........................................................................................................................ 8
+Management’s Discussion and Analysis ........................................................................................................ 11
+Basic Financial Statements
+Statement of Net Position ............................................................................................................................. 18
+Statement of Revenues, Expenses, and Changes in Fund Net Position ........................................................ 19
+Statement of Cash Flows ............................................................................................................................... 20
+Notes to the Financial Statements ................................................................................................................ 21
+Required Supplementary Information
+Pension Related Schedules ............................................................................................................................ 44
+Other Post Employment Benefits Schedules ................................................................................................. 45
+Notes to Required Supplementary Information ............................................................................................ 47
+Supplementary Information
+Budgetary Comparison Schedule .................................................................................................................. 50
+Statistical Section
+Index .............................................................................................................................................................. 52
+Net Position by Component .......................................................................................................................... 53
+Changes in Net Position ................................................................................................................................. 54
+Sales by Product ............................................................................................................................................ 56
+Product Percent of Total Sales ...................................................................................................................... 57
+Top Ten Retailers ........................................................................................................................................... 58
+Number of Lottery Retailers and Sales by County ........................................................................................ 59
+Demographic and Economic Data - State of Oregon..................................................................................... 60
+Employment by Industry - State of Oregon ................................................................................................... 61
+Demographic Profile of Oregon Lottery Players............................................................................................ 62
+Number of Employees ................................................................................................................................... 64
+Operating Indicators and Capital Asset Information ..................................................................................... 65
+Other Reports
+Report on Internal Control Over Financial Reporting and Compliance ......................................................... 68
+Introductory Section
+Letter of Transmittal
+November 28, 2023
+To the Honorable Governor Tina Kotek and Citizens of the State of Oregon:
+Lottery is pleased to provide you with the Annual Comprehensive Financial Report of the Oregon State Lottery (Lottery)
+for fiscal year ended June 30, 2023. This report is published to meet the requirement in state law for an annual accounting
+of financial activities.
+Lottery management assumes full responsibility for the completeness and reliability of the information contained in this
+report, based upon a comprehensive framework of internal controls established for this purpose. Because the cost of
+internal controls should not exceed anticipated benefits, the objective is to provide reasonable rather than absolute
+assurance that the financial statements are free of any material misstatements.
+The Secretary of State Audits Division, the constitutional auditor of public accounts in Oregon, audited the Lottery’s
+financial statements for the fiscal year ended June 30, 2023. The auditors used generally accepted auditing standards in
+conducting the engagement. Their unmodified opinion on the financial statements is the first component in the Financial
+Section of this report.
+A narrative analysis of the Lottery’s financial performance for the fiscal year can be found in the Management’s
+Discussion and Analysis (MD&A) immediately following the independent auditor’s report. This letter of transmittal
+complements the MD&A and should be read in conjunction with it.
+Profile of Oregon State Lottery
+The Oregon State Lottery was created through the initiative process in November 1984. Voters approved an amendment
+to the Oregon Constitution that required the establishment and operation of a State Lottery. Initially, Lottery profits were
+earmarked to create jobs and further economic development. In May 1995, voters approved a Constitutional amendment
+allowing Lottery profits to finance public education. Similarly, voters added state parks and salmon habitat restoration
+projects to the list of allowable uses of Lottery proceeds in November 1998. Oregonians have voted to use Lottery profits
+for programs that make Oregon a great place to live and support veterans and outdoor schools.
+The Lottery was established as a state agency to market and sell Lottery products to the public. As directed in statute, it
+operates to produce an optimal amount of net revenues for the people of Oregon commensurate with the public good.
+Developing new products and game enhancements is a continual process to sustain long-term revenues while
+considering the potential impact of game decisions on problem gambling. The Lottery’s commitment is to provide
+information and tools to help customers make informed choices and responsibly enjoy Lottery games. Further, the
+Lottery is committed to ensuring that players and their families know how to access treatment for problem gambling and
+that they understand treatment is free, confidential, and effective.
+Lottery has a network of 3,808 retailers through which it offers players a broad mix of Traditional Games as well as Video
+Lottery℠ and sports betting. Traditional Lottery games include Scratch-its℠ Instant Tickets, Keno, Powerball®, Oregon’s
+Game Megabucks℠, Raffle℠, Win for Life℠, Mega Millions®, Lucky Lines℠, and Pick 4℠. Video Lottery℠ is a product sold
+on stand-alone Video Lottery℠ terminals located in establishments licensed by Oregon Liquor Control Commission (OLCC).
+The Lottery has approximately 10,880 Video Lottery℠ terminals deployed throughout the state.  On January 18, 2022,
+Lottery partnered with DraftKings to run the DraftKings Sportbook platform.
+The Lottery, which is accounted for as a single enterprise fund, is entirely self-financed through its sales. Its operations are
+designed to fulfill its duty to develop, produce, and market Lottery games, pay winners and operating expenses, and remit
+the remaining net profits to the State. These net profits are transferred to the Oregon Economic Development Fund and
+are then distributed by the State to finance the various uses allowed by law. Through its business units, the Lottery provides
+services necessary to operate successfully, including security, marketing, retailer support, finance, management, and
+information services. Additional information about the Lottery is available on its website at http://www.oregonlottery.org.
+The Lottery is operated under the direction of a five-member commission, with the commissioners appointed by the
+Governor and confirmed by the Senate.  The Commission directs the activities of the Lottery, including adopting rules for
+the security and integrity of operations.  The Governor also appoints a director, who serves as the chief administrator of
+the Lottery.  This position is also subject to Senate confirmation.  The Director is responsible for operating the Lottery in
+accordance with state law and administrative rules and under the guidance of the Commission.
+For budgeting purposes, the Commission adopts an annual Financial Plan based on activities identified in Lottery’s
+Strategic Business Plan. The Financial Plan uses revenue forecasts prepared by the Oregon Department of Administrative
+Services, Office of Economic Analysis. Budgeted revenues and direct expenses (prizes, commissions, game vendor
+charges, and tickets) are revised quarterly for changes in budget assumptions and revenue forecasts. The Commission
+must approve revisions to changes to expenses in the adopted budget. The budget is prepared on the accrual basis of
+accounting. Actual expenses are monitored throughout the year for compliance with the approved budget, and
+appropriate adjustments are presented to the Commission for approval if necessary. By law, expenses to operate the
+Lottery are limited to no more than 16 percent of total annual revenues, and in fiscal year 2023, expenses were 2.88
+percent.
+Since the Lottery’s first full year of operation in 1986 through fiscal year 2008, Lottery revenues demonstrated strong
+and consistent growth. Lottery revenues declined in fiscal years 2009 and 2010 due to the impacts of Oregon’s economic
+recession and the implementation of a statewide smoking ban in bars and taverns where Lottery products are sold.
+Revenues stabilized in fiscal year 2011 and have shown steady but modest growth, except for fiscal year 2014, which
+showed a slight decline. Revenue growth returned and continued to increase until the fourth quarter of fiscal year 2020.
+The effects of the COVID-19 pandemic and resulting retailer location closures significantly reduced sales.  Since reopening
+in February 2021, Lottery sales have recovered from pre-pandemic levels.
+Economic Condition and Outlook
+Per the September 2023 Oregon Office of Economic Analysis (OEA) Economic and Revenue Forecast, Oregon's economy
+is stable, with growth surpassing expectations. The slowdown in inflation and a likely soft landing bode well, though
+reacceleration of the economy could reignite inflation. Income gains now overshadow price increases due to reduced
+inflation, enhancing living standards. Growth is expected from labor force expansions, positive migration, and
+productivity spurred by capital investments.
+The Oregon Lottery's outlook remains steady, with a slight uptick in resources for the 2023-25 biennium by $9.5 million
+(0.5%), while a minor dip is noted in the sales forecast for video lottery. A significant booster for sales next year could be
+the $5.6 billion personal income tax kicker, enhancing consumer spending. However, Lottery faces challenges such as
+increased entertainment competition and shifting generational preferences in the long term. However, the entry of
+Millennials into their peak lottery years suggests a gradual growth in video lottery sales.
+Long-term Financial Planning
+The Lottery uses a Strategic Plan, annual Business Plan, and budget to manage its operations. Lottery operates with the
+highest standards of security and integrity to maximize revenue for the people of Oregon, commensurate with the public
+good.  Lottery will continue to focus on operational excellence, improving processes, collaboration, and input.
+In the September 2023 Economic and Revenue Forecast, the OEA reflects Lottery transfers of $1.84 billion for the 2023-
+2025 biennium.  It is expected that competition for household entertainment dollars will increase, gaming competition
+will increase and potentially shifts in generational preferences and tastes when it comes to gaming.
+Relevant Financial Policies
+To provide resources for current operations and future investment, the Lottery Commission established a contingency
+reserve fund. In June of 2022, the Commission authorized an increase to the contingency reserve with a cap of $135
+million. At June 30, 2023, the actual cash balance in the contingency reserve was $135 million. The Lottery intends to use
+operating funds to pay for future business initiatives which are key to compete, remain relevant to our players, and
+maximize transfers to our beneficiaries while maintaining the contingency reserve should revenues decline from other
+economic factors.   Further details can be found in the MD&A section of this report.
+Major Initiatives
+The Lottery is upgrading back-office support systems facing obsolescence and end-of-life support.  The business
+modernization roadmap under development includes enterprise architecture options, a movement towards known play,
+staging plans for the implementation of solutions, and system integration.  The timeline for the roadmap is three to five
+years.  The assessment of Lottery’s business processes and capabilities and analysis of the enterprise architecture have
+aided in developing the foundational activities that will drive adoption and ensure the long-term success of business
+operations.
+The Lottery’s brand promise is directly aligned to support its mission: “Operate a lottery with the highest standards of
+security and integrity to earn maximum profits for the people of Oregon commensurate with the public good.” Lottery’s
+goal is to be efficient and effective by delivering integrated communications through to retailers.  Communications are
+designed to build awareness and educate the public on the game offerings, how they work, how to play responsibly, the
+collection of prizes, where to find problem gambling help, and where the money goes.
+Lottery’s focus is on a customer-first approach using modern communication tools designed to deliver positive
+experiences to remain relevant as customer behaviors change over time.
+For example, in January 2022, the central gaming system for Scoreboard was replaced with a new platform by Draft
+Kings.  Draft Kings acquired the previous vendor, SBTech, during fiscal year 2021.  Draft Kings offers an improved betting
+experience, including the ability to make same-game parlay bets and excellent customer service. Lottery also had
+substantial employee resources involved in the implementation of the new ERP Dynamics 365 for Finance and Operations
+platform and the Retail Partner Management system as well as ongoing efforts to maintain and replace Video Lottery
+terminals in our retail establishments.
+The Lottery continues its commitment to enhancing and expanding its Responsible Gambling Program as part of its
+overall commitment to Corporate Social Responsibility (CSR), an integral component of Lottery’s Brand Promise. This
+includes sharing an Oregon Lottery Responsible Gambling Code of Practice with the public that details Lottery’s values,
+commitments, and focus areas regarding promoting responsible gambling and enabling free access to problem gambling
+treatment.  The Lottery has created a program to positively impact Oregon by balancing business priorities with social,
+economic, and environmental responsibilities. The overall CSR goals include keeping lottery entertainment entertaining,
+promoting help for those struggling with gambling addiction, championing diversity, equity, and inclusion, and supporting
+sustainability.
+Acknowledgements
+The preparation of this report reflects the combined efforts of the Lottery’s Finance and Accounting staff. We want to
+thank all Lottery staff for working cooperatively to ensure the integrity of Lottery’s financial reporting. In addition, we
+appreciate the direction and support provided by the Lottery Commission.
+Organization Chart with Principal Officials
+Financial Section
+Independent Auditor’s Report
+The Honorable Tina Kotek
+Governor of Oregon
+MardiLyn Saathoff, Chair
+Oregon State Lottery Commission
+Michael Wells, Director
+Oregon State Lottery
+Report on the Audit of the Financial Statements
+Opinion
+We have audited the financial statements of the Oregon State Lottery, an enterprise fund of the State of Oregon, as
+of and for the year ended June 30, 2023, and the related notes to the financial statements, as listed in the table of
+contents.
+In our opinion, the accompanying financial statements referred to above present fairly, in all material respects, the
+financial position of the Oregon State Lottery, as of June 30, 2023, and the changes in its financial position and
+cash flows for the year then ended in accordance with accounting principles generally accepted in the United States
+of America.
+Basis for Opinion
+We conducted our audit in accordance with auditing standards generally accepted in the United States of America
+(GAAS) and the standards applicable to financial audits contained in Government Auditing Standards, issued by the
+Comptroller General of the United States. Our responsibilities under those standards are further described in the
+Auditor’s Responsibilities for the Audit of the Financial Statements section of our report. We are required to be
+independent of the Oregon State Lottery, and to meet our other ethical responsibilities, in accordance with the
+relevant ethical requirements relating to our audit. We believe that the audit evidence we have obtained is sufficient
+and appropriate to provide a basis for our opinion.
+Emphasis of Matter
+As discussed in Note 1, the financial statements present only the Oregon State Lottery and do not purport to, and
+do not, present fairly the financial position of the State of Oregon, as of June 30, 2023, the changes in its financial
+position or its cash flows for the year then ended in accordance with accounting principles generally accepted in the
+United States of America. Our opinion is not modified with respect to this matter.
+Responsibilities of Management for the Financial Statements
+Management is responsible for the preparation and fair presentation of these financial statements in accordance
+with accounting principles generally accepted in the United States of America, and for the design, implementation,
+and maintenance of internal control relevant to the preparation and fair presentation of financial statements that are
+free from material misstatement, whether due to fraud or error.
+Auditor’s Responsibility for the Audit of the Financial Statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from
+material misstatement, whether due to fraud or error, and to issue an auditor’s report that includes our opinion.
+Reasonable assurance is a high level of assurance but is not absolute assurance and therefore is not a guarantee
+that an audit conducted in accordance with GAAS and Government Auditing Standards will always detect a material
+misstatement when it exists. The risk of not detecting a material misstatement resulting from fraud is higher than for
+one resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the
+override of internal control. Misstatements are considered material if there is a substantial likelihood that,
+individually or in the aggregate, they would influence the judgment made by a reasonable user based on the
+financial statements.
+In performing an audit in accordance with GAAS and Government Auditing Standards, we
+ exercise professional judgment and maintain professional skepticism throughout the audit.
+ identify and assess the risks of material misstatement of the financial statements, whether due to fraud or
+error, and design and perform audit procedures responsive to those risks. Such procedures include
+examining, on a test basis, evidence regarding the amounts and the disclosures in the financial
+statements.
+ obtain an understanding of internal control relevant to the audit in order to design audit procedures that are
+appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of
+the Oregon State Lottery’s internal control. Accordingly, no such opinion is expressed.
+ evaluate the appropriateness of accounting policies used and the reasonableness of significant accounting
+estimates made by management, as well as evaluate the overall presentation of the financial statements.
+We are required to communicate with those charged with governance regarding, among other matters, the
+planned scope and timing of the audit, significant audit findings, and certain internal control-related matters
+that we identified during the audit.
+Required Supplementary Information
+Accounting principles generally accepted in the United States of America require that the management’s discussion
+and analysis, pension plan schedules and information, and other post-employment benefit plan schedules and
+information (as listed in the table of contents) be presented to supplement the basic financial statements. Such
+information is the responsibility of management and, although not a part of the basic financial statements, is
+required by the Governmental Accounting Standards Board who considers it to be an essential part of financial
+reporting for placing the basic financial statements in an appropriate operational, economic, or historical context.
+We have applied certain limited procedures to the required supplementary information in accordance with auditing
+standards generally accepted in the United States of America, which consisted of inquiries of management about
+the methods of preparing the information and comparing the information for consistency with management‘s
+responses to our inquiries, the basic financial statements, and other knowledge we obtained during our audit of the
+basic financial statements. We do not express an opinion or provide any assurance on the information because the
+limited procedures do not provide us with sufficient evidence to express an opinion or provide any assurance.
+Supplementary Information
+Our audit was conducted for the purpose of forming an opinion on the financial statements that collectively
+comprise the Oregon State Lottery’s basic financial statements. The budgetary comparison schedule (as listed in
+the table of contents) is presented for purposes of additional analysis and is not a required part of the basic
+financial statements. Such information is the responsibility of management and was derived from and relates
+directly to the underlying accounting and other records used to prepare the basic financial statements. The
+information has been subjected to the auditing procedures applied in the audit of the basic financial statements and
+certain additional procedures, including comparing and reconciling such information directly to the underlying
+accounting and other records used to prepare the basic financial statements or to the basic financial statements
+themselves, and other additional procedures in accordance with auditing standards generally accepted in the
+United States of America. In our opinion, the budgetary comparison schedule is fairly stated, in all material
+respects, in relation to the basic financial statements as a whole.
+Other Information
+Management is responsible for the other information included in the report. The other information comprises the
+introductory and statistical sections, but does not include the basic financial statements and our auditor’s report
+thereon. Our opinion on the basic financial statements does not cover the other information, and we do not express
+an opinion or any form of assurance thereon.
+In connection with our audit of the basic financial statements, our responsibility is to read the other information and
+consider whether a material inconsistency exists between the other information and the basic financial statements,
+or the other information otherwise appears to be materially misstated. If, based on the work performed, we
+conclude that an uncorrected material misstatement of the other information exists, we are required to describe it in
+our report.
+Other Reporting Required by Government Auditing Standards
+In accordance with Government Auditing Standards, we have also issue our report dated November 21, 2023, on
+our consideration of the Oregon State Lottery‘s internal control over financial reporting and on our tests of its
+compliance with certain provisions of laws, regulations, contracts, and grant agreements and other matters. The
+purpose of that report is solely to describe the scope of our testing of internal control over financial reporting and
+compliance and the results of that testing, and not to provide an opinion on the effectiveness of the Oregon State
+Lottery‘s internal control over financial reporting or on compliance. That report is an integral part of an audit
+performed in accordance with Government Auditing Standards in considering the Oregon State Lottery’s internal
+control over financial reporting and compliance.
+State of Oregon
+November 21, 2023
+Oregon State Lottery
+Management’s Discussion and Analysis
+This section of the Oregon State Lottery’s (Lottery) Annual Comprehensive Financial Report presents our discussion and
+analysis of the Lottery’s financial performance for the fiscal year ended June 30, 2023. This analysis is to be considered
+in conjunction with information in the transmittal letter of this report.
+Financial Highlights
+ Revenue for all Lottery products remained level at $1.7 billion for the fiscal year.
+ Pension expense allocated to the Lottery was $13.6 million compared to negative $8.9 million the prior
+year, an increase of 252.3 percent.
+ Net investment in capital assets increased $25.0 million as aging and obsolete video terminals were
+replaced with new terminals.
+ The Lottery transferred $899.3 million to Oregon’s Economic Development Fund, which is a 1 percent
+decrease from the prior year.
+Overview of the Financial Statements
+In addition to this discussion and analysis, the Financial Section of this annual report contains the basic financial
+statements, which include the fund financial statements and accompanying notes; required supplementary information;
+and an optional budgetary comparison schedule, which is presented as other supplementary information.
+The basic financial statements offer short-term and long-term financial information about the Oregon State Lottery,
+which is structured as a single enterprise fund. The required supplementary information contains further details
+regarding pension and other postemployment benefits. The budgetary comparison schedule presents budgeted and
+actual revenues and expenses for the fiscal year. In addition, a Statistical Section containing information regarding
+financial trends, revenue capacity, as well as demographic, economic, and operating information is presented following
+the budgetary comparison schedule.
+The Statement of Net Position provides information about the nature and amounts of resources with present service
+capacity that the Lottery controls (assets), resources that will be consumed in a future fiscal year (deferred outflows of
+resources), obligations at the end of the fiscal year to use resources that the Lottery has little or no discretion to avoid
+(liabilities), and acquisitions of resources that are applicable to a future fiscal year (deferred inflows of resources). The
+residual (net) of these four elements is reported as net position.
+All the current year’s revenues and expenses are accounted for in the Statement of Revenues, Expenses, and Changes in
+Fund Net Position. This statement measures the results of the Lottery’s operations for the past year.
+The primary purpose of the Statement of Cash Flows is to provide information about the Lottery’s cash receipts and cash
+payments during the reporting period. This statement reports cash receipts, cash payments, and net changes in cash
+resulting from operations, investing, and financing activities.
+The financial statements are prepared on the accrual basis of accounting in accordance with accounting principles
+generally accepted in the United States of America. Thus, expenses are recorded when liabilities are incurred, and
+revenues are recognized when earned, not when received.
+Analysis of Financial Position and Operations
+Lottery’s net position for the current and prior fiscal year is summarized in Table 1:
+Table 1: Oregon State Lottery's Net Position
+2023 2022
+Increase/
+(Decrease)
+Current assets $  495,894,975 $  499,280,658 $  (3,385,683)
+Capital assets 105,493,681 79,774,867 25,718,814
+Other noncurrent assets 184,137,446 215,988,632 (31,851,186)
+Total assets 785,526,102 795,044,157 (9,518,055)
+Deferred Outflows of Resources 22,824,762 20,301,356 2,523,406
+Total assets and deferred outflows of resources 808,350,864 815,345,513 (6,994,649)
+Current liabilities 300,393,389 332,410,961 (32,017,572)
+Noncurrent liabilities 163,124,812 151,511,874 11,612,938
+Total Liabilities 463,518,201 483,922,835 (20,404,634)
+Deferred Inflows of Resources 15,743,615 25,263,908 (9,520,293)
+Total liabilities and deferred inflows of resources 479,261,816 509,186,743 (29,924,927)
+Net position:
+Net investment in capital assets 98,376,717 73,362,750 25,013,967
+Restricted for OPEB Asset- RHIA 1,833,552 1,561,144 272,408
+Unrestricted 228,878,779 231,234,876 (2,356,097)
+Total net position $  329,089,048 $  306,158,770   $  22,930,278
+Total cash and cash equivalents increased from fiscal year 2022 by $5.0 million, and the cash portion of the contingency
+reserve was funded at the $135 million commission approved amount. Cash amounts held for funding major initiatives
+and contracts was reduced by $18.5 million as projects and payments on contracts progressed throughout the year.
+Securities lending cash collateral, and the liability for the collateral, decreased $31.6 million as securities lending activities
+declined. The Oregon Treasury conducts securities lending activities on our behalf.
+Noncurrent prize liabilities were reduced as long-term prizes were paid. In fiscal year 2023 all three Oregon’s Game
+Megabucks jackpot winners chose the cash option for the game, consequently no long-term liability was incurred.
+Lottery’s share of the net pension liability increased $18.2 million as the pension system’s liability increased. The State’s
+PERS pension system had significantly lower investment earnings to fund benefits compared with the prior year.
+A portion of the Lottery’s net position, 29.9 percent, reflects investment in capital assets, primarily Video Lottery℠
+gaming terminals. Of the $228.9 million in unrestricted net position at fiscal year-end, $88.1 million is committed for
+capital purchases, projects, and long-term contract obligations.
+Capital Assets
+The Lottery’s investment in capital assets for the current and prior fiscal year is shown in Table 2 on the following page.
+Most capital assets used in operations are Video Lottery gaming terminals and computer software. During the 2023 fiscal
+year approximately 2300 video lottery terminals purchased in fiscal years 2016-2017 were replaced with new terminals.
+Table 2: Oregon State Lottery's Capital Assets, Net of Accumulated Depreciation
+2023 2022
+Increase/
+(Decrease)
+Equipment $   76,033,462 $ 58,588,882 $ 17,444,580
+Building and Improvements 7,529,819 6,900,017 629,802
+Vehicles 2,136,206 2,008,687 127,519
+Computer Software 455,499 4,271,799 (3,816,300)
+Right-to-Use Leased Equipment and Facilities 2,147,987 948,439 1,199,548
+Right-to-Use Subscription Software 17,111,414 6,920,940 10,190,474
+Other Assets 79,294 136,103 (56,809)
+$ 105,493,681 $ 79,774,867 $ 25,718,814
+Lottery implemented Governmental Accounting Standards Board Statement 96 (Subscription-Based Information
+Technology Arrangements) as of the beginning of the fiscal year. As such, some prior capitalized software was reclassified
+to the new asset category. Additionally, Lottery added capital for subscription software that would typically have been
+treated as an expense in years prior to the new standard.
+Below is a summary of the changes in net position for the current and prior year:
+Table 3: Oregon State Lottery's Changes in Net Position
+2023 2022
+Increase/
+(Decrease)
+Operating revenue:
+Video LotterySM game sales, net $  1,181,773,978 $  1,246,146,763  $  (64,372,785)
+Sports wagering sales, net 55,258,144 32,052,189         23,205,955
+Scratch-itsSM instant ticket sales 157,960,917 163,404,873          (5,443,956)
+Draw game sales 282,664,702 233,743,066         48,921,636
+Other income 595,102 3,399,589          (2,804,487)
+Total operating revenues 1,678,252,843 1,678,746,480             (493,637)
+Operating expenses:
+Prizes 274,198,721 257,168,546         17,030,175
+Retailer commissions 310,579,497 313,576,943          (2,997,446)
+Other operating expenses 184,436,321 128,797,762         55,638,559
+Total operating expenses 769,214,539 699,543,251         69,671,288
+Operating income 909,038,304 979,203,229        (70,164,925)
+Interest and investment income/(loss) 11,418,289 (8,970,219)        (20,388,508)
+Insurance recoveries and gains 4,969,895 9,946           4,959,949
+Nonoperating expenses (723,229) (530,904)               192,325
+Total nonoperating revenues/(expenses/losses) 15,664,955 (9,491,177)         25,156,132
+Income before transfers 924,703,259 969,712,052        (45,008,793)
+Transfers (901,772,981) (910,500,891)          (8,727,910)
+Change in net position: 22,930,278 59,211,161        (36,280,883)
+Net position - beginning 306,158,770 246,947,609         59,211,161
+Net position - ending $    329,089,048 $    306,158,770  $   22,930,278
+Overall operating income declined 7.2 percent in fiscal year 2023. Total product sales remained steady in fiscal year 2023;
+however, the mix of products sold changed compared to fiscal year 2022. Declines in video lottery sales were offset with
+sports wagering and draw game sales. Increased draw game sales resulted in a corresponding increase in prize expense.
+As is industry practice, both video and sports sales are reported net of prizes. Additional information on prizes for those
+products can be found in financial statement note 2.
+Other operating expenses increased 43.2 percent over the prior year. As expected, the increase in sports wagering and
+draw game sales caused an increase of $17.3 million in game vendor charges. Vendor charges for both products are sales
+based. Services and supplies expense increased $10.3 million from the prior fiscal year due to project and system
+maintenance consulting fees. The most significant increase in operating expense for fiscal year 2023 came not from
+Lottery operations, but the annual share of the statewide PERS pension expense passed to agencies by the statewide
+accounting office. Lottery’s expense share increased 252.6 percent from the prior year, or $22.5 million. The intent of
+the entry is for all participating State agencies to share in the total expense allocated actuarially to the State of Oregon
+as one employer of the pension plan. Most of the reason for Lottery’s significant increase is the allocation methodology
+used by the statewide accounting office, as the increase in salary expense for fiscal year 2022 (the measurement year)
+was only 17.4 percent. The volatility of Lottery pension expense is represented in the graph below.
+Total non-operating revenues increased $25.2 million. Interest income increased $11.6 million attributable to slightly
+higher cash balances throughout the year and a significant rise in interest rates in the current economy. A gain of $5.0
+million was recognized with the majority coming from the sale of approximately 2300 video lottery terminals which had
+no book value. Investments, which are reported at fair value, caused a loss to be recognized. However, the recognized
+loss was $8.8 million less than similar activities from the prior year. Lottery holds securities to maturity; thus, fair value
+fluctuations do not impact operational decisions or cash position.
+Overall, income before transfers decreased 4.6 percent. Transfers to the Economic Development decreased 1.0 percent,
+or $9.0 million.
+-200%-100%0%100%200%300%Pension Expense Percentage ChangeState of OregonLottery
+Sales Revenue
+Figure 1 below shows the major sources and percentages of sales revenue for fiscal year 2023.
+Overall product sales for fiscal year 2023 increased just .1 percent from 2022 amounts. Video Lottery℠ remains the
+Lottery’s largest source of revenue representing 70.5 percent of total sales. However, that percentage declined from the
+prior year where video revenues were 74.3 percent of product sales. The $64.4 million decline in video revenue was
+offset by increased sales in sports wagering and draw games. Sports wagering increased 72.4%, or $23.2 million from
+fiscal year 2022. DraftKings, Lottery’s partner for sports wagering, has reported significant increases in players and
+average revenue per player boosting increased revenue in Oregon. Megamillions sales benefited from two jackpot
+offerings over a billion dollars during the fiscal year and grew 126.6 percent year over year. Powerball sales also increased
+32.1 percent as the largest Powerball jackpot ever ($2.04 billion) occurred during fiscal year 2023. The following graph
+shows the percentage change in sales from fiscal year 2022 to 2023 for the major product categories.
+During the fiscal year, the Lottery continued to actively promote problem gambling programs.
+The Lottery is continuing its efforts to systematically replace video lottery terminals to keep the product updated and
+fresh. The Commission approved setting aside $20 million of fiscal year 2023 profits to fund replacements scheduled for
+fiscal year 2024. Also in fiscal year 2024, Lottery will continue to modernize its back-office systems so modern
+technologies can be utilized for enhancements to data gathering, retailer partnering, and cost savings.
+Basic Financial Statements
+OREGON STATE LOTTERY
+Statement of Net Position
+June 30, 2023
+Assets  Current Assets:  Cash and Cash Equivalents  $    448,930,935
+Securities Lending Cash Collateral  1,975,603
+Investments for Prize Payments   11,019,492
+Accounts Receivable (Net)  28,153,194
+Ticket Inventory  2,398,282
+Prepaid Expenses  3,417,469
+Total Current Assets  495,894,975
+Noncurrent Assets:
+Cash and Cash Equivalents   88,346,226
+Investments for Prize Payments   89,369,066
+Prize Reserves  4,588,602
+Net Other Post-Employment Benefits (OPEB) Asset  1,833,552
+Capital Assets:
+Buildings, Equipment and Vehicles  249,268,636
+Computer Software  24,842,216
+Other Assets  3,458,313
+Less Accumulated Depreciation and Amortization  (172,075,484)
+Total Noncurrent Assets  289,631,127
+Total Assets  785,526,102
+Deferred Outflows of Resources
+Deferred Amounts for Pensions  22,590,922
+Deferred Amounts for Other Post-Employment Benefits (OPEB)  233,840
+Total Deferred Outflows of Resources  22,824,762
+Total Assets and Deferred Outflows of Resources  808,350,864
+Liabilities
+Current Liabilities:
+Due to Economic Development Fund  235,277,145
+Obligations Under Securities Lending  1,975,603
+Prize Liability  38,103,425
+Accounts Payable  16,498,521
+Compensated Absences  2,969,593
+Unearned Revenue  1,900,308
+Contracts Payable  3,668,794
+Total Current Liabilities  300,393,389
+Noncurrent Liabilities:
+Prize Liability  106,140,524
+Compensated Absences  1,670,396
+Net Pension Liability  48,951,329
+Other Post-Employment Benefits (OPEB) Liabilities  843,747
+Contracts Payable   5,518,816
+Total Noncurrent Liabilities  163,124,812
+Total Liabilities  463,518,201
+Deferred Inflows of Resources
+Deferred Amounts for Pensions  14,665,953
+Deferred Amounts for Other Post-Employment Benefits (OPEB)  1,077,662
+Total Deferred Inflows of Resources  15,743,615
+Total Liabilities and Deferred Inflows of Resources  479,261,816
+Net Position
+Net Investment in Capital Assets  98,376,717
+Restricted for Net Other Post-Employment Benefits (OPEB) Asset  1,833,552
+Unrestricted  228,878,779
+Total Net Position  $    329,089,048
+The accompanying notes are an integral part of the financial statements.
+OREGON STATE LOTTERY
+Statement of Revenues, Expenses, and Changes in Fund Net Position
+For the Year Ended June 30, 2023
+Operating Revenues  Sales:  Video Lottery℠ (Net Receipts)  $    1,181,773,978
+Sports Wagering (Net Receipts)  55,258,144
+Scratch-its℠ Instant Tickets (Net of Returns)  157,960,917
+Keno  109,091,865
+Powerball®   75,941,748
+Megabucks℠  31,200,704
+Mega Millions®   55,776,122
+Raffle℠  2,499,850
+Win For Life℠  4,467,126
+Lucky Lines℠  1,740,608
+Pick 4℠  1,946,679
+Provision for Uncollectibles  (4,939)
+Other Income  600,041
+Total Operating Revenues  1,678,252,843
+Operating Expenses
+Prizes  274,198,721
+Retailer Commissions  310,579,497
+Salaries and Wages  70,932,252
+Depreciation and Amortization  24,937,475
+Services and Supplies  30,314,744
+Game Vendor Charges  42,149,957
+Advertising and Market Research  6,562,498
+Public Information  851,936
+Tickets  2,961,030
+Game Equipment Parts and Maintenance  4,947,210
+Sales Support  779,219
+Total Operating Expenses  769,214,539
+Operating Income  909,038,304
+Nonoperating Revenues (Expenses)
+Interest  14,201,601
+Investment and Securities Lending Income (Loss)  (2,783,312)
+Insurance Recoveries  19,509
+Gain (Loss) on Disposition of Assets  4,950,386
+Investment Expenses - Securities Lending  (363,209)
+Investment Expenses  (7,016)
+Interest Expense  (353,004)
+Total Nonoperating Revenues (Expenses)  15,664,955
+Income Before Transfers  924,703,259
+Transfers
+Transfers to the Economic Development Fund  (899,337,574)
+Transfers to the General Obligation Bond Fund  (2,435,407)
+Total Transfers  (901,772,981)
+Change in Net Position  22,930,278
+Net Position - Beginning  306,158,770
+Net Position - Ending  $       329,089,048
+The accompanying notes are an integral part of the financial statements.
+OREGON STATE LOTTERY
+Statement of Cash Flows
+For the Year Ended June 30, 2023
+Cash Flows from Operating Activities:  Receipts from Customers  $    1,673,489,476
+Payments to Employees for Services (48,422,326)
+Payments to Suppliers (419,238,447)
+Payments to Prize Winners (271,801,547)
+Other Cash Receipts (Payments) 2,638,415
+Net Cash Provided (Used) by Operating Activities  936,665,571
+Cash Flows from Noncapital Financing Activities:
+Principal and Interest Payments on Long-term Pension Debt (716,250)
+Transfers to the Economic Development Fund (906,451,043)
+Transfers to the General Obligation Bond Fund (2,435,407)
+Net Cash Provided (Used) by Noncapital Financing Activities  (909,602,700)
+Cash Flows from Capital and Related Financing Activities:
+Acquisition of Capital Assets  (46,675,617)
+Proceeds from Disposition of Capital Assets  5,317,200
+Payments on Contracts (3,850,700)
+Insurance Recoveries for Capital Assets 19,509
+Net Cash Provided (Used) by Capital and Related Financing Activities  (45,189,608)
+Cash Flows from Investing Activities:
+Purchases of Investments  (2,024,034)
+Proceeds from Sales and Maturities of Investments  11,272,000
+Interest on Investments and Cash Balances  14,201,601
+Securities Lending Expenses (363,209)
+Investment Expenses (7,016)
+Net Cash Provided (Used) by Investing Activities  23,079,342
+Net Increase (Decrease) in Cash and Cash Equivalents  4,952,605
+Cash and Cash Equivalents - Beginning  532,324,556
+Cash and Cash Equivalents - Ending   $       537,277,161
+Reconciliation of Operating Income to Net Cash Provided (Used) by Operating Activities:
+Operating Income  $       909,038,304
+Adjustments to Reconcile Operating Income to Net Cash Provided (Used) by Operating Activities:
+Depreciation and Amortization 24,937,475
+Net Changes in Assets and Liabilities:
+(Increase) / Decrease in Accounts Receivable (4,743,540)
+(Increase) / Decrease in Ticket Inventory (562,247)
+(Increase) / Decrease in Prepaid Expenses 157,261
+(Increase) / Decrease in Prize Reserves 1,996,141
+(Increase) / Decrease in Pension Deferred Outflows (2,512,837)
+(Increase) / Decrease in Net OPEB Asset and OPEB Deferred Outflows (282,978)
+Increase / (Decrease) in Accounts Payable (1,909,187)
+Increase / (Decrease) in Compensated Absences Liability (908,015)
+Increase / (Decrease) in Unearned Revenue 530,107
+Increase / (Decrease) in Prize Liability 2,397,173
+Increase / (Decrease) in Net Pension Liability and Deferred Inflows 8,786,205
+Increase / (Decrease) in OPEB Liability and OPEB Deferred Inflows (258,291)
+Total Adjustments 27,627,267
+Net Cash Provided (Used) by Operating Activities  $       936,665,571
+Noncash Investing, Capital, and Related Financing Activities:
+Net Change in Fair Value of Investments  $         (2,783,312)
+Intangible Assets Acquired Through Contract 8,167,329
+Total Noncash Investing, Capital, and Related Financing Activities  $            5,384,017
+The accompanying notes are an integral part of the financial statements.
+OREGON STATE LOTTERY
+Notes to the Financial Statements
+June 30, 2023
+1. Summary of Significant Accounting Policies
+A. Reporting Entity
+The Oregon State Lottery Commission (Commission) was created as an agency of the State of Oregon by
+enactment of Article XV, Section 4 (3), of the Oregon Constitution, an initiative measure approved by Oregon
+voters at the November 1984 general election. The Commission established the Oregon State Lottery (Lottery),
+which is an enterprise fund of the State of Oregon. The Lottery commenced operations to market and sell Lottery
+products to the public in January 1985. The net profits of the Lottery are transferred to the Oregon Economic
+Development Fund and are then distributed by the State of Oregon to finance the various public purposes
+allowed by law.
+B. Measurement Focus, Basis of Accounting, and Financial Statement Presentation
+The accompanying financial statements of the Lottery have been prepared in conformity with generally
+accepted accounting principles as prescribed by the Governmental Accounting Standards Board (GASB).
+The Lottery uses an enterprise fund, the Oregon State Lottery Fund, with a self-balancing set of accounts to
+record its assets, deferred outflows of resources, liabilities, deferred inflows of resources, net position,
+revenues, and expenses. Enterprise funds account for activities that are financed and operated in a manner like
+private business enterprises.
+Lottery financial statements are reported using the economic resources measurement focus and accrual basis
+of accounting. Revenues are recorded when earned and expenses are recorded when a liability is incurred,
+regardless of the timing of related cash flows.
+Revenues and expenses are categorized as operating or nonoperating in the Statement of Revenues, Expenses
+and Changes in Fund Net Position. Operating revenues and expenses are those that result from selling Lottery
+games to the public. Operating revenues include the sale of Lottery products and incidental revenues associated
+with operating the Lottery. Operating expenses include the cost of sales and services, administrative expenses,
+and depreciation on capital assets. Revenues and expenses that do not result from selling Lottery games, such
+as investment income and investment expenses, are reported as nonoperating revenues and expenses.
+Assets and liabilities are classified on the Statement of Net Position as current and noncurrent. Current assets
+are resources expected to be realized in cash or consumed within a year from the financial statement date.
+Current liabilities are obligations generally expected to be paid using resources that are classified as current
+assets and obligations due within one year from the date of the financial statements. Noncurrent assets are
+capital assets, resources that are restricted to use for other than current operations, resources designated to
+be used to acquire noncurrent assets, or resources that are not expected to be collected within one year.
+Noncurrent liabilities are obligations generally expected to be paid using resources that are classified as
+noncurrent assets and obligations due beyond one year from the date of the financial statements.
+Total net position is segregated into three categories: net investment in capital assets, restricted for net OPEB
+asset and unrestricted net position. Article XV of the Oregon Constitution restricts the use of Lottery revenues
+for payment of prizes and administrative expenses, and remaining revenues are to be used for public purposes
+allowed in Article XV. Net proceeds not yet transferred are reflected in liabilities as the amount Due to the
+Economic Development Fund. Net position reported at year end will be used for Lottery operations.
+C. Sales Revenue
+Revenues for draw games Oregon’s Game MegabucksSM, Powerball®, Mega Millions®, Keno, Win for LifeSM,
+RaffleSM, Pick 4SM, and Lucky LinesSM are recognized when the draws occur. Revenues for instant scratch ticket
+games are recognized when retailers activate ticket packs for sale to the public. Sports wagering revenues are
+recognized when events have completed and the outcome is known and are reported net of returns to players.
+Revenues for Video LotterySM games are recognized when sales to the public occur and are reported net of
+Oregon State Lottery
+Notes to the Financial Statements (Continued)
+June 30, 2023
+prizes awarded. (Refer to Note 2(B) for more information on Video LotterySM and sports wagering revenue and
+prize expense). All revenues are reported net of free plays, discounts, and allowances.
+D. Unearned Revenue
+All draw games can be purchased in advance of the drawings and sports wagers can be placed prior to an event.
+When shares are sold or wagers are placed in advance of the draw or event date, sales revenue is not yet earned.
+Unearned revenue includes revenue associated with draw or event dates occurring after the June 30 fiscal year
+end.
+E. Prize Expense
+Instant ticket prize expense is estimated and recognized when ticket packs are activated and is based on the
+game design. Game design includes certain guaranteed prizes in each pack of tickets and prizes placed randomly
+by the gaming vendor. When validations for the game have ended, differences between estimated and actual
+prizes awarded for the randomly placed prizes are adjusted to prize expense and prize liability. Guaranteed
+prizes not claimed by winners are transferred to the Economic Development Fund.
+Prize expense for draw games is recognized as drawings are held, based on the shares sold and the estimated
+or known cost of the prize payments. Prize expense is adjusted as prizes are claimed and the actual cost of the
+prize is known. Initial expense for prizes with long-term payments is recognized at the discounted present value
+of estimated future cash payments. Amortization of the related discount is expensed over the life of the prize
+payout. Sports wagering prize expense is recognized when the outcome of the wagered event is known. Video
+LotterySM prize expense is recognized as game play completes and prizes are known. More detailed information
+for Video LotterySM  and sports wagering is in Note 2(B).
+F. Prize Liability
+Prize liability is recorded when the prize expense is recognized (see Note 1(E) above) and is reported at the
+discounted present value of estimated future cash payments. Discount rates are based on interest rates earned
+on securities purchased to fund long-term prize payments. Estimated and known prize payments due within one
+year of the financial statement date are recorded as a current liability and payments due later than the
+upcoming year are classified as a noncurrent liability. Unclaimed prizes (winning shares known to be sold and
+not presented for payment within one year from the draw date or official end of a game) are reclassified from
+Prize Liability to Due to Economic Development Fund.
+G. Cash and Cash Equivalents
+Cash and cash equivalents include cash on hand, test cash held by employees, cash in demand deposit accounts
+and cash and investments held in the Oregon Short-Term Fund (OSTF). For purposes of the Statement of Cash
+Flows, all Lottery moneys held by the Office of the State Treasurer in the OSTF are cash equivalents. The OSTF
+is an investment pool that functions as a demand deposit account.
+H. Investments
+Investments are reported at fair value based on quoted market prices for similar assets at June 30, 2023.  The
+fair value hierarchy established by generally accepted accounting principles categorizes valuation inputs in three
+levels. Level 1 inputs are quoted prices in active markets for identical assets; Level 2 inputs are significant other
+observable inputs; and Level 3 inputs are unobservable. The quoted prices used by Lottery are Level 2 inputs.
+Changes in the fair value of investments are recognized as investment income or loss in the current year.
+I. Securities Lending
+Securities lending amounts are reported at the value of the cash collateral received. The security lending liability
+is reported at the cash amount received as collateral.
+J. Accounts Receivable
+Accounts receivable is reported net of an allowance for uncollectible accounts. Accounts receivable primarily
+consist of proceeds due from Lottery retailers. Most retailers selling Lottery products are required to remit
+weekly proceeds (Sunday through Saturday), less commissions, on the following Wednesday. Corporate
+Oregon State Lottery
+Notes to the Financial Statements (Continued)
+June 30, 2023
+accounts with multiple establishments may remit proceeds on the second Wednesday following the end of the
+business week.
+K. Inventories
+Inventories are valued at cost using the specific identification method. Ticket inventory consists of Scratch-itsSM
+instant tickets primarily stored in the Lottery warehouse. A small amount of inventory is stored at retail
+establishments. Ticket inventory held in the warehouse is destroyed and recorded as an expense when
+distributions to retailers are no longer allowed. When activations are no longer allowed, tickets not sold at retail
+establishments are expensed. The tickets are returned to the warehouse and subsequently destroyed.
+L. Prize Reserves
+Prize reserves held by the Multi-State Lottery (MUSL) are amounts held to indemnify participating lotteries for
+prizes that may be won. Should the Lottery decide against participation in MUSL, these amounts would be
+returned. Prize reserves for our prior sports wagering product ScoreboardSM are held in escrow and are available
+to our payment processor in the event cash amounts are not sufficient to cover player account withdrawals.
+ScoreboardSM wagering ended in January 2022.  ScoreboardSM prize payments will end once all events have
+completed.
+M. Capital Assets
+Capital assets, which mainly include gaming equipment and related software and licensing agreements, are
+reported at historical cost. Physical and intangible assets with a cost of $5,000 or more and a useful life of more
+than one year are capitalized. Capital assets are depreciated using the straight-line method over the following
+estimated useful lives:
+Assets   Years
+Buildings and improvements  5 to 40
+Video lottery equipment  5 to 7 or per agreement
+Other machinery and equipment  3 to 25
+Leasehold improvements  3 to 10 or per lease agreement
+Vehicles  5 to 10
+Computer hardware and software  2 to 10 or per agreement
+Intangible Right of Use Assets  Term of contract
+N. Leases
+The Lottery participates in several lease contracts for storage facilities and equipment. The contracts are
+recognized as a lease liability and an intangible right-to-use capital asset in the Statement of Net Position. Lease
+liabilities are recognized at the present value of payments expected to be made during the lease term. Lease
+terms include optional renewal periods if they are reasonably expected to be exercised and rates can be
+estimated. The discount rate applied is the rate applied by the lessor. If the lessor rate is not provided Lottery
+policy is to use the Oregon Bond Index rate for the State of Oregon. The rate used is one where the effective
+date and borrowing term most closely relate to the lease initiation date and term. As payments are made the
+principal portion of payments reduce the liability.
+The corresponding intangible asset is measured and recognized at the value of the initial lease liability. The asset
+is then amortized on a straight-line basis over its contract term. Leased assets are reported with other capital
+assets.
+O. Subscription Based Information Technology
+Agreements allowing Lottery to use another party’s information technology software, including hardware when
+necessary, are recognized as intangible right-to-use capital assets.  The asset measurement includes costs
+necessary to place the software into service for Lottery use, as well as any future payment liabilities for use of
+the asset. Liabilities are measured at the discounted present value of future payments expected to be made
+during the contract term.  Variable payments (such as user seat based charges) are not included in the
+measurement. Optional renewal periods, when they are reasonably expected to be exercised and rates can be
+estimated, are included.  The discount rate used is the rate included in the contract. If a rate is not included
+Oregon State Lottery
+Notes to the Financial Statements (Continued)
+June 30, 2023
+Lottery policy is to use the Oregon Bond Index rate for the State of Oregon, using the rate and term that most
+closely relates to the contract term and start date.
+Right to use assets are amortized generally over the term of the contract using a straight-line basis. Recorded
+liabilities are relieved as the principal portion of required payments is applied.
+P. Compensated Absences
+Employees earn vacation leave of 10 to 20 hours per month, depending upon length of service. All Lottery
+employees may accumulate a maximum of 350 hours per employee. Twice per year eligible employees have the
+option to be compensated for up to 80 hours of their vacation accrual balance. Lottery also awards state service
+milestone leave as employees reach five year increments of state service. The hours awarded are equivalent to
+the length of state service, up to 40 hours, and are generally required to be used or taken as compensation in
+the same year. Accumulated vacation leave and accumulated compensatory time is recorded as an expense and
+a liability (compensated absences) as the benefits accrue to employees. The compensated absences liability is
+calculated based upon salary rates in effect at the fiscal year-end and includes estimated employer expenses.
+No liability is reported for accumulated sick leave benefits since employees are not paid for unused sick leave
+benefits when leaving State service.
+Q. Net Pension Liability, Pension Related Deferred Inflows and Outflows of Resources and Pension Expense
+These items are included at amounts equal to Lottery’s portion of the State of Oregon’s proportionate share of
+Oregon Public Employee’s Retirement System (PERS) plan totals measured as of June 30, 2022. Amounts are
+recognized on the same basis the plan uses.  PERS uses the accrual basis of accounting. As such, revenues are
+recognized when earned, contributions are recognized when due, benefits and withdrawals are recognized
+when due and payable. Lottery pension expense is included in Salaries and Wages expense.
+R. Net Other Postemployment Benefits Asset and Other Postemployment Benefits Liabilities, Related Deferred
+Inflows and Outflows of Resources, and Expense
+Lottery employees may be covered by one of three postemployment benefit plans.  The associated assets and
+liabilities for the two plans administered by the Oregon Public Employee’s Retirement System (PERS) are
+measured as of June 30, 2022 and recognized on the same basis the plan uses.  PERS recognizes revenues when
+earned, contributions when due and benefits/withdrawals are recognized when payable. The other plan is
+administered by the Public Employees Benefit Board (PEBB) and is measured as of June 30, 2023. Amounts
+included are Lottery’s portion of the State of Oregon’s amount of the respective other postemployment benefit
+plans. Expense for the plans is included in Salaries and Wages expense.
+2. Stewardship and Legal Compliance
+A. Budgetary Compliance
+The Oregon State Lottery is exempt from State of Oregon Budget Laws. For budgeting purposes, the Commission
+adopts an annual Financial Plan based on revenue forecasts prepared by the Oregon Department of
+Administrative Services, Office of Economic Analysis, and activities identified in Lottery’s annual Business and
+Strategic Plan. Quarterly, budgeted revenues and direct expenses (prizes, commissions, game vendor charges,
+and tickets) are revised for changes to the revenue forecasts. Revisions to other expense items in the adopted
+budget must be approved by the Commission. The budget is prepared on the accrual basis of accounting. Actual
+expenses are monitored throughout the year for compliance with the approved budget and appropriate
+adjustments, if necessary, are presented to the Commission for approval. A comparison of revenues and
+expenses to the final revised and approved fiscal year 2023 Financial Plan is presented as supplementary
+information in this report.
+Oregon State Lottery
+Notes to the Financial Statements (Continued)
+June 30, 2023
+B. Video LotterySM and Sports Wagering Net Revenue
+Video LotterySM revenue is reported net of discounts and prize expense in the Statement of Revenues, Expenses,
+and Changes in Fund Net Position. The following schedule reconciles cash received with actual wagering and
+prize activity:
+Revenue  Prize Expense
+Cash Received  $     4,508,061,439   Cash Paid Out $     3,326,287,461
+Dollars Won and Played       11,591,435,657   Dollars Won and Played 11,591,435,657
+Total Revenue  $   16,099,497,096   Total Prizes $   14,917,723,118
+Net Revenue before Discounts = $1,181,773,978
+Sports wagering revenue is reported net of discounts and prize expense in the Statement of Revenues, Expenses,
+and Changes in Fund Net Position.  The following schedule shows actual wagering activity:
+Amount
+Wagers Placed $     577,602,651
+Wagers Refunded Due to Cancellations (3,526,118)
+Prizes Won (510,216,061)
+Net Revenue Before Discounts $       63,860,472
+C. Use of Revenues and Net Revenues
+Article XV of the Oregon Constitution requires that all prizes and expenses of the Lottery be paid from Lottery
+revenues and any remaining proceeds be used to benefit the public purposes of economic development, public
+education (including outdoor school), veterans services, or restoring and protecting parks, beaches, watersheds
+and native fish and wildlife habitats. ORS 461.500 requires that at least 84 percent of the total annual revenues
+be returned to the public in the form of prizes and net revenues benefiting the public purposes in the
+Constitution and statutes, that at least 50 percent of the total annual revenues be returned to the public in the
+form of prizes, and that no more than 16 percent of total annual revenues may be allocated for the payment of
+administrative expenses.1
+The table on the following page shows that for fiscal year 2023 the Lottery operated within the legal limits
+defined by ORS 461.500:
+1 Attorney General Opinion No. 8220 advises that ORS 461.548 regarding Video LotterySM proceeds is unconstitutional
+and is not applicable. It is not included here.
+Oregon State Lottery
+Notes to the Financial Statements (Continued)
+June 30, 2023
+Fiscal Year 2023 Revenues
+Sales $ 17,105,591,981
+Other Distributable Income 11,884,106
+Total Distributable Revenue $ 17,117,476,087
+Fiscal Year 2023 Distribution of Revenues
+Revenues Returned to the Public:
+Prizes to the Public $ 15,692,675,250  91.68%
+Unclaimed Prizes Paid/Due to Economic Development Fund 9,462,650  0.06%
+Transfers Paid/Due to Economic Development Fund 899,337,574  5.25%
+Total Revenues Returned to the Public 16,601,475,474  96.99%
+Administrative Expenses 493,070,335  2.88%
+Held for Contingency Reserve 22,930,278  0.13%
+Total Distribution of Revenues $ 17,117,476,087  100.00%
+D. Unclaimed Prizes
+ORS 461.500 requires all unclaimed prizes to be allocated to the benefit of public purpose. Lottery administrative
+rules declare a prize as unclaimed when it is known that winning shares have been sold and have not been
+redeemed within one year of the end of the game, one year from the draw date, or one year from the date of
+issue. During fiscal year 2023, prizes in the amount of $9,462,650 were determined to be unclaimed and were
+either transferred or accrued for transfer to the Economic Development Fund.
+E. Contingency Reserve
+ORS 461.510 (4) and Administrative Rule 177-010-0045 allows for the creation of a contingency reserve. In June
+2022, the Lottery Commission approved a contingency reserve amount such that the cash available for future
+investment does not exceed $135,000,000. The following table shows the liquidity detail of Unrestricted Net
+Position shown on the Statement of Net Position at June 30, 2023:
+Cash Available for Future Investment (Uncommitted Contingency Reserve)  $ 135,000,000
+Committed by Contract for Asset Purchases/Licensing (See Note 7 and 10)       2,409,195
+Committed by Commission for Capital Purchases/Projects       85,653,833
+Inventory and Prepaid Expenses        5,815,751
+Total Unrestricted Net Position  $ 228,878,779
+F. Transfers to Economic Development Fund
+In fiscal year 2023 $22,930,278 of current year income was retained in contingency reserve. Remaining income
+after transfers to the General Obligation Bond Fund was accrued for transfer to the Economic Development
+Fund. Actual cash transferred, including unclaimed prizes, during fiscal year 2023 was $906,451,043. The
+remaining balance is included on the Statement of Net Position in current liabilities. The schedule on the
+following page reconciles the amounts:
+Oregon State Lottery
+Notes to the Financial Statements (Continued)
+June 30, 2023
+Balance Owed at
+June 30, 2022
+Amounts
+Accrued
+Cash Paid to
+Economic
+Development
+Balance
+Remaining at
+June 30, 2023
+Income $  230,950,516 $  899,337,574 $  896,689,160 $  233,598,930
+Unclaimed Prizes           1,977,448          9,462,650         9,761,883 1,678,215
+Total $  232,927,964 $  908,800,224 $  906,451,043 $  235,277,145
+3. Deposits
+The Lottery uses a financial institution qualified by the Oregon State Treasurer to hold public funds, and the Oregon
+Short-Term Fund (OSTF) for deposits. The Office of the State Treasurer maintains the OSTF, an investment pool
+available for use by state agencies and local governments. A separate financial report for the OSTF may be obtained
+from the Office of the State Treasurer, 867 Hawthorne Ave. SE, Salem, Oregon 97301 or from the Treasurer’s website
+at: https://www.oregon.gov/treasury/public-financial-services/oregon-short-term-funds/pages/default.aspx
+The custodial credit risk for deposits is the risk that, in the event of a bank failure, the Lottery or State Treasurer will
+not be able to recover deposits or will not be able to recover collateral securities that are in the possession of an
+outside party. The Lottery does not have a policy regarding custodial credit risk for deposits; however, the insurance
+and collateral requirements for state deposits are established by banking regulations and Oregon Revised Statute
+(ORS) Chapter 295. This statute creates a shared liability structure through a collateral pool of pledged securities
+held by a custodian. ORS 295 is administered by the Oregon State Treasurer using the Public Funds Collateralization
+Program (PFCP). This program monitors public funds balances in excess of Federal Deposit Insurance of $250,000,
+total public funds on deposit, depository net worth and capitalization information. All depositories are required to
+report quarterly at a minimum but may be required to report as often as weekly. Reported information determines
+each depository’s minimum market value of securities that must be pledged as collateral.
+The PFCP determines collateral requirements based on the capitalization of each depository. Well capitalized
+depositories must pledge securities with a market value of 10% of their last reported uninsured public funds
+deposits.  Collateral requirements increase for depositories considered to be less than well capitalized.  Collateral
+requirements may be up to 110% of uninsured public funds deposits.  The Oregon State Treasurer, in consultation
+with the Department of Consumer and Business Services, may also require collateral up to 110% for well capitalized
+banks. Depositories with increased collateral requirements are required to report weekly to ensure collateralization
+at the appropriate level.
+Consequently, Lottery’s bank balance at June 30, 2023 of $538,721,612, deposited in financial institutions and the
+OSTF, is insured or collateralized.
+4. Investments
+The State Treasurer is the Investment Officer for the State of Oregon. Investment standards are established in ORS
+293.726 and require funds to be managed as a prudent investor would do. The Lottery does not have an independent
+investment policy.
+A. Custodial Credit Risk
+The custodial credit risk for investments is the risk that, in the event of the failure of the counterparty to a
+transaction, the State Treasurer will not be able to recover the value of investment or collateral securities that
+are in the possession of an outside party. Lottery’s investments with the Office of the State Treasurer are
+registered in street name and held with the State Treasurer’s custodian in the name of the State of Oregon.
+State Treasurer records segregate them to the Lottery.
+Oregon State Lottery
+Notes to the Financial Statements (Continued)
+June 30, 2023
+B. Credit Risk and Concentration of Credit Risk
+Credit risk is the risk that an issuer or other counterparty to an investment will not fulfill its obligations. The
+Lottery holds both US Treasury STRIPS as well as US Agency STRIPS of the Resolution Funding Corporation (RFC).
+The RFC investments are not explicitly guaranteed by the U.S. government and do not have a credit rating.
+However, interest payments are backed by the U.S. government, and the principal is protected by the purchase
+of zero-coupon bonds with an equivalent face value.
+Concentration of credit risk is the risk of loss attributed to the magnitude of investments in a single issuer.
+Investments in the RFC represents .87 percent of the Lottery’s investment holdings on June 30, 2023.
+C. Interest Rate Risk
+Interest rate risk is the risk that changes in interest rates will adversely affect the fair value of an investment.
+The length of time until maturity affects the exposure of the investment to fair value fluctuations. Lottery’s
+investments are purchased to closely match the liability stream for prize payouts and are intended to be held
+until maturity.
+The following table shows the segmented time distribution of the fair value of all Lottery investments on June
+30, 2023:
+Investment Type
+Less than
+1 Year   1-5 Years   6-10 Years
+More Than
+10 Years   Fair Value
+U.S. Agency STRIPS  $       801,617 $         68,063 $                    - $                    - $         869,680
+U.S. Treasury STRIPS   10,217,875    36,193,687    26,856,011    26,251,305    99,518,878
+Total Investments  $ 11,019,492 $ 36,261,750 $ 26,856,011 $ 26,251,305 $ 100,388,558
+5. Securities Lending
+In accordance with State of Oregon (State) investment policies, state agencies may participate in securities lending.
+The Office of the State Treasurer has authorized its custodian to act as its agent in the lending of the State’s securities
+pursuant to a form of loan agreement. There were no significant violations of the provisions of securities lending
+agreements during the fiscal year.
+During fiscal year 2023, the State’s securities lending agent lent short-term and fixed income securities from the
+OSTF and U.S. Government securities segregated to the Lottery and received as collateral U.S. dollar-denominated
+cash and U.S. Treasury securities. Borrowers were required to deliver collateral for each loan equal to not less than
+102 percent of the market value of the loaned securities. The State can impose restrictions on the amount of the
+loans that the securities lending agent made on its behalf.  No such restrictions were made during the year ended
+June 30, 2023. The State may pledge or sell collateral securities in the event of a borrower default; however, the
+Lottery and the State, through the State Treasurer’s Securities Lending Agreements, are fully indemnified against
+losses due to borrower default. There were no losses during the year from the failure of borrowers to return loaned
+securities.
+During the year, the State and borrowers maintained the right to terminate all securities lending transactions on
+demand. Therefore, the maturities of investments made with cash collateral generally did not match the maturities
+of the securities loans. On June 30, 2023, the State and the Lottery had no credit risk exposure to borrowers related
+to securities on loan.
+As of June 30, 2023, the total fair value of securities on loan from the OSTF was $167,137,267, the collateral received
+was $170,531,248 and the fair value of invested collateral was $12,156,661. Cash collateral received for OSTF and
+Lottery investments is invested in a securities lending collateral pool and is not exposed to custodial credit risk.
+The Lottery’s allocated portion of the OSTF securities on loan and Lottery owned investments on loan at June 30,
+2023, is presented in the schedule on the following page:
+Oregon State Lottery
+Notes to the Financial Statements (Continued)
+June 30, 2023
+Securities Lending Balances
+Fair Value of
+Securities on
+Loan
+Collateral
+Received
+Fair Value of
+Invested Cash
+Collateral
+Lottery Share OSTF  $     3,050,075    $     3,112,012    $       221,846
+Lottery Investments         1,723,111           1,753,725           1,753,474
+Total  $     4,773,186    $     4,865,737    $    1,975,320
+6. Capital Assets
+Capital asset activity for the year ended June 30, 2023, is shown in the following schedule:
+Beginning
+Balance Increases Decreases
+Ending
+Balance
+Depreciable Capital Assets
+Equipment  $   244,156,763   $   38,446,972   $   54,841,735   $  227,762,000
+Building and Improvements        15,563,347          1,069,960              785,931         15,847,376
+Vehicles          5,303,991             687,377              776,957           5,214,411
+Computer Software*        26,629,311             353,357        21,899,425           5,083,243
+Right-to-Use Leased Equipment and Facilities          1,773,447          1,445,045                         -            3,218,492
+Right-to-Use Subscription Software*          1,873,808        11,755,672                  2,202         13,627,278
+Other Assets          1,805,469                         -           1,565,648               239,821
+Total Assets Being Depreciated      297,106,136        53,758,383        79,871,898       270,992,621
+Accumulated Depreciation/Amortization
+Equipment      185,567,881        20,865,144        54,704,487       151,728,538
+Building and Improvements          9,108,179             440,158              785,931           8,762,406
+Vehicles          3,295,304             359,522              576,621           3,078,205
+Computer Software        22,357,512             346,390        18,076,158           4,627,744
+Right-to-Use Leased Equipment and Facilities              825,008             245,497                         -            1,070,505
+Right-to-Use Subscription Software                         -            2,647,559                         -            2,647,559
+Other Assets          1,669,366                33,205          1,542,044               160,527
+Total Accumulated Depreciation      222,823,250        24,937,475        75,685,241       172,075,484
+Capital Assets Not Being Depreciated
+Building and Improvements 444,849                        -                           -                444,849
+Right-to-Use Subscription Software In Progress* 5,047,132         1,084,563                         -            6,131,695
+Capital Assets, Net  $    79,774,867   $   29,905,471   $     4,186,657   $  105,493,681
+A portion of the computer software beginning balance was reclassified to right-to-use subscription software with
+the implementation of Governmental Accounting Standards Board Statement 96 (Subscription-Based Information
+Technology Arrangements). Classifications changed by the implementation are designated with an asterisk.
+On June 27, 2014 the Lottery vacated its backup center and it remained idle at June 30, 2023. Carrying value included
+in capital assets is $444,849.
+7. Long-term Liabilities
+The schedule on the following page presents changes in long-term liabilities during the fiscal year, as well as the
+amounts due in the next fiscal year:
+Oregon State Lottery
+Notes to the Financial Statements (Continued)
+June 30, 2023
+Beginning Balance Increases Decreases Ending
+Balance
+Due Within
+One Year
+Prizes $ 151,309,426 $ 274,198,721  $ 281,264,198 $ 144,243,949 $ 38,103,425
+Compensated Absences 5,548,004 3,675,955 4,583,970 4,639,989 2,969,593
+Subscription Software Contracts 3,819,842 6,728,328 5,754,637 4,793,533    2,086,262
+Financing Agreement 1,643,836  - 1,157,566 486,270 463,587
+Leases 948,439 1,439,001 550,278 1,837,162 711,813
+Pre-SLGRP Pension Debt 2,641,952 -  571,307 2,070,645 407,132
+$ 165,911,499  $ 286,042,005 $ 293,881,956  $ 158,071,548  $ 44,741,812
+As of June 30, 2023, there were 87 Oregon Lottery prizes with remaining long-term annual prize payments. The
+estimated number of years remaining for payments extends to 59 years. The following schedule of payments
+includes claimed prizes with guaranteed payments for a fixed period. Although estimated and included in prize
+liability, conditional prize payments are not shown in the following table:
+Fiscal Year Ending June 30 Principal Interest
+2024  $    9,229,877   $         146,789
+2025        8,580,878               374,787
+2026        8,252,727               602,939
+2027        7,366,658               760,008
+2028        5,637,370               726,296
+2029-2033      22,021,592           4,691,736
+2034-2038      13,351,211           4,718,118
+2039-2043        4,360,906           1,942,422
+2044-2048        2,899,052           1,720,943
+2049-2051        1,153,581               826,426
+Total Guaranteed Prize Payments Due  $  82,853,852   $    16,510,464
+The Lottery has 11 software subscription contracts requiring monthly, quarterly, or annual payments for a defined
+period. Gaming software licenses include the video gaming system and instant ticket second chance drawing
+licenses. Beginning in September 2016 Lottery contracted for a video gaming system.  The system includes all
+hardware and software necessary for a host and backup system that communicates and stores transactions
+occurring on Video LotterySM terminals throughout the State. The contract will expire in September 2024. However,
+Lottery can request a 12-month extension. Since the extension is likely to be requested the amount has been
+included in the liability. Should the Lottery default through non-payment or breach of contract, undisputed amounts
+on invoices for services performed and deliverables delivered, less any amounts previously paid, are due
+immediately. The second chance drawing software contract includes draw configuration and support for one or more
+application programming interfaces. The contract began in February 2021 and continues through February 2024.
+After the initial three-year term Lottery may extend the contract on an annual basis. Lottery does have the right to
+terminate the contract with a 30-day notice to the contractor. Other licenses held are for human resource software
+used for recruiting, compensation, and employee engagement; software for retailer partner management; and
+software for a marketing tool.
+Software subscriptions are recognized as a liability for the present value of required future payments. The table on
+the following page shows the future principal and interest portions for payments required by software subscriptions:
+Oregon State Lottery
+Notes to the Financial Statements (Continued)
+June 30, 2023
+Fiscal Year Ending June 30  Principal   Interest
+2024 $     2,086,262  $         99,266
+2025 1,833,306             51,098
+2026 625,548             13,102
+2027 248,417               5,650
+Total    $     4,793,533  $      169,116
+In October 2016, the Lottery began a purchasing agreement for 2,700 video retailer terminals, known as iLinks, which
+are part of the communication infrastructure between the Video LotterySM game terminals and the host system. The
+interest rate for the contract is 7.35 percent and the last payment is due in September 2024. Total assets acquired
+through the agreement is $6,736,500 and is included in Buildings, Equipment and Vehicles on the Statement of Net
+Position.
+Future financing payments required for the agreement are shown in the following schedule:
+Fiscal Year Ending June 30 Principal Interest
+2024   $      463,587  $       10,946
+2025               22,683  279
+Total Financing Payments Due  $      486,270  $       11,225
+The Lottery participates in nine property leases for storage facilities and a payment center.  The Lottery also
+participates in six leases for billboards and three for office equipment. The leases are recognized as right to use
+capital assets with a corresponding liability for the discounted present value of the payments required.  Future lease
+and interest payments required are displayed in the following table:
+Fiscal Year Ending June 30 Principal Interest
+2024 $    711,813  $  36,880
+2025 606,277 21,275
+2026 370,523 8,586
+2027 67,205 3,603
+2028 71,877 1,489
+2029 9,467 33
+Total Lease Payments Due $ 1,837,162  $ 71,866
+Prior to the formation of the PERS State and Local Government Rate Pool (SLGRP), the State and community colleges
+were pooled together in the State and Community College Pool (SCCP), while local government employers
+participated in the Local Government Rate Pool (LGRP). These two pools combined to form the SLGRP effective
+January 1, 2002. The unfunded actuarial liability (UAL) attributable to the SCCP at the time the SLGRP was formed is
+maintained separately, is reduced by contributions and increased for interest charges at the assumed interest rate.
+The balance of the pre-SLGRP pooled liability attributable to the State is being amortized over the period ending
+December 31, 2027. The Pre-SLGRP Pension Debt of $2,070,645 represents Lottery’s allocation of the state liability.
+The payment schedule is shown on the following page:
+Oregon State Lottery
+Notes to the Financial Statements (Continued)
+June 30, 2023
+Year Ending June 30 Principal Interest
+2024  $       407,132   $    135,971
+2025              435,708     107,394
+2026              466,290     76,811
+2027              499,020        44,082
+2028              262,495        9,056
+Total Pre-SLGRP Payments Due  $   2,070,645   $   373,314
+8. Discounts and Allowances
+Revenues are reported net of discounts and free plays in the Statement of Revenues, Expenses and Changes in Fund
+Net Position. Some Lottery game structures offer free tickets as prizes instead of cash. The sales value of these prizes
+reduce sales rather than being included as prize expense. For fiscal year ended June 30, 2023 Lottery awarded free
+play prizes of $729,111. Promotional discounts and free plays also reduced sales by $9,156,609.
+At June 30, 2023, accounts receivable in the Statement of Net Position is reported net of $34,100 allowance for
+uncollectible amounts.
+9. Joint Venture
+The Multi-State Lottery Association (MUSL) was established September 16, 1987, to coordinate lottery games with
+larger prizes than the individual states could offer by themselves. The Oregon Lottery has been a participating
+member since the inception of MUSL. Each participating state sells its choice of MUSL products and keeps all profits
+earned. Participating states contribute amounts necessary to fund the estimated and actual prizes won, reserve prize
+pools, and costs for services of MUSL and the Product Groups. For the fiscal year ending June 30, 2023 MUSL service
+fees were $56,939.
+MUSL is a non-profit, government-benefit association owned and operated by its member lotteries. It is governed
+by a board on which each member lottery is represented. Each member lottery has one vote. The Board’s
+responsibilities to administer multi-state lottery games are performed through product groups, advisory
+committees, or panels staffed by officers and independent contractors as appointed by the Board. These officers
+and consultants serve at the pleasure of the Board and the Board prescribes their powers, duties, and qualifications.
+Product groups manage product offerings, establish budgets, establish rules and policies for a product as well as the
+fees for services. The Finance Committee recommends all fees for services to be charged by MUSL and product
+groups to the Executive Committee who review and submit to the Board for final action. MUSL is subject to annual
+audits conducted by independent auditors that are retained by the Board. Upon termination of the MUSL’s
+existence, if such termination should occur, the member lottery would receive any proceeds determined available
+for distribution by the Board.
+The fiscal year end for MUSL is June 30. Long-term liabilities of MUSL are limited to prize annuities due, which are
+fully funded through investments in U.S. Government Securities. The schedule on the following page presents the
+summarized financial activity from MUSL financial statements as of June 30, 2023 and June 30, 2022 (in thousands):
+Oregon State Lottery
+Notes to the Financial Statements (Continued)
+June 30, 2023
+20232 2022
+Assets  $     857,188   $     766,593
+Total Assets  $     857,188   $     766,593
+Liabilities  $     822,534   $     756,516
+Net Assets1 - Unrestricted           34,654            10,077
+Total Liabilities and Net Assets1  $     857,188   $     766,593
+Revenue  $         30,929   $         3,442
+Expenses              6,353               5,579
+Increase/(Decrease) in Net Assets1  $      24,576  $      (2,137)
+1Because MUSL is organized as a non-profit, its financial statements have been
+prepared in accordance with accounting standards promulgated by the Financial
+Accounting Standards Board (FASB).  Therefore, MUSL’s financial statements use the
+term “net assets” rather than “net position” for equity.
+2The fiscal year 2023 MUSL audit has not been completed as of publication. Amounts
+presented are draft.
+The financial statements for MUSL may be obtained from the Multi-State Lottery Association, 8101 Birchwood Court,
+Suite R, Johnston, Iowa 50131.
+10. Other Significant Commitments and Contingencies
+A. Commitments
+In October 2019 the Lottery signed a comprehensive agreement for software and services associated with
+processing transactions for traditional products. The initial contract term is five years from the go-live date of
+May 23, 2021. During this term Lottery will pay 2.5047 percent of net sales of traditional products. Contract
+extension options are available for two additional five-year terms. For fiscal year 2023 expenses under the
+contract were $11,043,826.
+A sports wagering contract was signed in December 2021. The term is seven years from the launch date of
+January 18, 2022. Additional extension terms can be negotiated. Fees under the contract are 49 percent of net
+receipts (wagers less prizes but not including player incentives and related prizes) and 51 percent of player
+incentives and other expenses such as league fees and costs related to player account servicing.  However,
+player incentives are capped at 15 percent of net receipts and player costs are capped at 4 percent of net
+receipts. The contract generally can only be terminated for contract breaches and changes of legal standing to
+engage in sports wagering. Total Lottery expenses for sports wagering for the fiscal year ending June 30, 2023
+were $29,238,196. These expenses are included in Game Vendor Charges on the Statement of Revenues,
+Expenses, and Changes in Fund Net Position.
+In June 2023 Lottery issued commitments to purchase 500 Video LotterySM gaming terminals. At June 30,
+$7,974,500 remained to be purchased in the upcoming fiscal year.
+B. Unemployment Benefits
+State employees who qualify are entitled to benefit payments during periods of unemployment. Each state
+agency is required to reimburse the Employment Department for benefit payments made to former employees.
+There is no practical method of estimating the amount of future benefit payments that may be made to former
+employees for wage credits earned prior to fiscal year end. Consequently, this potential obligation is not
+reported in the accompanying financial statements. For the fiscal year ended June 30, 2023, $11,786 of
+reimbursements were expensed.
+Oregon State Lottery
+Notes to the Financial Statements (Continued)
+June 30, 2023
+11. Employee Retirement Plan
+A. General Information
+The State of Oregon participates in the Oregon Public Employees Retirement System (PERS) plan.  As an agency
+of the State of Oregon, eligible Lottery employees receive pension benefits through the plan. PERS is a defined
+benefit, cost-sharing multiple-employer plan, administered by the Public Employees Retirement Board (Board)
+as required by Chapters 238 and 238(A) of the Oregon Revised Statutes (ORS).  Board members are appointed
+by the governor and confirmed by the state Senate.
+Pension benefits are based on hire dates and are provided under the PERS plan or the Oregon Public Service
+Retirement Plan (OPSRP).  PERS members who established membership before January 1, 1996 receive PERS
+Tier 1 benefits while those who established membership on or after that date receive PERS Tier 2 benefits.  The
+PERS plan was closed to new members on August 28, 2003.  Eligible employees hired after that date are
+members of OPSRP. Both plans provide a life pension, death, and disability benefits.
+Pension Benefit
+Tier 1/Tier 2 member’s basic pension benefits are calculated based on years of service and final average salary,
+multiplied by 1.67 percent for general service employees and 2.0 percent for police and fire (P&F) employees.
+Benefits may also be calculated under a money match computation if a greater benefit results. For members
+contributing prior to August 21, 1981 benefits may also be calculated under a formula plus annuity computation.
+Pension benefit options include survivorship and lump sum refunds.  The retirement allowance is payable
+monthly for life.
+Tier 1 full pension benefits are available at age 58 (age 55 for P&F) or any age with 30 years of service (25 for
+P&F).  There is a reduced benefit option available at age 55 (50 for P&F) and fewer than 30 years of service (25
+for P&F). Tier 2 members can retire at age 60.
+OPSRP member pension benefits are calculated based on years of service and the final average salary multiplied
+by 1.5 percent for general service employees and 1.8 percent for P&F.  General service employees may retire at
+65 or at age 58 with 30 years of service.  P&F employees are eligible at age 60 or age 53 with 25 years of service.
+OPSRP also includes the Individual Account Program (IAP) for employee contributions.  Beginning January 1,
+2004 all Tier 1/Tier 2 plan non-retired members also established an account in the IAP.  Prior to July 1, 2020 all
+employee contributions were deposited in the member’s account along with earnings. Beginning July 1, 2020
+employee’s whose monthly salary exceeds established monthly thresholds have a portion of their contributions
+redirected to an Employee Pension Stability Account (EPSA) which will be used to pay for part of the future
+pension benefit. Employees have the option to make additional voluntary contributions to replace any
+redirected amounts. IAP accounts are reduced by administrative expenses and losses. At retirement, IAP
+account balances are distributed to employees through a choice of a lump-sum payment or annuity options.
+Tier 1/Tier 2 employee contributions prior to January 1, 2004 remain in the member’s defined benefit account.
+Death Benefit
+Upon the death of a non-retired PERS Tier 1/Tier 2 member the beneficiary receives a lump-sum refund of the
+member’s accumulated contributions and interest.  The beneficiary also receives a lump-sum payment from
+employer funds equal to the account balance.  Upon the death of a non-retired OPSRP member the spouse (or
+person constitutionally required to be treated as a spouse) receives a life pension at 50 percent of what would
+have been paid to the member.
+Disability Benefit
+All members can receive non job-related disability benefits after 10 years of service.  Job-related disability is
+available for any length of service.  Tier 1/Tier 2 monthly benefits are calculated with service time to age 58 (55
+for P&F). OPSRP members receive 45 percent of their salary during the last full month of service.
+Benefit Changes
+After retiring, PERS plan members may choose to continue participation in a variable equities investment
+account and may experience benefit fluctuations due to changes in the market value of equity investments.
+Cost-of-living benefit adjustments (COLA) for both PERS and OPSRP members are required annually in current
+Oregon State Lottery
+Notes to the Financial Statements (Continued)
+June 30, 2023
+Oregon statutes. For service time before October 1, 2013 adjustments are tied to the Portland Consumer Price
+Index with a 2% annual cap.  Service time on or after October 1 receives a 1.25% increase on the first $60,000
+of annual benefit and .15% for benefit over $60,000. The Oregon legislature has authority to change benefits.
+Contributions
+As required by Oregon statute, employer contribution rates are actuarially determined and allow accumulation
+of assets sufficient to pay defined pension benefits when due.  Employer contribution rates are expressed as a
+percentage of covered payroll. The Board’s practice is to implement new rates in each odd-numbered year
+based on the valuation of the previous odd-numbered year. Rates used in fiscal year 2023 were effective July 1,
+2021 and based on the December 31, 2019 valuation. Lottery contributions in fiscal year 2023 were $7,298,737.
+Set by statute, Lottery employees contribute 6 percent of covered salary to their IAP account. However,
+beginning in July 2020 a portion of monthly employee contributions may be redirected to the employee’s EPSA
+account and used to fund their pension benefit.  Redirects are required when the PERS system is less than 90%
+funded and an employee’s monthly salary exceeds the monthly salary threshold established by the legislature.
+The percentage of monthly contributions redirected is determined by plan.  For Tier 1/Tier 2 members 2.5
+percent of employee contribution is redirected and for OPSRP members .75 percent is redirected.
+B. Net Pension Liability, Pension Expense and Deferred Outflows/Inflows of Resources Related to Pensions
+The collective net pension liability, measured as of June 30, 2022, is based on the December 31, 2020 actuarial
+valuation rolled forward to the measurement date. IAP account balances are not included in the measurement
+of the total pension liability.  Assumptions used for the measurement include those shown in the following table:
+Experience Study Report 2020, published July 20, 2021
+Actuarial Cost Method Entry Age Normal
+Actuarial Assumptions:
+Inflation Rate 2.40 percent
+Investment Rate of Return 6.90 percent
+Projected Salary Increases 3.40 percent
+Cost of living adjustments (COLA) Blend of 2.00 percent COLA and graded COLA (1.25/0.15) percent in
+accordance with Moro decision; blend based on service.
+Mortality
+Healthy retirees and beneficiaries:
+Pub-2010 Healthy Retiree, sex-distinct, generational with Unisex, Social
+Security Data Scale, with job category adjustments and set-backs as
+described in the valuation.
+Active members:
+Pub-2010 Employee, sex-distinct, generational with Unisex, Social
+Security Data Scale, with job category adjustments and set-backs as
+described in the valuation.
+Disabled Retirees:
+Pub-2010 Disable Retiree, sex-distinct, generational with Unisex, Social
+Security Data Scale, with job category adjustments and set-backs as
+described in the valuation.
+The discount rate used to measure the collective pension liability was 6.90 percent.  The projection of cash flows
+used to determine the discount rate assumed contributions from contributing employers and plan members are
+made at the actuarially determined rates required to meet projected benefit payments. Therefore, the long-
+term expected rate of return was applied to all periods of projected benefit payments.
+The long-term expected rate of return used in projecting the collective pension liability is based on a forward-
+looking capital market economic model. The assumed asset allocation is based on the Oregon Investment
+Council’s (OIC) target allocation and actual investments in June 2021 based on the target.  Using the OIC
+description of asset classes, investments were mapped to the asset classes and percentages below. Each asset
+Oregon State Lottery
+Notes to the Financial Statements (Continued)
+June 30, 2023
+class assumption is based on a consistent set of underlying assumptions and includes adjustment for the
+inflation assumption. The following assumptions were used:
+Asset Class
+Target
+Allocation
+Annual
+Arithmetic
+Return
+20-Year
+Annualized
+Geometric
+Mean
+Annual
+Standard
+Deviation
+Global Equity 30.62% 7.11% 5.85% 17.05%
+Private Equity 25.50 11.35 7.71 30.00
+Core Fixed Income 23.75 2.80 2.73 3.85
+Real Estate 12.25 6.29 5.66 12.00
+Master Limited Partnerships 0.75 7.65 5.71 21.30
+Infrastructure 1.50 7.24 6.26 15.00
+Commodities 0.63 4.68 3.10 18.85
+Hedge Fund of Funds - Multistrategy 1.25 5.42 5.11 8.45
+Hedge Fund Equity - Hedge 0.63 5.85 5.31 11.05
+Hedge Fund - Macro 5.62 5.33 5.06 7.90
+US Cash -2.50 1.77 1.76 1.20
+Assumed Inflation - Mean   2.40% 1.65%
+PERS actuarially determined each employer’s proportionate share by comparing each employer’s projected
+long-term contribution effort to the plan with the total projected long-term contribution effort of all employers.
+The projected long-term contribution effort is estimated by combining the present value of projected future
+normal cost contributions with projected contributions required for past unfunded actuarial liabilities (UAL) and
+reducing those projections with any transition surpluses, lump sum payments from employers, and pre-State
+and Local Government Rate Pool (SLGRP) surpluses at the valuation date. Estimated future normal cost rate
+contributions represent future service contributions while UAL estimated contributions represent contributions
+for past service. PERS has determined employer transition liabilities to meet the definition of separately financed
+employer liabilities and are not included in the projected contribution effort. The State of Oregon’s proportion
+was 27.24%  as of the prior June 30, 2021 measurement date and increased to 29.46% as of the June 30, 2022
+measurement date.
+The State of Oregon’s proportionate share of the net pension liability was allocated to individual funds based
+on actual fiscal year 2022 contributions. Lottery is 1.09 percent of the State’s share, an increase of .15 percent
+from the June 30, 2021 measurement date. Lottery’s proportion of the State’s share equates to .32 percent of
+the collective net pension liability.   On June 30, 2023 Lottery reported a net pension liability of $48,951,329.
+The following demonstrates Lottery’s proportionate share of the net pension liability sensitivity to a 1
+percentage point change in the discount rate:
+1% higher discount rate –7.9% $17,264,576
+1% lower discount rate – 5.9%     $86,810,948
+For the year ended June 30, 2023 Lottery recognized pension expense of $13,572,104. At June 30, 2023
+Lottery reported deferred outflows of resources and deferred inflows of resources related to pensions from
+the sources in the table on the following page:
+Oregon State Lottery
+Notes to the Financial Statements (Continued)
+June 30, 2023
+Deferred
+Outflows of
+Resources
+Deferred
+Inflows of
+Resources
+Differences between expected and actual experience  $     2,376,192    $      (305,269)
+Changes in assumptions 7,680,728             (70,171)
+Net difference between projected and actual earnings on
+investments                        -           (8,751,551)
+Changes in proportion and differences between fund
+contributions and proportionate share of contributions 5,235,265         (5,538,962)
+Lottery contributions subsequent to the measurement date 7,298,737                          -
+$   22,590,922   $  (14,665,953)
+Lottery contributions subsequent to the measurement date will reduce the net pension liability in the upcoming
+fiscal year. Other deferred amounts will be included in pension expense as shown in the following table:
+Fiscal Year Ending
+June 30
+Amount to
+Pension Expense
+2024  $      733,106
+2025  (614,087)
+2026  (3,503,194)
+2027  4,054,384
+2028  (43,977)
+Thereafter  -
+Total  $       626,232
+Detailed information about the PERS pension plan’s fiduciary net position is available in the separately issued
+Annual Comprehensive Financial Report on the PERS website at:
+https://www.oregon.gov/pers/emp/Pages/Actuarial-Financial-Information.aspx
+12. Other Postemployment Benefit Plans
+Oregon Lottery employees may be eligible for post-retirement insurance coverage through three other
+postemployment benefit (OPEB) plans available. Two plans are administered by the Public Employees Retirement
+System (PERS) and the other is administered by the Public Employees Benefit Board (PEBB). Lottery, as an enterprise
+fund of the State of Oregon, recognizes a portion of each plan in the financial statements.
+A. Plans Administered by the Public Employees Retirement System
+The Retirement Health Insurance Account (RHIA), administered by PERS, is a cost-sharing, multiple-employer
+OPEB plan. The plan authorizes a payment of up to $60 towards the monthly cost of health insurance for eligible
+PERS members. To be eligible the PERS member must have eight or more years of qualifying service in PERS at
+the time of retirement, receive both Medicare Parts A and B coverage, and enroll in a PERS-sponsored health
+plan. The coverage also extends to members receiving a disability allowance, as if the member had at least eight
+years of creditable service. A surviving spouse or dependent of a deceased PERS retiree is eligible if he or she is
+receiving a retirement benefit or allowance from PERS or was insured at the time of the member’s death and
+the member retired before May 1, 1991. The plan is closed to entrants hired on or after August 29, 2003.
+The RHIA plan and benefit amount is established by ORS 238.420. There are no automatic or ad-hoc adjustments
+to the benefit amount in the statute.
+Oregon State Lottery
+Notes to the Financial Statements (Continued)
+June 30, 2023
+The other plan administered by PERS is the Retiree Health Insurance Premium Account (RHIPA). This plan is a
+single employer plan with the State of Oregon as the single employer. As authorized by ORS 238.415 retirees
+receive payment for the average difference between the health insurance premiums paid by retired state
+employees and the premiums paid by active state employees. The average amount is determined by the PERS
+Board on or before January 1 of each year. This plan is closed to entrants hired on or after August 29, 2003.
+Retirees are eligible for the RHIPA plan if they have eight or more years of qualifying service but are not eligible
+for federal Medicare coverage. Retirees receiving a disability pension are also eligible if the pension was
+calculated as if they had eight or more years qualifying service and are not receiving federal Medicare coverage.
+A surviving spouse or dependent of a retired state employee is eligible if he or she is receiving a retirement
+benefit from PERS or was insured at the time the member died and the member retired on or after September
+29, 1991.
+Both plans are required by statute to be funded through employer contributions in the amount actuarially
+necessary to fund the liabilities of the plans. Employer contribution levels must be established by the PERS Board
+using the same actuarial assumptions it uses to determine employer contribution rates for the Public Employees
+Retirement Fund. Contribution rates for the fiscal year ending June 30, 2023 were effective July 1, 2021 and
+based on the December 31, 2019 valuation. The rates are a percentage of covered payroll and vary by the
+retirement plan of the participant. The contribution rates and amounts contributed by Lottery during the year
+ended June 30, 2023 are shown in the following table:
+RHIA   RHIPA
+PERS
+Tier 1/Tier 2 OPSRP  PERS
+Tier 1/Tier 2 OPSRP
+Normal Cost 0.05% 0.00%  0.11% 0.00%
+Unfunded Actuarial Liability 0.00% 0.00%  0.17% 0.17%
+Total Required Rate 0.05% 0.00%  0.28% 0.17%
+Amounts Contributed  $            6,257   $               -      $        35,041   $     52,586
+Both plans use assumptions and other inputs to measure the total OPEB liability. These assumptions and inputs
+are shown in the table on the following page:
+Oregon State Lottery
+Notes to the Financial Statements (Continued)
+June 30, 2023
+RHIA  RHIPA
+Plan Type Cost-Sharing Multiple Employer  Single Employer (State of Oregon)
+Valuation date December 31, 2020  December 31, 2020
+Measurement date June 30, 2022  June 30, 2022
+Experience Study 2020, published July 20, 2021  2020, published July 20, 2021
+Actuarial assumptions:
+Actuarial cost method Entry Age Normal  Entry Age Normal
+Inflation rate 2.40 percent  2.40 percent
+Long-term expected rate of
+return
+6.90 percent  6.90 percent
+Discount rate 6.90 percent  6.90 percent
+Projected salary increases 3.40 percent  3.40 percent
+Retiree healthcare
+participation
+Healthy retirees: 27.5%
+Disabled retirees: 15%
+8-14 years of service: 10%
+15-19 years of service: 11%
+20-24 years of service: 14%
+25-29 years of service: 22%
+30+ years of service: 27%
+Healthcare cost trend rate Not Applicable  Applied at beginning of plan year,
+starting with 5.9% for 2021, decreasing
+to 4.7% for 2028, increasing to 4.8% for
+2037, and decreasing to an ultimate rate
+of 3.9% for 2074 and beyond
+Mortality Healthy retirees and
+beneficiaries:
+Pub-2010 Healthy Retiree, sex
+distinct, generational with
+Unisex, Social Security Data
+Scale, with job category
+adjustments and set-backs as
+described in the valuation.
+Healthy retirees and beneficiaries:
+Pub-2010 Healthy Retiree, sex distinct,
+generational with Unisex, Social Security
+Data Scale, with job category
+adjustments and set-backs as described
+in the valuation.
+Active members:
+Pub-2010 Employee, sex distinct,
+generational with Unisex, Social
+Security Data Scale, with job
+category adjustments and set-
+backs as described in the
+valuation.
+Active members:
+Pub-2010 Employee, sex distinct,
+generational with Unisex, Social Security
+Data Scale, with job category
+adjustments and set-backs as described
+in the valuation.
+Disabled retirees:
+Pub-2010 Disabled Retiree, sex
+distinct, generational with
+Unisex, Social Security Data
+Scale, with job category
+adjustments and set-backs as
+described in the valuation.
+Disabled retirees:
+Pub-2010 Disabled Retiree, sex distinct,
+generational with Unisex, Social Security
+Data Scale, with job category
+adjustments and set-backs as described
+in the valuation.
+For both plans, the projections of cash flows used to determine the discount rate assumes that employer(s)
+contributions are made at the contractually required rates, as actuarially determined.
+The long-term expected rate of return for both plans is the same as that used for pension benefit projections. A
+description of how this rate is determined and information on the assumed asset allocation of the portfolio is
+included in Note 11(B). This long-term rate was applied to all periods of projected benefit payments to
+determine the total OPEB liability for both plans.
+For the RHIA cost-sharing multiple-employer plan, employer proportionate share was determined by comparing
+the employer’s actual, legally required contributions made during the measurement date fiscal year to the total
+actual contributions made during that period by all employers. For both plans, the State of Oregon’s internal
+allocation among funds was based on fiscal year 2022 actual contributions from each fund. Lottery’s share of
+both plans is shown below. The amounts are measured as of June 30, 2022 based on a December 31, 2020
+Oregon State Lottery
+Notes to the Financial Statements (Continued)
+June 30, 2023
+actuarial valuation rolled forward. Effects of a 1 percentage point change in the healthcare cost trend rate and
+the discount rate are also shown in the following table:
+RHIA  RHIPA
+State of Oregon Share of Plan 34.08%  100.00%
+Lottery Percent of State of Oregon Share 1.22%  1.03%
+Lottery Share of Net OPEB Liability/(Asset) $ (1,479,599)  $ (353,954)
+Lottery Share with:
+1% increase in healthcare cost trend rate N/A  $ (309,223)
+1% decrease in healthcare cost trend rate N/A  $ (394,208)
+1% increase in the discount rate – 7.9% $ (1,604,809)  $ (392,140)
+1% decrease in the discount rate – 5.9% $ (1,333,535)  $ (324,356)
+In the fiscal year ending June 30, 2022, Lottery recognized expense/(income) for the RHIA and RHIPA plans in
+the following amounts respectively; $(419,862) and $(51,907). The following table shows the balances of
+Lottery’s deferred outflows and inflows for the two plans:
+RHIA   RHIPA
+Deferred
+Outflow of
+Resources
+Deferred
+Inflow of
+Resources
+Deferred
+Outflow
+of
+Resources
+Deferred
+Inflow of
+Resources
+Differences between expected and actual
+experience $                - $   (40,096)  $             - $     (93,384)
+Changes in assumptions 11,585 (49,320)  9,095 (142,073)
+Net difference between projected and actual
+earnings on investments - (112,838)  - (23,016)
+Changes in proportion and differences between
+fund contributions and proportionate share of
+contributions 100,993 (142,033)  - -
+Contributions Subject to Measurement Date 6,257 -  87,627 -
+$   118,835 $ (344,287)  $  96,722 $  (258,473)
+Contributions subsequent to the measurement date will reduce the liability in the upcoming fiscal year. The
+other deferred amounts will increase/(reduce) OPEB expense as follows:
+Fiscal Year
+Ending June 30   RHIA   RHIPA
+2023  $    (161,612)   $      (62,034)
+2024  (35,029)              (62,452)
+2025  (71,206)              (64,632)
+2026  36,138              (29,459)
+2027  -              (28,108)
+Thereafter  -                (2,693)
+Total  $    (231,709)   $   (249,378)
+Detailed information about the PERS other postemployment benefit plan’s fiduciary net position is available in
+the separately issued Annual Comprehensive Financial Report on the PERS website at:
+https://www.oregon.gov/pers/emp/Pages/Actuarial-Financial-Information.aspx
+Oregon State Lottery
+Notes to the Financial Statements (Continued)
+June 30, 2023
+B. Plan Administered by the Public Employees Benefit Board
+The Public Employees Benefit Board (PEBB), through the authority of Oregon Revised Statutes Chapter 243,
+offers healthcare assistance to eligible retired employees and their beneficiaries. The PEBB plan is a multi-
+employer plan that allows retired employees to continue their health insurance coverage on a self-pay basis
+until they are eligible for Medicare. The premium rate for retired employees is determined by pooling the
+retirees with active employees and thus creates an implicit rate subsidy. Employees are eligible if they retire
+and are immediately eligible for a pension benefit from PERS. In addition, the retiree must have been enrolled
+in a PEBB medical or dental plan immediately prior to retirement. Retirees must enroll in the plan within 30 days
+of the end of their active coverage.
+The total OPEB liability for the PEBB plan was actuarially measured as of July 1, 2022 and projected forward to
+June 30, 2023. In projecting the future benefits the discount rate used is based on the Bond Buyer General
+Obligation 20-Year Municipal Bond Index as of June 29, 2023. There are no assets accumulated for payment of
+the liability. The following table shows significant assumptions used:
+Valuation Date July 1, 2022
+Measurement Date June 30, 2023
+Discount Rate 3.65%
+Health Care Cost Trend Pursuant to ORS 243.135(8), 3.4% per year
+General Inflation 2.4% per year
+Annual Salary Increases 3.4% per year
+Mortality Based on Pub-2010 mortality tables, with adjustments for PERS
+experience and generational mortality improvements using scale:
+Milliman Unisex Social Security Data (60-year average), with data
+through 2017
+Demographic Assumptions January 1, 2017 through December 31, 2020 actuarial experience
+study adopted by the Public Employees Retirement System.
+Lottery, as a fund of the State of Oregon, recognizes a portion of the total liability. Fund proportions for fiscal
+year 2023 are based on the average of the prior three years’ proportionate share calculation.  Lottery’s share of
+the liability at June 30, 2023 is $843,747 which is 0.80 percent of the State of Oregon’s liability. The sensitivity
+of the liability to changes in the discount rate and healthcare cost trend rate are shown in the following table:
+Lottery Share with:
+1% increase in healthcare cost trend rate – 4.4% $  958,974
+1% decrease in healthcare cost trend rate – 2.4% $  746,471
+1% increase in the discount rate – 4.65% $  788,549
+1% decrease in the discount rate – 2.65% $  901,893
+For the fiscal year ended June 30, 2023 Lottery recognized $83,971 of expense for the PEBB plan. The following table
+shows the balances of Lottery’s deferred outflows and inflows for the plan:
+Deferred
+Outflows of
+Resources
+Deferred
+Inflows of
+Resources
+Differences between expected and actual experience  $                 -     $    (193,373)
+Changes in assumptions          18,283          (281,529)
+Total  $      18,283    $    (474,902)
+Oregon State Lottery
+Notes to the Financial Statements (Continued)
+June 30, 2023
+The amounts will reduce Lottery’s proportion of OPEB expense in future years as follows:
+Fiscal Year Ending
+June 30,
+2024 $    (77,010)
+2025     (77,010)
+2026     (74,135)
+2027     (77,287)
+2028 (69,891)
+Years thereafter (81,286)
+Total $  (456,619)
+13. Risk Financing
+The State of Oregon administers property and casualty insurance programs covering State government through its
+Insurance Fund (included in the Central Services Fund). The Insurance Fund services claims for direct physical loss or
+damage to state property; tort liability claims brought against the State, its officers, employees, or agents; workers’
+compensation; cyber security liability, employee dishonesty; and faithful performance coverage for certain positions
+required by law to be covered and other key positions.
+As a state agency, the Lottery participates in the Insurance Fund. The cost of servicing insurance claims and payments is
+covered by charging an assessment to each state agency based on its share of services provided in a prior period. The
+total statewide assessment for each coverage type is based on independent biennial actuarial forecasts and
+administrative costs, less any available equity in the Insurance Fund from the prior biennium. Lottery’s fiscal year 2023
+share of the 2021-2023 biennial assessment was $920,211. The Fund also charged $598,997 for Lottery specific cyber
+security policies. For the Lottery, the amount of claim settlements did not exceed insurance coverage for each of the past
+three fiscal years.
+Required Supplementary
+Information
+Pension Related Schedules
+Schedule of Lottery Proportionate Share of the Net Pension Liability/(Asset)
+Oregon Public Employees Retirement System Plan (PERS)
+Last Ten Measurement Dates
+(Dollars in Millions)
+Oregon State Lottery
+PERS
+Fiduciary Net
+Position as a
+Percent of
+Total Pension
+Liability As of June 30,
+Percent of
+Collective Net
+Pension
+Liability/(Asset)
+Share of
+Collective Net
+Pension
+Liability/(Asset)
+Covered
+Payroll
+Share of
+Collective Net
+Pension
+Liability/
+(Asset) as a
+Percentage of
+Covered Payroll  2022  0.3%  $  49.0  $  41.6  117.6%  84.5%
+2021  0.3%    30.8    34.7  88.8%  87.6%
+2020  0.3%  72.1  43.5  165.8%  75.8%
+2019  0.3%     43.5     31.9  136.4%  80.2%
+2018  0.3%  38.2  32.1  119.0%  82.1%
+2017  0.2%  29.8  30.7  97.1%  83.1%
+2016  0.2%  34.4  30.1  114.1%  80.5%
+2015  0.2%  11.4  28.1  40.6%  91.9%
+2014  0.2%  (4.5)  23.7  -19.0%  103.6%
+2013   0.2%  10.1   23.8   42.6%   92.0%
+(See Notes to Required Supplementary Information)
+Schedule of Lottery Pension Contributions
+Oregon Public Employees Retirement System Plan (PERS)
+Last Ten Fiscal Years
+(Dollars in Millions)
+Fiscal Year
+Ending June 30,
+Actuarially
+Required
+Contributions
+PERS
+Recognized
+Contributions
+Contribution
+Deficiency/
+(Excess)
+Covered
+Payroll
+Contributions
+as a Percentage
+of Covered
+Employee
+Payroll
+2023  $  7.3  $  7.3  $      -  $  43.5  16.79%
+2022    7.0    7.0        -    41.6  16.93%
+2021  5.2  5.2        -  34.7  14.94%
+2020      6.5      6.5        -     43.5  14.87%
+2019  3.5  3.5  -  31.9  10.97%
+2018  3.5  3.5  -  32.1  10.90%
+2017  2.3  2.0  0.3  30.7  6.48%
+2016  2.3  2.0  0.3  30.1  6.75%
+2015  1.5  1.9  (0.4)  28.1  6.60%
+2014   2.0   1.9   0.1   23.7   8.07%
+(See Notes to Required Supplementary Information)
+Other Post Employment Benefits Schedules
+Schedule of Lottery Proportionate Share of the Net OPEB Liability/(Asset)
+Oregon Public Employees Retirement System Retiree Health Insurance Account (RHIA)
+Last Ten Measurement Dates*
+(Dollars in Thousands)
+Oregon State Lottery
+RHIA
+Fiduciary
+Net
+Position as
+a Percent
+of Total
+OPEB Asset
+As of
+June 30,
+Percent of
+Collective Net
+OPEB
+Liability/(Asset)
+Share of Collective
+Net OPEB
+Liability/(Asset)
+Covered
+Employee
+Payroll
+Share of
+Collective Net
+OPEB Liability/
+(Asset) as a
+Percentage of
+Covered
+Payroll
+2022  0.42%  $  (1,480)  $  41,617  -3.56%  194.60%
+2021  0.41%    (1,416)    34,678  -4.08%  183.90%
+2020  0.33%  (681)  43,498  -1.57%  150.10%
+2019  0.31%     (593)    31,945  -1.86%  144.40%
+2018  0.30%  (334)  32,099  -1.04%  124.00%
+2017   0.25%   (104)   30,651   -0.34%   108.90%
+*Additional years will be presented as they become available.
+(See Notes to Required Supplementary Information)
+Schedule of Lottery OPEB Contributions
+Oregon Public Employees Retirement System RHIA
+Last Ten Fiscal Years*
+(Dollars in Thousands)
+Fiscal Year
+Ending June 30,
+Actuarially
+Required
+Contributions
+PERS
+Recognized
+Contributions
+Contribution
+Deficiency/
+(Excess)
+Covered
+Payroll
+Contributions
+as a
+Percentage of
+Covered
+Employee
+Payroll
+2023  $     6  $     6  $    -  $  43,481  0.01%
+2022       7       7      -   41,617  0.02%
+2021  7  7  -  34,678  0.02%
+2020  23        23  -     43,498  0.05%
+2019  147  147  -  31,945  0.46%
+2018   149   149   -   32,099   0.46%
+*Additional years will be presented as they become available.
+(See Notes to Required Supplementary Information)
+Schedule of Lottery Proportionate Share of Net OPEB Liability/(Asset)
+Oregon Public Employees Retirement System Retiree Health Insurance Premium Account (RHIPA)
+Last Ten Measurement Dates*
+(Dollars in Thousands)
+Oregon State Lottery   PERS
+Fiduciary
+Net
+Position as
+a Percent
+of Total
+OPEB
+Liability
+Fiscal Year
+Ending
+June 30,
+Percent of
+State of
+Oregon Net
+OPEB
+Liability/(Asset)
+Share of
+State of
+Oregon
+Net OPEB
+Liability/
+(Asset)
+Covered
+Employee
+Payroll
+Share of State of
+Oregon Net OPEB
+Liability/(Asset) as a
+Percentage of
+Covered Payroll
+2022  1.03%  $  (354)  $  41,617  -0.85%  169.7%
+2021  0.94%    (145)    34,678  -0.42%  124.6%
+2020  1.24%  124  43,498  0.28%  84.5%
+2019  0.99%  250  31,945  0.78%  64.9%
+2018  1.02%  359  32,099  1.12%  49.8%
+2017   0.81%   377   30,651   1.23%   34.3%
+*Additional years will be presented as they become available.
+(See Notes to Required Supplementary Information)
+Schedule of Lottery OPEB Contributions
+Oregon Public Employees Retirement System RHIPA
+Last Ten Fiscal Years*
+(Dollars in Thousands)
+Fiscal Year
+Ending
+June 30,
+Actuarially
+Required
+Contributions
+PERS
+Recognized
+Contributions
+Contribution
+Deficiency/
+(Excess)
+Covered
+Employee
+Payroll
+Contributions
+as a
+Percentage of
+Covered
+Employee
+Payroll
+2023  $   88  $   88  $     -  $  43,481  0.20%
+2022     86     86       -    41,617  0.21%
+2021  108  108  -  34,678  0.31%
+2020      141     141  -    43,498  0.32%
+2019  136  136  -  31,945  0.43%
+2018  137  137  -  32,099  0.43%
+*Additional years will be presented as they become available.
+(See Notes to Required Supplementary Information)
+Schedule of Lottery Proportionate Share of OPEB Liability
+Public Employees Benefit Board (PEBB)
+Last Ten Measurement Dates*
+(Dollars in Millions)
+As of
+June 30,
+Percentage of
+OPEB Liability
+Share of
+OPEB Liability
+Covered
+Employee Payroll
+Share of Liability
+as a Percent of
+Covered Payroll
+2023  0.80%  $   .8  $  45.3  1.9%
+2022  0.77%  1.0    42.2  2.3%
+2021  0.76%  1.1  36.0  3.2%
+2020  0.86%      1.3    40.5  3.2%
+2019  0.83%  1.3  37.0  3.5%
+2018  0.92%  1.4  33.5  4.2%
+*Additional years will be presented as they become available.
+(See Notes to Required Supplementary Information)
+Notes to Required Supplementary Information
+Pension Schedules
+ In 2013 the Oregon Legislature adopted changes reducing future cost of living adjustments.  This reduced the
+liability as of June 30, 2014. The reduction to benefits was challenged and a significant portion of the legislation
+was reversed by the Oregon Supreme Court in April 2015. Consequently, the liability at June 30, 2015 increased.
+ The PERS Board adopted assumption changes that were used to measure the June 30, 2016 pension liability.
+Included in the changes was a reduction of the long-term expected rate of return to 7.5 percent, a lowering of
+the assumed inflation rate to 2.5 percent, as well as changes in the assumptions for mortality, merit increases
+and other wage benefits affecting retiree benefits.
+ For the June 30, 2018 measurement of the pension liability, the PERS Board adopted assumptions that lowered
+the long-term expected rate of return to 7.2 percent as well as updated healthy retiree and healthy mortality
+assumptions that reflected updated trends and mortality improvement scale for all groups.
+ Senate Bill 1049, signed into law in June 2019, imposed a limit of $195,000 of annual salary included in the
+calculation of benefits.  This limit is effective in 2020 and is indexed in future years.
+ Assumption changes for the June 30, 2021 measurement date included a reduced long-term expected rate of
+return of 6.9 percent and an inflation rate which was lowered to 2.4 percent from 2.5 percent. The healthy
+mortality assumption was changed to reflect an updated mortality improvement scale for all groups and
+assumptions for merit increases, unused sick leave and vacation pay were updated.
+ The Public Employees Retirement System (PERS) issues a publicly available financial report that includes financial
+statements and required supplementary information.  The report can be obtained at
+http://www.oregon.gov/pers/Pages/Financials/Actuarial-Financial-Information.aspx
+Other Post Employment Plan (OPEB) Schedules
+ The Public Employees Retirement System (PERS) issues a publicly available financial report that includes financial
+statements and required supplementary information for the RHIA and RHIPA plans.  The report can be obtained
+at http://www.oregon.gov/pers/Pages/Financials/Actuarial-Financial-Information.aspx
+ For the June 30, 2018 measurement, the PERS Board adopted assumptions that lowered the long-term expected
+rate of return to 7.2 percent as well as updated healthy retiree and healthy mortality assumptions that reflected
+updated trends and mortality improvement scale for all groups.
+ The June 30, 2021 RHIA and RHIPA measurement includes an assumed long-term expected rate of return of 6.9
+percent (reduced from 7.2 percent). Additionally, the healthcare participation and healthy mortality
+assumptions were changed to reflect updated trends and mortality improvement scale for all groups.
+ The PEBB plan does not accumulate assets to pay benefits and does not issue a financial report.
+Supplementary Information
+Budgetary Comparison Schedule
+Oregon State Lottery
+An Enterprise Fund of the State of Oregon
+Budgetary (Non-GAAP) Basis Comparison Schedule
+For the Fiscal Year Ended June 30, 2023
+Variance
+Favorable/
+Actual Budget (1) (Unfavorable)
+Revenue    Video Lottery℠ (Gross Receipts)  $ 16,099,497,096   $ 16,155,262,106   $ (55,765,010)
+Sports Wagering (Gross Receipts)  565,474,205   527,319,620   38,154,585
+Scratch-its℠ Instant Tickets  157,960,917   157,052,912   908,005
+Keno  109,091,865   108,911,367   180,498
+Powerball®  75,941,748   74,436,819   1,504,929
+Megabucks℠  31,200,704   30,745,231   455,473
+Mega Millions®  55,776,122   55,118,441   657,681
+Raffle℠  2,499,850   2,500,000   (150)
+Win For Life℠  4,467,126   3,914,104   553,022
+Lucky Lines℠  1,740,608   1,809,186   (68,578)
+Pick 4℠  1,946,679   1,953,860   (7,181)
+Total Revenue  17,105,596,920   17,119,023,646   (13,426,726)
+Prize Expense  15,698,768,833   15,725,125,820   26,356,987
+Net Revenue  1,406,828,087   1,393,897,826   12,930,261
+Direct Expenses
+Retailer Commissions  310,579,497   300,019,486   (10,560,011)
+Game Vendor Charges  42,149,957   43,465,687   1,315,730
+Tickets  2,961,030   4,145,427   1,184,397
+Advertising  6,298,714   8,005,552   1,706,838
+Sales Support  779,219   964,690   185,471
+Game Equipment/Parts & Maintenance  4,947,210   5,875,316   928,106
+Depreciation  22,113,157   28,253,270   6,140,113
+Total Direct Expenses  389,828,784   390,729,428   900,644
+Gross Profit  1,016,999,303   1,003,168,398   13,830,905
+Indirect Revenue
+Other Income (Loss)  13,058,552   2,050,000   11,008,552
+Indirect Expenses
+Public Information  851,936   1,111,100   259,164
+Research  263,784   776,330   512,546
+Personal Services  73,512,602   78,573,682   5,061,080
+Services and Supplies  30,129,302   58,525,473   28,396,171
+Depreciation  2,824,318   2,542,362   (281,956)
+Interest Expense  208,061   82,343   (125,718)
+Total Indirect Expenses  107,790,003   141,611,290   33,821,287
+Net Profit  $    922,267,852   $    863,607,108   $   58,660,744
+(1) Budget adopted by the Lottery Commission and adjusted by the Economic and Revenue
+Forecasts published by the Department of Administrative Services throughout the year.
+Statistical Section
+Statistical Section
+Index
+This part of the Oregon State Lottery’s annual comprehensive financial report presents detailed information to provide
+context for understanding what the information in the financial statements and note disclosures say about the Lottery’s
+overall financial health.
+Financial Trends
+These schedules contain trend information to help the reader understand how the Lottery’s financial performance has
+changed over time. Prior to fiscal year 2013, net position was referred to as net assets and net investment in capital
+assets was referred to as invested in capital assets. Prior year terminology has been renamed in these schedules for
+comparability.
+Net Position by Component
+Changes in Net Position
+Revenue Capacity
+These schedules contain information to help the reader assess the Lottery’s most significant revenue source, Lottery
+game sales income. The sales amounts reported for the top ten retailers and sales by county are based on Lottery’s
+business year, which is slightly different than its fiscal year of July 1 through June 30. The business year begins on the
+Sunday following the last Saturday in June and ends on the last Saturday in the following June.
+Sales by Product
+Product Percent of Total Sales
+Top Ten Retailers
+Number of Lottery Retailers and Sales by County
+Demographic and Economic Information
+These schedules offer demographic and economic indicators to help the reader understand the environment within
+which the Lottery’s financial activities take place.
+Demographic and Economic Data – State of Oregon
+Employment by Industry – State of Oregon
+Demographic Profile of Oregon Lottery Players
+Operating Information
+These schedules contain data to help the reader understand how the information in Lottery’s financial report relates to
+the products it provides and the activities it performs. There are many factors that impact the level of demand for Lottery
+products. Game themes, play styles, price points, and prize payouts typically impact the sales of instant ticket games. For
+Video LotterySM, the level of demand is generally impacted by variety of game choices, entertaining and sophisticated
+graphics, and convenience of available retailer locations.
+Number of Employees
+Operating Indicators and Capital Asset Information
+Note: The Lottery does not issue long-term debt; thus, information on debt capacity is not relevant.
+Sources: Unless otherwise noted, the information in these schedules is derived from the annual comprehensive financial
+report or the audited financial statements for the applicable year.
+Oregon State Lottery
+Net Position by Component
+Last Ten Fiscal Years
+Fiscal Year
+Net Investment
+in Capital Assets
+Unrestricted Net
+Position
+Restricted Net
+Position   Total Net Position
+2013  $ 35,206,297   $ 170,106,781        $ 205,313,078
+2015  76,354,491     169,997,090      246,351,581
+2016  95,316,854     212,344,474      307,661,328
+2017  95,749,372     190,972,061      286,721,433
+2018  75,952,509     195,453,450    $ 104,211    271,510,170
+2019  52,108,890     226,297,385          333,846    278,740,121
+2020  38,040,215     228,592,534       592,770    267,225,519
+2021  63,784,030     182,482,620       680,959    246,947,609
+2022  73,362,750     231,234,876    1,561,144    306,158,770
+2023  98,376,717    228,878,779    1,833,552    329,089,048
+Oregon State Lottery
+Changes in Net Position
+Last Ten Fiscal Years
+2014 2015 2016 2017
+Operating Revenues     Sales:     Video LotterySM (Net Receipts)  $ 727,124,878   $ 737,370,280   $ 742,730,503   $ 914,071,290
+Sports Wagering (Net Receipts)
+Scratch-itsSM Instant Tickets   109,034,321   119,578,108   131,599,460   126,498,948
+Keno   92,443,482   93,035,050   95,826,162   101,501,142
+Powerball®   45,049,124   37,091,247   63,821,261   44,856,176
+MegabucksSM   28,372,873   33,329,803   33,031,579   31,768,618
+Mega Millions®   22,333,065   20,468,872   18,823,156   17,913,809
+RaffleSM  4,997,060   7,488,730   2,499,840   2,499,750
+Win For LifeSM   4,532,922   4,082,661   3,854,189   3,569,776
+Lucky LinesSM  1,918,288   1,771,994   2,001,358   2,147,834
+Pick 4SM   1,397,158   1,435,284   1,566,384   1,475,180
+Recovery of (Provision for) Uncollectibles  971   (4,594)  18,485   (10,109)
+Other Income  177,786   382,438   672,544   593,089
+Total Operating Revenues  1,052,987,553   1,117,237,776   1,230,189,728   1,246,885,503
+Operating Expenses
+Prizes  206,571,490   211,444,280   239,317,411   217,150,249
+Retailer Commissions  203,727,883   215,514,570   234,963,289   239,551,975
+Salaries and Wages  39,443,617   37,055,741   54,427,617   51,608,241
+Depreciation and Amortization  13,542,859   20,134,347   23,863,609   29,733,663
+Services and Supplies  11,278,132   11,829,146   15,876,801   13,818,139
+Game Vendor Charges  8,638,986   8,931,443   9,891,910   8,170,995
+Advertising and Market Research  7,610,400   9,549,598   9,705,469   11,071,161
+Public Information  2,633,736   4,246,421   5,759,053   6,572,101
+Tickets  2,956,834   3,213,208   3,138,033   3,328,614
+Game Equipment Parts and Maintenance  2,265,927   1,885,491   1,734,280   1,572,029
+Sales Support  1,674,670   1,263,959   633,721   726,436
+Total Operating Expenses  500,344,534   525,068,204   599,311,193   583,303,603
+Operating Income  552,643,019   592,169,572   630,878,535   663,581,900
+Nonoperating Revenues (Expenses)
+Interest and Investment Income (Loss)  6,330,595   6,783,754   16,217,601   (481,760)
+Insurance Recoveries  3,482   12,067   2,005   15,221
+Gain (Loss) on Disposition of Assets  (257,250)  (1,473,869)  (98,971)  (12,653)
+Investment Expenses - Securities Lending  (45,956)  (74,757)  (212,675)  (369,908)
+Investment Expenses  -   (4,185)  (71,522)  (13,939)
+Interest Expense  (315,269)  (325,227)  (316,029)  (639,028)
+Total Nonoperating Revenues (Expenses)  5,715,602   4,917,783   15,520,409   (1,502,067)
+Income Before Transfers  558,358,621   597,087,355   646,398,944   662,079,833
+Transfers to Economic Development Fund  (507,250,297)  (545,948,950)  (583,179,120)  (695,750,970)
+Transfers to General Obligation Bond Fund  (1,692,668)  (1,883,433)  (1,910,077)  (1,835,887)
+Change in Net Position  $ 49,415,656   $ 49,254,972   $ 61,309,747   $ (35,507,024)
+2018 2019 2020 2021 2022 2023
+$ 933,980,026   $ 966,474,906   $ 797,498,371   $ 860,326,742   $ 1,246,146,763   $ 1,181,773,978     8,620,945   29,147,647   32,052,189   55,258,144
+130,389,967   131,236,973   149,831,274   196,029,843   163,404,873   157,960,917
+102,023,352   102,665,467   93,417,823   98,927,011   112,010,235   109,091,865
+60,088,322   49,829,088   31,196,079   40,541,274   57,488,112   75,941,748
+36,525,999   36,418,393   29,041,472   29,242,902   29,404,998   31,200,704
+30,089,400   50,210,700   23,770,095   33,631,835   24,614,302   55,776,122
+2,499,910   2,307,370   2,499,890   2,499,850   2,499,710   2,499,850
+3,608,392   3,766,700   3,637,752   3,820,432   3,821,104   4,467,126
+1,523,926   1,850,874   2,013,468   2,282,856   1,932,814   1,740,608
+1,605,368   1,765,534   1,730,474   1,996,712   1,971,791   1,946,679
+82,152   (54,947)  (253,303)  (39,809)  (35,471)  (4,939)
+441,691   1,265,527   2,306,865   420,775   3,435,060   600,041
+1,302,858,505   1,347,736,585   1,145,311,205   1,298,828,070   1,678,746,480   1,678,252,843
+231,670,894   239,044,444   223,500,660   266,065,927   257,168,546   274,198,721
+245,681,221   254,277,458   217,920,495   239,197,863   313,576,943   310,579,497
+51,906,145   61,731,587   63,045,069   74,189,390   44,867,842   70,932,252
+33,888,584   34,763,881   24,967,865   22,561,417   22,771,207   24,937,475
+13,738,901   17,747,590   27,382,826   25,490,902   19,986,158   30,314,744
+8,439,800   8,557,771   12,496,247   19,233,957   24,871,577   42,149,957
+11,106,857   8,350,536   8,052,269   5,458,147   6,063,128   6,562,498
+6,541,769   9,026,042   4,368,793   837,416   902,247   851,936
+3,042,684   2,923,348   3,398,500   3,497,439   3,111,560   2,961,030
+6,766,475   5,912,370   8,383,835   4,849,767   5,681,596   4,947,210
+965,786   1,221,244   606,130   373,821   542,447   779,219
+613,749,116   643,556,271   594,122,689   661,756,046   699,543,251   769,214,539
+689,109,389   704,180,314   551,188,516   637,072,024   979,203,229   909,038,304
+5,789,388   20,482,336   24,122,456   (2,561,203)  (8,970,219)  11,418,289
+16,908   1,049   4,053   9,932   9,946   19,509
+85,582   107,516   35,650   172,067   6,945   4,950,386
+(334,504)  (118,278)  (529,448)  (32,558)  (40,107)  (363,209)
+(12,012)  (168,928)  (14,028)  (14,083)  (13,640)  (7,016)
+(713,548)  (643,275)  (585,429)  (484,467)  (484,102)  (353,004)
+4,831,814   19,660,420   23,033,253   (2,910,312)  (9,491,177)  15,664,955
+693,941,203   723,840,734   574,221,769   634,161,712   969,712,052   924,703,259
+(706,350,736)  (714,417,052)  (583,442,933)  (652,457,782)  (908,300,942)  (899,337,574)
+(1,981,793)  (2,193,731)  (2,293,438)  (1,981,840)  (2,199,949)  (2,435,407)
+$ (14,391,326)  $ 7,229,951   $ (11,514,602)  $ (20,277,910)  $ 59,211,161   $ 22,930,278
+Oregon State Lottery
+Sales by Product
+Last Ten Fiscal Years
+Draw Games
+Fiscal
+Year Video LotterySM
+Sports
+Wagering
+Instant
+Products Keno Powerball  ®
+Mega
+Millions ®
+Oregon's
+Game
+MegabucksSM
+All Other
+Games Total
+2014 $ 742,730,503   $ 109,034,321   $ 92,443,482  $ 45,049,124  $ 22,333,065  $ 28,372,873  $ 12,845,428  $ 1,052,808,796
+2015  798,578,183    119,578,108   93,035,050   37,091,247   20,468,872   33,329,803   14,778,669   1,116,859,932
+2016  876,475,310    131,599,460   95,826,162   63,821,261   18,823,156   33,031,579   9,921,771   1,229,498,699
+2017  914,071,290    126,498,948   101,501,142   44,856,176   17,913,809   31,768,618   9,692,540   1,246,302,523
+2018  933,980,026    130,389,967   102,023,352   60,088,322   30,089,400   36,525,999   9,237,596   1,302,334,662
+2019  966,474,906    131,236,973   102,665,467   49,829,088   50,210,700   36,418,393   9,690,478   1,346,526,005
+2020  797,498,371  $  8,620,945   149,831,274   93,417,823   31,196,079   23,770,095   29,041,472   9,881,584   1,143,257,642
+2021  860,326,742   29,147,647   196,029,843   98,927,011   40,541,274   33,631,835   29,242,902   10,599,850   1,298,447,104
+2022  1,246,146,763   32,052,189   163,404,873   112,010,235   57,488,112   24,614,302   29,404,998   10,225,419   1,675,346,891
+2023  1,181,773,978   55,258,144   157,960,917   109,091,865   75,941,748   55,776,122   31,200,704   10,654,263   1,677,657,741
+Oregon State Lottery
+Product Percent of Total Sales
+Last Ten Fiscal Years
+Draw Games
+Fiscal
+Year
+Video
+LotterySM
+Sports
+Wagering1
+Instant
+Products Keno Powerball ®
+Mega
+Millions ®
+Oregon's
+Game
+MegabucksSM
+All Other
+Draw
+Games
+2014 70.5%  10.4% 8.8% 4.3% 2.1% 2.7% 1.2%
+2015 71.5%  10.7% 8.3% 3.3% 1.8% 3.0% 1.4%
+2016 71.3%  10.7% 7.8% 5.2% 1.5% 2.7% 0.8%
+2017 73.3%  10.1% 8.1% 3.6% 1.4% 2.5% 1.0%
+2018 71.7%  10.0% 7.8% 4.6% 2.3% 2.8% 0.8%
+2019 71.8%  9.7% 7.6% 3.7% 3.7% 2.7% 0.8%
+2020 69.8% 0.8% 13.1% 8.2% 2.7% 2.1% 2.5% 0.8%
+2021 66.3% 2.2% 15.1% 7.6% 3.1% 2.6% 2.3% 0.8%
+2022 74.4% 1.9% 9.8% 6.7% 3.4% 1.5% 1.8% 0.5%
+2023 70.4% 3.3% 9.4% 6.5% 4.5% 3.3% 1.9% 0.7%
+Oregon State Lottery
+Top Ten Retailers
+Current Year and Nine Business Years Prior
+2023
+Rank Retailer Sales Percent of Total Sales County
+1 The Pit Stop Sports Bar & BBQ Grill  $         10,806,176  0.67% Washington
+2 Produce Row Cafe  6,220,406  0.38% Multnomah
+3 Winners Corner  5,323,164  0.33% Multnomah
+4 Independent Sports Bar & Grill  5,241,847  0.32% Multnomah
+5 Foxy's #2  2,261,724  0.14% Clackamas
+6 Richards Deli and Pub   2,186,864  0.14% Washington
+7 Dotty's #24   2,164,932  0.13% Multnomah
+8 Doozy's   2,139,847  0.13% Deschutes
+9 Original Joe's   2,132,194  0.13% Multnomah
+10 Dotty's #27   2,129,571  0.13% Multnomah
+Totals  $         40,606,725  2.51%
+Total Lottery Sales  $   1,618,761,010
+2014
+Rank Retailer Sales Percent of Total Sales County
+1 Elmer's Pancake-Delta Park  $           1,554,767  0.15% Multnomah
+2 Dotty's #9  1,530,802  0.15% Washington
+3 Dotty's #24  1,495,415  0.14% Multnomah
+4 Shari's-Airport Way #218  1,492,779  0.14% Multnomah
+5 Deli Store  1,488,597  0.14% Columbia
+6 Owl's Nest #2  1,435,644  0.14% Multnomah
+7 Bradley's Bar & Grill  1,413,824  0.13% Multnomah
+8 Fox Den Eatery # 4, The  1,405,695  0.13% Linn
+9 Glass House Tavern  1,377,591  0.13% Multnomah
+10 Elmer's  1,372,790  0.13% Multnomah
+Totals  $         14,567,904  1.38%
+Total Lottery Sales  $   1,053,726,648
+Source: Oregon State Lottery Business Analytics and Insights Department
+Oregon State Lottery
+Number of Lottery Retailers and Sales by County
+For Business Year 2023
+Sales  Retailers
+County
+Business Year
+Sales
+Percent of
+Total Sales
+Number of
+Lottery
+Retailers
+Percent of
+Total Retailers
+Multnomah  $    379,696,280  23.44%  840 20.91%
+Washington  199,726,030  12.34%  354 8.80%
+Clackamas  154,093,551  9.52%  356 8.85%
+Marion  150,317,310  9.29%  362 9.00%
+Lane  134,559,873  8.31%  362 9.00%
+Jackson  76,978,939  4.76%  231 5.74%
+Deschutes  68,107,116  4.21%  138 3.43%
+Linn  51,000,913  3.15%  131 3.26%
+Douglas  40,006,255  2.47%  138 3.43%
+Josephine  33,321,668  2.06%  99 2.46%
+Columbia  32,459,653  2.01%  73 1.82%
+Yamhill  28,896,419  1.79%  94 2.34%
+Umatilla  28,343,311  1.75%  85 2.11%
+Clatsop  26,733,374  1.65%  81 2.01%
+Klamath  26,419,617  1.63%  79 1.96%
+Malheur  26,221,105  1.62%  45 1.12%
+Lincoln  22,244,984  1.37%  76 1.89%
+Polk  20,123,246  1.24%  62 1.54%
+Coos  16,564,196  1.02%  63 1.57%
+Benton  16,178,526  1.00%  53 1.32%
+Tillamook  14,074,522  0.87%  47 1.17%
+Wasco  12,251,627  0.76%  35 0.87%
+Crook  11,543,900  0.71%  30 0.75%
+Hood River  8,090,789  0.50%  24 0.60%
+Union  7,846,458  0.48%  29 0.72%
+Curry  6,727,606  0.42%  24 0.60%
+Jefferson  6,434,903  0.40%  20 0.50%
+Baker  6,424,408  0.40%  25 0.62%
+Morrow  3,142,658  0.19%  10 0.25%
+Grant  2,530,058  0.16%  10 0.25%
+Lake  2,189,195  0.14%  12 0.30%
+Harney  2,175,114  0.13%  12 0.30%
+Wallowa  1,463,009  0.09%  9 0.22%
+Sherman  1,158,085  0.07%  5 0.12%
+Gilliam  619,786  0.04%  6 0.15%
+Wheeler  96,533  0.01%  1 0.02%   $  1,618,761,017  100.00%  4,021 100.00%
+Source: Oregon State Lottery Business Analytics and Insights Department
+Oregon State Lottery
+Demographic and Economic Data - State of Oregon
+Last Ten Calendar Years
+Calendar
+Year   Population 1   Personal Income 1
+Per Capita
+Personal
+Income1
+Annual
+Unemployment Rate2
+2013   3,930,065      $  158,116,922      $ 40,233   7.7%
+2014   3,970,239    163,652,836    41,220   6.9%
+2015   4,028,977    176,401,260    43,783   5.7%
+2016   4,093,465    185,839,645    45,399   4.9%
+2017   4,142,776    199,422,200    48,137   4.1%
+2018   4,190,713    213,070,100    50,843   4.2%
+2019   4,217,737    224,346,400    53,191   3.7%
+2020   4,241,544    241,790,300    57,005   7.6%
+2021   4,246,155    261,546,500    61,596   5.2%
+2022   4,240,137    266,139,200    62,767   4.2%
+1Source: U.S. Department of Commerce, Bureau of Economic Analysis
+2Source: Oregon Employment Department
+Oregon State Lottery
+Employment by Industry - State of Oregon
+Calendar Year 2022 - and Nine-Years Prior
+2022  2013
+Number of  Percent of   Number of  Percent of
+Employees Total  Employees Total
+Health care and social assistance  312,843  11.76%   262,456  11.58%
+Retail trade  264,677  9.96%   237,603  10.48%
+Local government  210,480  7.92%   174,753  7.72%
+Manufacturing  206,906  7.78%   191,160  8.44%
+Accommodation and food services  190,276  7.16%   167,525  7.40%
+Professional, scientific, and technical services  187,980  7.07%   141,848  6.26%
+Construction  153,517  5.78%   108,701  4.80%
+Real estate, rental, and leasing  143,199  5.39%   98,885  4.37%
+Administrative and waste services  136,310  5.13%   120,023  5.30%
+Transportation and warehousing  132,623  4.99%   65,350  2.89%
+Other services  129,476  4.87%   119,212  5.26%
+Finance and insurance  108,772  4.09%   95,051  4.20%
+Wholesale trade  86,064  3.24%   79,477  3.51%
+Arts, entertainment, and recreation  60,435  2.27%   56,285  2.48%
+Farm employment  57,344  2.16%   66,978  2.96%
+Management of companies  52,792  1.99%   39,075  1.73%
+Educational services  50,885  1.91%   54,969  2.43%
+Information  49,275  1.85%   40,721  1.80%
+State government  43,172  1.62%   62,165  2.74%
+Forestry, fishing, and related activities  32,859  1.24%   31,775  1.40%
+Federal government, civilian  27,876  1.05%   27,606  1.22%
+Military  10,604  0.40%   12,151  0.54%
+Utilities  5,299  0.20%   4,781  0.21%
+Mining  4,621  0.17%   6,455  0.28%
+Total employment  2,658,285  100.00%   2,265,005  100.00%
+Source: U.S. Department of Commerce, Bureau of Economic Analysis
+Note: Due to confidentiality issues, the names of the ten principal employers are not available.
+The categories presented are intended to provide alternative information regarding the concentration of
+employment in various business sectors.
+Oregon State Lottery
+Demographic Profile of Oregon Lottery Players
+Last Ten Calendar Years
+2013  2014  2015  2016  2017
+Number Surveyed  1,000   1,000   2,000   2,000   2,000
+Player Percentage  47.8%  46.1%  54.1%  48.1%  54.3%
+Players  Players  Players  Players  Players
+Gender
+Male  55%  50%  51%  49%  49%
+Female  45%  50%  49%  51%  51%
+Other (New starting in 2019)
+Age           18 - 24  10%  9%  9%  9%  9%
+25 - 34  17%  19%  20%  20%  16%
+35 - 44 (35 - 54 starting in 2018)  16%  16%  16%  15%  20%
+45 - 54  23%  21%  21%  22%  20%
+55 - 64  19%  16%  14%  10%  16%
+65 +  15%  19%  21%  24%  19%
+Education (not asked in 2020)
+Some High School  3%  4%  5%  5%  3%
+High School Graduate  18%  20%  22%  25%  18%
+College/Tech School  32%  33%  27%  25%  45%
+College Graduate  23%  21%  32%  32%  23%
+Graduate School/Degree  17%  16%  12%  11%  11%
+Marital Status (no longer asked as of 2020)
+Single  26%  25%  24%  24%  16%
+Married  51%  48%  52%  51%  65%
+Co-habitating  5%  6%  7%  8%  6%
+Divorced or Separated  7%  9%  10%  9%  7%
+Widowed  4%  5%  6%  6%  4%
+Civil Union/Domestic Partnership  1%  1%  1%  1%  2%
+Income
+Less than $15,000 ($25,000 Beginning in 2018)  9%  8%  9%  8%  6%
+$15,000 - $49,999 ($25,000 - $49,999 Beginning in 2018)  27%  31%  29%  25%  31%
+$50,000 - $74,999  15%  12%  13%  12%  19%
+$75,000 - $99,999  10%  6%  10%  10%  13%
+$100,000 +  15%  12%  16%  15%  13%
+Refused/Don't Know  24%  31%  23%  30%  18%
+Sources:
+Player information from Oregon State Lottery's Tracking Study 2013 to 2019, 2021, 2022.  Study for 2018 performed Summer 2019.
+Player information from Oregon State Lottery's Brand Promise Study 2020
+State information from U.S. Census Bureau, 2018 American Community Survey Tables - https://data.census.gov
+2018  2019  2020  2021  2022
+2,023   2,023   800   1,500   1,506
+55.0%  54.5%  47.6%  47.9%  50.6% 2022 State
+Population
+18+
+Players  Players  Players  Players  Players
+50%  50%  49%  51%  53% 50.0%
+50%  49%  50%  48%  47% 50.0%   1%  1%  1%  0%
+8%  8%  7%  10%  9% 8.5%
+19%  19%  20%  18%  19% 14.1%
+38%  37%  38%  37%  39% 26.4%
+n/a  n/a  n/a  n/a  n/a n/a
+16%  16%  17%  12%  14% 12.1%
+19%  19%  19%  23%  19% 19.3%
+3%  3%  n/a  3%  3% 8.4%
+18%  18%  n/a  20%  18% 22.7%
+46%  45%  n/a  39%  44% 32.6%
+22%  22%  n/a  24%  23% 22.2%
+11%  11%  n/a  13%  11% 14.1%
+27%  27%  n/a  n/a  n/a 33.0%
+42%  42%  n/a  n/a  n/a 47.6%
+13%  13%  n/a  n/a  n/a n/a
+12%  12%  n/a  n/a  n/a 14.2%
+6%  6%  n/a  n/a  n/a 5.2%
+n/a  n/a  n/a  n/a  n/a n/a
+14%  14%  n/a  16%  12% 8.9%
+26%  26%  n/a  23%  26% 30.9%
+18%  18%  n/a  17%  16% 24.0%
+15%  15%  n/a  15%  20% 14.4%
+21%  21%  n/a  25%  21% 21.8%
+6%  6%  n/a  5%  5% n/a
+Oregon State Lottery
+Number of Employees
+Last Ten Fiscal Years
+20142 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Sales, Marketing & Retail Services   236      239    217      226    237    217    207    192    189    190
+Support Services   157      152    163      142    135    143    131    125    145    156
+Director's Office3,4,5      33        35       52        63       66       95       66       63       66       64
+Security1,5      15        19       16        18       17       20       16       26       34       37
+Total   441      445    448      449    455    475    420    406    434    447
+Source: Lottery Payroll System
+1 Security employees excludes employees of the Oregon State Police.
+2 There were a number of vacant positions filled during the year as the economy strengthened and hiring freeze was
+removed.
+3 Includes Corporate Affairs division in fiscal years starting in 2018.
+4 Includes Product Management, Lottery Products Portfolio & Gaming Products Portfolio in fiscal years starting in 2021.
+5 2021 Retail Contracts positions split between Director's Office and Security, 3 and 11 respectively. 2022 Retail
+Contracts positions, 15, entirely in Security.
+Oregon State Lottery
+Operating Indicators and Capital Asset Information
+Last Ten Fiscal Years
+Fiscal Year Number of Lottery Retailers1
+Number of Video Lottery
+Terminals Deployed1 Per Capita Sales 2
+2014 3,843 11,951                      268.12
+2015 3,939 11,925  281.31
+2016 3,920 11,909  304.50
+2017 3,932 11,817  304.41
+2018 3,923 11,742  314.36
+2019 3,975 11,586  321.60
+2020 3,919 11,567  271.06
+2021 3,896 10,851  310.91
+2022 3,829 10,999  394.56
+2023 3,797 10,936  395.66
+1Source: Oregon State Lottery Business Analytics & Insights Department. (2020) Based on the week prior to the
+COVID-19 shutdown
+2Source: Calculated based on calendar year population data from US Census Bureau.
+This page intentionally left blank.
+Other Reports
+Report on Internal Control Over Financial Reporting and Compliance
+Independent Auditor’s Report on Internal Control over
+Financial Reporting and on Compliance and Other Matters
+Based on an Audit of Financial Statements Performed in
+Accordance With Government Auditing Standards
+The Honorable Tina Kotek, Governor of Oregon
+MardiLyn Saathoff, Oregon Lottery Commission
+Michael Wells, Director, Oregon State Lottery
+We have audited, in accordance with the auditing standards generally accepted in the United States of
+America and the standards applicable to financial audits contained in Government Auditing Standards issued
+by the Comptroller General of the United States, the financial statements of the Oregon State Lottery, as of
+and for the year ended June 30, 2023, and the related notes to the financial statements, which collectively
+comprise the agency’s basic financial statements, and have issued our report thereon dated November 21,
+2023.
+Report on Internal Control over Financial Reporting
+In planning and performing our audit of the financial statements, we considered the Oregon State Lottery’s
+(department) internal control over financial reporting (internal control) as a basis for designing audit
+procedures that are appropriate in the circumstances for the purpose of expressing our opinion on the
+financial statements, but not for the purpose of expressing an opinion on the effectiveness of the department’s
+internal control. Accordingly, we do not express an opinion on the effectiveness of the department’s internal
+control.
+A deficiency in internal control exists when the design or operation of a control does not allow management or
+employees, in the normal course of performing their assigned functions, to prevent, or detect and correct,
+misstatements on a timely basis. A material weakness is a deficiency, or a combination of deficiencies, in
+internal control, such that there is a reasonable possibility that a material misstatement of the entity’s financial
+statements will not be prevented, or detected and corrected on a timely basis. A significant deficiency is a
+deficiency, or a combination of deficiencies, in internal control that is less severe than a material weakness,
+yet important enough to merit attention by those charged with governance.
+Our consideration of internal control was for the limited purpose described in the first paragraph of this section
+and was not designed to identify all deficiencies in internal control that might be material weaknesses or
+significant deficiencies. Given these limitations, during our audit we did not identify any deficiencies in internal
+control that we consider to be material weaknesses. However, material weaknesses or significant deficiencies
+may exist that were not identified.
+Report on Compliance and Other Matters
+As part of obtaining reasonable assurance about whether the department’s financial statements are
+free from material misstatement, we performed tests of its compliance with certain provisions of laws,
+regulations, contracts, and grant agreements, noncompliance with which could have a direct and
+material effect on the financial statements. However, providing an opinion on compliance with those
+provisions was not an objective of our audit, and accordingly, we do not express such an opinion. The
+results of our tests disclosed no instances of noncompliance or other matters that are required to be
+reported under Government Auditing Standards.
+Purpose of this Report
+The purpose of this report is solely to describe the scope of our testing of internal control and
+compliance and the results of that testing, and not to provide an opinion on the effectiveness of the
+department’s internal control or on compliance. This report is an integral part of an audit performed in
+accordance with Government Auditing Standards in considering the department’s internal control and
+compliance. Accordingly, this communication is not suitable for any other purpose.
+State of Oregon
+November 21, 2023
+This page intentionally left blank.

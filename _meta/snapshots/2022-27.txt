@@ -1,0 +1,529 @@
+Fiscal Year 2021
+Keeping Oregon Accountable
+September 2022
+Report 2022-27
+The Secretary of State Audits Division annually audits the State of Oregon’s financial statements and compliance with
+federal program requirements. The federal government requires these audits for the financial assistance Oregon
+receives annually. These audits determine whether amounts reported in Oregon’s financial statements are materially
+correct and adequately supported; evaluate the state’s administration of major federal programs for compliance with
+applicable laws, rules, and regulations; conclude on whether the Schedule of Expenditures of Federal Awards is fairly
+presented in relation to the state’s financial statements; and review accounting and compliance control procedures .
+The results of these audits are included in the State’s Annual Financial Report, and in the annual
+Statewide Single Audit
+Report. This report summarizes the results of the  fiscal year 2021 audits.
+Audit of the State of Oregon’s Financial
+Statements
+• We identified $1.8 billion in accounting errors
+(unintentional mistakes) and proposed adjustments
+to correct them in the financial statements.
+• We issued an unmodified opinion (clean) on the
+state’s financial statements for fiscal year 2021.
+• We issued eight significant deficiencies in internal
+control with recommendations to improve standard
+controls used to ensure the accuracy of financial
+information. A significant deficiency is less severe
+than a material weakness, yet requires corrective
+action.
+Audits of Compliance with Federal Program
+Requirements
+• We audited 18 federal programs at 11 agencies and
+issued 29 findings and recommendations.
+• We questioned whether $10,031,362 in expenditures
+were appropriately paid with federal funds.
+• We issued qualified opinions on the Temporary
+Assistance for Needy Families (TANF) program and
+Low-Income Home Energy Assistance Program
+(LIHEAP), indicating the departments’ internal
+controls are inadequate to prevent or detect
+significant noncompliance in a timely manner.
+• We followed up on 47 findings from the prior three
+years to see if corrective action had been taken at
+eight agencies.
+• Federal expenditures exceeded $20 billion, 30% of
+which included COVID-related funding.
+Report Highlights
+Fiscal Year 2021
+Keeping Oregon Accountable
+Oregon Secretary of State | Report 2022-27 | September 2022 | page 3
+Overview of Annual Financial and Federal
+Audits
+The Secretary of State Audits Division annually audits the State of Oregon’s financial statements and
+compliance with certain federal program requirements. The federal government requires these audits
+for the financial assistance Oregon receives annually, which ranged between $11  to $12 billion in fiscal
+years 2015-19. In fiscal year 2020, that assistance increased to $17 billion, due largely to a substantial
+increase in federal funding for Unemployment Insurance in response to the global pandemic. Fiscal year
+2021 assistance was $22 billion, again attributed to Unemployment Insurance increases and other
+pandemic-related funding, including the Coronavirus Relief Fund and Education Stabilization Fund.
+These audits determine whether amounts reported in Oregon’s financial statements are materially
+correct and adequately supported and evaluate the state’s administration of major federal progr ams
+for compliance with applicable laws, rules, and regulations.
+This report summarizes the results of the fiscal year 2021 annual audits. The State’s Annual Financial
+Report and annual Statewide Single Audit Report are on the Secretary of State website.
+1 Detailed
+financial and federal findings, auditor recommendations, and agency planned corrective actions are
+included in the Statewide Single Audit Report. A glossary of accounting terms is located at the end of
+this report.
+Annual Financial Report
+State agency directors and managers are accountable to Oregonians for how they use public monies.
+To help ensure accurate financial reporting, state agencies are to comply with Generally Accepted
+Accounting Principles. The management of each state agency is responsible for implementing and
+maintaining effective internal controls to ensure the integrity of financial and accounting information.
+Preparing accurate financial statements is essential for ensuring reliable and transparent financial
+information is provided to decision makers and key stakeholders. These statements provide a
+comprehensive view of the state’s financial activities during the fiscal year (Statement of Activities)
+and an overall picture of the state’s financial position at the end of the fiscal year (Statement of Net
+Position).
+Statewide Accounting and Reporting Services, part of the Department of Administrative Services,
+prepares the statements by compiling financial information from more than 100 state agencies into the
+proper format for governmental reporting. They also provide accounting guidance and training to state
+agency staff throughout the year.
+We audit these financial statements following Government Auditing Standards applicable to financial
+audits, which require we plan and perform audit work to obtain reasonable assurance about whether
+the financial statements are materially correct. As part of the annual audit of the state’s financial
+statements, we provide our professional opinion about the completeness, accuracy, and reliability of
+1 The Annual Financial Report 2022-03; and the annual Statewide Single Audit Report 2022-18.
+Oregon Secretary of State | Report 2022-27 | September 2022 | page 4
+the state’s accounting information. Accurate and reliable accounting data is crucial to tracking how
+state dollars are spent and provides a starting point for the next budget cycle.
+Fiscal Year 2021 Results
+We issued an unmodified opinion on the state’s financial statements for fiscal year 2021. An unmodified
+opinion means the financial statements, as corrected, are “fairly presented in conformance with
+Generally Accepted Accounting Principles.”
+To conduct this audit, our financial auditors performed audit procedures of all major funds of the
+government and audited hundreds of accounts at 23 state agencies, including the Departments of
+Human Services, Education, Transportation, Revenue, and the Oregon Health Authority. During the
+course of our audit, we reviewed assets of $50 billion, liabilities of $21 billion, revenues of $41 billion,
+and expenditures of $42 billion. We reported the results of our audit to agency management, the state
+Legislature, federal officials, and the public.
+Our audit of the state’s financial records identified eight findings involving seven state agencies. To
+mitigate risks from these findings, we recommended agencies improve standard controls commonly
+used to ensure the accuracy of financial information. The type of control fin ding we report depends on
+the degree of control weakness and generally falls into one of two categories, as shown in Figure 1: a
+significant deficiency or material weakness. A material weakness is more severe and more likely to have
+an impact on the financial statements. We did not report any material weaknesses in 2021.
+Figure 1: Material weaknesses identified vary from year-to year
+We proposed audit adjustments to correct accounting errors in the state’s financial statements.
+Accounting errors occur when an agency does not record a transaction, or records a transaction using
+incorrect account coding, resulting in amounts appearing in the wrong year or the wrong place in the
+financial statements. Adjustments may also be necessary when an accounti ng standard is
+misinterpreted or misapplied. When errors are large enough to misrepresent the balance of a fund, we
+propose adjustments to correct the account balance. Figure 2 shows the dollar amount of adjustments
+significantly decreased while the number of adjustments remained steady. The majority of last year’s
+monetary adjustments were due to implementation of a new accounting standard.
+8 8
+3 1
+FY 2017 FY 2018 FY 2019 FY 2020 FY 2021
+Signficant Deficiency Material Weakness
+Oregon Secretary of State | Report 2022-27 | September 2022 | page 5
+Figure 2: Dollar amount of adjustments decreased in fiscal year 2021
+Figure 3 lists the agencies where we proposed audit adjustments for fiscal year 2021. Audit
+adjustments were the result of control deficiencies related to year end accounting entries, where
+accruals did not reasonably estimate actuals, contained arithmetic errors, or were not made.
+Additionally, deficiencies were related to incorrect accounts payable balances, revenue recognition, and
+bond valuations. Most proposed adjustments moved reported amounts from one financial account to
+another to properly report account balances in the correct classification in the financial statements.
+The audit adjustments we proposed align Oregon’s financial statements with accounting standards and
+demonstrate the importance of the annual financial audit.
+Figure 3: Proposed financial audit adjustments totaled $1.8 billion for fiscal year 2021
+State agency Accounts
+affected Amount
+Department of Human Services / Oregon Health Authority 30 $  692,027,907
+Department of Revenue 8 347,449,584
+Department of Consumer and Business Services 18 322,338,915
+Department of Transportation 12 131,284,516
+Department of Forestry 16 99,324,839
+Employment Department 9 96,013,031
+Multiple Agencies* 18 65,920,058
+Department of Administrative Services 5 10,524,795
+Housing and Community Services Department 2 980,723
+Total 118 $1,765,864,367
+Note: In fiscal year 2021, adjustments were proposed to identify and track activity related to smaller agencies that are part of the
+reporting entity, but optionally excluded from the financial statements.
+History of Annual Financial Report findings
+When considering the extent of financial findings, it is important to know uncorrected prior year
+findings also need to be addressed to have strong internal controls. As shown in Figure 4, 10 financial
+findings from prior years were corrected in 2021. While seven prior year findings remain outstanding,
+the agencies have made progress toward addressing the recommendations.
+75 59 62
+$0
+$1,000
+$2,000
+$3,000
+$4,000
+$5,000
+$6,000
+$7,000
+2017 2018 2019 2020 2021
+Amount of proposed adjustments in
+millions
+Number of proposed account adjustments each fiscal year
+Oregon Secretary of State | Report 2022-27 | September 2022 | page 6
+Figure 4: Agencies improve correction of findings
+FY 2017 FY 2018 FY 2019 FY 2020 FY 2021
+Total prior year findings reviewed 18 19 20 16 17
+Prior year findings, not resolved 11 14 13 7 7
+Prior year findings, corrected 7 5 7 9 10
+Rate of corrections 39% 26% 35% 56% 59%
+Statewide Single Audit
+Oregon annually receives federal dollars through grant agreements with federal agencies, which totaled
+$22 billion in fiscal year 2021. These grants are awarded to state agencies for programs that provide
+various services, including public health and safety, agricultural research, and homeland security.
+Agencies receiving the funds are required to comply with various federal requirements for the
+administration of the programs. Oregon continued to receive substantially more in federal dollars in
+fiscal year 2021 to assist with the response to the global pandemic. Unemployment Insurance, Medicaid,
+and the Coronavirus Relief Fund each expended between $700 million and $1 billion more than the prior
+year. A new program, Presidential Declared Disaster Assistance to Individuals and Households - Other
+Needs, expended $405 million in funds associated with unemployment insurance benefit payments.
+The Audits Division issues the Single Audit Report, which includes a schedule prepared by the
+Department of Administrative Services of all federal funds spent by the state for the year. The report
+also includes audit findings from the annual financial audit and the federal compliance audits. Agency
+management provide responses about whether they agree with each finding and wha t actions they
+plan to take to correct the underlying issues. In addition, the report presents the status of findings for
+the prior two years and any action agency management has taken to correct the findings.
+The federal Office of Management and Budget (OMB) develops nationwide policy for performing federal
+compliance audits. OMB provides rigid instructions for determining which programs to audit and the
+specific audit procedures we need to perform for each federal program to ensure the state is
+complying with federal requirements when administering the programs. The federal government uses
+the annual Single Audit Report to monitor how well their programs are administered and to follow up on
+any findings we identify. Federal granting agencies follow up on our audit findings for purposes of
+enforcing compliance and determining whether questioned costs need to be repaid or if any sanctions
+will be imposed.
+The following highlights key information from the 2021 Statewide Single audit.
+Fiscal Year 2021 Federal Expenditures
+In fiscal year 2021, the State of Oregon spent $22 billion in federal funds for 408 federal programs
+administered by 54 state agencies. Adhering to OMB requirements designed to select programs based
+on expenditures and risk, we audited 18 major federal programs for compliance with federal
+requirements.
+As shown in Figure 5, the audited programs accounted for $14.1 billion, or 64%, of the $22 billion spent
+in fiscal year 2021. Medicaid is the single largest program and accounts for $9.4 billion in federal funds
+spent by the state.
+Oregon Secretary of State | Report 2022-27 | September 2022 | page 7
+Figure 5: We audited 64% of fiscal year 2021 single audit expenditures (in billions)
+As shown in Figure 6, the Oregon Health Authority and the Oregon Department of Human Services
+accounted for $12.8 billion, or 59%, of the state’s federal expenditures. The Medicaid program accounts
+for 88% of the Oregon Health Authority’s federal expenditures and 51% of the Oregon Department of
+Human Services’ federal expenditures. The Oregon Department of Human Services administers other
+large federal programs, including Supplemental Nutrition Assistance, commonly known as food stamps,
+Temporary Assistance for Needy Families, and Foster Care.
+Figure 6: ODHS and OHA account for over half of federal expenditures by state agencies, fiscal year 2021
+Of the 408 federal programs administered by the State of Oregon in fiscal year 2021, 1 5 programs
+account for 93% of the state’s total federal expenditures. The Medicaid program is by far the largest
+public assistance program administered by the state, as depicted in Figure 7. The Other category
+combines 393 federal programs, each with expenditures less than $100 million.
+1 program
+Medicaid $9.4 billion
+408  programs totaling $22 billion
+$0 $2 $4 $6 $8 $10 $12 $14 $16 $18 $20 $22
+18 Programs Audited
+Spent
+Billions
+$14 billion
+total
+Oregon Health
+Authority
+$7.7 billion
+Oregon Department of
+Human Services
+$5.1 billion
+Employment
+Department
+$5.9 billion
+Other
+$1.6
+billion
+Department of
+Education
+$908.3 million
+Department of
+Transportation
+$604.2 million
+Oregon Secretary of State | Report 2022-27 | September 2022 | page 8
+Figure 7: Medicaid and Unemployment Insurance expenditures far exceed expenditures of other programs,
+fiscal year 2021 (in millions)
+Note: Full titles are: Epidemiology and Laboratory Capacity for Infectious Diseases (ELC), Presidential Declared Disaster
+Assistance to Individuals and Households - Other Needs, and Disaster Grants - Public Assistance (Presidentially Declared
+Disasters).
+The state’s Unemployment Insurance program administered by the Oregon Employment Department
+continued to see historic funding increases due to the pandemic. Fiscal year 2021 and 2020
+expenditures were $5.4 billion and $4.7 billion respectively, an increase from a prior three-year average
+of $581 million. The significant changes in expenditures were the result of federal legislation to aid in
+pandemic relief, namely the Emergency Unemployment Insurance Stabilization and Access Act of 2020,
+the CARES Act of 2020, and the American Rescue Plan Act of 2021 (ARPA).
+The Medicaid program provides health insurance coverage to low-income families. The cost to provide
+this coverage grows every year, but the state’s portion decreased this year. Figure 8 shows Oregon’s
+Medicaid costs, both federal and state, for the past five years.
+$5,437
+$1,906
+$1,139
+$1,069
+$462
+$408
+$405
+$278
+$190
+$183
+$138
+$130
+$126
+$119
+$114
+$0 $2,000 $4,000 $6,000 $8,000 $10,000
+Medicaid Cluster
+Unemployment Insurance
+SNAP Cluster
+Coronavirus Relief Fund
+All Other Programs
+Highway Planning and Construction Cluster
+Disaster Grants - Public Assistance*
+Presidential Declared Disaster Assistance*
+Children's Health Insurance Program
+Education Stabilization Fund
+Child Nutrition Cluster
+Title I Grants to Local Educational Agencies
+Special Education Cluster (IDEA)
+Child Care Development Fund Cluster
+Foster Care Title IV-E
+Epidemiology*
+$9,409
+Millions
+Oregon Secretary of State | Report 2022-27 | September 2022 | page 9
+Figure 8: Total Medicaid expenditures increase each year
+Fiscal Year 2021 Statewide Single Audit Results
+As shown in Figure 9, we audited 18 federal programs administered by the State of Oregon. In addition
+to Medicaid, which is required to be audited every year, the Coronavirus Relief Fund (CRF) and
+Education Stabilization Fund (ESF) were considered high-risk and required to be audited this year. We
+audited six programs at the Oregon Department of Human Services and Oregon Health Authority, as
+well as programs at the Oregon Department of Education, Department of Administrative Services,
+Oregon Military Department, Oregon Employment Department, Department of Justice, Oregon
+Business Development Department, Oregon Department of Fish and Wildlife, Oregon Department of
+Transportation, and the Oregon Housing and Community Services Department. OMB Uniform Guidance
+requires these audits.
+We reported 29 findings to eight of these agencies with recommendations to improve controls over
+compliance with the key federal requirements relevant to each program. Similar to our audit of the
+annual financial report, the type of control finding we report depends on the degree of control
+weakness and generally falls into one of two categories: a significant deficiency or a material weakness
+in controls over compliance.
+In addition to the findings, we questioned whether Oregon’s spending of $10,031,362 in federal  funds
+was appropriate under federal program rules. “Questioned costs” is a term OMB requires when
+reporting findings. When we question costs, we are identifying program costs that may, or may not, be
+allowed to be paid for with federal funds. The federal funding agency reviews our findings and
+determines whether the costs are federally reimbursable.
+$7.0 $7.3 $7.6
+$8.4
+$9.4
+$2.4 $2.6 $2.9
+$3.1
+$3.0
+$0
+$2
+$4
+$6
+$8
+$10
+$12
+$14
+FY 2017 FY 2018 FY 2019 FY 2020 FY 2021
+Billions
+Federal Medicaid Expenditures  State Medicaid Expenditures
+Oregon Secretary of State | Report 2022-27 | September 2022 | page 10
+Figure 9: We audited 18 programs expending $14.1 billion in federal funds for fiscal year 2021
+Federal Program 2021 Findings
+Federal Program
+Expenditures
+Medicaid Cluster  5 $  9,409,367,918
+SNAP Cluster 1 1,906,327,200
+Coronavirus Relief Fund 6 1,139,453,069
+Presidential Declared Disaster Assistance to Individuals and
+Households - Other Needs 0 405,485,456
+Education Stabilization Fund (ESF) 2 189,949,328
+Child Nutrition Cluster 0 183,052,347
+Title I Grants to Local Educational Agencies 1 137,634,195
+Special Education Cluster (IDEA) 1 130,051,138
+Foster Care Title IV-E 2 119,335,446
+Epidemiology and Laboratory Capacity for Infectious Diseases (ELC) 1 113,619,270
+Temporary Assistance for Needy Families (TANF)  3 96,206,083
+Child Support Enforcement 0 69,212,834
+National Guard Military Operations and Maintenance (O&M)
+Projects 3 60,834,033
+Low-Income Home Energy Assistance 3 41,475,569
+Child and Adult Care Food Program  34,153,221
+Formula Grants for Rural Areas 0 27,833,154
+Fish and Wildlife Cluster 1 25,139,653
+Military Construction, National Guard 0 12,340,091
+29 $ 14,101,470,005
+One finding for non-major program (CHIP) not included in this chart. One ESF finding is shared with Title I and counted twice
+above.
+This year, we questioned $4.8 million in directly identifiable costs and another $5.2 million in projected
+errors based on our sample testing. Figure 10 shows the amount of questioned costs we identified by
+program and state agency. CRF has the largest amount of questioned costs, with $9 million in known
+and projected errors. The CRF questioned costs at the Oregon Health Authority, Oregon Housing and
+Community Services Department, and Oregon Business Development were due to noncompliance with
+the subrecipient monitoring compliance requirement — namely, ensuring subawards were used for
+authorized purposes and performing timely monitoring. For CRF at the Department of Administrative
+Services, the questioned costs were due to not ensuring costs submitted for reimbursement were
+allowable.
+Oregon Secretary of State | Report 2022-27 | September 2022 | page 11
+Figure 10: The majority of questioned costs were for the Coronavirus Relief Fund
+Federal Program
+Federal Program
+Expenditures
+Questioned
+Costs
+Coronavirus Relief Fund
+Oregon Health Authority  $       202,635,711  $  4,594,450
+Department of Administrative Services 449,115,741  3,917,490
+Oregon Housing and Community Services Department 97,741,787  420,433
+Oregon Business Development Department 147,658,868  86,355
+National Guard Military Operations and Maintenance Projects
+Oregon Military Department 60,834,033  661,268
+Medicaid
+Oregon Department of Human Services/Oregon Health Authority 9,391,402,870  253,359
+Children's Health Insurance Program (CHIP)*
+Oregon Health Authority 271,708,446  77,214
+Foster Care
+Oregon Department of Human Services 117,645,358  20,793
+Total $ 10,738,742,815  $ 10,031,362
+Note: CHIP was not a major program in fiscal year 2021.
+Qualified opinions
+When the results of an audit determine the agency has sufficient controls to administer the program
+and the program is generally in compliance with federal requirements, we issue an unmodified opinion.
+An unmodified, or “clean” opinion means there are no “qualifications” (concerns) that would cause us to
+alter our opinion. However, when we identify programs where a state agency’s internal controls are
+inadequate to reasonably prevent or detect material noncompliance in a timely manner, we issue a
+qualified opinion for the program.
+For fiscal year 2021, we issued two qualified opinions. We found the Oregon Department of Human
+Services did not establish adequate internal controls and was not materially compliant with federal
+requirements for the Temporary Assistance for Needy Families (TANF) program for the fourth
+consecutive year. We also found the Low-Income Home Energy Assistance Program (LIHEAP) materially
+noncompliant with Federal Funding Accountability and Transparency Act (FFATA) reporting
+requirements.
+History of Statewide Single Audit Findings
+The OMB establishes categories of compliance requirements and the federal awarding agencies
+determine which categories are key for their programs. Not all requirements apply to every program
+and some requirements are more complex than others. Figure 11 illustrates compliance requirements
+with findings for the past five years. Totals by category indicate which requirements are most
+problematic for Oregon.
+Oregon Secretary of State | Report 2022-27 | September 2022 | page 12
+Figure 11: Findings history by type of compliance requirement
+Compliance requirement 2017 2018 2019 2020 2021
+Allowable Activities and Costs 8+ 8+ 5+ 6+ 4+
+Cash Management
+Eligibility 2 5+ 2 5+
+Equipment 1   1 1
+Matching, LOE, Earmarking 2 5 1 2+ 4+
+Period of Performance 1  1 2 1
+Procurement and Suspension and Debarment 2  1
+Reporting 4+ 3 3 5 7
+Subrecipient Monitoring 6 5 1 2 5+
+Special Tests 1 3 3 5+ 7
+Total findings 27 29 17 28 29
+Note: Plus sign indicates multiple compliance requirements appear in one finding, but are only counted once in this display.
+The OMB requires auditors to perform follow-up procedures in the following year to determine whether
+an agency has taken appropriate corrective action to resolve the findings. We followed  up on the
+status of 47 federal compliance findings that remained uncorrected from prior years and found
+agencies had corrected 21 of them; however, 26 prior year findings will continue into fiscal year 2022
+because they remain uncorrected. In addition, 13 of the 18 programs audited for fiscal year 2021 have
+findings that will require follow-up or full audits in 2022.
+Some findings remain uncorrected from one year to the next because agencies do not correct the
+underlying issues causing the noncompliance or control weaknesses. While some findings take time and
+resources to correct, others may remain simply because management does not make it a priority to
+address them.
+Figure 12 displays a history of ongoing findings by agency, program, and nature of the findings that
+continue to be uncorrected at the end of fiscal year 2021 and have been ongoing for at least four years.
+When a finding is uncorrected, we are required to continue auditing the requirement until it is resolved.
+Three programs had ongoing findings corrected in fiscal year 2021: Foster Care, Adoption Assistance,
+and Vocational Rehabilitation.
+The TANF and Medicaid programs both have unresolved audit findings from 2010. Originating in fiscal
+year 2010, TANF data reports required to be submitted to the federal agency do not accurately reflect
+case status and activity of the reporting period. Due to implementation of a new system, fixing the
+data issues had not been prioritized. Since implementation, reporting errors have increased, but agency
+management is working to ensure proper reporting from the new system. Medicaid’s client eligibility
+finding includes eligibility that was not re-verified, ineligible individuals receiving payments, and missing
+applications. Progress has been made related to client eligibility, and the number of errors and severity
+of the issue has lessened over time. Medicaid’s provider eligibility finding, originating in 2012, includes
+providers that were not re-validated or their eligibility determination was not fully supported with
+required documentation. Progress has been related to provider eligibility with the implementation of
+updated applications, procedures, and policies.
+Oregon Secretary of State | Report 2022-27 | September 2022 | page 13
+Figure 12: History of ongoing findings
+Agency Program Finding Summary
+Origination
+Year
+Years
+Ongoing
+ODHS Temporary Assistance for Needy Families Accurate reports 2010 12
+ODHS/OHA Medicaid Client eligibility 2010 12
+ODHS/OHA Medicaid Provider eligibility 2012 10
+ODHS Child Care and Development Fund Incorrect copays 2014 8
+ODFW  Fish & Wildlife Cluster  Monitoring real
+property 2017 5
+ODHS – Oregon Department of Human Services
+OHA – Oregon Health Authority
+ODFW – Oregon Department of Fish & Wildlife
+It is the responsibility of the federal granting agency to follow up with state agencies on findings
+included in the Single Audit Report. After investigating, the federal agency issues a determination letter
+to the state agency, providing its conclusion about the finding and the corrective action the state
+agency plans to take to resolve the finding. Generally, the determination letters uphold our findings,
+reinforce our recommendations, and request action from the state agency. Sometimes the federal
+agency imposes a sanction upon the state or adjusts future funding to correct the issue. Occasionally,
+the federal agency will clarify a requirement in favor of the state agency and the finding is no l onger
+valid. Only federal agencies have the authority to enforce their grant requirements.
+Oregon Secretary of State | Report 2022-27 | September 2022 | page 14
+Glossary of Terms
+Asset: A resource with economic value that the government owns or controls with the expectation it will provide
+future benefit.
+Annual Financial Report: The government entity’s official annual report that includes financial statements
+designed to report the financial position and results of operations of the primary government (including its blended
+component units) and provide an overview of the discretely presented component units.
+Determination Letter: Letter written by the federal awarding agency in response to the single audit findings. This
+letter provides their conclusions about the findings and the actions the state agency plans to take to resolve the
+findings.
+Expenditure: Designates the cost of goods delivered or services rendered, whether paid or unpaid.
+Federal Expenditure: Charges made by a non-Federal entity to a project or program for which a Federal award
+was received.
+Error: A mistake in an accounting entry that was not intentional.
+Generally Accepted Accounting Principles (GAAP): A combination of authoritative standards (set by policy
+boards) and the commonly accepted ways of recording and reporting accounting information.
+Government Auditing Standards: The professional standards and guidance issued by the Comptroller General of
+the United States that provide the framework for conducting high quality audits of governmental entities.
+Internal Controls: Methods put in place by management to ensure the integrity of financial and accounting
+information.
+Liability: Legal debts or obligations between one party and another not yet completed or paid for, defined by
+previous business transactions, events, sales, exchange of assets or services, or anything that would provide
+economic benefit at a later date.
+Qualified Opinion: The type of audit opinion given when audit procedures identify a department or program’s
+internal controls are inadequate to prevent or detect significant noncompliance or financial material
+misstatements.
+Questioned Cost: A cost questioned by the auditor for violation of federal award provisions, or lack of supporting
+documentation, or because the cost appears unreasonable.
+Revenue: Income received or earned during a specific period.
+Statement of Activities: Required basic financial statement that shows the financial results of the year’s activities.
+The statement of activities presents revenues less expenditures to show net position.
+Statement of Net Position: Required basic financial statement that shows the balance of the assets, liabilities,
+deferrals, and net position at June 30.
+Subrecipient: An entity that receives federal funds from the state to carry out a federal program.
+Unmodified Opinion: The type of audit opinion given when the financial statements, as corrected, are fairly
+presented in conformance with GAAP.
+Oregon Secretary of State | Report 2022-27 | September 2022 | page 15
+About the Secretary of State Audits Division
+The Oregon Constitution provides that the Secretary of State shall be, by virtue of the office, Auditor
+of Public Accounts. The Audits Division performs this duty. The division reports to the elected
+Secretary of State and is independent of other agencies within the Executive, Legislative, and Judicial
+branches of Oregon government. The division has constitutional authority to audit all state officers,
+agencies, boards, and commissions as well as administer municipal audit law.
+Report team
+Mary Wenger, CPA, Deputy Director
+Teresa Furnish, CISA, Deputy Director
+Sarah Anderson, CPA, Audit Manager
+Amy John, CPA, Audit Manager
+Kelly Olson, CPA, Audit Manager
+Michelle Searfus, CPA, Audit Manager
+Janet Lowrey, CPA, Senior Auditor
+This report is intended to promote the best possible management of public resources.
+Copies may be obtained from:
+Oregon Audits Division
+255 Capitol St NE, Suite 180
+Salem OR 97310
+(503) 986-2255
+audits.sos@oregon.gov
+sos.oregon.gov/audits

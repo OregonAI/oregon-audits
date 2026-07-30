@@ -1,0 +1,1492 @@
+Oregon Department of Environmental Quality
+Ongoing Strategic Planning
+Can Help DEQ Address
+Obstacles to Achieving its
+Goals
+April 2024
+Report 2024-13
+Anti-Racism  is the active process of identifying and challenging racism by changing systems, organizational structures,
+policies and practices, and attitudes to redistribute power in an equitable manner.
+WHY THIS AUDIT IS IMPORTANT
+• DEQ administers and enforces
+environmental laws pertaining to air,
+water, and land quality and ensures
+compliance with federal environmental
+regulations on behalf of the EPA.
+• Governor Kotek issued agency
+expectations for strategic planning and
+Diversity, Equity, and Inclusion (DEI)
+action planning in January 2023, with
+strategic plans due June 2024.
+• Strategic planning can help regulatory
+agencies like DEQ address the key
+principles of good regulatory
+governance and take steps to meet its
+mission.
+• Anti-racist strategic planning can help
+organizations better identify and
+address policies and practices that are
+harmful to staff and communities of
+color.
+• An audit of DEQ’s governance risks was
+requested by the Senate Republican
+Caucus in September 2022.
+WHAT WE FOUND
+1. DEQ faces some pressing challenges that could impede agency
+efforts to achieve its mission. The escalating effects of climate
+change and related impacts to environmental quality may outpace
+DEQ’s ability to provide a high level of service especially to some of
+Oregon’s more vulnerable communities. Related challenges include
+the agency’s broad scope of work and a growing public demand for
+services paired with persistent funding limitations. (pg. 20
+)
+2. The agency is also dealing with internal obstacles, such as difficulties
+recruiting and retaining staff (particularly BIPOC staff), barriers to
+coordination and communication needed to carry out programs, and
+a work environment that presents many challenges to staff. DEQ is
+working to enhance staff support, and agency leadership has stated
+the agency goal is to become an anti-racist organization. These
+efforts also align with the objectives of the 2021 State of Oregon DEI
+Action Plan. However, due to the ongoing and iterative nature of anti-
+racism work, this may take several years to achieve. (pg. 28
+)
+3. DEQ is in the process of developing an agencywide anti-racist
+strategic plan in alignment with the Governor’s expectations and
+requirements. The agency should use the strategic planning process
+to address both internal and external challenges in addition to
+meeting its anti-racism goals. Strategic planning best practices can
+provide critical context and guidance to applying strategic planning to
+a variety of agency needs. (pg. 33)
+Audit Highlights
+Oregon Department of Environmental Quality
+Ongoing Strategic Planning Can Help DEQ Address Obstacles to Achieving its Goals
+WHAT WE RECOMMEND
+We made two recommendations to DEQ. DEQ agreed with all of our recommendations. The response can be found at the
+end of the report.
+Introduction
+Oregon Secretary of State April 2024
+Report 2024-13 page 1
+In January 2023, newly sworn in Governor Tina Kotek shared her expectations for Oregon’s state
+agencies. Among these is a goal for each executive branch agency to develop and implement enterprise-
+wide strategic plans as well as strategic Diversity, Equity, and Inclusion (DEI) action plans. Strategic
+planning has many distinct benefits to agencies in the achievement of long-term goals, communication and
+coordination, and supporting a healthy work environment.
+The Oregon Department of Environmental Quality (DEQ) is developing a strategic plan with the intent of
+using the strategic planning process and plan itself to become an anti-racist organization. The plan must be
+completed by June 2024. DEQ is a complex regulatory agency facing a number of distinct challenges and
+needs a strategic plan that can help navigate those challenges.
+This report does not assess whether or not DEQ is a racist agency. In the course of our work, we learned
+the agency planned to use its strategic plan to assist in its goal of becoming an anti-racist organization in
+alignment with the Governor’s expectations. This effort also aligns with the objectives of the 2021 State of
+Oregon DEI Action Plan.
+In September 2022, Oregon’s Senate Republican Caucus requested an audit of DEQ’s governance risk.
+Through our work at DEQ, we saw an opportunity for the agency to address challenges that we identified
+while revising and adding to their anti-racist strategic plan. The purpose of this audit is to provide the
+agency with real-time feedback and recommendations regarding how its ongoing challenges can be better
+addressed through the strategic planning process. Real-time auditing tends to focus on evaluating front-
+end strategic planning, service delivery processes, controls, and performance measurement frameworks
+before or at the onset of policy implementations.
+Additionally, per government auditing standards, the Secretary of State’s Audits Division applies an equity
+focus when conducting performance audits of government agencies. These standards include specific
+criteria for assessing if an auditee’s “services are provided effectively, efficiently, economically, ethically,
+and equitably.”
+Oregon faces numerous environmental quality challenges
+For decades, Oregon has faced serious air, water, and land pollution problems. High rates of carbon
+monoxide were recorded in Portland’s air in the early 1980s and raw sewage was dumped directly into the
+Willamette River until the 1950s. In the 1970s, the federal Clean Air Act and Clean Water Act led to
+fundamental changes in how states managed and dealt with air, water, and land pollution.2 More federal
+and state protections were introduced in the years following the passage of these two acts.
+Oregon now has comparatively robust regulatory protections and a complex network of rules and
+requirements in place to manage pollutants created by industrial, agricultural, transportation, and
+1 2018 Auditing Standards for the U.S. Government Accountability Office with April 2021 Revisions. The Yellow Book provides
+standards and guidance for auditors and audit organizations, outlining the requirements for audit reports, professional qualifications
+for auditors, and audit organization quality control. Auditors of federal, state, and local government programs use these standards to
+perform their audits and produce their reports.
+2 EPA Overview of the Clean Air Act and of the Clean Water Act
+Oregon Secretary of State April 2024
+Report 2024-13 page 2
+residential sources. The state must continue to contend with the advancement of climate change. Ensuring
+air, land, and water resources are sufficiently protected to continue serving Oregon communities is a
+growing challenge. Scientists and experts anticipate natural disasters like wildfires and floods will
+significantly increase in the coming years, straining Oregon’s ability to respond and adapt. Interviews
+conducted by a consulting firm in 2021 noted DEQ staff and other interested parties’ biggest environmental
+concerns included poor air and water quality alongside the impacts of climate change.
+Air quality overall has improved since the 1970s, but critical incidents and changing
+climate conditions pose significant health risks
+According to the World Health Organization, air pollution is contamination of the indoor or outdoor
+environment by any chemical, physical, or biological agent that modifies the natural characteristics of the
+atmosphere. Sources of air pollution can include pollutants generated by industrial facilities, motor
+vehicles, forest fires, and many more. Both indoor and outdoor air pollution can cause respiratory issues
+and shorten life expectancy for impacted communities.
+4 Air quality is determined by the presence and level
+of air pollutants that are hazardous to human health.
+Thanks in part to DEQ’s regulatory efforts, ambient air quality has improved dramatically in Oregon since
+the 1970s, preventing a number of premature deaths. Federal officials also estimate improved air quality
+has benefited the agricultural and forestry sectors.
+Despite these improvements, some communities in the state have dealt with air pollution concerns that
+negatively affect local residents. The Bethel community in Eugene lived for years with air toxins emitting
+from the now-defunct JH Baxter facility. Community members issued complaints to state authorities
+starting in the late 1970s, which peaked in 2004 with over 700 registered complaints. In 2016, DEQ noted
+glass manufacturers in Portland were releasing unhealthy amounts of toxic metals into the air. The public
+outrage around this issue led to the creation of Cleaner Air Oregon.
+3 In 2021, DEQ brought in consulting firm BerryDunn to assist with strategic plan development. As part of its work the firm conducted
+an environmental scan, including several staff and other interested groups interviews, identifying areas of concern within the agency.
+4 DEQ does not evaluate or regulate indoor air pollution.
+5 Cleaner Air Oregon regulates emissions of toxic air contaminants from industrial and commercial facilities based on risks to health.
+Department of Environmental Quality: Cleaner Air Oregon
+Oregon Secretary of State April 2024
+Report 2024-13 page 3
+Oregon’s Lookout Fire in the Willamette National Forest in August 2023 | Source: Inciweb
+The growing threat of wildfires in Oregon and neighboring states has also dramatically impacted air quality.
+In 2020, multiple wildfires in September broke ‘bad air’ records across the state, burned over 1 million
+acres across eleven Oregon counties, destroyed 5,000 homes and businesses and forced the evacuation
+of over 40,000 people, and took nine lives. Parts of the state are now routinely inundated with smoke during
+fire season; some areas that rarely experienced wildfire smoke in the past now expect to see it regularly.
+Unfortunately, managing and mitigating wildfire smoke is a complex multi-agency and sometimes multi-
+state undertaking. Smoke can move far and fast, overwhelming local efforts to control it.
+Water quality issues have wide-reaching effects given its many uses in Oregon
+Water pollution is the contamination of water sources by substances which can sometimes make the water
+unusable for drinking, cooking, cleaning, swimming, and other activities. 6 Other factors can also impact
+overall water quality, such as temperature and turbidity, and each of these can have negative impacts on
+communities and ecosystems. 7
+Many of Oregon’s rivers and streams are failing to meet federal water quality standards due to concerns
+such as increased temperature, agricultural or industrial run-off, or other pollutant sources and causes as
+shown in Figure 1 that follows. While humans are typically not directly impacted, many species of fish and
+other aquatic life are in steep decline, putting whole ecosystems around the state in peril.
+6 Water Pollution | EHEP | Harvard T.H. Chan School of Public Health
+7 According to the United States Geological Survey, turbidity measures the relative clarity of a liquid. Cloudiness, or turbidity, is
+caused by suspended particles in water. High turbidity can indicate the presence of harmful microbes or create conditions needed for
+them to grow.
+Oregon Secretary of State April 2024
+Report 2024-13 page 4
+Oregon groundwater is also impacted in areas where there is significant water use from wells. A
+combination of drought and overuse of certain aquifers can lead to some wells drying up entirely, while
+other wells are heavily impacted by elements like arsenic and fail to produce clean, potable water.
+Some Oregon communities face distinct water quality concerns that imperil their homes, health, and
+livelihoods. These include communities within Oregon’s Groundwater Management Areas, such as
+Boardman and the surrounding areas, communities and Tribes in southern Oregon that are dependent on
+well water from quickly drying aquifers, and coastal communities with limited access to clean, reliable
+drinking water.
+Figure 1: DEQ’s Oregon 2022 Integrated Report shows the majority of the state’s assessed waterways are
+impaired by one or more pollutants (impaired waterways in purple)  9
+DEQ Oregon 2022 Integrated Report | Source: DEQ
+8 2023-04. Secretary of State Advisory Report: State Leadership Must Take Action to Protect Water Security for All Oregonians and
+Appendix
+9 Oregon's 2022 Integrated Report
+Oregon Secretary of State April 2024
+Report 2024-13 page 5
+Human activities that harm land quality can affect air and water
+A number of human activities can also negatively impact the quality of land resources if proper measures
+are not taken, such as disposing of waste and old tires, putting in underground fuel tanks, handling oil
+spills, and removing asbestos from old buildings. These activities can have residual impacts on breathable
+air and potable water as well.
+In 2016, a 96-car train carrying crude oil derailed in Mosier, just off Interstate 84, the Columbia River, and
+the Washington state border. Three of the train cars caught fire and four were found to be discharging oil,
+leading to 147 people being evacuated from a nearby neighborhood and the temporary closing of the
+freeway. This incident required a broad and immediate response from the federal Environmental Protection
+Agency (EPA), Oregon and Washington state agencies, and about two dozen other local and regional fire
+departments and emergency response teams.
+Federal, state and local agencies respond to Oregon train derailment in Mosier in 2016 | Source: Coast Guard News, CC BY-NC-ND
+The coordinated emergency response successfully prevented further destruction or contamination of local
+ground and water resources from the spill. While incidents such as these are irregular and often
+unpredictable, they can have far reaching, long-term negative consequences for local communities if the
+initial response is inadequate.
+Air, water, and land quality are often intermingled, and their effective management is complex and requires
+significant resource investment. DEQ’s work protecting air, water, and land from pollutants supports our
+quality of life and the welfare of the state’s many ecosystems.
+Oregon Secretary of State April 2024
+Report 2024-13 page 6
+DEQ is a large, complex regulatory agency working to meet growing
+demands to protect Oregon’s air, water, and land quality
+DEQ is a large state agency with over 850 authorized positions and a broad scope of responsibilities. DEQ
+has a complex regulatory structure and deals with an array of air, water, and land quality concerns on a
+daily basis.
+DEQ has a complex regulatory structure that supports a variety of functions across the
+state
+Established in 1969, DEQ’s current mission is to be a leader in restoring, maintaining, and enhancing the
+quality of Oregon's air, land, and water. DEQ establishes the standards for clean air, water, and land;
+determines whether these standards are being met; and takes action to enforce the standards when
+necessary. The agency manages the federally delegated Clean Air, Clean Water, and Resource
+Conservation and Recovery Act programs. In addition to the management of federal programs, DEQ
+administers the state environmental programs in the areas of solid waste management, planning, and
+recycling; groundwater protection; and environmental cleanup.
+DEQ’s work is closely tied to and reliant on federal laws and programs which are administered by the EPA.
+The EPA delegates much of its authority to state agencies like DEQ, which are accountable to the EPA for
+administering programs like Title V.
+10 The EPA is required to exercise oversight and supervision of these
+programs, which includes rulemaking and permitting. To maintain these federal programs, DEQ is
+obligated to provide adequate resources for implementation. According to state rule, DEQ regulates major
+and minor industry facilities through providing permits to source emitters for air, water, and land. It inspects
+these facilities to ensure permits are followed accordingly. The agency works closely with industry to
+ensure regulations can be met and partners with local governments and Tribal governments.
+Public service and partnership are two values guiding DEQ’s actions. Its private sector partners are an
+integral part of the agency’s framework. For instance, it worked with a mid-sized printing and
+manufacturing company to implement changes to the company’s hazardous material consumption and
+disposal process which produced meaningful results of positive environmental and economic impacts.
+DEQ has programs that commonly partner with others to develop and assist in implementing pollution
+prevention. The Ecological Business Program supports landscapers and automotive repair and auto-body
+industries. Additionally, many of DEQ’s permitting staff are trained in pollution prevention techniques and
+can suggest best management practices and offer technical assistance.
+DEQ is governed by a five-member board of commissioners, the Oregon Environmental Quality
+Commission (EQC). Board commissioners are Governor-appointed and confirmed by the Senate to serve
+a four-year term.
+11 The EQC serves as DEQ’s policy and rulemaking board, as well as establishing policies,
+issuing orders, judging fine appeals or other DEQ actions, and appointing the DEQ director. DEQ’s
+leadership team works to develop and implement the agency’s strategic planning and serves as the
+executives for the agency.
+10 Title V permit holders are large source air pollution emitters, such as certain industrial sites and crematoriums — and have the
+potential to emit large amounts of hazardous air pollutants.
+11 Commissioners can serve two four-year terms.
+Oregon Secretary of State April 2024
+Report 2024-13 page 7
+During 2023-25 biennium, DEQ received authorization for more than 850 full-time equivalent staff with an
+adopted budget of $730 million.12 Around 82% of the agency’s budget is categorized as other funds,
+meaning revenue generally received from fees. Approximately 6% of the agency’s budget is federal funds,
+which are distributed evenly across agency programs, with the remainder sourced from the General Fund.
+Figure 2: DEQ’s legislative budget has increased moderately over the past decade 13
+2013-15 2015-17 2017-19 2019-21 2021-23 2023-25
+Air Quality  $74,619,402 $82,604,682 $124,655,666 $139,969,093 $217,511,763 $156,563,717
+Water
+Quality  $78,185,670 $84,411,153 $85,372,963 $90,206,904 $119,940,289 $111,385,800
+Land Quality  $83,494,691 $85,000,029 $93,825,734 $100,552,558 $113,505,982 $115,809,134
+Agency
+Management  $29,262,106 $33,291,238 $40,076,587 $47,918,074 $50,072,874 $44,537,260
+Other  $173,994,574 $174,252,985 $174,945,373 $219,938,742 $282,554,970 $301,707,175
+Total  $439,556,443 $459,560,085 $518,876,322 $598,585,371 $783,585,879 $730,003,086
+Source: DEQ
+Note: While most figures are legislatively approved, 2023-25 figures are legislatively adopted
+DEQ operates within a regional structure. The agency is headquartered in Portland, with staff in three
+regions carrying out air, land, and water program responsibilities. The three regions are Northwest
+(including Portland), Western, and Eastern. Lane County’s Regional Air Protection Agency, LRAPA,
+handles air quality programming for Lane County and the cities of Eugene, Springfield, Cottage Grove, and
+Oakridge. Agency operations are also divided across three major divisions covering air, water, and land
+quality. These three program divisions are supported by a fourth, the Laboratory and Environmental
+Assessment Division.
+Figure 3: DEQ is split into three regions
+Northwest Region  Western Region  Eastern Region
+Note: Air quality regulation is performed by LRAPA in Lane County. | Source: DEQ
+12 2023-25 Oregon Legislative Fiscal Office Budget Highlights
+13 Adjusted for inflation, excluding 2023-25 biennium BLS Budget Calculator
+Oregon Secretary of State April 2024
+Report 2024-13 page 8
+DEQ’s Air Quality program is responsible for compliance with federal and state air
+quality standards
+DEQ monitors air quality to protect public health by developing and implementing pollution reduction
+strategies. Key sources of air pollution in Oregon include motor vehicles, slash burning in forests,
+woodstoves, industrial facilities, and field burning. DEQ is also responsible for statewide air quality
+monitoring, keeping an emissions inventory, pollution reduction planning, and issuing Title V permits for
+federally delegated large industrial sources and Air Contaminant Discharge permits for small to medium
+size sources.
+The Air Quality program is funded primarily by permit and emission fees, supplemented by state General
+Funds and Federal Clean Air Act funds. Federal law requires the cost of the permit program for major
+industrial sources be fully paid from emission fees through the Title V Permit Fee.
+Title V permitted Georgia-Pacific mill/Toledo, OR 2022 | Source: Don Barrett, CC BY-NC-ND
+DEQ’s Water Quality program protects and monitors Oregon’s water quality
+The Water Quality program sets and monitors water quality standards and assessments, controls
+wastewater through permits and certifications, provides financial and technical assistance, implementing
+the Oregon Plan to restore salmon populations and watersheds, and implements portions of the Safe
+Drinking Water Act.
+The program has two permitting functions: the National Pollutant Discharge Elimination System, which is
+federally delegated and covers discharge into surface waters, and Oregon’s Water Pollution Control
+Facility permit program, which covers discharges such as sewage lagoons and outgoing irrigation. It also
+operates Oregon’s nonpoint source pollution program.14
+14 Nonpoint source pollution is not attributable to a specific source point and can come from multiple locations.
+Oregon Secretary of State April 2024
+Report 2024-13 page 9
+DEQ’s Water Quality program receives funding from several sources: the state General Fund, industrial
+and municipal fees, and federal funds. Fees include those collected from permits for industrial waste
+discharge, municipal wastewater, and subsurface sewage disposal. Federal funds are received primarily
+through the Clean Water Act and used for operational expenses and certain grants. The program receives
+dedicated Lottery Funds and relies more on state support than other program areas.
+DEQ’s Land Quality program provides environmental services not explicitly covered by
+Air and Water Quality programs
+The Land Quality program focuses on preventing and reducing waste generation, assuring that waste
+generated is properly managed, responding to emergency spills, and cleaning up sites contaminated with
+hazardous substances and uncontrolled releases of toxic chemicals.
+Land Quality encompasses five programs:
+• Materials Management includes solid waste management and lifecycle programs;15
+• The federally delegated Hazardous Waste program, which reduces hazardous waste generation
+and ensures its safe management;
+• Environmental Cleanup for voluntary cleanup of industrial orphans and brownfields sites and the
+dry cleaners program;16
+• Emergency Response includes oil spill contingency plans, 24/7 response and cleanup, emergency
+preparedness, and high hazard rail program; and
+• Tanks Program for fuel tank seismic stability, heating oil tank, and underground storage.
+DEQ’s Land Quality program is mostly funded through dedicated other and federal funds. The Solid Waste
+program is supported by fee revenue from solid waste permitting and disposals. The hazardous waste
+management program also receives state General Fund dollars that provide the required 25% match from
+the state for the program to qualify for federal funding.
+15 DEQ Materials Management program description: “Materials management takes a holistic view of environmental impacts across
+the full life cycle of materials, as well as actions that can be taken to reduce those impacts. It includes resource extraction and use of
+recovered materials, the design and production of materials, their use, and end-of-life management, including solid waste disposal
+and recovery.”
+16 A "brownfield" is generally defined in federal and state law as real property where expansion or redevelopment is complicated by the
+actual, potential, or perceived presence of environmental contamination. Orphan sites are Contaminated sites where the owner is
+unknown, unable, or unwilling to pay for cleanup costs. Dry Cleaners program: Oregon rules require all dry cleaners to implement
+waste minimization measures to reduce the amount of dry-cleaning solvent emitted to the air and reduce the potential for spills of
+solvent to soil and groundwater.
+Oregon Secretary of State April 2024
+Report 2024-13 page 10
+Formosa Mine Superfund Site 2018 | Source: Bureau of Land Management Oregon and Washington, CC BY
+DEQ’s Agency Management and Laboratory support and collaborate with the Air,
+Water, and Land Quality divisions
+Agency Management provides leadership, coordination, and support for DEQ and staff assistance for the
+EQC. Agency Management includes the Office of the Director, the Office of Policy and External Affairs,
+Office of Enforcement, and the Central Services Division. The program is funded through the agency’s
+indirect rate, which mainly pays for accounting, human resources, information technology, training
+development, health and safety, internal policy development, records management, and procurement.
+Agency Management is funded through indirect cost revenues.
+17 The indirect rate is calculated as a
+percentage of personal services from the agency’s divisions to support a variety of management and
+administrative functions. The rate is negotiated annually with the EPA after the agency’s budget has been
+determined. In recent biennia, it generally makes up around 21% of all fund types in use.
+The Laboratory monitors, assesses, and analyzes Oregon’s environment. Laboratory staff are budgeted
+through the divisions and work collaboratively across the agency, as well as with other state and federal
+agencies.
+17 According to the National Institutes of Health, “…indirect costs are those costs not readily identified with a specific project or
+organizational activity but incurred for the joint benefit of both projects and other activities. Indirect costs are usually grouped into
+common pools and charged to benefiting objectives through an allocation process/indirect cost rate.”
+Oregon Secretary of State April 2024
+Report 2024-13 page 11
+DEQ is taking steps to meet the Governor’s strategic planning expectations
+and adopt anti-racist principles
+DEQ intends to use strategic planning to become an anti-racist organization. The agency is also following
+the guidance set by the Governor and the Department of Administrative Services (DAS). Strategic
+planning has many clear benefits for regulatory agencies, including aligning agency work with a mission
+and meeting long-term goals. Adopting and integrating principles of anti-racism, which is discussed in
+more detail in the following sections, can support and enhance the agency’s focus on protecting
+environmental quality and supporting environmental justice for Oregon communities.
+This report uses terms like anti-racism and environmental justice. Please refer to the definitions provided
+below for further context into how these and other terms are used.
+Key definitions used in this report
+Anti-Racism : According to the Center for the Study of Social Policy, “Anti-racism is the active process
+of identifying and challenging racism, by changing systems, organizational structures, policies and
+practices, and attitudes to redistribute power in an equitable manner.” This definition is also used in the
+2021 State of Oregon DEI Action Plan. DEQ uses the definition of anti-racism provided by Engage to
+Change LLC, which differentiates between anti-racist individuals and ideas:
+• Anti-racist individual:  Someone who is supporting an anti-racist policy through their actions
+or expressing anti-racist ideas. This includes the expression of ideas that racial groups are
+equals and do not need developing, and supporting policies that reduce racial inequity.
+• Anti-racist ideas:  Any idea that suggests the racial groups are equals in all of their apparent
+difference and that there is nothing wrong with any racial group. Anti-racists argue that racist
+policies are a major cause of racial injustices.
+Racism  is discrimination or prejudice based on race or ethnicity. Racism is complex and pervasive, and
+can have structural, institutional, interpersonal, and individual components that influence organizational
+systems of power as well as individual actions and behaviors.
+Strategic Planning:  According to the United Nations, strategic planning “is a process of looking into
+the future and identifying trends and issues against which to align organizational priorities of the
+Department or Office.” On a smaller scale, it involves aligning divisions, sections, units or teams to
+higher-level agency strategies. Good strategies are designed to achieve goals in an effective and
+efficient manner.
+Environmental Justice:  In 2022 the Oregon State Legislature passed HB 4077, which defines
+environmental justice as “the equal protection from environmental and health risks, fair treatment and
+meaningful involvement in decision making of all people regardless of race, color, national origin,
+immigration status, income or other identities with respect to the development, implementation and
+enforcement of environmental laws, regulations and policies that affect the environment in which
+people live, work, learn and practice spirituality and culture.”
+Oregon Secretary of State April 2024
+Report 2024-13 page 12
+Governor Kotek set new expectations around strategic planning for Oregon state
+agencies
+Governor Kotek released a memo in January 2023 outlining her expectations and requirements for state
+agencies in her first term. One of the key expectations listed is for agencies to “support strategic planning
+and measure agency performance” through “developing and following a strategic plan using goals outlined
+by the Governor’s office.”
+According to the memo, all state agencies with strategic plans older than 36 months are required to begin a
+new planning process with a goal of completing them by June 2024. After this first strategic plan is
+adopted, the Governor’s Office and DAS require a reviewed and updated strategic plan be adopted every
+three years.
+DAS has developed guidance and outlined expectations and outcomes for agency strategic planning. The
+“agency strategic plan outline” provides agencies with the core components that must be included in their
+strategic plans, including:
+• Vision: Determine your agency vision and what you want to achieve in the long term;
+• Mission: Determine your mission and what your agency purpose is;
+• Values: Determine what your agency’s values are;
+• Equity Statement: Determine how your agency will advance equity in your work and craft an equity
+statement;
+• PESTLE Analysis: Identify the political, economic, sociological, technological, legal, and
+environmental (PESTLE) circumstances your agency is operating within;
+• SWOT Analysis: Identify your agency’s strengths, weaknesses, opportunities, and threats
+(SWOT);
+• Goals & Objectives: Set specific, measurable, achievable, relevant, and time-bound (SMART)
+goals and objectives. Include at least one goal related to Oregon Tribes and one goal related to
+achieving Diversity Equity and Inclusion;
+• Develop strategies: Determine the best course of action to achieve your agency’s goals and
+objectives;
+• Create an action plan: Develop an action plan that outlines the specific steps your agency will take
+to implement strategies;
+• Allocate resources: Determine the resources, including financial, human, and technological,
+required to implement your agency’s action plan; and
+• Monitor and evaluate: Determine how your agency will continuously monitor your progress and
+evaluate the effectiveness of your strategies to determine if they need to be adjusted.
+The criteria DAS provided for mission statements include the statement be clear, simple, concise, and
+unambiguous. The mission statement should “illustrate the importance of what we do for Oregonians,” and
+be achievable. Agencies are expected to use staff survey results and brainstorming sessions to develop
+mission statements. DAS also provided a template to assist in the development of a PESTLE analysis.
+This analysis is an exercise agency staff can use to identify relevant trends under each respective
+category: political, economic, social, technological, legal, and environmental.
+18 Department of Administrative Services: Strategic Planning Resources: State of Oregon
+Oregon Secretary of State April 2024
+Report 2024-13 page 13
+In the June 2023 report, DAS also reported on the baseline status of the Oregon Executive Branch to
+gauge how many agencies have already engaged in some of the required strategic planning work.19 After
+surveying agency directors, DAS found many agencies will be engaging in work “they either haven’t done
+in the past or haven’t adopted systems to support.” As it relates to strategic planning, as of June 1, 2023, a
+total of 32 out of 77 agency directors reported their agency had completed a strategic plan within the last 36
+months.
+Among the agencies that have completed a strategic plan is the Oregon Department of Transportation
+(2021-2023 Strategic Action Plan). The department included only three main “strategic priorities” with four
+to six goals associated with each priority. Each goal includes associated “strategic outcomes” to keep the
+agency accountable for making measurable progress toward achieving each priority, and each strategic
+outcome has several “implementing actions” that list specific deadlines and metrics for tracking.
+State agencies can use strategic planning to align agency work with their missions and
+meet long-term goals
+Successful strategic planning involves aligning day-to-day operations, processes, and resources of an
+organization to support mission-related outcomes. Strategic planning can be a great tool for linking an
+agency mission to a strategic narrative that mobilizes staff and other interested parties.
+19 Department of Administrative Services June 1, 2021 Baseline Report
+Oregon Department of Transportation 2021-2023 Strategic Action Plan excerpt:
+Equity Priority: Prioritize diversity, equity, and inclusion by identifying and addressing systemic barriers
+to ensure all Oregonians benefit from transportation services and investments.
+(Example) Goal - Culture, Workforce, Operation, and Policy: Build a diverse workforce, supported by
+equitable operations and policies, and establish an informed culture that delivers authentic inclusivity.
+Strategic Outcome: Increase ODOT’s workforce diversity. Changes in recruitment processes, hiring
+practices, promotions, and workplace culture are central to diversifying our workforce. [… ]
+Implementing Actions:
+Year Actions
+2021 Establish metric baseline and define time-bound targets.
+2021 Implement new hiring practices.
+2022 Train job interview panels.
+2022 Adopt agencywide engagement survey and data use practices.
+2024 Strengthen ODOT training and intern programs.
+Metric: By the end of 2025 ODOT will materially increase the hiring and retention of minorities, women,
+and people who live with disabilities at all levels of the organization.
+Oregon Secretary of State April 2024
+Report 2024-13 page 14
+Federal agencies have been required to engage in strategic planning for over 30 years. The Government
+Performance and Results Act (GPRA) of 1993 (modified in 2010)20 was designed to improve program
+management throughout the federal government. Federal agencies are required to develop a five-year
+strategic plan outlining their mission, long-term goals for the agency's major functions, performance
+measures, and reporting results. These plans should cover a period of “not less than four years following
+the fiscal year in which it is published.” The GPRA also requires each agency to submit an annual
+performance plan and an annual performance report. Agencies are currently operating under their FY
+2022-2026 required to issue a strategic plan and are required to publish their revised plans in February
+2026, concurrent with the release of the President’s FY 2027 Budget.
+The U.S. Office of Management and Budget (OMB) provides direction to federal agencies on “preparation,
+submission, and execution of the budget” and provides guidance to agencies specific to strategic planning
+requirements under the GPRA.
+21 According to the OMB, a strategic plan should “define the agency
+mission, long-term goals and objectives to achieve those goals, strategies planned, and the approaches it
+will use to monitor its progress in addressing specific national problems, needs, challenges, and
+opportunities related to its mission.” A strategic plan “explains the importance of the goals, appraises the
+agency’s capabilities, assesses the operating environment and provides for evaluations and other studies
+to inform agency actions.”
+Many of the principles of good regulatory governance can be addressed through strategic planning. The
+Organisation for Economic Cooperation and Development (OECD) determined seven good governance
+principles (see Figure 4).
+22 In an international review of 20 different regulators’ strategic plans, the value of
+strategic planning for regulators is explained as an opportunity for agencies to “rethink the purpose of their
+rulemaking, enforcement, outreach, monitoring, and other activities — and try to fit them together into a
+coherent program in service of goals they may have latitude to set and refine.”
+Figure 4: OECD principles support good regulatory governance of regulators
+Planning can enhance regulatory effectiveness, ensure consistency, and promote transparency in
+regulatory rulemaking.
+Setting clear strategic priorities can be challenging. In our own review of agency strategic plans, we found
+strategic plans vary greatly in scope — some are more vision-based or aspirational in nature, while others
+20 Performance Framework | Performance.gov
+21 OMB Circular A-11 | The White House (archives.gov)
+22 OECD Best Practice Principles on the Governance of Regulators - OECD
+Role clarity - ties to
+mission
+Prevent undue
+influence + maintain
+trust
+Decision making +
+governing body
+structure
+Accountability +
+transparency
+Established
+mechanisms for
+engagement
+Funding supports
+outcomes efficiently
+Performance
+evaluation
+Oregon Secretary of State April 2024
+Report 2024-13 page 15
+are more technical and specific. While DEQ should consider the more technical and specific operational
+challenges and incorporate key performance tasks and measures to help address these, there are risks
+associated with a strategic plan that tries to include everything.23 Instead, an effective strategy should be
+focused on a limited set of the most important issues to the agency. Regulatory agencies like DEQ offer a
+broad set of services and programs led by multiple divisions. It is unlikely that even a more technical and
+specific plan would cover everything the agency does.
+A comprehensive plan may also require resources the agency does not have. Instead of developing a
+comprehensive plan, agencies may wish to focus on a limited set of the most important issues. Framing
+the inherent tensions and tradeoffs among various priorities is important for the development of an
+effective strategic plan. Each priority should include a consideration of the constraints, risks, and the
+operating environment in which the plan will be released and implemented. In this sense, strategic planning
+can be used to foster a strong risk management culture, where risks and challenges can be identified and
+integrated into each step of the decision-making process.
+DEQ has begun to develop an agencywide strategic plan in line with anti-racist
+principles
+Prior to Governor Kotek’s memo setting new strategic planning expectations and requirements, DEQ was
+engaged in a lengthy strategic planning process that is ongoing as of this report. According to DEQ
+steering committee staff and leadership, the agency intends to become an anti-racist organization. Among
+other efforts, the agency has chosen to utilize the strategic plan development process to support achieving
+that purpose.
+Adopting anti-racist principles aligns with DEQ’s long-term goal to practice and promote environmental
+justice. DEQ adopted an environmental justice policy in 1997
+24 with the stated intent of making
+environmental equity inherent in the way DEQ does business. In the years that followed, the state of
+Oregon created the Environmental Justice Task Force, which was formalized into the Environmental
+Justice Council25 housed under the Governor’s Office in 2022. DEQ serves as a key support to the council.
+This effort also aligns with the objectives of the 2021 State of Oregon DEI Action Plan.26 These include:
+• Normalize  the concepts of racial justice in the state government enterprise — acknowledge
+history, prioritize and make urgent efforts to put racial equity at the forefront.
+• Organize  efforts and build organizational capacity across departments for connected, cohesive,
+and amplified impacts. Foster both internal and external partnerships.
+23 The Government Finance Officers Association 2022 report, Rethinking Strategic Planning: The assumption that strategies should
+cover everything the organization does and drive all department actions can be risky. "A strategic plan that tries to include the whole
+organization risks producing a bad strategy […]” The association represents public finance officials throughout the United States and
+Canada. Rethinking Strategic Planning (gfoa.org)
+24 DEQ 1997 Environmental Justice Policy
+25 Governor of Oregon: Environmental Justice Council: Policies: State of Oregon
+26 Under the State DEI Action Plan, the following definitions are used: Diversity, honoring and including people of different
+backgrounds, identities, and experiences; Equity, acknowledging that not all people start from the same place due to historic and
+current systems of oppression and making an effort to provide different levels of support appropriate to different needs; and Inclusion,
+when persons of different backgrounds, experiences, and identities are valued, integrated, and welcomed equitably. The plan also
+defines several related terms.
+Oregon Secretary of State April 2024
+Report 2024-13 page 16
+• Operationalize  and embed racial equity into every part of state government putting DEI strategies
+into practice.
+• Guide and direct enterprise-level operationalizing of racial equity and DEI work.
+• Inspire  expansion of equity by sharing and collaborating to build on what is already happening.
+The DEI Action plan acknowledges that Oregon’s state agencies are all at different points in the process of
+advancing diversity, equity, and inclusion initiatives, and that these efforts will look different in every
+agency.
+In 2015, prior to its strategic plan development, DEQ adopted five strategic goals to guide agency work.
+One of these goals is to “sustain a diverse, outcome-oriented workforce and culture.” While it is unclear
+whether DEQ began initial development of its strategic plan with the intent of becoming an anti-racist
+organization, the agency has shown interest in building a supportive and diverse work culture. Since that
+time, the agency has engaged the services of two separate consultants to support its strategic planning
+efforts — BerryDunn and Engage to Change LLC (ETC) — the second of which was brought in specifically
+to assist the agency in becoming an anti-racist organization.
+Figure 5: DEQ Strategic Plan Development Timeline
+2020
+DEQ establishes a strategic planning steering
+committee to develop an agencywide strategic plan.
+The agency solicits the services of outside consultant
+BerryDunn in August to assist with the development of
+the plan and conduct an environmental scan to identify
+agency challenges that may need to be addressed
+through strategic planning. BerryDunn completes an
+environmental scan of the agency in December.
+2021
+In February, DEQ puts the strategic planning process
+on hold to shift the approach taken by the agency. In
+November the agency enters into a work order contract
+with a second consultant, ETC, that specializes in anti-
+racism for organizations to support the work of the
+committee. DEQ brings on new members to the
+committee.
+2022
+In June, DEQ holds combined meetings with
+BerryDunn and ETC. ETC begins an organizational
+assessment of DEQ to identify areas of weakness in
+becoming an anti-racist organization. In December,
+DEQ ends the contract with BerryDunn
+2023
+In January, Governor Kotek releases her memo with
+new strategic planning expectations and a timeline for
+completion of the initial plan. In April, DEQ updates its
+contract with ETC to include facilitating strategic
+planning committee meetings. In June, ETC releases
+the results of its organizational assessment, identifying
+several challenges facing the agency
+27 Engage to Change LLC, provides anti-racist and DEI trainings, meeting facilitation, strategic planning and change management
+support. They have provided consulting support around anti-racist strategic planning to DEQ. Engage 2 Change – Anti-racism
+Training That Transforms People and Organizations
+Oregon Secretary of State April 2024
+Report 2024-13 page 17
+Both consultants reviewed DEQ’s programs and identified challenges similar to those identified by the
+audit team (explored in more detail in Audit Results). ETC has also provided ongoing support to DEQ’s
+strategic planning steering committee as they progress with plan development.
+As of September 2023, DEQ’s strategic planning steering committee was working to identify and seek out
+additional resources to assist with the development of an anti-racist strategic plan. Significant key steps,
+including conducting broader outreach to staff and other interested parties, were tentatively planned for
+later in the year. Committee members noted while they intended to use the environmental scan performed
+in 2021, developing an anti-racist plan required taking an anti-racist approach to the work performed to
+develop the plan. This would require additional work with staff and other interested parties.
+DEQ provided an update to the Environmental Quality Commission on their strategic plan development
+progress in January 2024. The committee was in the process of revising DEQ’s mission and value
+statements and developing strategic goals and had met with the DEI Council and BIPOC staff and manager
+affinity groups. The committee planned to hold more affinity group meetings and were reviewing the work
+performed by BerryDunn and ETC.
+According to ETC, embracing equity and anti-racism “is a creative and relational process that requires
+work with individuals and teams, as well as organizational culture, practices, and policies” and will lead to
+important changes in organizations. Working to embrace and adopt anti-racist principles is critical but may
+be very difficult work.
+Anti racist principles aim to actively oppose and eliminate racism through, among other things, fostering a
+culture that prioritizes belonging and community, thoughtfulness over speed, appreciation and open
+mindedness toward the learning process, accountability through understanding one’s own limitations of
+knowledge, and a culture that works toward shared goals. Specific principles include (but are not limited to)
+education, making an effort to learn more about racism; courage, reckoning with feelings of discomfort;
+allyship, a willingness to engage in dismantling injustice; and intention, being mindful about what is said
+and done. As the 2021 State of Oregon DEI Action Plan states, “embedding anti-racism in all that we do”
+helps ensure that “disproportionate outcomes experienced by communities of color” are minimized. As
+DEQ works toward their mission to be a leader in restoring, maintaining, and enhancing the quality of
+Oregon's air, land and water — proactively incorporating anti-racist principles into this work, both internally
+and externally, will help produce more equitable outcomes for all the communities they serve.
+As it relates to strategic planning, an anti-racist planning process places an emphasis on amplifying the
+voices of historically underrepresented staff and communities. Creating safe spaces for individuals to
+discuss their awareness, perspectives, and experiences can help agencies identify actions they can take to
+prevent and address systemic racism.
+Note
+Key to the audit process is finding relevant and applicable criteria to support our audit
+recommendations and conclusions. Most of the criteria addressing the confluence of anti-racism and
+strategic planning highlighted in this report were provided by the DEQ Strategic Planning Steering
+Committee per auditor request. While applying anti-racist principles to strategic planning is still an
+emerging area, the provided criteria are supported by a number of external sources identified by the
+audit team.
+Oregon Secretary of State April 2024
+Report 2024-13 page 18
+Wellcome, a U.K.-based health nonprofit, points out it is also important to respect when some individuals
+are unwilling to share their personal experiences and to find other ways to involve underrepresented staff
+and communities throughout the planning process. It can be emotionally draining for people of color to
+share lived experiences of racism. According to Wellcome, it is not the responsibility of people of color to
+teach others, it is every individual’s responsibility to educate themselves on how to be anti-racist and bring
+these principles into the planning process.
+How the U.N.’s anti-racist strategic plan addresses different types of racism through
+“change areas”
+One way the U.N. approached anti-racist strategic planning was to identify actions that address the
+myriad aspects of racism: personal, interpersonal, structural, and institutional. The U.N. categorized its
+anti-racist plan into four “change areas,” illustrated below. To develop its anti-racist strategic action
+plan, the U.N. identified “the context and preconditions for change, assessed and analyzed evidence-
+based data, carried out a review of benchmarking with comparable entities and institutions, undertook
+consultations to obtain additional qualitative information, engaged with staff representatives of different
+constituencies in various duty stations” and reviewed best practices and existing policies related to
+diversity, equity, and inclusion.
+Throughout this process, the strategic plan task force ensured there was ample internal communication
+and promoted employee engagement. They organized “global webinars, town halls, conversations,
+articles and other activities to engage staff [… ] and provide insights into how staff feel about race and
+racism” in their workplace.
+Oregon Secretary of State April 2024
+Report 2024-13 page 19
+Another planning practice centered in anti-racist principles is ensuring managers and people in positions of
+power are prepared to take responsibility for addressing racist comments or behavior, bullying or
+harassment, and other incidents where an individual from a minority group feels uncomfortable. Third-party
+organizations like ETC, can assist in addressing and redirecting conversations or comments that are
+potentially harmful to both individuals and the strategic planning process as a whole.
+Developing an anti-racist strategic plan is an effort to dismantle some of the impacts of white supremacy
+culture on a specific organization or group. It is not a straightforward or simple process. Considering the
+potential complexity of the changes required for an agency like DEQ to become anti-racist, it may take
+several years for DEQ to develop and fully implement its intended plan. Beyond that, anti-racist work is a
+continual process with no specific end date.
+Audit Results
+Oregon Secretary of State April 2024
+Report 2024-13 page 20
+The focus of this real-time audit is DEQ’s strategic planning development process. This strategic planning
+process can help DEQ address several areas of concern that came to light during the audit. Some of these
+areas of concern are outlined at a high level in the following sections.
+DEQ faces a number of internal and external obstacles that challenge the agency’s ability to fully achieve
+its mission. These include a broad scope of work and growing public demand for services, limited funding,
+staffing difficulties, barriers to coordination and communication needed to carry out programs, and a work
+environment that is still in the process of integrating the principles of anti-racism in support of the agency’s
+work. Anti-racism work is by its nature ongoing and iterative, so the agency will need to commit to adopting
+these principles over a course of several years.
+DEQ must develop and finalize a strategic plan by June 2024. While the agency does not yet have an
+agencywide strategic plan, it is in the process of developing one. These efforts align with the Governor’s
+requirement and are intended to help guide the agency toward fully integrating anti-racist principles in its
+work. DEQ should use the strategic plan and planning process to address its ongoing challenges. Strategic
+planning best practices can provide critical context and guidance to applying strategic planning to a variety
+of agency needs, while allowing the agency to apply a long-term strategic view to long-term concerns.
+As stated previously, this report does not assess whether DEQ is a ‘racist’ agency. The purpose of this
+audit is to provide the agency with real-time feedback and recommendations regarding how its ongoing
+challenges can be better addressed through the strategic planning process.
+DEQ faces internal and external challenges to meeting its mission and
+needs a long-term strategic plan that addresses agency needs
+To successfully carry out its goal of becoming an anti-racist organization and continuing to meet its
+mission, DEQ will need a strategic plan that integrates anti-racist principles. Additionally, the plan will need
+to guide the agency in successfully navigating growing and changing public demands, complex funding
+difficulties, and the demands of internal and external coordination and communication. The agency will
+also have to contend with static staffing levels and increasingly complex program requirements.
+DEQ’s growing scope of work and demand for services should be addressed in the
+agency’s strategic plan
+DEQ has a very broad and highly technical work portfolio. Within each of its separate divisions, numerous
+distinct and critical environmental programs operate simultaneously. For air quality, these include Air
+Quality Permits, Air Quality Monitoring through DEQ’s Laboratory and Environmental Assessment
+Division, the Asbestos Program, the Vehicle Inspection program, and many more.
+The Water Quality and Land Quality divisions are similarly broad and complex, with DEQ in charge of
+regulating nonpoint source and industrial water pollutants, working with the Oregon Health Authority to
+implement drinking water protections, assessing and monitoring statewide water quality, and running
+emergency response and environmental cleanup programs for oil and other hazardous substances,
+among many others.
+Oregon Secretary of State April 2024
+Report 2024-13 page 21
+Demand for the agency’s services and time has also grown with the relatively recent introduction of the
+Cleaner Air Oregon and Climate Protection programs and providing direct support to the Environmental
+Justice Council. According to DEQ management, rules and regulations have also grown more complex
+and demand more staff resources across numerous individual programs. The consulting firm BerryDunn
+also noted in 2021 agency staff and other interested parties were concerned about growing and changing
+demands on the agency alongside continuing budget constraints.
+As of the 2023-25 biennium, DEQ has position authority for just over 850 staff. While no direct comparison
+can be made, other state agencies with broad scopes in Oregon tend to have substantially more staff
+presence. For example, the Oregon Department of Human Services had position authority for almost
+11,000 full-time equivalent staff in 2023-25, more than twelve times the number of staff authorized for DEQ.
+28 Information in the DEQ Division Workload Snapshot was provided by DEQ and the Legislative Fiscal Office. The snapshot shares
+several examples of DEQ’s responsibilities but is not a full and comprehensive list.
+DEQ Division Workload Snapshot
+Air Quality: In addition to the Title V and state permitting programs, Air Quality also houses the Cleaner
+Air Oregon program, Green House Gas Reporting program, Vehicle Inspection Program, Electric
+Vehicle Rebate Program, and the Volkswagen Settlement Distribution Program. AQ manages over
+2,500 permits both Title V and Air Contaminant Discharge. In the last biennium, it issued over 700
+Notices to Construct and, provided around 16,000 Electric Vehicle Rebates. Additionally, in 2022, AQ
+issued over 595,000 vehicle emissions compliance certificates.
+Water Quality:  In 2022, Water Quality managed more than 700 permits for large onsite septic systems
+and almost 700 onsite septic system installers and pumpers. It had 314 active municipal and industrial
+individual National Pollutant Discharge Elimination System wastewater permits and almost 1,600 state
+Water Pollution Control Facility permits.
+Land Quality:  The program achieves its goals by permitting, inspections, and compliance; cleanup and
+emergency spill response; and waste prevention and toxics reduction. In 2022, it permitted over 300
+solid and hazardous waste facilities, responded to 1,600 spills, and conducted 884 ship and facility
+inspections. Annually, Emergency Response and Cleanup receives about 2,000 reports of spills, big
+and small.
+Office of Enforcement:  Housed in Agency Management, the Office of Enforcement is DEQ’s
+enforcement arm for the law and focuses its compliance resources on the most serious environmental
+violations. DEQ issues approximately 200 penalties per year based on more than 2,000 inspections.
+According to the agency, most violations seen at DEQ do not result in civil penalties. DEQ does
+technical assistance, to notify, work, and communicate with all their entities before they are in a
+situation to receive a civil penalty. A big part of their work is known as "inform enforcement.”
+Laboratory:  The Laboratory employees across all the program divisions collect air, water, and soil
+samples from more than 1,500 locations annually, which produces more than 300,000 individual
+results. These results are used to determine whether remediation measures are needed.
+Oregon Secretary of State April 2024
+Report 2024-13 page 22
+Other natural resource agencies, namely the Department of Fish and Wildlife and Department of Forestry,
+also have more staffing than DEQ.
+External challenges should be considered alongside the agency’s large scope and the demand for
+services. According to BerryDunn, this includes a general mistrust of government, entrenched interest
+groups that are “opposed to DEQ authority,” and pressure from regulated industries to minimize changes
+to regulation.
+DEQ will need to address its scope and the growing demand for its services in its strategic planning work.
+Without performing an extensive capacity assessment across the agency, DEQ may not have a clear
+picture of how much staff support the agency really needs. Even with more staff, the breadth of functions
+performed by the agency may be difficult to adequately oversee and guide in a clear direction.
+Strategic planning can help DEQ take steps to clarify its funding and staffing needs and
+pursue solutions to capacity constraints
+BerryDunn identified budget limitations and lack of adequate staffing as a key obstacle for DEQ in
+achieving its vision. Interviewees considered resizing staff capacity, capital, and operations as some of the
+most important things to be accomplished in the coming years.
+The audit team received similar feedback from agency staff and other interested parties during interviews.
+DEQ receives a relatively small proportion of General Fund dollars, which some interviewees stated
+contributes to a rigid, fee-based funding structure. Fees must be assessed and collected by the agency
+and may not always be a stable or reliable source of funding. This structure may also inhibit the agency
+from working across program lines and moving money where it is needed. Some of DEQ’s key functions,
+including administration and laboratory services, receive little or no direct funding and are dependent on
+funds moved from other divisions to sustain operations.
+Strategic Planning Considerations: Scope of work and demand for services
+DEQ should assess staffing and other resource constraints to help focus and prioritize their
+strategic goals.  Strategic planning allows agencies to assess risks, develop processes, and
+identify opportunities related to workforce planning. Auditors found in a 2017 report titled
+“Department of Administrative Services Should Enhance Succession Planning to Address
+Workforce Risks and Challenges” at agencies often lack formal processes to assess workforce
+needs, and do not “thread their workforce development actions to their agency strategic planning
+goals.”
+The GFOA suggests agencies consider and include constraints in their plan. For example, every
+major objective in the US EPA’s 2022-2026 Strategic Plan contains a detailed discussion of
+“external factors and emerging issues” highlight limitations and potential risks associated with each
+objective. Among the risks and limitations mentioned were changing technological and fiscal
+trends, pending legislation, and other factors might affect the agency’s ability to deliver on its
+ambitions. These types of risks and limitations should be considered during plan development and
+implementation, and possibly included in the final version of the plan.
+Oregon Secretary of State April 2024
+Report 2024-13 page 23
+Some fee amounts are set in statute and can only be changed by the Legislature — these include the fees
+for the Title V program. In 2023, DEQ attempted to increase Title V fees by 83% to maintain service
+delivery within the program. The Legislature amended the statute and allowed for a 43% fee increase in
+2023 and a 40% fee increase in 2024. Through 2023, the Title V program operated with significantly
+reduced staffing and service. According to DEQ, outside of consumer price index increases, Title V fees
+had not had an increase in fees since 2011. The 83% increase reflects resources needed to maintain
+existing staffing levels, not increase them.
+The agency’s funding has increased about 27% since 2009 when factoring in inflation.30 Despite the
+increase in funding, both agency staff and other interested parties voiced concerns about the agency’s
+budget and how overstretched agency staff were to perform their jobs. Some agency interviewees noted a
+lack of appropriate budgetary support as the primary barrier to meeting specific program goals.
+Representatives from federal agencies and local jurisdictions echoed this observation, noting DEQ
+seemed to have “far less money” than similar entities in other states, and that low level staff in comparable
+agencies might be paid more than managers at DEQ. BerryDunn’s 2021 environmental scan also noted
+“budget limitations and lack of adequate staffing” as one of the biggest obstacles for the agency in
+achieving their mission.
+Other concerns include cost recovery in some programs. Up to 20% of DEQ’s other funds are procured
+through a cost recovery system. For example, most of Land Quality’s work is funded through cost
+recovery, which is a large part of the other funds received by the program. DEQ provides oversight to
+environmental cleanup work performed by liable external parties, recovering funds from that entity upon
+providing that service. This funding mechanism is completely voluntary for the liable party, meaning that
+DEQ is dependent on that entity’s decision to self-report. Therefore, if a company fails to notify and request
+help from DEQ, the cleanup might not happen and DEQ would not be able to recover the funds. Funds
+recovered using this mechanism are highly variable.
+Increases to DEQ’s position authority have not grown alongside its overall funding. Staffing levels have
+only increased by about 8% since 2009, with most of that growth in administrative services. While the
+agency has gained some staff since then, it has only recently returned to the staffing levels it held in 2000.
+Due at least in part to funding challenges, some programs have struggled with perennial understaffing that
+risks severely curtailing their functionality. For example, DEQ’s Clean Up program housed under Land
+Quality faced difficulties when responding to the 2016 Mosier train derailment. According to the EPA, DEQ
+was initially only able to send about six people to respond, though more came in the following days. By
+comparison, the State of Washington sent roughly 70 trained first responders to perform cleanup. 28
+nearby fire departments also responded. According to DEQ, it has difficulty funding its emergency
+response program, and as of spring 2023 only had 11 FTE dedicated to emergency response statewide.
+29 Title V program: “A decrease in permitted sources plus more stringent federal emissions standards have lowered revenues and
+increased costs (there were 114 permitted sources 2013-2015 and 102 in 2022). [… ] Oregon permitting revenue decreased 11.4%
+since 2013-2015 but staff demands remain the same.” As a result, the Title V program was at risk of losing 11 FTE. To maintain those
+11 FTE and catch-up to current revenue trends, DEQ requested an 83% increase in the 2023 legislative session. HB 3229 Public
+Hearing Presentation The amended bill increased program fees using a tiered approach with a 43% increase in 2023 and 40%
+increase in 2024.
+30 Inflation was calculated using Bureau of Labor Statistics at the rate of increase from July 2009 to September 2023 at 42%.
+Oregon Secretary of State April 2024
+Report 2024-13 page 24
+Figure 6: DEQ has recently returned to staffing levels held in the 2001 -2003 biennium
+Source: LFO Adopted Budget for Authorized FTE
+Other staffing issues noted by agency staff and external parties during interviews include potentially high
+turnover in some roles, challenges recruiting and retaining experienced staff, and lower pay than
+competitors.
+The audit team was unable to verify or confirm all these concerns due to lack of available data. Through the
+Workday payroll system, certain metrics around agency turnover and recruitment may be difficult to
+accurately capture. For example, turnover rates for DEQ only include staff that have left state employment
+entirely and do not capture those who leave DEQ for other state agencies, since the system counts the
+state as a single employer. Recruitment and retention metrics are similarly difficult to capture, as one
+individual may be tracked multiple times when shifting from one position to another or changing their
+employment status (such as taking on a part-time role in the same position after retirement).
+Most positions in the State of Oregon are included in the state’s classification system managed by DAS,
+which also limits how much flexibility DEQ has in offering competitive pay. The agency also voiced
+concerns about the state’s pay equity process, which agency leadership believe may have a depressing
+effect on wages the agency is able to offer to potential candidates. In a 2023 report, auditors found that
+despite the state’s efforts, wage gaps still exist and recommended that the Department of Administrative
+Services "review existing pay equity processes to determine the causes of systemic wage gaps in state
+government and if adjustments are needed for future pay equity studies.”
+According to DEQ managers, expectations placed on current agency staff have become increasingly
+complex and burdensome. Federal standards are complicated, and rule changes impacting agency
+programs are more frequent. Legislative demands have grown as the science informing program needs
+continually evolves. When localized issues occur, like the JH Baxter contamination issue in Eugene or the
+Bullseye glass air contamination issue in Portland, DEQ staff are pulled in to assist, which can hinder their
+31 For a full analysis of Oregon’s 2017 Pay Equity bill, see OAD Report 2023-11: Oregon Must do More to Close Persistent Wage Gaps
+for Women and People of Color in State Government
+1000
+2001-03 2003-05 2005-07 2007-09 2009-11 2011-13 2013-15 2015-17 2017-19 2019-21 2021-23 2023-25
+FTE
+Biennium
+Oregon Secretary of State April 2024
+Report 2024-13 page 25
+ability to perform other critical duties.32 Prior reports by the audits division and separate consultants
+specializing in water quality permitting have also noted growing demands and increased complexity and
+the difficulties it creates for agency staff.33
+Factoring these and other funding and staffing limitations into DEQ’s strategic planning efforts will be
+critical to taking steps to manage and mitigate their effects. This work may also inform legislative requests
+for funding and guide the agency’s efforts to efficiently use the funding and staff capacity available to them.
+For example, agency management told auditors they look at capacity for specific programs when
+developing policy option packages for the Legislature but have not performed any agencywide capacity
+assessments. A broader assessment tied to the agency’s strategic goals could further inform budgetary
+requests to the Legislature. The agency’s broad scope of work, funding limitations, and the variety of
+positions held may make undertaking such an assessment a particular challenge. However, such an
+assessment may also provide critical support and context for agency funding decisions.
+A strategic plan can support and enhance DEQ’s efforts to strengthen its internal and
+external coordination and communication work
+DEQ faces several challenges in its internal and external communication work, some of which are
+structural. DEQ’s siloed structure allows the agency to focus on specific aspects of air, land, and water
+quality. However, the agency’s broad scope and having four separate divisions, each with dozens of
+unique programs, and a regional structure layered underneath can make it more difficult to coordinate and
+communicate on cross-division and cross-program concerns. Several agency staff and other interested
+32 Register Guard. 2022. With a long history of pollution, J.H. Baxter to end operations Monday and Portland Mercury. 2016. Bullseye
+Glass Took a Risky Bet on Toxic Lead
+33 2018-01. Secretary of State Audit Report. DEQ Environmental Quality Should Improve the Air Quality Permitting Process to
+Reduce Its Backlog and Better Safeguard Oregon's Air.  and MWH and DEQ 2016 Water Permitting Program Review
+Strategic Planning Considerations: Funding and staffing
+Strategic plans can provide long -term perspective on budgeting and connect an agency’s
+mission, vision, and goals to resource needs when budget decisions are made.  The GFOA
+asserts that a strategic plan should be used to provide a long-term perspective on service delivery
+and budgeting, “establishing logical links between authorized spending and broad organizational
+goals.” Several best practices indicate strategic plans can be used as a valuable tool for addressing
+chronic funding issues. Through a comprehensive look at funding streams, agencies may be able to
+better identify alternative revenue streams, cost-cutting opportunities, and prioritize initiatives that
+have the greatest ‘bang for the buck.’
+In addition, a strategic plan can be a powerful tool for connecting agency mission, vision, goals, and
+programming to resource needs during legislative session when budget decisions are determined.
+The legislature, i.e., appropriations, budget, and oversight committees, have an interest in ensuring
+the successful implementation of strategic plans because these plans may provide valuable
+information that help them make decisions. A strategic plan can provide transparency around
+funding processes for external parties as well.
+Oregon Secretary of State April 2024
+Report 2024-13 page 26
+parties told auditors about the challenges of siloed divisions and programs within the organization and the
+impacts on both internal and external communication.
+DEQ has attempted to change its structure in the past. In 2014, DEQ’s then-director initiated an overhaul of
+its structure in an attempt to break down the division silos and align the core work map around process,
+technical administration, and policy development. The reorganization split the agency into two primary
+divisions. It did not clarify who was in charge of air, land, and water quality and was considered by some to
+make communication struggles at the agency worse. When the administration changed in 2016, the
+agency opted to return to the current resource-focused structure. The agency’s past attempts to find a
+structure that allowed divisions to focus on their programs while supporting necessary cross-
+communication indicate this has been a concern for several years. Issues with fragmentation reportedly
+date back to the 1990s.
+Some staff told auditors decisions are siloed within “cylinders of excellence,” which leads to difficulties for
+staff that need to negotiate decisions with all program divisions. Staff stated cross-division positions don’t
+have the funding or support to lead successful cross-division decision-making. Siloing may also inhibit the
+kind of broad coalition building that can inform agency decisions, leaving these decisions in the hands of
+relatively small groups of agency managers and administrators that may lack broader input. Similar
+concerns were noted by ETC’s organizational assessment and BerryDunn’s environmental scan.
+Within the separate divisions, DEQ staff stated that even distinct programs can become very siloed. Due in
+part to how some programs are funded, program staff must make extra effort to coordinate and
+communicate externally. Fee structures set in statute sometimes allow for very narrow and focused use of
+funds. Positions dependent on that funding source may have little flexibility when it comes to working
+across program lines. Distinct regulatory requirements may also contribute to difficulties coordinating with
+other programs that have different rules in place
+.
+Staff mentioned other barriers to communication, including cultural issues that can lead to “information
+hoarding,” the desire of newer staff to communicate directly with each other rather than go through more
+traditional hierarchical communication channels, and a general lack of cross-program support that could
+potentially improve internal communications. Some efforts that should include broad staff input, such as
+environmental justice work, are noted to take place “in a vacuum” with limited cross communication. Staff
+shared that improved communication between programs and divisions could help the agency shift toward
+becoming more proactive in addressing high risk environmental concerns and working more effectively
+with environmental justice communities.
+Coordination and communication were also mentioned in BerryDunn interviews as areas for needed
+improvement. These include the need for better cross-program connections and better collaboration with
+other state agencies and local governments; being able to communicate scientific information more
+effectively to the public; improving the timeliness of and allowing for more decentralized decision-making;
+and applying a more consistent focus on the agency’s core mission.
+External groups also shared their frustrations with DEQ’s approach to increasing Title V fees with the
+Legislature in February 2023. Industry representatives indicated they had received little or no
+communication from the agency regarding the proposed fee increase in the months prior to the bill being
+considered, which could impact businesses. Others voiced frustrations with the agency’s perceived
+reactivity and risk aversion and how this affected communications. One interviewee noted their
+organization struggled with “how we can best interact with DEQ — even with innovative ideas,” stating they
+Oregon Secretary of State April 2024
+Report 2024-13 page 27
+did not think the agency “valued innovative work.” Another noted that DEQ could be excessively strict with
+who external parties could communicate with at the agency. Interviewees also took note of potentially
+strained relationships between DEQ’s Headquarters and regional offices, and confusion over who was in
+charge of making key decisions, with some calling the agency’s approach to communication “byzantine”
+and unreceptive to those outside the agency.
+Representatives from regional and local jurisdictions gave mixed reviews of DEQ’s communications —
+some noted that DEQ was very responsive and professional, others noted it could be difficult to find the
+right person at the agency to speak to, and voiced concerns about high turnover that impacted
+communication and relationships in some regions. Fixing communication difficulties was identified as a top
+priority.
+DEQ is aware of some of these communication challenges and dedicates time and effort to maintaining
+open lines of communication. This includes tools like social media, an agency podcast, and a listserv for
+getting information out to the public. The agency also has teams like the Office of Policy and Analysis in the
+Director’s Office, which communicates across all divisions and to some extent supports broader cross-
+division communication. DEQ works with numerous agency partners, legislators, local and federal entities,
+communities, and other groups on a broad spectrum of environmental quality concerns. Some
+interviewees spoke highly of specific communication efforts and agency staff, such as the establishment of
+the core team working on the JH Baxter situation in Eugene. Others noted that DEQ was very supportive of
+other state agencies, such as allowing programs like Oregon Department of Geology and Mineral
+Industries to use its online customer portal for its program needs.
+DEQ’s communication difficulties do not speak to a lack of effort. However, the agency may need
+enhanced funding support for its communication efforts and to examine where and why barriers to
+communication and coordination exist (structural and otherwise) that might undermine aspects of program
+implementation. Incorporating the agency’s communication and coordination needs into the development
+of its strategic plan can help DEQ pinpoint areas of needed improvement.
+Oregon Secretary of State April 2024
+Report 2024-13 page 28
+DEQ is working on promoting a healthy work environment and
+implementing anti-racist principles in the face of staffing challenges
+DEQ has made some progress to address work environment concerns and is making some of the
+necessary changes to adopt anti-racist principles. However, according to ETC and some audit interviews,
+DEQ is still early in the process of learning how these principles need to be integrated into their work.
+The agency created two full-time staff positions devoted to internal DEI work, established a DEI Council
+that supports staff across the state, and ordered the ETC Organizational Assessment to determine what
+steps the agency needs to make to fully integrate anti-racist principles. According to DEQ, the DEI Council
+includes a subcommittee focused on evaluating agency policies, practices, and procedures through an
+equity lens to help move the agency toward a more equitable, diverse, and inclusive framework. The
+agency’s 2023-25 Affirmative Action Plan focuses on improving recruitment practices and staff retention,
+particularly among people of color. The plan states that DEQ “is committed to being an organization
+grounded in principles of diversity, equity, inclusion and belonging to ensure people feel safe and protected
+while working for the agency, and as well as being their full, authentic selves.” Since the previous biennium,
+DEQ has established five staff affinity groups for LGBT+, BIPOC staff and managers, veterans of the
+Strategic Planning Considerations: Structure, Coordination, and Communication
+Strategic planning and the adoption of communication goals and priorities can be used to
+break down silos and foster cross -functional collaboration.  The United States Office of Budget
+and Management explains strategic planning “encourages organizational communication to avoid
+the ‘silo effect,’ in which problems are viewed in isolation.” And when exercised in conjunction with
+effective strategy development, “agencies can understand and shape the future environment as
+opposed to merely reacting to it.”
+For example, by including managers and staff from across agency divisions, and gathering input
+from staff, Tribes, community organizations, and other interested parties through a series of
+interviews and online surveys, the Oregon Department of Energy utilized their strategic planning
+process to break-down silos and internal-external communication barriers. The process of
+preparing a strategic plan can be used to educate external parties, i.e., community groups,
+regulated parties, etc. about the agency’s mission and vision and through forming partnerships,
+they are more likely to gain cooperation. Internally, strategic planning can be an opportunity for DEQ
+to unify management and employees and create structures that promote interdepartmental
+cooperation.
+According to the Government Finance Officers Association, for strategic planning to be successful,
+it must be collaborative. Commitment to the plan will be “half-hearted at best” if managers and
+employees were not engaged in its development. The exercise of strategic planning is an act of ‘silo-
+busting,’ but organizational siloing can also be addressed long-term through adoption of specific
+goals, priorities, outcomes, or actions. For example, one of the key principles listed in the
+Washington Department of Ecology’s 2023-25 Strategic Plan is to “create and support
+opportunities for integrated cross-program work.” One of the actions listed under this principle is to
+ensure their Climate Resiliency Team continues to facilitate internal information sharing to “improve
+consistency and coordination in agency approaches to climate change.”
+Oregon Secretary of State April 2024
+Report 2024-13 page 29
+Armed Services, and racial justice allies. The Affirmative Action plan does note that the agency does not
+have sufficient tracking systems or metrics in place to document progress for all its strategies.
+According to interviewees, while a greater focus on community interests was a shift away from how DEQ
+was used to operating, the agency is making an effort to be more balanced and take steps to meet staff and
+community needs. The JH Baxter situation was cited by an interviewee as an example of DEQ working well
+not only with marginalized communities but across agency programs. A core team was developed that
+included multiple DEQ programs, state and local representatives, and members of the local community.
+This representation helped to break down communication silos within DEQ and between the agency and
+other key entities.
+Brownfield site, The Old Blue Heron Paper Mill at Willamette Falls, Oregon City, OR| Source: Gary Halvorson, Oregon State Archives,
+CC BY
+DEQ also supports the Environmental Justice Council housed within the Governor’s Office. Both
+overarching concerns of diversity, equity, and inclusion and DEQ’s role in promoting environmental justice
+are receiving much more attention than in years past.
+The agency has made notable progress toward developing an anti-racist strategic plan. However, there
+continue to be areas for needed improvement. Audit interviews with agency staff along with feedback on
+the ETC Organizational Assessment and the BerryDunn environmental scan suggest DEQ struggles with
+supporting a healthy work environment for all staff. Issues with employee morale were also noted in
+interviews from our 2018 audit of DEQ’s air quality permitting, indicating work environment concerns are an
+ongoing challenge. Staff mentioned issues such as high workloads, an isolated work environment, and
+rocky relationships with management.
+In general, people of color can experience these kinds of workplace issues more profoundly. Stresses
+stemming from the direct or indirect effects of racism on the personal lives of people of color can
+compound work environment issues, where similar concerns may also be present.
+Oregon Secretary of State April 2024
+Report 2024-13 page 30
+ETC’s Organizational Assessment identified some key work environment and cultural concerns at DEQ.
+They include:
+• A lack of transparency and accountability within the agency, particularly around staff and
+management relationships and the chain of command;
+• Perfectionism, identified in one example as an overreliance on quantifiable data and excluding
+anecdotal evidence;
+• Defensiveness;
+• Lack of support for employees of color and protecting “bad actor” employees close to retirement;
+and
+• Isolation through the siloing of the agency, which inhibits trust building and cultivates a sense of
+“us vs them.”
+According to ETC, DEQ is not unique, and meaningful change takes time. This assessment is also a
+snapshot of where the agency stands now and is subject to change. Without performing similar
+assessments across other agencies, it is very difficult to determine where DEQ stands in relation to Oregon
+state agencies generally. Neither this audit nor ETC attempted to make such a determination.
+However, ETC concluded much more work needs to be done for DEQ to fully integrate anti-racist principles
+into the organization. ETC’s assessment uses multiple criteria to assess where their clients fall on the
+continuum to becoming an anti-racist organization. They determined that DEQ is “somewhere between
+passive and symbolic change” — fairly low on the continuum.
+ETC’s findings — lack of transparency, perfectionism, defensiveness, and more — point to aspects of the
+agency’s work environment that may need adjustment. Shifting to a more inclusive approach may provide
+staff with ongoing and meaningful support as they carry out their work.
+CULTURE OF EXCLUSION34 CULTURE OF INCLUSION
+Fear. Fear is used to drive disconnection across
+racial identities and within us and our
+communities, living in fear we are not enough,
+driven to divide and conquer in service of profit and
+power.
+Belonging and community.  Emotional maturity,
+responsibility, mutual accountability and support,
+self-care balanced with community need, naming
+fear and working to avoid letting it drive our beliefs
+and actions, and cultivating practices to meet and
+sit with our fear.
+Perfectionism.  Characterized by little direct
+appreciation for work done, mistakes being
+personalized and used to justify punishment,
+believing there is only one right way to do things,
+those holding power control decision making and
+those without are cut off from decision making.
+A culture of appreciation and learning.  Work
+and effort are openly appreciated, mistakes are
+embraced as learning opportunities and are not
+personalized, individuals are empowered to guide
+their own personal growth, understand every
+decision has trade-offs, accept there are many
+ways to achieve one goal.
+34 Examples of characteristics selected from White Supremacy Culture: Still Here, by Tema Okun. 2021. Tema Okun’s work is
+included in the anti-racism resources in use at DEQ currently. This is one of many resources on anti-racism. More information on the
+concepts outlined above can be found here.
+Oregon Secretary of State April 2024
+Report 2024-13 page 31
+Qualified.  Assuming people raised in middle and
+owning-class white culture are qualified and duty
+bound to fix, save, and set straight the world,
+ignoring and erasing other cultures while seizing
+land, labor, music and food to commodify for profit,
+an impulse to help or control without
+understanding the other person or culture,
+questioning people of color in “white” spaces.
+Understanding limits of personal knowledge.
+Prioritize relationships over being ‘right,’ lean into
+collective action and accountability, let go of the
+need to fix, save, and set straight, claiming one’s
+own wisdom without dismissing that of others.
+A sense of urgency.  Inhibits democratic or
+thoughtful decision-making needed to think in the
+long-term and consider consequences, can result
+in sacrificing potential allies for quick results, and
+reinforced by funding proposals expecting too
+much work for too little money.
+Emphasis on thoughtfulness over speed.
+Realistic workplans, leadership understanding
+timelines and learning from the past, avoiding
+rushing decisions, include people in decision-
+making even if it takes more time.
+Defensiveness and denial.  Energy is spent trying
+to prevent abuse and protect power through the
+organizational structure, criticism of those in
+power is viewed as threatening or inappropriate,
+new ideas are greeted with defensiveness, energy
+is focused on sparing feelings and defending
+against charges of racism.
+Encouraging openness to new ideas.
+Understand link between defensiveness and fear,
+working on your own defensiveness, name it as a
+problem when appropriate, trust people can learn,
+recognize how defensiveness inhibits new ideas
+and mission achievement.
+Individualism.  Uncomfortable working on a team,
+believe in solving problems alone, accountability
+not broadly considered, work for individual
+recognition and credit, competition valued over
+cooperation.
+Cooperation and teamwork.  Teamwork
+considered an important value, organization
+emphasizes working toward shared goals, ability
+to work together as a team in addition to doing
+tasks evaluated, credit is shared with all who
+participate, accountability is shared, problems are
+discussed and solved as a group.
+According to the ETC assessment, many work environment concerns were outlined in a letter to agency
+management from an internal staff group in August 2021. The letter “detailed some of the real harms
+BIPOC staff were experiencing (i.e. discrimination, unclear performance measures, common fatigue and
+strain) and listed several recommendations for DEQ leadership… ” The assessment also states that staff
+considered a prior director’s response to the letter at the time to be “inadequate and also didn’t lead to
+requisite action that would resolve some of the issues BIPOC staff were experiencing.”
+In December 2021
+following the receipt of the letter, DEQ hired a DEI Coordinator. However, DEQ acknowledged in its 2023-
+25 Affirmative Action Plan it “had not structured the position for success and the incumbent left the agency
+in January of 2023 due to frustration with power dynamics, lack of positional authority and clarity, lack of
+support, and the agency’s overall conflict-averse culture.”
+Staff noted the agency needed strong leadership and to build an environment of trust. Others stated
+agency management and leadership had, until recently, generally not been ready to have some of the
+difficult conversations around anti-racism and DEI principles. The DEI initiative was considered primarily
+staff-driven and a relatively recent endeavor. The agency’s 2023-25 Affirmative Action Plan notes the
+Oregon Secretary of State April 2024
+Report 2024-13 page 32
+agency’s concerns retaining people of color on staff. External impacts include significant barriers to a
+greater legal consideration of environmental justice in the permitting process, along with the need for
+greater structural supports within DEQ to consider disproportionate air, land, and water pollutant impacts
+on communities.
+Overall, it is evident that progress has been made and the agency has made their intent to continue with
+anti-racism work clear, though concerns remain. DEQ’s efforts around anti-racism — bringing on
+dedicated staff and participating in the assessment in an effort to identify and incorporate anti-racist
+principles into its functions as well as its strategic plan — may ultimately benefit the agency’s efforts to
+achieve its mission and environmental justice goals and could help guide other agencies that intend to
+pursue similar anti-racist strategic planning.
+Strategic Planning Considerations: Work Environment and Anti-Racist Principles
+Improving work environment and successfully adopting anti -racist principles throughs strategic planning involves
+several key steps: leadership buy -in and communication, ongoing anti -racist education, demonstrating commitment to
+principled change, decentral izing and sharing power, meaningful engagement, and factoring in distributive justice,
+among other steps.  ETC recommended among other things that DEQ enhance transparency, accountability, dedication of
+resources and prioritization of DEI and environmental justice work, develop better communication between leadership and the
+DEI Council, and continue ongoing equity and anti-racism education “to increase employee understanding and connection to
+equity efforts and minimize expected resistance to organizational change centered around anti-racism.” Leadership should
+communicate that the plan to become anti-racist is a high priority and they can use the development and implementation of the
+strategic plan as one tool to communicate this priority to staff agencywide.
+Similarly, the United Nations Strategic Action Plan on Addressing Racism (2021) points out that developing an organization-
+wide “shared vision and common narrative” around the organization’s commitment to anti-racism avoids agency siloing and
+agency management “working at cross purposes with one another.” To avoid the risk that this anti-racist strategic plan is
+perceived as performative or a short-term intervention, this process could be used as an opportunity for DEQ agency
+management to demonstrate their commitment to anti-racist principles through continuous monitoring, evaluation, and reviews.
+Anti-racist work should also be prioritized similarly to mission critical work. Sufficient resources should be made available to
+support implementation of the plan.
+The DEQ Materials Management 2022 Strategic Plan for the Built Environment incudes elements of anti-racist principles. In this
+plan, it is emphasized that decision-making power has historically been held by a few, even as these decisions impact all
+communities and disproportionately burden communities of color, low-income, rural, and other frontline communities. This DEQ
+programmatic plan has elements in it that could be drawn upon in developing an agencywide anti-racist strategic plan. Priorities
+like protecting time to build relationships and trust through meaningful engagement are highlighted in this plan. They assert that
+centering the well-being of people in conversations about environmental stewardship “creates a framing that reveals the
+complex connections between a person, their immediate and broader community, the global society, and the living Earth.”
+Similarly, the GFOA points to decentralizing of power as a better way to approach the strategic planning process. The
+‘traditional’ strategic planning assumption is that it is a top-down process, performed only by certain people like executive
+leadership — and this can result in compartmentalization of planning. They explain that a plan executed in a black box may
+result in goals, strategies, etc., that are irrelevant to frontline staff and citizens that have a better understanding of on-the-ground
+realities. GFOA says that, to ensure planning is fair, distributive justice must be considered, which refers to how resources are
+allocated fairly among members of a society. As it relates to strategic planning, GFOA says this may come into play when
+deciding what community issues and strategies to consider and focus on in the plan.
+Oregon Secretary of State April 2024
+Report 2024-13 page 33
+DEQ needs a long-term agencywide strategic plan to help navigate its
+challenges
+Without a strategic plan, DEQ may not be able to manage air, land, and water quality in a holistic and
+integrated manner. It may struggle to address complex, large-scale environmental problems, carry out a
+shared long-term vision and meet its mission, or effectively implement the anti-racist principles it seeks to
+embody in its work.
+Prior to setting up the strategic planning steering committee in 2020, DEQ did not have an agencywide
+strategic plan and appears to have not engaged in agencywide planning in over a decade. The agency and
+staff that the team interviewed were not aware of any prior agencywide strategic plan. The most recent
+version of an agencywide strategic plan the audit team was able to identify was last updated in 2006.
+Several small programs within DEQ, such as Materials Management, have drafted their own strategic plans
+in recent years. However, program level strategic planning has not been consistently performed across all
+the divisions and programs. These documents provide more specific guidance to the program than an
+agencywide plan would provide but are not tied to an overarching strategy or goal. An agencywide plan
+could help the agency ensure program level plans are aligned with the agency’s mission and vision.
+DEQ’s lack of a prior agencywide strategic plan or planning process means both the plan and process
+need to be developed from the ground up. To achieve this, DEQ set up a strategic planning steering
+committee and hired a consultant to assist the agency with the plan’s development in 2020 (see timeline
+on page 17). The committee has faced several challenges in the development of the plan, including
+transitioning to a new consultant, being put on a lengthy pause in 2021 and 2022, and experiencing
+significant turnover among committee members.
+DEQ is expected to develop and release a strategic plan by June 2024 in accordance with the Governor’s
+January 2023 memo. According to the agency, with their intent to become an anti-racist organization, the
+focus of the work may be distinct from that done at many other state agencies. Strategic planning best
+practices will still need to be integrated into the plan and process in order for the plan to be actionable and
+act as a sufficient guiding document for the agency in the years ahead. Consideration of the agency’s
+ongoing challenges should also be factored into the plan’s focus and implementation.
+Recommendations
+Oregon Secretary of State April 2024
+Report 2024-13 page 34
+For DEQ to develop a robust agencywide strategic plan that effectively guides their environmental work
+and embodies anti-racist principles, the agency will need to dedicate time and resources to the process for
+the foreseeable future. Anti-racism work is by its nature ongoing. Similarly, strategic planning, when done
+appropriately, is an ongoing and iterative process that guides the agency forward and informs how it can
+and should respond to changing circumstances.
+While the agency intends to release the first version of its strategic plan by June 2024 in accordance with
+the Governor’s expectations, the Audits Division does not anticipate that the bulk of strategic planning
+work be completed by that time. Addressing this audit’s recommendations, alongside those delivered by
+the ETC Organizational Assessment, will likely take several years to accomplish following the release of
+the initial plan. We would also like to acknowledge that DEQ is well underway in developing its strategic
+plan and these recommendations should in no way slow or impede its progress.
+To address DEQ’s ongoing challenges through strategic planning, DEQ should:
+1. Develop a long term, agencywide strategic plan that:
+a. Clearly ties to the agency’s chosen mission and links to an ongoing planning process.
+b. Is informed by frequent and open communication and collaboration with agency staff, Tribes,
+regulated entities and businesses, community partners, and other interested parties and
+supports ongoing internal and external participation.
+c. Highlights agency limitations and constraints and considers resource needs in support of
+strategic goals.
+d. Can be used as a device for guiding internal and legislative efforts to identify and utilize
+possible alternative revenue streams to further support agency needs.
+e. Provides a roadmap for aligning the agency’s mission, vision, policies, and programming with
+anti-racist principles.
+f. Communicates agency priorities around anti-racism and environmental justice.
+To develop a robust long-term strategic planning process that demonstrates the agency’s commitment to
+the plan, DEQ should:
+2. Implement an iterative process that:
+a. Receives active support and regular engagement from executive leadership and the
+Environmental Quality Commission.
+b. Encourages and supports the development of division and/or program level strategic plans
+linked to and aligned with agencywide strategic goals.
+c. Includes monitoring and review mechanisms in alignment with the Governor’s
+recommendations.
+d. Includes outcome-based anti-racist performance measures to help assess the strategic plan.
+Oregon Secretary of State April 2024
+Report 2024-13 page 35
+e. Incorporates anti-racist principles throughout strategic planning and other work processes.
+f. Allows for continual, regular updates through a phased-in approach to planning.
+g. Includes regular legislative engagement to support the agency’s strategic planning resource
+and implementation needs.
+h. Includes establishing a strategic planning oversight body devoted to monitoring, strategic
+planning updates, and implementation guidance.
+i. Incorporates conducting formal equity reviews to identify and address systemic or institutional
+racism within the agency’s policies, procedures, and practices.
+Objective, Scope, and Methodology
+Oregon Secretary of State April 2024
+Report 2024-13 page 36
+OBJECTIVE
+The objective of the audit was to determine how DEQ can enhance its strategic planning efforts to
+proactively address challenges that could impede the agency from meeting its mission and environmental
+equity goals.
+SCOPE
+The audit focused on DEQ’s efforts to draft and prepare to implement an agencywide strategic plan,
+historical planning efforts, and growing program demands. It also focused on general themes of risk
+identified at the agency, which included work environment and staffing concerns, internal and external
+communication, and funding challenges. This audit was conducted in real-time with the intent of informing
+the ongoing development of DEQ’s agencywide strategic plan and related processes in alignment with the
+Governor’s expectations and the agency’s stated goal to become an anti-racist agency.
+METHODOLOGY
+To address our objective and gain an understanding of DEQ, we:
+• interviewed the majority of DEQ leadership and other key staff, as well as the director and some
+commissioners;
+• interviewed industry representatives, county and city governments, federal partners, a DEQ
+consultant, the Governor’s Office, and analysts from the Legislative Fiscal Office and the state’s
+Budget and Management section;
+• reviewed related ORS and OARs, OAD reports and past audit material, DEQ-generated
+documentation, agency budget and legislative documentation, and relevant legislative testimony
+and materials;
+• reviewed and analyzed relative material related to environmental quality;
+• reviewed and analyzed consultant contracts and SFMA, the state’s financial records, transactions;
+• reviewed criteria relevant to strategic planning, including best practices around strategic planning,
+and other state agencies, states, and federal strategic planning documentation;
+• reviewed and assessed DEQ’s strategic planning efforts and current timeline;
+• reviewed governor, state, and other guidance related to strategic planning;
+• reviewed agency, state, and other relevant material related to DEI, anti-racism, and environmental
+justice work and policies; and
+• reviewed and analyzed documents relevant to DEQ’s workforce planning, staffing, coordination
+and communication.
+DEQ engaged with two consultants to assist in the strategic plan development: BerryDunn and Engage to
+Change, LLC. We reviewed and analyzed consultant prepared strategic planning and organizational
+assessment reports.
+• BerryDunn
+, as part of its work, conducted an environmental scan, including several internal and
+external interviews, identifying areas of concern within the agency. BerryDunn is included in the
+Department of Administrative Services list of strategic plan vendors they contract with under the
+Master Price Agreements for Business & Strategic Planning Services.
+Oregon Secretary of State April 2024
+Report 2024-13 page 37
+• Engage to Change LLC, provides anti-racist and DEI trainings, meeting facilitation, strategic
+planning and change management support. They have provided consulting support around anti-
+racist strategic planning to DEQ.
+INTERNAL CONTROL REVIEW
+We determined that the following internal controls were relevant to our audit objective.35
+• Control Environment
+o We reviewed the oversight body management of internal controls.
+o We considered management’s establishment of an organizational structure,
+responsibilities, and delegation of authority to achieve DEQ’s mission.
+o We reviewed management’s commitment to recruit, develop, train, and retain competent
+staff.
+• Risk Assessment
+o We interviewed staff and other interested parties, reviewed statutes, administrative rules.
+o We considered whether management identifies, analyzes, and responds to risks related to
+achieving the defined objectives.
+o We considered whether management identified, analyzed, and responded to significant
+changes that could impact the internal control system.
+• Information and communication
+o We considered whether management used quality information and whether internally and
+externally management communicated the necessary quality information.
+• Monitoring activities
+o We evaluated DEQ’s role in monitoring compliance, performance, funding, and spending.
+o We considered whether management has established and operated monitoring activities
+to monitor the internal control system and evaluate the results.
+o We considered whether management remediates identified internal control deficiencies on
+a timely basis.
+Deficiencies with these internal controls were documented in the results section of this report.
+We conducted this performance audit in accordance with generally accepted government auditing
+standards. Those standards require that we plan and perform the audit to obtain sufficient, appropriate
+evidence to provide a reasonable basis for our findings and conclusions based on our audit objectives. We
+believe that the evidence obtained provides a reasonable basis for our findings and conclusions based on
+our audit objectives.
+We sincerely appreciate the courtesies and cooperation extended by officials and employees of DEQ
+during the course of this audit.
+35 Auditors relied on standards for internal controls from the U.S. Government Accountability Office, report GAO-14-704G.
+Oregon Secretary of State April 2024
+Report 2024-13 page 38
+ABOUT THE SECRETARY OF STATE AUDITS DIVISION
+The Oregon Constitution provides that the Secretary of State shall be, by virtue of the office, Auditor of
+Public Accounts. The Audits Division performs this duty. The division reports to the Secretary of State and
+is independent of other agencies within the Executive, Legislative, and Judicial branches of Oregon
+government. The division has constitutional authority to audit all state officers, agencies, boards and
+commissions as well as administer municipal audit law.
+Audit team
+Olivia Recheked, MPA, Audit Manager
+Bonnie Crawford, MPA, Senior Auditor
+Nicole Barrett, MPA, Senior Auditor
+Hillary Hahn, MPP, Staff Auditor
+Department of Environmental Quality
+Agency Headquarters
+700 NE Multnomah Street, Suite 600
+Tina Kotek, Governor Portland, OR  97232
+(503) 229-5696
+FAX (503) 229-6124
+TTY 711
+April 12, 2024
+Kip Memmott, Director
+Secretary of State, Audits Division
+255 Capitol St. NE, Suite 180
+Salem, OR 97310
+Dear Mr. Memmott,
+This letter provides a written response to the Audits Division’s final draft audit report titled Ongoing
+Strategic Planning Can Help DEQ Address Obstacles to Achieving its Goals.
+The Oregon Department of Environmental Quality appreciates the auditor’s work to understand and
+evaluate our strategic planning process. We agree that the agency’s broad responsibilities will only grow
+in the face of climate change and other emerging environmental issues. We also agree with the auditor
+that developing an agency-wide antiracist strategic plan is key to directing our limited resources in a way
+that will benefit everyone in Oregon.
+Below is our detailed response to each recommendation in the audit.
+RECOMMENDATION 1
+To address DEQ’s ongoing challenges through strategic planning, DEQ should:
+1. Develop a long term, agencywide strategic plan that:
+a. Clearly ties to the agency’s chosen mission and links to an ongoing planning process.
+b. Is informed by frequent and open communication and collaboration with agency
+staff, Tribes, regulated entities and businesses, community partners, and other
+interested parties and supports ongoing internal and external participation.
+c. Highlights agency limitations and constraints and considers resource needs in
+support of strategic goals.
+d. Can be used as a device for guiding internal and legislative efforts to identify and
+utilize possible alternative revenue streams to further support agency needs.
+e. Provides a roadmap for aligning the agency’s mission, vision, policies, and
+programming with anti-racist principles.
+f. Communicates agency priorities around anti-racism and environmental justice.
+Kip Memmott, Director
+April 12, 2024
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number of
+specific point of contact for
+implementation
+Agree
+June 1, 2024
+Charles Judd
+DEQ Internal Auditor
+971-275-8755
+DEQ agrees with Recommendation 1 and is in the process of developing an agencywide strategic plan
+and a Diversity, Equity and Inclusion plan, to be adopted and submitted to the Governor’s Office by June
+1, 2024. The items under this recommendation will either be included in these plans or were discussed
+in previous evaluations of the agency and used to inform the Strategic Plan and DEI Plan.
+RECOMMENDATION 2
+To develop a robust long-term strategic planning process that demonstrates the agency’s
+commitment to the plan, DEQ should:
+2. Implement an iterative process that:
+a. Receives active support and regular engagement from executive leadership and
+the Environmental Quality Commission.
+b. Encourages and supports the development of division and/or program level
+strategic plans linked to and aligned with agencywide strategic goals.
+c. Includes monitoring and review mechanisms in alignment with the Governor’s
+recommendations.
+d. Includes outcome-based anti-racist performance measures to help assess the
+strategic plan.
+e. Incorporates anti-racist principles throughout strategic planning and other work
+processes.
+f. Allows for continual, regular updates through a phased-in approach to planning.
+g. Includes regular legislative engagement to support the agency’s strategic
+planning resource and implementation needs.
+h. Includes establishing a strategic planning oversight body devoted to monitoring,
+strategic planning updates, and implementation guidance.
+i. Incorporates conducting formal equity reviews to identify and address systemic
+or institutional racism within the agency’s policies, procedures, and practices.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number of
+specific point of contact for
+implementation
+Kip Memmott, Director
+April 12, 2024
+Agree June 1, 2027 Charles Judd
+DEQ Internal Auditor
+971-275-8755
+Per Governor Kotek’s guidance, agency strategic plans are meant to span three years. During that time,
+DEQ will accomplish or advance each of the items under this recommendation through implementation
+of the Strategic Plan and DEI Plan.
+Again, DEQ strongly concurs with these recommendations and is committed to implementing its
+antiracist Strategic Plan and DEI Plan, and recognizes doing so will benefit all of Oregon and its
+environment.
+Please contact Charles Judd, DEQ Internal Auditor, at 971-275-8755 with any questions.
+Sincerely,
+Leah Feldon
+Director
+This report is intended to promote the best possible
+management of public resources.
+Copies may be obtained from:
+Oregon Audits Division
+255 Capitol St NE, Suite 180
+Salem OR 97310
+(503) 986-2255
+audits.sos@oregon.gov
+sos.oregon.gov/audits

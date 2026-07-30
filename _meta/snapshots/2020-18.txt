@@ -1,0 +1,268 @@
+Secretary of State Bev Clarno
+Audits Division Director Kip Memmott
+Department of Administrative Services and Enterprise
+Information Services
+Recommendation Follow-up Report:
+While Work Remains, the State Is on Track to
+Modernize Procurement Systems and Practices
+May 2020
+Report 2020-18
+Follow-up to Audit Report 2018-45
+Department of Administrative Services and Enterprise Information Services
+Recommendation Follow-up Report:
+While Work Remains, the State Is on Track to Modernize
+Procurement Systems and Practices
+May 2020
+Follow-up Summary
+The Department of Administrative Services (DAS) and Enterprise Information Services (EIS), a component of
+DAS, made progress on all five recommendations from the original audit. While the agency is on track to
+address our findings, these efforts will require more time before they are complete. Moreover, we noted that
+these efforts have been delayed by the COVID-19 pandemic.
+Findings from the Original Audit
+» Due to a reliance on legacy systems and outdated procurement processes, DAS Procurement Services
+does not adequately analyze state spending data.
+» Some IT project oversight processes remain immature, and a lack of training and guidance have
+contributed to confusion and frustration for agencies with projects subject to OSCIO oversight.
+» Controls are appropriate to ensure QA remains independent, but report tracking could be strengthened.
+Improvements Noted
+» The Legislature approved funding for a statewide eProcurement system in 2019 and DAS has begun
+work with a contractor to implement an enterprise solution, which is expected to provide better
+purchasing data for statewide spend analysis. (pg. 2)
+» EIS has developed draft procedures to better scale IT investment oversight by project risk and
+complexity and ensure project managers have the appropriate knowledge and experience. (pg. 3-4)
+» The statewide IT investment quality assurance program now has processes to track whether quality
+assurance (QA) reports for projects in execution are sent to some key stakeholders. (pg. 5)
+Remaining Areas of Concern
+» The statewide quality assurance program does not yet have processes to track QA reports submitted
+prior to execution or to ensure reports are sent to all required recipients. (pg. 5)
+The Oregon Secretary of State Audits Division is an independent, nonpartisan organization that conducts audits
+based on objective, reliable information to help state government operate more efficiently and effectively. The
+summary above should be considered in connection with a careful review of the full report.
+Oregon Secretary of State | Report 2020-18 | May 2020 | Page 1
+Introduction
+The purpose of this report is to follow up on the recommendations we made to the Department
+of Administrative Services (DAS) and Enterprise Information Services (EIS), formerly the Office
+of the State Chief Information Officer (OSCIO), as included in audit report 2018-45, “Significant
+Cost Savings Can Be Achieved by Modernizing Oregon’s Procurement Systems and Practices.”
+The Oregon Audits Division conducts follow-up procedures for each of our performance audits.
+This process helps assess the impact of our audit work, promotes accountability and
+transparency within state government, and ensures audit recommendations are implemented
+and related risks mitigated to the greatest extent possible.
+We use a standard set of procedures for these engagements that includes gathering evidence and
+assessing the efforts of the auditee to implement our recommendations; concluding and
+reporting on those efforts; and employing a rigorous quality assurance process to ensure our
+conclusions are accurate. We determine implementation status based on an assessment of
+evidence rather than self-reported information. This follow-up is not an audit, but a status check
+on the agency’s actions.
+To ensure the timeliness of this effort, the division asks all auditees to provide a timeframe for
+implementing the recommendations in our audit reports. We use this timeframe to schedule and
+execute our follow-up procedures.
+Our follow-up procedures evaluate the status of each recommendation and assign it one of the
+following categories:
+ Implemented/Resolved: The auditee has fully implemented the recommendation or
+otherwise taken the appropriate action to resolve the issue identified by the audit.
+ Partially implemented: The auditee has begun taking action on the recommendation,
+but has not fully implemented it. In some cases, this simply means the auditee needs
+more time to fully implement the recommendation. However, it may also mean the
+auditee believes it has taken sufficient action to address the issue and does not plan to
+pursue further action on that recommendation.
+ Not implemented: The auditee has taken no action on the recommendation. This could
+mean the auditee still plans to implement the recommendation and simply has not yet
+taken action; it could also mean the auditee has declined to take the action identified by
+the recommendation and may pursue other action, or the auditee disagreed with the
+initial recommendation.
+The status of each recommendation and full results of our follow-up work are detailed in the
+following pages.
+We sincerely appreciate the courtesies and cooperation extended by officials and employees of
+DAS and EIS during the course of this follow-up work.
+Oregon Secretary of State | Report 2020-18 | May 2020 | Page 2
+Recommendation Implementation Status
+Recommendations made to DAS
+Recommendation #1
+Identify options, and seek funding, for the acquisition and implementation of an
+enterprise eProcurement system that would provide purchase data of sufficient
+detail to allow for robust spending analysis and identification of opportunities
+for strategic sourcing and cost reductions. Additionally, develop processes to
+ensure the results of this analysis are available to agencies, legislators, and the
+public.
+Partially
+implemented
+DAS received funding in 2019 to implement an eProcurement system
+DAS received nearly $9 million in funding from the Legislature during the 2019 session to
+implement Oregon Buys as an enterprise eProcurement system. Oregon Buys is currently being
+used by the Secretary of State and the Department of Forestry.
+DAS is currently working with a contractor to finalize planning for a two-phase enterprise
+implementation of the system. The agency is currently working to fulfill the conditions necessary
+to gain approval from the IT investment oversight team at EIS for the implementation planning
+phase of the project. Once approved, DAS will begin execution of phase one of the project plan.
+The first phase will replace the state’s current procurement system. This will allow agencies to
+post and review procurement solicitations and search for statewide contracts. End-to-end
+eProcurement functionality will be added in the second phase,1 which will allow agency staff to
+initiate requisitions, receive purchase approvals, and initiate payments to vendors in one
+system. The first phase was originally expected to be completed by the end of 2020, though this
+timeline has been delayed as a result of the COVID-19 pandemic. Management now anticipates
+phase one will be implemented in 2021, with the second phase due for completion
+approximately 18 months later.
+OregonBuys is intended to provide purchase-level data allowing for spend analysis,
+strategic sourcing, and enhanced transparency
+When phase two is completed, DAS expects to have detailed, line-item data for all purchases
+agencies make, allowing for spend analysis to be completed at both agency and statewide levels.
+OregonBuys will be integrated with the state’s accounting system so that line-item information
+is accessible for actual amounts paid for supplies and services, data that has not historically been
+available.
+In addition to developing the OregonBuys system and supporting its implementation within
+state agencies, the contractor will also provide spend analysis and strategic sourcing services.
+Initially, the vendor will perform these functions, but the vendor will also provide training to
+DAS Procurement Services staff so that they can perform this work going forward. DAS
+anticipates these efforts will allow procurement staff to identify opportunities for cost savings
+through enhanced contract negotiations. Additionally, the system should provide cost savings
+through the reduction of manual, paper-based procurement processes.
+1 End-to-end eProcurement means the procurement process from the time an agency staff person determined to make a purchase
+through the payment for the purchase.
+Oregon Secretary of State | Report 2020-18 | May 2020 | Page 3
+Management indicated that the purchase-level data OregonBuys generates will be available
+online to key stakeholders and the public, increasing the transparency of the state’s purchasing
+decisions. However, DAS has not yet developed processes to perform spend analysis or
+communicate analysis results to external stakeholders.
+Recommendations made to EIS
+Recommendation #2
+Fully develop and implement stage gate processes to ensure they are effective
+and repeatable. Specific processes that should be developed include:
+a. Specifying how projects of different sizes and complexity will be
+evaluated to ensure each project receives the appropriate amount of
+oversight;
+b. Establishing more robust criteria and guidance regarding required
+elements for stage gate deliverables, including templates and examples,
+and a training program for oversight staff to promote consistent
+application of the project oversight framework.
+Partially
+implemented
+EIS developed a new policy and procedure for how projects of different sizes and complexities
+will be evaluated to ensure appropriate oversight; however, these documents require approval
+before they can be implemented. EIS submitted the draft documents for approval in March 2020
+and initially expected approval by April, but this timeline has been delayed as a result of the
+COVID-19 pandemic.
+Under the draft procedure, agencies will work with EIS to perform a self-assessment of the
+complexity of their IT investment projects using the Initial Complexity Assessment tool
+developed by EIS. This tool uses a matrix to calculate complexity based on six factors: span of
+organizational change, business complexity, IT complexity, preliminary budget, stakeholder
+complexity, and visibility. Additionally, oversight staff at EIS will assign maturity scores to each
+agency based on the maturity of their IT governance, project organizational structure, and
+experience with IT projects.
+EIS oversight staff will then use the project complexity and agency maturity assessment scores
+to calculate the appropriate level of oversight on a scale of one (lowest level of oversight) to
+three (highest level of oversight). The resulting oversight level will determine the documents
+agencies must submit to oversight personnel at EIS and the number of formal review points over
+the life of the project.
+Figure 1: New assessment tools inform project manager and oversight levels
+Oregon Secretary of State | Report 2020-18 | May 2020 | Page 4
+In addition to developing more defined processes for determining the level of oversight, EIS
+worked with consultants and agency stakeholders to develop more robust tools and templates
+for agency project staff. For example, EIS developed a draft Project Management Plan template
+that provides guidance and sample language for agencies to define how required project work
+will be performed and measured.
+While EIS management believes that this more clearly defined oversight process will promote a
+more consistent application of the project oversight framework, management has not developed
+a formal training program for oversight staff. Though there is not a defined process to review the
+consistency of analysts’ review, EIS management established a series of regular meetings
+providing oversight analysts a venue to discuss process issues in order to help enhance the
+consistency with which they apply the oversight framework. Additionally, the oversight team
+has discussed instituting a peer review process, which may help mitigate the oversight
+inconsistencies identified in the original audit. However, this review process has not yet been
+fully developed or implemented.
+Recommendation #3
+Establish minimum knowledge (i.e. education or training) and experience
+requirements for project managers who manage major IT investment projects.
+Knowledge and experience requirements should be scaled to be commensurate
+with project risk determined by the OSCIO.
+Partially
+implemented
+EIS has developed new requirements for project managers who manage major IT investment
+projects; however, the new procedure and template both require approval before they can be
+implemented. As mentioned in recommendation no. 2, although EIS submitted the draft
+documents for approval, the anticipated timeline has been delayed as a result of the COVID-19
+pandemic. When these changes are approved, this recommendation will be fully implemented.
+Using the Initial Complexity Assessment tool discussed in recommendation no. 2, agencies will
+quantify the complexity of their IT investment project. The tool provides minimum project
+manager qualifications based on the results of the complexity assessment. Potential project
+manager levels include novice, entry level, intermediate, or advanced. Higher project manager
+levels require more experience, professional knowledge, skills, and more advanced
+certifications.
+While the Initial Complexity Assessment tool stipulates minimum project manager
+requirements, agencies may assign a higher level project manager to the project at their
+discretion. However, if an agency wishes to assign a lower level project manager than what is
+recommended by the tool, they must document a strategy to mitigate the associated risks.
+Recommendation #4
+Work with stakeholders to define, periodically review, update, and approve key
+performance indicators for the oversight process. Once KPIs are defined, the
+agency should develop processes to collect and periodically review
+performance data, and report progress compared to performance targets to
+key stakeholders.
+Partially
+implemented
+EIS began tracking IT investment project schedule and budget variance as performance
+indicators in January 2020; however, they have not yet begun reporting these internal
+performance indicators. Management indicated that, as the oversight process matures, they
+would also like to include metrics that are more closely aligned with specific business outcomes.
+To this end, EIS has begun to engage agencies in discussions about IT investment metrics and
+has started to build dashboards to monitor performance. However, at this point, they have
+Oregon Secretary of State | Report 2020-18 | May 2020 | Page 5
+focused their resources on oversight policy and procedure changes associated with
+recommendations no. 2 and 3.
+Recommendation #5
+Establish a method to track QA report distributions to ensure that reports are
+sent to all appropriate stakeholders as required by state law.
+Partially
+implemented
+EIS implemented a process for documenting the distribution of quality assurance (QA) reports in
+May 2019 that requires agencies to submit an Independent Contractor Deliverables Distribution
+Report as part of the existing major IT project reporting process for projects in execution.
+Agencies use this report to document every QA report received during the quarter, both draft
+and final, and to affirm that the report was distributed to the required stakeholders. While we
+found that all projects expected to deliver the new report did so in 2019, we also noted that EIS
+could improve the process by ensuring that all required stakeholders are included in the
+distribution of QA report deliverables. For example, we found that agency managers were
+included in the selection of QA report emails we reviewed, but, in some cases, agency directors
+were not even though they are specifically listed as a required recipient in state law.
+In addition, this new reporting requirement does not apply to QA reports for projects in the
+planning and procurement phases, which are also required by state law to be sent to all
+appropriate stakeholders. Though management indicated that the planning and procurement
+phases are lower risk than when a project is in execution, they intend to expand their process to
+track distribution of QA reports for projects in these preliminary phases.
+Conclusion
+DAS has made progress toward implementing a statewide eProcurement system, receiving
+funding from the Legislature and beginning to work with a contractor. Implementing this
+statewide system is a large undertaking that we did not expect to be completed within our
+follow-up period.
+EIS made significant progress on our two recommendations related to improving IT project
+oversight, including the development of draft policies and procedures to better scale oversight
+to project risk and complexity and a process to better ensure that agencies assign project
+managers with the appropriate knowledge and experience. These improvements require
+approval before they can be fully implemented. The project oversight team also developed
+performance indicators to better track the performance of the oversight process, but they have
+not begun to report on progress compared to performance targets.
+EIS also developed a process to better ensure that QA reports are distributed to the stakeholders
+required by statute, but it does not cover preliminary QA reporting or ensure all stakeholders
+actually received QA reports.
+The COVID-19 pandemic directly affected EIS’s ability to implement recommendations no. 2 and
+3. They expected to receive approval for the policy and procedure changes by the end of March
+and to begin implementing the changes in April, but the response to the pandemic delayed
+meeting these milestones.
+Follow-up Report Team
+William Garber, CGFM, Deputy Director
+Teresa Furnish, CISA, Audit Manager
+Jessica Ritter, CPA, CISA, Senior Auditor
+Jonathan Bennett, MPA, Staff Auditor
+About the Secretary of State Audits Division
+The Oregon Constitution provides that the Secretary of State shall be, by virtue of the office, Auditor of Public
+Accounts. The Audits Division performs this duty. The division reports to the elected Secretary of State and is
+independent of other agencies within the Executive, Legislative, and Judicial branches of Oregon government.
+The division has constitutional authority to audit all state officers, agencies, boards and commissions as well as
+administer municipal audit law.
+This report is intended to promote the best possible management of public resources.
+Copies may be obtained from:
+Oregon Audits Division
+255 Capitol St NE, Suite 500 | Salem | OR | 97310
+(503) 986-2255
+sos.oregon.gov/audits
+Report

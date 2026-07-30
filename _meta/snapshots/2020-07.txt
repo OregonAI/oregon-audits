@@ -1,0 +1,2263 @@
+Secretary of State Bev Clarno
+Audits Division Director Kip Memmott
+Fiscal Year 2018
+Oregon Municipal Corporations:
+Summary of Fiscal Year 2018 Financial Reporting
+February 2020
+2020-07
+Oregon Secretary of State| Report 2020-07 | February 2020 | Page 1
+Introduction
+Annual Reporting
+Oregon’s municipal corporations, as defined by Municipal Audit Law, include all counties, cities,
+school districts, special districts, and public corporations subject to control by local
+governments. Municipal Audit Law provides instructions for the type and submission of annual
+reports that municipal corporations are required to submit to the Secretary of State.1
+Municipal Audit Law requires the Secretary of State, in cooperation with the Oregon Board of
+Accountancy and in consultation with the Oregon Society of Certified Public Accountants, to
+prescribe the minimum standards for the conduct of each audit. The Secretary of State requires
+independent accountants to follow professional auditing standards promulgated by the
+American Institute of Certified Public Accountants (AICPA) and issue financial reports in
+accordance with generally accepted accounting principles.
+About 1,800 municipal corporations are registered with the Secretary of State and all are subject
+to annual reporting requirements, but not all are subject to an audit. Municipal Audit Law
+employs a three-tiered reporting responsibility. All counties, school districts, and public charter
+schools are required to have their financial statements audited each year. Municipalities with
+total annual expenditures exceeding $500,000 are also required to be audited. Most municipal
+corporations operate on a July 1 to June 30 fiscal year with audits performed and reports filed
+with the Secretary of State by December 31, within six months of the close of their fiscal year.
+Municipalities with total annual expenditures between $150,000 and $500,000 are not required
+to have an audit and may opt instead to have a financial statement review performed by an
+independent accountant. Municipalities with total annual expenditures of $150,000 or less may
+submit reports in lieu of audit where they self-report expenditures on forms prescribed by the
+Secretary of State. To be exempt from the audit requirement, the law requires reports be filed on
+time, and the principal official of the municipal corporation, or the official responsible for
+receiving and disbursing moneys on behalf of the municipal corporation, must be covered by a
+fidelity or faithful performance bond sufficient to protect the government from loss. Financial
+reports filed with the Secretary of State are available for viewing on the Secretary of State’s
+website on the municipal audit search page.
+Of the 1,799 municipal corporations, 1,161 were expected to file audit reports with the Secretary
+of State for fiscal year 2018. However, 22 of those audits are more than a year late in their filing
+and were not filed as of December 31, 2019.
+Figure 1: FY18 financial reports by type of municipal corporation
+Audit Review In-Lieu Total
+Counties 36   36
+Community Colleges 17   17
+School Districts and ESDs 207   207
+Charter Schools 116   116
+Cities 214 14 13 241
+Fire Districts 115 54 93 262
+Other Special Districts 456 112 352 920
+Total 1,161 180 458 1,799
+1 Oregon Revised Statutes 297.405-.555 and 297.990
+2 See: https://secure.sos.state.or.us/muni/public.do
+Oregon Secretary of State| Report 2020-07 | February 2020 | Page 2
+Report Filing Extensions
+Municipal Audit Law permits a municipality to request additional time to file its annual audit
+report beyond the six month filing deadline for good cause or due to extraordinary
+circumstances. The request must be in writing and include the cause for the delay and the
+expected report delivery date. Both the government official and the independent accountant
+make the request.
+For fiscal year 2018, 244 municipal corporations requested and 207 (85%) received approval
+for an extension of time to file their financial report. Reasons cited for extensions vary, but some
+common explanations include delays from staff turnover or illness, changes in accounting
+software, or weather-related incidents. Requests for extension are typically not approved when
+a request does not demonstrate good cause as required or when a municipality has routinely
+filed late reports.
+Audit Deficiencies and Plans of Action
+Most local governments receive a “clean” audit report each year without any qualifications or
+deficiencies noted. However, when deficiencies are reported, the governing body of a municipal
+corporation is required to determine the corrective measures it considers necessary to address
+the deficiencies. Municipal Audit Law requires that within 30 days after filing its annual report, a
+municipal corporation shall file with the Secretary of State a copy of its Plan of Action. The plan
+must include appropriate actions to address the deficiencies noted and an estimate of the
+timeframe necessary to complete the planned actions.
+Statutory Requirements — Annual Summary Reporting
+Oregon law requires the Secretary of State to prepare an annual summary report, which is to
+include, at a minimum, the following:
+• A list of municipal corporations required to file audit reports with the Secretary;
+• A list of municipal corporations that filed audit reports with the Secretary within six
+months after the close of the year under audit;
+• A list of municipal corporations that did not request a filing extension and did not file
+their report within six months of close of fiscal year;
+• A list of corporations that requested and were granted filing extensions and if they met
+their filing extension deadline;
+• A list of number and type of deficiencies cited in audit reports; and a
+• Description of whether the municipal corporation submitted a Plan of Action to the
+Secretary of State.
+This report and appendices fulfill the requirements outlined in the law.
+3 Oregon Revised Statute 297.471
+Oregon Secretary of State| Report 2020-07 | February 2020 | Page 3
+Results
+The requirements in Municipal Audit Law are intended for municipal corporations to be
+financially accountable to their general citizenry. There are many stakeholders involved in the
+municipal audit process. Government officials understand the annual reporting requirements;
+independent accountants provide timely audit services; the Secretary of State works as a
+resource for government officials and the audit community throughout the year to aid in
+understanding and ensure compliance; and Oregon’s citizens are informed of their local
+government’s financial activities.
+Oregon’s Municipal Audit Law requires the Secretary of State to provide summary information
+on the status of audit report filings. This report summarizes the financial reporting activities of
+municipal corporations that were required to, or voluntarily submitted, an audit report to the
+Secretary of State for the fiscal year ended June 30, 2018.
+Audit Report Filings
+Of the 1,799 Oregon municipal corporations actively registered in Oregon, 1,161 were expected
+to file an audit with the Secretary of State by December 31, 2018, unless they requested an
+extension. As shown in Figure 2, 77% of these municipalities filed their audit reports on time or
+within their approved extension deadline. Of the 207 that requested and received extensions,
+122 filed their report within the extended deadline. As of December 31, 2019, 22 municipalities
+had not filed a fiscal year 2018 audit report; these municipalities included six cities, one charter
+school, five fire districts, and ten special districts.
+Figure 2: Filing status of FY 2018 audit reports
+Audit Report Deficiencies
+For financial statement audits, professional auditing standards require independent accountants
+to communicate, in writing, instances of significant deficiencies and material weaknesses to the
+municipal corporation’s governing body and, by rule, provide a copy of the communication to
+the Secretary of State. A material weakness is a deficiency severe enough that there is a
+reasonable possibility a material misstatement could occur and not be prevented, or detected
+Timely
+67%
+Timely with
+extensions
+10%
+Late
+21%
+Non-filers
+2%
+Oregon Secretary of State| Report 2020-07 | February 2020 | Page 4
+and corrected, on a timely basis. A significant deficiency is less severe than a material weakness,
+yet important enough to merit the attention of the governing body.
+Reported deficiencies generally fall into three broad categories: weaknesses in internal controls
+related to financial reporting; errors and misstatements in the financial statements; and
+violations of laws, rules, and regulations. As shown in Figure 3, of the 1,139 municipal audit
+reports filed for fiscal year 2018, 385 (34%) reported one or more audit deficiencies; a total of
+721 deficiencies were reported with the majority related to weaknesses in internal control. Of
+the municipalities with deficiencies reported, 74% filed a Plan of Action and 86% filed deficiency
+communications with the Secretary of State as required. The rate of compliance for filing a plan
+of action is up significantly from prior years; in 2017, only 45% of required plans were filed.
+Figure 3: Required deficiency letters and plans of action; not all were filed
+Internal Control Deficiencies
+At least one significant deficiency or material weakness in internal controls was reported for
+314 municipalities. A deficiency exists when the design or operation of controls does not allow
+management or employees, in the normal course of performing their assigned accounting and
+financial reporting functions, to prevent, or detect and correct, financial statement
+misstatements on a timely basis. Inadequate segregation of duties and the inability to prepare
+financial statements are common in smaller governments with limited staff, and are typically the
+most prevalent deficiencies reported.
+Compliance with Laws, Rules, and Regulations
+Auditors reported one or more instances of significant noncompliance with laws, rules,
+regulations, or grantor requirements for 49 municipal corporations. Ad valorem taxes are a
+major source of revenue for the majority of Oregon’s municipal corporations. As such, municipal
+corporations are required to prepare, adopt, and execute annual or biennial budgets in
+accordance with Oregon’s Local Budget Law. Significant noncompliance with those requirements
+may result in deficiencies reported by the auditor. Other instances of non-compliance may
+pertain to Oregon’s Public Contracting Code, failure to obtain required fidelity bond insurance
+coverage, or failing to comply with federal or state grant requirements.
+2018
+Deficiency Communication
+2018
+Plan of Action
+385 Reports With Deficiencies
+Filed Not filed
+Oregon Secretary of State| Report 2020-07 | February 2020 | Page 5
+Accounting Errors and Misstatements
+Auditors reported one or more significant deficiencies or material misstatements for 97
+municipal corporations. Errors and misstatements occur in all accounts and funds. Many could
+have been detected and corrected timely if the municipal corporation had a stronger system of
+internal control. Some common errors are recording amounts in the wrong account or fund;
+recording purchases of capital assets as expenditures in the year of purchase instead of
+capitalizing and depreciating over their life expectancy; reporting items at insurance value or
+fair market value instead of historical cost; not reporting transactions at all due to lack of
+records; or incorrectly depreciating assets. There are also misstatements for the failure to
+recognize and record accruals required of revenues and expenditures.
+Conclusion
+This summary report fulfills the legislative requirement of Oregon’s Municipal Audit Law and
+presents a summary of financial reporting activity and required reports submitted for fiscal year
+2018, as of December 31, 2019. We appreciate the ongoing partnership with professional
+independent accountants and Oregon municipal corporations in ensuring compliance with the
+law and enhanced transparency.
+We have included the summary information required by law in the following appendices:
+Appendix A is a list of municipalities that filed timely reports within the six-month statutory
+deadline or within an approved extension deadline.
+Appendix B is a list of municipal corporations that either filed reports beyond an approved
+extension of time or filed late and did not file a request for an extension.
+Both Appendix A and Appendix B identify whether letters reporting material or significant
+deficiencies issued by the independent accountants were received and whether a Plan of Action
+adopted by the governing body was filed. Both items are required to be filed with the Secretary
+of State when significant or material deficiencies are reported.
+Appendices A and B also include the number and type of significant deficiencies and material
+weaknesses reported by the independent accountants and filed with the Secretary of State.
+Appendix C is a table showing the municipal corporations that had not filed as of December 31,
+2019.
+(ORS 297.466)
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State| Report 2020-07 | February 2020 | Page 6
+Appendix A: Timely Filed Reports
+Municipal Corporation Name Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant Findings
+Reported
+Internal
+Controls
+Accounting
+Errors
+Non-
+Compliance
+COUNTIES
+BENTON CO
+CLACKAMAS CO 
+CLATSOP CO        1
+COLUMBIA CO 
+COOS CO 
+CROOK CO      2
+DESCHUTES CO        1
+DOUGLAS CO
+GILLIAM CO     1
+GRANT CO     1
+HOOD RIVER CO 
+JACKSON CO
+JEFFERSON CO
+JOSEPHINE CO
+KLAMATH CO 
+LAKE CO 
+LANE CO
+LINCOLN CO 
+LINN CO
+MARION CO
+MORROW CO    1
+MULTNOMAH CO      1
+SHERMAN CO     1 1
+TILLAMOOK CO
+UMATILLA CO
+UNION CO     1 1
+WASHINGTON CO       1
+WHEELER CO     2
+YAMHILL CO
+CITIES
+ADAMS
+ALBANY 
+AMITY
+(ORS 297.466)
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State| Report 2020-07 | February 2020 | Page 7
+Municipal Corporation Name Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant Findings
+Reported
+Internal
+Controls
+Accounting
+Errors
+Non-
+Compliance
+ARLINGTON     2
+ASHLAND
+ATHENA 
+AURORA
+BANKS     2
+BAY CITY     2
+BEAVERTON
+BEND
+BOARDMAN 
+BROOKINGS
+BURNS
+CANBY
+CANNON BEACH
+CANYON CITY     2
+CARLTON
+CENTRAL POINT 
+COBURG 
+COLUMBIA CITY
+CONDON     1
+COOS BAY
+COQUILLE 
+COTTAGE GROVE
+COVE     1
+CRESWELL
+CULVER      2
+DAYTON
+DAYVILLE     2
+DONALD
+DUNDEE
+DURHAM
+ELGIN     1 1
+ELKTON
+ESTACADA      1
+EUGENE
+FAIRVIEW       2
+FOREST GROVE 
+(ORS 297.466)
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State| Report 2020-07 | February 2020 | Page 8
+Municipal Corporation Name Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant Findings
+Reported
+Internal
+Controls
+Accounting
+Errors
+Non-
+Compliance
+FOSSIL     2
+GATES
+GLADSTONE 
+GOLD BEACH
+GRANTS PASS
+GRASS VALLEY    2
+GRESHAM
+HAINES     1
+HALFWAY      1
+HALSEY
+HAPPY VALLEY 
+HELIX 
+HEPPNER    1 2
+HERMISTON
+HILLSBORO         3
+HINES     1
+HOOD RIVER
+HUNTINGTON
+INDEPENDENCE      1
+IRRIGON     1
+ISLAND CITY    2 3 1
+JACKSONVILLE
+JOSEPH     1 1
+JUNCTION CITY
+KEIZER
+KLAMATH FALLS 
+LA GRANDE     1 4
+LA PINE
+LAKE OSWEGO
+LAKESIDE
+LEBANON 
+LINCOLN CITY      2
+LOWELL 
+MANZANITA     1
+MCMINNVILLE
+MEDFORD
+(ORS 297.466)
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State| Report 2020-07 | February 2020 | Page 9
+Municipal Corporation Name Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant Findings
+Reported
+Internal
+Controls
+Accounting
+Errors
+Non-
+Compliance
+METOLIUS     2
+MILL CITY      2
+MILTON FREEWATER 
+MILWAUKIE
+MOLALLA 
+MONMOUTH        2
+MONROE
+MORO      3 2 1
+MOUNT ANGEL        1
+MOUNT VERNON     1
+MYRTLE CREEK 
+NEHALEM     1
+NEWBERG
+NORTH BEND
+NORTH POWDER
+NYSSA       1
+OAKLAND
+OAKRIDGE      2
+ONTARIO
+OREGON CITY 
+PENDLETON      2
+PHILOMATH
+PHOENIX
+PILOT ROCK    1 2
+PORT ORFORD
+PORTLAND
+PRINEVILLE
+REDMOND       1
+RIDDLE     1
+ROCKAWAY BEACH     2   2
+ROGUE RIVER
+ROSEBURG
+RUFUS     3
+SALEM
+SCIO      1   1
+SEASIDE
+(ORS 297.466)
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State| Report 2020-07 | February 2020 | Page 10
+Municipal Corporation Name Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant Findings
+Reported
+Internal
+Controls
+Accounting
+Errors
+Non-
+Compliance
+SENECA     2
+SHADY COVE
+SHERIDAN
+SHERWOOD       1
+SILETZ 
+SISTERS       3
+SODAVILLE    5
+SPRAY     2
+SPRINGFIELD 
+STANFIELD 
+STAYTON
+SUBLIMITY     1
+SUTHERLIN
+TALENT
+TANGENT
+THE DALLES     1
+TIGARD
+TILLAMOOK      1
+TROUTDALE
+TUALATIN
+TURNER 
+UKIAH
+UMATILLA
+UNION     4 2
+VENETA 
+VERNONIA
+WALDPORT
+WALLOWA      3
+WARRENTON
+WEST LINN
+WHEELER      4
+WILLAMINA
+WOOD VILLAGE 
+YACHATS     1 1
+YAMHILL
+(ORS 297.466)
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State| Report 2020-07 | February 2020 | Page 11
+Municipal Corporation Name Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant Findings
+Reported
+Internal
+Controls
+Accounting
+Errors
+Non-
+Compliance
+CHARTER SCHOOLS
+ALLIANCE CHARTER ACADEMY
+ARCO IRIS SPANISH IMMERSION CHARTER
+SCHOOL
+ARMADILLO TECHNICAL INSTITUTE
+BAKER CO SCHOOL DISTRICT 30J     1
+BAKER EARLY COLLEGE
+BAKER WEB ACADEMY      1
+BEND INTERNATIONAL SCHOOL, INC      2
+BETHANY CHARTER SCHOOL
+BRIDGE CHARTER ACADEMY      1
+CAMAS VALLEY SCHOOL     2
+CANNON BEACH ACADEMY     2
+CASCADE HEIGHTS PUBLIC CHARTER
+SCHOOL
+CENTER FOR ADVANCED LEARNING, THE
+CHILD'S WAY INC      2 2
+CITY VIEW CHARTER SCHOOL
+CLACKAMAS ACADEMY OF INDUSTRIAL
+SCIENCE
+CLACKAMAS MIDDLE COLLEGE      2
+CLACKAMAS WEB ACADEMY      2
+COBURG COMMUNITY CHARTER SCHOOL
+COMMUNITY INNOVATION PARTNERS      5
+COMMUNITY ROOTS SCHOOL
+CRATER LAKE CHARTER ACADEMY
+DESERT SKY MONTESSORI CHARTER
+SCHOOL
+EAGLERIDGE HIGH SCHOOL
+EDDYVILLE CHARTER SCHOOL
+EMERSON SCHOOL, THE
+ESTACADA EARLY COLLEGE
+ESTACADA WEB ACADEMY
+FOREST GROVE COMMUNITY SCHOOL
+FOUR RIVERS COMMUNITY SCHOOL
+FRONTIER CHARTER ACADEMY         4
+GILLIAM CO SCHOOL DISTRICT 3     2
+(ORS 297.466)
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State| Report 2020-07 | February 2020 | Page 12
+Municipal Corporation Name Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant Findings
+Reported
+Internal
+Controls
+Accounting
+Errors
+Non-
+Compliance
+GLENDALE CHARTER SCHOOL
+INAVALE COMMUNITY PARTNERS INC
+INSIGHT SCHOOL OF OREGON PAINTED
+HILLS
+JACKSON CO SCHOOL DISTRICT 59
+JACKSON CO SCHOOL DISTRICT 91
+KAIROS PDX LEARNING ACADEMY
+KINGS VALLEY CHARTER SCHOOL     3
+KNOVA LEARNING
+LE MONDE FRENCH IMMERSION PUBLIC
+CHARTER SCHOOL
+LEWIS AND CLARK MONTESSORI PUBLIC
+CHARTER SCHOOL        1
+LOGOS PUBLIC CHARTER SCHOOL
+LOURDES CHARTER SCHOOL, THE      2
+LUCKIAMUTE VALLEY CHARTER SCHOOLS     4 1 1
+M.I.T.C.H. CHARTER SCHOOL
+M.I.T.C.H. SHERWOOD CHARTER SCHOOL
+MADRONE TRAIL CHARTER SCHOOL
+MALHEUR CO SCHOOL DISTRICT 29
+MALHEUR CO SCHOOL DISTRICT 66
+MASTERY LEARNING INSTITUTE/ARTHUR
+ACADEMY - GRESHAM
+MASTERY LEARNING INSTITUTE/ARTHUR
+ACADEMY - ST HELENS
+MASTERY LEARNING INSTITUTE/ARTHUR
+ACADEMY-DAVID DOUGLAS
+MASTERY LEARNING INSTITUTE/ARTHUR
+ACADEMY-PORTLAND
+MASTERY LEARNING INSTITUTE/ARTHUR
+ACADEMY-REYNOLDS
+MASTERY LEARNING INSTITUTE/ARTHUR
+ACADEMY-WOODBURN
+METRO EAST WEB ACADEMY
+MOLALLA RIVER ACADEMY
+MOSIER COMMUNITY SCHOOL      1
+MOUNTAIN VIEW CHARTER ACADEMY     1
+(ORS 297.466)
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State| Report 2020-07 | February 2020 | Page 13
+Municipal Corporation Name Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant Findings
+Reported
+Internal
+Controls
+Accounting
+Errors
+Non-
+Compliance
+MULTNOMAH LEARNING ACADEMY
+NETWORK CHARTER SCHOOL      1
+NIXYAAWII COMMUNITY SCHOOL
+OPAL CHARTER SCHOOL
+OREGON CITY SERVICE LEARNING
+ADADEMY
+OREGON CONNECTIONS ACADEMY
+OREGON TRAIL PRIMARY ACADEMY
+OREGON VIRTUAL ACADEMY
+OREGON VIRTUAL EDUCATION
+PAISLEY SCHOOL    1
+PEOPLE INVOLVED IN EDUCATION/SWEET
+HOME
+PHOENIX SCHOOL   
+PORTLAND VILLAGE SCHOOL
+POWELL BUTTE COMMUNITY CHARTER
+REEDSPORT COMMUNITY CHARTER
+SCHOOL
+RIDGELINE MONTESSORI CHARTER
+SCHOOL        1
+RIVER'S EDGE ACADEMY CHARTER
+SCHOOL        2
+SAGE COMMUNITY SCHOOL     1 2
+SAUVIE ISLAND ACADEMY
+SHERIDAN ALLPREP ACADEMY     2
+SHERIDAN JAPANESE CHARTER SCHOOL     2
+SILETZ VALLEY EARLY COLLEGE ACADEMY
+SILETZ VALLEY SCHOOL
+SILVIES RIVER CHARTER SCHOOL
+SOUTH COLUMBIA FAMILY SCHOOL        1
+SOUTHWEST CHARTER SCHOOL
+SPRINGWATER ENVIRONMENTAL
+SCIENCES SCHOOL
+SUNNY WOLF CHARTER SCHOOL
+THE IVY SCHOOL
+THREE RIVERS CHARTER SCHOOL
+TRILLIUM CHARTER SCHOOL
+UNION CO SCHOOL DISTRICT 15     1
+(ORS 297.466)
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State| Report 2020-07 | February 2020 | Page 14
+Municipal Corporation Name Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant Findings
+Reported
+Internal
+Controls
+Accounting
+Errors
+Non-
+Compliance
+VALLEY INQUIRY CHARTER SCHOOL
+VALLEY SCHOOL OF SOUTHERN OREGON
+VILLAGE SCHOOL, THE          1
+WEST LANE TECHNICAL LEARNING CENTER      1
+WILLAMETTE LEADERSHIP ACADEMY
+WOODLAND EDUCATIONAL INITIATIVE
+CHARTER SCHOOL
+COMMUNITY COLLEGES
+CENTRAL OREGON COMMUNITY COLLEGE
+CHEMEKETA COMMUNITY COLLEGE
+CLACKAMAS COMMUNITY COLLEGE
+CLATSOP COMMUNITY COLLEGE     
+COLUMBIA GORGE COMMUNITY COLLEGE     1
+KLAMATH COMMUNITY COLLEGE
+LANE COMMUNITY COLLEGE       1
+LINN-BENTON COMMUNITY COLLEGE
+MOUNT HOOD COMMUNITY COLLEGE       1 1
+PORTLAND COMMUNITY COLLEGE
+ROGUE COMMUNITY COLLEGE
+SOUTHWESTERN OREGON COMMUNITY
+COLLEGE DISTRICT
+TILLAMOOK BAY COMMUNITY COLLEGE
+TREASURE VALLEY COMMUNITY COLLEGE
+UMPQUA COMMUNITY COLLEGE
+RURAL FIRE PROTECTION DISTRICTS
+AMITY RFPD      1
+AUMSVILLE RFPD     1
+BANDON RFPD
+BANKS FIRE DISTRICT 13     2
+BLACK BUTTE RANCH RFPD
+BOARDMAN RFPD
+BROWNSVILLE RFPD     3   1
+CENTRAL OREGON COAST FIRE & RESCUE 
+CHARLESTON RFPD
+CHILOQUIN AGENCY LAKE RFPD    1 2
+CLACKAMAS CO FIRE DISTRICT 1
+(ORS 297.466)
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State| Report 2020-07 | February 2020 | Page 15
+Municipal Corporation Name Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant Findings
+Reported
+Internal
+Controls
+Accounting
+Errors
+Non-
+Compliance
+CLOVERDALE RFPD     1
+COBURG RFPD     2 1
+COLTON RFPD
+COLUMBIA RIVER FIRE & RESCUE
+CORBETT FIRE DISTRICT NO. 14     2
+CORVALLIS RFPD     1
+CROOK CO FIRE & RESCUE
+CROOKED RIVER RANCH RFPD     1
+DESCHUTES CO RFPD 2     2
+DOUGLAS CO RFPD 2     1
+ESTACADA RFPD     1
+EUGENE RFPD 01
+EVANS VALLEY RFPD
+FOREST GROVE RFPD
+GLIDE RFPD
+GOSHEN RFPD     2 1
+HARRISBURG RFPD     2
+ILLINOIS VALLEY RFPD
+JACKSON CO RFPD 3
+JACKSON CO RFPD 4
+JACKSON CO RFPD 5      2
+JEFFERSON CO RFPD 1     1
+JEFFERSON RFPD      2
+JUNCTION CITY RFPD      2
+KNAPPA SVENSEN BURNSIDE RFPD     1
+LA PINE RFPD 
+LAKE GROVE RFPD
+LANE FIRE AUTHORITY       3
+LEBANON RFPD 
+LYONS FIRE DISTRICT & AMBULANCE
+SERVICE     1
+MARION CO RFPD 01
+MCKENZIE FIRE AND RESCUE      2 1
+MEDFORD RFPD
+MID-COLUMBIA FIRE & RESCUE      2
+MILL CITY RFPD      1 1
+(ORS 297.466)
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State| Report 2020-07 | February 2020 | Page 16
+Municipal Corporation Name Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant Findings
+Reported
+Internal
+Controls
+Accounting
+Errors
+Non-
+Compliance
+MOHAWK VALLEY RFPD     1   1
+MOLALLA RFPD
+MOSIER RFPD    2 3 2
+MT ANGEL FIRE DISTRICT     1
+MULTNOMAH CO RFPD 10 
+NEHALEM BAY FIRE & RESCUE DISTRICT     2
+NESTUCCA RFPD     4 1
+NORTH BAY RFPD
+NORTH DOUGLAS CO FIRE & EMS 
+NORTH LINCOLN FIRE & RESCUE # 1     2
+PHILOMATH RFPD     4   2
+PLEASANT HILL RFPD     3
+POLK CO RFPD 1
+REDMOND FIRE AND RESUE
+RIVERDALE RFPD
+ROGUE RIVER RFPD     1
+SANDY RFPD     2
+SANTA CLARA RFPD      3
+SCAPPOOSE RFPD
+SCIO RFPD      2
+SHERIDAN RFPD     1
+SILVERTON RFPD     1
+SISTERS CAMP SHERMAN RFPD
+SOUTH LANE CO RFPD    2 1
+SWEET HOME FIRE & AMBULANCE
+DISTRICT     1
+TANGENT RFPD      1
+TILLAMOOK RFPD      2
+TUALATIN VALLEY FIRE & RESCUE
+TURNER RFPD
+UMATILLA CO FIRE DISTRICT 1     1
+UMATILLA RFPD 7-405    1
+WINSTON-DILLARD RFPD 5
+WOODBURN RFPD
+YAMHILL RFPD     2
+(ORS 297.466)
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State| Report 2020-07 | February 2020 | Page 17
+Municipal Corporation Name Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant Findings
+Reported
+Internal
+Controls
+Accounting
+Errors
+Non-
+Compliance
+SCHOOL DISTRICTS + EDUCATION SERVICE DISTRICTS
+BAKER CO SCHOOL DISTRICT 16J      1
+BAKER CO SCHOOL DISTRICT 5J
+BAKER CO SCHOOL DISTRICT 61
+BENTON CO SCHOOL DISTRICT 17J
+BENTON CO SCHOOL DISTRICT 1J
+BENTON CO SCHOOL DISTRICT 509J
+BENTON CO SCHOOL DISTRICT 7J      3
+CLACKAMAS CO SCHOOL DISTRICT 115
+CLACKAMAS CO SCHOOL DISTRICT 12
+CLACKAMAS CO SCHOOL DISTRICT 35
+CLACKAMAS CO SCHOOL DISTRICT 3J
+CLACKAMAS CO SCHOOL DISTRICT 46
+CLACKAMAS CO SCHOOL DISTRICT 62
+CLACKAMAS ESD
+CLATSOP CO SCHOOL DISTRICT 1
+CLATSOP CO SCHOOL DISTRICT 4J         1
+CLATSOP CO SCHOOL DISTRICT 8
+COLUMBIA CO SCHOOL DISTRICT 13      1
+COLUMBIA CO SCHOOL DISTRICT 1J
+COLUMBIA CO SCHOOL DISTRICT 47J
+COLUMBIA CO SCHOOL DISTRICT 502
+COLUMBIA CO SCHOOL DISTRICT 6J     
+COLUMBIA GORGE ESD
+COOS CO SCHOOL DISTRICT 13
+COOS CO SCHOOL DISTRICT 31     1
+COOS CO SCHOOL DISTRICT 41
+COOS CO SCHOOL DISTRICT 54C      1
+COOS CO SCHOOL DISTRICT 8       1   1
+COOS CO SCHOOL DISTRICT 9
+CROOK CO SCHOOL DISTRICT
+CURRY CO SCHOOL DISTRICT 1     1 1
+CURRY CO SCHOOL DISTRICT 17C      1   1
+CURRY CO SCHOOL DISTRICT 2CJ    1
+DESCHUTES CO SCHOOL DISTRICT 1
+DESCHUTES CO SCHOOL DISTRICT 2J
+(ORS 297.466)
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State| Report 2020-07 | February 2020 | Page 18
+Municipal Corporation Name Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant Findings
+Reported
+Internal
+Controls
+Accounting
+Errors
+Non-
+Compliance
+DESCHUTES CO SCHOOL DISTRICT 6     2
+DOUGLAS CO ESD
+DOUGLAS CO SCHOOL DISTRICT 1
+DOUGLAS CO SCHOOL DISTRICT 105
+DOUGLAS CO SCHOOL DISTRICT 116
+DOUGLAS CO SCHOOL DISTRICT 12
+DOUGLAS CO SCHOOL DISTRICT 130
+DOUGLAS CO SCHOOL DISTRICT 15
+DOUGLAS CO SCHOOL DISTRICT 19
+DOUGLAS CO SCHOOL DISTRICT 22
+DOUGLAS CO SCHOOL DISTRICT 32
+DOUGLAS CO SCHOOL DISTRICT 34
+DOUGLAS CO SCHOOL DISTRICT 4
+DOUGLAS CO SCHOOL DISTRICT 70        1
+DOUGLAS CO SCHOOL DISTRICT 77
+FOSSIL SCHOOL DISTRICT 21J     2
+GILLIAM CO SCHOOL DISTRICT 25J     1
+GRANT CO ESD     1
+GRANT CO SCHOOL DISTRICT 16J     2
+GRANT CO SCHOOL DISTRICT 17
+GRANT CO SCHOOL DISTRICT 3     1
+GRANT CO SCHOOL DISTRICT 4     1
+GRANT CO SCHOOL DISTRICT 8     1
+HARNEY CO ESD REGION XVII    1
+HARNEY CO SCHOOL DISTRICT 10    1
+HARNEY CO SCHOOL DISTRICT 13    1
+HARNEY CO SCHOOL DISTRICT 1J    1
+HARNEY CO SCHOOL DISTRICT 28    1
+HARNEY CO SCHOOL DISTRICT 3
+HARNEY CO SCHOOL DISTRICT 33      2
+HARNEY CO SCHOOL DISTRICT 4    1
+HARNEY CO SCHOOL DISTRICT 5    1
+HARNEY CO SCHOOL DISTRICT 7    1
+HIGH DESERT ESD REGION 10
+IMBLER SCHOOL DISTRICT 11     1
+(ORS 297.466)
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State| Report 2020-07 | February 2020 | Page 19
+Municipal Corporation Name Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant Findings
+Reported
+Internal
+Controls
+Accounting
+Errors
+Non-
+Compliance
+INTERMOUNTAIN EDUCATION SERVICE
+DISTRICT      1
+IONE SCHOOL DISTRICT 2
+JACKSON CO SCHOOL DISTRICT 35
+JACKSON CO SCHOOL DISTRICT 4
+JACKSON CO SCHOOL DISTRICT 5
+JACKSON CO SCHOOL DISTRICT 549C
+JACKSON CO SCHOOL DISTRICT 6
+JACKSON CO SCHOOL DISTRICT 9
+JACKSON CO SCHOOL DISTRICT 94
+JEFFERSON CO ESD
+JEFFERSON CO SCHOOL DISTRICT 4
+JEFFERSON CO SCHOOL DISTRICT 41      1
+JEFFERSON CO SCHOOL DISTRICT 509J
+JEFFERSON CO SCHOOL DISTRICT 8
+JOSEPHINE CO SCHOOL DISTRICT 7
+JOSEPHINE CO/THREE RIVERS SCHOOL
+DISTRICT     
+KLAMATH CO SCHOOL DISTRICT
+KLAMATH FALLS CITY SCHOOLS
+LAKE CO ESD
+LAKE CO SCHOOL DISTRICT 14
+LAKE CO SCHOOL DISTRICT 18
+LAKE CO SCHOOL DISTRICT 21
+LAKE CO SCHOOL DISTRICT 7
+LANE CO SCHOOL DISTRICT 1
+LANE CO SCHOOL DISTRICT 19
+LANE CO SCHOOL DISTRICT 28J
+LANE CO SCHOOL DISTRICT 45J3 
+LANE CO SCHOOL DISTRICT 4J
+LANE CO SCHOOL DISTRICT 52
+LANE CO SCHOOL DISTRICT 66
+LANE CO SCHOOL DISTRICT 68
+LANE CO SCHOOL DISTRICT 69
+LANE CO SCHOOL DISTRICT 71        1
+LANE CO SCHOOL DISTRICT 76
+LANE CO SCHOOL DISTRICT 79J
+(ORS 297.466)
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State| Report 2020-07 | February 2020 | Page 20
+Municipal Corporation Name Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant Findings
+Reported
+Internal
+Controls
+Accounting
+Errors
+Non-
+Compliance
+LANE CO SCHOOL DISTRICT 90        1
+LANE CO SCHOOL DISTRICT 97J
+LANE ESD
+LINCOLN CO SCHOOL DISTRICT
+LINN CO SCHOOL DISTRICT 129J
+LINN CO SCHOOL DISTRICT 552C
+LINN CO SCHOOL DISTRICT 7J     2 1 3
+LINN CO SCHOOL DISTRICT 9
+LINN CO SCHOOL DISTRICT 95C
+LINN-BENTON-LINCOLN ESD
+MALHEUR CO SCHOOL DISTRICT 12     1
+MALHEUR CO SCHOOL DISTRICT 26     1
+MALHEUR CO SCHOOL DISTRICT 3       1
+MALHEUR CO SCHOOL DISTRICT 51      1
+MALHEUR CO SCHOOL DISTRICT 61     1 1
+MALHEUR CO SCHOOL DISTRICT 81      1
+MARION CO SCHOOL DISTRICT 1
+MARION CO SCHOOL DISTRICT 103
+MARION CO SCHOOL DISTRICT 14J        1
+MARION CO SCHOOL DISTRICT 15
+MARION CO SCHOOL DISTRICT 24J
+MARION CO SCHOOL DISTRICT 29J
+MARION CO SCHOOL DISTRICT 45      4
+MARION CO SCHOOL DISTRICT 4J
+MARION CO SCHOOL DISTRICT 91     2
+MORROW CO SCHOOL DISTRICT 1       1
+MULTNOMAH CO ESD
+MULTNOMAH CO SCHOOL DISTRICT 10J
+MULTNOMAH CO SCHOOL DISTRICT 1J
+MULTNOMAH CO SCHOOL DISTRICT 28J
+MULTNOMAH CO SCHOOL DISTRICT 3
+MULTNOMAH CO SCHOOL DISTRICT 39
+MULTNOMAH CO SCHOOL DISTRICT 40
+NORTH CENTRAL ESD     1
+NORTHWEST REGIONAL ESD     
+POLK CO SCHOOL DISTRICT 13J     1
+(ORS 297.466)
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State| Report 2020-07 | February 2020 | Page 21
+Municipal Corporation Name Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant Findings
+Reported
+Internal
+Controls
+Accounting
+Errors
+Non-
+Compliance
+POLK CO SCHOOL DISTRICT 2
+POLK CO SCHOOL DISTRICT 21
+REGION 18 ESD     1
+SHERMAN CO SCHOOL DISTRICT     1
+SOUTH COAST ESD     2 1 1
+SOUTHERN OREGON ESD
+TILLAMOOK CO SCHOOL DISTRICT 101
+TILLAMOOK CO SCHOOL DISTRICT 56     1
+TILLAMOOK CO SCHOOL DISTRICT 9
+UMATILLA CO SCHOOL DISTRICT 1
+UMATILLA CO SCHOOL DISTRICT 16R
+UMATILLA CO SCHOOL DISTRICT 2
+UMATILLA CO SCHOOL DISTRICT 29RJ
+UMATILLA CO SCHOOL DISTRICT 5         1
+UMATILLA CO SCHOOL DISTRICT 6
+UMATILLA CO SCHOOL DISTRICT 61
+UMATILLA CO SCHOOL DISTRICT 7     
+UMATILLA CO SCHOOL DISTRICT 80
+UMATILLA CO SCHOOL DISTRICT 8R     
+UNION CO SCHOOL DISTRICT 1      1
+UNION CO SCHOOL DISTRICT 23     4 1
+UNION CO SCHOOL DISTRICT 5     5
+UNION CO SCHOOL DISTRICT 8J
+WALLOWA CO SCHOOL DISTRICT 12     1
+WALLOWA CO SCHOOL DISTRICT 21     1   1
+WALLOWA CO SCHOOL DISTRICT 54     1
+WALLOWA CO SCHOOL DISTRICT 6     1
+WASCO CO SCHOOL DISTRICT 1      2
+WASCO CO SCHOOL DISTRICT 21    1 1
+WASCO CO SCHOOL DISTRICT 29     1 2 1
+WASHINGTON CO SCHOOL DISTRICT 13
+WASHINGTON CO SCHOOL DISTRICT 15
+WASHINGTON CO SCHOOL DISTRICT 1J        1
+WASHINGTON CO SCHOOL DISTRICT 23J
+WASHINGTON CO SCHOOL DISTRICT 48J
+WASHINGTON CO SCHOOL DISTRICT 511J
+(ORS 297.466)
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State| Report 2020-07 | February 2020 | Page 22
+Municipal Corporation Name Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant Findings
+Reported
+Internal
+Controls
+Accounting
+Errors
+Non-
+Compliance
+WASHINGTON CO SCHOOL DISTRICT 88J
+WHEELER CO SCHOOL DISTRICT 1 
+WHEELER CO SCHOOL DISTRICT 55      3
+WILLAMETTE ESD
+YAMHILL CO SCHOOL DISTRICT 1
+YAMHILL CO SCHOOL DISTRICT 40
+YAMHILL CO SCHOOL DISTRICT 48J     1
+YAMHILL CO SCHOOL DISTRICT 4J
+OTHER SPECIAL DISTRICTS
+ASHLAND PARKS & REC COMMISSION
+ASSOCIATION OF OREGON COUNTIES    4   1
+BAKER CO LIBRARY DISTRICT
+BARNEY RESERVOIR JOINT COMMISSION
+BAY AREA HEALTH DISTRICT       1
+BEAVERTON URBAN REDEVELOPMENT
+AGENCY
+BEND METRO PARKS & REC
+BEND METROPOLITAN PLANNING
+COMMISSION
+BEND URBAN RENEWAL AGENCY
+BENTON CO LIBRARY SERVICE DISTRICT
+BENTON COUNTY AGRICULTURAL
+EXTENSION SERVICES DISTRICT
+BLACK BUTTE RANCH COUNTY SERVICE
+DISTRICT
+BLUE MOUNTAIN HOSPITAL DISTRICT
+BOARDMAN PARKS & REC DISTRICT     3
+BORING WATER DISTRICT
+BROOKINGS URBAN RENEWAL AGENCY
+BROOKS COMMUNITY SERVICE DISTRICT
+CANBY URBAN RENEWAL DISTRICT
+CARLTON URBAN RENEWAL AGENCY
+CENTRAL AND EASTERN OREGON
+JUVENILE JUSTICE CONSORTIUM 
+CENTRAL LINCOLN PUD      1
+CENTRAL OREGON INTERGOVERNMENTAL
+COUNCIL
+(ORS 297.466)
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State| Report 2020-07 | February 2020 | Page 23
+Municipal Corporation Name Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant Findings
+Reported
+Internal
+Controls
+Accounting
+Errors
+Non-
+Compliance
+CENTRAL OREGON IRRIGATION DISTRICT 
+CENTRAL OREGON REGIONAL HOUSING
+AUTHORITY
+CHARLESTON SANITARY DISTRICT
+CHEADLE LAKE URBAN RENEWAL AGENCY 
+CHENOWITH WATER PUD     1 1
+CHETCO COMMUNITY LIBRARY DISTRICT
+CITY CO INSURANCE SERVICE ADM TRUST
+CITY OF OREGON CITY URBAN RENEWAL
+COMMISSION 
+CLACKAMAS 800 RADIO GROUP
+CLACKAMAS CO DEVELOPMENT AGENCY
+CLACKAMAS CO ENHANCED LAW
+ENFORCEMENT DISTRICT
+CLACKAMAS CO EXTENSION AND 4-H
+SERVICES DISTRICT
+CLACKAMAS CO SERVICE DISTRICT 5
+CLACKAMAS COUNTY SERVICE DISTRICT
+NO.1
+CLACKAMAS REGIONAL WATER SUPPLY
+COMMISSION
+CLACKAMAS SWCD
+CLATSKANIE PUD
+CLATSOP CARE CENTER HEALTH DISTRICT     1
+CLATSOP CO 4H EXTENSION SERVICE
+DISTRICT
+CLATSOP CO ROAD DISTRICT # 1
+CLATSOP CO RURAL LAW ENFORCEMENT
+DISTRICT
+CLEAN WATER SERVICES OF
+WASHINGTON CO
+COBURG URBAN RENEWAL AGENCY 
+COLTON WATER DISTRICT
+COLUMBIA CO 4H & EXTENSION SERVICE
+DISTRICT
+COLUMBIA CO DEVELOPMENT AGENCY
+COLUMBIA DRAINAGE VECTOR CONTROL
+DISTRICT
+(ORS 297.466)
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State| Report 2020-07 | February 2020 | Page 24
+Municipal Corporation Name Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant Findings
+Reported
+Internal
+Controls
+Accounting
+Errors
+Non-
+Compliance
+COLUMBIA GATEWAY URBAN RENEWAL
+AGENCY 
+COLUMBIA GORGE REGIONAL AIRPORT 
+COLUMBIA IMPROVEMENT DISTRICT
+COLUMBIA RIVER ESTUARY STUDY
+TASKFORCE
+COLUMBIA RIVER PUD
+COOS BAY NORTH BEND WATER BOARD
+COOS BAY URBAN RENEWAL AGENCY
+COOS BAY/NORTH BEND VISITORS
+CONVENTION BUREAU
+COOS CO 4H & EXTENSION SERVICE
+DISTRICT 
+COOS CO AIRPORT DISTRICT 
+COOS CO AREA TRANSIT SERVICE DISTRICT
+COOS CO LIBRARY SERVICE DISTRICT 
+COOS CURRY HOUSING AUTHORITY
+COQUILLE URBAN RENEWAL AGENCY 
+COQUILLE VALLEY HOSPITAL DISTRICT
+CORBETT WATER DISTRICT
+COUNTYWIDE LAW ENFORCEMENT
+DISTRICT
+CROOK CO PARKS & REC DISTRICT
+CURRY CO SWCD
+CURRY HEALTH DISTRICT      1
+CURRY PUBLIC LIBRARY DISTRICT
+DALLAS COMMUNITY DEVELOPMENT
+COMMISSION URBAN RENEWAL AGENCY 
+DESCHUTES CO 911 COMMUNICATIONS
+SERVICE DISTRICT
+DESCHUTES CO EXTENSION & 4H SERVICE
+DISTRICT
+DESCHUTES PUBLIC LIBRARY
+DESCHUTES VALLEY WATER DISTRICT      1
+DOUGLAS CO 4-H MASTER GARDENER
+&AMP; EXTENSION SERVICE DISTRICT
+DUNTHORPE RIVERDALE SERVICE
+DISTRICT
+(ORS 297.466)
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State| Report 2020-07 | February 2020 | Page 25
+Municipal Corporation Name Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant Findings
+Reported
+Internal
+Controls
+Accounting
+Errors
+Non-
+Compliance
+EAGLE POINT IRRIGATION DISTRICT       1
+EAGLE VALLEY SWCD     1
+EAST FORK IRRIGATION DISTRICT     1
+EAST MULTNOMAH SWCD
+EAST SALEM SERVICE DISTRICT
+ECONOMIC DEVELOPMENT COUNCIL OF
+TILLAMOOK CO
+EMERALD PUD
+EMERGENCY COMMUNICATIONS OF
+SOUTHERN OREGON      2
+ESTACADA URBAN RENEWAL AGENCY
+EUGENE URBAN RENEWAL AGENCY
+EUGENE WATER & ELECTRIC BOARD
+FARGO INTERCHANGE SERVICE DISTRICT
+FERN RIDGE LIBRARY DISTRICT
+FOREST GROVE URBAN RENEWAL AGENCY 
+FRONTIER REGIONAL 911 AGENCY     1
+FRONTIER TELENET    2
+GILLIAM CO SWCD    1 1
+GLADSTONE URBAN RENEWAL AGENCY 
+GLENEDEN SANITARY DISTRICT
+GRAND PRAIRIE WATER CONTROL
+DISTRICT     1
+GRANT CO EXTENSION & 4-H SERVICE
+DISTRICT    1
+GRANT CO TRANSPORTATION DISTRICT    1
+GRANT SWCD 
+GRANTS PASS IRRIGATION DISTRICT
+GRANTS PASS URBAN RENEWAL AGENCY
+GREATER ST HELENS AQUATIC DISTRICT
+GREEN SANITARY DISTRICT
+HARBOR SANITARY DISTRICT     3
+HARNEY DISTRICT HOSPITAL      1
+HECETA WATER PEOPLE'S UTILITY
+DISTRICT 
+HERMISTON IRRIGATION DISTRICT     1
+HERMISTON URBAN RENEWAL AGENCY
+(ORS 297.466)
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State| Report 2020-07 | February 2020 | Page 26
+Municipal Corporation Name Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant Findings
+Reported
+Internal
+Controls
+Accounting
+Errors
+Non-
+Compliance
+HILLSBORO ECONOMIC DEVELOPMENT
+COUNCIL
+HILLSBORO FOREST GROVE BEAVERTON
+TIGARD TUALATIN VALLEY JOINT WATER
+COMMISSION
+HOME FORWARD
+HOMES FOR GOOD HOUSING AGENCY
+HOOD RIVER CO 911 COMMUNICATIONS
+DISTRICT
+HOOD RIVER CO TRANSPORTATION     3
+HOOD RIVER CO WINDMASTER URBAN
+RENEWAL DISTRICT
+HOOD RIVER COUNTY LIBRARY DISTRICT
+HOOD RIVER URBAN RENEWAL AGENCY
+HOOD RIVER VALLEY PARKS & REC    1   1
+HOUSING AUTHORITY OF CLACKAMAS CO
+HOUSING AUTHORITY OF JACKSON CO 
+HOUSING AUTHORITY OF LINCOLN CO
+HOUSING AUTHORITY OF MALHEUR CO
+HOUSING AUTHORITY OF SALEM
+HOUSING AUTHORITY OF UMATILLA CO 
+HOUSING AUTHORITY OF WASHINGTON
+CO
+ICE FOUNTAIN WATER DISTRICT     2
+ISLAND CITY AREA SANITARY DISTRICT    3 3 1
+JACKSON CO 4-H, MASTER GARDENER &
+AGRICULTURAL SERVICE DISTRICT
+JACKSON CO LIBRARY DISTRICT
+JACKSON CO VECTOR CONTROL DISTRICT
+JACKSON SWCD
+JACKSONVILLE URBAN RENEWAL AGENCY
+JEFFERSON CO EMERGENCY MEDICAL
+SERVICE      1
+JEFFERSON CO LIBRARY DISTRICT
+JOHN DAY/CANYON CITY PARKS & REC      2
+JOSEPHINE COMMUNITY LIBRARY
+DISTRICT    2
+JOSEPHINE COUNTY-CITY OF GRANTS
+PASS SOLID WASTE AGENCY
+(ORS 297.466)
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State| Report 2020-07 | February 2020 | Page 27
+Municipal Corporation Name Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant Findings
+Reported
+Internal
+Controls
+Accounting
+Errors
+Non-
+Compliance
+JUNCTION CITY WATER CONTROL
+DISTRICT      1
+KERNVILLE-GLENEDEN BEACH-LINCOLN
+BEACH WATER DISTRICT
+KLAMATH BASIN IMPROVEMENT DISTRICT     2 1
+KLAMATH CO DRAIN SERVICE DISTRICT 
+KLAMATH CO EMERGENCY
+COMMUNICATIONS DISTRICT      1
+KLAMATH CO EXTENSION SERVICE
+DISTRICT 
+KLAMATH CO LIBRARY SERVICE DISTRICT 
+KLAMATH DRAINAGE DISTRICT     1 2
+KLAMATH FALLS URBAN RENEWAL
+AGENCY 
+KLAMATH HOUSING AUTHORITY
+KLAMATH IRRIGATION DISTRICT     2 1
+KLAMATH VECTOR CONTROL DISTRICT     1 2
+LA GRANDE URBAN RENEWAL AGENCY      1
+LA PINE URBAN RENEWAL AGENCY
+LAKE CO LIBRARY DISTRICT      2
+LAKE GROVE WATER DISTRICT
+LAKE OSWEGO REDEVELOPMENT AGENCY
+LAKESIDE WATER DISTRICT       1
+LAKEVIEW SWCD     1 1
+LANE COUNCIL OF GOVERNMENTS
+LANE LIBRARY DISTRICT
+LANE REGIONAL AIR POLLUTION
+AUTHORITY
+LANE TRANSIT DISTRICT
+LEBANON AQUATIC DISTRICT
+LIBRARY DISTRICT OF CLACKAMAS CO
+LINCOLN CITY URBAN RENEWAL AGENCY      2
+LINN CO 4H AND EXTENSION DISTRICT
+LINN CO EMERGENCY TELEPHONE
+AGENCY
+LINN REGIONAL FUELING FACILITY
+LINN-BENTON HOUSING AUTHORITY
+LITTLE SWITZERLAND ROAD DISTRICT
+(ORS 297.466)
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State| Report 2020-07 | February 2020 | Page 28
+Municipal Corporation Name Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant Findings
+Reported
+Internal
+Controls
+Accounting
+Errors
+Non-
+Compliance
+MADRAS AQUATIC CENTER      2
+MALHEUR MEMORIAL HEALTH CENTER     
+MARION CO EXTENSION AND 4-H SERVICE
+DISTRICT
+MARION CO HOUSING AUTHORITY 
+MARION SWCD
+MCMINNVILLE URBAN RENEWAL AGENCY
+MCMINNVILLE WATER & LIGHT
+DEPARTMENT
+MEDFORD IRRIGATION DISTRICT     
+MEDFORD URBAN RENEWAL AGENCY
+MEDFORD WATER COMMISSION
+METRO     1 1
+METRO WASTEWATER MANAGEMENT
+COMMISSION
+METROPOLITAN AREA COMMUNICATIONS
+MID COUNTY CEMETERY MAINTENANCE
+DISTRICT    2
+MID COUNTY SERVICE DISTRICT 14
+MID-COLUMBIA COUNCIL OF
+GOVERNMENTS      1
+MID-COLUMBIA ECONOMIC
+DEVELOPMENT     1
+MIDDLE FORK IRRIGATION DISTRICT
+MID-VALLEY BEHAVIORAL CARE NETWORK 
+MID-WILLAMETTE VALLEY CABLE
+REGULATORY COMMISSION
+MID-WILLAMETTE VALLEY COUNCIL OF
+GOVERNMENTS
+MILES CROSSING SANITARY SEWER
+DISTRICT
+MOLALLA URBAN RENEWAL AGENCY 
+MONMOUTH INDEPENDENCE NETWORK
+MONMOUTH URBAN RENEWAL DISTRICT
+MORROW CO HEALTH DISTRICT
+MORROW CO UNIFIED RECREATION
+DISTRICT
+MULINO WATER DISTRICT 1
+MULTNOMAH CO DRAINAGE DISTRICT 1
+(ORS 297.466)
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State| Report 2020-07 | February 2020 | Page 29
+Municipal Corporation Name Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant Findings
+Reported
+Internal
+Controls
+Accounting
+Errors
+Non-
+Compliance
+MULTNOMAH COUNTY LIBRARY DISTRICT
+NEAH-KAH-NIE WATER DISTRICT
+NEHALEM BAY WASTEWATER AGENCY     2
+NESKOWIN REGIONAL SANITARY
+AUTHORITY    2   1
+NESKOWIN REGIONAL WATER DISTRICT     2 1
+NETARTS OCEANSIDE SANITARY DISTRICT     2
+NORTH BEND CITY HOUSING AUTHORITY
+NORTH BEND URBAN RENEWAL AGENCY
+NORTH BETHANY CO SERVICE DISTRICT
+NORTH CENTRAL PUBLIC HEALTH DISTRICT
+NORTH CLACKAMAS CO WATER
+COMMISSION
+NORTH CLACKAMAS PARKS & REC
+DISTRICT
+NORTH COUNTY RECREATION DISTRICT     1   2
+NORTH GATEWAY URBAN RENEWAL
+AGENCY 
+NORTH GILLIAM CO HEALTH DISTRICT     1
+NORTH LINCOLN HEALTH DISTRICT
+NORTH UNIT IRRIGATION DISTRICT
+NORTH WASCO CO PARKS & REC DISTRICT     1
+NORTHEAST OREGON ECONOMIC
+DEVELOPMENT DISTRICT     1
+NORTHEAST OREGON HOUSING
+AUTHORITY       2
+NORTHEAST WHEELER CO HEALTH
+DISTRICT     1
+NORTHERN OREGON CORRECTIONS
+NORTHERN WASCO PUD
+NORTHWEST INTERGOVERNMENTAL
+ENERGY SUPPLY
+NORTHWEST SENIOR & DISABILITY
+SERVICES
+NORTHWEST URBAN RENEWAL AGENCY 
+NYSSA ROAD ASSESSMENT DISTRICT 2
+OAK LODGE WATER SERVICES DISTRICT
+ONTARIO LIBRARY DISTRICT      1
+OREGON TRAIL LIBRARY DISTRICT    
+(ORS 297.466)
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State| Report 2020-07 | February 2020 | Page 30
+Municipal Corporation Name Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant Findings
+Reported
+Internal
+Controls
+Accounting
+Errors
+Non-
+Compliance
+OWYHEE IRRIGATION DISTRICT
+PACIFIC CITY JOINT WATER-SANITARY
+AUTHORITY
+PACIFIC COMMUNITIES HEALTH DISTRICT
+PALATINE HILL WATER DISTRICT
+PENDLETON DEVELOPMENT COMMISSION 
+PENINSULA DRAINAGE DISTRICT 2
+PHILOMATH URBAN RENEWAL AGENCY
+POLK SWCD
+PORT OF ARLINGTON     2
+PORT OF ASTORIA
+PORT OF BANDON
+PORT OF HOOD RIVER
+PORT OF MORROW
+PORT OF NEWPORT 
+PORT OF PORT ORFORD
+PORT OF SIUSLAW
+PORT OF ST HELENS
+PORT OF THE DALLES     2
+PORT OF TOLEDO 
+PORT OF UMATILLA
+PORT OF UMPQUA
+PORTLAND DEVELOPMENT COMMISSION      1
+POWDER VALLEY WATER CONTROL
+DISTRICT       1
+RAINBOW WATER DISTRICT       1
+REDMOND URBAN RENEWAL AGENCY
+RIDGEVIEW IRRIGATION DISTRICT
+RIVER ROAD PARKS & REC DISTRICT
+RIVER ROAD WATER DISTRICT
+RIVERGROVE WATER DISTRICT     2
+ROBERTS CREEK WATER DISTRICT
+ROCKWOOD WATER PUD
+ROCKWOOD-WEST GRESHAM URBAN
+RENEWAL AREA
+ROGUE RIVER VALLEY IRRIGATION
+DISTRICT     1
+(ORS 297.466)
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State| Report 2020-07 | February 2020 | Page 31
+Municipal Corporation Name Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant Findings
+Reported
+Internal
+Controls
+Accounting
+Errors
+Non-
+Compliance
+ROGUE VALLEY SEWER SERVICES
+ROGUE VALLEY TRANSPORTATION
+DISTRICT
+ROSEBURG URBAN SANITARY AUTHORITY
+RURAL LAW ENFORCEMENT DISTRICT
+RURAL ROAD ASSESS DISTRICT 3 
+SALEM AREA MASS TRANSIT DISTRICT 
+SALEM URBAN RENEWAL AGENCY
+SANTA CLARA WATER DISTRICT
+SEASIDE URBAN RENEWAL AGENCY
+SHERMAN CO HEALTH DISTRICT     2   1
+SHERMAN SWCD
+SILVER FALLS LIBRARY DISTRICT        1
+SISTERS URBAN RENEWAL AGENCY
+SIUSLAW PUBLIC LIBRARY DISTRICT     1
+SOLID WASTE DISPOSAL SERVICE DISTRICT
+SOUTH CENTRAL OREGON ECONOMIC
+DEVELOPMENT DISTRICT        1
+SOUTH CLACKAMAS TRANSPORTATION
+DISTRICT 
+SOUTH FORK WATER BOARD
+SOUTH GILLIAM HEALTH DISTRICT     1
+SOUTH SUBURBAN SANITARY DISTRICT
+SOUTHERN COOS HEALTH DISTRICT
+SOUTHWEST LINCOLN COUNTY WATER
+DISTRICT 
+SPRINGFIELD ECONOMIC DEVELOPMENT
+AGENCY 
+SPRINGFIELD UTILITY BOARD
+STANFIELD IRRIGATION DISTRICT     1
+SUBURBAN EAST SALEM WATER     1
+SUNRISE WATER AUTHORITY
+SUNRIVER SERVICE DISTRICT
+SUNSET EMPIRE PARKS & REC
+SUTHERLIN WATER CONTROL DISTRICT
+SWALLEY IRRIGATION DISTRICT
+TALENT IRRIGATION DISTRICT     2
+TALENT URBAN RENEWAL AGENCY
+(ORS 297.466)
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State| Report 2020-07 | February 2020 | Page 32
+Municipal Corporation Name Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant Findings
+Reported
+Internal
+Controls
+Accounting
+Errors
+Non-
+Compliance
+TIGARD CITY CENTER DEVELOPMENT
+AGENCY
+TIGARD-TUALATIN AQUATIC DISTRICT        1
+TILLAMOOK CO 4H & EXTENSION SERVICE
+DISTRICT
+TILLAMOOK CO EMERGENCY
+COMMUNICATIONS DISTRICT
+TILLAMOOK LIGHTWAVE
+INTERGOVERNMENTAL AGENCY
+TILLAMOOK PUD
+TILLAMOOK SWCD
+TILLAMOOK URBAN RENEWAL AGENCY
+TRAINING & EMPLOYMENT CONSORTIUM
+TRI CITY WATER AND SANITARY
+AUTHORITY      1
+TRI-COUNTY COOPERATIVE WEED
+MANAGEMENT AREA    1
+TRI-COUNTY METROPOLITAN
+TRANSPORTATION DISTRICT
+TUALATIN DEVELOPMENT COMMISSION
+TUALATIN HILLS PARKS & REC
+TUALATIN SWCD
+TUALATIN VALLEY WATER DISTRICT
+TUMALO IRRIGATION DISTRICT
+TWIN ROCKS SANITARY DISTRICT     2
+UMATILLA CO SPECIAL LIBRARY DISTRICT     
+UMATILLA HOSPITAL DISTRICT 01 
+UMATILLA MORROW RADIO & DATA
+DISTRICT
+URBAN RENEWAL AGENCY OF THE CITY
+OF PHOENIX
+VALE OREGON IRRIGATION DISTRICT     1
+VENETA URBAN RENEWAL AGENCY
+WALLOWA SWCD     1
+WARMSPRINGS IRRIGATION DISTRICT
+WARRENTON URBAN RENEWAL AGENCY
+WASCO CO 4-H EXTENSION SERVICE
+DISTRICT
+(ORS 297.466)
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State| Report 2020-07 | February 2020 | Page 33
+Municipal Corporation Name Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant Findings
+Reported
+Internal
+Controls
+Accounting
+Errors
+Non-
+Compliance
+WASCO CO LIBRARY SERVICE DISTRICT
+WASCO CO SWCD    1
+WASHINGTON CO CONSOLIDATED
+COMMUNICATIONS AGENCY
+WASHINGTON CO ENHANCED SHERIFF
+PATROL DISTRICT
+WASHINGTON CO SERVICE DISTRICT FOR
+LIGHTING 1
+WASHINGTON CO URBAN ROAD
+MAINTENANCE DISTRICT
+WATER ENVIRONMENT SERVICES
+WEST EXTENSION IRRIGATION DISTRICT    1
+WEST MULTNOMAH SWCD
+WEST SLOPE WATER DISTRICT
+WEST UMATILLA MOSQUITO CONTROL
+DISTRICT     1
+WEST VALLEY HOUSING AUTHORITY
+WESTERN GENERATION AGENCY
+WESTLAND IRRIGATION DISTRICT    3
+WESTPORT SEWER SERVICE DISTRICT -
+CLATSOP CO
+WHEELER SWCD     1
+WHITE CITY ENHANCED LAW
+ENFORCEMENT DISTRICT
+WHITE CITY LIGHTING DISTRICT
+WHITE RIVER HEALTH DISTRICT     2
+WILLAMALANE PARKS & REC DISTRICT     1
+WILLAMETTE INTAKE FACILITIES
+COMMISSION
+WINCHESTER BAY SANITARY DISTRICT
+YAMHILL CO EXTENSION SERVICE
+DISTRICT
+YAMHILL COMMUNICATIONS AGENCY
+YOUNGS RIVER LEWIS & CLARK WATER
+Total Timely Filed Reports: 900
+(ORS 297.466)
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State| Report 2020-07 | February 2020 | Page 34
+Appendix B: Untimely Filed Reports
+Municipal Corporation Name Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant Findings
+Reported
+Internal
+Controls
+Accounting
+Errors
+Non-
+Compliance
+COUNTIES
+BAKER CO 
+CURRY CO      2
+HARNEY CO     1
+MALHEUR CO          1
+POLK CO
+WALLOWA CO      1
+WASCO CO
+CITIES
+ADAIR VILLAGE 
+ASTORIA 
+AUMSVILLE
+BAKER CITY      1
+BANDON       1
+BROWNSVILLE    2
+BUTTE FALLS      1
+CANYONVILLE
+CASCADE LOCKS
+CAVE JUNCTION
+CLATSKANIE     1
+CORNELIUS
+CORVALLIS
+DALLAS
+DETROIT       2
+DRAIN
+DUFUR     2 1 1
+EAGLE POINT
+ECHO       4
+ENTERPRISE     1 1
+FALLS CITY
+FLORENCE      1
+GASTON      2
+GEARHART      2
+(ORS 297.466)
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State| Report 2020-07 | February 2020 | Page 35
+Municipal Corporation Name Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant Findings
+Reported
+Internal
+Controls
+Accounting
+Errors
+Non-
+Compliance
+GERVAIS
+HARRISBURG 
+HUBBARD     
+IONE     3
+JEFFERSON
+JOHN DAY     1 1
+KING CITY      1
+LAFAYETTE
+LAKEVIEW    1
+MADRAS    3
+MALIN
+MAUPIN      1
+MAYWOOD PARK      1
+MERRILL    
+MILLERSBURG 
+MOSIER      1 1
+MYRTLE POINT
+NEWPORT
+NORTH PLAINS 
+POWERS 
+PRAIRIE CITY      1
+RAINIER      1
+REEDSPORT 
+SANDY     1 1
+SCAPPOOSE 
+SILVERTON     2
+ST HELENS
+ST PAUL    1
+SWEET HOME 
+TOLEDO      2
+VALE     1
+WASCO     2
+WESTFIR 
+WESTON 
+WILSONVILLE
+(ORS 297.466)
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State| Report 2020-07 | February 2020 | Page 36
+Municipal Corporation Name Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant Findings
+Reported
+Internal
+Controls
+Accounting
+Errors
+Non-
+Compliance
+WINSTON 
+WOODBURN
+YONCALLA 
+CHARTER SCHOOLS
+A3 CHARTER SCHOOL       2
+ACADEMY FOR CHARACTER EDUCATION
+EAGLE CHARTER SCHOOL     8   2
+EOLA HILLS CHARTER SCHOOL    2
+HOPE CHINESE CHARTER SCHOOL
+HOWARD STREET CHARTER SCHOOL
+JANE GOODALL ENVIRONMENTAL MIDDLE
+SCHOOL       3
+LIGHTHOUSE SCHOOL, THE      2 4 1
+MILWAUKIE ACADEMY OF THE ARTS
+NORTH COLUMBIA ACADEMY
+OPTIMUM LEARNING ENVIRONMENT
+CHARTER SCHOOL
+PEOPLE INVOLVED IN EDUCATION/SAND
+RIDGE
+PERSONALIZED LEARNING INC
+RENAISSANCE PUBLIC ACADEMY     2
+RESOURCE LINK CHARTER SCHOOL
+TWIN RIVERS CHARTER SCHOOL
+VIBES
+COMMUNITY COLLEGES
+BLUE MOUNTAIN COMMUNITY COLLEGE 
+OREGON COAST COMMUNITY COLLEGE       1
+RURAL FIRE PROTECTION DISTRICTS
+ALFALFA FIRE DISTRICT      3
+APPLEGATE VALLEY RFPD 9     1
+AURORA RFPD
+CANBY RFPD 62
+CANNON BEACH RFPD
+CLATSKANIE RFPD       3
+CRESCENT RFPD 
+(ORS 297.466)
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State| Report 2020-07 | February 2020 | Page 37
+Municipal Corporation Name Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant Findings
+Reported
+Internal
+Controls
+Accounting
+Errors
+Non-
+Compliance
+GASTON RFPD
+GLENDALE AMBULANCE DISTRICT        3
+IDANHA DETROIT RFPD     2
+KEIZER RFPD       1
+KENO RFPD     1 2
+KLAMATH CO RFPD 1     1
+LA GRANDE RFPD    1
+MIST BIRKENFELD RFPD     2
+MONROE RFPD 
+MULTNOMAH CO RFPD 30J       4
+NETARTS OCEANSIDE RFPD     1 1
+NEW CARLTON FIRE DISTRICT      1
+SALEM SUBURBAN RFPD      3
+SILETZ RFPD     1
+SIUSLAW VALLEY FIRE & RESCUE    1
+SOUTHWESTERN POLK RFPD
+STAYTON RFPD
+SUBLIMITY RFPD     1
+WEST SIDE RFPD      2
+WEST VALLEY FIRE DISTRICT      3
+WY'EAST RFPD
+YACHATS RFPD
+ZUMWALT RFPD 
+SCHOOL DISTRICTS + EDUCATION SERVICE DISTRICTS
+CLACKAMAS CO SCHOOL DISTRICT 108
+CLACKAMAS CO SCHOOL DISTRICT 53
+CLACKAMAS CO SCHOOL DISTRICT 7J
+CLACKAMAS CO SCHOOL DISTRICT 86
+CLATSOP CO SCHOOL DISTRICT 10
+CLATSOP CO SCHOOL DISTRICT 30
+HARNEY CO SCHOOL DISTRICT 16    1
+HOOD RIVER CO SCHOOL DISTRICT
+LANE CO SCHOOL DISTRICT 32
+LANE CO SCHOOL DISTRICT 40 
+LINN CO SCHOOL DISTRICT 55
+(ORS 297.466)
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State| Report 2020-07 | February 2020 | Page 38
+Municipal Corporation Name Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant Findings
+Reported
+Internal
+Controls
+Accounting
+Errors
+Non-
+Compliance
+LINN CO SCHOOL DISTRICT 8J       1
+MALHEUR CO SCHOOL DISTRICT 84
+MALHEUR CO SCHOOL DISTRICT 8C
+MALHEUR ESD
+MARION CO SCHOOL DISTRICT 5
+MULTNOMAH CO SCHOOL DISTRICT 51J     1
+MULTNOMAH CO SCHOOL DISTRICT 7
+POLK CO SCHOOL DISTRICT 57
+YAMHILL CO SCHOOL DISTRICT 29J
+YAMHILL CO SCHOOL DISTRICT 30J 
+YAMHILL CO SCHOOL DISTRICT 8     1
+OTHER SPECIAL DISTRICTS
+ARNOLD IRRIGATION DISTRICT     2 2
+ASTORIA URBAN RENEWAL AGENCY 
+BANDON URBAN RENEWAL AGENCY      1
+BASIN TRANSIT SERVICE
+BENTON SWCD     2
+BUELL RED PRAIRIE WATER DISTRICT  
+CENTRAL ALBANY REVITALIZATION AREA 
+CENTRAL OREGON LAW ENFORCEMENT
+SERVICES
+CENTRAL POINT DEVELOPMENT
+COMMISSION
+CHEHALEM PARKS & REC DISTRICT      1
+CLACKAMAS CO VECTOR CONTROL
+CLACKAMAS RIVER WATER
+CLATSOP CO HOUSING AUTHORITY
+COLUMBIA 911 COMMUNICATIONS
+DISTRICT
+COLUMBIA SWCD     2
+COMMUNITY SERVICES CONSORTIUM
+CRYSTAL SPRINGS WATER DISTRICT   
+CURRY CO PUBLIC TRANSIT SERVICE
+DISTRICT       1
+DESCHUTES BASIN BOARD OF CONTROL      1
+(ORS 297.466)
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State| Report 2020-07 | February 2020 | Page 39
+Municipal Corporation Name Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant Findings
+Reported
+Internal
+Controls
+Accounting
+Errors
+Non-
+Compliance
+EASTERN OREGON HUMAN SERVICE
+CONSORTIUM      1
+FAIRVIEW WATER DISTRICT      2
+FLORENCE URBAN RENEWAL AGENCY
+GOVERNMENT CAMP SANITARY DISTRICT
+HARNEY SWCD       3
+HARRISBURG REDEVELOPMENT AGENCY 
+HIGH DESERT PARKS & REC      1
+HORSEFLY IRRIGATION DISTRICT
+HOUSING AUTHORITY OF DOUGLAS CO
+HOUSING AUTHORITY OF YAMHILL CO
+INDEPENDENCE URBAN RENEWAL
+AGENCY      1
+JOSEPHINE CO 911 AGENCY
+JOSEPHINE HOUSING & COMMUNITY
+DEVELOPMENT COUNCIL
+LAKE GROVE PARK DISTRICT
+LAKE HEALTH DISTRICT
+LANE WORKFORCE PARTNERSHIP
+LEAGUE OF OREGON CITIES
+LINCOLN CO LIBRARY DISTRICT         1
+LINCOLN CO TRANSPORTATION DISTRICT
+LINCOLN COUNTY ANIMAL SERVICE
+DISTRICT
+LOCAL GOVERNMENT PERSONNEL
+INSTITUTE     1
+LOWER UMPQUA HOSPITAL DISTRICT    1 1
+LYONS-MEHAMA WATER DISTRICT     2
+MADRAS REDEVELOPMENT COMMISSION 
+MALHEUR CO SWCD
+MARION AREA MULTI AGENCY
+EMERGENCY TELECOMMUNICATION
+MCNULTY WATER PUD     2 2
+MID-COLUMBIA CENTER FOR LIVING
+MID-COLUMBIA HOUSING AUTHORITY &
+COLUMBIA GORGE HOUSING
+(ORS 297.466)
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State| Report 2020-07 | February 2020 | Page 40
+Municipal Corporation Name Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant Findings
+Reported
+Internal
+Controls
+Accounting
+Errors
+Non-
+Compliance
+MT HOOD CABLE REGULATORY
+COMMISSION
+NEHALEM BAY HEALTH DISTRICT      2
+NETARTS WATER DISTRICT     1
+NEWPORT URBAN RENEWAL AGENCY
+NORTHWEST OREGON HOUSING
+AUTHORITY
+OCEANSIDE WATER DISTRICT 
+OCHOCO IRRIGATION DISTRICT     4
+ODELL SANITARY DISTRICT
+OREGON CASCADES WEST COUNCIL OF
+GOVERNMENTS 
+OREGON COMMUNITY COLLEGE
+ASSOCIATION
+OREGON INTERNATIONAL PORT OF COOS
+BAY
+OREGON PUBLIC ENTITY EXCESS POOL
+OREGON SCHOOL BOARDS ASSOCIATION
+OREGON WATER WONDERLAND UNIT II
+SANITARY DISTRICT 
+PIONEER NURSING HOME HEALTH
+DISTRICT        1
+PLEASANT HOME WATER DISTRICT     2
+POLK CO EXTENSION SERVICE DIST
+PORT OF BROOKINGS HARBOR 
+PORT OF CASCADE LOCKS      2
+PORT OF GARIBALDI         1
+PORT OF GOLD BEACH 
+PORT OF PORTLAND
+PORT OF TILLAMOOK BAY     1
+QUALITYLIFE INTERGOVERNMENTAL
+AGENCY
+RALEIGH WATER DISTRICT      1
+REDMOND AREA PARK & RECREATION
+DISTRICT 
+(ORS 297.466)
+**Material weaknesses or significant deficiencies reported to management were filed with the Secretary of State as required by Minimum
+Standards (OAR 162-010, ORS 297)
+Oregon Secretary of State| Report 2020-07 | February 2020 | Page 41
+Municipal Corporation Name Approved
+Extension
+Required
+Letters
+Filed**
+Plan of
+Action
+Submitted*
+Material or Significant Findings
+Reported
+Internal
+Controls
+Accounting
+Errors
+Non-
+Compliance
+REGIONAL AUTOMATED INFORMATION
+NETWORK
+ROGUE VALLEY COUNCIL OF
+GOVERNMENTS 
+ROSEBURG URBAN RENEWAL AGENCY
+SANDY URBAN RENEWAL AGENCY 
+SCAPPOOSE PUBLIC LIBRARY DISTRICT   
+SEAL ROCK WATER DISTRICT 
+SHANGRI LA WATER DISTRICT 
+SHERWOOD URBAN RENEWAL AGENCY
+SILVERTON URBAN RENEWAL AGENCY
+SISTERS PARK & RECREATION DISTRICT     5
+SUNSET EMPIRE TRANSPORTATION
+DISTRICT     2
+THE DALLES IRRIGATION DISTRICT   
+THREE SISTERS IRRIGATION DISTRICT       6
+TILLAMOOK CO TRANSPORTATION
+DISTRICT    1
+TUALATIN VALLEY IRRIGATION DISTRICT     5 5
+URBAN RENEWAL AGENCY OF THE CITY OF
+TROUTDALE
+VALLEY VIEW WATER DISTRICT      2
+WALLOWA CO HEALTH CARE DISTRICT
+WALLOWA LAKE CO SERVICE DISTRICT     1
+WESTERN LANE AMBULANCE DISTRICT    1
+WILSONVILLE URBAN RENEWAL AGENCY
+WINSTON DILLARD WATER DISTRICT 
+WINSTON URBAN RENEWAL AGENCY 
+WOODBURN URBAN RENEWAL AGENCY
+YAMHILL SWCD
+Total Untimely Filed Reports: 239
+Oregon Secretary of State| Report 2020-07 | February 2020 | Page 42
+Appendix C: Reports Not Filed as of December 31, 2019
+Municipal Corporation Name Approved
+Extension Comments
+CITIES
+CHILOQUIN   Audit filed on January 17, 2020
+DEPOE BAY 
+GARIBALDI 
+GLENDALE   Approved extension through May 2020
+GOLD HILL   Audit filed on January 31, 2020
+SUMPTER 
+CHARTER SCHOOLS
+OREGON BUILDING CONGRESS ACADEMY FOR
+ARCHITECTURE, CONSTRUCTION & ENGINEERING
+RURAL FIRE PROTECTION DISTRICTS
+ALBANY RFPD  Audit filed on January 24, 2020
+DEPOE BAY RFPD
+GEARHART RFPD
+HOODLAND RFPD
+WILLAKENZIE RFPD
+OTHER SPECIAL DISTRICTS
+DOUGLAS SWCD
+FARMERS IRRIGATION DISTRICT 
+GLENWOOD WATER DISTRICT
+HARBOR WATER PUD
+INTERLACHEN WATER PEOPLE’S UTILITY DISTRICT
+LUSTED WATER DISTRICT
+SANTIAM WATER CONTROL DISTRICT
+SHASTA VIEW IRRIGATION DISTRICT    Audit filed on January 22, 2020
+SWEET HOME CEMETERY MAINTENANCE DISTRICT
+TERREBONNE DOMESTIC WATER SERVICE DISTRICT
+Total: 22
+Report Team
+Mary Wenger, CPA, Deputy Director
+Amy Dale, CPA, Audit Manager
+About the Secretary of State Audits Division
+The Oregon Constitution provides that the Secretary of State shall be, by virtue of the office, Auditor of Public
+Accounts. The Audits Division performs this duty. The division reports to the elected Secretary of State and is
+independent of other agencies within the Executive, Legislative, and Judicial branches of Oregon government.
+The division has constitutional authority to audit all state officers, agencies, boards and commissions as well as
+administer municipal audit law.
+This report is intended to promote the best possible management of public resources.
+Copies may be obtained from:
+Oregon Audits Division
+255 Capitol St NE, Suite 500 | Salem | OR | 97310
+(503) 986-2255
+sos.oregon.gov/audits

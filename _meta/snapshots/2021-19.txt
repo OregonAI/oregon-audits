@@ -1,0 +1,517 @@
+Secretary of State Shemia Fagan
+Audits Division Director Kip Memmott
+Fiscal Year 2020
+Keeping Oregon Accountable
+June 2021
+Report 2021-19
+Keeping Oregon Accountable
+Fiscal Year 2020
+June 2021
+Purpose
+The Secretary of State Audits Division annually audits the State of Oregon’s financial statements and
+compliance with federal program requirements. The federal government requires these audits for the
+financial assistance Oregon receives annually. These audits determine whether amounts reported in Oregon’s
+financial statements are materially correct and adequately supported; evaluate the state’s administration of
+major federal programs for compliance with applicable laws, rules, and regulations; conclude on whether the
+Schedule of Expenditures of Federal Awards is fairly presented in relation to the state’s financial statements;
+and review accounting and compliance control procedures. The results of these audits are included in the
+State’s Annual Financial Report, and in the annual Statewide Single Audit Report. This report summarizes the
+results of the fiscal year 2020 audits.
+Results
+Audit of the State of Oregon’s Financial Statements
+» We identified $6.4 billion in accounting errors (unintentional mistakes) and proposed adjustments
+to correct them in the financial statements.
+» We issued an unmodified opinion (clean) on the state’s financial statements for fiscal year 2020.
+» We issued three findings with recommendations, for material weaknesses in internal control to the
+Department of Revenue and one finding for a material weakness to the Department of Consumer
+and Business Services. When internal controls are weak, there is a reasonable possibility that a
+material misstatement of the financial statements will not be prevented or detected and corrected
+on a timely basis.
+» We issued eight significant deficiencies in internal control with recommendations to improve
+standard controls used to ensure the accuracy of financial information. A significant deficiency is
+less severe than a material weakness, yet requires corrective action.
+Audits of Compliance with Federal Program Requirements
+» We audited 14 federal programs at 11 agencies and issued 28 findings and recommendations.
+» We questioned whether $5,115,844 in expenditures were appropriately paid with federal funds.
+» We issued a qualified opinion on the Temporary Assistance for Needy Families (TANF) program. A
+qualified opinion indicates the department’s internal controls are inadequate to prevent or detect
+significant noncompliance in a timely manner.
+» We followed up on 38 prior year findings from the prior three years to see if corrective action had been
+taken at nine agencies.
+Oregon Secretary of State| Report 2021-19 | June 2021 | Page 1
+Overview of Annual Financial and Federal Audits
+The Secretary of State Audits Division annually audits the State of Oregon’s financial statements and
+compliance with certain federal program requirements. The federal government requires these
+audits for the financial assistance Oregon receives annually. In fiscal year 2020, that assistance
+increased from $12 billion to $17 billion, due largely to a substantial increase in federal funding for
+Unemployment Insurance in response to the global pandemic. These audits determine whether
+amounts reported in Oregon’s financial statements are materially correct and adequately supported
+and evaluate the state’s administration of major federal programs for compliance with applicable
+laws, rules, and regulations.
+This report summarizes the results of the fiscal year 2020 annual audits. The State’s Annual
+Financial Report and annual Statewide Single Audit Report are on the Secretary of State website.1
+Detailed financial and federal findings, auditor recommendations, and agency planned corrective
+actions are included in the Statewide Single Audit Report. A glossary of accounting terms is located
+at the end of this report.
+Annual Financial Report
+State agency directors and managers are accountable to the citizens of Oregon for how they use
+public monies. To help ensure accurate financial reporting, state agencies are to comply with
+Generally Accepted Accounting Principles. The management of each state agency is responsible for
+implementing and maintaining effective internal controls to ensure the integrity of financial and
+accounting information.
+Preparing accurate financial statements is essential for ensuring that reliable and transparent
+financial information is provided to decision makers and key stakeholders. These statements
+provide a comprehensive view of the state’s financial activities during the fiscal year (Statement of
+Activities) and an overall picture of the state’s financial position at the end of the fiscal year
+(Statement of Net Position).
+Statewide Accounting and Reporting Services, part of the Department of Administrative Services,
+prepares the statements by compiling financial information from more than 100 state agencies into
+the proper format for governmental reporting. They also provide accounting guidance and training
+to state agency staff throughout the year.
+We audit these financial statements following Government Auditing Standards applicable to
+financial audits, which require that we plan and perform audit work to obtain reasonable assurance
+about whether the financial statements are materially correct. As part of the annual audit of the
+state’s financial statements, we provide our professional opinion about the completeness, accuracy,
+and reliability of the state’s accounting information. Accurate and reliable accounting data is crucial
+to tracking how state dollars are spent and provides a starting point for the next budget cycle.
+Fiscal Year 2020 Results
+We issued an unmodified opinion on the state’s financial statements for fiscal year 2020. An
+unmodified opinion means the financial statements, as corrected, are “fairly presented in
+conformance with Generally Accepted Accounting Principles.”
+To conduct this audit, our financial auditors performed audit procedures of all major funds of the
+government and audited hundreds of accounts at 23 state agencies including, but not limited to, the
+Departments of Human Services, Education, Transportation, Revenue, and the Oregon Health
+1 The Annual Financial Report 2021-04: https://sos.oregon.gov/audits/Documents/2021-04.pdf
+The annual Statewide Single Audit 2021-13: https://sos.oregon.gov/audits/Documents/2021-13.pdf
+Oregon Secretary of State| Report 2021-19 | June 2021 | Page 2
+Authority. During the course of our audit, we reviewed assets of $47 billion, liabilities of $19 billion,
+revenues of $38 billion, and expenditures of $36 billion. We reported the results of our audit to
+agency management, the state Legislature, federal officials, and the public.
+Our audit of the state’s financial records identified 12 findings involving eight state agencies.2 To
+mitigate risks from these findings, we offered recommendations to improve standard controls
+commonly used to ensure the accuracy of financial information. The type of control finding we
+report depends on the degree of control weakness and generally falls into one of two categories, as
+shown in Figure 1: a significant deficiency or material weakness. A material weakness is more
+severe and more likely to have an impact on the financial statements.
+Figure 1: Material weaknesses increased
+In 2020, we reported three material weaknesses to management of the Department of Revenue.
+Recommendations were made to improve the taxes receivable accrual methodology, ensure
+sufficient transaction review is performed when implementing new accounting standards, and to
+improve reconciliation procedures. We also reported a material weakness to management of the
+Department of Consumer and Business Services with a recommendation to allocate adequate
+resources to implement significant financial reporting changes and ensure complete reporting of
+activity.
+We proposed audit adjustments to correct accounting errors in the state’s financial statements.
+Accounting errors occur when an agency does not record a transaction, or records a transaction
+using incorrect account coding, resulting in amounts appearing in the wrong year or the wrong
+place in the financial statements. Adjustments may also be necessary when an accounting standard
+is misinterpreted or misapplied. When errors are large enough to misrepresent the balance of a
+fund, we propose adjustments to correct the account balance. In fiscal year 2020, two of the
+material weaknesses noted above related to improper or incomplete implementation of a new
+accounting standard. At the Department of Revenue, $3.9 billion was adjusted to record the
+appropriate account balance, and at the Department of Consumer and Business Services,
+$408 million was adjusted to record appropriate account balance. Figure 2 shows the number of
+accounts impacted by our audit adjustments and the amount of those adjustments over the past five
+years.
+2 The eight agencies with findings were the Department of Revenue (DOR), Department of Consumer and Business Services (DCBS),
+Department of Human Services (DHS), Oregon Health Authority (OHA), Department of Administrative Services (DAS), Oregon
+Employment Department (OED), Oregon Department of Transportation (ODOT), and Oregon Liquor Control Commission (OLCC).
+4 6 8
+-
+FY 2016 FY 2017 FY 2018 FY 2019 FY 2020
+Significant Deficiency Material Weakness
+Oregon Secretary of State| Report 2021-19 | June 2021 | Page 3
+Figure 2: New accounting standard caused increase in adjustment amounts in fiscal year  2020
+Figure 3 lists the agencies where we proposed audit adjustments for fiscal year 2020. As noted
+above, the largest adjustments were related to inaccurate implementation of a new accounting
+standard; the remainder were the result of control deficiencies related to reconciliations, year-end
+accounting entries, system access, benefit payments, and inventory. Most proposed adjustments
+moved reported amounts from one financial account to another to properly report account
+balances in the correct classification in the financial statements. The audit adjustments we
+proposed align Oregon’s financial statements with accounting standards and demonstrate the
+importance of the annual financial audit.
+Figure 3: Proposed financial audit adjustments totaled $6.4 billion for fiscal year 2020
+State agency Accounts affected Amount
+Department of Revenue 14          $   4,769,421,145
+Department of Human Services / Oregon Health Authority 30 924,922,587
+Department of Consumer and Business Services 3 407,913,080
+Employment Department 4 102,167,818
+Multiple Agencies* 30 93,364,669
+Department of Education 11 58,718,002
+Department of Administrative Services 8 31,183,110
+Oregon Department of Forestry 3 10,481,629
+Department of Transportation 7 8,687,904
+Oregon Military Department 5 7,840,865
+Oregon Business Development Department 2 5,205,496
+Judicial Department 2 1,400,000
+Housing and Community Services Department 2 1,229,774
+Total 121 $  6,422,536,080
+*In fiscal year 2020, adjustments were proposed to identify and track activity related to late Coronavirus Relief Fund and
+Federal Emergency Management Fund (FEMA) distributions that were not included in the financial statements, as well as
+smaller agencies that are part of the reporting entity, but optionally excluded from the financial statements.
+65 75 59 62
+$0
+$1,000
+$2,000
+$3,000
+$4,000
+$5,000
+$6,000
+$7,000
+2016 2017 2018 2019 2020
+Amount of proposed adjustments
+in millions
+Number of proposed account adjustments each fiscal year
+Oregon Secretary of State| Report 2021-19 | June 2021 | Page 4
+History of Annual Financial Report findings
+When considering the extent of financial findings, it is important to know that uncorrected prior
+year findings also need to be addressed to have strong internal controls. As shown in Figure 4, nine
+financial findings from prior years were corrected in 2020. While seven prior year findings remain
+outstanding, the agencies have made progress toward addressing the recommendations.
+Figure 4: Agencies improve correction of findings
+FY 2016 FY 2017 FY 2018 FY 2019 FY 2020
+Total prior year findings reviewed 12 18 19 20 16
+Prior year findings, not resolved 2 11 14 13 7
+Prior year findings, corrected 10 7 5 7 9
+Rate of corrections 83% 39% 26% 35% 56%
+Oregon Secretary of State| Report 2021-19 | June 2021 | Page 5
+Statewide Single Audit
+Oregon annually receives an approximate $12 billion in federal dollars through grant agreements
+with federal agencies, which increased to $17 billion in fiscal year 2020. These grants are awarded
+to state agencies for programs that provide various services, including public health and safety,
+agricultural research, and homeland security. Agencies receiving the funds are required to comply
+with various federal requirements for the administration of the programs. Oregon received
+substantially more in federal dollars in fiscal year 2020 to assist with the response to the global
+pandemic. Unemployment Insurance and Medicaid each saw significant increases in program
+expenditures. Oregon also received funding for the new Coronavirus Relief Fund, to assist with
+costs for personal protective equipment, employee leave costs related to COVID-19, and to assist
+local governments with similar costs.
+The Audits Division issues the Single Audit Report, which includes a schedule prepared by the
+Department of Administrative Services of all federal funds spent by the state for the year. The
+report also includes audit findings from the annual financial report audit and the federal
+compliance audits. Agency management provides responses about whether they agree with each
+finding and what actions they plan to take to correct the underlying issues. In addition, the report
+presents the status of findings for the prior two years and any action agency management has taken
+to correct the findings.
+The federal Office of Management and Budget (OMB) develops nationwide policy for performing
+federal compliance audits. OMB provides rigid instructions for determining which programs to
+audit and the specific audit procedures we need to perform for each federal program to ensure the
+state is complying with federal requirements when administering the programs. The federal
+government uses the annual Single Audit Report to monitor how well their programs are
+administered and to follow up on any findings we identify. Federal granting agencies follow up on
+our audit findings for purposes of enforcing compliance and determining whether questioned costs
+need to be repaid or if any sanctions will be imposed.
+The following highlights key information from the 2020 Statewide Single audit.
+Fiscal Year 2020 Federal Expenditures
+In fiscal year 2020, the State of Oregon spent $17 billion in federal funds for 405 federal programs
+administered by 51 state agencies. Adhering to OMB requirements designed to select programs
+based on expenditures and risk, we audited 14 major federal programs for compliance with federal
+requirements.
+As shown in Figure 5, the audited programs accounted for $14.2 billion, or 82%, of the $17 billion
+spent in fiscal year 2020. Medicaid is the single largest program and accounts for $8.4 billion in
+federal funds spent by the state.
+Oregon Secretary of State| Report 2021-19 | June 2021 | Page 6
+Figure 5: We audited 82% of fiscal year 2020 single audit expenditures
+As shown in Figure 6, the Oregon Health Authority and the Department of Human Services
+accounted for $10.6 billion, or 61%, of the state’s federal expenditures. The Medicaid program
+accounts for 92% of the Oregon Health Authority’s federal expenditures and 58% of the
+Department of Human Services’ federal expenditures. The Department of Human Services
+administers other large federal programs, including Supplemental Nutrition Assistance, commonly
+known as food stamps, Temporary Assistance for Needy Families, and Foster Care.
+Figure 6: DHS and OHA account for over half of federal expenditures by state agencies, fiscal year 2020
+Of the 405 federal programs administered by the State of Oregon in fiscal year 2020, 12 programs
+account for 92% of the state’s total federal expenditures. The Medicaid program is by far the largest
+public assistance program administered by the state, as depicted in Figure 7. The Other category
+combines 393 federal programs, each with expenditures less than $96 million.
+405 programs totaling $17 billion
+1 program
+Medicaid $8.4 billion
+$0 $2 $4 $6 $8 $10 $12 $14 $16 $18
+14 Programs Audited
+Spent
+Billions
+$14 billion total
+Oregon Health Authority
+$6.5 billion
+Department of
+Human Services
+$4.1 billion
+Employment
+Department
+$4.8 billion
+Other
+$846.3 million
+Department of Education
+$623.9 million
+Department of
+Transportation
+$530.2 million
+Oregon Secretary of State| Report 2021-19 | June 2021 | Page 7
+Figure 7: Medicaid and Unemployment Insurance expenditures far exceed expenditures of other programs, fiscal
+year 2020 (in millions)
+Fiscal year 2020 brought the largest program increase in the history of the state’s Unemployment
+Insurance program administered by the Oregon Employment Department, which increased
+expenditures from a four-year average of $586 million to $4.7 billion. This significant change in
+expenditures was in response to the pandemic, which gave rise to sudden increased levels of
+unemployment in the state, going from 3.7% in July 2019 to 10.3% in June 2020 (seasonally
+adjusted).3
+The Medicaid program provides health insurance coverage to low-income families. The cost to
+provide this coverage grows every year, but the rate of increase rose from an average of 4% to 10%
+this year due to pandemic-increased funding. Figure 8 shows Oregon’s Medicaid costs, both federal
+and state, for the past five years.
+Figure 8: Federal and state Medicaid expenditures increase each year
+3U.S. Bureau of Labor Statistics
+https://data.bls.gov/timeseries/LASST410000000000003?amp%253bdata_tool=XGtable&output_view=data&include_graphs=true
+$4,736
+$1,416
+$1,138
+$492
+$297
+$165
+$156
+$142
+$128
+$127
+$114
+$96
+$0 $2,000 $4,000 $6,000 $8,000 $10,000
+Medicaid Cluster
+Unemployment Insurance
+All Other Programs
+SNAP Cluster
+Highway Planning and Construction Cluster
+Children's Health Insurance Program
+Child Nutrition Cluster
+Temporary Assistance for Needy Families
+Title I Grants to Local Educational Agencies
+Coronavirus Relief Fund
+Special Education Cluster (IDEA)
+Foster Care Title IV-E
+State Innovation Waivers
+$8,376
+Millions
+$7.1 $7.0 $7.3 $7.6
+$8.4
+$2.2 $2.4 $2.6 $2.9
+$3.1
+$0
+$2
+$4
+$6
+$8
+$10
+$12
+$14
+FY 2016 FY 2017 FY 2018 FY 2019 FY 2020
+Billions
+Federal Medicaid Expenditures  State Medicaid Expenditures
+Oregon Secretary of State| Report 2021-19 | June 2021 | Page 8
+Fiscal year 2020 Statewide Single Audit Results
+As shown in Figure 9, we audited 14 federal programs that are administered by the State of Oregon.
+In addition to Medicaid, which is required to be audited every year, we audited seven other
+programs at the Department of Human Services and Oregon Health Authority. We also audited
+programs at the Oregon Department of Education, Department of Administrative Services, Oregon
+Military Department, Oregon Employment Department, Oregon State Police, Department of
+Consumer and Business Services, Department of Environmental Quality, and the Commission for
+the Blind. OMB Uniform Guidance requires these audits.
+We reported 27 findings to seven of these agencies with recommendations to improve controls
+over compliance with the key federal requirements relevant to each program. Similar to our audit
+of the annual financial report, the type of control finding we report depends on the degree of
+control weakness and generally falls into one of two categories: a significant deficiency or a
+material weakness in controls over compliance.
+Figure 9: We audited 14 programs expending $14.2 billion in federal funds for fiscal year 2020
+Federal Program 2020 Findings Federal Program
+Expenditures
+Medicaid Cluster  3  $       8,376,349,854
+Unemployment Insurance  1  $       4,735,799,800
+Children’s Health Insurance Program  3  $          296,909,193
+Temporary Assistance for Needy Families (TANF)  5  $          155,983,197
+Coronavirus Relief Fund  0  $          128,073,293
+1332 State Innovation Waivers 0  $            96,327,339
+Child Care and Development Fund (CCDF)  5  $            95,250,099
+Disaster Grants – Public Assistance 2  $            84,290,275
+Vocational Rehabilitation 3  $            64,267,312
+National Guard Military Operations and Maintenance Projects 3  $            59,152,418
+Special Supplemental Nutrition Program for Women, Infants,
+and Children (WIC) 0  $            55,993,089
+Clean Water State Revolving Fund Cluster 0  $            24,750,898
+Aging Cluster 1  $            21,536,555
+Community Development Block Grants/State's program and
+Non-Entitlement Grants in Hawaii 1  $            20,915,026
+27  $    14,215,921,222
+Two findings for non-major programs (Foster Care and Fish & Wildlife Cluster) not included in this chart; Foster Care finding
+shared with TANF which is counted above.
+In addition to the findings, we questioned whether Oregon’s spending of $5,115,844 in federal
+funds was appropriate under federal program rules. “Questioned costs” is a term OMB requires
+when reporting findings. When we question costs, we are identifying program costs that may, or
+may not, be allowed to be paid for with federal funds. The federal funding agency reviews our
+findings and determines whether the costs are federally reimbursable.
+This year, we questioned $2.3 million in directly identifiable costs and another $2.9 million in
+projected errors based on our sample testing. Figure 10 shows the amount of questioned costs we
+identified by program and state agency. The Child Care and Development Fund (CCDF) program has
+the largest amount of questioned costs, with $4.2 million in known and projected errors. The CCDF
+questioned costs at the Department of Human Services were due to calculation errors, multiple
+provider copays, and lack of documentation to support payments. For CCDF at the Oregon
+Oregon Secretary of State| Report 2021-19 | June 2021 | Page 9
+Department of Education, the questioned costs were largely due to payments made beyond the
+allowed period of time and unallowable payroll charges.
+Figure 10: The majority of 2020 questioned costs reported were for the CCDF program
+State Agency Federal Program
+Expenditures Questioned Costs
+Department of Human Services
+Temporary Assistance for Needy Families (TANF)  $             153,460,930  $       12,857
+Foster Care (non-major program)              112,150,255           127,654
+Child Care and Development Fund (CCDF)                57,024,869       1,996,592
+Oregon Health Authority/Department of Human Services
+Medicaid Cluster            8,357,819,779        16,500
+Oregon Health Authority
+Children’s Health Insurance Program               289,364,244           367,995
+Oregon Military Department
+National Guard Military Operations and Maintenance                59,152,418           148,519
+Department of Education
+Child Care and Development Fund (CCDF)                38,225,230        2,181,058
+Oregon Employment Department
+Unemployment Insurance           4,735,799,800           264,669
+Total  $       13,802,997,525  $  5,115,844
+Qualified opinions
+When the results of an audit determine the agency has sufficient controls to administer the
+program and the program is generally in compliance with federal requirements, we issue an
+unmodified opinion. An unmodified, or “clean” opinion means there are no “qualifications”
+(concerns) that would cause us to alter our opinion. However, when we identify programs where a
+state agency’s internal controls are inadequate to reasonably prevent or detect material
+noncompliance in a timely manner, we issue a qualified opinion for the program.
+For fiscal year 2020, we found the Department of Human Services did not establish adequate
+internal controls and was not materially compliant with federal requirements for the TANF
+program. We issued a qualified opinion on the TANF program for the third consecutive year.
+History of Statewide Single Audit findings
+The OMB establishes categories of compliance requirements and the federal awarding agencies
+determine which categories are key for their programs. Not all requirements apply to every
+program and some requirements are more complex than others. Figure 11 illustrates compliance
+requirements with findings for the past five years. Totals by category indicate which requirements
+are most problematic for Oregon.
+Oregon Secretary of State| Report 2021-19 | June 2021 | Page 10
+Figure 11: Findings history by type of compliance requirement
+Compliance requirement 2016 2017 2018 2019 2020
+Allowable Activities and Costs    8+   8+   8+   5+   6+
+Cash Management 1
+Eligibility 4 2   5+ 2   5+
+Equipment  1   1
+Matching, Level of Effort, Earmarking 1 2 5 1   2+
+Period of Performance  1  1 2
+Procurement and Suspension and Debarment 1 2  1
+Reporting 2   4+ 3 3 5
+Subrecipient Monitoring 3 6 5 1 2
+Special Tests and Provisions 3 1 3 3   5+
+Total findings 23 27 29 17 28
+Note: Plus sign indicates multiple compliance requirements appear in one finding, but are only counted once in this display.
+The OMB requires auditors to perform follow-up procedures in the following year to determine
+whether an agency has taken appropriate corrective action to resolve the findings. We followed-up
+on the status of 38 federal compliance findings that remained uncorrected from prior years and
+found that agencies had corrected 12 of them; however, 26 prior year findings will continue into
+fiscal year 2021 because they remain uncorrected. In addition, ten of the 14 programs audited for
+fiscal year 2020 have findings that will require follow-up or full audits in 2021.
+Some findings remain uncorrected from one year to the next because agencies do not correct the
+underlying issues that cause the noncompliance or control weaknesses. While some findings take
+time and resources to correct, others may remain simply because management does not make it a
+priority to address them.
+Figure 12 displays a history of ongoing findings by agency, program, and nature of the findings that
+continue to be uncorrected at the end of fiscal year 2020. The figure shows those findings that have
+been ongoing for at least four years. When a finding is uncorrected, we are required to continue
+auditing the requirement until it is resolved.
+The TANF and Medicaid programs both have unresolved audit findings from 2010. Originating in
+fiscal year 2010, TANF data reports that are required to be submitted to the federal agency do not
+accurately reflect case status and activity of the reporting period. Due to implementation of a new
+system, fixing the data issues has not been prioritized, but agency management is working to
+ensure proper reporting from the new system. Medicaid’s client eligibility findings include
+eligibility that was not re-verified, ineligible individuals receiving payments, and missing
+applications. Progress has been made related to client eligibility, and the number of errors and
+severity of the issue has lessened over time.
+Oregon Secretary of State| Report 2021-19 | June 2021 | Page 11
+Figure 12: History of ongoing findings
+Agency Program Finding Summary
+Origination
+Year
+Years
+Ongoing
+DHS Temporary Assistance for Needy Families Accurate reports 2010 11
+DHS/OHA Medicaid Client eligibility 2010 11
+DHS/OHA Medicaid Provider eligibility 2012 9
+DHS Foster Care* System errors 2012 9
+DHS Adoption Assistance  Data errors 2014 7
+DHS Child Care and Development Fund Incorrect copays 2014 7
+ODFW Fish & Wildlife Cluster  Monitoring real property 2017 4
+OCB Vocational Rehabilitation Reporting 2017 4
+*This system error affects additional programs in various years
+DHS – Department of Human Services
+OHA – Oregon Health Authority
+ODFW – Oregon Department of Fish & Wildlife
+OCB – Oregon Commission for the Blind
+It is the responsibility of the federal granting agency to follow up with state agencies on findings
+included in the Single Audit Report. After investigating, the federal agency issues a determination
+letter to the state agency, providing its conclusion about the finding and the corrective action the
+state agency plans to take to resolve the finding. Generally, the determination letters uphold our
+findings, reinforce our recommendations, and request action from the state agency. Sometimes the
+federal agency imposes a sanction upon the state or adjusts future funding to correct the issue.
+Occasionally, the federal agency will clarify a requirement in favor of the state agency and the
+finding is no longer valid. Only federal agencies have the authority to enforce their grant
+requirements.
+Oregon Secretary of State| Report 2021-19 | June 2021 | Page 12
+Glossary of Terms
+Asset: A resource with economic value that the government owns or controls with the expectation
+it will provide future benefit.
+Annual Financial Report: The government entity’s official annual report that includes financial
+statements designed to report the financial position and results of operations of the primary
+government (including its blended component units) and provide an overview of the discretely
+presented component units.
+Determination Letter: Letter written by the federal awarding agency in response to the single
+audit findings. This letter provides their conclusions about the findings and the actions the state
+agency plans to take to resolve the findings.
+Expenditure: Designates the cost of goods delivered or services rendered, whether paid or unpaid.
+Federal Expenditure: Charges made by a non-Federal entity to a project or program for which a
+Federal award was received.
+Error: A mistake in an accounting entry that was not intentional.
+Generally Accepted Accounting Principles (GAAP): A combination of authoritative standards
+(set by policy boards) and the commonly accepted ways of recording and reporting accounting
+information.
+Government Auditing Standards: The professional standards and guidance issued by the
+Comptroller General of the United States that provide the framework for conducting high quality
+audits of governmental entities.
+Internal Controls: Methods put in place by management to ensure the integrity of financial and
+accounting information.
+Liability: Legal debts or obligations between one party and another not yet completed or paid for,
+defined by previous business transactions, events, sales, exchange of assets or services, or anything
+that would provide economic benefit at a later date.
+Qualified Opinion: The type of audit opinion given when audit procedures identify a department
+or program’s internal controls are inadequate to prevent or detect significant noncompliance or
+financial material misstatements.
+Questioned Cost: A cost that is questioned by the auditor for violation of federal award provisions,
+or lack of supporting documentation, or because the cost appears unreasonable.
+Revenue: Income received or earned during a specific period.
+Statement of Activities: Required basic financial statement that shows the financial results of the
+year’s activities. The statement of activities presents revenues less expenditures to show net
+position.
+Statement of Net Position: Required basic financial statement that shows the balance of the assets,
+liabilities, deferrals, and net position at June 30.
+Subrecipient: An entity that receives federal funds from the state to carry out a federal program.
+Unmodified Opinion: The type of audit opinion given when the financial statements, as corrected,
+are fairly presented in conformance with GAAP.
+Audit Team
+Mary Wenger, CPA, Deputy Director
+Amy Dale, CPA, Audit Manager
+Julianne Kennedy, CPA, Audit Manager
+Kelly Olson, CPA, Audit Manager
+Michelle Searfus, CPA, Audit Manager
+Janet Lowrey, CPA, Senior Auditor
+Financial and Compliance Audit Staff
+About the Secretary of State Audits Division
+The Oregon Constitution provides that the Secretary of State shall be, by virtue of the office, Auditor of Public
+Accounts. The Audits Division performs this duty. The division reports to the elected Secretary of State and is
+independent of other agencies within the Executive, Legislative, and Judicial branches of Oregon government. The
+division has constitutional authority to audit all state officers, agencies, boards and commissions as well as
+administer municipal audit law.
+This report is intended to promote the best possible management of public resources.
+Copies may be obtained from:
+Oregon Audits Division
+255 Capitol St NE, Suite 500 | Salem | OR | 97310
+(503) 986-2255
+sos.oregon.gov/audits

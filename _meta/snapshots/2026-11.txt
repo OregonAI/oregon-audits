@@ -1,0 +1,673 @@
+Oregon Parks and Recreation Department
+Inadequate Safety Inspections
+and Poor Asset Tracking
+Increase Risk to Public Safety
+and Property
+April 2026
+Report 2026-11
+Secretary of State Tobias Read
+Audits Director Steve Bergmann
+Audit Summary
+Oregon Parks and Recreation Department
+Inadequate Safety Inspections and Poor Asset Tracking Increase
+Risk to Public Safety and Property
+OBJECTIVE
+Determine whether the Oregon Parks and Recreation Department (OPRD) has established and implemented effective
+processes for managing key asset information to support proper asset management, including accurate documentation of
+asset details such as cost or replacement value, important dates, and required safety inspections within the Oregon Parks
+and Recreation Information System (OPRIS).
+SCOPE
+Our scope was limited to the review of asset management practices at OPRD overnight campgrounds which offer tent and
+RV camping, have restrooms, and are reservable. Additionally, we tested selected park properties for compliance with
+OPRD and Occupational Safety and Health Administration (OSHA) building safety inspection requirements. The audit
+period covered June 2022 through June 2025.
+Consistent safety protocols help OPRD protect the public, the department’s volunteers, and employees.
+Reliable asset records are essential for safeguarding public property and ensuring resources are available to support park
+operations.
+OPRD’s compliance with asset and safety requirements promotes accountability and reduces the state’s exposure to legal
+and financial risks.
+Safety inspections are not consistently conducted or documented.  (pg. 6)
+OPRD does not consistently complete or record the required quarterly safety inspections for buildings where employees
+work, potentially creating safety, financial, and legal risks. OSHA rules and OPRD policy require these inspections and
+records, but we found evidence of noncompliance at the parks we visited, with one park having no records for 2022-25.
+OPRD was recently cited by OSHA after unaddressed hazards were found in a concessionaire operated building that
+Why this audit is important
+What we found
+OPRD owns. Incomplete or outdated policies, unclear staff roles, and problems with the OPRIS system — such as poor
+mobile access — make the issue worse. These problems could lead to unsafe practices that may cause injuries or fines.
+OPRD has gaps in its asset management practices and oversight . (pg. 8)
+OPRD's asset management system contains unreliable data, risking asset loss, misreporting, and inadequate insurance.
+Our review found missing or inconsistent records, untracked assets like utility trailers, automated external defibrillators and
+iPhones, and assets incorrectly listed as inactive or missing. The report OPRD uses to ensure proper insurance coverage of
+state-owned assets had some undervalued or inactive entries, and several assets lacked ID tags. These issues are due in
+part to outdated policies, inconsistent procedures, limited accountability, and system flaws.
+To reduce the risks of injuries or deaths, lawsuits, fines, and avoidable financial losses due to lack of compliance with
+building safety inspection requirements, we recommend OPRD:
+1. Finalize and roll out policies and procedures requiring quarterly safety inspections of employee-occupied structures,
+with clearly defined roles and responsibilities for execution and oversight, including documentation standards.
+a. Require managers to regularly review asset records for inspection completion and documentation, and ensure
+these responsibilities are included in supervisory performance expectations.
+b. Review and update asset records to ensure buildings and other structures where employees work are assigned
+appropriate recurring inspection tasks.
+To strengthen asset management practices, we recommend OPRD:
+2. Ensure compliance with asset management policies and procedures across all parks and program areas including:
+a. Asset data integrity and ID tagging, Property Disposition Requests, and the safety inspection program.
+3. Update OPRD’s asset management guidance, including clear procedures for currently uncovered asset types such as
+Infrastructure and Transportation.
+a. Include standards for asset entry and updates, documenting acquisitions, Property Disposition Requests,
+reassignment, inspections, and tagging.
+4. Provide recurring training to all relevant personnel on asset management policies, including tagging, record-keeping,
+and disposal procedures, and reinforce expectations through performance evaluations or other accountability
+mechanisms to ensure compliance.
+5. Identify untagged assets and ensure tagging and data entry are completed in accordance with policy, and update tag
+information within the asset management system.
+6. Implement periodic reconciliations between OPRD’s asset management system, Risk Reports, and physical asset
+inspections to ensure records are accurate and up-to-date. The reconciliations should:
+a. Be performed by staff not assigned to the park property under review.
+b. Include spot checks of acquisition documentation, tagging, and location data.
+7. Enforce the existing two-signature policy for Property Disposition Requests through system controls or supervisory
+review and conduct a retrospective review of all asset dispositions for compliance. Follow up on all improperly
+processed requests.
+What we recommend
+As OPRD continues its efforts to replace OPRIS with a new asset management system:
+8. Ensure the new system has all required fields necessary for accurate reporting with the Department of Administrative
+Service’s annual Risk Report, and ensure key fields require input before an asset can be logged.
+a. Choose a system that works on mobile devices, even when there is no internet or cell signal.
+OPRD agreed with all of our recommendations. The response can be found at the end of the report.
+Agency response
+Read the full audit report
+Scan the QR code to read the full audit report, including the agency response, on our website.
+Introduction
+Oregon Secretary of State April 2026
+Report 2026-11 page 1
+The Oregon Parks and Recreation Department (OPRD) provides the public with recreational opportunities,
+experiences, and education, and preserves historical sites and artifacts. OPRD also regulates the state’s
+scenic waterways and coastal projects through its Ocean Shores program. Additionally, OPRD oversees
+certain regulations and standards for all-terrain vehicle usage on all public lands where such use is allowed,
+such as the sand dunes on the Oregon coast.
+Smith Rock State Park
+OPRD’s mission is to provide and protect outstanding natural, scenic, cultural, historic and recreational
+sites for the enjoyment and education of present and future generations. OPRD and its director are
+overseen by the Oregon Parks and Recreation Commission, consisting of seven members who are
+appointed by the Governor.
+OPRD oversees a broad and complex network of parks and services
+Like other natural resource agencies, OPRD is spread across Oregon with hundreds of properties to
+upkeep and manage. OPRD shares similarities to a hospitality business by serving over 51 million visitors
+and 2.6 million campers annually. These visitors are not only Oregonians but include those from outside
+the state too.
+The state’s park system encompasses over 250 properties across 113,125 acres of parkland, including
+362 miles of public ocean shore. OPRD doesn’t just manage park and trail systems; it also operates many
+Oregon Secretary of State April 2026
+Report 2026-11 page 2
+rest areas it retained when it separated from the Oregon Department of Transportation in 1989. OPRD also
+performs regulatory functions via programs like the State Historic Preservation Office, which serves to
+preserve and manage historical sites and artifacts.
+The park system spans three regions: coastal, valley, and mountain (east of the Cascades). Each region’s
+staffing structure consists of a region director, resource manager, operations manager, district managers,
+park managers, individual park supervisors, full-time park rangers, park specialists, seasonal park ranger
+assistants, and volunteer park hosts.
+Figure 1: OPRD manages hundreds of properties across the state
+Source: OPRD
+Parks with overnight stay options, like campgrounds and cabins, generally have at least one volunteer park
+host, a permanent ranger, and one or more seasonal ranger assistants during the peak seasons. Some
+campgrounds in the mountain region are closed during the off-season as OPRD cuts back seasonal staff.
+Most park locations remain operational in the winter months, such as properties on the coast and in the
+valley, where weather tends to be milder than other regions of the state.
+OPRD contracts with concessionaires who provide services and experiences to park visitors.
+Concessionaire offerings include food services and recreational opportunities such as kayaking, paddle
+boating, and bungee jumping. OPRD is looking into expanding these offerings to further deliver on its
+mission.
+Oregon Secretary of State April 2026
+Report 2026-11 page 3
+Paddle boat rentals | Source: Photo taken by auditors at Jessie M. Honeyman Memorial State Park
+OPRD has several funding streams, with the largest coming from the Oregon Lottery
+OPRD has distinct funding streams in its budget to sustain properties and operations for present and future
+generations of visitors to enjoy. OPRD’s largest source of funding comes from Oregon Lottery revenues.
+This funding source fluctuates depending on the state’s economy and popularity of lottery gaming. OPRD
+also receives General Fund dollars to cover interest payments from previous General Obligation Bonds
+approved for one-time capital projects. The agency does not receive any General Fund for operations.
+Another significant revenue source is from Other Funds, which includes fees paid by park visitors, sales of
+off-road permits for all-terrain vehicles, and a share of fuel tax revenues from gasoline used in off-road
+vehicles. Other Funds also include a share of recreational vehicle registration revenues transferred from
+the Oregon Department of Transportation, which OPRD uses to maintain park roads and rest areas.
+Park user fees for the 2023-25 biennium were $67.6 million. In 2025, with fiscal uncertainties projected in
+the 2027-29 biennium, OPRD raised user fees for various amenities including overnight fees, day-use
+parking and more. As a result, some locations began collecting parking fees for the first time.
+Oregon Secretary of State April 2026
+Report 2026-11 page 4
+Figure 2: OPRD’s budget relies on Lottery and Other funding with minimal federal and General Fund sources
+2023-25 Legislative ly Approved  2025-27 Legislatively Adopted
+General Fund  $8,590,960 $6,726,750
+Lottery Funds  $170,037,598 $205,855,941
+Other Funds  $174,406,164 $152,034,347
+Federal Funds  $21,868,180 $28,783,142
+Total  $374,902,902 $393,400,180
+Positions  871 865
+Full-Time Equivalent (FTE)  632.30 629.4
+Source: Oregon Legislature
+With hundreds of properties across Oregon, OPRD manages thousands of
+assets from historic lighthouses to yurts
+Oregon’s landscape is diverse. Each region has its own challenges for park management and offers
+different experiences for visitors. OPRD aims to give visitors a high-quality experience while operating
+efficiently.
+To this end, OPRD manages a large and complex set of assets: roads, parking lots, RV dump stations,
+utility systems, amphitheaters, lighthouses, playgrounds, cabins, yurts, boat docks, restrooms, and a wide
+range of vehicles and equipment. Many of OPRD’s more than 2,000 buildings are over 50 years old with
+some beyond their expected lifespans. This aging infrastructure requires significant maintenance,
+sometimes with specific historic considerations, and increases operating costs.
+OPRD uses the Oregon Parks and Recreation Information System (OPRIS) to manage its key assets.
+OPRD built the OPRIS system in house during the early 2000s; it was previously called the “Hub.”
+Oregon Secretary of State April 2026
+Report 2026-11 page 5
+Figure 3: An illustration of some typical assets managed by OPRD
+A collage of park assets | Source: Pictures taken by auditors during site visits
+It’s critical for state agencies to have accurate asset inventory and recordkeeping to effectively manage
+assets. Agencies are required to annually report their assets to the Department of Administrative Services
+(DAS) in their annual Risk Report. DAS provides insurance coverage for OPRD assets in case they are
+damaged, destroyed, or lost. If assets are not correctly reported, insurance coverage may be inadequate
+and claims may be denied, leaving agencies responsible for the cost.
+Like many employers, OPRD follows safety practices established to prevent avoidable
+injuries and unsafe conditions
+OPRD’s facilities are subject to state and federal regulations enforced by the Oregon Occupational Safety
+and Health Administration (OSHA), which include regular safety inspections. These regulations are
+intended to protect employees and, because many OPRD facilities are accessible to the public, volunteers,
+and contractors, also help reduce safety risks for those who enter OPRD buildings.
+Under Oregon law, employers are responsible for conducting their own workplace safety inspections rather
+than relying on routine inspections by OSHA, which has limited capacity for proactive enforcement.
+Instead, OSHA offers consultation services to assist employers in understanding and complying with
+applicable state and federal safety requirements.
+OPRD has a standardized safety checklist for park staff to use when conducting building inspections. The
+checklist covers a range of facility features and conditions commonly addressed in workplace safety
+programs, such as building exterior and interior conditions, storage of hazardous materials, fire safety
+features, and physical hazards such as exposed electrical wiring.
+Audit Results
+Oregon Secretary of State April 2026
+Report 2026-11 page 6
+We found OPRD doesn’t consistently complete or document required OSHA building inspections. When
+inspections are missed or aren’t recorded, it could lead to injuries to the public and reduce confidence in
+the safety of Oregon’s parks. These gaps could affect staff safety, limit OPRD’s ability to identify hazards
+early and respond properly and may result in regulatory fines.
+We also found weaknesses in how OPRD tracks and manages its assets. Assets aren’t always accurately
+recorded in OPRD’s system or in the annual Risk Report DAS uses to determine insurance coverage.
+Some assets are undervalued, while others aren’t recorded at all. Some asset management policies,
+procedures, and guidance are outdated, and there is a lack of clarity in the processes and expectations of
+staff. Some staff also were not following required steps when disposing of assets.
+These inconsistencies increase the risk of waste and inefficiency. For instance, OPRD must manually
+synthesize asset inventory for all parks when preparing to send DAS the annual Risk Report for insurance
+coverage. These problems increase the risk of lost or misreported property and limit OPRD’s ability to
+protect public resources, plan for repairs and replacements, and make sound financial decisions.
+Weak oversight of OPRD’s safety inspection programs may expose visitors
+and staff to hazards and result in regulatory fines
+At the time of the audit, OPRD lacked sufficient procedures and adequate oversight to ensure compliance
+with OSHA’s quarterly safety inspection requirements. OPRD couldn’t demonstrate these inspections
+were consistently completed or that required records were maintained; in one location operated by a
+concessionaire, this resulted in an OSHA investigation and fine.
+Failure to complete and retain records of safety inspections increases the risk of unaddressed hazards,
+potential injuries, and additional financial and operational impacts. Because OPRD manages properties
+with significant inherent safety risks, consistent oversight of safety requirements is essential to protecting
+both the public and the department.
+Building inspections are not consistently performed and documented per OSHA
+requirements
+OPRD operates hundreds of properties across the state, many of which are used daily by the public,
+volunteers, and OPRD personnel. Both OSHA regulations and OPRD’s policies require quarterly safety
+inspections of park structures, and OPRD’s employee and volunteer policy mandates documentation and
+three-year retention of all inspection records.
+Despite these requirements, we found inspections weren’t consistently performed and documented. One
+of the parks we visited had no records of building inspections from 2022 to 2025.
+OPRD managers said missed inspections or lack of documentation were due to competing priorities,
+including prioritizing customer service — that is, being responsive to park visitors and emergent situations
+over ensuring records are kept accurately. However, OPRD’s safety policy clearly states that managers
+must ensure employees and volunteers understand and follow OPRD’s safety inspection policy and
+Oregon Secretary of State April 2026
+Report 2026-11 page 7
+procedures. Although the policy explicitly lays out this expectation, the lack of consistent inspection
+records demonstrates that OPRD is not adequately enforcing it.
+Incomplete policies and procedures, and limitations within OPRIS, are also contributing factors. At the time
+of the audit, OPRD had begun to develop policies and procedures for conducting and documenting OSHA
+inspections appropriately within OPRIS. But these policies and procedures need to be finalized and
+deployed.
+Conducting and documenting inspections in OPRIS is difficult and inefficient. OPRIS doesn’t have built-in
+fields, templates, or tasks that could be easily filled out by OPRD staff when they are out in the field. In
+addition, we found examples of buildings not being properly categorized in OPRIS, meaning the required
+safety inspections weren’t assigned. Without the assigned task, staff aren’t prompted to complete an
+inspection.
+OPRD personnel told us system accessibility issues hinder their ability to comply with policies and
+procedures. While OPRIS can be used on tablets and mobile phones, access is granted only via web
+browser when the device is connected to an OPRD virtual private network. This limitation is problematic in
+remote areas, or in those with limited or no cellular or internet service. The challenges with OPRIS have led
+OPRD management to begin pursuing a new asset management system.
+These system challenges, combined with insufficient managerial oversight, have led to noncompliance
+with inspection requirements.
+Unaddressed safety risks can lead to injury or death as well as legal and financial
+consequences
+Inspections are intended to keep employees — and, in OPRD’s case, the public — safe, but in the past
+three years, OPRD received three OSHA citations related to safety violations.1 These three fines cost the
+department nearly $10,000.
+One citation was linked to a concessionaire-operated building where OPRD and the concessionaire failed
+to identify and address hazards due to a lack of inspection. The others involved failing to check for lead
+paint hazards and using improperly trained forklift operators. Failure to perform safety inspections
+increases the likelihood that hazards within OPRD structures would go undetected and unmitigated,
+putting the public, volunteers, or OPRD personnel at risk of injury, or worst-case scenario, death.
+There can be financial consequences, too. Beyond the thousands of dollars in fines associated with OSHA
+citations, these shortcomings could expose OPRD to significant legal liability if someone is harmed, or if
+insurance claims are denied due to neglected maintenance. OPRD has already indicated to the Legislature
+that it faces a budget deficit in the 2027-29 biennium without having to contend with avoidable costs like
+citations and lawsuits.
+1 OSHA inspections are for employee safety only. However, since so many buildings OPRD employees work in (restrooms, yurts,
+cabins, visitor centers, etc.) are also used by the public, these inspections extend enhanced safety to all.
+Oregon Secretary of State April 2026
+Report 2026-11 page 8
+OPRD’s inadequate asset management practices and oversight expose the
+state to risk of loss, misreporting, and inadequate insurance coverage
+OPRD is required to track and document all capital assets and certain non-capital assets.2 Our review of
+selected parks found inconsistent and inaccurate asset records, both onsite and in OPRIS. Both DAS Risk
+Management and a prior internal audit made OPRD leadership aware that many capital assets were
+missing replacement values, which limited OPRD’s ability to secure full insurance coverage. In the 2024
+annual Risk Report, OPRD’s assets were listed at more than $1 billion in replacement value, including
+assets that were undervalued.
+Inaccurate or incomplete asset records increase the risk of theft, loss, unrecouped damages, and legal
+liability. They can also create safety risks for staff, visitors, volunteers, and contractors who rely on
+accurate information about the condition and location of assets.
+Many assets are not accurately captured in OPRD’s asset management system or the
+Risk Report that DAS uses to determine insurance coverage
+We reviewed asset records for a sample of parks and found 38% of assets were missing key information in
+OPRIS — specifically, acquisition date and cost. This information is needed to estimate replacement value,
+which helps DAS Risk Management determine the amounts of insurance coverage.
+During site visits, we also saw weak asset management practices. Many assets were missing ID tags, a
+couple of assets were listed as being at other parks, and one asset, a gas-powered backpack blower, was
+marked inactive with a Property Disposition Request on file indicating it had been lost years ago. We also
+found assets in the field like utility trailers, an automated external defibrillator, and iPhones that were not
+listed in OPRIS at all, even though OPRD policy requires they be documented. We compared several
+capital assets between OPRIS and the Risk Report and found other inconsistencies, such as two assets
+that were inactive in OPRIS but listed as active on the Risk Report.
+These types of gaps have already caused financial losses. After being destroyed by a fire, a $50,000 trash
+compactor had to be replaced using OPRD funds because it wasn’t listed in OPRIS or the Risk Report.
+According to DAS Risk Management, some assets that were damaged during the 2020 Labor Day wildfires
+were undervalued. For instance, Collier State Park suffered wildfire damage to a historical logging
+collection, but DAS denied coverage because OPRD did not put the collection in the Risk Report. The
+value of these lost assets is unknown.
+2 A capital asset is defined as property with initial cost or donated value of $5,000 or more.
+Oregon Secretary of State April 2026
+Report 2026-11 page 9
+A $50,000 OPRD trash compactor was destroyed by a fire | Source: OPRD
+These problems are not new. A 2024 OPRD internal audit also found many historic buildings and
+structures lacked proper replacement values. While OPRD and DAS Risk Management are aware of these
+issues, OPRD is behind on the mitigation schedule it provided in response to the findings, citing difficulty in
+valuing historic assets. OPRD management has implemented a multi-year plan to add missing building
+values to the Risk Report.
+Missing or undervalued assets expose OPRD to avoidable and substantial financial risk. Without accurate
+records and replacement values, OPRD may bear the entire cost of damage, destruction, or theft. When
+insurance coverage falls short, OPRD simply cannot replace what is lost — in some cases, permanently
+diminishing the invaluable resources available to future generations.
+When we reviewed Property Disposition Requests from selected parks, we found staff were not
+consistently following OPRD’s procedures for disposing of assets. OPRD requires two signatures, but
+several forms had only one. Staff must complete a Property Disposition Request whenever an asset is
+removed, replaced, transferred, sent to surplus, or discarded, and save it in OPRIS. We also found several
+capital assets in OPRIS missing the required report after they were removed or replaced at a park. Without
+consistent documentation, OPRD cannot verify what happened to state-owned property, increasing the
+risk of errors, loss, or misuse and limiting the reliability of its asset records. These gaps also make it harder
+for OPRD to reconcile park-level disposals with enterprise-wide property disposition requirements.
+Oregon Secretary of State April 2026
+Report 2026-11 page 10
+OPRD must improve policies, training, and oversight to reduce the risk of public harm
+and financial loss
+OPRD has policies, procedures, and a system guide for managing assets, but we found them to be
+outdated or incomplete. Furthermore, at the parks we visited, we observed insufficient oversight and
+enforcement as parks staff were not following the policies and procedures that were in place at the time of
+the audit. This lack of oversight contributes to inconsistent and inaccurate entries in OPRIS.
+In addition to these inconsistencies, the fixed asset accountant must complete a lengthy, manual process
+each year to produce the annual Risk Report. Park staff must verify their assets against a separate
+spreadsheet before the accountant can compile and submit the information required by DAS for insurance
+coverage.
+OPRD personnel explained that customer service pressures and emergent operations interruptions
+contributed to missed inspections and documentation. Effective asset management is an essential part of
+delivering on OPRD’s stewardship responsibilities to Oregonians. When safety inspections and asset
+documentation are incomplete or inaccurate, the resulting risks, particularly to public safety and trust, can
+overshadow the positive work OPRD does.
+To avoid preventable hazards and costly asset repairs or replacements, OPRD needs to ensure asset
+documentation is accurate and aligns with policies and laws. OPRD could achieve this by updating and
+standardizing policies; providing staff with structured, routine training on safety and asset management;
+and conducting continuous oversight and monitoring to ensure compliance.
+Recommendations
+Oregon Secretary of State April 2026
+Report 2026-11 page 11
+To reduce the risks of injuries or deaths, lawsuits, fines, and avoidable financial losses due to lack of
+compliance with building safety inspection requirements, we recommend OPRD:
+1. Finalize and roll out policies and procedures requiring quarterly safety inspections of employee-
+occupied structures, with clearly defined roles and responsibilities for execution and oversight,
+including documentation standards.
+a. Require managers to regularly review asset records for inspection completion and
+documentation, and ensure these responsibilities are included in supervisory performance
+expectations.
+b. Review and update asset records to ensure buildings and other structures where employees
+work are assigned appropriate recurring inspection tasks.
+To strengthen asset management practices, we recommend OPRD:
+2. Ensure compliance with asset management policies and procedures across all parks and program
+areas including:
+a. Asset data integrity and ID tagging, Property Disposition Requests, and the safety inspection
+program.
+3. Update OPRD’s asset management guidance, including clear procedures for currently uncovered
+asset types such as Infrastructure and Transportation.
+a. Include standards for asset entry and updates, documenting acquisitions, Property Disposition
+Requests, reassignment, inspections, and tagging.
+4. Provide recurring training to all relevant personnel on asset management policies, including tagging,
+record-keeping, and disposal procedures, and reinforce expectations through performance
+evaluations or other accountability mechanisms to ensure compliance.
+5. Identify untagged assets and ensure tagging and data entry are completed in accordance with policy,
+and update tag information within the asset management system.
+6. Implement periodic reconciliations between OPRD’s asset management system, Risk Reports, and
+physical asset inspections to ensure records are accurate and up-to-date. The reconciliations should:
+a. Be performed by staff not assigned to the park property under review.
+b. Include spot checks of acquisition documentation, tagging, and location data.
+7. Enforce the existing two-signature policy for Property Disposition Requests through system controls or
+supervisory review and conduct a retrospective review of all asset dispositions for compliance. Follow
+up on all improperly processed requests.
+Recommendations
+Oregon Secretary of State April 2026
+Report 2026-11 page 12
+As OPRD continues its efforts to replace OPRIS with a new asset management system:
+8. Ensure the new system has all required fields necessary for accurate reporting with Department of
+Administrative Service’s annual Risk Report, and ensure key fields require input before an asset can
+be logged.
+a. Choose a system that works on mobile devices, even when there is no internet or cell signal.
+Objective, Scope, and Methodology
+Oregon Secretary of State April 2026
+Report 2026-11 page 13
+OBJECTIVE
+Determine whether OPRD has established and implemented effective processes for managing key asset
+information to support proper asset management, including accurate documentation of asset details such
+as cost or replacement value, important dates, and required safety inspections within OPRIS.
+SCOPE
+This audit assessed the internal control framework of OPRD’s asset management and safety inspection
+practices at three overnight campgrounds (Jessie M. Honeyman Memorial State Park Campground,
+Tumalo State Park, and Memaloose State Park) that offer tent and RV camping, have restrooms, and are
+reservable. We did not test controls at all campgrounds or OPRD properties. The audit period covered
+June 2022 through June 2025.
+METHODOLOGY
+To meet our objective, we performed the following procedures:
+• Interviewed OPRD management including the director, deputy directors, regional managers, and
+park managers. We also interviewed personnel within OPRD’s safety and risk program, OPRD’s
+fixed asset accountant, and park staff at several parks visited by auditors.
+• Interviewed stakeholders at DAS Risk Management and Oregon OSHA.
+• Conducted on-site visits to three randomly selected parks that met established selection criteria.
+Methodology criteria for selection consisted of requiring one park for each of the three OPRD-
+identified regions that fall under a hierarchal organizational structure for operations; as well as
+selecting park locations that have reservable overnight camping for tents and RVs and restroom
+facilities.3
+• Reviewed OPRIS asset management system entries and documentation for a random selection of
+parks.
+• Obtained and reviewed OPRD policies, procedures, guidance, and training materials, as well as
+DAS policies and procedures applicable to our audit objective. Auditors also reviewed the Federal
+OSHA and Oregon OSHA administrative rules and requirements.
+The sample of parks we reviewed was selected based on defined criteria and was not intended to be
+representative of all OPRD sites; therefore, results cannot be projected to the full population. The
+procedures performed were sufficient to identify significant control issues relevant to our audit objective.
+3 OPRD lists 198 parks on its reservation website. The above criteria narrowed the population of parks for our sample selection to 34
+parks.
+Oregon Secretary of State April 2026
+Report 2026-11 page 14
+INTERNAL CONTROL REVIEW
+We determined that the following internal controls were relevant to our audit objective.4
+Control Environment
+o We reviewed OPRD’s governance structure, organizational chart, budget, strategic plans,
+and statewide hierarchal and operational structure.
+o We assessed tone at the top.
+Risk Assessment
+o We interviewed OPRD management, risk and safety managers, fixed asset accountant,
+park managers, and park staff.
+o We also reviewed OPRD’s strategic plan.
+Control activities
+o We evaluated OPRD policies, procedures, guidance, and other resources on asset
+management, and risk and safety.
+o We tested compliance with identified control activities over asset management and safety
+inspections practices.
+Monitoring activities
+o We interviewed various levels of OPRD leadership as well as park staff.
+o We reviewed a selection of park asset management documentation including OSHA
+building inspections.
+Deficiencies with these internal controls were documented in the results section of this report.
+We conducted this performance audit in accordance with generally accepted government auditing
+standards. Those standards require that we plan and perform the audit to obtain sufficient, appropriate
+evidence to provide a reasonable basis for our findings and conclusions based on our audit objectives. We
+believe that the evidence obtained provides a reasonable basis for our findings and conclusions based on
+our audit objectives.
+We sincerely appreciate the courtesy and cooperation extended by officials and employees of OPRD
+during this audit.
+4 Auditors relied on standards for internal controls from the U.S. Government Accountability Office, report GAO-25-107721.
+Oregon Secretary of State April 2026
+Report 2026-11 page 15
+ABOUT THE SECRETARY OF STATE AUDITS DIVISION
+The Oregon Constitution provides that the Secretary of State shall be, by virtue of the office, Auditor of
+Public Accounts. The Audits Division performs this duty. The division reports to the Secretary of State and
+is independent of other agencies within the Executive, Legislative, and Judicial branches of Oregon
+government. The Secretary of State has constitutional authority to audit all state officers, agencies, boards
+and commissions.
+Audit team
+Olivia Recheked, MPA, Audit Manager
+Kyle Rossi, Principal Auditor
+Christina Nichols, Senior Auditor
+March 9, 2026   Page | 2
+Oregon Parks and Recreation Department
+practices. We appreciate the Audit Division’s work and look forward to ongoing collaboration as
+we follow through on these commitments.
+Below is our detailed response to each recommendation in the audit.
+RECOMMENDATION 1
+Finalize and roll out policies and procedures requiring quarterly safety inspections of
+employee-occupied structures, with clearly defined roles and responsibilities for
+execution and oversight, including documentation standards.
+a. Require managers to regularly review asset records for inspection completion and
+documentation, and ensure these responsibilities are included in supervisory
+performance expectations.
+b. Review and update asset records to ensure buildings and other structures where
+employees work are assigned appropriate recurring inspection tasks.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree
+December 2026 Patty Smith, 503-979-6015
+Narrative for Recommendation 1
+OPRD agrees with this recommendation. The agency has already updated its core safety policies
+and procedures and communicated these expectations to staff through policy rollouts and related
+training efforts. These updates clarify roles, responsibilities, and documentation requirements for
+safety practices across the agency.
+Over the coming months, OPRD will continue refining its guidance to ensure quarterly safety
+inspections for employee occupied structures are consistently scheduled, completed, and
+recorded. This includes confirming that supervisory expectations and review responsibilities are
+clearly defined.
+RECOMMENDATION 2
+Ensure compliance with asset management policies and procedures across all parks and
+program areas including:
+a. Asset data integrity and ID tagging, Property Disposition Requests, and the safety
+inspection program.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree  June 2027
+Alan Freudenthal,
+971-446-1944
+Narrative for Recommendation 2
+OPRD supports this recommendation and has strengthened expectations around asset tagging,
+disposition procedures, and data integrity through updated training, staff surveys and staff
+guidance. New training debuted in early 2026. These efforts were designed to reinforce
+March 9, 2026   Page | 3
+Oregon Parks and Recreation Department
+consistent use of the agency’s asset management system and ensure staff understand the
+requirements applicable to their roles.
+OPRD will continue improving compliance by refining training materials, providing periodic
+refresher sessions, and assigning responsibility for verifying data quality at appropriate intervals.
+Recent and future staff surveys and assessments will inform these adjustments to ensure
+agencywide consistency.
+RECOMMENDATION 3
+Update OPRD’s asset management guidance, including clear procedures for currently
+uncovered asset types such as Infrastructure and Transportation.
+a. Include standards for asset entry and updates, documenting acquisitions, Property
+Disposition Requests, reassignment, inspections, and tagging.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree  June 2027
+Alan Freudenthal,
+971-446-1944
+Narrative for Recommendation 3
+OPRD agrees with this recommendation. The agency has already updated guidance for several
+asset categories and delivered supporting training to clarify procedures for entering, updating,
+and documenting acquisitions and disposals. These updates were intended to create more
+consistent standards across parks.
+Additional guidance will be developed for asset types not fully covered in earlier updates,
+including Infrastructure and Transportation categories.
+RECOMMENDATION 4
+Provide recurring training to all relevant personnel on asset management policies,
+including tagging, record-keeping, and disposal procedures, and reinforce expectations
+through performance evaluations or other accountability mechanisms to ensure
+compliance.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree  June 2027
+Alan Freudenthal,
+971-446-1944
+Narrative for Recommendation 4
+OPRD agrees with this recommendation and has initiated training for staff involved in asset
+management activities. These sessions addressed the core requirements of tagging,
+documentation, and disposal procedures, and provided an overview of inventory cycles and
+expectations.
+March 9, 2026   Page | 4
+Oregon Parks and Recreation Department
+To sustain compliance, the agency will establish a regular training schedule and determine how
+best to integrate accountability into supervisory review processes or performance expectations.
+RECOMMENDATION 5
+Identify untagged assets and ensure tagging and data entry are completed in accordance
+with policy, and update tag information within the asset management system.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree  June 2029
+Alan Freudenthal,
+971-446-1944
+Narrative for Recommendation 5
+OPRD agrees with this recommendation. The agency has taken initial steps to strengthen tagging
+and data entry practices and recognizes that comprehensive identification of untagged assets is
+essential to improving data accuracy.
+As part of the broader modernization effort, OPRD is progressing through the required steps to
+replace its aging asset management system. The agency is currently undergoing DAS Enterprise
+Information Services (EIS) Stage Gate process to begin this project. A new system will support
+more consistent tagging, streamline data entry, and allow for improved verification of asset
+information. Until that system is in place, the agency will continue working with staff to identify
+and properly record untagged assets using existing tools and procedures.
+RECOMMENDATION 6
+Implement periodic reconciliations between OPRD’s asset management system, Risk
+Reports, and physical asset inspections to ensure records are accurate and up-to-date. The
+reconciliations should:
+a. Be performed by staff not assigned to the park property under review.
+b. Include spot checks of acquisition documentation, tagging, and location data.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree  June 2027
+Sarah Head,
+503-508-7316
+Narrative for Recommendation 6
+OPRD agrees with this recommendation. The agency will implement periodic reconciliations
+between its asset management system, Risk Reports, and physical inspections to validate the
+accuracy of asset data. This work will include reviewing documentation, verifying tags, and
+confirming the accuracy of location information.
+To support objectivity, reconciliations will be completed by staff not assigned to the park being
+reviewed. Related policy documents will be updated to reflect this expectation and provide
+guidance on how spot checks should be conducted.
+March 9, 2026   Page | 5
+Oregon Parks and Recreation Department
+RECOMMENDATION 7
+Enforce the existing two-signature policy for Property Disposition Requests through
+system controls or supervisory review and conduct a retrospective review of all asset
+dispositions for compliance. Follow up on all improperly processed requests.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree  June 2027
+Sarah Head,
+503-508-7316
+Narrative for Recommendation 7
+OPRD agrees with the recommendation and has reinforced the two-signature requirement for
+Property Disposition Requests through updated guidance and training materials.
+The agency will enhance supervisory review and explore system-based controls to ensure
+consistent compliance with the two-signature policy going forward. While a complete
+retrospective review would require significant resources, OPRD will make reasonable efforts to
+review available past records and address any concerns identified. Our primary focus will be on
+strengthening controls and processes going forward to ensure the policy is applied consistently.
+RECOMMENDATION 8
+Ensure the new system has all required fields necessary for accurate reporting with
+Department of Administrative Service’s annual Risk Report, and ensure key fields
+require input before an asset can be logged.
+a. Choose a system that works on mobile devices, even when there is no internet or
+cell signal.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree  June 2029
+Alan Freudenthal,
+971-446-1944
+Narrative for Recommendation 8
+OPRD agrees with this recommendation and is actively planning for replacement of the agency’s
+aging asset management system. A modern system will enable required fields for accurate
+reporting, support mobile use in field environments with limited or nonexistent connectivity, and
+ensure alignment with DAS Risk Report requirements.
+The existing system, OPRIS, was developed in-house by the agency in the early 2000s and is
+well overdue for replacement due to outdated architecture that is no longer supported. It is unable
+to integrate with new technology necessary for operation today. The agency has begun planning
+work toward a replacement system, and the project is currently proceeding through the DAS
+Enterprise Information Services (EIS) Stage Gate process. This future system should ensure that
+all required reporting fields are incorporated and that critical data fields are required at the point
+of entry.
+March 9, 2026   Page | 6
+Oregon Parks and Recreation Department
+While OPRD is planning for a new asset management system, budget constraints and rising costs
+require careful prioritization and phased implementation. Despite limited resources, OPRD is
+committed to securing a modern solution that meets operational and reporting needs and
+improves asset data accuracy.
+Please contact Jo Niehaus, Senior Policy Advisor, at 503-580-9210 with any questions.
+Sincerely,
+Stefanie Coons
+Interim Director
+Oregon Parks and Recreation Department
+Stefanie Coons (Mar 9, 2026 07:58:30 PDT)
+Stefanie Coons
+Secretary of State Tobias Read
+Audits Director Steve Bergmann
+Oregon Audits Division
+255 Capitol St NE, Suite 180
+Salem OR 97310
+(503) 986-2255
+audits.sos@oregon.gov
+sos.oregon.gov/audits

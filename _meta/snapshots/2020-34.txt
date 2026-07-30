@@ -1,0 +1,1137 @@
+Secretary of State Bev Clarno
+Audits Division Director Kip Memmott
+Department of Administrative Services
+DAS Needs to Provide Oversight to Improve
+Investigations of Workplace Discrimination and
+Harassment at State Agencies
+October 2020
+Report 2020-34
+Department of Administrative Services
+DAS Needs to Provide Oversight to Improve
+Investigations of Workplace Discrimination
+and Harassment at State Agencies
+What We Found
+1. DAS does not provide sufficient oversight of agency workplace
+discrimination and harassment investigations, as it does not track or
+analyze allegation or investigation data. We found agencies are
+inconsistent in how they conduct investigations, with differing timelines,
+procedures, and documentation standards. DAS could use investigation
+data to assess whether allegations are handled appropriately and to
+identify other potential root causes, statewide trends, and risks that
+require proactive mitigation. (pg. 9
+)
+2. Agencies can be slow to begin investigations and take an average of 56
+business days to complete them. Longer investigations can result in
+significant costs to the state. HR personnel conduct most investigations,
+but some agencies use dedicated investigators to increase independence
+and expertise in this area. Dedicated investigators generally took longer
+to complete investigations, but had higher quality files and
+documentation that complies with DAS’s revised policies. (pg. 11)
+3. The state lacks formal training for staff who perform discrimination and
+harassment investigations. There are no requirements investigators
+receive initial or ongoing training specific to investigations and
+investigators do not feel the training they are able to obtain is adequate.
+(pg. 15)
+What We Recommend
+Our report contains six recommendations to DAS intended to enhance
+oversight of workplace discrimination and harassment investigations.
+DAS agreed with all of our recommendations. Their response can be found at
+the end of the report.
+Why This Audit is
+Important
+» The public is increasingly
+aware of and responsive to
+instances of discrimination
+and harassment in the
+workplace.
+» The Oregon Legislature has
+recently changed laws to
+enhance reporting and
+tracking of allegations and
+better protect victims of
+workplace discrimination and
+harassment.
+» The Department of
+Administrative Services (DAS)
+is responsible for the
+statewide human resources
+(HR) system, which includes
+workplace discrimination and
+harassment investigations.
+» Workplace discrimination
+and harassment leaves
+employers liable for lawsuits
+and negative publicity, as well
+as low employee morale and
+self-esteem.
+The Oregon Secretary of State Audits Division is an independent, nonpartisan organization that conducts audits based on
+objective, reliable information to help state government operate more efficiently and effectively. The summary above should be
+considered in connection with a careful review of the full report.
+Oregon Secretary of State | Report 2020-34 | October 2020 | Page 1
+Introduction
+The Oregon Department of Administrative Services (DAS) is the central administrative agency
+that supports state government by coordinating statewide services and administrative policies.
+DAS is comprised of five offices. This audit focuses on the work of the Chief Human Resources
+Office (CHRO).
+The CHRO oversees the statewide personnel system and related policies to help agencies recruit,
+hire, and retain the state’s workforce. The CHRO is also responsible for managing Workday, the
+state’s human resources information system. The objective of this audit was to determine if DAS
+ensures effective management over workplace discrimination and harassment complaints. This
+audit focused only on complaints and investigations pertaining to state government employees.
+DAS Human Resources oversees state agency human resource functions
+Per state law,1 DAS is the administrative arm of the state. It houses multiple functions for state
+government, including general human resource (HR) functions. For the most part, DAS delegates
+HR functional responsibilities to the roughly 400 state agencies, boards, and commissions in
+Oregon, although these delegations have never been formally documented. The CHRO provides
+enterprise-wide policy leadership to maintain a reliable and qualified workforce for the state of
+Oregon.
+The CHRO has a variety of responsibilities for overseeing the state’s HR function, including:
+• Classification & Compensation, which maintains the state’s compensation plan for all
+state employees;
+• Information Management, which develops reports and metrics for workforce decision
+making;
+• Workforce Management & Innovation, which provides training to the state’s workforce;
+• Policy Consultation & Research, which develops statewide policies and provides
+guidance, reviews complaints, and conducts investigations;
+• Labor Relations, which collaborates with the state’s 10 labor organizations; and
+• Enterprise Human Resources, which provides comprehensive HR staff to support DAS
+and agencies in delivering technical assistance to agencies regarding personnel issues.
+1 Oregon Revised Statute (ORS) 240
+Oregon Secretary of State | Report 2020-34 | October 2020 | Page 2
+To fulfill these functions, the CHRO received funding for 76 employees to help serve nearly
+42,000 state government employees, with a 2019-21 biennium budget of just over $29 million.
+DAS has 916 employees and a budget of just over $1.3 billion in the same biennium; the budget
+of the CHRO represents just 2% of DAS’s overall budget. Due to the 2020 COVID-19 pandemic,
+the budgeted dollars for all state agencies’ General Fund monies were reduced by 8.5% for the
+remainder of the biennium, per the Governor’s request.
+Oregon law makes DAS responsible for state personnel
+State law gives DAS responsibility for the state’s personnel system. The law also gives DAS the
+authority to delegate its functions to agencies, including HR management. Many state agencies,
+particularly larger ones, maintain their own HR functions. However, over 20 of the state’s
+smaller agencies, boards, and commissions do not have internal staff to perform HR functions
+and pay assessment fees for six CHRO staff to provide HR support services. Agencies can also
+choose to share HR services with one another; for example, the Oregon Board of Dentistry and
+Oregon Medical Board share the same HR director.
+Some common agency-level HR duties include recruitment and selection of new employees;
+developing position classifications; advising managers and others in the interpretation and
+application of rules, policies, and collective bargaining agreements; coaching managers on
+employee motivational or performance management techniques; designing and presenting
+training sessions on HR-related topics; employee health and safety measures; and investigating
+claims of discrimination or inappropriate workplace behavior.
+DAS also provides investigation services to all state agencies for an hourly standalone fee, should
+an agency not have the resources to conduct the investigation. The services can include
+investigations of discrimination and harassment complaints, though other entities, such as the
+Oregon Department of Justice or private law firms, can conduct these investigations as well.
+Investigation services include research; advice on workplace complaints or performance-related
+concerns; conflict mediation and resolution; management advice, counsel, and coaching; or a
+variety of other solutions as recommended.
+ORS chapter 240 requires DAS to investigate the operation and effectiveness of the chapter and
+related rules periodically and report findings and recommendations to the director of DAS. The
+chapter includes provisions regarding the delegation of authority, communicating DAS’s
+responsibility and right to investigate and conduct periodic reviews to ensure compliance with
+the law.
+Workplace investigations in Oregon government are complex
+Discrimination and harassment are not new to the workplace, although laws against them were
+only established within the last 60 years. The main federal legislation, the Civil Rights Act of
+1964, continues to receive additions to its list of protected classes, even as of the writing of the
+report. On June 15, 2020, the U.S. Supreme Court declared sexual orientation and gender identity
+as protected classes under the Act, a protection Oregon had already allowed within law.
+Workplace discrimination and harassment laws are ever evolving
+Discrimination and harassment have been in the workplace for centuries. The United States has
+a poor history of discriminatory practices. It was not until the 1960s that the first laws were
+enacted to prevent harassment and prejudice in the workplace. Anti-discrimination and
+harassment policies were put in place to help protect both the employee and the employer.
+Oregon Secretary of State | Report 2020-34 | October 2020 | Page 3
+Currently, the federal government has many categories for discrimination and several laws that
+establish protected classes. Most Federal laws governing discrimination protection were
+enacted over fifty years ago, starting with the Equal Pay
+Act of 1963 and followed with the passage of Title VII of
+the Civil Rights Act of 1964, one of the most important
+anti-discrimination laws. In 1965, the United States Equal
+Employment Opportunity Commission (EEOC) was
+established to enforce laws against discrimination of
+protected classes. Oregon law includes the federal
+protected classes, but also goes further in identifying
+additional protected classes.
+Figure 1: Federal and Oregon laws identify protected classes
+Protections Federal law2 Oregon law3
+Race, color, and national origin ● ●
+Sex (includes pregnancy-related conditions; sexual harassment) ● ●
+Religion ● ●
+Age (40 and older) ● ●
+Age (18 and older)  ●
+Equal pay  ● ●
+Physical or mental disability ● ●
+Veterans and/or military status ● ●
+A person using leave covered by the Federal Family and Medical Leave Act  ● ●
+A person using leave covered by the Oregon Family Leave Act  ●
+Genetic information ● ●
+Sexual orientation/gender identity  ●4 ●
+Retaliation5 ● ●
+Whistleblower  ●
+Marital status and family relationships  ●
+Injured worker  ●
+A person associated with someone in a protected class6 ● ●
+Any other protected class as defined by federal law ● ●
+Any other protected class as defined by state law  ●
+Major reform at the federal level began in 1977, when three landmark court cases confirmed a
+woman could sue her employer for harassment under Title VII of the Civil Rights Act of 1964.
+The passage of the Civil Rights Act of 1991 allows plaintiffs the right to a jury trial in federal
+2 Includes the following: Title VII of the Civil Rights Act of 1964, the Equal Pay Act of 1963, the Age Discrimination in Employment Act
+of 1967, The Pregnancy Discrimination Act , Title I of the Americans with Disabilities Act of 1990, Sections 102 and 103 of the Civil
+Rights Acts of 1991, Sections 501 and 505 of the Rehabilitation Act of 1973, Vietnam Era Veterans Readjustment Assistance Act of
+1974, Uniformed Services Employment and Reemployment Right Act of 1994, Family and Medical Leave Act of 1993, and the Genetic
+Information Nondiscrimination Act of 2008.
+3 Oregon follows all the federal discrimination protections and expands on the federal protect list to include many more under
+Chapter 695A.
+4 Prior to the Supreme Court Ruling on June 15, 2020, sexual orientation and gender identity were not protected classes.
+5 Including against a person who opposes unlawful employment practices, files a complaint, or testifies about violations or possible
+violations.
+6 An example of association would be treatment due to a relative’s or spouse’s disability; marriage to someone of a different race; or
+a parent or caregiver of minor children.
+Workplace Discrimination
+Discrimination is when employment
+decisions related to hiring, firing,
+transferring, promoting, demoting,
+benefits, compensation, and other
+terms and conditions of employment
+are based on or because of an
+employee’s protected class status.
+Oregon Secretary of State | Report 2020-34 | October 2020 | Page 4
+court and to collect compensatory and punitive damages
+from their employers. Additionally, a ruling in 1998 made
+employers liable for sexual harassment by their employees,
+even if threats or favors are not carried out. However, if the
+employer can prove they took prompt action to prevent or
+to respond to harassment complaints, they can legally
+defend themselves.
+Workplace harassment is considered a form of employment
+discrimination that violates the Civil Rights Act. The
+harasser can be a direct supervisor, another division
+supervisor, coworker, or non-employee. Sexual harassment
+includes unwelcome sexual advances, request for sexual
+favors, and other verbal or physical harassment of a sexual
+nature directed toward an individual because of gender.
+Many entities investigate workplace discrimination and harassment
+State employees in Oregon have a variety of complaint avenues, including the originating entity
+or agency. In some cases, the agency might have the Oregon Department of Justice or another
+entity, such as DAS or a private law firm, conduct the investigation.
+Many agencies told the audit team they use another entity for investigations. Agencies stated the
+main reason for contracting investigation services are to avoid conflicts of interest, complexity,
+workload, and to minimize agency risk. However, these agencies also said that since workplace
+investigations took priority, these investigations could stall other necessary HR functions.
+Contracted investigations also come at a cost, so an outside entity may be used sparingly.
+State employees can file complaints with their own agency or other agencies:
+• Individual Agency, Board, or Commission: With a couple of exceptions, most
+complaint investigations are administered through the agency’s HR department.
+Additionally, the Legislature passed Senate Bills 479 and 726 in 2019, mandating that
+every Oregon employer shall identify a “Designated Individual” who is responsible for
+receiving complaints at an agency. Complaint reporting can come from the employee, a
+supervisor, another department manager, or other workers.
+• EEOC: This federal office is responsible for enforcing federal laws that make it illegal to
+discriminate against employees. The EEOC has authority to investigate charges of
+discrimination against employers who are covered by the law (employers with at least
+15 employees, or at least 20 in age discrimination cases). The role of the EEOC
+investigators is to fairly and accurately assess the allegations and make findings. If they
+find discrimination, the first course of action is to try to settle the charge; if there is no
+settlement, the EEOC has the authority to file a lawsuit.
+• Bureau of Labor and Industries (BOLI): This state agency investigates all complaints
+statewide, not just those in state government. The agency’s neutral fact finders cover
+four complaint types: employment, housing, public accommodation, and
+vocational/career schools. BOLI fact finders cannot offer legal advice or recommend
+specific attorneys. If the basis for employment-related complaints violates both state and
+federal law, complaints are automatically filed with the EEOC. BOLI will sometimes
+deliver the complaint to the employee’s agency for that agency to perform the
+investigation. In that case, BOLI has strict time guidelines for completion of the
+investigation.
+Workplace Harassment
+Harassment is unwelcome conduct
+based on race, color, religion, sex,
+national origin, age, disability or
+genetic information. Harassment
+becomes unlawful where 1)
+enduring the offensive conduct
+becomes a condition of continued
+employment, or 2) the conduct is
+severe or pervasive enough to
+create a work environment that a
+reasonable person would consider
+intimidating, hostile, or abusive.
+Oregon Secretary of State | Report 2020-34 | October 2020 | Page 5
+• Employee’s Union: State employees who are union members can file complaints with
+their chapter. Union contracts guide the grievance and arbitration procedures that the
+employer must follow for all types of discrimination, including sexual harassment,
+gender identity, or sexual orientation investigations. Many complaints are redirected to
+BOLI, DAS, or the agency for investigation.
+• DAS CHRO: DAS has two dedicated staff within the CHRO for enterprise-wide complaints
+and investigations. During the 2019 legislative session, legislators approved these two
+full-time investigation positions, replacing two policy analyst employees that had been
+performing investigations on top of their other policy duties. Like BOLI, DAS might
+choose to have the agency perform the investigation.
+• Other Avenues: These include the Secretary of State’s Government Fraud, Waste, or
+Abuse Hotline; Office of the Governor; or an agency-provided ombudsman. However, the
+Secretary of State and Governor’s Offices may not formally investigate HR complaints,
+but passes along to the proper agency for investigation.
+Complaints for workplace discrimination and harassment have varied over the years
+Overall, employment discrimination complaints against private employers, as well as state and
+local government employers,7 increased from the fiscal years 1992 to 2016, before dropping
+22% nationwide since then, the EEOC reports. For 27 years, from fiscal years 1992 to 2019,
+complaints totaled over 2.3 million. In fiscal year 2019, there were 72,675 complaints lodged
+with the EEOC. In 2019, the EEOC received over 7,500 sexual harassment charges resulting in
+direct settlements of $68.2 million.
+Figure 2: Oregon discrimination and harassment complaints with the EEOC decreased from 2009 to 2019
+Source: FY 2009 - 2019 EEOC Charge Receipts for Oregon
+Overall, complaints lodged with the EEOC from Oregon employees are relatively low, having
+accounted for only 0.3% (or 191) of all complaints nationally in fiscal year 2019. In fact, Oregon
+complaints to the EEOC have decreased over the past 10 years. Mirroring national trends, in
+7 Figures do not include federal employee complaint data.
+FY
+2009
+FY
+2010
+FY
+2011
+FY
+2012
+FY
+2013
+FY
+2014
+FY
+2015
+FY
+2016
+FY
+2017
+FY
+2018
+FY
+2019
+Oregon Secretary of State | Report 2020-34 | October 2020 | Page 6
+2018 and 2019, Oregon had the lowest number of complaints filed since 2009. The reasons for
+these trends, both federal and state, are not clear.
+Federal law states that employers are liable for harassing behavior by their employees. For a
+non-employee, the employer is liable if the non-employee is within the employer’s control (e.g.,
+an independent contractor or customer on the premises). However, employers can avoid
+liability if they can prove they took reasonable action to prevent and promptly correct the
+harassing behavior and if the employee unreasonably failed to take advantage of any preventive
+or corrective opportunities provided by the employer.
+Figure 3: Oregon discrimination and harassment complaints with the EEOC vary by protected class
+*Title II of the Genetic Information Nondiscrimination Act (GINA) of 2008, which prohibits genetic information discrimination in
+employment, took effect on November 21, 2009.
+Source: Fiscal Years 2009 - 2019 EEOC Charge Receipts for Oregon.
+Not all investigations relate to discrimination and harassment
+Complaint investigations is a process by which an investigator gathers information based on
+allegations and provides a factual basis for management decision making. The investigation
+should reveal whether any policy or law violations occurred and identify actions to stop further
+wrongful actions.
+Common investigations elements include:
+• Recognizing when an investigation is necessary;
+• Selecting an appropriate investigator;
+• Planning the investigation;
+• Collecting necessary documentation;
+• Conducting interviews of witnesses or involved parties; and
+• Creating a report of findings.
+In addition to alleged instances of discrimination and harassment, there are other situations
+where employers are legally mandated to investigate. Some examples are health and safety
+violations for an unsafe workplace, ethical issues, workplace drug use, abuse of worktime, and
+potential fraud allegations.
+Many complaints relate to respectful workplace or physical work environment. Some of these
+can be lack of personal space, concentration issues due to noisy or distracted workspace, and
+interpersonal challenges between co-workers or managers.
+-  200  400  600  800  1,000  1,200
+GINA*
+Equal Pay Act
+Color
+Religion
+National Origin
+Race
+Age
+Sex
+Disability
+Retaliation (All)
+Oregon Secretary of State | Report 2020-34 | October 2020 | Page 7
+Recent social movements draw more attention to workplace discrimination
+and harassment prevention and response
+Workplace discrimination and harassment allegations are gaining widespread public attention
+and can damage the reputation and finances of employers. In the fall of 2017, many women
+called for a change to the alleged pervasive sexual harassment environment within Oregon’s
+Capitol. The Governor issued a statement condemning sexual harassment in October of 2017. In
+response to the increased pressure, the Legislature passed several bills to address the necessary
+changes; however, these changes came only after the state had already paid $1.6 million on a
+single sexual harassment settlement.
+Attention regarding discrimination and harassment has increased substantially
+Agencies have started to pay closer attention to diversity and inclusion within state government.
+Some agencies have departments specifically dedicated to address workforce diversity and
+inclusion such as Office of the Governor’s the Office of Diversity, Equity, and
+Inclusion/Affirmative Action and Department of Education’s Office of Equity, Diversity and
+Inclusion. Ongoing protests, civil unrest, and social justice movements have gained momentum
+in recent years, drawing further attention to issues of racial inequity and discrimination
+throughout existing organizations and systems – including state government. Issues of
+discrimination based on gender and race are further complicated since some individuals might
+identify with more than one social category, such as gender, disability, class, race, or nationality
+to name a few, creating an overlap of possible discrimination areas.
+In 2006, Tarana Burke created the MeToo phrase to provide a slogan for the anti-sexual
+harassment movement. In October of 2017, several individuals in the entertainment industry
+reignited the phrase as a hashtag on Twitter when they shared their stories of surviving sexual
+harassment and assault. Following these allegations, people in many types of workplaces began
+sharing stories.
+In January 2018, more than 300 women created an anti-harassment coalition called Time’s Up, a
+movement of women working for gender equality and opposing sexual harassment. Since then,
+many well-known people have been accused of sexual harassment or assault. Toward the end of
+2018, the U.S. House Ethics Committee pushed for reform to the process for reporting
+misconduct to include additional accountability. As of the release of this report, publications,
+accusations, workplace dismissals, lawsuits, and court judgements continue nationwide.
+Oregon government has also faced substantial harassment allegations in recent years, at great
+cost to taxpayers. In October 2017, about 130 women — lawmakers, lobbyists, and activists —
+signed a letter calling for change in the Oregon State Capitol’s pervasive sexual harassment
+environment. Four women subsequently filed a BOLI complaint. The investigation found
+substantial evidence of sexual harassment in the Capitol. In March 2019, a lawsuit against the
+Oregon State Legislature was settled for $1.32 million, which included more than $277,000 in
+investigation and legal fees for a total cost to taxpayers close to $1.6 million for this single
+complaint.
+Similar lawsuits have also cost other state agencies. Litigation against the Department of
+Corrections for sexual abuse at the Coffee Creek Correctional Facility resulted in over $500,000
+in settlements. Additionally, there are multiple discrimination and harassment lawsuits pending
+against the Department of Corrections which could potentially cost the state $12 million. In
+2016, the Oregon Military Department paid nearly $1 million to a former director for retaliation
+due to a claim of whistleblowing on misspending and sexual harassment.
+Oregon Secretary of State | Report 2020-34 | October 2020 | Page 8
+New Oregon legislation seeks to reduce workplace sexual harassment, discrimination, and
+abuse
+Prompted in part by the harassment allegations, on October 24, 2017, the Governor released a
+statement to address reports of sexual harassment in Oregon. In 2018 and 2019, the Legislature
+passed four anti-harassment bills and one concurrent resolution.
+• Senate Bill 1559 established a pilot program that requires four state agencies (the
+Oregon Health Authority and Departments of Transportation, Human Services, and
+Environmental Quality) to create procedures for anonymous disclosure to protect
+whistleblowing activity. It also requires BOLI to report whistleblowing data and prepare
+a whistleblower’s manual to advise employers and whistleblowers of their rights. The
+retaliation whistleblowers can experience for sharing complaints is a protection under
+the Civil Rights Act of 1964.
+• Senate Bill 479, effective January 1, 2020, requires public employers to adopt policies to
+prevent workplace harassment, including prompt harassment investigation and follow-
+up with reported harassment victims.
+• Senate Bill 726, effective in full by October 1, 2020, establishes Oregon’s Workplace
+Fairness Act to prevent harassment for every employer in the state. It includes written
+policies, procedures, and practices for reduction and prevention of discrimination and a
+process for an employee to report prohibited conduct. It increases the statute of
+limitations on discrimination, sexual harassment, and sexual assault claims from one
+year to five years, and includes other preventive measures.
+• House Bill 3377 and House Concurrent Resolution 20 established an independent,
+nonpartisan office — the Legislative Equity Office — and a legislative Joint Committee on
+Conduct to respond to harassment at the Oregon State Capitol. The legislation also
+requires investigation to be completed within 84 days after complaints are initiated.
+Oregon Secretary of State | Report 2020-34 | October 2020 | Page 9
+Audit Results
+DAS is responsible for creating and supporting the statewide HR system. This system enables
+agencies to attract, hire, and retain employees to carry out the mission of the state. A key
+component of retaining employees is ensuring their safety. Recent state harassment issues and
+actions taken to address these issues, including new statutory requirements, as well as the
+unknown impacts of the COVID-19 pandemic on the state workforce, make it an ideal time and
+opportunity for DAS to enhance its leadership, oversight, and analysis of statewide workplace
+discrimination and harassment trends and risks.
+DAS should provide oversight and direction for state workplace
+discrimination and harassment investigations
+Currently, DAS does not provide systemic oversight and analysis of the state workforce. Specific
+to discrimination and harassment investigations, we interviewed DAS and surveyed other
+agencies and found that while some agencies track investigations, there is no statewide system
+for doing so. DAS included new funding for tracking software in its 2019-21 budget proposal to
+the Governor, but the proposal was not included in the Governor’s requested budget to the
+Legislature. Tracking and analysis of these data would allow DAS to assess whether allegations
+are handled appropriately and to identify other potential root causes, statewide trends, and risks
+that require proactive mitigation.
+As a result of a lack of statewide oversight, based on a review of investigation files at nine
+agencies, we found inconsistencies in investigation duration and quality. We did not attempt to
+determine whether the outcomes of investigations were appropriate; rather, we focused on
+assessing how agencies conduct investigations without centralized oversight. We observed some
+promising practices at agencies that align with DAS’s revised policies and leading practices
+contained in our literature review.
+Though responsible for statewide HR administration by state law, DAS is not monitoring
+and assessing HR investigations or identifying statewide workforce trend and risks
+ORS 240 identifies DAS as the entity responsible for oversight of the statewide HR system.
+However, DAS has largely delegated HR responsibilities to individual agencies and does not
+formally monitor, track, or perform trend assessment of employee investigations.
+DAS management views the agency’s role as one of informal support rather than formal
+oversight and assessment of state agency HR actions. DAS officials believe that, since DAS has
+delegated HR operations to agencies — including investigations — those agencies are solely
+responsible for oversight. From this management perspective, DAS views its role as providing
+training, policies, and investigative support when requested. DAS leadership indicated that they
+have an idea of how investigations are going statewide, however, this is an informal process that
+they do not document. While statute does outline DAS’s role in supporting agencies, the law
+includes language indicating DAS should have a system of oversight that includes periodic
+reviews and reports to the DAS director.
+Four statutes support a greater role for DAS in managing the state workforce. ORS 240.145
+makes DAS responsible for personnel services at the state level. This includes establishing a
+roster of all state employees, developing policies and procedures, and working with agencies to
+develop employee training programs. ORS 240.215 includes language making DAS responsible
+for developing and maintaining job classifications, and ORS 240.235 charges DAS with setting
+salary ranges. Additionally, ORS 240.311 “Delegation of authority and responsibility by division;
+Oregon Secretary of State | Report 2020-34 | October 2020 | Page 10
+post-audit review… Delegations of authority and responsibility to operating agencies shall be
+subject to appropriate post-audit review by the Personnel Division.”8
+ORS 240.311 is admittedly unclear in that it does not define what post-audit means, specify who
+is supposed to conduct the post-audit review, or provide DAS with guidance on what exactly it
+should be doing to comply with the law. However, the existence of the statute indicates that any
+delegation of authority to agencies from DAS is subject to a level of review and, perhaps,
+approval. The statute also indicates a legislative intent to have an independent review/audit of
+agency HR actions and investigations.
+The fact that the Legislature tasked DAS with these responsibilities conveys an expectation that
+DAS will perform them or otherwise ensure these responsibilities are properly fulfilled.
+Regardless of how DAS has managed these in the past, there is now a stronger statewide focus
+and urgency on preventing discrimination and harassment in the workplace. Without oversight,
+there is no accountability. Without guidelines and expectations, there are no standards for DAS
+to use when evaluating the performance of those agencies to which DAS has delegated these
+functions. Since DAS is unclear as to what the statute requires of them, a legal interpretation by
+the Oregon Department of Justice would help ensure DAS provides proper oversight.
+Additionally, at the beginning of our audit, we found DAS could not list all the agencies subject to
+its authority under law. DAS was ultimately able to develop this list at our request, providing the
+list prior to the issuance of this audit.
+DAS does not track investigation information
+One mechanism of oversight is documenting operational information and analyzing it to identify
+areas for improvement. We found that DAS has never documented or analyzed statewide
+workforce information relating to allegations or investigations of discrimination or harassment.
+DAS did anticipate an increase in the need for investigations as a result of legislation passed in
+2019 and recently began an effort to acquire a statewide tracking system. As part of its
+preparation for the agency’s 2021-23 budget request, DAS issued a request for information on a
+tracking system. This request allowed vendors to provide information on potential software
+solutions. DAS viewed a system that allowed investigators to timely, easily, and accurately input,
+assign, track, and report these investigations as essential to successful compliance with the new
+legislation.
+In 2019, the Legislature passed two bills that require
+employers to document instances of workplace discrimination
+and harassment.
+9 In response, DAS updated its statewide
+discrimination and harassment free workplace policy with a
+list of what information agencies should track.10 While these
+changes to law and policy were intended to help protect
+employees by preventing instances of discrimination and
+harassment and provide victims avenues for reporting and
+resolving allegations, there are some flaws with the law and
+with its implementation.
+First, the law does not specify what agencies should do with the information they gather; it
+includes no directive to analyze, share, or use the information to better prevent discrimination
+and harassment in the workplace. Second, neither DAS nor any other state entity is monitoring
+8 The CHRO’s title at the time the statute was written was Personnel Division.
+9 Senate Bill 726 and Senate Bill 479, 2019
+10 DAS Policy 50-010-01: Discrimination and Harassment Free Workplace, 2020
+Senate Bill 479
+The legislation requiring
+agencies to document
+information about investigations
+of discrimination and
+harassment does not specify
+what agencies should do with
+that information to better fight
+discrimination and harassment.
+Oregon Secretary of State | Report 2020-34 | October 2020 | Page 11
+whether agencies are complying with these new requirements or using the data to reduce risks
+of discrimination and harassment.
+We surveyed 48 HR directors and investigative personnel, representing 64 agencies, on a variety
+of topics, including tracking of allegations and investigations. From the 33 directors and
+investigative personnel that responded (69% response rate), we learned many agencies have
+never formally tracked investigation data, while others have software systems in place, or use
+spreadsheets to track investigations. Some of these agencies even track categories like allegation
+types, subject of the allegation, length of investigation, and outcome. Tracking requirements
+have recently changed, and state agencies are now required to document more to comply with
+DAS’s revised policy. Agencies are beginning to capture these data; however, the DAS policy does
+not contain guidance for what agencies should do with the information once documented.
+Though a more robust solution will likely be needed in the future, tracking investigations now
+would not require an expensive or complex information system. By law and DAS policy, agencies
+should be tracking important information regarding allegations and investigations. DAS could
+obtain this information from agencies and analyze it to assess if DAS-provided training and
+policies need revision.
+Furthermore, DAS could use the data to determine if there are problems across the state or
+whether agencies could use additional guidance, support, and accountability. For example, our
+analysis of 86 investigative files revealed that four of the nine agencies we reviewed had
+investigations that took at least 127 business days to complete. DAS could use information like
+this to assess whether allegations receive a prompt response, or if overall investigation lengths
+are appropriate and to identify other potential root causes, statewide trends, and risks that
+require proactive mitigation. DAS’s planned budget request for a statewide workforce data
+system supports a need for greater statewide data and analysis of workforce trends and risks.
+Given the serious issues facing the nation regarding systemic discrimination and harassment, as
+well as the unknown impacts of the COVID-19 pandemic on the state workforce, being able to
+identify potential trouble spots in the state’s HR system would allow DAS to fulfill its legal
+responsibilities, provide targeted support to agencies in real-time, and better protect employees
+of the state and the interests of the state. As a consequence of this lack of oversight, the actual
+investigations themselves at state agencies vary widely.
+Investigation timing and quality varies among agencies
+Investigations into allegations of discrimination or harassment
+should be prompt, thorough, fair, transparent, and
+independent from outside influence. Investigators should also
+have the necessary time to thoroughly and adequately conduct
+investigations. Two of the agencies surveyed have opted to
+employ independent investigators, while a third agency uses
+employees outside of HR to conduct investigations; however,
+most agencies use general HR personnel to conduct investigations. One agency mentioned they
+use independent investigators to increase independence and expertise.
+These differing approaches impact the speed at which agencies conduct investigative processes
+and the quality of investigatory documentation. Investigations performed by independent
+investigators generally took longer than those performed by HR personnel. However,
+independent investigator’s files generally contained higher quality documentation, like
+investigation reports.
+Independent investigators
+DAS, the Oregon Department of
+Corrections, the Oregon Health
+Authority, and the Oregon State
+Police employ independent
+investigators.
+Oregon Secretary of State | Report 2020-34 | October 2020 | Page 12
+Figure 4: Our investigation file review showed the timelines to conduct investigations vary widely
+Response to
+allegations within
+48 hours?
+Investigation
+started within one
+week?
+Do files contain an
+investigation plan?
+Do files contain an
+investigation
+report?
+Investigation
+length?
+Yes 47 (55%) Yes 49 (57%) Yes 16 (19%) Yes 64 (74%) Median
+days 56
+No 18 (21%) No 16 (19%) No 69 (80%) No 21 (24%) Median
+months 2
+Unclear 21 (24%) Unclear 21 (24%) Unclear 1 (1%) Unclear 1 (1%)
+Total Cases Reviewed: 86
+Disparities exist in the timeliness and quality of state agency workplace harassment and
+discrimination investigations
+The EEOC has developed a list of five core principles generally considered effective at preventing
+and addressing workplace harassment.11 One principle is consistent and demonstrated
+accountability. Investigations are an accountability mechanism and part of an effective anti-
+discrimination and harassment system in the workplace. One of the risks associated with a lack
+of oversight is disparity in how allegations are treated and investigated.
+To test how agencies respond to allegations and conduct investigations, we reviewed
+investigation files and found investigation procedures, documentation, and lengths varied
+substantially among the agencies. We also surveyed agencies subject to DAS authority and found
+that, while most agencies have HR personnel conduct investigations, some have opted to employ
+independent investigators to increase independence and develop expertise in conducting these
+investigations. These differing approaches appeared to impact timeliness of investigations.
+While there is no generally accepted timeframe for an employer to respond to discrimination or
+harassment allegations, leading practice suggests investigations should be prompt or immediate,
+without delay. The Society for Human Resource Management states employers are legally
+obligated to investigate allegations in a timely manner and that quick investigations are
+critical.12 Many laws, such as the Americans with Disabilities Act and Age Discrimination in
+Employment Act, state employers are “legally obligated to investigate allegations (harassment,
+discrimination, retaliation, safety, and ethical) in a timely manner.”
+An immediate response is more than a means for an employer to show they take allegations
+seriously; it demonstrates a commitment to employee safety. Unnecessarily conducting an
+investigation over a lengthy period may communicate to employees that allegations of
+misconduct are unimportant. In addition, as time goes by, it becomes more difficult to collect
+evidence and get witnesses to talk and recall details accurately, as details are forgotten,
+documentation disappears, and the bad behavior continues. A responsive investigation will not
+only yield the best information and evidence, but enhances the credibility of both the employer
+and the investigator.
+In response to the Governor’s October 2017 press release speaking out against allegations of
+sexual harassment in the Legislature,
+13 DAS developed an investigations toolkit to provide
+general guidance and considerations to personnel when conducting investigations. Included in
+11 EEOC: Promising Practices for Preventing Harassment, 2017
+12 Society for Human Resource Management, How to Conduct an Investigation, 2018
+13 Office of the Governor, October 24, 2017
+Oregon Secretary of State | Report 2020-34 | October 2020 | Page 13
+the toolkit are steps for investigators to take within the first week of receiving an allegation of
+discrimination or harassment.
+Agencies must also abide by the expectations established in collective bargaining agreements
+between the state and various employee unions. For example, the collective bargaining
+agreement between the state and the Service Employees International Union, which has more
+than 22,000 members in Oregon government, states employees have 30 days to file their
+grievance when they believe a violation of the collective bargaining agreement has occurred. The
+collective bargaining agreement also says employers must respond to this within 30 days.
+Similarly, the legislation supporting the newly created Legislative Equity Office mandates that
+investigations be conducted promptly and shall be completed as soon as is practicable.
+Investigations must be completed within 84 days from the date the allegation is filed.
+There are circumstances that allow for an extension to investigation timeframes. Some entities
+like BOLI, and the EEOC have processes that allow for such extensions. Specifically, BOLI’s
+process requires an accused entity to respond to BOLI’s inquiry within 14 days. During that 14
+days, the accused entity should do its own internal investigation and develop its response to the
+allegation, explaining its actions. Upon request, BOLI’s process allows the accused entity an
+additional 14 days to respond. This process is quick when compared to the timeframes of the
+investigation files we reviewed, but there are no expectations like these currently in place.
+In our file review, we assessed how quickly agencies responded to allegations, if they began an
+investigation within a week, and overall length of investigations from receipt of the allegation to
+when investigators closed a case. The review revealed investigations do not consistently align
+with leading practices, including the areas covered by the DAS toolkit.
+For example, in its investigation toolkit, DAS suggests acknowledging receipt of an allegation
+within 24 to 48 hours, yet only 55% of the files we reviewed included a documented response
+within 48 hours of receipt of an allegation. Our review showed agencies with independent
+investigators responded within 48 hours more frequently than those without.
+The DAS toolkit also states interviews and other fact-
+gathering activities should begin within a week of receiving
+an allegation, yet only 57% of the files we reviewed
+contained evidence, to support that the investigation began
+within a week. Agencies with HR personnel serving as the
+investigators started their investigations within a week
+more often than those with independent investigators, yet they still experience the occasional
+delay. In one case, it took an agency 39 business days to begin the investigation. This agency uses
+HR personnel to conduct investigations and cited workload as the reason for the delay.
+Additionally, 24% of the cases we reviewed did not contain any date showing when the agency
+began its investigation. Delays in acknowledging allegations and initiating investigations adds to
+the overall length of investigations and can negatively impact employees.
+Lengthy investigations can cost millions
+There is no agreed upon best practice that defines how long an investigation should take, as
+there are many factors that can impact the length of investigation. These are sensitive and
+complex situations that require time and care, and often, circumstances outside of the
+investigator’s control add time. Further, the victim, accused, or witnesses may not be
+immediately available for interviews due to being on protected leave. By law, an employer
+14 House Concurrent Resolution 20, 2019.
+Beginning investigations
+Only 57% of the investigations we
+reviewed began within a week of
+receiving the allegation.
+Oregon Secretary of State | Report 2020-34 | October 2020 | Page 14
+cannot interfere with an employee’s protected leave, even if that employee is under
+investigation. In these circumstances, it is often best that investigators wait for an employee to
+return to work. Likewise, an investigator may not be available to begin immediately due to other
+work constraints, or it may take longer than expected to gather evidence such as video
+recordings, emails, witness interviews, or other electronic documents. While there may be valid
+reasons for delays, they should be documented and communicated to those involved to
+demonstrate they were not due to carelessness or lack of priority.
+Benchmarks for investigators to follow, like those in the union contracts and BOLI example,
+along with expectations that investigators record delays and reasons for those delays would not
+only ensure the process is transparent, but also holds investigators accountable if delays could
+have otherwise been avoided.
+Regardless of the potential reasons that may extend their length, investigations that appear to
+take long can negatively impact the accuser who may feel unsafe, unvalued, and unwelcome in
+the workplace; they can impact the accused, as delays may cause uncertainty about their
+employment; and they can impact the state, which may pay large sums of money to employees
+on duty station home.
+For example, depending on the allegation, an accused
+employee may be removed from the workplace while the
+agency investigates the allegations. This work status is
+called duty station home. In some cases, employees are
+placed on unpaid disciplinary leave. We reviewed payroll
+records for these two groups of employees. From July 2011
+to February 2020, we found 51 state agencies that placed
+employees on duty station home and paid these employees $18 million while under
+investigation. We also found 22 agencies that placed employees on unpaid disciplinary leave.
+During the period of our review, we also found:
+• More than 2,000 employees were placed on one of these two groups, some more than
+once;
+• On average, the state paid about $175,000 a month to employees on duty station home
+with the most expensive month being January 2020 around $310,000;
+• The ten agencies we selected for our file review made up 88%, or $16 million, of the duty
+station home totals;
+• One employee was placed on a combination of duty station home and unpaid disciplinary
+leave two separate times, for nearly 45 months and at a cost of more than $166,000;
+• Another employee at the same agency was on duty station home for an average of 31
+months at a cost of more than $133,500; and
+• Another agency had more than 655 employees on a combination of duty station home
+and unpaid disciplinary leave costing the agency more than $6.15 million, an average of
+almost $60,000 a month.
+In the investigations we reviewed, agencies took an average of 56 business days from the date
+they received an allegation to complete an investigation. Agencies with HR investigators had
+shorter investigations, taking 36 business days on average, while agencies with independent
+investigators had longer investigations, taking 76 business days on average. Though the
+independent investigators took longer, our review provided insight into the differences in
+practices between the two approaches.
+Employees under investigation on
+paid leave
+From July 2011 to February 2020,
+the state paid about $18 million in
+duty station home to employees
+under investigation.
+Oregon Secretary of State | Report 2020-34 | October 2020 | Page 15
+There are inconsistencies in how agencies document investigations
+The quality of investigatory work shows in what investigators include in their files. This includes
+investigation plans, reports, interview notes, and other documentation used in reaching a
+conclusion regarding any allegations. The work of investigators can become part of a lawsuit
+should a party take legal action; the quality of investigators’ work should reflect this high
+standard.
+In the files we reviewed, there was a marked difference in what investigators included and the
+level of professionalism these expressed. For example, in some of the files we reviewed, we
+found information from unrelated cases, handwritten documentation, missing dates, and
+missing key documents. We also observed differences between what HR investigators and
+independent investigators documented their files.
+One of the commonly missing documents was an investigation plan. These plans help guide an
+investigator through the investigation, including who they will need to interview and what
+evidence they will need to gather. One of the biggest mistakes an investigator can make is not
+planning before beginning investigative work. In the 86 investigations we reviewed, only 16
+(19%) had a plan. HR investigators’ files accounted for nearly all of these. A lack of planning can
+lead an investigation off track or even cause an investigator to miss key evidence or steps.
+Finally, 26% of the cases we reviewed did not include a complete report on the outcomes of the
+investigation. Further, independent investigators’ files were more likely to include a report.
+Failure to report on the outcome of an investigation and errors in documenting a report
+undermine a process otherwise intended to be fair, objective, and credible. Missteps like these
+can cost employers large sums for back pay, legal damages, and legal fees.
+One legal firm who represents a wide range of employers, including Fortune 500 companies,
+stated that a full, detailed report should summarize the relevant facts based on the information
+obtained from interviews, documents, and other investigatory work, and should include a
+detailed analysis and conclusion section. This section should include credibility determinations,
+should outline the reasons for reaching a decision, and should clearly state the investigator's
+conclusion or finding regarding each allegation.
+The inconsistencies we observed highlight the need for improved oversight to ensure that
+investigators provide timely, fair, and thorough investigations. Shortcomings in these areas
+reveal opportunities to better train investigators for these increasingly common, and complex,
+investigations.
+DAS should develop a statewide training program for personnel assigned to
+investigate discrimination and harassment allegations
+Responsible leadership involves overseeing not only policies, procedures, and corrective actions,
+but the training of one’s employees. Employees must be trained for the duties they are expected
+to perform, and though some agencies in our review have made efforts to provide this training,
+many have not.
+To learn about investigator training, we conducted interviews, and sent a survey to HR directors
+and investigative managers. We learned DAS provides little to no training and there are no
+requirements for investigators to receive periodic and ongoing training, leaving agencies to seek
+training themselves. We also learned over half the agencies who responded to this survey
+question provide their investigators with training on how to conduct these investigations. In all,
+training hours for investigators over the previous two years ranged from zero to more than 80
+hours.
+Oregon Secretary of State | Report 2020-34 | October 2020 | Page 16
+DAS is charged with the responsibility for developing training programs. The agency can do
+more to support investigators and ensure consistency in the investigative process by working
+with agencies to develop proper training programs.
+DAS does not provide a comprehensive HR investigations training program
+As established by ORS 240.145, one of DAS’s duties is to work with agencies to carry out
+employee training programs to improve the quality of service provided by state employees. DAS
+provides mandatory statewide employee training on preventing discrimination and harassment
+in the workplace. All employees are required to complete this training annually. However, DAS
+does not provide introductory and ongoing training for investigators of workplace
+discrimination and harassment.
+In addition, there are no requirements statewide or at the agency level that investigators receive
+periodic or ongoing training. Instead, agencies rely on prior experience, on-the-job training, and
+occasional outside training. Learning on the job is a valid means of training, but workplace
+discrimination and harassment investigations require more specialized knowledge, such as legal
+requirements, investigation planning, confidentiality, interviewing skills, note-taking, and
+report-writing.
+DAS officials told us they asked for funding to develop a training program in their 2019-21
+budget request to the Governor; however, this initiative was not included in the Governor’s
+recommended budget to the Legislature. As DAS could not provide support for this claim, we
+could not independently verify its validity.
+The survey we sent to HR directors and investigative managers provided us their perspective on
+available training, and what they do to ensure investigators are adequately prepared to conduct
+workplace investigations. We learned:
+• DAS provides little or no training in this area;
+• Some investigators receive little to no training;
+• Most training for investigators is provided by DOJ or another outside entity;
+• Investigator estimates of all training received in the previous two years varied from
+unknown to more than 80 hours; and
+• Nearly half of those who responded to this question felt the amount of training
+investigators receive in this area is inadequate, though some were not tracking training
+hours at all.
+The HR directors and HR personnel we surveyed made clear the amount of training they receive
+is not enough and they believe DAS is in position to support their need for training in this critical
+area. As we have highlighted, there are financial and organizational risks associated with
+mishandling of, or delays in, completing these investigations. There are also equity risks when
+some employees’ allegations are investigated differently. Consistent training for all investigators
+can help mitigate some of these risks.
+Emerging workload and a critical public health issue affect investigations
+Increased oversight and guidance for investigations are needed not just for the safety of
+employees and the overall wellbeing of Oregon’s workforce, but because competing priorities
+are constantly a threat to these employees’ time.
+For example, when DAS introduced Workday to the state, it led to a large increase in work for
+HR shops across state agencies. In response, some HR shops have added additional positions,
+Oregon Secretary of State | Report 2020-34 | October 2020 | Page 17
+including the CHRO, to address this additional work. This increased workload creates more
+competition for employees’ time.
+While no qualitative data are yet available to capture the impact of the COVID-19 pandemic on
+the statewide workforce, it has undoubtedly created situations in which HR offices are adjusting
+practices to account for employees working remotely. These employees will still require
+training, feedback, payroll, benefits, and other services to complete their work. All of these could
+impact investigations if there are no formal systems in place to guide these personnel.
+Oregon Secretary of State | Report 2020-34 | October 2020 | Page 18
+Recommendations
+To enhance its ability to oversee state government workplace discrimination and harassment
+investigations, DAS should take the following actions:
+1. Identify and document which agencies, boards, and commissions are subject to DAS
+CHRO oversight, and maintain this list if legislative changes affect those agencies, boards,
+and commissions.
+2. Work with agencies to develop a tracking system for all discrimination and harassment
+allegations and investigations.
+3. Periodically analyze allegation and investigation data to identify risks and root causes
+related to cases alleging discrimination and harassment.
+4. Obtain legal advice from DOJ, seeking interpretation of ORS 240.311, and what DAS
+should be doing to fulfill its legal responsibility when delegating its authority.
+To better support state government employees conducting workplace discrimination and
+harassment investigations, DAS should work with agencies to:
+5. Develop a training curriculum for investigators that includes introductory and regular
+ongoing training.
+6. Develop guidelines for investigation timeframes, including exception processes if
+investigators have legitimate reasons they cannot adhere to these guidelines.
+Oregon Secretary of State | Report 2020-34 | October 2020 | Page 19
+Objective, Scope, and Methodology
+Objective
+Our objective was to determine if DAS ensures effective management over workplace
+discrimination and harassment complaints.
+Scope
+The audit focused on DAS oversight of state government’s discrimination and harassment
+prevention and response practices, specifically: tracking and investigation of complaints,
+training for employees investigating complaints, and employee availability to conduct
+investigations. This audit focused only on complaints and investigations pertaining to state
+government employees.
+Methodology
+To address our audit objectives, we used a methodology that included, but was not limited to:
+conducting interviews, reviewing documentation and investigation files, surveying agency HR
+and investigative employees, and reviewing tort claim and employee pay code data.
+To learn about the views, opinions, and perspectives of major stakeholders, we conducted
+interviews with the DAS CHRO, select agencies, and surveyed 48 HR and investigative staff
+representing 64 agencies. Of these 48 employees, 27 completed the survey, while six partially
+completed the survey. While most of these agencies are subject to DAS oversight as authorized
+by ORS 240, some agencies we surveyed are not.
+To gain an understanding of internal controls for discrimination and harassment prevention and
+response, we reviewed relevant state laws, policies, and guidelines.
+For our examination of investigation practices, we reviewed 86 files and conducted follow-up
+work as needed at nine agencies:
+• DAS (enterprise and agency HR support functions);
+• Department of Corrections;
+• Department of Human Services;
+• Department of Revenue;
+• Oregon Department of Transportation;
+• Oregon Employment Department;
+• Oregon Health Authority;
+• Oregon State Police; and
+• Oregon Youth Authority.
+We selected these agencies by analyzing DAS tort claim data from the period of January 1, 2016,
+through August 8, 2019. We analyzed 279 claims, totaling the claims by agency and selecting the
+top ten agencies with the most claims that are also subject to DAS as authorized by ORS 240. We
+then requested from each agency a list of investigations completed between November 1, 2017,
+and January 7, 2020, in which the original complaint related to allegations of discrimination or
+harassment. From the lists provided by agencies, we randomly selected ten investigation files for
+review. If an agency did not have ten investigations in the timeframe, we reviewed all available
+files. We did not attempt to project our results to the entire population of discrimination and
+harassment investigations.
+Oregon Secretary of State | Report 2020-34 | October 2020 | Page 20
+To gain an understanding of practices in other states, at the federal level, and in the field, we
+reviewed audit reports and literature from: Utah, Colorado, Louisiana, the City of Austin, and the
+City of Seattle, Association of Workplace Investigators, Equal Employment Opportunity
+Commission, and Society for Human Resource Management.
+Internal Control Review
+We determined that the following internal controls were relevant to our audit objective.15
+• Control Environment
+o We considered management’s responsibility for overseeing discrimination and
+harassment complaints and investigations.
+o We considered management’s responsibility to assign responsibility and delegate
+authority to carry out human resource functions including discrimination and
+harassment complaints and investigations.
+o We considered management’s responsibility to demonstrate a commitment to
+recruit, develop and retain competent staff to receive discrimination and
+harassment complaints and conduct any associated investigations.
+• Risk Assessment
+o We considered whether management has defined clear objectives and
+measurable terms to assess the performance around these discrimination and
+harassment complaints and investigations to enable identification of risks and
+response to risks.
+o We considered whether management identifies, analyzes, and responds to
+significant changes that could impact the discrimination and harassment
+complaint and investigative processes.
+• Control Activities
+o We considered whether management has defined objectives for the
+discrimination and harassment complaint and investigative processes and set
+control activities through policies, procedures, techniques, and mechanisms to
+enforce management’s directives to achieve those objectives.
+• Information and Communication
+o We considered whether management uses quality information to achieve its
+discrimination and harassment complaint and investigative objectives.
+o We considered whether management has internally and externally
+communicated the quality information needed to achieve discrimination and
+harassment complaint and investigative objectives.
+• Monitoring Activities
+o We considered whether management is monitoring the system of controls
+around discrimination and harassment complaints and investigations and the
+results of these discrimination and harassment complaints and investigations.
+o We considered whether management evaluates issues and remediates internal
+control deficiencies on a timely basis.
+Deficiencies with these internal controls were documented in the results section of this report.
+We conducted this performance audit in accordance with generally accepted government
+auditing standards. Those standards require that we plan and perform the audit to obtain
+sufficient, appropriate evidence to provide a reasonable basis for our findings and conclusions
+15 Auditors relied on standards for internal controls from the U.S. Government Accountability Office, report GAO-14-704G.
+Oregon Secretary of State | Report 2020-34 | October 2020 | Page 21
+based on our audit objectives. We believe that the evidence obtained provides a reasonable basis
+for our findings and conclusions based on our audit objectives.
+We sincerely appreciate the courtesies and cooperation extended by officials and employees of
+DAS and the other agencies during the course of this audit.
+Audit Delays and Scoping Limitation
+As required by Government Auditing Standards, “Auditors should also report any significant
+constraints imposed on the audit approach by information limitations or scope impairments,
+including denials or excessive delays of access to certain records or individuals.”16 Though the
+fallout of the COVID-19 pandemic has undeniably impacted workplaces in both government, and
+private sectors, the pandemic had minimal effect on one of the following significant constraints
+in our audit.
+During the audit, we experienced an information limitation and delays of access to records in the
+following ways.
+When we notified DAS of our intent to review investigation files, they instructed the agencies we
+selected to not provide information until they could confer with DOJ to determine whether we
+had the authority to review the files. Once DOJ informed DAS we do have authority to review
+these files, we partnered with DAS to develop instructions for agencies.
+DAS’s instructions led to another delay, as agencies believed they were not to provide the
+requested documentation until DAS could hold a meeting to answer agency questions related to
+our request. As a result of this delay, we did not receive the first list of case files until nearly two
+months after informing DAS of our objective, and nearly a month after providing the instructions
+to agencies.
+The scoping limitation occurred once we sampled the files for review. In some instances, we had
+to make several requests with agencies. A few agencies took weeks to respond to our requests.
+DOJ was one agency whose delays prevented us from including their files in our work as the
+delayed timing of our agreed upon review coincided with the Governor’s executive order
+17 to
+implement social distancing in response to the COVID-19 pandemic.
+Despite several requests for electronic copies, DOJ was unwilling to provide electronic access to
+their records, limiting the scope of our review.
+16 United States Government Accountability Office Yellow Book, 2011 Revision, Chapter 7, paragraph 11.
+https://www.gao.gov/assets/590/587281.pdf
+17 Office of the Governor, State of Oregon, Executive Order 20-25 https://www.oregon.gov/gov/admin/Pages/eo_20-25.aspx
+Kate Brown, Governor
+October 8, 2020
+Kip Memmott, Director
+Secretary of State, Audits Division
+255 Capitol St. NE, Suite 500
+Salem, OR 97310
+Dear Mr. Memmott,
+This letter provides a written response to the Audits Division’s final draft audit report titled:
+DAS Need to Provide Oversight to Improve Investigations of Workplace Discrimination and
+Harassment at State Agencies.
+Thank you for providing the Department of Administrative Services (DAS) the audit report. We
+appreciate the work and collaborative approach of the Audits Division staff. The report
+highlighted potential risks in each of the three areas reviewed. We look forward to working on
+our responses to the recommendations to enhance our commitment to improvement.
+Below is our detailed response to each recommendation in the audit.
+RECOMMENDATION 1
+Identify and document which agencies, boards, and commissions are subject to DAS
+CHRO oversight, and maintain this list if legislative changes affect those agencies,
+boards, and commissions.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree
+This was completed during
+the  audit
+Carol Williams
+503-798-2743
+Narrative for Recommendation 1
+We completed creating this list and will continue to revise and update as any changes occur
+that affect agencies, boards, and commissions.
+Department of Administrative Services
+Office of the Chief Operating Officer
+155 Cottage Street NE
+Salem, OR 97301
+PHONE: 503-378-3104
+FAX: 503-373-7643
+`
+October 8, 2020
+RECOMMENDATION 2
+Work with agencies to develop a tracking system for all discrimination and harassment
+allegations and investigations.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree
+Post 2021-23 legislative
+budget approval
+Heath Lawson
+503-949-6355
+Narrative for Recommendation 2
+CHRO currently has a POP to request funding for a tracking system. Depending on the outcome
+of this request will determine the type of tracking CHRO will be able to implement.
+RECOMMENDATION 3
+Periodically analyze allegation and investigation data to identify risks and root causes
+related to cases alleging discrimination and harassment.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree
+This is also contingent upon
+post 2021-23 budget
+approval
+Heath Lawson
+503-949-6355
+Narrative for Recommendation 3
+CHRO Policy and investigation units both currently do monitor for trends that they observe as
+they interact with agency HR offices across the state. To do anymore will depend on financial
+resources and personnel resources available to CHRO. The requested funding for an
+investigation tracking software in the 2021-23 budget would substantially increase the ability of
+CHRO to monitor for these types of trends.
+RECOMMENDATION 4
+Obtain legal advice from DOJ, seeking interpretation of ORS 240.311, and what DAS
+should be doing to fulfill its legal responsibility when delegating its authority.
+`
+October 8, 2020
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree
+April 2021
+Madilyn Zike
+503-378-2065
+Narrative for Recommendation 4
+CHRO will obtain legal advice from DOJ seeking interpretation of ORS 240.311, and what DAS
+should be doing to fulfill its legal responsibility under this statute.
+RECOMMENDATION 5
+Develop a training curriculum for investigators that includes introductory and regular
+ongoing training.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree
+Dependent upon resources
+Madilyn Zike
+503-378-2065
+Narrative for Recommendation 5
+Depending on the availability of resources both budgetary and personnel DAS agrees to work to
+develop curriculum for investigators that includes introductory and regular ongoing training.
+RECOMMENDATION 6
+Develop guidelines for investigation timeframes, including exception processes if
+investigators have legitimate reasons they cannot adhere to these guidelines.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation activities
+Name and phone number
+of specific point of contact
+for implementation
+Agree
+May 2021 Heath Lawson
+503-949-6335
+Narrative for Recommendation 6
+`
+October 8, 2020
+It is the intention of CHRO to publish guidelines for investigation timeframes that are in keeping
+with currently negotiated collective bargaining agreements. The guidelines will also provide for
+exceptions to the generally accepted guidelines for instances when there are legitimate reasons
+it is not possible for the completion of the investigation within the recommended timelines.
+Please contact Lisa Upshaw, DAS Chief Audit Executive at 971-719-3114 with any questions.
+Sincerely,
+Katy Coba
+Chief Operating Office/DAS Director
+cc: Lisa Upshaw
+Madilyn Zike
+Audit Team
+William Garber, CGFM, MPA, Deputy Director
+Jamie Ralls, CFE, ACDA, Audit Manager
+Ian Green, M.Econ, CGAP, CFE, CISA, Audit Manager
+Kyle Rossi, Senior Auditor
+Nicole Barrett, MPA, Staff Auditor
+About the Secretary of State Audits Division
+The Oregon Constitution provides that the Secretary of State shall be, by virtue of the office, Auditor of Public
+Accounts. The Audits Division performs this duty. The division reports to the elected Secretary of State and is
+independent of other agencies within the Executive, Legislative, and Judicial branches of Oregon government.
+The division has constitutional authority to audit all state officers, agencies, boards and commissions as well as
+administer municipal audit law.
+This report is intended to promote the best possible management of public resources.
+Copies may be obtained from:
+Oregon Audits Division
+255 Capitol St NE, Suite 500 | Salem | OR | 97310
+(503) 986-2255
+sos.oregon.gov/audits

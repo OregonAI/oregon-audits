@@ -1,0 +1,244 @@
+Secretary of State Shemia Fagan
+Audits Division Director Kip Memmott
+Applying Agreed-Upon Procedures
+Oregon Health Authority
+Safe Drinking Water Revolving Loan Fund
+For Fiscal Year Ended June 30, 2020
+May 2021
+Report 2021-16
+Oregon Secretary of State | Report 2021-16 | May 2021 | Page 1
+Office of the Secretary of State
+Shemia Fagan
+Secretary of State
+Cheryl Myers
+Deputy Secretary of State
+Audits Division
+Kip R. Memmott, MA, CGAP, CRMA
+Director
+255 Capitol St. NE, Suite 500
+Salem, OR 97310
+(503) 986-2255
+Independent Accountant’s Report
+To the Director and Management of the Oregon Health Authority:
+As required by the U.S. Environmental Protection Agency, the State of Oregon submits financial
+statements for the Safe Drinking Water Revolving Loan Fund. Oregon’s financial statements include
+three agencies: Oregon Business Development Department (OBDD), Oregon Health Authority
+(OHA), and the Department of Environmental Quality (DEQ).
+We performed the procedures enumerated below, which were agreed to by the Oregon Health
+Authority (agency).  No procedures were performed related to OBDD or DEQ information. The
+procedures were solely to provide the agency assurance that the agency’s federal set-aside funds,
+reported as part of the Safe Drinking Water Revolving Loan Fund financial statements for the year
+ended June 30, 2020, were reported in accordance with generally accepted accounting principles.
+Agency management is responsible for preparing the financial statements and any required
+supplementary information, maintaining adequate accounting records, and selecting and applying
+appropriate accounting standards. This agreed-upon procedures engagement was conducted in
+accordance with attestation standards established by the American Institute of Certified Public
+Accountants and generally accepted government auditing standards. The sufficiency of these
+procedures is solely the responsibility of the parties specified in this report. Consequently, we make
+no representation regarding the sufficiency of the procedures described below, either for the
+purpose for which the report has been requested or for any other purpose.
+The objectives of our engagement and the results are discussed below. The procedures performed
+to achieve these objectives are documented in the engagement letter dated March 11, 2021.
+1. We determined whether the balance sheet and operating statement, excluding note
+disclosures, were mathematically accurate and prepared in accordance with generally
+accepted accounting principles (GAAP).
+We found no exceptions as a result of the procedures performed.
+2. We determined whether the statement of cash flows was mathematically accurate, and
+was consistent with the formats currently required by GAAP.
+We found no exceptions as a result of the procedures performed.
+3. We determined whether financial accounts on the balance sheet and operating
+statement were derived from the state’s accounting system and were adequately
+supported in accordance with GAAP.
+We found all account balances agreed to the state’s accounting system and were
+adequately supported. The financial statements, as adjusted by the agency, are in
+accordance with GAAP.
+Oregon Secretary of State | Report 2021-16 | May 2021 | Page 2
+We were not engaged to and did not conduct an examination or review, the objective of which
+would be the expression of an opinion or conclusion, respectively, on the financial statements.
+Accordingly, we do not express such an opinion or conclusion. Had we performed additional
+procedures, other matters might have come to our attention that would have been reported to you.
+The purpose of this report is solely to describe the objectives of our engagement and the results, for
+the use of the agency and the U.S. Environmental Protection Agency. Accordingly, this report is not
+suitable for any other purpose.
+State of Oregon Secretary of State
+May 12, 2021
+Oregon Secretary of State | Report 2021-16 | May 2021 | Page 3
+State of Oregon
+OBDD, OHA, DEQ
+Safe Drinking Water Revolving Loan Fund
+Statement of Net Position
+June 30, 2020
+OBDD OHA1 DEQ TOTAL
+ASSETS
+Current Assets:
+Cash $ 138,952,762 $       (772,757) $        (83,293) $ 138,096,712
+Interest Receivable 1,713,042 - - 1,713,042
+Loans Receivable 10,701,576 - - 10,701,576
+Securities Lending Collateral 2,077,337 - - 2,077,337
+Accounts Receivable - Federal - 1,240,983 - 1,240,983
+Due From Other Funds (61,250) 350 140,333 79,433
+Total Current Assets 153,383,467 468,576 57,040 153,909,083
+Noncurrent Assets:
+Net OPEB Asset 3,567 - - 3,567
+Loans Receivable, Net 146,514,808 - - 146,514,808
+Total Noncurrent Assets 146,518,375 - - 146,518,375
+Total Assets 299,901,842 468,576 57,040 300,427,458
+DEFERRED OUTFLOWS OF RESOURCES
+Related to Pensions 89,595 - - 89,595
+Related to OPEB 909 - - 909
+Total Deferred Outflows of Resources 90,504 - - 90,504
+LIABILITIES
+Current Liabilities:
+Accounts Payable 5,975 53,472 134 59,581
+Securities Lending Collateral 2,077,337 - - 2,077,337
+Payroll Payable - 550 56,184 56,734
+Due to Other Funds 53 414,554 722 415,329
+Vacation Payable 10,472 - - 10,472
+Contracts, Mortgages, and Notes Payable 3,970 - - 3,970
+Total Current Liabilities 2,097,807 468,576 57,040 2,623,423
+Noncurrent Liabilities:
+Vacation Payable 16,535 - - 16,535
+Net OPEB Liability 1,618 - - 1,618
+Total OPEB Liability 7,158 - - 7,158
+Contracts, Mortgages, and Notes Payable 34,253 - - 34,253
+Net Pension Liability 272,834 - - 272,834
+Total Noncurrent Liabilities 332,398 - - 332,398
+Total Liabilities 2,430,205 468,576 57,040 2,955,821
+DEFERRED INFLOWS OF RESOURCES
+Related to Pensions 13,007 - - 13,007
+Related to OPEB 1,954 - - 1,954
+Total Deferred Inflows of Resources 14,961 - - 14,961
+NET POSITION
+Restricted Net Position for OPEB 3,567 - - 3,567
+Unrestricted Net Position 297,543,613 - - 297,543,613
+Total Net Position $ 297,547,180 $                      -
+-
+$                      - $ 297,547,180
+1 Agreed upon procedures performed only on OHA column
+Oregon Secretary of State | Report 2021-16 | May 2021 | Page 4
+State of Oregon
+OBDD, OHA, DEQ
+Safe Drinking Water Revolving Loan Fund
+Statement of Revenues, Expenses, and Changes in Fund Net Position
+For the Fiscal Year Ended June 30, 2020
+OBDD OHA1 DEQ TOTAL
+Operating Revenues
+Grant Income $                      - $   15,144,443 $                      - $   15,144,443
+Interest Income 2,689,884 - - 2,689,884
+Total Operating Revenues 2,689,884 15,144,443 - 17,834,327
+Operating Expenses
+Personal Services 332,026 - - 332,026
+Services and Supplies 17,130 - - 17,130
+Special Payments 7,355,942 - - 7,355,942
+Bad Debt 3,489,000 - - 3,489,000
+Administrative Expenses - 185,590 - 185,590
+Technical Assistance - 352,622 - 352,622
+State Program Management - 1,851,512 - 1,851,512
+Local Assistance/Other State Programs:
+Implementation of Protection - 153,825 - 153,825
+Implementation of Protection--DEQ - - 647,207 647,207
+Water System Capacity Program - 536,837 - 536,837
+Total Operating Expenses 11,194,098 3,080,386 647,207 14,921,691
+Operating Income (Loss) (8,504,214) 12,064,057 (647,207) 2,912,636
+Nonoperating Revenues (Expenses)
+Investment Income (Loss) 2,968,919 - - 2,968,919
+Other Interest Expense (2,974) - - (2,974)
+Other Nonoperating Items (20,760) - - (20,760)
+Other Grants 357 - - 357
+Total Nonoperating Revenues (Expenses) 2,945,542 - - 2,945,542
+Income (Loss) Before Transfers (5,558,672) 12,064,057 (647,207) 5,858,178
+Transfers From Other Funds (State Match) 2,895,600 - - 2,895,600
+Transfers Out – To DEQ - (647,207) - (647,207)
+Transfers Out – To OBDD - (11,416,850) - (11,416,850)
+Transfers Out – Other Fund (11,581) - - (11,581)
+Transfers In – From Public Health 11,416,850 - 647,207 12,064,057
+Change in Net Position 8,742,197 - - 8,742,197
+Net Position – Beginning 288,804,983 - - 288,804,983
+Net Position – Ending $ 297,547,180 $                      - $                      - $ 297,547,180
+1 Agreed upon procedures performed only on OHA column
+Oregon Secretary of State | Report 2021-16 | May 2021 | Page 5
+State of Oregon
+OBDD, OHA, DEQ
+Safe Drinking Water Revolving Loan Fund
+Statement of Cash Flows
+For the Fiscal Year Ended June 30, 2020
+TOTAL1
+Cash Flows From Operating Activities
+Payments to Employees for Services $         (294,064)
+Payments to Suppliers  (4,990)
+Payments to Other Funds for Services (12,545)
+Distributions to Other Governments (277,556)
+Grant Receipts 17,055,801
+Other Payments (3,747,430)
+Net Cash Provided (Used) in Operating Activities 12,719,216
+Cash Flows from Noncapital Financing Activities
+Principal Payments on Loans (3,872)
+Interest Paid on Loans (2,975)
+Transfers from Other Funds 16,717,782
+Transfers to Other Funds (13,895,472)
+Net Cash Provided (Used) in Noncapital Financing Activities 2,815,463
+Cash Flows from Investing  Activities
+Loan Principal Repayments 7,292,374
+Loan Interest Received 2,926,812
+Loans Made (20,286,751)
+Interest on Investments and Cash Balances 2,941,134
+Interest Income from Securities Lending 27,786
+Interest Expense from Securities Lending (20,759)
+Net Cash Provided (Used) in Investing Activities (7,119,404)
+Net Increase (Decrease) in Cash and Cash Equivalents 8,415,275
+Cash and Cash Equivalents-Beginning 129,681,437
+Cash and Cash Equivalents - Ending $    138,096,712
+1 No audit of accuracy of line items was performed
+(continued on next page)
+Oregon Secretary of State | Report 2021-16 | May 2021 | Page 6
+State of Oregon
+OBDD, OHA, DEQ
+Safe Drinking Water Revolving Loan Fund
+Statement of Cash Flows (continued)
+For the Fiscal Year Ended June 30, 2020
+TOTAL1
+Reconciliation of Operating Income to Net Cash Provided (Used) by Operating Activities:
+Operating Income (Loss)   $            2,912,636
+Adjustments to Reconcile Operating Income (Loss) to Net Cash Provided  (Used) by Operating
+Activities
+Interest Receipt Reported as Operating Revenue (2,926,812)
+Bad Debt Expense 3,489,000
+Net Changes in Assets and Liabilities and Deferred Inflows and Outflows of Resources:
+Accounts Receivable – Federal   1,911,358
+Interest Receivable 236,928
+Loans Receivable 7,080,332
+Net OPEB Asset (1,402)
+Deferred Outflows of Resources Related to Pensions 937
+Deferred Outflows of Resources Related to OPEB 1,145
+Net Pension Liability 34,956
+Net OPEB Liability (749)
+Total OPEB Liability (1,826)
+Accounts Payable (30,268)
+Due to Other Funds 53
+Due to Other Governments (4,241)
+Employee Benefits Payable Vacation Payable 16,544
+Deferred Inflows of Resources Related to Pensions (363)
+Deferred Inflows of Resources Related to OPEB 988
+Total Adjustments 9,806,580
+Net Cash Provided (Used) by Operating Activities $          12,719,216
+1 No audit of accuracy of line items was performed
+Audit Team
+Mary Wenger, CPA, Deputy Director
+Kelly Olson, CPA, Audit Manager
+Michael Yamamoto, Senior Auditor
+Aaron Hiddleson, Staff Auditor
+The courtesies and cooperation extended by officials and employees of the Oregon Health Authority during this
+engagement were commendable and sincerely appreciated.
+About the Secretary of State Audits Division
+The Oregon Constitution provides that the Secretary of State shall be, by virtue of the office, Auditor of Public
+Accounts. The Audits Division performs this duty. The division reports to the elected Secretary of State and is
+independent of other agencies within the Executive, Legislative, and Judicial branches of Oregon government.
+The division has constitutional authority to audit all state officers, agencies, boards and commissions as well as
+administer municipal audit law.
+This report is intended to promote the best possible management of public resources.
+Copies may be obtained from:
+Oregon Audits Division
+255 Capitol St NE, Suite 500 | Salem | OR | 97310
+(503) 986-2255
+sos.oregon.gov/audits
+Report

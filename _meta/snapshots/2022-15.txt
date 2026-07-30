@@ -1,0 +1,351 @@
+Oregon Health Insurance Marketplace
+FINANCIAL STATEMENTS
+For the Fiscal Year Ended June 30, 2021
+Department of Consumer and Business Services
+350 Winter St. NE
+Salem, OR 97309
+Page i
+Table of Contents
+FINANCIAL SECTION:  Page
+I. INDEPENDENT AUDITOR’S REPORT 1
+II. BASIC FINANCIAL STATEMENTS:
+a. Balance Sheet 3
+b. Statement of Revenues, Expenditures, and Changes in Fund Balance 4
+c. Notes to the Basic Financial Statements 5
+III. Other Reports:
+a. Report on Internal Control over Financial Reporting and on Compliance 10
+and Other Matters
+Shemia Fagan Secretary of State
+Cheryl Myers Deputy Secretary of State, Tribal Liaison
+Kip Memmott Audits Director
+255 Capitol St. NE Suite 180
+Salem OR 97310
+(503) 986-2255
+sos.oregon.gov/audits
+Independent Auditor’s Report
+The Honorable Kate Brown
+Governor of Oregon
+Andrew Stolfi
+Director, Oregon Department of Consumer and Business Services
+Report on the Financial Statements
+We have audited the accompanying financial statements of the Oregon Health Insurance Marketplace, a
+governmental fund of the State of Oregon, Department of Consumer and Business Services, as of and
+for the year ended June 30, 2021, and the related notes to the financial statements, as listed in the
+table of contents.
+Management’s Responsibility for the Financial Statements
+Management is responsible for the preparation and fair presentation of these financial statements in
+accordance with accounting principles generally accepted in the United States of America; this includes
+the design, implementation, and maintenance of internal control relevant to the preparation and fair
+presentation of financial statements that are free from material misstatement, whether due to fraud or
+error.
+Auditor’s Responsibility
+Our responsibility is to express an opinion on these financial statements based on our audit. We
+conducted our audit in accordance with auditing standards generally accepted in the United States of
+America and the standards applicable to financial audits contained in Government Auditing Standards,
+issued by the Comptroller General of the United States. Those standards require that we plan and
+perform the audit to obtain reasonable assurance about whether the financial statements are free from
+material misstatement.
+An audit involves performing procedures to obtain audit evidence about the amounts and disclosures in
+the financial statements. The procedures selected depend on the auditor's judgment, including the
+assessment of the risks of material misstatement of the financial statements, whether due to fraud or
+error. In making those risk assessments, the auditor considers internal control relevant to the entity's
+preparation and fair presentation of the financial statements in order to design audit procedures that
+are appropriate in the circumstances, but not for the purpose of expressing an opinion on the
+effectiveness of the entity's internal control. Accordingly, we express no such opinion. An audit also
+includes evaluating the appropriateness of accounting policies used and the reasonableness of
+significant accounting estimates made by management, as well as evaluating the overall presentation
+of the financial statements.
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for
+our audit opinion.
+Opinion
+In our opinion, the financial statements referred to above present fairly, in all material respects, the
+respective financial position of the Oregon Health Insurance Marketplace, a governmental fund of the
+State of Oregon, Department of Consumer and Business Services, as of June 30, 2021, and the
+respective changes in financial position thereof for the year then ended in accordance with accounting
+principles generally accepted in the United States of America.
+Emphasis of Matter
+As discussed in Note 1, the financial statements present only the Oregon Health Insurance Marketplace
+a governmental fund of the State of Oregon, Department of Consumer and Business Services, and do
+not purport to, and do not, present fairly the financial position of the State of Oregon or the
+Department of Consumer and Business Services as of June 30, 2021, or the changes in its financial
+position for the year then ended in accordance with accounting principles generally accepted in the
+United States of America. Our opinion is not modified with respect to this matter.
+Other Reporting Required by Government Auditing Standards
+In accordance with Government Auditing Standards, we have also issued our report dated April 28,
+2022, on our consideration of the Department of Consumer and Business Services’ internal control over
+financial reporting and on our tests of its compliance with certain provisions of laws, regulations,
+contracts, and grant agreements and other matters. The purpose of that report is solely to describe
+the scope of our testing of internal control over financial reporting and compliance and the results of
+that testing, and not to provide an opinion on the effectiveness of the Department of Consumer and
+Business Services’ internal control over financial reporting or on compliance. That report is an integral
+part of an audit performed in accordance with Government Auditing Standards in considering the
+Oregon Health Insurance Marketplace’s internal control over financial reporting and compliance.
+State of Oregon
+April 28, 2022
+Balance Sheet
+Governmental Fund
+June 30, 2021
+ASSETS 2021
+Cash and Cash Equivalents $ 5,767,246
+Accounts Receivable 299,688
+Total Assets $ 6,066,934
+LIABILITIES AND FUND BALANCE
+Liabilities:
+Accounts Payable $ 25,150
+Due to Other Funds 100,965
+Other Current Liabilities 166,779
+Total Liabilities 292,894
+Fund Balance:
+Restricted for Health Insurance Marketplace 5,774,040
+Total Fund Balance 5,774,040
+Total Liabilities, and Fund Balance $ 6,066,934
+The notes to the financial statements are an integral part of this statement.
+Statement of Revenues, Expenditures and Changes in Fund Balance
+Governmental Fund
+For the Year Ended June 30, 2021
+Revenues: 2021
+Assessments $ 6,326,278
+Interest and Investments 70,841
+Federal Revenue 31,569
+Total Revenues 6,428,688
+Expenditures:
+Current:
+Salaries and Wages 2,353,076
+Services and Supplies 2,375,843
+Special Payments 656,664
+Total Expenditures 5,385,583
+Excess (Deficiency) of Revenues Over (Under) Expenditures 1,043,105
+Other Financing Sources (Uses):
+Transfer to General Fund (Note 7) (3,800,000)
+Total Other Financing Sources (Uses): (3,800,000)
+Net Change in Fund Balance (2,756,895)
+Fund Balances - Beginning 8,480,199
+Prior Period Adjustment (Note 9) 50,736
+Fund Balances - Adjusted 8,530,935
+Fund Balances - Ending $ 5,774,040
+The notes to the financial statements are an integral part of this statement.
+Notes to the Basic Financial Statements
+For the Year Ended June 30, 2021
+Note 1 – Summary of Significant Accounting Policies
+A – Purpose of Organization
+The Patient Protection and Affordable Care Act (ACA) of 2010 required each state to establish
+a health insurance marketplace, an online marketplace that enables individuals and employers
+to shop, compare plans, and access financial assistance to help pay for insurance coverage.
+States were permitted to implement their own marketplaces (referred to as state- based
+marketplaces or SBMs) , choose to have a hybrid marketplace (referred to as state- based
+marketplaces using the federal platform or SBM-FPs), or states could elect to participate in the
+federal marketplace (referred to as the federally f acilitated marketplace or FFM). Oregon first
+elected to implement a  state-based marketplace to meet the unique needs of Oregonians and
+its insurance market. In late 2014, Oregon transitioned into a SBM-FP.
+In 2011, Senate Bill 99 established the Oregon Health Insurance Exchange Corporation (Cover
+Oregon) as a public corporation to be governed by a board of directors. Upon implementation,
+Cover Oregon was fully dependent on federal grant funding for its operational expenditures
+through Dec. 31, 2014, and partially thereafter.
+In 2015, SB 1 abolished Cov er Oregon and its board of directors, and transferred its duties,
+functions, and powers to the Department of Consumer and Business Services (DCBS),  an
+existing state agency. The SBM -FP, within DCBS  – Oregon Health Insurance Marketplace
+(OHIM) – currently is fully self-funded, using per-member-per-month (PMPM) assessments for
+operations. These financial statements are representative of OHIM  only, a program within
+DCBS.
+SB 1 also established the Health Insurance Exchange Fund , also known as the Marketplace
+Fund. Oregon Revised Statute 741 restricts the use of these funds to the operation of OHIM.
+The Marketplace Fund is a special revenue fund that is used to account for and report the
+proceeds of specific revenue sources that are restricted or committed to expenditure for
+specified purposes other than debt service or capital projects. The activities of this fund are rolled
+up into the Consumer Protect ion special revenue fund for the statewide financial reporting
+purposes.
+B
+– Basis of Accounting
+The accompanying financial statements of the Oregon Health Insurance Marketplace are
+reported using the current financial resources measurement focus and the modified accrual
+basis of accounting. These financial statements have been prepared in conformity with Generally
+Accepted Accounting Principles (GAAP) in the United States of America for governmental funds.
+Revenues are recognized when they are both measurable and available. Revenues are
+considered available when they are collectible within the current year or soon enough thereafter
+to pay liabilities existing at the end of the year. For this purpose, revenues are considered
+available if they are collected within 90 days  of the end of the current fiscal year. Expenditures
+Notes to the Basic Financial Statements
+For the Year Ended June 30, 2021
+generally are recognized when a liability is incurred, as under accrual accounting. Revenues for
+OHIM come from PMPM assessments from insurance carriers that participate in the OHIM
+program.
+Accordingly, revenues are recorded when earned, and expenditures are recorded when a liability
+is incurred, regardless of when cash was received or paid.
+C – Deposits and Investments
+Cash deposits that are held in a cash management or investment pool are classified as cash
+and cash equivalents when the pool has the general characteristics of a demand deposit
+account. Cash and cash equivalents consist of cash and investments held by the office of the
+State Treasurer in the Oregon Short Term Fund (OSTF). Additional information about the OSTF
+can be found in the OSTF financial statements at
+https://www.oregon.gov/treasury/public-financial-services/oregon-short-term-
+funds/pages/default.aspx
+D – Receivables & Payables
+Receivables consist of revenues earned or accrued in the current period and are shown net of
+estimated uncollectable accounts. Payables consist of amounts owed to vendors for operational
+expenditures and other state agencies for services received.
+E
+– Use of Estimates
+OHIM used estimates and assumptions in preparing financial statements in accordance with
+GAAP. The preparation of the financial statements required management to make certain
+estimates and assumptions that affect the reported amounts of assets and liabilities at the date
+of the financial statements, and the reported amounts of revenues and expenditures  during the
+reporting period. As such, actual results could differ from the estimates included in the
+accompanying financial statements.
+F
+– Fund Balance
+The difference between assets and liabilities, plus deferred inflows of resources, is labeled “Fund
+Balance” on the financial statements. The Health Insurance Exchange Fund balance is
+restricted. Restricted fund balances are the result of constraints imposed by the law through
+constitutional provisions or enabling legislation or by parties outside state government, such as
+creditors, grantors, contributions, or laws or regulations of other governments.
+Notes to the Basic Financial Statements
+For the Year Ended June 30, 2021
+Note 2 – Deposits and Investments
+OHIM Participation in the Oregon Short-Term Fund Held at Treasury
+The Oregon State Treasury  maintains the Oregon Short -Term Fund (OSTF), a cash and
+investment pool that is available for use by the Marketplace Fund. Because the pool operates
+as a demand deposit account, the Marketplace Fund  portion of the OSTF is classified on the
+financial statements as cash and cash equivalents.
+Custodial Credit Risk for Deposits
+The custodial credit risk for deposits  is the risk that, in the event of a depository financial
+institution failure, OHIM will not be able to recover deposits that are in the possession of an
+outside party. OHIM  does not hold any deposit s or investments outside of the Oregon State
+Treasury. Deposits held by the Oregon State Treasury are either insured or collateralized under
+the Public Funds Collateralization Program.  For more information, refer to the Oregon State
+Treasury  website at
+https://www.oregon.gov/treasury/public-financial-services/public-
+depository-information/pages/default.aspx. B anking regulations and Oregon law establish the
+insurance and collateral requirements for deposits in the OSTF.
+The OHIM bank balance at the Oregon State Treasury was $4,939,724 as of June 30, 2021.
+Investments
+OHIM has investments only in OSTF held by the Oregon State Treasury.
+Note 3 – Receivables and Payables
+Receivables
+The following table disaggregates receivable balances reported in the financial statements as
+accounts and other receivables at June 30, 2021.
+Receivables
+Governmental Activities T otal
+Insurer assessment receivable $ 290,688         166,046          456,734
+Allowance for doubtful accounts (166,046)        (166,046)
+McGuireWoods Reimbursement 9,000 9,000
+Total Receivable, net $ 299,688         -                  299,688
+Accounts
+Receivable
+Other
+Receivable
+Notes to the Basic Financial Statements
+For the Year Ended June 30, 2021
+Payables
+The following table disaggregates payable balances reported in the financial statements as
+accounts payable and other current liabilities at June 30, 2021.
+Note 4 – Risk Management
+OHIM is subject to the risk of loss from various events, including, but not limited to, natural
+disasters, destruction of assets, errors, omission, and injuries to employees. To mitigate the risk
+of loss from various events, OHIM  participates in and is  covered under the State of Oregon’s
+self-insurance and commercial insurance program as administered by the Dep artment of
+Administration Services  (DAS) Enterprise Goods and Services Division, Risk Management
+Section. As such, OHIM  is responsible to provide updated property, equipment, and fixture
+values to DAS Risk Management.
+Note 5 – Assessment Revenue
+Each year by March 31, the per-member-per-month medical and dental assessment rates need
+to be set for qualified health plans sold through the federal exchange. The rates are set to cover
+OHIM’s planned expenditures for that plan year.  There is a risk to assessment revenues from
+federal or legal actions that may reduce enrollment in qualified health plans.  For calendar year
+2020 and 2021, the rates will remain at $5.50 for medical and 36 cents for dental. For calendar
+year 2022, the rates will remain at $5.50 for medical and 36 cents for dental.
+Note 6 – Insurance Providers Rebate
+Oregon Revised S tatute (ORS) 741.105(3)(b) limits OHIM ’s fund balance to six months of
+expenditures. Anything beyond six months of expenditures will be credited to insurers in a
+manner described in Oregon Administrative R ule (OAR) 945-030-0020. The distribution of the
+credit is based on the billing date and billed amounts during the 2017-19 biennium for firms that
+were offering plans through the end of the biennium. The monthly credit is the total rebate , per
+insurer, divided over 12 months. The 2019- 21 biennium total rebate for insurance providers is
+$4,163,015. Of the total 2019-21 biennium rebate, $2,081,501 was for July through December
+2020. The rebates  have been applied to insurers’ monthly invoices.
+Payables
+Governmental Activities Total
+General Operation $ 7,162              131,622          138,784
+Special Payment 17,988           35,157            53,145
+Total Payable $ 25,150           166,779          191,927
+Accounts
+Payable
+Other Current
+Liabilities
+Notes to the Basic Financial Statements
+For the Year Ended June 30, 2021
+Note 7 – Fund Sweep
+In 2019, the Oregon Legislature passed House Bill 2377. Section 5 of HB 2377 requires OHIM
+to transfer $3,800,000 to the State of Oregon General Fund on May 31, 2021.  This was
+completed by the program as directed in the bill.
+Note 8 – Transfer of OHIM program to the Oregon Health Authority (OHA)
+During the 2021 legislative session, Senate Bill 65 passed. This bill directed the transfer of the
+OHIM program, including its resources and liabilities, to the Oregon Health Authority ( OHA).
+OHIM program staff expenses were transferred to OHA on July 1, 2021. DCBS and OHA entered
+an interagency agreement (IAA) for DCBS to continue administrative services to support OHIM
+during the 2021-2023 biennium to facilitate a smooth transition while ensuring that OHIM is able
+to complete a successful open enrollment season.
+Note 9 – Prior Period Adjustment
+Expenditure adjustments were made as part of the OHIM chargeback in fiscal year 2021. Some
+of the adjustments were for chargeback expenditures related to the prior fiscal year.
+OHIM received Federal Coronavirus Relief Fund  (CRF) reimbursement in fiscal year 2021.
+Some of the reimbursement was for fiscal year 2020 expenditures, and these were considered
+prior period adjustments for fiscal year 2021.
+Chargeback Correction     (9,120)
+CRF Reimbursement     59,856
+50,736
+Shemia Fagan Secretary of State
+Cheryl Myers Deputy Secretary of State, Tribal Liaison
+Kip Memmott Audits Director
+255 Capitol St. NE Suite 180
+Salem OR 97310
+(503) 986-2255
+sos.oregon.gov/audits
+Independent Auditor’s Report on Internal Control Over
+Financial Reporting and on Compliance and Other Matters
+Based on an Audit of Financial Statements Performed in
+Accordance with Government Auditing Standards
+The Honorable Kate Brown, Governor of Oregon
+Andrew Stolfi, Director, Oregon Department of Consumer and Business Services
+We have audited, in accordance with the auditing standards generally accepted in the United States of
+America and the standards applicable to financial audits contained in Government Auditing Standards
+issued by the Comptroller General of the United States, the financial statements of the Oregon Health
+Insurance Marketplace (OHIM), a governmental fund of the State of Oregon, Department of Consumer
+and Business Services (the department), as of and for the year ended June 30, 2021, and the related
+notes to the financial statements, which collectively comprise OHIM’s basic financial statements, and
+have issued our report thereon dated April 28, 2022.
+Internal Control Over Financial Reporting
+In planning and performing our audit of the financial statements, we considered the department’s
+internal control over financial reporting (internal control) related to OHIM as a basis for designing audit
+procedures that are appropriate in the circumstances for the purpose of expressing our opinion on the
+financial statements, but not for the purpose of expressing an opinion on the effectiveness of the
+department’s internal control. Accordingly, we do not express an opinion on the effectiveness of the
+department’s internal control.
+A deficiency in internal control exists when the design or operation of a control does not allow
+management or employees, in the normal course of performing their assigned functions, to prevent, or
+detect and correct, misstatements on a timely basis. A material weakness is a deficiency, or a
+combination of deficiencies, in internal control, such that there is a reasonable possibility that a
+material misstatement of the entity’s financial statements will not be prevented, or detected and
+corrected on a timely basis. A significant deficiency is a deficiency, or a combination of deficiencies, in
+internal control that is less severe than a material weakness, yet important enough to merit attention
+by those charged with governance.
+Our consideration of internal control was for the limited purpose described in the first paragraph of this
+section and was not designed to identify all deficiencies in internal control that might be material
+weaknesses or significant deficiencies. Given these limitations, during our audit we did not identify any
+deficiencies in internal control that we consider to be material weaknesses. However, material
+weaknesses may exist that have not been identified.
+Compliance and Other Matters
+As part of obtaining reasonable assurance about whether the department’s financial statements of the
+OHIM are free from material misstatement, we performed tests of its compliance with certain
+provisions of laws, regulations, contracts, and grant agreements, noncompliance with which could have
+a direct and material effect on the financial statements. However, providing an opinion on compliance
+with those provisions was not an objective of our audit, and accordingly, we do not express such an
+opinion. The results of our tests disclosed no instances of noncompliance or other matters that are
+required to be reported under Government Auditing Standards.
+Purpose of this Report
+The purpose of this report is solely to describe the scope of our testing of internal control and
+compliance and the results of that testing, and not to provide an opinion on the effectiveness of the
+entity’s internal control or on compliance. This report is an integral part of an audit performed in
+accordance with Government Auditing Standards in considering the entity’s internal control and
+compliance. Accordingly, this communication is not suitable for any other purpose.
+State of Oregon
+April 28, 2022

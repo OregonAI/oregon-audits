@@ -1,0 +1,1326 @@
+C Confidential Draft- not for public release
+Department of Revenue
+Without Legislative Action
+the Mortgage Interest
+Deduction Will Remain
+Regressive and
+Inequitable
+March 2022
+Report 2022-11
+C Confidential Draft- not for public release
+Why this audit is important
+The Mortgage Interest Deduction
+(MID) is a regressive tax expenditure
+that is estimated to cost the state
+over $1 billion for the 2021-23
+biennium in forgone revenue. It is the
+largest housing-related tax
+expenditure and seventh largest
+overall.
+The Governor’s message in the 2021-
+23 Tax Expenditure Report calls for
+more review of tax expenditures, like
+the MID, from an equity and racial
+justice perspective.
+Many tax expenditures have largely
+escaped the same level of rigorous
+review typical for direct
+appropriations. Forgone revenue
+from tax expenditures could be used
+to fund other critical state services
+or to lower overall tax rates.
+The Legislature established in
+statute that Oregon’s tax system
+adhere to the basic values of fairness
+and equity and that tax proposals
+should be evaluated based on a set
+of guiding principles including ability
+to pay, efficiency, and even
+distribution.
+What we found
+1. Higher income taxpayers receive most of the benefits from the
+MID. For example, roughly 18,000 taxpayers with incomes in the
+top 1% received more benefit from the MID than the 727,000
+taxpayers in the bottom 40% combined. (pg.12
+)
+2. Average MID benefits and the percentage of taxpayers receiving
+them vary considerably among Oregon counties, with a handful of
+mostly urban counties receiving a disproportionate share. For
+example, in the 2018 tax year taxpayers in Clackamas County
+received an average benefit of $331, while taxpayers in Wheeler
+County received an average of $71. (pg. 14)
+3. Due to significant differences in homeownership rates and income,
+people of color in Oregon receive disproportionately less MID
+benefits than white people, especially for Black or African
+American, Latino, and Native American people. For example, the
+homeownership rate for Black people in Oregon is more than 30%
+lower than for white people. (
+pg. 17)
+4. Promoting homeownership is a commonly cited purpose for the
+MID. (pg. 21) However, we did not find any evidence to support
+this assertion. In Oregon, the primary barriers faced by
+prospective low- to moderate-income homebuyers include high
+home prices, limited funds for down payments, and credit issues,
+none of which are addressed by the MID. (pg. 19)
+5. The MID receives no state-level evaluation, limiting accountability
+for its regressive outcomes. Without this information,
+policymakers, the media, and the public cannot fully participate in
+decisions about how to allocate state resources. (pg. 24)
+Audit Highlights
+Department of Revenue
+Without Legislative Action the Mortgage Interest
+Deduction Will Remain Regressive and Inequitable
+What we recommend
+While our auditee was the Department of Revenue, our two recommendations are directed to the Legislature. The
+Department of Revenue’s response can be found at the end of the report.
+Oregon Secretary of State | Report 2022-11 | March 2022 | page 1
+Introduction
+The home mortgage interest deduction (MID) is a tax expenditure known as an itemized deduction that
+allows some, but not all, homeowners to reduce their taxable income by the amount of interest paid on
+their mortgage. Tax expenditures like the MID represent a substantial investment on the part of the
+state in the form of forgone revenue.
+The Oregon Legislature established a goal in statute that the state’s income tax system be equitable
+and fair and follow guiding principles including ability to pay, even distribution, and efficiency, making it
+critical these significant investments are regularly evaluated to ensure these principles and their
+intended purpose are met.
+The Department of Revenue is charged with administering the MID for the state, but the authority to
+change the policy rests with the Legislature. The objective of this audit was to exam ine the distribution
+and equity of the mortgage interest deduction and determine the current level of review the  deduction
+receives.
+The mortgage interest deduction is an itemized deduction that costs
+the state over $1 billion biennially
+The MID is one of a handful of itemized deductions that Oregon taxpayers can claim on both their state
+and federal income tax returns. It is one of more than 375 tax benefits considered to be a tax
+expenditure in Oregon and is expected to cost the state over $1.1 billion in the 2021-23 biennium.
+Oregon allows taxpayers to deduct mortgage interest due to the state’s connection to the federal
+definition of taxable income, and the state typically follows federal limitations and rules for the MID.
+Oregon taxpayers can claim their mortgage interest as an itemized deduction on both
+their state and federal income tax returns
+It has long been the practice in the United States to encourage specific taxpayer behavior by
+subsidizing certain costs through tax deductions from both federal and state taxes. These deductions
+can be claimed by taxpayers on their federal income tax return and are expenditures that can be
+subtracted from adjusted gross income to reduce their tax bill.
+There are two types of deductions a taxpayer can claim:
+the standard deduction and itemized deductions. Thirty
+states and the District of Columbia allow taxpayers to
+claim numerous types of itemized deductions. Apart from
+the exemption for Oregon income tax and other states’
+sales tax, Oregon allows the same itemized deductions as
+the federal government. Examples of itemized deductions
+available in Oregon include a deduction for property taxes paid, charitable gifts, medical and dental
+expenses, and home mortgage interest. However, not all taxpayers benefit from itemizing their
+deductions.
+While itemized deduction amounts vary, the standard deduction is a one-size-fits-all reduction in the
+amount of an individual’s taxable income. For it to be advantageous for a taxpayer to claim itemized
+The mortgage interest deduction is one of
+more than 375 tax benefits considered to
+be a tax expenditure in Oregon and is
+expected to cost the state over $1.1 billion
+in the 2021-23 biennium.
+Oregon Secretary of State | Report 2022-11 | March 2022 | page 2
+deductions like property taxes, charitable gifts, or mortgage interest, their total deductible expenses
+must exceed the standard deduction for their filing status. Figure 1 shows how personal income tax is
+calculated in Oregon.
+Figure 1: There are multiple steps to calculating personal income tax in Oregon
+The MID is one of the costliest income tax expenditures in Oregon
+The MID is one of hundreds of tax benefits defined as a “tax expenditure” by Oregon statute. Tax
+expenditures can be viewed as government spending administered through the tax code because they
+grant special tax preferences to incentivize specific activities. They are a significant financial
+commitment and source of state spending.
+In the 2019-21 biennium, forgone revenue from tax expenditures reduced tax collections by an
+estimated $24.5 billion.1 While there are 377 individual tax expenditures currently specified in Oregon
+and federal law, there are several extremely large income tax expenditures influencing that total.
+1 State of Oregon 2021-23 Tax Expenditure Report, “The revenue impact is generally estimated as the amount of tax not
+collected due to the tax expenditure, but the dollar impact is not the amount of revenue that could be gained by repealing the
+tax expenditure.” As a result, this total is only a rough estimate of the magnitude of all tax expenditures.
+Federal Adjusted
+Gross Income (AGI) Additions
+Oregon
+subtractions and
+either the
+standard
+deduction or
+itemized
+deductions
+Oregon
+taxable
+income
+Oregon
+tax rates
+Total
+tax Credits Tax
+liability
+2021 Standard Deduction
+Limits
+A flat-dollar reduction in
+your AGI.
+Single or Married Filing
+Separately: $2,350
+Head of Household: $3,780
+Married Filing Jointly or
+Qualifying Widow(er):
+$4,700
+Itemized Deductions
+Medical and dental
+expenses
+Property taxes
+Charitable contributions
+Interest paid on
+mortgage
+2021 tax rates for single
+taxpayers living and
+working in Oregon
+First $3,650 of taxable
+income: 4.75%
+Between $3,651 and
+$9,050 of taxable income:
+6.75%
+Between $9,201 and
+$125,000 of taxable
+income: 8.75%
+Over $125,000 of taxable
+income: 9.9%
+Credits (for example)
+Earned Income Tax,
+Working Family
+Households and
+Dependent Care,
+Personal Exemption,
+Rural Health
+Practitioners, Political
+Contributions,
+Retirement Income,
+Oregon Cultural Trust
+Contributions, Income
+Tax Paid to Other State
+2021 tax rates for
+married taxpayers living
+and working in Oregon
+First $7,300 of taxable
+income: 4.75%
+Between $7,301 and
+$18,400 of taxable income:
+6.75%
+Between $18,401 and
+$250,000 of taxable
+income: 8.75%
+Over $250,000 of taxable
+income: 9.9%
+A “Tax Expenditure” is...
+“[…] any law of the federal government or this state that exempts, in whole or in part, certain persons, income,
+goods, services or property from the impact of established taxes, including but not limited to tax deductions,
+tax exclusions, tax subtractions, tax exemptions, tax deferrals, preferential tax rates and tax credits.”
+ORS 291.201
+Oregon Secretary of State | Report 2022-11 | March 2022 | page 3
+Because tax expenditures like the MID are written into the tax code, they often will continue
+indefinitely — regardless of how costly or effective they are for the state.
+Tax expenditures in Oregon come in a variety of forms, including: exclusions, deductions, subtractions,
+and credits. Figure 2 describes each of these types of common income tax expenditures and provides
+an example.
+Figure 2: Examples of four common types of income tax expenditures
+In Oregon, the deduction for home mortgage interest for the 2021-23 biennium will be the largest
+housing related tax expenditure, the fourth largest personal income tax expenditure, and the seventh
+largest tax expenditure overall. As shown in Figure 3, the revenue impact estimate for the MID for the
+2021-23 biennia is $1.1 billion. In 2018, the most recent tax year with available data, the MID reduced
+state personal income tax revenue by $440 million, nearly 5% of the total personal income tax liability
+for the year. Funds forgone from the MID could be used to fund other state programs or b e used to
+reduce overall income tax rates.
+Credit
+Reduces tax liability dollar-for-dollar. Some
+credits are refundable, meaning a credit in
+excess of tax liability results in a cash refund.
+Example: Earned Income Tax Credit is a
+refundable federal tax credit for low- to
+moderate-income working individuals and
+families.
+Deduction
+Reduces the amount of taxable income for
+certain types of expenses by the greater of
+the standard deduction or itemized
+deductions.
+Examples: Deduction for property taxes paid
+and deduction for interest paid on a home
+mortgage.
+Subtraction
+Represents income taxed by the federal
+government but not taxed by Oregon.
+Example: Social Security income is exempt
+from the Oregon personal income tax.
+Exclusion
+Excludes income that would otherwise be
+counted towards a taxpayer’s income.
+Example: Employees generally pay no income
+tax on contributions employers make on their
+behalf for medical insurance premiums.
+Oregon Secretary of State | Report 2022-11 | March 2022 | page 4
+Figure 3: The MID’s biennial revenue impact has been around $1 billion since 2013
+Source: State of Oregon Tax Expenditure Reports 2013 – 2023.
+Note: For all but 2021-23, we used the revised revenue impacts from the following biennium.
+Taxpayers can claim the MID on their federal tax returns and it is a substantial tax expenditure at the
+federal level. The Congressional Research Service estimated the deduction for mortgage interest
+amounted to $25.5 billion in forgone federal revenue in fiscal year 2020.
+Oregon’s income tax system typically conforms to federal tax law
+Oregon’s income tax code closely parallels the federal personal income tax code.  This means changes in
+federal deductions like the MID often directly affect Oregon taxpayers’ taxable income and tax liability.
+Since 1969, Oregon’s definition of taxable income has been based on the federal definition of taxable
+income, as defined by the Internal Revenue Service (IRS). Since 1997, the Oregon Legislature opted to
+automatically connect to the federal tax code for all future changes in taxable income. Automatic
+connection or “rolling reconnect” means specific legislation is required to disconnect from Federal tax
+law. Even with this automatic connection, Oregon’s Legislature must annually consider updating the
+federal connection as it relates to items other than taxable income.
+The state has maintained this conformity to federal tax law due to concerns about keeping
+administrative costs low and minimizing complexity for taxpayers, among other reasons. However, the
+Legislature has chosen to disconnect from some specific tax policies over the years. For example, in
+1975 the Legislature decided to disconnect from increases made to the federal standard deduction by
+establishing Oregon’s own standard deduction and personal exemption policies separate from federal
+policies.
+In Oregon, taxpayers can compare their potential state standard deduction to their potential state
+itemized deduction and claim whichever provides a lower tax bill 2. For example, if a taxpayer claimed
+the standard deduction on their federal return, they could itemize their deductions on the Oregon
+return, and vice versa.
+2 The standard deduction for a taxpayer whose filing status is married, filing separately is $0 if their spouse chooses to itemize
+deductions.
+$0
+$200,000,000
+$400,000,000
+$600,000,000
+$800,000,000
+$1,000,000,000
+$1,200,000,000
+$1,400,000,000
+$1,600,000,000
+2013-2015 2015-2017 2017-2019 2019-2021 2021-2023
+Oregon Secretary of State | Report 2022-11 | March 2022 | page 5
+As shown in Figure 4, Oregon’s standard deduction is substantially lower than the federal standard
+deduction.3 The 2021 federal standard deduction amount for a taxpayer who is married filing separately
+is over five times larger than Oregon’s standard deduction amount. This is partially due to the Federal
+2017 Tax Cuts and Jobs Act (TCJA), which nearly doubled the federal standard deduction. After the
+2017 TCJA changes went into effect, the number of taxpayers itemizing at the federal level decreased
+significantly, and many Oregon taxpayers now use itemized deductions to calculate Oregon tax but not
+federal tax.
+Figure 4: The federal standard deduction is more than five times higher than Oregon’s standard deduction
+Single or Married Filing
+Separately
+Married Filing Jointly or
+Qualifying Window(er) Head of Household
+Federal $12,550 $25,100 $18,800
+Oregon $2,350 $4,700 $3,780
+Source: Oregon Department of Revenue Form OR-W-4; IRS Form W-4
+Oregon still adheres to the federal limits and definitions for the MID. In addition to doubling the
+standard deduction at the federal level, the TCJA reduced the maximum mortgage amount that
+qualifies from $1 million to $750,000.4 It also limited the deductibility of home equity debt related to
+purchasing, building, or substantially improving a qualified home. Under prior law, a homeowner could
+also deduct interest on the first $100,000 of home equity-related debt regardless of how it was used.
+For example, a taxpayer could have used the proceeds from a home equity loan to purchase a boat and
+still qualify for the deduction. Without action by Congress, these changes to the mortgage interest
+deduction and standard deduction will revert to pre-TCJA law after 2025.
+Taxpayers may claim the MID for both a primary and secondary qualified residence, although the total
+limits apply to the total that can be claimed and not individual residences. The IRS defines a “qualified
+residence” as a house, condominium, cooperative, mobile home, house trailer, boat, or similar property
+that has sleeping, cooking, and toilet facilities.
+DOR is charged with administering Oregon’s income tax system and
+plays a key role in reporting on tax expenditures
+By statute, the Department of Revenue (DOR) is responsible for administering the revenue and tax laws
+of Oregon, with some exceptions. The agency is responsible for administering 36 different tax
+programs, including personal income and corporate excise taxes, the corporate activities tax, state
+marijuana tax, as well as a variety of other taxes. The agency also administers 10 fee programs and 11
+other revenue related programs. DOR is also responsible for providing oversight of local property tax
+administration by counties, valuing most industrial and other large-scale properties, and administering
+several property tax relief programs. DOR also provides debt collection services for more than 180
+state agencies and local governments. DOR’s total 2019-21 budget was $339.1 million with 983 full-time
+equivalent staff.
+3 Standard deduction amounts can change between tax years, with Oregon’s standard deduction amounts tied to inflation.
+4 These limits are lower for taxpayers who file as Single, or Married Filing Separately. Prior to TCJA, taxpayers who filed as Single
+or Married Filing Separate could only claim interest on the first $500,000 of mortgage debt. This amount was reduced to
+$375,000 by the TCJA.
+Oregon Secretary of State | Report 2022-11 | March 2022 | page 6
+DOR’s Research Section is part of the Administrative Services Division and provides statistical tax data
+and reports for use by the public and other partners. The Research Section also plays a key role in the
+development of the biennial tax expenditure report. In 2018, the Legislature added two economists
+dedicated to supporting the internal efforts of the agency. For the 2019-21 biennium, the Research
+Section had a budget of $2.8 million with 10 full-time equivalent employees.
+DOR’s Personal Tax and Compliance Division administers the personal income tax program.
+Responsibilities include auditing and encouraging voluntary compliance for the personal income tax. In
+addition, the division provides help to taxpayers by telephone through the Tax Services Unit , in person
+at field office locations, and through informational publications. For the 2019-21 biennium, the Personal
+Tax and Compliance Division’s budget was $81.5 million with 391 full-time equivalent employees.
+DOR plays a key role in reporting on tax expenditures through the biennial tax
+expenditure report
+Since 1996, the tax expenditure report has been one of the primary sources identifying and reviewing
+existing tax expenditures in Oregon. The 1995 Budget Accountability Act declares the necessity of “a
+review of the fairness and efficiency of all tax deductions […] It is in the best interest of this state to
+have prepared a biennial report of tax expenditures that will allow the public and policymakers to
+identify and analyze tax expenditures and to periodically make criteria-based decisions on whether
+expenditures should be continued.” In the most recent 2021-23 Tax Expenditure Report, the Governor
+explains the report should be used by the public and policymakers “to see how individual tax policies
+are working, and, importantly, who pays or benefits from those tax policies.”
+DOR is the primary coordinator for the development and release of the tax expen diture report, with
+input from the Governor’s Office, Legislative Revenue Office, and the Department of Administrative
+Services. DOR relies on subject matter experts in the applicable state agencies to provide evaluations
+on whether the tax expenditures achieve their purpose within the report. DOR also relies on
+information from the federal Joint Committee on Taxation and the Congressional Research Service to
+evaluate expenditures resulting from Oregon’s connection with the federal definition of taxable income.
+The Governor and Legislature set Oregon’s income tax policy
+Both the Governor and the Legislature play key roles in establishing income tax policies in Oregon.
+There have been attempts made by both the Legislature and the Governor to make changes to the
+MID, but none have been successful to date.
+Oregon’s Constitution requires a balanced budget be passed every biennium, making the budget
+process a key factor in determining the tax policy of the state. Each biennium, the Governor presents
+the Governor’s Recommended Budget to the Legislature as a starting point for budget negotiations
+during the legislative session. This budget includes proposed spending for each executive branch
+agency as well as any tax policy changes necessary to ensure expenses do not exceed revenues. The
+Governor’s message at beginning of 2021-23 Tax Expenditure Report
+“Our tax code says as much about our values as the budget for which it pays. That’s why this 2021-23 Tax
+Expenditure report is such an important tool. Using it, the public and policymakers can see how individual tax
+policies are working, and, importantly, who pays or benefits from those tax policies.”
+Oregon Secretary of State | Report 2022-11 | March 2022 | page 7
+Legislature reviews and revises the Governor’s Recommended Budget and passes tax laws, as
+necessary, to provide revenue. The Governor can veto laws, including those chang ing tax policy,
+preventing them from taking effect.
+There has been some interest within the Legislature to make changes to the MID since the 2017
+legislative session, but none have been successful. In 2017, House Bill 2006 sought to limit the MID by
+restricting eligibility to individuals with incomes of $100,000 or less ($200,000 if married filing jointly).
+It also put a cap on the amount of interest eligible for the deduction at $15,000 and restricted its use
+to primary residences.
+House Bill 3349 in 2019 would have scaled back deduction limits for taxpayers with incomes greater
+than $200,000, eliminating the deduction at incomes of $250,000 and above while also limiting the MID
+to primary residences.
+In 2021, House Bill 2578 and Senate Bill 852 proposed changes to the MID similar to those considered in
+2019. Each of these bills proposed using the revenue created from limiting the MID to fund other
+housing-related programs, with an emphasis on promoting affordable homeownership and preventing
+homelessness. Senate Bill 852 was estimated to generate more than $180 million in revenue in the
+2023-25 biennium.
+The Governor also called for a change to the MID in her 2021-23 recommended budget. She
+recommended removing the eligibility of second homes and estimated this change would generate $21
+million for the 2021-23 biennium. This change was not approved by the Legislature.
+Attaining homeownership in Oregon is a challenge, and people of
+color disproportionately experience barriers
+With the ninth lowest homeownership rate in the country and a chronic housing shortage, attaining
+homeownership in Oregon is a challenge. Additionally, racially discriminatory lending practices both
+explicit and implicit and economic trends in wealth building have made attaining homeownership even
+more difficult for people of color living in Oregon.
+Oregon ranks low in homeownership rate nationally and is predicted to face additional
+housing challenges
+Oregon has a statewide housing shortage. The Oregon Housing and Community Services (OHCS)
+agency’s 2021 Regional Housing Needs Analysis5 estimated over the next 20 years, an additional
+584,000 new homes are needed to meet housing demand, with nearly one quarter of these homes
+necessary to accommodate the state’s current population.6 To meet this need, Oregon developers
+would need to increase current production of housing two-fold. Affordable housing units in Oregon are
+in particularly short supply. OHCS reports “failing to make progress on underproduction will lead to
+worsening trends of rising prices and cost burdening that will most affect those at the lowest end of
+the income spectrum.”
+5 Building on New Ground: Meeting Oregon’s Housing Need, A Companion Document to the Regional Housing Needs Technical
+Report, February 2021
+6 The statute requiring this analysis requires estimates include attached and detached single-family housing, multifamily housing,
+manufactured dwellings, and mobile homes.
+Oregon Secretary of State | Report 2022-11 | March 2022 | page 8
+According to the U.S Census, at the end of 2020 the State of Oregon had a homeownership rate of
+64% — the ninth lowest rate in the country. The national average homeownership rate at the end of
+2020 was 67%. Oregon’s homeownership rate has consistently ranked in the bottom third  of states
+over the last five years. OHCS’ 2019-23 Statewide Housing Plan7 identifies expanding homeownership
+for low- and moderate-income people as a priority.
+Rental housing units affordable to low-income households are in short supply in Oregon, and rental
+costs have continued to rise, outpacing incomes. According to the 2021-23 Statewide Housing Plan,
+there is a shortage of 85,000 units affordable to households with income below 30% Median Family
+Income,8 and 27% of Oregon renter households have “severe housing cost burden.” Severe housing
+cost burden means these families are spending more than half of their income on housing and utilities.
+This burden falls disproportionately on people of color, with more than 50% of African American, Native
+American, Alaska Native, and Pacific Islander households identifying as severely housing cost burdened,
+compared to 34% for white households.
+Oregon is also faced with a growing unhoused population. Higher homelessness rates can indicate
+difficulty finding affordable housing as well as decreased access to the resources needed to stay
+housed. According to the U.S Department of Housing and Urban Development’s Point-In-Time count, in
+Oregon approximately 15,800 people experienced homelessness in 2019, an increase of 19% since
+2015.9 At the time of that 2019 count, only 25% of people experiencing homelessness were
+concentrated in the Portland Metro area and most of Oregon’s homeless families lived in coastal
+counties and southern Oregon. In the OHCS 2021 Analysis of Impediments report, stakeholders
+indicated that in addition to increasing the stock of affordable housing, increasing emergency shelter
+beds, mental health resources, permanently supportive housing units, and emergency rent assistance
+have the greatest potential to help people experiencing homelessness or who are at risk of
+homelessness.
+History of discriminatory policies like red lining and racial deed covenants have shaped
+current racial inequities in homeownership
+The wealth building benefits of homeownership have not been equally available to all people living in
+Oregon. People of color disproportionately experience barriers to attaining homeownership. Past
+discriminatory homeownership practices including redlining, racial deed covenants, and economic
+trends in wealth building have shaped current inequities in homeownership.
+7 Breaking New Ground: Oregon’s Statewide Housing Plan, 2019-23
+8 Median Family Income is a standard measure of annual income that varies by geography and family size. In rough terms, Median
+Family Income represents the midpoint income for families in a particular geography.
+9 OHCS: “The numbers obtained during the Point-in-Time Count do not provide a full picture of everyone experiencing
+homelessness in Oregon. This number should be understood as an absolute minimum number of people experiencing
+homelessness in Oregon.”
+Severe housing cost burden falls disproportionately on people of color, with more than 50% of African
+American, Native American, Alaska Native, and Pacific Islander households identifying as severely housing cost
+burdened, compared to 34% for white households.
+Oregon Secretary of State | Report 2022-11 | March 2022 | page 9
+The Oregon Constitution of 1857 included racial provisions against Black and Asian Americans. When
+Oregon was founded in 1859 and became the 33rd state in the union, it also became the only state in
+the union to forbid Black Americans from working, living, or owning property within its borders. R acially
+restrictive covenants were added to property deeds to prevent property owners from selling, leasing,
+or renting their property to non-white people. While these laws were eventually repealed in later years,
+it was not until 2002 when the discriminatory language was removed from the Oregon Constitution by
+voters.
+Between 1935 and 1940, the Home Owners’ Loan Corporation, a federal agency, created “Residential
+Security” maps of major American cities. These maps were used by loan officers as part of a systematic
+appraisal process that included neighborhood-level characteristics for evaluation of mortgage lending
+risk. The racial makeup of neighborhoods were explicit factors that were often decisive in assigning risk
+levels for specific neighborhoods. The neighborhoods that received the lowest ma rks were shaded in
+red on these maps, leading to the term “redlining.” The Federal Housing Authority (FHA) would then
+discourage banks from granting mortgage loans to properties located in these redlined neighborhoods.
+The use of the Home Owners’ Loan
+Corporation “Residential Security” maps
+and other discriminatory mortgage loan
+practices were made illegal with the
+passage of the Fair Housing Act of 1968,
+and racially restrictive covenants no longer have legal legitimacy. However, racially discriminatory
+lending practices and neighborhood segregation have created intergenerational wealth and
+homeownership gaps for people of color in Oregon that are still present today.
+For example, the effects of this discrimination can be seen when comparing Oregon’s white
+homeownership rate to the homeownership rates for communities of color. American Community
+Survey (ACS) five-year estimates for 2018 show homeownership rates were lower for communities of
+color in Oregon than for whites. In Oregon, white people were twice as likely to own a home than
+people who identify as Black or African American, Native Hawaiian and other Pacific Islander. The
+homeownership rate was roughly 20% higher for white people than it was for American Indian and
+Alaska Natives.
+Even with the existence of the Fair Housing Act, people of color continue to be denied conventional
+mortgage loans at a higher rate than white people. Home Mortgage Disclosure Act data show in 2018,
+even among the highest income cohort, denial rates were considerably higher in Oregon for Black and
+Hispanic or Latino applicants. In Oregon, denial rates for white people in the highest income cohort
+were 11% compared to 21% and 18% for Black and Hispanic or Latino people, respectively. Studies of
+mortgage lending practices before the Great Recession from 2004 to 2007  also concluded African
+Americans were 30% more likely than white Americans to get higher-priced subprime mortgage loans.
+Wealth is often intergenerational and accumulates over a long period of time, and while homeownership
+is an important opportunity to build wealth, the benefits of homeownership are not equally accrued by
+all Americans. Communities of color have been systematically denied opportunities to build long-term
+wealth throughout Oregon’s history, the effects of which are still experienced. For example, in 2019 the
+Federal Reserve reported nationally, white households have higher levels of equity in their homes.
+White people in Oregon are twice as likely to own a home
+than Black or African American, Native Hawaiian and other
+Pacific Islander people in Oregon.
+Oregon Secretary of State | Report 2022-11 | March 2022 | page 10
+White households have a mean net housing equity (value minus any debts on the home) of $215,800,
+compared to Black and Hispanic households who have only $94,400 and $129,800 of equity in their
+homes, respectively.
+Oregon Secretary of State | Report 2022-11 | March 2022 | page 11
+Audit Results
+Oregon’s income tax policy requires evaluation of the tax system based on the following principles:
+ability to pay, fairness, equity, efficiency, even distribution, and that it not be regressive. Oregon’s
+income tax system is generally progressive, as called for by statute, but the MID  is not.
+The MID is designed in a way that systematically benefits higher income taxpayers because they are
+more likely to itemize their deductions, typically own more expensive homes, and have higher marginal
+tax rates. The most commonly cited purpose for the MID is the promotion of homeownership; however,
+this assertion is not supported by our analysis of current and past federal and state tax laws. The
+deduction is poorly suited for this purpose because its benefits primarily accrue to higher-income
+taxpayers who are less likely to need support to achieve homeownership. The MID  is an ineffective tool
+for promoting homeownership, especially for people who have lower incomes, are from historically
+underserved groups including people of color, and those struggling in rural areas.
+The Center for Budget and Policy Priorities, National Conference of State Legislatures, and the
+Government Accountability Office call for tax expenditures to receive similar scrutiny to budgeted
+spending. Even though it is the state’s largest housing subsidy and one of the largest tax expenditures
+overall, the MID receives no state-level evaluation. Historic budget issues, limited state-level
+administration, and the fact there is not an agency directly accountable for its performance contribute
+to this limited scrutiny. This lack of transparency limits the visibility and accountability for the MID’s
+regressive outcomes.
+MID benefits are not equitably distributed among Oregon taxpayers,
+and it does not address the most significant barriers experienced by
+low and moderate-income homebuyers
+Per statute, Oregon’s income tax system adheres to the basic values of fairness and equity. Tax
+proposals should be evaluated based on a set of guiding principles including ability to pay, efficiency,
+and even distribution.10 Because fairness and equity are subjective criteria, we conducted a
+distributional analysis using 2018 individual income tax data to determine who benefits from the MID by
+income and geography. We also assessed the distribution by race and ethnicity using data from the
+American Community Survey.11
+We found the MID’s benefits disproportionately accrue to higher income taxpayers who live in urban
+counties in Oregon. Using data from the American Community Survey, we found in Oregon, people of
+color have significantly lower homeownership rates and were less likely to be represented at higher
+income levels than white people. Due to these discrepancies, we conclude in Oregon, white people
+disproportionately benefit from the MID when compared to people of color.
+10 ORS 316.003
+11 The American Community Survey is a nationwide survey that collects and produces information on the social, economic,
+housing, and demographic characteristics about the nation’s population every year. It is conducted by the U.S. Census Bureau.
+Oregon Secretary of State | Report 2022-11 | March 2022 | page 12
+MID benefits primarily accrue to higher income Oregon taxpayers
+DOR estimates the benefits of a tax expenditure by modelling what each taxpayer’s tax liability would
+be with and without the expenditure, with the difference being the revenue impact, or cost, of the
+expenditure. Using 2018 individual income tax return data provided by DOR, we calculated the
+distribution of MID benefits by income.12 We categorized taxpayers by income percentile and found the
+majority of MID benefits accrue to the highest income taxpayers. We also found both the likelihood a
+taxpayer will benefit from the MID and the average size of the benefit received  increases based on
+income level.
+In 2018, the MID reduced income tax liability of Oregon residents by nearly $414 million dollars with an
+additional reduction of $26 million for non-resident and part-year resident taxpayers. As shown in
+Figure 5, the highest income taxpayers received the largest proportion of MID tax benefits, with
+taxpayers in the top 20% receiving 59% of the total. The roughly 18,000 taxpayers in the top 1%
+received more benefit as a total of the group from the MID than the 727,000 taxpayers in the bottom
+40% combined.
+Figure 5: Higher income taxpayers receive the majority of MID benefits
+Income Percentile AGI Range Total MID Benefit Percent of Total MID Benefit
+Lowest 20% Below $16,100 $1,553,800 <1%
+Second 20% $16,100-$32,900 $12,815,400 3%
+Middle 20% $32,900-$57,100 $43,831,900 11%
+Fourth 20% $57,100-$100,100 $113,120,000 27%
+Next 15% $100,100-$202,600 $157,003,600 38%
+Next 4% $202,600-$458,700 $64,804,100 16%
+Top 1% More than $458,700 $20,698,900 5%
+Total Resident  $413,827,700 100%
+Source: OAD analysis of 2018 DOR full-time resident personal income tax data.
+More than half a million Oregon taxpayers benefited from the MID in
+2018, making it a widely used tax deduction. However, the likelihood
+that a taxpayer will benefit from the MID increases significantly with
+income. For example, of the taxpayers in the 50th percentile of the
+income distribution, meaning their income averages $44,000, just
+22% benefit from the MID. Meanwhile, 61% of taxpayers at the 80th
+percentile — with average incomes greater than $100,000 — benefit
+from the deduction. Figure 6 shows the percentage of taxpayers who benefit from the MID by income
+percentile.
+Additionally, not all taxpayers living in Oregon who claim the MID actually benefit from it. For example,
+only a quarter of taxpayers in the lowest 20% who claimed the deduction realized a reduction in their
+tax liability.
+12 We used adjusted gross income as our measure of income, consistent with DOR reporting of similar information.
+Roughly 18,000 taxpayers in
+the top 1% received more
+benefit from the MID than the
+727,000 taxpayers in the
+bottom 40% combined.
+Oregon Secretary of State | Report 2022-11 | March 2022 | page 13
+Figure 6: The percentage of taxpayers benefitting from the MID increases as income increases
+Source: OAD analysis of 2018 DOR resident tax return data.
+The average MID benefit received across all Oregon taxpayers in 2018 was $227, but average benefits
+increased substantially with income. The average taxpayer in the middle of the income distribution had
+their tax liability decreased by $120, whereas the average benefit to the top 1% was nearly ten t imes
+as high at $1,138. Figure 7 shows the average MID benefits by income percentile.
+Even when only considering taxpayers who do receive a benefit from the deduction, the difference in
+the average benefits is dramatic. At $1,688, the average benefit for taxpayers in the top 1% is more
+than triple the $540 average benefit a taxpayer in the middle of the income distribution receives.
+Figure 7: Average MID benefits increase dramatically with income
+Income Percentile AGI Range Average MID benefit  Average MID reduction
+for those who benefit
+Lowest 20% Below $16,100 $4 $222
+Second 20% $16,100-$32,900 $35 $396
+Middle 20% $32,900-$57,100 $120 $540
+Fourth 20% $57,100-$100,100 $311 $658
+Next 15% $100,100-$202,600 $575 $844
+Next 4% $202,600-$458,700 $891 $1,203
+Top 1% More than $458,700 $1,138 $1,688
+Total Resident   $227 $760
+Source: OAD analysis of 2018 DOR resident tax return data.
+The fairness and equity of tax systems and policies is often assessed based on how a taxpayer ’s ability
+to pay factors into their level of taxation. In a vertically equitable tax system, those who are more
+capable of bearing the burden of taxes pay a greater share of their income than those with less ability
+to pay and vertical equity is the basis of progressive income tax systems.
+Oregon’s income tax statute calls for a system that uses equity and fairness as guiding principles  and
+notes tax proposals should be assessed based on factors including ability to pay, equity, and even
+22% of taxpayers in
+50th percentile benefit
+from the MID 61% of taxpayers in the
+80th percentile benefit
+from the MID
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+0 10 20 30 40 50 60 70 80 90 100
+Percent of Taxpayers Receiving MID Benefit
+Income Percentile (Resident Taxpayers)
+Oregon Secretary of State | Report 2022-11 | March 2022 | page 14
+distribution. Oregon’s overall income tax system is considered progressive because tax rates and tax
+liability as a percentage of income typically increase with income.
+However, the MID does not meet these principles because a taxpayer’s likelihood of benefitting, and
+the average benefit they receive, increases as income increases, thus reducing their overall tax liability.
+These higher-income taxpayers have a greater ability not only to shoulder a heavier tax burden, but
+also to pay for their mortgages. By providing the largest benefits to those with the gre atest ability to
+pay, the MID is a regressive, vertically inequitable tax expenditure.
+The ability to deduct the interest on second homes is another example of the inequity of  the MID.
+Although there is not adequate data to determine the distribution of second home MID benefits, DOR
+estimates providing the deduction to taxpayers that own second homes will result in forgone revenue
+of roughly $30 million in the 2021-23 biennium, just a fraction of the $1.1 billion total of the program.
+However, providing this benefit to owners of second homes when others struggle to afford a first home
+further increases the inequity of the MID.
+MID benefits disproportionately accrue to taxpayers living in a handful of Oregon’s
+urban counties
+We also assessed the distribution of the MID by county using 2018 tax return data. Based on this
+analysis, we found there is significant variation in both the percentage of taxpayers benefiting from the
+MID and the average benefits received by county. We also assessed the distribution of MID benefits
+between rural and urban counties and found the MID’s benefits accrue disproportionately in a handful
+of Oregon’s urban counties.13
+Figures 8 shows the percentage of taxpayers by county who benefited from the MID. The percentage
+ranges from a high of 37% in Columbia County to a low of 17% in Wheeler County. The percentage of
+taxpayers who benefit from the MID across all of Oregon’s 36 counties is 30%. Only six  of Oregon’s
+counties exceed this statewide rate.
+13 OHCS defines rural counties as those that do not include any part of a metropolitan statistical area.
+Regressive: Tax liability is a smaller percentage of a taxpayer’s income as income increases.
+Progressive: The tax liability as a percentage of income increases as income increases.
+Ability to Pay: Those who are more capable of bearing the burden of taxes should pay more taxes than those
+with less ability to pay.
+Vertical Equity: Taxpayer’s with different ability to pay receive different benefits, with higher income
+taxpayers paying a greater share.
+Oregon Secretary of State | Report 2022-11 | March 2022 | page 15
+Figure 8: The percentage of taxpayers who benefit from the MID varies by county
+Source: OAD analysis of 2018 DOR full-time resident tax return data.
+Similarly, as shown in Figure 9, there is significant variation in average MID benefits by county. With an
+average benefit of $331, Clackamas County is the highest, nearly five times larger than the $71 average
+in Wheeler County. There are only six counties — Washington, Clackamas, Multnomah, Yamhill,
+Deschutes, and Columbia — whose average is greater than the statewide average of $227.
+Figure 9: Average taxpayer benefits from the MID vary widely by county
+Source: OAD analysis of 2018 DOR full-time resident tax return data.
+We also assessed the county-level distribution of the MID’s benefits by population by dividing each
+county’s share of MID benefits by their share of the state’s population. Any county with a ratio of MID
+benefits to population greater than 100% means that county received a disproportionate share of the
+MID’s benefits. We also performed this analysis using adjusted gross income instead of population. We
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+Columbia
+Clackamas
+Deschutes
+Washington
+Yamhill
+Polk
+Linn
+Crook
+Multnomah
+Marion
+Lane
+Jackson
+Benton
+Clatsop
+Hood River
+Tillamook
+Union
+Lincoln
+Josephine
+Douglas
+Umatilla
+Wasco
+Klamath
+Jefferson
+Coos
+Baker
+Wallowa
+Curry
+Morrow
+Grant
+Gilliam
+Lake
+Harney
+Malheur
+Sherman
+Wheeler
+Percent of Taxpayers with an MID Benefit
+-
+Clackamas
+Washington
+Deschutes
+Columbia
+Multnomah
+Yamhill
+Polk
+Hood River
+Benton
+Jackson
+Crook
+Lane
+Clatsop
+Marion
+Linn
+Josephine
+Tillamook
+Lincoln
+Curry
+Douglas
+Wasco
+Jefferson
+Union
+Coos
+Klamath
+Wallowa
+Umatilla
+Baker
+Morrow
+Grant
+Lake
+Malheur
+Sherman
+Gilliam
+Harney
+Wheeler
+Average MID Benefit per Taxpayer
+Oregon Secretary of State | Report 2022-11 | March 2022 | page 16
+found a handful of primarily urban counties disproportionately benefit from the MID  using both
+measures.
+• The following counties received a disproportionate share of MID benefits by
+taxpayer population: Clackamas, Washington, Deschutes, Columbia, Multnomah,
+and Yamhill. All are defined as urban by OHCS.
+• The following counties received a disproportionate share of MID benefits by
+adjusted gross income: Columbia, Clackamas, Yamhill, Deschutes, Polk, Crook
+Jackson, Clatsop, and Washington. All but Crook and Clatsop are considered urban
+by OHCS.
+Figure 10: A handful of urban counties disproportionately benefit from the MID by taxpayer population
+Source: OAD analysis of 2018 DOR full-time resident tax return data, county map layer from the Oregon Geospatial Library.
+There are many factors that might explain the disproportionate distribution of MID benefits by county,
+including higher home prices and incomes in urban counties. We found the average adjusted gross
+incomes in rural counties was nearly 30% lower than in urban counties. This significant income
+discrepancy indicates the disproportionate distribution of MID benefits by county is likely correlated
+with the deduction’s greater benefit for those with higher incomes.
+We did not assess the impact of higher home prices in urban areas. However, a 2018 study by the
+Oregon Office of Economic Analysis found while the median income for people who live in rural Oregon
+was similar to the nation as a whole, median home prices in rural areas were 30% higher. This indicates
+Oregon Secretary of State | Report 2022-11 | March 2022 | page 17
+people who live in rural areas in Oregon face greater housing affordability challenges than the rest of
+rural America.
+MID benefits disproportionately accrue to higher-income homeowners, who tend to be
+white
+Assessing the distribution of the MID based on race and ethnicity is challenging because this
+information is not gathered on Oregon tax returns. However, when analyzing the distribution of the MID
+there are two factors that are particularly relevant: the MID is available only to homeowners, and its
+regressive nature means its benefit increases with income.
+We examined homeownership rates and household income by race and ethnicity using data from the
+2018 American Community Survey. Based on significant differences in homeownership rates and
+income, we can conclude people of color in Oregon receive disproportionately less benefit from the MID
+than white people, especially for people that identify as African American, Latino, and Native American.
+The American Community Survey reports homeownership rates by race and ethnicity using self -
+reported demographic information from the primary householder. Figure 11 shows the homeownership
+rate in Oregon by race and ethnicity.
+Figure 11: White people are much more likely to own homes than people of color in Oregon
+2018 American Community Survey Race Categories Homeownership Rate
+White 64%
+Black or African American 31%
+American Indian and Alaska Native 45%
+Asian 59%
+Native Hawaiian and Other Pacific Islander 31%
+Some other race 42%
+Two or more races 47%
+2018 American Community Survey Ethnicity Categories14 Homeownership Rate
+Hispanic or Latino origin 41%
+White alone, not Hispanic or Latino 65%
+Source: OAD analysis of 2018 5-Year American Community Survey data.
+As is the case nationwide, white people in Oregon are far more likely to own their homes than are
+people from most other races. In Oregon, people who identify as white are more than twice  as likely to
+be homeowners than people who identify as Black or African American and Native Hawaiian and other
+Pacific Islander. The white homeownership rate is roughly 20% higher than it is for American Indian and
+Alaska Natives as well as for individuals who identify as some other race and for those that identify as
+two or more races. The result is similar by ethnicity, with Hispanic or Latino homeownership 24% lower
+than it is for individuals who identify as white and do not identify as Hispanic or Latino. Even with the
+existence of the MID, these discrepancies in homeownership rates by race and ethnicity have remained
+relatively unchanged over the last 20 years.
+14 Race and ethnicity are reported separately in the American Community Survey.
+Oregon Secretary of State | Report 2022-11 | March 2022 | page 18
+We also examined the relationship between race, ethnicity, and income using data from the 2018
+American Community Survey and found a similar result. Nearly 70% of taxpayers with incomes greater
+than $100,000 benefit from the MID and they receive nearly 60% of its total benefits, while making up
+only 20% of the population.
+As Figure 12 shows, people in Oregon who identify as white are
+significantly more likely to have household earnings greater than
+$100,000 than people who identify as Black or African American,
+American Indian or Alaska Native, and some other race. The only
+other group significantly more likely to have incomes greater than
+$100,000 are people who identify as Asian.
+The result by ethnicity is similar in Oregon with people who identify as Hispanic or Latino being nearly
+half as likely to have household incomes of $100,000 or more than people who identify as white, non-
+Hispanic or Latino. Based on these significant discrepancies in homeownership rate and income levels
+by race and ethnicity, and the relationship these factors have to the distribution of the MID, we can
+conclude the MID in Oregon disproportionately benefits white, non-Latino people.
+Figure 12: White households are more likely to earn more than $100,000 than households of other races and
+ethnicities
+2018 American Community Survey Race Categories Percent of households with incomes
+$100,000 or more
+White 26%
+Black/African American 15%
+American Indian/Alaska Native 14%
+Asian 37%
+Native Hawaiian/Pacific Islander* 26%
+Other 14%
+Two or More Races 21%
+2018 American Community Survey Ethnicity Categories Percent of households with incomes
+$100,000 or more
+Hispanic or Latino 15%
+White, Not Hispanic or Latino 27%
+Source: OAD analysis of 2018 5-year American Community Survey data.
+Note: The difference between the White and Native Hawaiian/Pacific Islander sub-groups is not statistically significant. The
+American Community Survey and uses a different definition of income than the adjusted gross income taken from the tax return
+data. Also, American Community Survey data is presented at the household, not taxpayer level.
+The State of Oregon’s Diversity, Equity, and Inclusion Action Plan notes “ equity is the effort to provide
+different levels of support based on an individual’s or group’s needs in order to achieve fairness in
+outcomes.” In Oregon, the MID is a racially inequitable policy based on this standard because its
+benefits flow disproportionately to higher income, white people, who already have significantly better
+homeownership rate outcomes when compared to people of color.
+Discrepancies in homeownership
+rates by race and ethnicity have
+remained relatively unchanged
+over the last 20 years.
+Oregon Secretary of State | Report 2022-11 | March 2022 | page 19
+The lack of data on race and ethnicity complicates analysis of the MID, however
+stakeholders expressed concerns about collecting these data
+Currently there are no data that clearly tie race and ethnicity to the MID. At the federal level, the IRS
+does not collect data on the race and ethnicity of taxpayers on tax forms and federal analysis of tax
+data does not typically include race and ethnicity. Similarly, race data is not collected on tax forms in
+Oregon15.
+Not collecting these data hinders efforts by policymakers to evaluate whether a tax policy, like the MID,
+produces disparate racial impacts and provide remedies for these inequities. While collecting
+disaggregated race and ethnicity data are important in the effort to develop equitable policy, some key
+stakeholders we spoke with had concerns about collecting race and ethnicity data on tax forms.
+These concerns included:
+• Collecting these data may lead to further racial discrimination in the creation and
+administration of tax laws, such as through disparate tax enforcement and racially
+targeted tax policies.
+• Data on the race and ethnicity of taxpayers is too private for tax agencies to
+collect and could be used in a discriminatory manner.
+• Taxpayers may refuse to disclose this information, leading to non-response bias
+that may skew analysis of outcomes.
+The Governor, in her introductory letter at the beginning of the 2021-23 Tax Expenditure Report, called
+for better data collection so tax expenditures can be better evaluated from an equity and racial justice
+perspective in the future. The Governor’s Office, DOR, and the newly formed Racial Justice Council are
+currently meeting with other agencies and community groups to begin discussing how racial justice  and
+equity can be incorporated into tax policy in Oregon.
+The MID does not address the primary barriers experienced by prospective low-to-
+moderate income homebuyers
+As the largest housing subsidy in Oregon, the MID does not address challenges related to obtaining a
+home in the state, particularly for low- to moderate-income homebuyers. We met with homeownership
+counselors and staff from seven Oregon Homeownership Centers to learn the primary barriers faced by
+low- to moderate-income home buyers and how the MID addresses them. Six of the seven centers we
+spoke with told us the MID is not an effective tool for helping their clients become homeowners. While
+15 Senate Bill 1569, considered during the 2022 Legislative Session, would direct DOR to collect voluntarily reported and self-
+identified taxpayer race and ethnicity data for the purpose of analyzing revenue policy. This bill was under consideration during
+the drafting of our report.
+Oregon Diversity, Equity, and Inclusion Action Plan: Definition of Equity
+“Acknowledges that not all people, or all communities, are starting from the same place due to historic and
+current systems of oppression. Equity is the effort to provide different levels of support based on an
+individual’s or group’s needs in order to achieve fairness in outcomes. Equity actionably empowers
+communities most impacted by systemic oppression and requires the redistribution of resources, power, and
+opportunity to those communities.”
+Oregon Secretary of State | Report 2022-11 | March 2022 | page 20
+most of the centers we spoke with agreed the MID does not help their clients, one center told us when
+they discuss the benefits of homeownership with their clients, they use the potential tax benefits from
+the MID as a motivator.
+There are 18 Homeownership Centers that provide housing counseling services in each of Oregon’s 36
+counties. Certified Housing Counselors at these centers provide, among other services, homebuyer
+education and financial literacy courses and one-on-one
+loan default and post-purchase counseling targeted to
+low-to moderate-income prospective homebuyers and
+communities of color. They are supported through
+grants from OHCS and their counselors are required to
+be certified through an approved housing counseling
+certification program.
+We selected seven Homeownership Centers serving counties across the state, including two Culturally
+Specific Organizations focused on serving Communities of Color, and asked them what barriers the ir
+clients face in becoming first-time homeowners. The primary barriers they identified were:
+• Limited funds for a sufficient down payment;
+• The high price of homes in the current housing market; and
+• Credit issues including bad credit or no credit.
+We also asked them if they viewed the MID as an effective tool for overcoming these barriers and
+helping their clients achieve homeownership. Six of the seven told us the MID did not address these
+barriers or help their clients. They noted many of their clients do not have sufficient itemized expenses
+to benefit from the deduction and are simply struggling to get into a home in the first place.
+One housing counselor told us: “The MID is a tool that serves people at the higher end of the income
+spectrum […] and the nature of the housing market is that there is no path for most people to benefit
+from the MID.” Another housing counselor told us: “I can’t think of a single client that the MID ever made
+a difference for.” We heard from homeownership counselors the MID does not provide any upfront
+benefit that can assist their clients in completing a home purchase.
+This mismatch between benefit and need limits the value of the MID for low- and moderate-income
+homebuyers. In an economic analysis of the MID, the Congressional Research Service found high
+transaction costs associated with a home purchase, like down payment and closing costs, are the
+primary barrier to homeownership nationally and “because the MID does not lower the primary barrier
+to homeownership, its effect on the homeownership rate may be small.”
+“I can’t think of a single client that the
+mortgage interest deduction ever made a
+difference for.”
+-Homeownership Center, Housing Counselor
+The Congressional Research Service found high transaction costs associated with a home purchase, like down
+payment and closing costs, are the primary barrier to homeownership nationally and “because the MID does
+not lower the primary barrier to homeownership, its effect on the homeownership rate may be small.”
+Oregon Secretary of State | Report 2022-11 | March 2022 | page 21
+The MID’s design and lack of a clear purpose contribute to its
+inequitable outcomes
+Identifying the purpose or legislative intent of a tax expenditure is a critical step to determine its
+effectiveness because it provides criteria that can be used to judge its outcomes. Oregon’s tax
+expenditure report identifies the MID’s purpose as “promoting homeownership by reducing the cost of
+mortgages,” a purpose that is commonly cited by other entities. However, based on our review of
+federal and state statute and the relevant literature, it is clear the MID was not originally intended to
+promote homeownership and its design makes it a regressive tax policy that is poorly suited for this
+purpose.
+There is no evidence that the MID was originally intended to promote homeownership
+A commonly cited purpose for the MID is that it promotes homeownership; h owever, neither federal
+nor state statute identifies a clear purpose or intent for the deductibility of mortgage interest and the
+Congressional Research Service states in an annual report: “There is no evidence in the legislative
+history that the interest deduction was intended to encourage homeownership or to stimulate the
+housing industry.”16
+When the original federal income tax was instituted in 1913, mortgage interest was deductible along
+with other types of interest payments made for business, personal, living, or family expenses.17 When
+Oregon instituted its own income tax in 1923, it mirrored the treatment of interest used by the federal
+government. By 1986, the housing industry considered the preservation of the MID as its most
+important issue and it was popular among Americans, even though only one-fourth of the population at
+the time benefitted from it. The federal Tax Reform Act of 1986 removed the deductibility of most
+types of consumer interest but maintained the MID while placing limitations on the number of homes
+and the total mortgage amount that could be claimed. These limits on consumer interest were adopted
+for taxpayers in Oregon, due to Oregon’s connection with federal income tax law.
+The design of the MID contributes to its inequitable outcomes
+Regardless of its original intent, the MID is designed in a way that systematically benefits higher income
+taxpayers for three key reasons. First, higher income taxpayers are more likely to itemize their
+deductions. Second, higher income taxpayers are more likely to own more expens ive homes which
+result in larger deductions. Finally, higher income taxpayers have higher marginal tax rates leading to a
+larger benefit per dollar deducted.
+For example, based on our review of 2018 income tax data, we found that for every $100 deducted,
+Oregon taxpayers in the top 20% received a benefit of $9.20, while taxpayers in the second 20% only
+received a tax benefit of $5.60; see Figure 13.
+16 “Tax Expenditures: Compendium of Background Material on Individual Provisions.” DOR uses this document to help identify the
+purpose of federally connected tax expenditures for the biennial tax expenditure report.
+17 1913 Revenue Act, i.e., Underwood Tariff Act, provides general offset for “all interest paid within the year by a taxable person
+on indebtedness.” Also, provides offset for, among other things “the necessary expenses actually paid in carrying on any business
+[…] all national, State, county, school, and municipal taxes paid within the year […] losses actually sustained during the year
+incurred in trade or arising from fires, storms or shipwreck […] [and] the amount of income the tax upon which has been paid or
+withheld for payment,” etc.
+Oregon Secretary of State | Report 2022-11 | March 2022 | page 22
+Figure 13: MID benefit per $100 deducted increases as incomes increase
+2018 Income Percentile Income Range MID Benefit per $100 deducted
+Lowest 20% Below 16,100 $0.90
+Second 20% 16,100-32,900 $5.60
+Middle 20% 32,900-57,100 $8.30
+Fourth 20% 57,100-100,100 $8.80
+Top 20% 100,100 and above $9.20
+All Resident Taxpayers  $8.50
+Source: OAD analysis of 2018 DOR resident income tax return data.
+The design of the MID contributes to the inequitable and regressive outcomes we found. However,
+without a clearly stated purpose in statute beyond Oregon’s connection to the federal person income
+tax code, it is difficult to know what the original intent was and what the current goals are for the MID
+in Oregon. This lack of a purpose specific to the MID makes it difficult to assess its effectiveness. The
+Government Accountability Office notes that “identifying a tax expenditure’s purpose is a necessary
+first step in determining how the tax expenditure’s performance should be assessed .” While it is difficult
+to assess the effectiveness of the MID, the fact that it is a regressive tax policy makes it inconsistent
+with the goals stated in Oregon’s income tax statutes.
+Some states have designed limitations that may reduce the regressivity of deductions
+like the MID
+The MID is a common deduction at the state level, with 30 states and Washington D.C. offering it as an
+itemized deduction. We examined the itemized deduction practices used by the states that offer the
+MID and found 12 have established limits that may mitigate its regressivity. Other types of tax
+expenditures, like tax credits, may also provide a more equitable way to encourage homeownership.
+States provide itemized deductions to taxpayers in a variety of ways. Some states  require taxpayers to
+itemize at the federal level in order to claim the same deductions at the state level. Others, like Oregon,
+allow taxpayers to itemize regardless of how they filed their federal taxes. Some states use the federal
+standard deduction amount, while others, including Oregon, set their own.
+We identified 12 states that limit itemized deductions through a variety of approaches , including phase-
+downs, phase-outs, flat dollar caps, and credits in lieu of deductions. It is important to note that these
+limitations apply to itemized deductions generally, not just to the MID, making it difficult to assess their
+impact on specific types of itemized deductions.
+Oregon Secretary of State | Report 2022-11 | March 2022 | page 23
+Of these, the practices used in Washington D.C., Maine, Utah, and Wisconsin likely have the greatest
+potential to reduce the regressivity of the MID.
+• Washington D.C. applies a phase-out to all itemized deductions reducing the
+amount of itemized deductions that can be claimed by 5% of every dollar of
+adjusted gross income greater than $200,000. For example, if a taxpayer’s income
+was $250,000, the amount deducted from their income would be reduced by
+$2,500.
+• Maine also has a phase-out provision that reduces itemized deductions for
+taxpayers with adjusted gross incomes starting at $83,850 ($167,700 if married
+filing jointly). It also applies a flat cap on the total amount of itemized deductions
+that can be claimed. The maximum amount that could be claimed is indexed to
+inflation and was $30,050 in 2021.
+• Both Utah and Wisconsin require taxpayers to convert their itemized deductions
+into a credit at a rate of 6% and 5%, respectively. Utah also applies a phase-out at
+a rate of 1.3% that takes effect at a relatively low threshold of $29,758 for couples
+who file jointly.
+Each of these approaches has the potential to reduce the regressivity of itemiz ed deductions. Phase-
+down or phase-out provisions can enhance equity by reducing or eliminating the itemized deductions
+for higher-income taxpayers. Flat caps prevent high-income earners with significant itemized
+deductions from receiving outsized benefits compared to moderate- and lower-income taxpayers.
+Credits can be targeted to enhance after-tax income for low-income taxpayers and prevent higher-
+income taxpayers from receiving greater per dollar benefits. Tax credits, especially when they are
+refundable, can be seen as more progressive than itemized deductions because they can be used by
+lower income taxpayers who do not itemize, and because they reduce tax liability by a fixed amount
+regardless of the income tax rate paid.
+Mortgage Credit Certificates are an example of a tax credit program designed specifically to support
+low- to moderate-income homebuyers. This federal program allows states to convert a portion of their
+private activity bond allocation into Mortgage Credit Certificates issued to quali fied homebuyers. When
+Phase-down: Reduces the deduction(s) by a fixed percentage, for taxpayers above a specified income
+threshold. The phase-down reduction is typically capped at 80%. Example: A 3% phase down, $160k threshold
+- Every dollar of income earned above $160k results in a 3-cent reduction in itemized deduction(s) that can be
+claimed. Total reduction capped at 80%.
+Phase-out: Similar to a phase-down, but completely eliminates itemized deductions. Example: A 3% phase-out,
+with a phase-out beginning at $160k– Every dollar of income above $160k results in a 3-cent reduction in
+itemized deductions. At higher-income levels can result in the elimination of itemized deductions.
+Flat dollar cap: Limits the total amount of deductions that can be claimed to a maximum dollar amount.
+Example: For cap set at $10k, only $10k worth of combined deductions can be claimed.
+Credit in lieu: Replaces each deduction with a credit equal to a fixed percentage of the deduction amount.
+Example: $50k in itemized deductions at a 5% rate would reduce tax liability by $2,500.
+Oregon Secretary of State | Report 2022-11 | March 2022 | page 24
+a qualified homebuyer purchases a home, they are entitled to an annual federal tax credit equal to a
+percentage of their mortgage interest for the life of the mortgage. The tax credit percentages vary by
+state, typically between 20-40%, and the total credit cannot exceed $2,000 in any given year. The
+program is limited to first-time homebuyers and states are required to set sale price and income limits.
+Based on our review, 27 states have an active Mortgage Credit Certificate program. Oregon does not
+have an active program, but statute allows for one to be established 18.
+The MID receives no state-level evaluation, limiting accountability for
+its regressive outcomes
+Best practices call for tax expenditures to receive similar scrutiny to budgeted spending. Oregon’s tax
+expenditure report provides valuable information to policymakers and the public. However, like in most
+other states, the MID receives no evaluation in Oregon’s tax expenditure report. Historic budget issues,
+limited state-level administration, and the fact there is not an agency directly accountable for its
+performance contribute to the lack of scrutiny the MID receives in Oregon. This lack of transparency
+limits the visibility of and accountability for the MID’s regressive outcomes.
+Best practices call for consistent and rigorous evaluation of tax expenditures like the
+MID, but these reviews are rare at the state level
+The Center for Budget and Policy Priorities, National Conference of State Legislatures, and the
+Government Accountability Office call for tax expenditures to receive similar scrutiny to budgeted
+spending. Spending that occurs as part of the budget process, such as funding agency programs and K -
+12 education, typically receives regular review and subsequent change throughout the budget process.
+In contrast, many tax expenditures have been permanently incorporated into the tax code and require
+special legislative action for them to be changed. In other words, even though tax expenditures like the
+MID are often as costly as budgeted spending programs, they are not subjected to the same level of
+legislative review.
+National Conference of State Legislatures best practices state “when lawmakers decide to use the tax
+system to make budget decisions or influence behavior, these decisions should be explicit and subject
+to frequent evaluation and review.” The organization further states “increasingly the public and
+policymakers agree that an accounting and review of tax expenditures should be part of regular sound
+budget practices” and to do this, “a complete and frequently updated tax expenditure report is
+essential for good policymaking.”
+We analyzed tax expenditure review practices of all 50 states and the District of Columbia, and
+concluded tax expenditure reports are the primary, and often only, method used for reviewing tax
+expenditures at the state level. The Center for Budget and Policy Priorities provides criteria for the
+elements that should be included in tax expenditure reports, including that the report be accessible,
+detailed, and evaluates the extent to which the purpose of the expenditure has been accomplished, as
+well as provide distribution of benefits by income level.
+18 ORS 456.605
+Oregon Secretary of State | Report 2022-11 | March 2022 | page 25
+However, state reviews of the MID are rare. Out of the 30 states that have a state income tax and offer
+itemized deductions, only 12 states and the District of Columbia include a review of the MID  in their tax
+expenditure report, and even fewer provide detailed evaluations.
+The District of Columbia and California publish relatively comprehensive and informative reports  on the
+MID. Washington, D.C.’s most recent report provides a lengthy evaluation of the MID incorporating
+external data from the Congressional Research Service and Urban Institute. The report released by  the
+California Franchise Tax Board includes an extensive discussion section of the MID where they weigh
+the pros and cons of making changes to the MID. In addition to state reviews, the MID is regularly
+evaluated at the federal level by the Congressional Research Service in the annual Compendium of Tax
+Expenditures.19
+Oregon state statute requires the Governor work with DOR and the Department of Administrative
+Services to produce a tax expenditure report each biennium to complement the Governor’s
+recommended budget. The required elements for each tax expenditure in the report include, among
+other things:
+• Identification of the statutory authority,
+• A description of its purpose,
+• An estimate of the amount of revenue loss for the coming biennium,
+• A determination of whether each tax expenditure has successfully achieved the
+purpose for which it was enacted including an analysis of the persons that benefit.
+In addition to the tax expenditure report, statute requires the Legislative Revenue Office release a
+biennial report that evaluates expiring tax credits, often referred to as sunsetting tax credits. Oregon
+has many sunsetting tax credits that are staggered so one-third of Oregon’s income tax credits come
+up for review every two years when the Legislature sets its biennial budget. The most recent 2021 Tax
+Credit Report contains an in-depth analysis of 11 tax credits which all include a discussion of the policy
+purpose, a description of the program, an extensive policy analysis section, and a comparative analysis
+of the tax policy in other states. Oregon is listed as best practice for setting sunset dates and
+producing this Tax Credit Report; however, most exemptions and deductions like the MID are not set to
+sunset, so they do not receive this more intensive level of review.
+DOR coordinates the development of the biennial tax expenditure report which
+provides no evaluation of whether the MID meets its purpose
+Oregon’s tax expenditure report has been identified as a model for other states. DOR plays the primary
+role in the development of the tax expenditure report, coordinating its development, calculating
+revenue impacts, and organizing evaluations from subject matter agencies. The MID is included as part
+of Oregon’s tax expenditure report. However, no evaluation is made as to whether it achieves its
+intended purpose.
+DOR does the bulk of the coordinating work for the tax expenditure report, with input from the
+Governor’s office on points of emphasis at the beginning of each reporting cycle. In July of each
+reporting year, DOR sends a letter to all applicable state agencies requesting they provide evaluations
+19 The December 2020 version can be found online at Gov.Info.gov.
+Oregon Secretary of State | Report 2022-11 | March 2022 | page 26
+of the tax expenditures that are relevant to their program area and relevant data for the report. For
+these evaluations, DOR relies on information provided from agencies with missions related to the tax
+expenditure’s purpose and engages with each agency throughout the process by providing instructions
+and suggestions. If the Governor’s Office requests more detailed evaluations from agencies for specific
+expenditures, DOR will request more information from these agencies.
+The Department of Administrative Services Chief
+Financial Office provides input on deadlines at the
+beginning of the reporting cycle and reviews the
+report toward the end of the process.
+Department of Administrative Services budget
+analysts review the tax expenditure material as
+part of their biennial budget development
+process. DOR also consults with the Legislative
+Revenue Office to get feedback on the cost
+estimates for each expenditure.
+For the MID, the 2021-23 Tax Expenditure Report
+includes estimates of both the current and future
+biennial costs of the MID, a brief description of
+the tax expenditure, the relevant legal citation
+and year of enactment, its purpose, and a
+description of who benefits from the expenditure
+broken out by income level. The report does not
+provide evaluation of the extent to which the MID has achieved its purpose, as required by statute. The
+2007-09 Tax Expenditure Report was the last time the MID was evaluated to determine whether it was
+meeting its intended purpose, with Oregon Housing and Community Services providing the review.
+In 2008, due to budget constraints, DOR and the Governor’s Office made the decision to stop
+conducting evaluations of income tax expenditures resulting from Oregon’s connection to federal law in
+the report. Instead, DOR notes they rely on the evaluations conducted by the federal Congressional
+Research Service for federally connected tax expenditures in the tax expenditure report . However,
+DOR does not include these evaluations of the MID in the report.
+The lack of evaluation of the MID limits public information and hinders the ability of
+policymakers to make informed decisions
+In addition to the past budget constraints noted above, we identified several factors that contribute to
+the lack of evaluation the MID currently receives in Oregon, including a perceived lack of political
+feasibility in changing the policy, limited state-level administration, and the fact there is not an agency
+directly accountable for its performance. It is critical a $1 billion-dollar biennial tax program such as the
+MID be regularly reviewed and evaluated to ensure policymakers and the pu blic can make informed
+decisions about its costs and benefits.
+Generally, DOR has held it does not advise the Legislature on tax policy issues unless directed to do so.
+Although state statute allows DOR the ability to review and recommend changes to Oregon  tax law, the
+agency has interpreted this statute to extend only to correcting administrative inequities, closing
+The cover of 2021-23 Tax Expenditure Report
+Oregon Secretary of State | Report 2022-11 | March 2022 | page 27
+loopholes and administrative inefficiencies, and establishing incentives for voluntary participation and
+compliance. Some stakeholders told us making changes to the MID has not been seen as politically
+feasible, limiting the perceived value of evaluating it.
+Another cause for the MID’s lack of evaluation is that other than being included as a deduction on state
+tax returns, it requires limited state-level administration. As a result, there is not an agency directly
+accountable for its performance or incorporates it into its strategy. While OHCS provided previous
+evaluation of the MID, it does not have the data required for a systematic evaluation. Although DOR is
+the state agency administering the MID and has most of the data required for a systematic evaluation,
+it is an administrative agency and not responsible for the housing program area.
+The Government Accountability Office reports “for tax expenditures without logical connections to
+program agencies, such as those with tax administration purposes like the exclusion from income of
+capital gains from the sale of a principal residence, [the U.S] Treasury may be the most appropriate
+agency to conduct an evaluation. For many tax expenditures, evaluations will likely require
+collaboration among agencies.” It is possible cross-agency collaboration will be required to ensure the
+MID receives sufficient and regular review.
+According to best practices, including a detailed evaluation of tax expenditures like the MID, along with
+a clearly defined purpose, promotes meaningful discourse about whether a particular tax expenditure
+should be retained, modified, or eliminated. In addition, the Center for Budget and Policy Priorities
+notes it is important for state policymakers to have the information they need to decide whether the
+benefits of conforming to the federal tax code are worth the resulting revenue loss. Without
+information on the costs and benefits of the MID, lawmakers cannot make an informed decision on
+whether its continuation is in Oregon’s best interest. Currently, stakeholders, constituents, and the
+media may not have enough information to have a meaningful debate about the value of the MID.
+Oregon Secretary of State | Report 2022-11 | March 2022 | page 28
+Recommendations
+Due to its role as a tax administration agency, DOR management told us the agency is not responsible
+for the design of the MID or its outcomes; therefore, we did not make recommendations to the agency
+to address the findings. Additionally, while DOR plays a key role in the tax expenditure reporting
+process, statute does not specifically identify it as accountable for evaluating the MID.
+Barring Legislative action, the MID, as currently designed, will continue to produce inequitable results.
+To inform potential changes for a more equitable policy, a regular evaluation is warranted.
+To help guide future evaluations and inform policymakers and the public, we recommend the
+Legislature:
+1. Identify a clear purpose for the MID in statute and determine if changes to the design of the MID
+are necessary to ensure that the identified purpose is met.
+2. Identify a state agency that will be responsible for regularly evaluating the MID to ensure it
+meets its legislatively identified purpose.
+Oregon Secretary of State | Report 2022-11 | March 2022 | page 29
+Objective, Scope, and Methodology
+Objective
+This audit had two objectives:
+• Determine the distribution and equity of the MID in Oregon by income, geography,
+and race and ethnicity.
+• Determine the current level of review the MID receives and who should be
+accountable for assessing its effectiveness.
+Scope
+This audit focused on the distribution and equity of the MID as part of Oregon’s income tax system
+using data from the 2018 tax year, the most recent year available. We did not review controls or
+monitoring practices used by DOR to ensure taxpayer compliance with the MID’s  rules.
+We focused primarily on the level of review the MID receives from DOR and other relevant state
+agencies. We also, as appropriate, examined the practices used in Oregon, other states, and by the
+federal government to review and evaluate tax expenditures more generally.
+Methodology
+To address our objectives, we used a methodology that included, but was not limited to: conducting
+interviews, reviewing documentation, reviewing leading practices and approaches used in other states ,
+and analyzing 2018 Oregon income tax data and data from the 2018 American Community Survey.
+To learn about the views, opinions, and perspectives of stakeholders we conducted interviews with the
+Oregon Association of Certified Public Accountants, the Coalition of Communities of Color, the Oregon
+Realtors Association, the Oregon Homebuilders Association, the Oregon Bankers Association, Housing
+Oregon, the Welcome Home Coalition, and the Oregon Center for Public Policy. We also met with
+members of the Oregon Legislature and staff at the Legislative Revenue Office.
+We met with DOR staff and management to gain an understanding of DOR’s role in administering and
+evaluating the MID. We also met with staff from the Governor’s Office to gain an understanding of the
+Governor’s role in the current tax expenditure review process.
+To learn the barriers faced by low- to moderate-income prospective homebuyers and the MID’s
+effectiveness at addressing these barriers, we met with homeownership counselors from the following
+seven OHCS certified Homeownership Centers:
+• Columbia Cascade Housing Corporation;
+• Community Connection of Northeast Oregon;
+• Hacienda Community Develop Corporation;
+• Neighborworks Umpqua;
+• NeighborImpact
+• The African-American Alliance for Homeownership and
+• DevNW
+Oregon Secretary of State | Report 2022-11 | March 2022 | page 30
+We reviewed state and federal statutes, IRS Code, and other government publications to determine
+how the MID is supposed to operate and to determine the level of review it is supposed to receive. We
+reviewed current and past tax expenditure report and other public income tax reports created by DOR.
+We reviewed research reports and other studies as well as practices in other states in order to identify
+leading practices for enhancing the equity of itemized deductions like the MID , as well as to identify
+leading practices for the review and evaluation of MID policies, and tax expenditures more generally.
+To determine the distribution of the MID by income and county we analyzed income tax data provided
+by DOR for the 2018 tax year that included DOR’s tax expenditure calculations for the MID. This data
+included more than 2.1 million taxpayer records. We focused this analysis on full-time resident
+taxpayers. To determine the distribution by race and ethnicity we relied on data on homeownership
+and income from the 2018 American Community Survey. We assessed the reliability of these data and
+found them to be sufficiently reliable for our purposes.
+Internal control review
+We determined internal controls were not relevant to our audit objectives and did not review them as
+part of our planned work.20
+We conducted this performance audit in accordance with generally accepted government auditing
+standards. Those standards require that we plan and perform the audit to obtain sufficient, appropriate
+evidence to provide a reasonable basis for our findings and conclusions based on our audit objectives.
+We believe that the evidence obtained provides a reasonable basis for our findings and conclusions
+based on our audit objectives.
+We sincerely appreciate the courtesies and cooperation extended by officials and employees of DOR
+during the course of this audit.
+About the Secretary of State Audits Division
+The Oregon Constitution provides that the Secretary of State shall be, by virtue of the office, Auditor
+of Public Accounts. The Audits Division performs this duty. The division reports to the elected
+Secretary of State and is independent of other agencies within the Executive, Legislative, and Jud icial
+branches of Oregon government. The division has constitutional authority to audit all state officers,
+agencies, boards and commissions as well as administer municipal audit law.
+20 Auditors relied on standards for internal controls from the U.S. Government Accountability Office, report GAO-14-704G.
+Audit team
+Olivia Recheked, MPA, Audit Manager
+Jonathan Bennett, MPA, Lead Auditor
+Hillary Hahn, MPP, Staff Auditor
+Department of Revenue
+955 Center St NE
+Salem, OR  97301-2555
+www.oregon.gov/dor
+150-800-075 (Rev. 03-15)
+March 11, 2022
+Kip R. Memmott, Director
+Secretary of State, Audits Division
+255 Capitol Street N.E., Suite 500
+Salem, Oregon 97310
+Dear Mr. Memmott:
+The Department of Revenue appreciates the attention devoted to the Mortgage Interest
+Deduction audit by the Audits Division and for allowing us to provide comments on the report.
+As part of the biennial budget process, the governor is required by statute to develop a report
+on all “tax expenditures” for all tax programs in Oregon. The Department of Revenue has been
+the main organizer and contributor to this report since it first began more than two decades
+ago. Oregon statute requires that the biennial Tax Expenditure Report, “determine whether
+each tax expenditure has successfully achieved the purpose for which the tax expenditure was
+enacted and currently serves” (ORS 291.203). Yet, for most tax expenditures, Oregon statute
+does not specify the purpose of the expenditure. To address this shortcoming, a 2013 law
+change (ORS 173.025) required that Revenue Impact Statements prepared by the Legislative
+Revenue Office “must include a statement describing the public policy purpose of the tax
+expenditure.” Although this change has been helpful in providing clarity of purpose, it has only
+addressed tax expenditures that have been created or extended since 2013. The purpose of
+most tax expenditures remains unknown.
+The federal government reviews and analyzes federal tax policies. In the upcoming 2023-25 Tax
+Expenditure Report, the department will incorporate clear citations of these federal analyses
+where Oregon law connects to the federal tax expenditure, including for the mortgage interest
+deduction, to better inform readers.
+Thank you again for your partnership and for including us in the review of the draft audit.
+Betsy Imholt
+Director
+This report is intended to promote the best possible
+management of public resources.
+Copies may be obtained from:
+Oregon Audits Division
+255 Capitol St NE, Suite 500
+Salem OR 97310
+(503) 986-2255
+audits.sos@oregon.gov
+sos.oregon.gov/audits

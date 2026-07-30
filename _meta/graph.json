@@ -1,8 +1,8 @@
 {
  "corpus": "oregon-audits",
  "n_nodes": 242,
- "n_edges": 0,
- "n_edges_external": 0,
+ "n_edges": 576,
+ "n_edges_external": 576,
  "nodes": [
   {
    "id": "2020-01",
@@ -1457,5 +1457,2886 @@
    "path": "reports/2026-20.md"
   }
  ],
- "edges": []
+ "edges": [
+  {
+   "from": "2020-02",
+   "type": "references_external",
+   "to": "ORS 297.405"
+  },
+  {
+   "from": "2020-03",
+   "type": "references_external",
+   "to": "ORS 284.142"
+  },
+  {
+   "from": "2020-03",
+   "type": "references_external",
+   "to": "ORS 284.118"
+  },
+  {
+   "from": "2020-07",
+   "type": "references_external",
+   "to": "ORS 297.466"
+  },
+  {
+   "from": "2020-08",
+   "type": "references_external",
+   "to": "ORS 238.435"
+  },
+  {
+   "from": "2020-09",
+   "type": "references_external",
+   "to": "ORS 238.415"
+  },
+  {
+   "from": "2020-10",
+   "type": "references_external",
+   "to": "ORS 238.420"
+  },
+  {
+   "from": "2020-11",
+   "type": "references_external",
+   "to": "ORS 276.227"
+  },
+  {
+   "from": "2020-11",
+   "type": "references_external",
+   "to": "ORS 192.355"
+  },
+  {
+   "from": "2020-11",
+   "type": "references_external",
+   "to": "OAR 125-125-0150"
+  },
+  {
+   "from": "2020-11",
+   "type": "references_external",
+   "to": "OAR 125-125-0300"
+  },
+  {
+   "from": "2020-13",
+   "type": "references_external",
+   "to": "ORS 285B.455"
+  },
+  {
+   "from": "2020-13",
+   "type": "references_external",
+   "to": "ORS 293.701"
+  },
+  {
+   "from": "2020-13",
+   "type": "references_external",
+   "to": "ORS 293.726"
+  },
+  {
+   "from": "2020-14",
+   "type": "references_external",
+   "to": "OAR 411-031-0040"
+  },
+  {
+   "from": "2020-15",
+   "type": "references_external",
+   "to": "ORS 295.015"
+  },
+  {
+   "from": "2020-17",
+   "type": "references_external",
+   "to": "ORS 192.345"
+  },
+  {
+   "from": "2020-19",
+   "type": "references_external",
+   "to": "ORS 177.180"
+  },
+  {
+   "from": "2020-20",
+   "type": "references_external",
+   "to": "ORS 327.856"
+  },
+  {
+   "from": "2020-21",
+   "type": "references_external",
+   "to": "ORS 342.143"
+  },
+  {
+   "from": "2020-21",
+   "type": "references_external",
+   "to": "ORS 163A.005"
+  },
+  {
+   "from": "2020-21",
+   "type": "references_external",
+   "to": "ORS 163A.060"
+  },
+  {
+   "from": "2020-21",
+   "type": "references_external",
+   "to": "ORS 181A.195"
+  },
+  {
+   "from": "2020-21",
+   "type": "references_external",
+   "to": "ORS 329A.030"
+  },
+  {
+   "from": "2020-21",
+   "type": "references_external",
+   "to": "OAR 414-061-0045"
+  },
+  {
+   "from": "2020-21",
+   "type": "references_external",
+   "to": "OAR 407-007-0279"
+  },
+  {
+   "from": "2020-21",
+   "type": "references_external",
+   "to": "OAR 407-007-0020"
+  },
+  {
+   "from": "2020-22",
+   "type": "references_external",
+   "to": "ORS 180.160"
+  },
+  {
+   "from": "2020-22",
+   "type": "references_external",
+   "to": "ORS 290.047"
+  },
+  {
+   "from": "2020-22",
+   "type": "references_external",
+   "to": "ORS 291.047"
+  },
+  {
+   "from": "2020-22",
+   "type": "references_external",
+   "to": "OAR 137-045-0090"
+  },
+  {
+   "from": "2020-22",
+   "type": "references_external",
+   "to": "OAR 137-045-0050"
+  },
+  {
+   "from": "2020-25",
+   "type": "references_external",
+   "to": "ORS 468.440"
+  },
+  {
+   "from": "2020-25",
+   "type": "references_external",
+   "to": "OAR 340-054-0065"
+  },
+  {
+   "from": "2020-26",
+   "type": "references_external",
+   "to": "ORS 419B.356"
+  },
+  {
+   "from": "2020-27",
+   "type": "references_external",
+   "to": "ORS 731.554"
+  },
+  {
+   "from": "2020-27",
+   "type": "references_external",
+   "to": "ORS 293.726"
+  },
+  {
+   "from": "2020-28",
+   "type": "references_external",
+   "to": "ORS 293.726"
+  },
+  {
+   "from": "2020-28",
+   "type": "references_external",
+   "to": "ORS 238.420"
+  },
+  {
+   "from": "2020-28",
+   "type": "references_external",
+   "to": "ORS 238.415"
+  },
+  {
+   "from": "2020-29",
+   "type": "references_external",
+   "to": "ORS 366.215"
+  },
+  {
+   "from": "2020-29",
+   "type": "references_external",
+   "to": "OAR 731-012-0020"
+  },
+  {
+   "from": "2020-30",
+   "type": "references_external",
+   "to": "ORS 293.701"
+  },
+  {
+   "from": "2020-30",
+   "type": "references_external",
+   "to": "ORS 293.718"
+  },
+  {
+   "from": "2020-31",
+   "type": "references_external",
+   "to": "ORS 293.265"
+  },
+  {
+   "from": "2020-31",
+   "type": "references_external",
+   "to": "ORS 295.015"
+  },
+  {
+   "from": "2020-31",
+   "type": "references_external",
+   "to": "ORS 293.718"
+  },
+  {
+   "from": "2020-32",
+   "type": "references_external",
+   "to": "ORS 418.985"
+  },
+  {
+   "from": "2020-32",
+   "type": "references_external",
+   "to": "ORS 418.976"
+  },
+  {
+   "from": "2020-32",
+   "type": "references_external",
+   "to": "ORS 430.640"
+  },
+  {
+   "from": "2020-32",
+   "type": "references_external",
+   "to": "ORS 430.708"
+  },
+  {
+   "from": "2020-32",
+   "type": "references_external",
+   "to": "ORS 430.632"
+  },
+  {
+   "from": "2020-33",
+   "type": "references_external",
+   "to": "ORS 293.861"
+  },
+  {
+   "from": "2020-33",
+   "type": "references_external",
+   "to": "ORS 293.863"
+  },
+  {
+   "from": "2020-33",
+   "type": "references_external",
+   "to": "ORS 293.701"
+  },
+  {
+   "from": "2020-33",
+   "type": "references_external",
+   "to": "ORS 293.718"
+  },
+  {
+   "from": "2020-34",
+   "type": "references_external",
+   "to": "ORS 240.145"
+  },
+  {
+   "from": "2020-34",
+   "type": "references_external",
+   "to": "ORS 240.215"
+  },
+  {
+   "from": "2020-34",
+   "type": "references_external",
+   "to": "ORS 240.235"
+  },
+  {
+   "from": "2020-34",
+   "type": "references_external",
+   "to": "ORS 240.311"
+  },
+  {
+   "from": "2020-35",
+   "type": "references_external",
+   "to": "ORS 407.095"
+  },
+  {
+   "from": "2020-37",
+   "type": "references_external",
+   "to": "ORS 646A.602"
+  },
+  {
+   "from": "2020-38",
+   "type": "references_external",
+   "to": "ORS 243.302"
+  },
+  {
+   "from": "2020-38",
+   "type": "references_external",
+   "to": "ORS 30.260"
+  },
+  {
+   "from": "2020-39",
+   "type": "references_external",
+   "to": "OAR 101-001-0015"
+  },
+  {
+   "from": "2020-41",
+   "type": "references_external",
+   "to": "ORS 98.302"
+  },
+  {
+   "from": "2020-42",
+   "type": "references_external",
+   "to": "ORS 293.701"
+  },
+  {
+   "from": "2020-42",
+   "type": "references_external",
+   "to": "ORS 238.435"
+  },
+  {
+   "from": "2020-42",
+   "type": "references_external",
+   "to": "ORS 238.555"
+  },
+  {
+   "from": "2020-42",
+   "type": "references_external",
+   "to": "ORS 238.360"
+  },
+  {
+   "from": "2020-42",
+   "type": "references_external",
+   "to": "ORS 238A.400"
+  },
+  {
+   "from": "2020-42",
+   "type": "references_external",
+   "to": "ORS 238.420"
+  },
+  {
+   "from": "2020-42",
+   "type": "references_external",
+   "to": "ORS 238.415"
+  },
+  {
+   "from": "2020-42",
+   "type": "references_external",
+   "to": "ORS 243.400"
+  },
+  {
+   "from": "2020-42",
+   "type": "references_external",
+   "to": "ORS 238.410"
+  },
+  {
+   "from": "2020-42",
+   "type": "references_external",
+   "to": "ORS 293.726"
+  },
+  {
+   "from": "2020-42",
+   "type": "references_external",
+   "to": "ORS 238.255"
+  },
+  {
+   "from": "2020-42",
+   "type": "references_external",
+   "to": "ORS 192.630"
+  },
+  {
+   "from": "2020-42",
+   "type": "references_external",
+   "to": "OAR 459-007-0530"
+  },
+  {
+   "from": "2020-43",
+   "type": "references_external",
+   "to": "OAR 736-006-0145"
+  },
+  {
+   "from": "2020-43",
+   "type": "references_external",
+   "to": "OAR 695-010-0030"
+  },
+  {
+   "from": "2020-45",
+   "type": "references_external",
+   "to": "ORS 461.500"
+  },
+  {
+   "from": "2020-45",
+   "type": "references_external",
+   "to": "ORS 461.548"
+  },
+  {
+   "from": "2020-45",
+   "type": "references_external",
+   "to": "ORS 461.510"
+  },
+  {
+   "from": "2020-45",
+   "type": "references_external",
+   "to": "ORS 293.726"
+  },
+  {
+   "from": "2020-45",
+   "type": "references_external",
+   "to": "ORS 238.420"
+  },
+  {
+   "from": "2020-45",
+   "type": "references_external",
+   "to": "ORS 238.415"
+  },
+  {
+   "from": "2020-45",
+   "type": "references_external",
+   "to": "ORS 243.135"
+  },
+  {
+   "from": "2020-46",
+   "type": "references_external",
+   "to": "ORS 692.320"
+  },
+  {
+   "from": "2020-46",
+   "type": "references_external",
+   "to": "ORS 692.415"
+  },
+  {
+   "from": "2020-46",
+   "type": "references_external",
+   "to": "ORS 692.275"
+  },
+  {
+   "from": "2020-46",
+   "type": "references_external",
+   "to": "OAR 830-030-0004"
+  },
+  {
+   "from": "2020-46",
+   "type": "references_external",
+   "to": "OAR 125-247-0200"
+  },
+  {
+   "from": "2021-01",
+   "type": "references_external",
+   "to": "ORS 297.010"
+  },
+  {
+   "from": "2021-01",
+   "type": "references_external",
+   "to": "ORS 171.585"
+  },
+  {
+   "from": "2021-01",
+   "type": "references_external",
+   "to": "ORS 741.220"
+  },
+  {
+   "from": "2021-01",
+   "type": "references_external",
+   "to": "ORS 297.405"
+  },
+  {
+   "from": "2021-04",
+   "type": "references_external",
+   "to": "ORS 286A.560"
+  },
+  {
+   "from": "2021-04",
+   "type": "references_external",
+   "to": "ORS 367.605"
+  },
+  {
+   "from": "2021-04",
+   "type": "references_external",
+   "to": "ORS 456.645"
+  },
+  {
+   "from": "2021-04",
+   "type": "references_external",
+   "to": "ORS 285B.467"
+  },
+  {
+   "from": "2021-04",
+   "type": "references_external",
+   "to": "ORS 285B.572"
+  },
+  {
+   "from": "2021-04",
+   "type": "references_external",
+   "to": "ORS 283.085"
+  },
+  {
+   "from": "2021-04",
+   "type": "references_external",
+   "to": "ORS 285B.560"
+  },
+  {
+   "from": "2021-04",
+   "type": "references_external",
+   "to": "ORS 238.435"
+  },
+  {
+   "from": "2021-04",
+   "type": "references_external",
+   "to": "ORS 238.415"
+  },
+  {
+   "from": "2021-04",
+   "type": "references_external",
+   "to": "ORS 285C.175"
+  },
+  {
+   "from": "2021-04",
+   "type": "references_external",
+   "to": "ORS 285C.240"
+  },
+  {
+   "from": "2021-04",
+   "type": "references_external",
+   "to": "ORS 285C.495"
+  },
+  {
+   "from": "2021-04",
+   "type": "references_external",
+   "to": "ORS 315.331"
+  },
+  {
+   "from": "2021-04",
+   "type": "references_external",
+   "to": "ORS 455.500"
+  },
+  {
+   "from": "2021-04",
+   "type": "references_external",
+   "to": "ORS 315.354"
+  },
+  {
+   "from": "2021-04",
+   "type": "references_external",
+   "to": "ORS 314.835"
+  },
+  {
+   "from": "2021-04",
+   "type": "references_external",
+   "to": "ORS 314.684"
+  },
+  {
+   "from": "2021-04",
+   "type": "references_external",
+   "to": "ORS 468.195"
+  },
+  {
+   "from": "2021-04",
+   "type": "references_external",
+   "to": "ORS 456.519"
+  },
+  {
+   "from": "2021-04",
+   "type": "references_external",
+   "to": "ORS 353.556"
+  },
+  {
+   "from": "2021-04",
+   "type": "references_external",
+   "to": "ORS 367.620"
+  },
+  {
+   "from": "2021-04",
+   "type": "references_external",
+   "to": "ORS 456.661"
+  },
+  {
+   "from": "2021-05",
+   "type": "references_external",
+   "to": "ORS 297.466"
+  },
+  {
+   "from": "2021-06",
+   "type": "references_external",
+   "to": "ORS 238.435"
+  },
+  {
+   "from": "2021-07",
+   "type": "references_external",
+   "to": "ORS 238.420"
+  },
+  {
+   "from": "2021-08",
+   "type": "references_external",
+   "to": "ORS 238.415"
+  },
+  {
+   "from": "2021-09",
+   "type": "references_external",
+   "to": "OAR 333-019-0061"
+  },
+  {
+   "from": "2021-10",
+   "type": "references_external",
+   "to": "ORS 285B.455"
+  },
+  {
+   "from": "2021-10",
+   "type": "references_external",
+   "to": "ORS 293.701"
+  },
+  {
+   "from": "2021-10",
+   "type": "references_external",
+   "to": "ORS 293.726"
+  },
+  {
+   "from": "2021-11",
+   "type": "references_external",
+   "to": "ORS 295.015"
+  },
+  {
+   "from": "2021-12",
+   "type": "references_external",
+   "to": "ORS 352.002"
+  },
+  {
+   "from": "2021-12",
+   "type": "references_external",
+   "to": "ORS 192.345"
+  },
+  {
+   "from": "2021-14",
+   "type": "references_external",
+   "to": "ORS 244.050"
+  },
+  {
+   "from": "2021-14",
+   "type": "references_external",
+   "to": "ORS 171.742"
+  },
+  {
+   "from": "2021-15",
+   "type": "references_external",
+   "to": "ORS 468.440"
+  },
+  {
+   "from": "2021-15",
+   "type": "references_external",
+   "to": "OAR 340-054-0065"
+  },
+  {
+   "from": "2021-18",
+   "type": "references_external",
+   "to": "ORS 177.180"
+  },
+  {
+   "from": "2021-20",
+   "type": "references_external",
+   "to": "ORS 675.160"
+  },
+  {
+   "from": "2021-21",
+   "type": "references_external",
+   "to": "ORS 321.015"
+  },
+  {
+   "from": "2021-21",
+   "type": "references_external",
+   "to": "ORS 321.005"
+  },
+  {
+   "from": "2021-21",
+   "type": "references_external",
+   "to": "ORS 526.640"
+  },
+  {
+   "from": "2021-21",
+   "type": "references_external",
+   "to": "ORS 526.610"
+  },
+  {
+   "from": "2021-21",
+   "type": "references_external",
+   "to": "ORS 576.304"
+  },
+  {
+   "from": "2021-21",
+   "type": "references_external",
+   "to": "ORS 291.002"
+  },
+  {
+   "from": "2021-21",
+   "type": "references_external",
+   "to": "ORS 192.235"
+  },
+  {
+   "from": "2021-21",
+   "type": "references_external",
+   "to": "ORS 526.650"
+  },
+  {
+   "from": "2021-21",
+   "type": "references_external",
+   "to": "ORS 171.725"
+  },
+  {
+   "from": "2021-21",
+   "type": "references_external",
+   "to": "ORS 526.645"
+  },
+  {
+   "from": "2021-21",
+   "type": "references_external",
+   "to": "ORS 526.600"
+  },
+  {
+   "from": "2021-21",
+   "type": "references_external",
+   "to": "ORS 526.615"
+  },
+  {
+   "from": "2021-21",
+   "type": "references_external",
+   "to": "ORS 240.235"
+  },
+  {
+   "from": "2021-21",
+   "type": "references_external",
+   "to": "ORS 576.410"
+  },
+  {
+   "from": "2021-21",
+   "type": "references_external",
+   "to": "ORS 576.425"
+  },
+  {
+   "from": "2021-21",
+   "type": "references_external",
+   "to": "ORS 576.430"
+  },
+  {
+   "from": "2021-21",
+   "type": "references_external",
+   "to": "ORS 291.026"
+  },
+  {
+   "from": "2021-21",
+   "type": "references_external",
+   "to": "ORS 321.017"
+  },
+  {
+   "from": "2021-22",
+   "type": "references_external",
+   "to": "ORS 731.554"
+  },
+  {
+   "from": "2021-22",
+   "type": "references_external",
+   "to": "ORS 293.726"
+  },
+  {
+   "from": "2021-23",
+   "type": "references_external",
+   "to": "ORS 731.554"
+  },
+  {
+   "from": "2021-23",
+   "type": "references_external",
+   "to": "ORS 293.726"
+  },
+  {
+   "from": "2021-23",
+   "type": "references_external",
+   "to": "ORS 238.420"
+  },
+  {
+   "from": "2021-23",
+   "type": "references_external",
+   "to": "ORS 238.415"
+  },
+  {
+   "from": "2021-24",
+   "type": "references_external",
+   "to": "ORS 427.104"
+  },
+  {
+   "from": "2021-25",
+   "type": "references_external",
+   "to": "ORS 276A.203"
+  },
+  {
+   "from": "2021-25",
+   "type": "references_external",
+   "to": "ORS 276A.233"
+  },
+  {
+   "from": "2021-25",
+   "type": "references_external",
+   "to": "ORS 276A.223"
+  },
+  {
+   "from": "2021-25",
+   "type": "references_external",
+   "to": "ORS 276A.300"
+  },
+  {
+   "from": "2021-25",
+   "type": "references_external",
+   "to": "ORS 276A.306"
+  },
+  {
+   "from": "2021-26",
+   "type": "references_external",
+   "to": "ORS 293.701"
+  },
+  {
+   "from": "2021-26",
+   "type": "references_external",
+   "to": "ORS 293.718"
+  },
+  {
+   "from": "2021-27",
+   "type": "references_external",
+   "to": "ORS 293.265"
+  },
+  {
+   "from": "2021-27",
+   "type": "references_external",
+   "to": "ORS 295.015"
+  },
+  {
+   "from": "2021-27",
+   "type": "references_external",
+   "to": "ORS 293.718"
+  },
+  {
+   "from": "2021-29",
+   "type": "references_external",
+   "to": "ORS 293.861"
+  },
+  {
+   "from": "2021-29",
+   "type": "references_external",
+   "to": "ORS 293.863"
+  },
+  {
+   "from": "2021-29",
+   "type": "references_external",
+   "to": "ORS 293.701"
+  },
+  {
+   "from": "2021-29",
+   "type": "references_external",
+   "to": "ORS 293.718"
+  },
+  {
+   "from": "2021-30",
+   "type": "references_external",
+   "to": "ORS 366.365"
+  },
+  {
+   "from": "2021-30",
+   "type": "references_external",
+   "to": "OAR 734-035-0150"
+  },
+  {
+   "from": "2021-31",
+   "type": "references_external",
+   "to": "ORS 192.345"
+  },
+  {
+   "from": "2021-32",
+   "type": "references_external",
+   "to": "ORS 192.345"
+  },
+  {
+   "from": "2021-33",
+   "type": "references_external",
+   "to": "ORS 243.302"
+  },
+  {
+   "from": "2021-33",
+   "type": "references_external",
+   "to": "ORS 30.260"
+  },
+  {
+   "from": "2021-34",
+   "type": "references_external",
+   "to": "ORS 98.302"
+  },
+  {
+   "from": "2021-35",
+   "type": "references_external",
+   "to": "ORS 181A.375"
+  },
+  {
+   "from": "2021-35",
+   "type": "references_external",
+   "to": "ORS 181A.640"
+  },
+  {
+   "from": "2021-35",
+   "type": "references_external",
+   "to": "OAR 259-008-0010"
+  },
+  {
+   "from": "2021-35",
+   "type": "references_external",
+   "to": "OAR 259-008-0015"
+  },
+  {
+   "from": "2021-35",
+   "type": "references_external",
+   "to": "OAR 259-008-0300"
+  },
+  {
+   "from": "2021-35",
+   "type": "references_external",
+   "to": "OAR 259-013-0230"
+  },
+  {
+   "from": "2021-36",
+   "type": "references_external",
+   "to": "ORS 407.095"
+  },
+  {
+   "from": "2021-37",
+   "type": "references_external",
+   "to": "OAR 411-035-0040"
+  },
+  {
+   "from": "2021-39",
+   "type": "references_external",
+   "to": "ORS 293.701"
+  },
+  {
+   "from": "2021-39",
+   "type": "references_external",
+   "to": "ORS 238.435"
+  },
+  {
+   "from": "2021-39",
+   "type": "references_external",
+   "to": "ORS 238.555"
+  },
+  {
+   "from": "2021-39",
+   "type": "references_external",
+   "to": "ORS 238.360"
+  },
+  {
+   "from": "2021-39",
+   "type": "references_external",
+   "to": "ORS 238A.400"
+  },
+  {
+   "from": "2021-39",
+   "type": "references_external",
+   "to": "ORS 238.420"
+  },
+  {
+   "from": "2021-39",
+   "type": "references_external",
+   "to": "ORS 238.415"
+  },
+  {
+   "from": "2021-39",
+   "type": "references_external",
+   "to": "ORS 243.400"
+  },
+  {
+   "from": "2021-39",
+   "type": "references_external",
+   "to": "ORS 238.410"
+  },
+  {
+   "from": "2021-39",
+   "type": "references_external",
+   "to": "ORS 293.726"
+  },
+  {
+   "from": "2021-39",
+   "type": "references_external",
+   "to": "ORS 238.255"
+  },
+  {
+   "from": "2021-39",
+   "type": "references_external",
+   "to": "ORS 192.630"
+  },
+  {
+   "from": "2021-39",
+   "type": "references_external",
+   "to": "OAR 459-007-0530"
+  },
+  {
+   "from": "2022-01",
+   "type": "references_external",
+   "to": "ORS 461.500"
+  },
+  {
+   "from": "2022-01",
+   "type": "references_external",
+   "to": "ORS 461.548"
+  },
+  {
+   "from": "2022-01",
+   "type": "references_external",
+   "to": "ORS 461.510"
+  },
+  {
+   "from": "2022-01",
+   "type": "references_external",
+   "to": "ORS 293.726"
+  },
+  {
+   "from": "2022-01",
+   "type": "references_external",
+   "to": "ORS 238.420"
+  },
+  {
+   "from": "2022-01",
+   "type": "references_external",
+   "to": "ORS 238.415"
+  },
+  {
+   "from": "2022-01",
+   "type": "references_external",
+   "to": "ORS 243.135"
+  },
+  {
+   "from": "2022-03",
+   "type": "references_external",
+   "to": "ORS 286A.560"
+  },
+  {
+   "from": "2022-03",
+   "type": "references_external",
+   "to": "ORS 367.605"
+  },
+  {
+   "from": "2022-03",
+   "type": "references_external",
+   "to": "ORS 456.645"
+  },
+  {
+   "from": "2022-03",
+   "type": "references_external",
+   "to": "ORS 285B.467"
+  },
+  {
+   "from": "2022-03",
+   "type": "references_external",
+   "to": "ORS 285B.572"
+  },
+  {
+   "from": "2022-03",
+   "type": "references_external",
+   "to": "ORS 283.085"
+  },
+  {
+   "from": "2022-03",
+   "type": "references_external",
+   "to": "ORS 285B.560"
+  },
+  {
+   "from": "2022-03",
+   "type": "references_external",
+   "to": "ORS 238.435"
+  },
+  {
+   "from": "2022-03",
+   "type": "references_external",
+   "to": "ORS 238.415"
+  },
+  {
+   "from": "2022-03",
+   "type": "references_external",
+   "to": "ORS 285C.175"
+  },
+  {
+   "from": "2022-03",
+   "type": "references_external",
+   "to": "ORS 285C.240"
+  },
+  {
+   "from": "2022-03",
+   "type": "references_external",
+   "to": "ORS 285C.495"
+  },
+  {
+   "from": "2022-03",
+   "type": "references_external",
+   "to": "ORS 315.331"
+  },
+  {
+   "from": "2022-03",
+   "type": "references_external",
+   "to": "ORS 455.500"
+  },
+  {
+   "from": "2022-03",
+   "type": "references_external",
+   "to": "ORS 315.354"
+  },
+  {
+   "from": "2022-03",
+   "type": "references_external",
+   "to": "ORS 314.835"
+  },
+  {
+   "from": "2022-03",
+   "type": "references_external",
+   "to": "ORS 468.195"
+  },
+  {
+   "from": "2022-03",
+   "type": "references_external",
+   "to": "ORS 456.519"
+  },
+  {
+   "from": "2022-03",
+   "type": "references_external",
+   "to": "ORS 353.556"
+  },
+  {
+   "from": "2022-03",
+   "type": "references_external",
+   "to": "ORS 367.620"
+  },
+  {
+   "from": "2022-03",
+   "type": "references_external",
+   "to": "ORS 456.661"
+  },
+  {
+   "from": "2022-07",
+   "type": "references_external",
+   "to": "ORS 238.435"
+  },
+  {
+   "from": "2022-08",
+   "type": "references_external",
+   "to": "ORS 238.415"
+  },
+  {
+   "from": "2022-09",
+   "type": "references_external",
+   "to": "ORS 238.420"
+  },
+  {
+   "from": "2022-11",
+   "type": "references_external",
+   "to": "ORS 291.201"
+  },
+  {
+   "from": "2022-11",
+   "type": "references_external",
+   "to": "ORS 316.003"
+  },
+  {
+   "from": "2022-11",
+   "type": "references_external",
+   "to": "ORS 456.605"
+  },
+  {
+   "from": "2022-11",
+   "type": "references_external",
+   "to": "ORS 291.203"
+  },
+  {
+   "from": "2022-11",
+   "type": "references_external",
+   "to": "ORS 173.025"
+  },
+  {
+   "from": "2022-17",
+   "type": "references_external",
+   "to": "ORS 431A.890"
+  },
+  {
+   "from": "2022-18",
+   "type": "references_external",
+   "to": "OAR 411-070-0315"
+  },
+  {
+   "from": "2022-19",
+   "type": "references_external",
+   "to": "ORS 177.180"
+  },
+  {
+   "from": "2022-20",
+   "type": "references_external",
+   "to": "ORS 192.345"
+  },
+  {
+   "from": "2022-22",
+   "type": "references_external",
+   "to": "ORS 731.554"
+  },
+  {
+   "from": "2022-22",
+   "type": "references_external",
+   "to": "ORS 293.726"
+  },
+  {
+   "from": "2022-22",
+   "type": "references_external",
+   "to": "ORS 278.425"
+  },
+  {
+   "from": "2022-23",
+   "type": "references_external",
+   "to": "ORS 731.554"
+  },
+  {
+   "from": "2022-23",
+   "type": "references_external",
+   "to": "ORS 293.726"
+  },
+  {
+   "from": "2022-23",
+   "type": "references_external",
+   "to": "ORS 278.425"
+  },
+  {
+   "from": "2022-23",
+   "type": "references_external",
+   "to": "ORS 238.420"
+  },
+  {
+   "from": "2022-23",
+   "type": "references_external",
+   "to": "ORS 238.415"
+  },
+  {
+   "from": "2022-24",
+   "type": "references_external",
+   "to": "ORS 327.856"
+  },
+  {
+   "from": "2022-25",
+   "type": "references_external",
+   "to": "ORS 293.701"
+  },
+  {
+   "from": "2022-25",
+   "type": "references_external",
+   "to": "ORS 293.718"
+  },
+  {
+   "from": "2022-26",
+   "type": "references_external",
+   "to": "ORS 293.265"
+  },
+  {
+   "from": "2022-26",
+   "type": "references_external",
+   "to": "ORS 295.015"
+  },
+  {
+   "from": "2022-26",
+   "type": "references_external",
+   "to": "ORS 293.718"
+  },
+  {
+   "from": "2022-28",
+   "type": "references_external",
+   "to": "ORS 293.861"
+  },
+  {
+   "from": "2022-28",
+   "type": "references_external",
+   "to": "ORS 293.863"
+  },
+  {
+   "from": "2022-28",
+   "type": "references_external",
+   "to": "ORS 293.701"
+  },
+  {
+   "from": "2022-28",
+   "type": "references_external",
+   "to": "ORS 293.718"
+  },
+  {
+   "from": "2022-29",
+   "type": "references_external",
+   "to": "ORS 285B.455"
+  },
+  {
+   "from": "2022-29",
+   "type": "references_external",
+   "to": "ORS 293.701"
+  },
+  {
+   "from": "2022-29",
+   "type": "references_external",
+   "to": "ORS 293.726"
+  },
+  {
+   "from": "2022-30",
+   "type": "references_external",
+   "to": "ORS 98.302"
+  },
+  {
+   "from": "2022-32",
+   "type": "references_external",
+   "to": "ORS 243.302"
+  },
+  {
+   "from": "2022-34",
+   "type": "references_external",
+   "to": "ORS 238.606"
+  },
+  {
+   "from": "2022-35",
+   "type": "references_external",
+   "to": "ORS 350.075"
+  },
+  {
+   "from": "2022-35",
+   "type": "references_external",
+   "to": "ORS 352.002"
+  },
+  {
+   "from": "2022-36",
+   "type": "references_external",
+   "to": "ORS 293.701"
+  },
+  {
+   "from": "2022-36",
+   "type": "references_external",
+   "to": "ORS 238.435"
+  },
+  {
+   "from": "2022-36",
+   "type": "references_external",
+   "to": "ORS 238.555"
+  },
+  {
+   "from": "2022-36",
+   "type": "references_external",
+   "to": "ORS 238.360"
+  },
+  {
+   "from": "2022-36",
+   "type": "references_external",
+   "to": "ORS 238A.400"
+  },
+  {
+   "from": "2022-36",
+   "type": "references_external",
+   "to": "ORS 238.420"
+  },
+  {
+   "from": "2022-36",
+   "type": "references_external",
+   "to": "ORS 238.415"
+  },
+  {
+   "from": "2022-36",
+   "type": "references_external",
+   "to": "ORS 243.400"
+  },
+  {
+   "from": "2022-36",
+   "type": "references_external",
+   "to": "ORS 238.410"
+  },
+  {
+   "from": "2022-36",
+   "type": "references_external",
+   "to": "ORS 293.726"
+  },
+  {
+   "from": "2022-36",
+   "type": "references_external",
+   "to": "ORS 238.255"
+  },
+  {
+   "from": "2022-36",
+   "type": "references_external",
+   "to": "ORS 192.630"
+  },
+  {
+   "from": "2022-36",
+   "type": "references_external",
+   "to": "ORS 238.442"
+  },
+  {
+   "from": "2022-36",
+   "type": "references_external",
+   "to": "OAR 459-007-0530"
+  },
+  {
+   "from": "2022-36",
+   "type": "references_external",
+   "to": "OAR 459-005-0510"
+  },
+  {
+   "from": "2023-01",
+   "type": "references_external",
+   "to": "ORS 461.500"
+  },
+  {
+   "from": "2023-01",
+   "type": "references_external",
+   "to": "ORS 461.510"
+  },
+  {
+   "from": "2023-01",
+   "type": "references_external",
+   "to": "ORS 461.548"
+  },
+  {
+   "from": "2023-01",
+   "type": "references_external",
+   "to": "ORS 293.726"
+  },
+  {
+   "from": "2023-01",
+   "type": "references_external",
+   "to": "ORS 238.420"
+  },
+  {
+   "from": "2023-01",
+   "type": "references_external",
+   "to": "ORS 238.415"
+  },
+  {
+   "from": "2023-01",
+   "type": "references_external",
+   "to": "ORS 243.135"
+  },
+  {
+   "from": "2023-03",
+   "type": "references_external",
+   "to": "ORS 413.032"
+  },
+  {
+   "from": "2023-05",
+   "type": "references_external",
+   "to": "ORS 238.435"
+  },
+  {
+   "from": "2023-07",
+   "type": "references_external",
+   "to": "ORS 238.420"
+  },
+  {
+   "from": "2023-10",
+   "type": "references_external",
+   "to": "ORS 407.095"
+  },
+  {
+   "from": "2023-12",
+   "type": "references_external",
+   "to": "ORS 286A.560"
+  },
+  {
+   "from": "2023-12",
+   "type": "references_external",
+   "to": "ORS 367.605"
+  },
+  {
+   "from": "2023-12",
+   "type": "references_external",
+   "to": "ORS 456.645"
+  },
+  {
+   "from": "2023-12",
+   "type": "references_external",
+   "to": "ORS 285B.467"
+  },
+  {
+   "from": "2023-12",
+   "type": "references_external",
+   "to": "ORS 285B.572"
+  },
+  {
+   "from": "2023-12",
+   "type": "references_external",
+   "to": "ORS 283.085"
+  },
+  {
+   "from": "2023-12",
+   "type": "references_external",
+   "to": "ORS 285B.560"
+  },
+  {
+   "from": "2023-12",
+   "type": "references_external",
+   "to": "ORS 238.435"
+  },
+  {
+   "from": "2023-12",
+   "type": "references_external",
+   "to": "ORS 238.415"
+  },
+  {
+   "from": "2023-12",
+   "type": "references_external",
+   "to": "ORS 285C.175"
+  },
+  {
+   "from": "2023-12",
+   "type": "references_external",
+   "to": "ORS 285C.240"
+  },
+  {
+   "from": "2023-12",
+   "type": "references_external",
+   "to": "ORS 285C.495"
+  },
+  {
+   "from": "2023-12",
+   "type": "references_external",
+   "to": "ORS 315.354"
+  },
+  {
+   "from": "2023-12",
+   "type": "references_external",
+   "to": "ORS 314.835"
+  },
+  {
+   "from": "2023-12",
+   "type": "references_external",
+   "to": "ORS 468.195"
+  },
+  {
+   "from": "2023-12",
+   "type": "references_external",
+   "to": "ORS 456.519"
+  },
+  {
+   "from": "2023-12",
+   "type": "references_external",
+   "to": "ORS 353.556"
+  },
+  {
+   "from": "2023-12",
+   "type": "references_external",
+   "to": "ORS 367.620"
+  },
+  {
+   "from": "2023-12",
+   "type": "references_external",
+   "to": "ORS 456.661"
+  },
+  {
+   "from": "2023-13",
+   "type": "references_external",
+   "to": "ORS 295.015"
+  },
+  {
+   "from": "2023-17",
+   "type": "references_external",
+   "to": "ORS 285B.455"
+  },
+  {
+   "from": "2023-17",
+   "type": "references_external",
+   "to": "ORS 293.701"
+  },
+  {
+   "from": "2023-17",
+   "type": "references_external",
+   "to": "ORS 293.726"
+  },
+  {
+   "from": "2023-21",
+   "type": "references_external",
+   "to": "ORS 293.231"
+  },
+  {
+   "from": "2023-22",
+   "type": "references_external",
+   "to": "ORS 731.554"
+  },
+  {
+   "from": "2023-22",
+   "type": "references_external",
+   "to": "ORS 293.726"
+  },
+  {
+   "from": "2023-22",
+   "type": "references_external",
+   "to": "ORS 278.425"
+  },
+  {
+   "from": "2023-22",
+   "type": "references_external",
+   "to": "ORS 238.420"
+  },
+  {
+   "from": "2023-22",
+   "type": "references_external",
+   "to": "ORS 238.415"
+  },
+  {
+   "from": "2023-23",
+   "type": "references_external",
+   "to": "ORS 731.554"
+  },
+  {
+   "from": "2023-23",
+   "type": "references_external",
+   "to": "ORS 293.726"
+  },
+  {
+   "from": "2023-23",
+   "type": "references_external",
+   "to": "ORS 278.425"
+  },
+  {
+   "from": "2023-24",
+   "type": "references_external",
+   "to": "ORS 462.010"
+  },
+  {
+   "from": "2023-24",
+   "type": "references_external",
+   "to": "ORS 462.304"
+  },
+  {
+   "from": "2023-24",
+   "type": "references_external",
+   "to": "ORS 167.108"
+  },
+  {
+   "from": "2023-24",
+   "type": "references_external",
+   "to": "ORS 167.117"
+  },
+  {
+   "from": "2023-25",
+   "type": "references_external",
+   "to": "ORS 735.530"
+  },
+  {
+   "from": "2023-25",
+   "type": "references_external",
+   "to": "ORS 414.312"
+  },
+  {
+   "from": "2023-25",
+   "type": "references_external",
+   "to": "OAR 410-141-3855"
+  },
+  {
+   "from": "2023-25",
+   "type": "references_external",
+   "to": "OAR 410-141-3850"
+  },
+  {
+   "from": "2023-26",
+   "type": "references_external",
+   "to": "ORS 166.525"
+  },
+  {
+   "from": "2023-26",
+   "type": "references_external",
+   "to": "ORS 124.005"
+  },
+  {
+   "from": "2023-26",
+   "type": "references_external",
+   "to": "ORS 166.256"
+  },
+  {
+   "from": "2023-26",
+   "type": "references_external",
+   "to": "ORS 1.150"
+  },
+  {
+   "from": "2023-27",
+   "type": "references_external",
+   "to": "ORS 293.265"
+  },
+  {
+   "from": "2023-27",
+   "type": "references_external",
+   "to": "ORS 295.015"
+  },
+  {
+   "from": "2023-27",
+   "type": "references_external",
+   "to": "ORS 293.718"
+  },
+  {
+   "from": "2023-28",
+   "type": "references_external",
+   "to": "ORS 293.701"
+  },
+  {
+   "from": "2023-28",
+   "type": "references_external",
+   "to": "ORS 293.718"
+  },
+  {
+   "from": "2023-30",
+   "type": "references_external",
+   "to": "ORS 293.861"
+  },
+  {
+   "from": "2023-30",
+   "type": "references_external",
+   "to": "ORS 293.863"
+  },
+  {
+   "from": "2023-30",
+   "type": "references_external",
+   "to": "ORS 293.701"
+  },
+  {
+   "from": "2023-30",
+   "type": "references_external",
+   "to": "ORS 293.718"
+  },
+  {
+   "from": "2023-31",
+   "type": "references_external",
+   "to": "ORS 107.705"
+  },
+  {
+   "from": "2023-32",
+   "type": "references_external",
+   "to": "ORS 407.095"
+  },
+  {
+   "from": "2023-33",
+   "type": "references_external",
+   "to": "ORS 98.302"
+  },
+  {
+   "from": "2023-34",
+   "type": "references_external",
+   "to": "ORS 177.180"
+  },
+  {
+   "from": "2023-35",
+   "type": "references_external",
+   "to": "ORS 243.302"
+  },
+  {
+   "from": "2023-36",
+   "type": "references_external",
+   "to": "ORS 461.500"
+  },
+  {
+   "from": "2023-36",
+   "type": "references_external",
+   "to": "ORS 461.548"
+  },
+  {
+   "from": "2023-36",
+   "type": "references_external",
+   "to": "ORS 461.510"
+  },
+  {
+   "from": "2023-36",
+   "type": "references_external",
+   "to": "ORS 293.726"
+  },
+  {
+   "from": "2023-36",
+   "type": "references_external",
+   "to": "ORS 238.420"
+  },
+  {
+   "from": "2023-36",
+   "type": "references_external",
+   "to": "ORS 238.415"
+  },
+  {
+   "from": "2023-36",
+   "type": "references_external",
+   "to": "ORS 243.135"
+  },
+  {
+   "from": "2023-38",
+   "type": "references_external",
+   "to": "ORS 293.701"
+  },
+  {
+   "from": "2023-38",
+   "type": "references_external",
+   "to": "ORS 238.435"
+  },
+  {
+   "from": "2023-38",
+   "type": "references_external",
+   "to": "ORS 238.555"
+  },
+  {
+   "from": "2023-38",
+   "type": "references_external",
+   "to": "ORS 238.360"
+  },
+  {
+   "from": "2023-38",
+   "type": "references_external",
+   "to": "ORS 238A.400"
+  },
+  {
+   "from": "2023-38",
+   "type": "references_external",
+   "to": "ORS 238A.340"
+  },
+  {
+   "from": "2023-38",
+   "type": "references_external",
+   "to": "ORS 238.420"
+  },
+  {
+   "from": "2023-38",
+   "type": "references_external",
+   "to": "ORS 238.415"
+  },
+  {
+   "from": "2023-38",
+   "type": "references_external",
+   "to": "ORS 243.400"
+  },
+  {
+   "from": "2023-38",
+   "type": "references_external",
+   "to": "ORS 238.410"
+  },
+  {
+   "from": "2023-38",
+   "type": "references_external",
+   "to": "ORS 238.515"
+  },
+  {
+   "from": "2023-38",
+   "type": "references_external",
+   "to": "ORS 293.726"
+  },
+  {
+   "from": "2023-38",
+   "type": "references_external",
+   "to": "ORS 238.255"
+  },
+  {
+   "from": "2023-38",
+   "type": "references_external",
+   "to": "ORS 192.630"
+  },
+  {
+   "from": "2023-38",
+   "type": "references_external",
+   "to": "ORS 238.488"
+  },
+  {
+   "from": "2023-38",
+   "type": "references_external",
+   "to": "ORS 238.310"
+  },
+  {
+   "from": "2023-38",
+   "type": "references_external",
+   "to": "ORS 238.442"
+  },
+  {
+   "from": "2023-38",
+   "type": "references_external",
+   "to": "OAR 459-007-0530"
+  },
+  {
+   "from": "2023-38",
+   "type": "references_external",
+   "to": "OAR 459-005-0510"
+  },
+  {
+   "from": "2023-39",
+   "type": "references_external",
+   "to": "ORS 430.392"
+  },
+  {
+   "from": "2023-39",
+   "type": "references_external",
+   "to": "ORS 430.389"
+  },
+  {
+   "from": "2024-01",
+   "type": "references_external",
+   "to": "OAR 813-006-0200"
+  },
+  {
+   "from": "2024-02",
+   "type": "references_external",
+   "to": "ORS 676.410"
+  },
+  {
+   "from": "2024-03",
+   "type": "references_external",
+   "to": "ORS 286A.560"
+  },
+  {
+   "from": "2024-03",
+   "type": "references_external",
+   "to": "ORS 367.605"
+  },
+  {
+   "from": "2024-03",
+   "type": "references_external",
+   "to": "ORS 456.645"
+  },
+  {
+   "from": "2024-03",
+   "type": "references_external",
+   "to": "ORS 285B.467"
+  },
+  {
+   "from": "2024-03",
+   "type": "references_external",
+   "to": "ORS 285B.572"
+  },
+  {
+   "from": "2024-03",
+   "type": "references_external",
+   "to": "ORS 283.085"
+  },
+  {
+   "from": "2024-03",
+   "type": "references_external",
+   "to": "ORS 285B.560"
+  },
+  {
+   "from": "2024-03",
+   "type": "references_external",
+   "to": "ORS 238.435"
+  },
+  {
+   "from": "2024-03",
+   "type": "references_external",
+   "to": "ORS 238.415"
+  },
+  {
+   "from": "2024-03",
+   "type": "references_external",
+   "to": "ORS 468.195"
+  },
+  {
+   "from": "2024-03",
+   "type": "references_external",
+   "to": "ORS 456.519"
+  },
+  {
+   "from": "2024-03",
+   "type": "references_external",
+   "to": "ORS 353.556"
+  },
+  {
+   "from": "2024-03",
+   "type": "references_external",
+   "to": "ORS 367.620"
+  },
+  {
+   "from": "2024-03",
+   "type": "references_external",
+   "to": "ORS 456.661"
+  },
+  {
+   "from": "2024-05",
+   "type": "references_external",
+   "to": "ORS 327.895"
+  },
+  {
+   "from": "2024-08",
+   "type": "references_external",
+   "to": "ORS 238.435"
+  },
+  {
+   "from": "2024-09",
+   "type": "references_external",
+   "to": "ORS 238.420"
+  },
+  {
+   "from": "2024-10",
+   "type": "references_external",
+   "to": "ORS 238.415"
+  },
+  {
+   "from": "2024-11",
+   "type": "references_external",
+   "to": "ORS 295.015"
+  },
+  {
+   "from": "2024-12",
+   "type": "references_external",
+   "to": "ORS 285B.455"
+  },
+  {
+   "from": "2024-12",
+   "type": "references_external",
+   "to": "ORS 293.701"
+  },
+  {
+   "from": "2024-12",
+   "type": "references_external",
+   "to": "ORS 293.726"
+  },
+  {
+   "from": "2024-14",
+   "type": "references_external",
+   "to": "ORS 471.810"
+  },
+  {
+   "from": "2024-14",
+   "type": "references_external",
+   "to": "ORS 735.530"
+  },
+  {
+   "from": "2024-14",
+   "type": "references_external",
+   "to": "OAR 414-175-0075"
+  },
+  {
+   "from": "2024-17",
+   "type": "references_external",
+   "to": "ORS 293.265"
+  },
+  {
+   "from": "2024-17",
+   "type": "references_external",
+   "to": "ORS 468.440"
+  },
+  {
+   "from": "2024-17",
+   "type": "references_external",
+   "to": "OAR 340-054-0065"
+  },
+  {
+   "from": "2024-17",
+   "type": "references_external",
+   "to": "OAR 340-054-0066"
+  },
+  {
+   "from": "2024-19",
+   "type": "references_external",
+   "to": "ORS 327.856"
+  },
+  {
+   "from": "2024-20",
+   "type": "references_external",
+   "to": "ORS 731.554"
+  },
+  {
+   "from": "2024-20",
+   "type": "references_external",
+   "to": "ORS 293.726"
+  },
+  {
+   "from": "2024-20",
+   "type": "references_external",
+   "to": "ORS 278.425"
+  },
+  {
+   "from": "2024-21",
+   "type": "references_external",
+   "to": "ORS 731.554"
+  },
+  {
+   "from": "2024-21",
+   "type": "references_external",
+   "to": "ORS 293.726"
+  },
+  {
+   "from": "2024-21",
+   "type": "references_external",
+   "to": "ORS 278.425"
+  },
+  {
+   "from": "2024-21",
+   "type": "references_external",
+   "to": "ORS 238.420"
+  },
+  {
+   "from": "2024-21",
+   "type": "references_external",
+   "to": "ORS 238.415"
+  },
+  {
+   "from": "2024-22",
+   "type": "references_external",
+   "to": "ORS 293.265"
+  },
+  {
+   "from": "2024-22",
+   "type": "references_external",
+   "to": "ORS 295.015"
+  },
+  {
+   "from": "2024-22",
+   "type": "references_external",
+   "to": "ORS 293.718"
+  },
+  {
+   "from": "2024-23",
+   "type": "references_external",
+   "to": "ORS 293.701"
+  },
+  {
+   "from": "2024-23",
+   "type": "references_external",
+   "to": "ORS 293.718"
+  },
+  {
+   "from": "2024-24",
+   "type": "references_external",
+   "to": "ORS 177.180"
+  },
+  {
+   "from": "2024-25",
+   "type": "references_external",
+   "to": "ORS 293.861"
+  },
+  {
+   "from": "2024-25",
+   "type": "references_external",
+   "to": "ORS 293.863"
+  },
+  {
+   "from": "2024-25",
+   "type": "references_external",
+   "to": "ORS 293.701"
+  },
+  {
+   "from": "2024-25",
+   "type": "references_external",
+   "to": "ORS 293.718"
+  },
+  {
+   "from": "2024-26",
+   "type": "references_external",
+   "to": "ORS 675.160"
+  },
+  {
+   "from": "2024-30",
+   "type": "references_external",
+   "to": "ORS 407.095"
+  },
+  {
+   "from": "2024-31",
+   "type": "references_external",
+   "to": "ORS 243.302"
+  },
+  {
+   "from": "2024-32",
+   "type": "references_external",
+   "to": "ORS 98.302"
+  },
+  {
+   "from": "2024-33",
+   "type": "references_external",
+   "to": "ORS 461.500"
+  },
+  {
+   "from": "2024-33",
+   "type": "references_external",
+   "to": "ORS 461.510"
+  },
+  {
+   "from": "2024-33",
+   "type": "references_external",
+   "to": "ORS 461.548"
+  },
+  {
+   "from": "2024-33",
+   "type": "references_external",
+   "to": "ORS 293.726"
+  },
+  {
+   "from": "2024-33",
+   "type": "references_external",
+   "to": "ORS 238.420"
+  },
+  {
+   "from": "2024-33",
+   "type": "references_external",
+   "to": "ORS 238.415"
+  },
+  {
+   "from": "2024-33",
+   "type": "references_external",
+   "to": "ORS 243.135"
+  },
+  {
+   "from": "2024-34",
+   "type": "references_external",
+   "to": "ORS 327.883"
+  },
+  {
+   "from": "2024-35",
+   "type": "references_external",
+   "to": "ORS 293.701"
+  },
+  {
+   "from": "2024-35",
+   "type": "references_external",
+   "to": "ORS 238.435"
+  },
+  {
+   "from": "2024-35",
+   "type": "references_external",
+   "to": "ORS 238.555"
+  },
+  {
+   "from": "2024-35",
+   "type": "references_external",
+   "to": "ORS 238A.210"
+  },
+  {
+   "from": "2024-35",
+   "type": "references_external",
+   "to": "ORS 238A.400"
+  },
+  {
+   "from": "2024-35",
+   "type": "references_external",
+   "to": "ORS 238A.340"
+  },
+  {
+   "from": "2024-35",
+   "type": "references_external",
+   "to": "ORS 238.420"
+  },
+  {
+   "from": "2024-35",
+   "type": "references_external",
+   "to": "ORS 238.415"
+  },
+  {
+   "from": "2024-35",
+   "type": "references_external",
+   "to": "ORS 243.400"
+  },
+  {
+   "from": "2024-35",
+   "type": "references_external",
+   "to": "ORS 238.410"
+  },
+  {
+   "from": "2024-35",
+   "type": "references_external",
+   "to": "ORS 238.515"
+  },
+  {
+   "from": "2024-35",
+   "type": "references_external",
+   "to": "ORS 293.726"
+  },
+  {
+   "from": "2024-35",
+   "type": "references_external",
+   "to": "ORS 238.255"
+  },
+  {
+   "from": "2024-35",
+   "type": "references_external",
+   "to": "ORS 192.630"
+  },
+  {
+   "from": "2024-35",
+   "type": "references_external",
+   "to": "OAR 459-007-0530"
+  },
+  {
+   "from": "2025-02",
+   "type": "references_external",
+   "to": "ORS 286A.560"
+  },
+  {
+   "from": "2025-02",
+   "type": "references_external",
+   "to": "ORS 367.605"
+  },
+  {
+   "from": "2025-02",
+   "type": "references_external",
+   "to": "ORS 456.645"
+  },
+  {
+   "from": "2025-02",
+   "type": "references_external",
+   "to": "ORS 285B.467"
+  },
+  {
+   "from": "2025-02",
+   "type": "references_external",
+   "to": "ORS 285B.572"
+  },
+  {
+   "from": "2025-02",
+   "type": "references_external",
+   "to": "ORS 283.085"
+  },
+  {
+   "from": "2025-02",
+   "type": "references_external",
+   "to": "ORS 285B.560"
+  },
+  {
+   "from": "2025-02",
+   "type": "references_external",
+   "to": "ORS 238.435"
+  },
+  {
+   "from": "2025-02",
+   "type": "references_external",
+   "to": "ORS 238.415"
+  },
+  {
+   "from": "2025-02",
+   "type": "references_external",
+   "to": "ORS 468.195"
+  },
+  {
+   "from": "2025-02",
+   "type": "references_external",
+   "to": "ORS 456.519"
+  },
+  {
+   "from": "2025-02",
+   "type": "references_external",
+   "to": "ORS 353.556"
+  },
+  {
+   "from": "2025-02",
+   "type": "references_external",
+   "to": "ORS 367.620"
+  },
+  {
+   "from": "2025-02",
+   "type": "references_external",
+   "to": "ORS 456.661"
+  },
+  {
+   "from": "2025-04",
+   "type": "references_external",
+   "to": "ORS 238.435"
+  },
+  {
+   "from": "2025-05",
+   "type": "references_external",
+   "to": "ORS 238.420"
+  },
+  {
+   "from": "2025-06",
+   "type": "references_external",
+   "to": "ORS 238.415"
+  },
+  {
+   "from": "2025-07",
+   "type": "references_external",
+   "to": "ORS 295.015"
+  },
+  {
+   "from": "2025-10",
+   "type": "references_external",
+   "to": "OAR 411-070-0315"
+  },
+  {
+   "from": "2025-10",
+   "type": "references_external",
+   "to": "OAR 411-070-0359"
+  },
+  {
+   "from": "2025-10",
+   "type": "references_external",
+   "to": "OAR 414-175-0075"
+  },
+  {
+   "from": "2025-11",
+   "type": "references_external",
+   "to": "ORS 177.180"
+  },
+  {
+   "from": "2025-14",
+   "type": "references_external",
+   "to": "ORS 430.629"
+  },
+  {
+   "from": "2025-14",
+   "type": "references_external",
+   "to": "ORS 182.162"
+  },
+  {
+   "from": "2025-17",
+   "type": "references_external",
+   "to": "ORS 293.265"
+  },
+  {
+   "from": "2025-17",
+   "type": "references_external",
+   "to": "ORS 468.440"
+  },
+  {
+   "from": "2025-17",
+   "type": "references_external",
+   "to": "OAR 340-054-0065"
+  },
+  {
+   "from": "2025-18",
+   "type": "references_external",
+   "to": "ORS 279A.010"
+  },
+  {
+   "from": "2025-18",
+   "type": "references_external",
+   "to": "OAR 125-247-0200"
+  },
+  {
+   "from": "2025-18",
+   "type": "references_external",
+   "to": "OAR 125-246-0170"
+  },
+  {
+   "from": "2025-18",
+   "type": "references_external",
+   "to": "OAR 137-045-0030"
+  },
+  {
+   "from": "2025-18",
+   "type": "references_external",
+   "to": "OAR 125-246-0365"
+  },
+  {
+   "from": "2025-19",
+   "type": "references_external",
+   "to": "ORS 731.554"
+  },
+  {
+   "from": "2025-19",
+   "type": "references_external",
+   "to": "ORS 293.726"
+  },
+  {
+   "from": "2025-19",
+   "type": "references_external",
+   "to": "ORS 278.425"
+  },
+  {
+   "from": "2025-19",
+   "type": "references_external",
+   "to": "ORS 238.420"
+  },
+  {
+   "from": "2025-19",
+   "type": "references_external",
+   "to": "ORS 238.415"
+  },
+  {
+   "from": "2025-20",
+   "type": "references_external",
+   "to": "ORS 731.554"
+  },
+  {
+   "from": "2025-20",
+   "type": "references_external",
+   "to": "ORS 293.726"
+  },
+  {
+   "from": "2025-20",
+   "type": "references_external",
+   "to": "ORS 278.425"
+  },
+  {
+   "from": "2025-21",
+   "type": "references_external",
+   "to": "ORS 293.265"
+  },
+  {
+   "from": "2025-21",
+   "type": "references_external",
+   "to": "ORS 295.015"
+  },
+  {
+   "from": "2025-21",
+   "type": "references_external",
+   "to": "ORS 293.718"
+  },
+  {
+   "from": "2025-22",
+   "type": "references_external",
+   "to": "ORS 293.701"
+  },
+  {
+   "from": "2025-22",
+   "type": "references_external",
+   "to": "ORS 293.718"
+  },
+  {
+   "from": "2025-23",
+   "type": "references_external",
+   "to": "ORS 293.861"
+  },
+  {
+   "from": "2025-23",
+   "type": "references_external",
+   "to": "ORS 293.863"
+  },
+  {
+   "from": "2025-23",
+   "type": "references_external",
+   "to": "ORS 293.701"
+  },
+  {
+   "from": "2025-23",
+   "type": "references_external",
+   "to": "ORS 293.718"
+  },
+  {
+   "from": "2025-24",
+   "type": "references_external",
+   "to": "ORS 407.095"
+  },
+  {
+   "from": "2025-25",
+   "type": "references_external",
+   "to": "ORS 660.149"
+  },
+  {
+   "from": "2025-26",
+   "type": "references_external",
+   "to": "ORS 243.302"
+  },
+  {
+   "from": "2025-27",
+   "type": "references_external",
+   "to": "ORS 461.500"
+  },
+  {
+   "from": "2025-27",
+   "type": "references_external",
+   "to": "ORS 461.548"
+  },
+  {
+   "from": "2025-27",
+   "type": "references_external",
+   "to": "ORS 461.510"
+  },
+  {
+   "from": "2025-27",
+   "type": "references_external",
+   "to": "ORS 293.726"
+  },
+  {
+   "from": "2025-27",
+   "type": "references_external",
+   "to": "ORS 238.420"
+  },
+  {
+   "from": "2025-27",
+   "type": "references_external",
+   "to": "ORS 238.415"
+  },
+  {
+   "from": "2025-28",
+   "type": "references_external",
+   "to": "ORS 98.302"
+  },
+  {
+   "from": "2025-29",
+   "type": "references_external",
+   "to": "ORS 430.392"
+  },
+  {
+   "from": "2025-29",
+   "type": "references_external",
+   "to": "ORS 430.389"
+  },
+  {
+   "from": "2025-30",
+   "type": "references_external",
+   "to": "ORS 293.701"
+  },
+  {
+   "from": "2025-30",
+   "type": "references_external",
+   "to": "ORS 238.435"
+  },
+  {
+   "from": "2025-30",
+   "type": "references_external",
+   "to": "ORS 238.555"
+  },
+  {
+   "from": "2025-30",
+   "type": "references_external",
+   "to": "ORS 238.360"
+  },
+  {
+   "from": "2025-30",
+   "type": "references_external",
+   "to": "ORS 238A.235"
+  },
+  {
+   "from": "2025-30",
+   "type": "references_external",
+   "to": "ORS 238A.210"
+  },
+  {
+   "from": "2025-30",
+   "type": "references_external",
+   "to": "ORS 238A.400"
+  },
+  {
+   "from": "2025-30",
+   "type": "references_external",
+   "to": "ORS 238A.340"
+  },
+  {
+   "from": "2025-30",
+   "type": "references_external",
+   "to": "ORS 238.420"
+  },
+  {
+   "from": "2025-30",
+   "type": "references_external",
+   "to": "ORS 238.415"
+  },
+  {
+   "from": "2025-30",
+   "type": "references_external",
+   "to": "ORS 243.400"
+  },
+  {
+   "from": "2025-30",
+   "type": "references_external",
+   "to": "ORS 238.410"
+  },
+  {
+   "from": "2025-30",
+   "type": "references_external",
+   "to": "ORS 238.515"
+  },
+  {
+   "from": "2025-30",
+   "type": "references_external",
+   "to": "ORS 293.726"
+  },
+  {
+   "from": "2025-30",
+   "type": "references_external",
+   "to": "ORS 238.255"
+  },
+  {
+   "from": "2025-30",
+   "type": "references_external",
+   "to": "ORS 192.630"
+  },
+  {
+   "from": "2025-30",
+   "type": "references_external",
+   "to": "OAR 459-007-0530"
+  },
+  {
+   "from": "2026-01",
+   "type": "references_external",
+   "to": "ORS 297.076"
+  },
+  {
+   "from": "2026-01",
+   "type": "references_external",
+   "to": "ORS 327.895"
+  },
+  {
+   "from": "2026-02",
+   "type": "references_external",
+   "to": "ORS 98.389"
+  },
+  {
+   "from": "2026-02",
+   "type": "references_external",
+   "to": "ORS 286A.560"
+  },
+  {
+   "from": "2026-02",
+   "type": "references_external",
+   "to": "ORS 367.605"
+  },
+  {
+   "from": "2026-02",
+   "type": "references_external",
+   "to": "ORS 456.645"
+  },
+  {
+   "from": "2026-02",
+   "type": "references_external",
+   "to": "ORS 285B.467"
+  },
+  {
+   "from": "2026-02",
+   "type": "references_external",
+   "to": "ORS 285B.572"
+  },
+  {
+   "from": "2026-02",
+   "type": "references_external",
+   "to": "ORS 367.161"
+  },
+  {
+   "from": "2026-02",
+   "type": "references_external",
+   "to": "ORS 283.085"
+  },
+  {
+   "from": "2026-02",
+   "type": "references_external",
+   "to": "ORS 285B.560"
+  },
+  {
+   "from": "2026-02",
+   "type": "references_external",
+   "to": "ORS 238.435"
+  },
+  {
+   "from": "2026-02",
+   "type": "references_external",
+   "to": "ORS 238A.235"
+  },
+  {
+   "from": "2026-02",
+   "type": "references_external",
+   "to": "ORS 238A.210"
+  },
+  {
+   "from": "2026-02",
+   "type": "references_external",
+   "to": "ORS 238.415"
+  },
+  {
+   "from": "2026-02",
+   "type": "references_external",
+   "to": "ORS 468.195"
+  },
+  {
+   "from": "2026-02",
+   "type": "references_external",
+   "to": "ORS 456.519"
+  },
+  {
+   "from": "2026-02",
+   "type": "references_external",
+   "to": "ORS 353.556"
+  },
+  {
+   "from": "2026-02",
+   "type": "references_external",
+   "to": "ORS 367.620"
+  },
+  {
+   "from": "2026-02",
+   "type": "references_external",
+   "to": "ORS 456.661"
+  },
+  {
+   "from": "2026-05",
+   "type": "references_external",
+   "to": "ORS 295.015"
+  },
+  {
+   "from": "2026-06",
+   "type": "references_external",
+   "to": "ORS 297.070"
+  },
+  {
+   "from": "2026-06",
+   "type": "references_external",
+   "to": "ORS 192.345"
+  },
+  {
+   "from": "2026-07",
+   "type": "references_external",
+   "to": "ORS 238.435"
+  },
+  {
+   "from": "2026-08",
+   "type": "references_external",
+   "to": "ORS 238.415"
+  },
+  {
+   "from": "2026-09",
+   "type": "references_external",
+   "to": "ORS 238.420"
+  },
+  {
+   "from": "2026-10",
+   "type": "references_external",
+   "to": "ORS 279A.010"
+  },
+  {
+   "from": "2026-10",
+   "type": "references_external",
+   "to": "OAR 414-175-0075"
+  },
+  {
+   "from": "2026-12",
+   "type": "references_external",
+   "to": "ORS 285B.455"
+  },
+  {
+   "from": "2026-12",
+   "type": "references_external",
+   "to": "ORS 293.701"
+  },
+  {
+   "from": "2026-12",
+   "type": "references_external",
+   "to": "ORS 293.726"
+  },
+  {
+   "from": "2026-15",
+   "type": "references_external",
+   "to": "ORS 297.070"
+  },
+  {
+   "from": "2026-15",
+   "type": "references_external",
+   "to": "ORS 192.345"
+  },
+  {
+   "from": "2026-17",
+   "type": "references_external",
+   "to": "ORS 293.265"
+  },
+  {
+   "from": "2026-17",
+   "type": "references_external",
+   "to": "ORS 468.440"
+  },
+  {
+   "from": "2026-17",
+   "type": "references_external",
+   "to": "OAR 340-054-0065"
+  },
+  {
+   "from": "2026-18",
+   "type": "references_external",
+   "to": "ORS 327.856"
+  },
+  {
+   "from": "2026-20",
+   "type": "references_external",
+   "to": "ORS 413.559"
+  },
+  {
+   "from": "2026-20",
+   "type": "references_external",
+   "to": "ORS 183.750"
+  },
+  {
+   "from": "2026-20",
+   "type": "references_external",
+   "to": "OAR 950-050-0160"
+  }
+ ]
 }

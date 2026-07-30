@@ -65,13 +65,47 @@ def content_files(config: dict):
             yield path
 
 
-def edges_for(fm: dict) -> list[dict]:
-    """Edges out of one document. Replace this when mechanical derivation is
-    needed (see the module docstring)."""
+# Citations mined from the report text. Both are anchored on the ORS/OAR prefix so a bare
+# number in a table cannot masquerade as a statute.
+#
+# ORS sections are `chapter.section` with an optional letter suffix on the chapter (163A).
+# The section is required to be >= 3 digits: PDF extraction splits long numbers across line
+# breaks, and "ORS 238.4" -- a real artifact in this corpus, from "238.415" -- would
+# otherwise be emitted as a confident edge to a section that does not exist.
+_ORS = re.compile(r"\bORS\s+(\d+[A-Z]?\.\d{3,})")
+_OAR = re.compile(r"\bOAR\s+(\d{3}-\d{3}-\d{4})")
+
+
+def edges_for(fm: dict, body: str = "") -> list[dict]:
+    """Edges out of one document: hand-authored relationships, plus statute and rule
+    citations mined from the report's own text.
+
+    THE EDGE TYPE IS `references_external`, AND THAT IS A DELIBERATE LIMIT ON THE CLAIM.
+
+    An audit citing ORS 293.726 does NOT mean the agency was found to have violated it. It
+    may be the authority for the audit itself, a standard the auditor applied, statutory
+    background, or a recommendation's legal basis. Only the report's prose says which, and
+    this function does not read prose. Emitting `implements` -- or anything that reads as a
+    finding of non-compliance -- would be inventing the auditor's conclusion, which is the
+    one thing AGENTS.md forbids outright.
+
+    So the edge means exactly "this report cites this document, go read it", and the reason
+    lives in `## Full text` where the auditor wrote it.
+
+    Targets are CITATION STRINGS, not local ids -- these documents live in
+    executive-regulatory-frameworks. The module docstring covers why that is expected.
+    """
     out = []
     for key in REL_KEYS:
         for target in (fm.get("relationships") or {}).get(key) or []:
             out.append({"from": fm["id"], "type": key, "to": target})
+    seen = set()
+    for label, rx in (("ORS", _ORS), ("OAR", _OAR)):
+        for num in rx.findall(body):
+            target = f"{label} {num}"
+            if target not in seen:
+                seen.add(target)
+                out.append({"from": fm["id"], "type": "references_external", "to": target})
     return out
 
 
@@ -85,7 +119,9 @@ def build() -> dict:
         nodes.append({"id": fm["id"], "title": fm.get("title", ""),
                       "doc_type": fm.get("doc_type", ""),
                       "path": str(path.relative_to(ROOT))})
-        edges.extend(edges_for(fm))
+        text = path.read_text(encoding="utf-8")
+        body = text.split("## Full text", 1)[1] if "## Full text" in text else ""
+        edges.extend(edges_for(fm, body))
     local = {n["id"] for n in nodes}
     return {"corpus": (config.get("corpus") or {}).get("id", ""),
             "n_nodes": len(nodes), "n_edges": len(edges),

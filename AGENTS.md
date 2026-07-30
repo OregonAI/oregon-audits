@@ -35,8 +35,24 @@ distinction is legally meaningful. Three consequences, each enforced rather than
    They are extracted into their own `## Agency response` section. Dropping one does not
    make the corpus incomplete — it makes it *wrong*, because silence reads as agreement.
 3. **Never summarize a finding into a conclusion the report did not state.** `## At a
-   glance` carries the objective, the scope, and the report's own headline conclusion.
-   Nothing else. If the report hedged, the corpus hedges.
+   glance` carries metadata and text **quoted** from the report. Nothing else. If the
+   report hedged, the corpus hedges.
+
+**All three are enforced by `src/check_guardrails.py`, on every PR** — they are not
+honour-system rules. Specifically:
+
+| rule | what fails the build |
+|---|---|
+| period visible | `audited_period_start`/`_end`/`_text` missing, or the text empty |
+| response honest | the field contradicts the body in either direction, or is not one of the three states |
+| no invented prose | a non-quoted sentence in `## At a glance`, or a `>` quotation absent from the snapshot |
+
+Two things worth knowing about how that check is written. Values **may be null** — the keys
+must be present, because an agent that cannot distinguish "not stated" from "nobody
+recorded it" will read a finding as current, and a guessed date is the harm the field
+exists to prevent. And `>` is reserved for **text quoted from the report**: our own
+disclaimer is italic rather than a blockquote, because rendering it the same way made it
+read as the auditor's words — the check caught exactly that on its first run.
 
 ## Scope
 

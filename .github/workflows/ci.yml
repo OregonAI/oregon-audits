@@ -93,6 +93,14 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install ./.toolkit
+      # PER-PR, unlike the manifest check. These derive purely from committed content --
+      # no network, deterministic -- and a PR is exactly the thing that can violate them.
+      # Eight failure modes, each verified to fire before this was wired: a missing period
+      # key, an empty period text, a response field that contradicts the body in either
+      # direction, an invalid response value, free prose in At a glance, a fabricated
+      # quotation, and an empty corpus.
+      - name: Finding-is-not-a-fact guardrails
+        run: python3 src/check_guardrails.py
       - name: Authority graph must be current
         run: python3 src/build_graph.py --check
       - name: STATUS.md must be current

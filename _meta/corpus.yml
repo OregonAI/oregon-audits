@@ -69,6 +69,24 @@ provenance:
 mcp:
   server_name: "oregon-audits"
   transports: [stdio, http]
+  # Domain frontmatter this corpus promises to serve on get_document
+  # (corpus-toolkit >= 1.11.0). Without this the toolkit returns a fixed key set and
+  # these are parsed, ignored and dropped -- they would be REQUIRED by
+  # src/check_guardrails.py and simultaneously unreachable by every caller.
+  #
+  # audited_period_* is the reason this exists. It is the field that stops a 2019 finding
+  # being read as current, and until now the only way an agent could see it was by
+  # parsing the English sentence ingest wrote into `## At a glance`. A question like
+  # "which audits cover FY2021" should be a filter, not a reading comprehension exercise.
+  extra_document_fields:
+    - report_number
+    - audit_type
+    - audited_agency
+    - report_date
+    - audited_period_start
+    - audited_period_end
+    - audited_period_text
+    - agency_response
 
 status:
   # WHAT RE-VERIFICATION MEANS HERE IS NOT WHAT IT MEANS ELSEWHERE.

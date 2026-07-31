@@ -52,6 +52,24 @@ siblings:
   - id: "executive-regulatory-frameworks"
     index_url: "https://oregonai.github.io/executive-regulatory-frameworks/corpus-index.json"
     web_base:  "https://github.com/OregonAI/executive-regulatory-frameworks/blob/main/"
+  # MEASURED before declaring, same as the sibling above. Of 393 federal citation occurrences
+  # across the 242 reports, 181 (46.1%) resolve into federal-reference. Only 28 reports cite
+  # a federal instrument at all, so this edge is NARROW AND DEEP -- but it is the one this
+  # platform was missing. An audit finds the state out of compliance with 2 CFR 200.303, and
+  # until now the requirement it was measured against resolved to nothing at all.
+  #
+  # WHAT THE SECTION SPLIT BOUGHT IS PRECISION, NOT COVERAGE, and the measurement says so
+  # plainly: against a 5-document federal-reference the same 181 citations resolve, but all
+  # 181 land on ONE document -- the whole 633,000-character part. Against the 34-document
+  # version they reach 30 distinct documents, and the 58 citations of 2 CFR 200.303 land on
+  # its 1,476 characters instead. Same rate, completely different answer.
+  #
+  # The unresolved 212 are almost entirely instruments federal-reference does not yet hold
+  # (45 CFR 75, 2 CFR 170, 42 CFR 455), NOT citations this corpus got wrong. Each begins
+  # resolving the day that instrument is ingested, with no change here.
+  - id: "federal-reference"
+    index_url: "https://oregonai.github.io/federal-reference/corpus-index.json"
+    web_base:  "https://github.com/OregonAI/federal-reference/blob/main/"
 # oregon-budget and oregon-legislature are NOT declared. Both were in the seed's plan, but
 # no scheme mines an appropriation or measure citation out of audit text yet, so declaring
 # them would add configuration that resolves nothing. Declare them with the scheme, not

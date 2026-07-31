@@ -49,3 +49,43 @@ register_scheme("ors-section", r"ORS\s+(?P<num>\d+[A-Z]?\.\d{3,})",
                 "ors-{num}", corpus="executive-regulatory-frameworks")
 register_scheme("oar-rule", r"OAR\s+(?P<num>\d{3}-\d{3}-\d{4})",
                 "oar-{num}", corpus="executive-regulatory-frameworks")
+
+# ---------------------------------------------------------------- outbound: federal instruments
+#
+# THE MEASUREMENT THAT JUSTIFIES THIS, taken before declaring anything: of 448 federal
+# citation occurrences across the 242 reports, 195 (43.5%) resolve into federal-reference.
+# 2 CFR 200.303 alone is 58 of them. Only 31 reports cite a federal instrument at all -- the
+# single audits carry nearly all of it -- so this edge is narrow and deep rather than broad.
+#
+# It is also the edge this platform was missing. An audit finds the state out of compliance
+# with 2 CFR 200.303; until now the requirement it was measured against resolved to nothing.
+#
+# IDS COME FROM src/federal_ids.py, COPIED VERBATIM from federal-reference. Sibling
+# resolution is exact-id lookup against a published corpus-index.json -- rows are
+# [title, doc_type, path], with no version, no status and no search -- so a citing corpus can
+# only reach a document whose id it can derive from the citation string alone. Sharing the
+# derivation as a pure function means both sides compute the same ids by construction; the
+# alternative is a hand-maintained table in every citing corpus, which is how
+# `pl-113-128-wioa` stayed unreachable from here without anything failing.
+#
+# Candidates for instruments federal-reference does not hold (45 CFR 75, 42 CFR 455) are
+# emitted anyway and simply miss in the index. That is deliberate: the framework reports
+# "the sibling holds no document with id(s) X", which is true and useful, and the citation
+# starts resolving on its own the day that instrument is ingested -- with no change here.
+import pathlib as _pathlib
+import sys as _sys
+
+_sys.path.insert(0, str(_pathlib.Path(__file__).resolve().parent))
+from federal_ids import CFR as _F_CFR, CJIS as _F_CJIS, IRSPUB as _F_IRS, PUBLAW as _F_PL  # noqa: E402
+from federal_ids import candidates as _federal_ids  # noqa: E402
+
+for _name, _rx in (("federal-cfr", _F_CFR), ("federal-public-law", _F_PL),
+                   ("federal-irs-pub", _F_IRS), ("federal-cjis", _F_CJIS)):
+    register_scheme(_name, _rx.pattern,
+                    # m.string, NOT m.group(0). group(0) is only the substring the
+                    # instrument pattern matched, so `IRS Pub 1075 (Rev. 09-2016)` arrived
+                    # here as `IRS Pub 1075` -- the revision was stripped before the id
+                    # function could see it, and the citation resolved to whichever revision
+                    # federal-reference happens to hold. The whole citation must reach it.
+                    resolver=lambda m: _federal_ids(m.string),
+                    corpus="federal-reference")

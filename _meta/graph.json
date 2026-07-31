@@ -1,8 +1,8 @@
 {
  "corpus": "oregon-audits",
  "n_nodes": 242,
- "n_edges": 576,
- "n_edges_external": 576,
+ "n_edges": 715,
+ "n_edges_external": 715,
  "nodes": [
   {
    "id": "2020-01",
@@ -1474,6 +1474,16 @@
    "to": "ORS 284.118"
   },
   {
+   "from": "2020-05",
+   "type": "references_external",
+   "to": "42 CFR 455"
+  },
+  {
+   "from": "2020-05",
+   "type": "references_external",
+   "to": "42 CFR 435"
+  },
+  {
    "from": "2020-07",
    "type": "references_external",
    "to": "ORS 297.466"
@@ -1532,6 +1542,91 @@
    "from": "2020-14",
    "type": "references_external",
    "to": "OAR 411-031-0040"
+  },
+  {
+   "from": "2020-14",
+   "type": "references_external",
+   "to": "2 CFR 200"
+  },
+  {
+   "from": "2020-14",
+   "type": "references_external",
+   "to": "45 CFR 265"
+  },
+  {
+   "from": "2020-14",
+   "type": "references_external",
+   "to": "45 CFR 261"
+  },
+  {
+   "from": "2020-14",
+   "type": "references_external",
+   "to": "45 CFR 263"
+  },
+  {
+   "from": "2020-14",
+   "type": "references_external",
+   "to": "42 USC 608"
+  },
+  {
+   "from": "2020-14",
+   "type": "references_external",
+   "to": "42 USC 602"
+  },
+  {
+   "from": "2020-14",
+   "type": "references_external",
+   "to": "45 CFR 95"
+  },
+  {
+   "from": "2020-14",
+   "type": "references_external",
+   "to": "42 CFR 447"
+  },
+  {
+   "from": "2020-14",
+   "type": "references_external",
+   "to": "42 CFR 433"
+  },
+  {
+   "from": "2020-14",
+   "type": "references_external",
+   "to": "42 CFR 455"
+  },
+  {
+   "from": "2020-14",
+   "type": "references_external",
+   "to": "42 CFR 435"
+  },
+  {
+   "from": "2020-14",
+   "type": "references_external",
+   "to": "45 CFR 1356"
+  },
+  {
+   "from": "2020-14",
+   "type": "references_external",
+   "to": "42 USC 673"
+  },
+  {
+   "from": "2020-14",
+   "type": "references_external",
+   "to": "45 CFR 75"
+  },
+  {
+   "from": "2020-14",
+   "type": "references_external",
+   "to": "7 CFR 247"
+  },
+  {
+   "from": "2020-14",
+   "type": "references_external",
+   "to": "7 CFR 251"
+  },
+  {
+   "from": "2020-14",
+   "type": "references_external",
+   "to": "2 CFR 180"
   },
   {
    "from": "2020-15",
@@ -1594,6 +1689,16 @@
    "to": "OAR 407-007-0020"
   },
   {
+   "from": "2020-21",
+   "type": "references_external",
+   "to": "45 CFR 98"
+  },
+  {
+   "from": "2020-21",
+   "type": "references_external",
+   "to": "42 USC 2000e"
+  },
+  {
    "from": "2020-22",
    "type": "references_external",
    "to": "ORS 180.160"
@@ -1617,6 +1722,16 @@
    "from": "2020-22",
    "type": "references_external",
    "to": "OAR 137-045-0050"
+  },
+  {
+   "from": "2020-24",
+   "type": "references_external",
+   "to": "34 CFR 300"
+  },
+  {
+   "from": "2020-24",
+   "type": "references_external",
+   "to": "20 USC 1418"
   },
   {
    "from": "2020-25",
@@ -1924,6 +2039,11 @@
    "to": "OAR 125-247-0200"
   },
   {
+   "from": "2020-46",
+   "type": "references_external",
+   "to": "16 CFR 453"
+  },
+  {
    "from": "2021-01",
    "type": "references_external",
    "to": "ORS 297.010"
@@ -2054,6 +2174,11 @@
    "to": "ORS 456.661"
   },
   {
+   "from": "2021-04",
+   "type": "references_external",
+   "to": "42 USC 1983"
+  },
+  {
    "from": "2021-05",
    "type": "references_external",
    "to": "ORS 297.466"
@@ -2077,6 +2202,11 @@
    "from": "2021-09",
    "type": "references_external",
    "to": "OAR 333-019-0061"
+  },
+  {
+   "from": "2021-09",
+   "type": "references_external",
+   "to": "42 CFR 483"
   },
   {
    "from": "2021-10",
@@ -2107,6 +2237,106 @@
    "from": "2021-12",
    "type": "references_external",
    "to": "ORS 192.345"
+  },
+  {
+   "from": "2021-13",
+   "type": "references_external",
+   "to": "2 CFR 200"
+  },
+  {
+   "from": "2021-13",
+   "type": "references_external",
+   "to": "45 CFR 265"
+  },
+  {
+   "from": "2021-13",
+   "type": "references_external",
+   "to": "45 CFR 261"
+  },
+  {
+   "from": "2021-13",
+   "type": "references_external",
+   "to": "45 CFR 263"
+  },
+  {
+   "from": "2021-13",
+   "type": "references_external",
+   "to": "42 USC 602"
+  },
+  {
+   "from": "2021-13",
+   "type": "references_external",
+   "to": "2 CFR 331"
+  },
+  {
+   "from": "2021-13",
+   "type": "references_external",
+   "to": "45 CFR 1321"
+  },
+  {
+   "from": "2021-13",
+   "type": "references_external",
+   "to": "42 CFR 435"
+  },
+  {
+   "from": "2021-13",
+   "type": "references_external",
+   "to": "42 CFR 455"
+  },
+  {
+   "from": "2021-13",
+   "type": "references_external",
+   "to": "42 CFR 447"
+  },
+  {
+   "from": "2021-13",
+   "type": "references_external",
+   "to": "45 CFR 95"
+  },
+  {
+   "from": "2021-13",
+   "type": "references_external",
+   "to": "42 CFR 433"
+  },
+  {
+   "from": "2021-13",
+   "type": "references_external",
+   "to": "42 CFR 431"
+  },
+  {
+   "from": "2021-13",
+   "type": "references_external",
+   "to": "45 CFR 1356"
+  },
+  {
+   "from": "2021-13",
+   "type": "references_external",
+   "to": "45 CFR 98"
+  },
+  {
+   "from": "2021-13",
+   "type": "references_external",
+   "to": "42 USC 9858"
+  },
+  {
+   "from": "2021-13",
+   "type": "references_external",
+   "to": "45 CFR 75"
+  },
+  {
+   "from": "2021-13",
+   "type": "references_external",
+   "to": "20 CFR 604"
+  },
+  {
+   "from": "2021-13",
+   "type": "references_external",
+   "to": "34 CFR 361"
+  },
+  {
+   "from": "2021-13",
+   "type": "references_external",
+   "to": "50 CFR 80"
   },
   {
    "from": "2021-14",
@@ -2409,6 +2639,11 @@
    "to": "OAR 411-035-0040"
   },
   {
+   "from": "2021-37",
+   "type": "references_external",
+   "to": "42 CFR 441"
+  },
+  {
    "from": "2021-39",
    "type": "references_external",
    "to": "ORS 293.701"
@@ -2654,6 +2889,11 @@
    "to": "ORS 173.025"
   },
   {
+   "from": "2022-12",
+   "type": "references_external",
+   "to": "18 USC 2331"
+  },
+  {
    "from": "2022-17",
    "type": "references_external",
    "to": "ORS 431A.890"
@@ -2662,6 +2902,66 @@
    "from": "2022-18",
    "type": "references_external",
    "to": "OAR 411-070-0315"
+  },
+  {
+   "from": "2022-18",
+   "type": "references_external",
+   "to": "2 CFR 200"
+  },
+  {
+   "from": "2022-18",
+   "type": "references_external",
+   "to": "45 CFR 261"
+  },
+  {
+   "from": "2022-18",
+   "type": "references_external",
+   "to": "2 CFR 170"
+  },
+  {
+   "from": "2022-18",
+   "type": "references_external",
+   "to": "42 USC 672"
+  },
+  {
+   "from": "2022-18",
+   "type": "references_external",
+   "to": "42 USC 671"
+  },
+  {
+   "from": "2022-18",
+   "type": "references_external",
+   "to": "45 CFR 1356"
+  },
+  {
+   "from": "2022-18",
+   "type": "references_external",
+   "to": "42 CFR 435"
+  },
+  {
+   "from": "2022-18",
+   "type": "references_external",
+   "to": "42 CFR 455"
+  },
+  {
+   "from": "2022-18",
+   "type": "references_external",
+   "to": "42 CFR 438"
+  },
+  {
+   "from": "2022-18",
+   "type": "references_external",
+   "to": "45 CFR 95"
+  },
+  {
+   "from": "2022-18",
+   "type": "references_external",
+   "to": "7 CFR 274"
+  },
+  {
+   "from": "2022-18",
+   "type": "references_external",
+   "to": "50 CFR 80"
   },
   {
    "from": "2022-19",
@@ -3054,6 +3354,101 @@
    "to": "ORS 293.231"
   },
   {
+   "from": "2023-21",
+   "type": "references_external",
+   "to": "2 CFR 200"
+  },
+  {
+   "from": "2023-21",
+   "type": "references_external",
+   "to": "24 CFR 576"
+  },
+  {
+   "from": "2023-21",
+   "type": "references_external",
+   "to": "2 CFR 180"
+  },
+  {
+   "from": "2023-21",
+   "type": "references_external",
+   "to": "2 CFR 170"
+  },
+  {
+   "from": "2023-21",
+   "type": "references_external",
+   "to": "15 USC 9058a"
+  },
+  {
+   "from": "2023-21",
+   "type": "references_external",
+   "to": "15 USC 9058c"
+  },
+  {
+   "from": "2023-21",
+   "type": "references_external",
+   "to": "45 CFR 75"
+  },
+  {
+   "from": "2023-21",
+   "type": "references_external",
+   "to": "45 CFR 264"
+  },
+  {
+   "from": "2023-21",
+   "type": "references_external",
+   "to": "45 CFR 265"
+  },
+  {
+   "from": "2023-21",
+   "type": "references_external",
+   "to": "45 CFR 261"
+  },
+  {
+   "from": "2023-21",
+   "type": "references_external",
+   "to": "45 CFR 205"
+  },
+  {
+   "from": "2023-21",
+   "type": "references_external",
+   "to": "42 USC 300x"
+  },
+  {
+   "from": "2023-21",
+   "type": "references_external",
+   "to": "31 CFR 205"
+  },
+  {
+   "from": "2023-21",
+   "type": "references_external",
+   "to": "42 CFR 433"
+  },
+  {
+   "from": "2023-21",
+   "type": "references_external",
+   "to": "42 CFR 447"
+  },
+  {
+   "from": "2023-21",
+   "type": "references_external",
+   "to": "42 CFR 455"
+  },
+  {
+   "from": "2023-21",
+   "type": "references_external",
+   "to": "42 USC 1397a"
+  },
+  {
+   "from": "2023-21",
+   "type": "references_external",
+   "to": "45 CFR 96"
+  },
+  {
+   "from": "2023-21",
+   "type": "references_external",
+   "to": "20 CFR 683"
+  },
+  {
    "from": "2023-22",
    "type": "references_external",
    "to": "ORS 731.554"
@@ -3369,6 +3764,11 @@
    "to": "OAR 813-006-0200"
   },
   {
+   "from": "2024-01",
+   "type": "references_external",
+   "to": "2 CFR 200"
+  },
+  {
    "from": "2024-02",
    "type": "references_external",
    "to": "ORS 676.410"
@@ -3499,6 +3899,126 @@
    "to": "OAR 414-175-0075"
   },
   {
+   "from": "2024-14",
+   "type": "references_external",
+   "to": "2 CFR 200"
+  },
+  {
+   "from": "2024-14",
+   "type": "references_external",
+   "to": "24 CFR 576"
+  },
+  {
+   "from": "2024-14",
+   "type": "references_external",
+   "to": "31 CFR 205"
+  },
+  {
+   "from": "2024-14",
+   "type": "references_external",
+   "to": "45 CFR 96"
+  },
+  {
+   "from": "2024-14",
+   "type": "references_external",
+   "to": "45 CFR 75"
+  },
+  {
+   "from": "2024-14",
+   "type": "references_external",
+   "to": "42 USC 300x"
+  },
+  {
+   "from": "2024-14",
+   "type": "references_external",
+   "to": "42 CFR 447"
+  },
+  {
+   "from": "2024-14",
+   "type": "references_external",
+   "to": "2 CFR 303"
+  },
+  {
+   "from": "2024-14",
+   "type": "references_external",
+   "to": "42 CFR 438"
+  },
+  {
+   "from": "2024-14",
+   "type": "references_external",
+   "to": "8 CFR 274a"
+  },
+  {
+   "from": "2024-14",
+   "type": "references_external",
+   "to": "42 CFR 431"
+  },
+  {
+   "from": "2024-14",
+   "type": "references_external",
+   "to": "42 CFR 455"
+  },
+  {
+   "from": "2024-14",
+   "type": "references_external",
+   "to": "42 CFR 433"
+  },
+  {
+   "from": "2024-14",
+   "type": "references_external",
+   "to": "45 CFR 265"
+  },
+  {
+   "from": "2024-14",
+   "type": "references_external",
+   "to": "45 CFR 261"
+  },
+  {
+   "from": "2024-14",
+   "type": "references_external",
+   "to": "45 CFR 264"
+  },
+  {
+   "from": "2024-14",
+   "type": "references_external",
+   "to": "29 USC 721"
+  },
+  {
+   "from": "2024-14",
+   "type": "references_external",
+   "to": "29 USC 723"
+  },
+  {
+   "from": "2024-14",
+   "type": "references_external",
+   "to": "29 USC 702"
+  },
+  {
+   "from": "2024-14",
+   "type": "references_external",
+   "to": "34 CFR 361"
+  },
+  {
+   "from": "2024-14",
+   "type": "references_external",
+   "to": "2 CFR 170"
+  },
+  {
+   "from": "2024-14",
+   "type": "references_external",
+   "to": "45 CFR 98"
+  },
+  {
+   "from": "2024-14",
+   "type": "references_external",
+   "to": "34 CFR 75"
+  },
+  {
+   "from": "2024-14",
+   "type": "references_external",
+   "to": "42 USC 9858"
+  },
+  {
    "from": "2024-17",
    "type": "references_external",
    "to": "ORS 293.265"
@@ -3617,6 +4137,11 @@
    "from": "2024-26",
    "type": "references_external",
    "to": "ORS 675.160"
+  },
+  {
+   "from": "2024-29",
+   "type": "references_external",
+   "to": "42 CFR 435"
   },
   {
    "from": "2024-30",
@@ -3854,6 +4379,116 @@
    "to": "OAR 414-175-0075"
   },
   {
+   "from": "2025-10",
+   "type": "references_external",
+   "to": "2 CFR 200"
+  },
+  {
+   "from": "2025-10",
+   "type": "references_external",
+   "to": "45 CFR 75"
+  },
+  {
+   "from": "2025-10",
+   "type": "references_external",
+   "to": "2 CFR 170"
+  },
+  {
+   "from": "2025-10",
+   "type": "references_external",
+   "to": "42 USC 300x"
+  },
+  {
+   "from": "2025-10",
+   "type": "references_external",
+   "to": "42 CFR 433"
+  },
+  {
+   "from": "2025-10",
+   "type": "references_external",
+   "to": "42 CFR 435"
+  },
+  {
+   "from": "2025-10",
+   "type": "references_external",
+   "to": "42 CFR 438"
+  },
+  {
+   "from": "2025-10",
+   "type": "references_external",
+   "to": "8 CFR 274a"
+  },
+  {
+   "from": "2025-10",
+   "type": "references_external",
+   "to": "42 CFR 431"
+  },
+  {
+   "from": "2025-10",
+   "type": "references_external",
+   "to": "42 CFR 455"
+  },
+  {
+   "from": "2025-10",
+   "type": "references_external",
+   "to": "42 CFR 95"
+  },
+  {
+   "from": "2025-10",
+   "type": "references_external",
+   "to": "42 CFR 488"
+  },
+  {
+   "from": "2025-10",
+   "type": "references_external",
+   "to": "45 CFR 265"
+  },
+  {
+   "from": "2025-10",
+   "type": "references_external",
+   "to": "42 USC 602"
+  },
+  {
+   "from": "2025-10",
+   "type": "references_external",
+   "to": "45 CFR 264"
+  },
+  {
+   "from": "2025-10",
+   "type": "references_external",
+   "to": "45 CFR 261"
+  },
+  {
+   "from": "2025-10",
+   "type": "references_external",
+   "to": "45 CFR 400"
+  },
+  {
+   "from": "2025-10",
+   "type": "references_external",
+   "to": "42 USC 671"
+  },
+  {
+   "from": "2025-10",
+   "type": "references_external",
+   "to": "29 USC 721"
+  },
+  {
+   "from": "2025-10",
+   "type": "references_external",
+   "to": "42 USC 655"
+  },
+  {
+   "from": "2025-10",
+   "type": "references_external",
+   "to": "38 CFR 51"
+  },
+  {
+   "from": "2025-10",
+   "type": "references_external",
+   "to": "34 CFR 361"
+  },
+  {
    "from": "2025-11",
    "type": "references_external",
    "to": "ORS 177.180"
@@ -4004,6 +4639,11 @@
    "to": "ORS 660.149"
   },
   {
+   "from": "2025-25",
+   "type": "references_external",
+   "to": "29 CFR 29"
+  },
+  {
    "from": "2025-26",
    "type": "references_external",
    "to": "ORS 243.302"
@@ -4052,6 +4692,11 @@
    "from": "2025-29",
    "type": "references_external",
    "to": "ORS 430.389"
+  },
+  {
+   "from": "2025-29",
+   "type": "references_external",
+   "to": "42 CFR 2"
   },
   {
    "from": "2025-30",
@@ -4279,6 +4924,51 @@
    "to": "OAR 414-175-0075"
   },
   {
+   "from": "2026-10",
+   "type": "references_external",
+   "to": "2 CFR 200"
+  },
+  {
+   "from": "2026-10",
+   "type": "references_external",
+   "to": "42 CFR 600"
+  },
+  {
+   "from": "2026-10",
+   "type": "references_external",
+   "to": "2 CFR 170"
+  },
+  {
+   "from": "2026-10",
+   "type": "references_external",
+   "to": "45 CFR 75"
+  },
+  {
+   "from": "2026-10",
+   "type": "references_external",
+   "to": "42 CFR 95"
+  },
+  {
+   "from": "2026-10",
+   "type": "references_external",
+   "to": "42 CFR 455"
+  },
+  {
+   "from": "2026-10",
+   "type": "references_external",
+   "to": "42 CFR 447"
+  },
+  {
+   "from": "2026-10",
+   "type": "references_external",
+   "to": "45 CFR 98"
+  },
+  {
+   "from": "2026-10",
+   "type": "references_external",
+   "to": "7 USC 2814"
+  },
+  {
    "from": "2026-12",
    "type": "references_external",
    "to": "ORS 285B.455"
@@ -4337,6 +5027,11 @@
    "from": "2026-20",
    "type": "references_external",
    "to": "OAR 950-050-0160"
+  },
+  {
+   "from": "2026-20",
+   "type": "references_external",
+   "to": "45 CFR 92"
   }
  ]
 }

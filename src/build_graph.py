@@ -75,6 +75,19 @@ def content_files(config: dict):
 _ORS = re.compile(r"\bORS\s+(\d+[A-Z]?\.\d{3,})")
 _OAR = re.compile(r"\bOAR\s+(\d{3}-\d{3}-\d{4})")
 
+# FEDERAL requirements. Single audits are audits AGAINST federal rules, so these edges are
+# the state's compliance surface -- and they point at a set Oregon's own rules largely do
+# not cite. Measured across this corpus: 2 CFR 200 (the Uniform Guidance, which governs
+# every federal grant Oregon receives) is named 180 times here and has ZERO authority
+# claims in executive-regulatory-frameworks.
+#
+# That is the case for emitting them: an intake list built only from what Oregon RULES cite
+# would rank IDEA and the Columbia River Gorge first and never reach the broadest
+# obligation the state has. These edges are unresolvable until OregonAI/federal-reference
+# exists, which is expected -- the module docstring covers cross-corpus targets.
+_FED = re.compile(r"\b(\d{1,2})\s+(U\.?\s?S\.?\s?C\.?|C\.?\s?F\.?\s?R\.?)"
+                  r"\s*(?:Part\s+|§+\s*)?(\d+[A-Za-z]?)")
+
 
 def edges_for(fm: dict, body: str = "") -> list[dict]:
     """Edges out of one document: hand-authored relationships, plus statute and rule
@@ -106,6 +119,12 @@ def edges_for(fm: dict, body: str = "") -> list[dict]:
             if target not in seen:
                 seen.add(target)
                 out.append({"from": fm["id"], "type": "references_external", "to": target})
+    for title, kind, num in _FED.findall(body):
+        k = "USC" if kind.upper().replace(" ", "").replace(".", "").startswith("USC") else "CFR"
+        target = f"{title} {k} {num}"
+        if target not in seen:
+            seen.add(target)
+            out.append({"from": fm["id"], "type": "references_external", "to": target})
     return out
 
 

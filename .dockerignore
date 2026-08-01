@@ -21,3 +21,8 @@ site/
 # `git log -1`. Without it repo_state() collapses to a constant, so content changes are
 # never picked up for the life of the process and corpus_overview reports an empty commit —
 # silently, in both cases. Build from a depth-1 clone to keep it small.
+
+# Mounted at runtime from the host, not copied. The artifact is built out of band on a GPU
+# machine; a git-clone build cannot see it anyway (gitignored), and COPYing it would put
+# hundreds of MB of vectors into an image that reads them from a bind mount.
+_meta/embeddings/

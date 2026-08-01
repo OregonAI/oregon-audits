@@ -45,8 +45,18 @@ register_scheme(
 # The section number requires >= 3 digits deliberately. PDF text extraction splits long
 # numbers across line breaks, and "ORS 238.4" (really 238.415) occurs in this corpus. A
 # looser pattern would resolve it confidently to a section that does not exist.
+# LOWERCASE THE CHAPTER LETTER. ERF ids the lettered chapters `ors-163a.005`, never
+# `ors-163A.005` — the frontmatter schema's id pattern is `^[a-z0-9][a-z0-9._-]+$`, so an
+# uppercase id is not merely absent, it is one no document is ALLOWED to have. The template
+# `ors-{num}` interpolated the capture verbatim, so every citation to a lettered chapter
+# resolved to nothing. That is where issue #81's headline came from: 163A, 181A and 238A were
+# reported to ERF as absent chapters when ERF held 285 sections of them the whole time.
+#
+# This is the failure the comment above describes — config that reads as a genuine "not
+# found" — arriving through the id rather than through the sibling.
 register_scheme("ors-section", r"ORS\s+(?P<num>\d+[A-Z]?\.\d{3,})",
-                "ors-{num}", corpus="executive-regulatory-frameworks")
+                resolver=lambda m: [f"ors-{m['num'].lower()}"],
+                corpus="executive-regulatory-frameworks")
 register_scheme("oar-rule", r"OAR\s+(?P<num>\d{3}-\d{3}-\d{4})",
                 "oar-{num}", corpus="executive-regulatory-frameworks")
 

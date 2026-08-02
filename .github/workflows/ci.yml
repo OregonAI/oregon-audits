@@ -107,6 +107,19 @@ jobs:
       # review, because CI here must not depend on a sibling checkout.
       - name: Agency crosswalk must account for every audited_agency
         run: python3 src/link_agency_registry.py --check
+      # The cross-corpus contract file. src/federal_ids.py is a verbatim copy of the
+      # canonical one in federal-reference — both sides must compute the same ids BY
+      # CONSTRUCTION, and a drifted copy diverges silently while every local check stays
+      # green (federal-reference#11; the failure class is pl-113-128-wioa, unreachable
+      # from every sibling with nothing failing). diff, not a hash compare, so the drift
+      # itself appears in the log. This is the one deliberate exception to "CI must not
+      # need the network": the parity being checked IS a cross-repo fact, and curl -sSf
+      # makes a fetch failure a loud failure rather than a silent pass.
+      - name: federal_ids.py must match the canonical copy in federal-reference
+        run: |
+          curl -sSf --retry 3 -o /tmp/canonical_federal_ids.py \
+            https://raw.githubusercontent.com/OregonAI/federal-reference/main/src/federal_ids.py
+          diff -u /tmp/canonical_federal_ids.py src/federal_ids.py
       - name: Authority graph must be current
         run: python3 src/build_graph.py --check
       - name: STATUS.md must be current

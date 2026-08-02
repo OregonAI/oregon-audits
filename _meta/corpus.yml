@@ -116,6 +116,12 @@ mcp:
     - audited_period_end
     - audited_period_text
     - agency_response
+    # The cross-corpus agency identity: audited_agency resolved to the ERF registry slug
+    # via _meta/agency-crosswalk.yml (executive-regulatory-frameworks#83). Absent, not
+    # null, on the three audited_agency values recorded as having no ERF counterpart —
+    # absence is a decision with a stated reason in the crosswalk, never a blank.
+    - agency_registry_slug
+    - agency_registry_corpus
 
 status:
   # WHAT RE-VERIFICATION MEANS HERE IS NOT WHAT IT MEANS ELSEWHERE.

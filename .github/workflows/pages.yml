@@ -49,6 +49,9 @@ jobs:
       # one.
       - name: Install dependencies
         run: pip install -r requirements.txt
+      # A stale committed chart must not deploy — same rule as the legislature's viz.
+      - name: Audit-mix chart must be current
+        run: python3 src/build_audit_mix.py --check
       - name: Build the site
         run: python3 src/build_site.py
       - uses: actions/configure-pages@v5

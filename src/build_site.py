@@ -66,6 +66,11 @@ def main() -> int:
                  f"{s['ors']} ORS, {s['oar']} OAR, the rest federal"),
         ],
         sections=[
+            Section("The audit mix, charted",
+                    '<p>Performance audits fell four-fold over five complete years while '
+                    'financial audits held flat — '
+                    '<a href="audit-mix.html">the chart, with every report behind each '
+                    'point</a>.</p>'),
             Section("A finding is not a fact", """
     <ul class="plain">
       <li>An audit report says what the <b>auditors concluded</b>. This corpus records that
@@ -97,6 +102,9 @@ def main() -> int:
         hash.</li>
     </ul>"""),
         ],
+        # The audit-mix chart (issue #4) ships beside the documents it summarises —
+        # "not an artifact". Built by src/build_audit_mix.py, gated by --check in CI.
+        extra_files=[REPO / "viz" / "audit-mix.html"],
         footer_note=("Unofficial and non-authoritative; not affiliated with the Oregon "
                      "Secretary of State."),
     ))

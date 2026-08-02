@@ -101,6 +101,12 @@ jobs:
       # quotation, and an empty corpus.
       - name: Finding-is-not-a-fact guardrails
         run: python3 src/check_guardrails.py
+      # Committed-data only, like the KPM original: every audited_agency is classified
+      # (mapped or unmapped-with-reason) and every mapped document carries the registry
+      # stamp. Referential integrity against ERF itself is --verify-registry, run in
+      # review, because CI here must not depend on a sibling checkout.
+      - name: Agency crosswalk must account for every audited_agency
+        run: python3 src/link_agency_registry.py --check
       - name: Authority graph must be current
         run: python3 src/build_graph.py --check
       - name: STATUS.md must be current

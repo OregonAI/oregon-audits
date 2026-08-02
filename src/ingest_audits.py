@@ -235,6 +235,29 @@ RESP_LABEL = {
     "none_indicated": "nothing in the report indicates one",
 }
 
+_CROSSWALK: dict | None = None
+
+
+def registry_link(audited_agency: str | None) -> dict:
+    """The two agency-registry fields for a mapped agency, {} otherwise.
+
+    Read from `_meta/agency-crosswalk.yml`, which is curated and validated separately by
+    src/link_agency_registry.py. An unmapped agency gets NO fields, not empty ones: the
+    absence is a decision recorded next door in the crosswalk's `unmapped` with a reason.
+    The 242 documents that predate the crosswalk were backfilled once with
+    `link_agency_registry.py --stamp`, whose --check keeps stamps and crosswalk agreeing.
+    """
+    global _CROSSWALK
+    if _CROSSWALK is None:
+        p = REPO_ROOT / "_meta" / "agency-crosswalk.yml"
+        data = yaml.safe_load(p.read_text(encoding="utf-8")) if p.is_file() else {}
+        _CROSSWALK = (data or {}).get("mapping") or {}
+    entry = _CROSSWALK.get(audited_agency or "")
+    if not isinstance(entry, dict) or not entry.get("slug"):
+        return {}
+    return {"agency_registry_slug": entry["slug"],
+            "agency_registry_corpus": "executive-regulatory-frameworks"}
+
 
 def build_document(src: dict, text: str, sha: str, report_date: str) -> str:
     rid = src["id"]
@@ -266,6 +289,7 @@ def build_document(src: dict, text: str, sha: str, report_date: str) -> str:
         "report_number": rid,
         "audit_type": src.get("audit_type"),
         "audited_agency": src.get("audited_agency"),
+        **registry_link(src.get("audited_agency")),
         "report_date": report_date,
         # Keys ALWAYS present, values may be null. See AGENTS.md: the harm this guards
         # against is an agent silently assuming a finding is current, and an explicit null

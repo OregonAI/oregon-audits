@@ -1,0 +1,174 @@
+note: 'Crosswalk from this corpus''s `audited_agency` strings to the executive-regulatory-frameworks
+  agency registry slug. The Audits Division names agencies in inverted catalog order
+  ("Administrative Services, Department of"); the registry carries statutory proper names
+  ("Department of Administrative Services"); nothing joined until this file existed — measured
+  at 0 of 40 exact matches (executive-regulatory-frameworks#83). Keyed on the EXACT frontmatter
+  string, not a derived key: unlike oregon-kpm, this corpus''s ingester already collapses cover-page
+  variation into one spelling per agency, so the string is the identity. Generated and validated
+  by src/link_agency_registry.py — --check runs in CI from committed data alone, --verify-registry
+  resolves every slug against ERF. An entry under `unmapped` is a DECISION with a stated reason,
+  never a blank: "we looked and there is no counterpart" and "nobody has looked yet" must not be
+  the same state. basis: exact means the two names are identical after mechanical normalisation
+  (case, punctuation, comma-inversion, a leading "Oregon"); anything more is an alias and must
+  say why in prose. Follows oregon-kpm''s _meta/agency-crosswalk.yml precedent: the table lives
+  in the consumer, correctness belongs to the registry.'
+registry_corpus: executive-regulatory-frameworks
+registry_source: https://github.com/OregonAI/executive-regulatory-frameworks/blob/main/_meta/catalog/agencies.yml
+retrieved: '2026-08-01'
+mapping:
+  'Administrative Services, Department of':
+    slug: department-of-administrative-services
+    basis: exact
+  'Business Development Department, Oregon':
+    slug: oregon-business-development-department
+    basis: exact
+  'Columbia River Gorge Commission':
+    slug: columbia-river-gorge-commission
+    basis: exact
+  'Consumer and Business Services, Department of':
+    slug: department-of-consumer-and-business-services
+    basis: exact
+  'Corrections, Department of':
+    slug: department-of-corrections
+    basis: exact
+  'Driver and Motor Vehicles Services':
+    slug: department-of-transportation-driver-and-motor-vehicle-services-division
+    basis: alias
+    note: The reports drop the ODOT parent and pluralise "Vehicles"; the registry carries the
+      division under its parent as "Driver and Motor Vehicle Services Division". Same body —
+      DMV is not a standalone agency.
+    reviewed_by: '@morficflux'
+    reviewed_on: '2026-08-01'
+  'Education, Oregon Department of':
+    slug: oregon-department-of-education
+    basis: exact
+  'Employment, Oregon Department of':
+    slug: employment-department
+    basis: alias
+    note: The statutory name is "Employment Department" (ORS 657.601 creates it without a
+      "Department of" construction); the reports file it in inverted departmental style. Same
+      body, no rename involved.
+    reviewed_by: '@morficflux'
+    reviewed_on: '2026-08-01'
+  'Energy, Oregon Department of':
+    slug: department-of-energy
+    basis: exact
+  'Environmental Quality, Department of':
+    slug: department-of-environmental-quality
+    basis: exact
+  'Forest Resources Institute, Oregon':
+    slug: oregon-forest-resources-institute
+    basis: exact
+  'Health Authority, Oregon':
+    slug: oregon-health-authority
+    basis: exact
+  'Higher Education Coordinating Commission':
+    slug: higher-education-coordinating-commission
+    basis: exact
+  'Housing and Community Services Department':
+    slug: oregon-housing-and-community-services-department
+    basis: exact
+  'Human Services, Department of':
+    slug: department-of-human-services
+    basis: exact
+  'Judicial Department, Oregon':
+    slug: judicial-department
+    basis: exact
+  'Justice, Oregon Department of':
+    slug: department-of-justice
+    basis: exact
+  'Labor and Industries, Bureau of':
+    slug: bureau-of-labor-and-industries
+    basis: exact
+  'Lands, Department of State':
+    slug: department-of-state-lands
+    basis: exact
+  'Liquor Control Commission, Oregon':
+    slug: oregon-liquor-control-commission
+    basis: exact
+  'Lottery Commission, Oregon State':
+    slug: oregon-state-lottery
+    basis: alias
+    note: The registry carries the agency ("Oregon State Lottery", OAR chapter 177); the reports
+      name its governing commission. The audits examine the lottery's operations and financial
+      statements, so the agency entry is the join target — the commission has no separate
+      registry identity.
+    reviewed_by: '@morficflux'
+    reviewed_on: '2026-08-01'
+  'Medical Board, Oregon':
+    slug: oregon-medical-board
+    basis: exact
+  'Mortuary and Cemetery Board, State':
+    slug: mortuary-and-cemetery-board
+    basis: alias
+    note: The registry drops the "State" prefix the reports carry. Only one such board exists;
+      no other registry entry is close.
+  'Oregon Government Ethics Commission':
+    slug: oregon-government-ethics-commission
+    basis: exact
+  'Parks and Recreation Department, Oregon':
+    slug: parks-and-recreation-department
+    basis: exact
+  'Patient Safety Commission, Oregon':
+    slug: oregon-patient-safety-commission
+    basis: exact
+  'Police, Department of Oregon':
+    slug: department-of-state-police
+    basis: alias
+    note: The reports' inverted form reads "Department of Oregon Police"; the body is the Oregon
+      State Police, registered as "Department of State Police" (OAR chapter 257). No other
+      police-named entry exists in the registry.
+    reviewed_by: '@morficflux'
+    reviewed_on: '2026-08-01'
+  'Public Employees Retirement System':
+    slug: oregon-public-employees-retirement-system
+    basis: exact
+  'Public Safety Standards and Training, Department of':
+    slug: department-of-public-safety-standards-and-training
+    basis: exact
+  'Racing Commission, Oregon':
+    slug: oregon-racing-commission
+    basis: exact
+  'Revenue, Department of':
+    slug: department-of-revenue
+    basis: exact
+  'SAIF Corporation':
+    slug: saif-corporation
+    basis: exact
+  'Secretary of State Audits Division':
+    slug: secretary-of-state-audits-division
+    basis: exact
+    note: 'The division appears as its own audited_agency on 31 reports — statewide financial
+      reports, hotline summaries and its own audited statements are filed under the issuing
+      division. The string maps cleanly; what it MEANS per report varies, and consumers should
+      read audit_type before treating these as "the auditor audited itself".'
+  'Tourism Commission, Oregon':
+    slug: oregon-tourism-commission
+    basis: exact
+  'Transportation, Oregon Department of':
+    slug: department-of-transportation
+    basis: exact
+  'Treasurer, Office of the State':
+    slug: oregon-state-treasury
+    basis: alias
+    note: The registry carries the agency ("Oregon State Treasury", OAR chapter 170); the reports
+      name the constitutional office that heads it. The audited entity — investment operations,
+      debt management, financial statements — is the Treasury.
+    reviewed_by: '@morficflux'
+    reviewed_on: '2026-08-01'
+  "Veterans' Affairs, Department of":
+    slug: department-of-veterans-affairs
+    basis: exact
+unmapped:
+  'Multi-Agency':
+    reason: Names no single organization. A report spanning agencies cannot be attributed to one
+      registry entry without inventing an identity the report does not state. The per-report ORS/OAR
+      citation edges still resolve each report to the specific rules and statutes it examined.
+  'Government Accountability Hotline':
+    reason: A program of the Audits Division, not an organization — hotline reports summarise tips
+      about many bodies and name no single audited agency. Mapping them to the division would
+      misread "who runs the hotline" as "who was audited".
+  'Portland Public Schools':
+    reason: A local school district, not a state agency. The registry is keyed on OAR chapter
+      assignment and a district holds none — absent by construction, the same class as
+      oregon-budget's Emergency Board.

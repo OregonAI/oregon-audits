@@ -37,7 +37,8 @@ mapping:
     note: The reports drop the ODOT parent and pluralise "Vehicles"; the registry carries the
       division under its parent as "Driver and Motor Vehicle Services Division". Same body —
       DMV is not a standalone agency.
-    review: required
+    reviewed_by: '@morficflux'
+    reviewed_on: '2026-08-01'
   'Education, Oregon Department of':
     slug: oregon-department-of-education
     basis: exact
@@ -47,7 +48,8 @@ mapping:
     note: The statutory name is "Employment Department" (ORS 657.601 creates it without a
       "Department of" construction); the reports file it in inverted departmental style. Same
       body, no rename involved.
-    review: required
+    reviewed_by: '@morficflux'
+    reviewed_on: '2026-08-01'
   'Energy, Oregon Department of':
     slug: department-of-energy
     basis: exact
@@ -91,7 +93,8 @@ mapping:
       name its governing commission. The audits examine the lottery's operations and financial
       statements, so the agency entry is the join target — the commission has no separate
       registry identity.
-    review: required
+    reviewed_by: '@morficflux'
+    reviewed_on: '2026-08-01'
   'Medical Board, Oregon':
     slug: oregon-medical-board
     basis: exact
@@ -115,7 +118,8 @@ mapping:
     note: The reports' inverted form reads "Department of Oregon Police"; the body is the Oregon
       State Police, registered as "Department of State Police" (OAR chapter 257). No other
       police-named entry exists in the registry.
-    review: required
+    reviewed_by: '@morficflux'
+    reviewed_on: '2026-08-01'
   'Public Employees Retirement System':
     slug: oregon-public-employees-retirement-system
     basis: exact
@@ -150,7 +154,8 @@ mapping:
     note: The registry carries the agency ("Oregon State Treasury", OAR chapter 170); the reports
       name the constitutional office that heads it. The audited entity — investment operations,
       debt management, financial statements — is the Treasury.
-    review: required
+    reviewed_by: '@morficflux'
+    reviewed_on: '2026-08-01'
   "Veterans' Affairs, Department of":
     slug: department-of-veterans-affairs
     basis: exact

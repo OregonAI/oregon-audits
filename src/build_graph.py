@@ -137,6 +137,7 @@ def build() -> dict:
             continue
         nodes.append({"id": fm["id"], "title": fm.get("title", ""),
                       "doc_type": fm.get("doc_type", ""),
+                      "status": fm.get("status", ""),
                       "path": str(path.relative_to(ROOT))})
         text = path.read_text(encoding="utf-8")
         body = text.split("## Full text", 1)[1] if "## Full text" in text else ""

@@ -15,12 +15,13 @@ Archetype: **document**. MCP interface: contract v1.
 | [STATUS.md](STATUS.md) | Generated health: freshness, coverage, drift |
 | `_meta/corpus.yml` | Corpus configuration |
 
-## Status: bootstrapped, **no documents yet**
+## Status: populated — **242 audit reports, 2020–present**
 
-The repository exists, CI is wired, and the corpus is **empty**. Enumeration of upstream
-reports is the next step. Nothing here answers a question yet, and `corpus_overview` will
-say so — a corpus that reports zero documents is doing the right thing; one that implies
-coverage it lacks is not.
+Every numbered report (Report No. `YYYY-NN`) on the Audits Division's own "State Audits
+and Reviews 2020 to present" list, with numbering gaps recorded — not skipped — in
+`_meta/source-manifest.yml`. For live counts, freshness, and drift, consult the
+generated [STATUS.md](STATUS.md) rather than this paragraph; that file is rebuilt from
+the corpus, this sentence is prose.
 
 ## What this is
 

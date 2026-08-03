@@ -1,6 +1,6 @@
 # Oregon Audits — Secretary of State Audits Division
 
-> Non-authoritative, AI-friendly reference for Performance, financial, IT and hotline audits published by the Oregon Secretary of State Audits Division — the constitutional auditor of Oregon state government — together with their findings, recommendations, and the audited agency's response..
+> Non-authoritative, AI-friendly reference for Performance, financial, IT and hotline audits published by the Oregon Secretary of State Audits Division — the constitutional auditor of Oregon state government — together with their findings, recommendations, and the audited agency's response.
 > Full verbatim text of jurisdiction-authored documents is included in-repo;
 > third-party materials are summarized with links to official sources.
 > Always verify against the authoritative source linked in each document.
@@ -12,7 +12,7 @@
 
 ## Contents
 
-<!-- One annotated link per knowledge body / index, e.g.
-     - `[Title](path/_index.md)`: when an agent should consult it
-     Written as inline code rather than a live link: lychee checks llms.txt by
-     name, and an example path that does not exist would fail CI on day one. -->
+- `[Audit reports](reports/)`: one document per numbered report (`YYYY-NN`), 2020–present — findings, recommendations, and the audited agency's response as its own section. `audited_period_start/_end` is the period examined, **not** the report date.
+- `[Source manifest](_meta/source-manifest.yml)`: every upstream report enumerated from the Audits Division's SharePoint list, human-approved before ingestion, with numbering gaps (e.g. GAGAS 3.34 withdrawals) recorded rather than skipped.
+- `[Agency crosswalk](_meta/agency-crosswalk.yml)`: audited-agency names mapped to canonical platform agency identities — consult before joining findings to `oregon-budget` or `oregon-kpm`; names that do not resolve are listed in `_meta/unresolved-agencies.md`, never guessed.
+- `[Authority graph](_meta/graph.json)`: the corpus's outbound links — ORS/OAR provisions an audit found violated or complied with, and the appropriations whose spending was examined. Feeds `graph_neighbors` and `authority_chain`.

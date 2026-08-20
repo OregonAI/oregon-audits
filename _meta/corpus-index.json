@@ -1,0 +1,1459 @@
+{
+  "corpus": "oregon-audits",
+  "contract_version": 1,
+  "n_documents": 242,
+  "documents": {
+    "2020-01": [
+      "Oregon's Child Welfare Information System Is Adequate for Case Management, but Enhancements Are Needed to Improve Usability",
+      "audit_report",
+      "reports/2020-01.md",
+      "current"
+    ],
+    "2020-02": [
+      "2020-21 Audit Plan",
+      "audit_report",
+      "reports/2020-02.md",
+      "current"
+    ],
+    "2020-03": [
+      "Travel Oregon Should Strengthen Controls over Contracting and Improve Accountability of Compensation to Inform Decision Makers",
+      "audit_report",
+      "reports/2020-03.md",
+      "current"
+    ],
+    "2020-04": [
+      "Oregon Health Insurance Marketplace Fiscal Year 2019 Compliance",
+      "audit_report",
+      "reports/2020-04.md",
+      "current"
+    ],
+    "2020-05": [
+      "Using the U.S. Treasury's Do Not Pay System for Health and Human Services Programs Will Save Taxpayers Money",
+      "audit_report",
+      "reports/2020-05.md",
+      "current"
+    ],
+    "2020-06": [
+      "Oregon Health Insurance Marketplace Financial Statements For the Fiscal Year Ended June 30, 2019",
+      "audit_report",
+      "reports/2020-06.md",
+      "current"
+    ],
+    "2020-07": [
+      "Oregon Municipal Corporations: Summary of Fiscal Year 2018 Financial Reporting",
+      "audit_report",
+      "reports/2020-07.md",
+      "current"
+    ],
+    "2020-08": [
+      "Audit of Pension Schedule of Employer Allocations and Pension Amounts by Employer for the Year Ended June 30, 2019, Contract Audit",
+      "audit_report",
+      "reports/2020-08.md",
+      "current"
+    ],
+    "2020-09": [
+      "Audit of RHIPA Schedule of OPEB Amounts for the Year Ended June 30, 2019, Contract Audit",
+      "audit_report",
+      "reports/2020-09.md",
+      "current"
+    ],
+    "2020-10": [
+      "Audit of RHIA Schedule of Employer Allocations and OPEB Amounts by Employer for the Year Ended June 30, 2019, Contract Audit",
+      "audit_report",
+      "reports/2020-10.md",
+      "current"
+    ],
+    "2020-11": [
+      "DAS Should Build on Recent Enhancements and Further Improve the Facility Planning Process to Better Inform Investments in State Facilities",
+      "audit_report",
+      "reports/2020-11.md",
+      "current"
+    ],
+    "2020-12": [
+      "Recommendation Follow-up Report: Progress Made, but Pension Reform Delayed Implementation of Some Recommendations",
+      "audit_report",
+      "reports/2020-12.md",
+      "current"
+    ],
+    "2020-13": [
+      "Special Public Works Fund and Water Fund for the Fiscal Year Ended June 30, 2019",
+      "audit_report",
+      "reports/2020-13.md",
+      "current"
+    ],
+    "2020-14": [
+      "State of Oregon Statewide Single Audit Report for Fiscal Year 2019",
+      "audit_report",
+      "reports/2020-14.md",
+      "current"
+    ],
+    "2020-15": [
+      "Small Scale Energy Loan Program For the Year Ended June 30, 2019",
+      "audit_report",
+      "reports/2020-15.md",
+      "current"
+    ],
+    "2020-16": [
+      "Recommendation Follow-up Report: Security at the Data Center Continues to Improve, but More Work Remains to Address Weaknesses",
+      "audit_report",
+      "reports/2020-16.md",
+      "current"
+    ],
+    "2020-17": [
+      "Cybersecurity Controls Audit",
+      "audit_report",
+      "reports/2020-17.md",
+      "current"
+    ],
+    "2020-18": [
+      "Recommendation Follow-up Report: While Work Remains, the State Is on Track to Modernize Procurement Systems and Practices",
+      "audit_report",
+      "reports/2020-18.md",
+      "current"
+    ],
+    "2020-19": [
+      "Government Waste Hotline January to December 2019",
+      "audit_report",
+      "reports/2020-19.md",
+      "current"
+    ],
+    "2020-20": [
+      "High School Graduation and College and Career Readiness Fund Annual Financial Report For Fiscal Year Ended June 30, 2019",
+      "audit_report",
+      "reports/2020-20.md",
+      "current"
+    ],
+    "2020-21": [
+      "Oregon Should Improve Child Safety by Strengthening Child Care Background Checks and the State' Sex Offender Registry",
+      "audit_report",
+      "reports/2020-21.md",
+      "current"
+    ],
+    "2020-22": [
+      "DOJ Should Strengthen Performance Management to Optimize Contract Review Services",
+      "audit_report",
+      "reports/2020-22.md",
+      "current"
+    ],
+    "2020-23": [
+      "Keeping Oregon Accountable Fiscal Year 2019",
+      "audit_report",
+      "reports/2020-23.md",
+      "current"
+    ],
+    "2020-24": [
+      "ODE Can Better Support Students Experiencing Disabilities Through Improved Coordination and Monitoring of Services",
+      "audit_report",
+      "reports/2020-24.md",
+      "current"
+    ],
+    "2020-25": [
+      "Clean Water State Revolving Fund Loan Program For the Fiscal Year Ended June 30, 2019",
+      "audit_report",
+      "reports/2020-25.md",
+      "current"
+    ],
+    "2020-26": [
+      "Oregon Can More Effectively Use Family Services to Limit Foster Care and Keep Children Safely at Home",
+      "audit_report",
+      "reports/2020-26.md",
+      "current"
+    ],
+    "2020-27": [
+      "Financial Statements-Statutory Basis as of and for the Years Ended December 31, 2019 and 2018, Supplementary Schedules as of December 31, 2019, and Report of Independent Auditors, Contract Audit",
+      "audit_report",
+      "reports/2020-27.md",
+      "current"
+    ],
+    "2020-28": [
+      "Financial Statements and Supplementary Schedules as of and for the Years Ended December 31, 2019 and 2018, and Report of Independent Auditors, Contract Audit",
+      "audit_report",
+      "reports/2020-28.md",
+      "current"
+    ],
+    "2020-29": [
+      "ODOT Oversees a Robust Project Delivery Process, yet Opportunities Exist to Further Improve Work Zone Safety",
+      "audit_report",
+      "reports/2020-29.md",
+      "current"
+    ],
+    "2020-30": [
+      "Oregon Local Government Intermediate Fund An Investment Pool of the State of Oregon For the Year Ended June 30, 2020",
+      "audit_report",
+      "reports/2020-30.md",
+      "current"
+    ],
+    "2020-31": [
+      "Oregon Short Term Fund An Investment Pool of the State of Oregon For the Year Ended June 30, 2020",
+      "audit_report",
+      "reports/2020-31.md",
+      "current"
+    ],
+    "2020-32": [
+      "Chronic and Systemic Issues in Oregon' Mental Health Treatment System Leave Children and Their Families in Crisis",
+      "audit_report",
+      "reports/2020-32.md",
+      "current"
+    ],
+    "2020-33": [
+      "Oregon Intermediate Term Pool An Investment Pool of the State of Oregon For the Year Ended June 30, 2020",
+      "audit_report",
+      "reports/2020-33.md",
+      "current"
+    ],
+    "2020-34": [
+      "DAS Needs to Provide Oversight to Improve Investigations of Workplace Discrimination and Harassment at State Agencies",
+      "audit_report",
+      "reports/2020-34.md",
+      "current"
+    ],
+    "2020-35": [
+      "Veterans' Loan Program Annual Financial Report Enterprise Fund for the Fiscal Year Ended June 30, 2020",
+      "audit_report",
+      "reports/2020-35.md",
+      "current"
+    ],
+    "2020-36": [
+      "Oregon Has an Opportunity to Modernize Groundbreaking Bottle Bill on Its 50th Anniversary",
+      "audit_report",
+      "reports/2020-36.md",
+      "current"
+    ],
+    "2020-37": [
+      "Enterprise Information Services The State Does Not Have A Privacy Program to Manage Enterprise Data Privacy Risk",
+      "audit_report",
+      "reports/2020-37.md",
+      "current"
+    ],
+    "2020-38": [
+      "Annual Financial Report Enterprise Funds of the State of Oregon For the Year Ended June 30, 2020",
+      "audit_report",
+      "reports/2020-38.md",
+      "current"
+    ],
+    "2020-39": [
+      "Public Employees' Benefit Board and the Oregon Educator' Benefit Board: Efforts Have Helped Limit Some Employee Health Care Costs, but PEBB and OEBB Can Do More to Manage Costs and Optimize Benefits",
+      "audit_report",
+      "reports/2020-39.md",
+      "current"
+    ],
+    "2020-40": [
+      "July 1, 2019 through June 30, 2020",
+      "audit_report",
+      "reports/2020-40.md",
+      "current"
+    ],
+    "2020-41": [
+      "Common School Fund Annual Financial Report For the Fiscal Year Ended June 30, 2020, Contract Audit",
+      "audit_report",
+      "reports/2020-41.md",
+      "current"
+    ],
+    "2020-42": [
+      "Comprehensive Annual Financial Report For the Fiscal Year Ended June 30, 2020, Contract Audit",
+      "audit_report",
+      "reports/2020-42.md",
+      "current"
+    ],
+    "2020-43": [
+      "By Appropriately Administering Measure 76 Funds, Oregon Is Advancing Constitutional Goals for State Parks and Natural Resources",
+      "audit_report",
+      "reports/2020-43.md",
+      "current"
+    ],
+    "2020-44": [
+      "High School Success Planning Is Robust, but ODE Can Enhance Benefits of Measure 98 by Improving Monitoring and Analysis",
+      "audit_report",
+      "reports/2020-44.md",
+      "current"
+    ],
+    "2020-45": [
+      "Comprehensive Annual Financial Report Enterprise Fund For the Fiscal Year Ended June 30, 2020",
+      "audit_report",
+      "reports/2020-45.md",
+      "current"
+    ],
+    "2020-46": [
+      "The Board Should Ensure Facility Inspections Be Performed and Strengthen Controls over Financial Processes",
+      "audit_report",
+      "reports/2020-46.md",
+      "current"
+    ],
+    "2021-01": [
+      "2021-22 Audit Plan",
+      "audit_report",
+      "reports/2021-01.md",
+      "current"
+    ],
+    "2021-02": [
+      "Oregon Health Insurance Marketplace Financial Statements For the Fiscal Year Ended June 30, 2020",
+      "audit_report",
+      "reports/2021-02.md",
+      "current"
+    ],
+    "2021-03": [
+      "Oregon Health Insurance Marketplace Fiscal Year 2020 Compliance",
+      "audit_report",
+      "reports/2021-03.md",
+      "current"
+    ],
+    "2021-04": [
+      "Comprehensive Annual Financial Report For the Fiscal Year Ended June 30, 2020",
+      "audit_report",
+      "reports/2021-04.md",
+      "current"
+    ],
+    "2021-05": [
+      "Oregon Municipal Corporations: Summary of Fiscal Year 2019 Financial Reporting",
+      "audit_report",
+      "reports/2021-05.md",
+      "current"
+    ],
+    "2021-06": [
+      "Audit of Pension Schedule of Employer Allocations and Pension Amounts by Employer for the Year Ended June 30, 2020, Contract Audit",
+      "audit_report",
+      "reports/2021-06.md",
+      "current"
+    ],
+    "2021-07": [
+      "Audit of RHIA Schedule of Employer Allocations and OPEB Amounts by Employer for the Year Ended June 30, 2020, Contract Audit",
+      "audit_report",
+      "reports/2021-07.md",
+      "current"
+    ],
+    "2021-08": [
+      "Audit of RHIPA Schedule of OPEB Amounts for the Year Ended June 30, 2020, Contract Audit",
+      "audit_report",
+      "reports/2021-08.md",
+      "current"
+    ],
+    "2021-09": [
+      "Advisory Report: Oregon Can Take More Steps to Reduce Infections in Long-Term Care Facilities from COVID-19 and Other Communicable Diseases",
+      "audit_report",
+      "reports/2021-09.md",
+      "current"
+    ],
+    "2021-10": [
+      "Special Public Works Fund and Water Fund for the Fiscal Year Ended June 30, 2020",
+      "audit_report",
+      "reports/2021-10.md",
+      "current"
+    ],
+    "2021-11": [
+      "Small Scale Energy Loan Program For the Year Ended June 30, 2020",
+      "audit_report",
+      "reports/2021-11.md",
+      "current"
+    ],
+    "2021-12": [
+      "Cybersecurity Controls Audit",
+      "audit_report",
+      "reports/2021-12.md",
+      "current"
+    ],
+    "2021-13": [
+      "Oregon Statewide Single Audit for Fiscal Year 2020",
+      "audit_report",
+      "reports/2021-13.md",
+      "current"
+    ],
+    "2021-14": [
+      "Oregon' Ethics Commission and Laws Could Be Better Leveraged to Improve Ethical Culture and Trust in Government",
+      "audit_report",
+      "reports/2021-14.md",
+      "current"
+    ],
+    "2021-15": [
+      "Clean Water State Revolving Fund Loan Program For the Fiscal Year Ended June 30, 2020",
+      "audit_report",
+      "reports/2021-15.md",
+      "current"
+    ],
+    "2021-16": [
+      "Safe Drinking Water Revolving Loan Fund For Fiscal Year Ended June 30, 2020",
+      "audit_report",
+      "reports/2021-16.md",
+      "current"
+    ],
+    "2021-17": [
+      "Recommendation Follow-up Report: Progress Has Been Made, but COVID-19 Delayed Some Efforts to Improve State Budget Transparency",
+      "audit_report",
+      "reports/2021-17.md",
+      "current"
+    ],
+    "2021-18": [
+      "Government Waste Hotline for Calendar Year 2020",
+      "audit_report",
+      "reports/2021-18.md",
+      "current"
+    ],
+    "2021-19": [
+      "Keeping Oregon Accountable Fiscal Year 2020",
+      "audit_report",
+      "reports/2021-19.md",
+      "current"
+    ],
+    "2021-20": [
+      "State of Oregon 2020 Financial Condition Report",
+      "audit_report",
+      "reports/2021-20.md",
+      "current"
+    ],
+    "2021-21": [
+      "OFRI' Statute Undermines its Public Benefit and the State Agency is Not Transparent About its Statutory Mandate to Support the Industry",
+      "audit_report",
+      "reports/2021-21.md",
+      "current"
+    ],
+    "2021-22": [
+      "Financial Statements—Statutory Basis as of and for the Years Ended December 31, 2020 and 2019, Supplementary Schedules as of December 31, 2020, and Report of Independent Auditors",
+      "audit_report",
+      "reports/2021-22.md",
+      "current"
+    ],
+    "2021-23": [
+      "Financial Statements and Supplementary Schedules as of and for the Years Ended December 31, 2020 and 2019, and Report of Independent Auditors",
+      "audit_report",
+      "reports/2021-23.md",
+      "current"
+    ],
+    "2021-24": [
+      "Developmental Disabilities Leadership is Proactively Addressing Program Challenges to Ensure Optimal Service Delivery",
+      "audit_report",
+      "reports/2021-24.md",
+      "current"
+    ],
+    "2021-25": [
+      "Enterprise Information Services Has Established an IT Governance Framework but Must Do More Regarding Cybersecurity Management",
+      "audit_report",
+      "reports/2021-25.md",
+      "current"
+    ],
+    "2021-26": [
+      "Oregon Local Government Intermediate Fund An Investment Pool of the State of Oregon For the Year Ended June 30, 2021",
+      "audit_report",
+      "reports/2021-26.md",
+      "current"
+    ],
+    "2021-27": [
+      "Oregon Short Term Fund An Investment Pool of the State of Oregon For the Year Ended June 30, 2021",
+      "audit_report",
+      "reports/2021-27.md",
+      "current"
+    ],
+    "2021-28": [
+      "Recommendation Follow-up Report: ODE Must Accelerate Efforts to Monitor Spending and Improve Initiatives to Help Vulnerable Students",
+      "audit_report",
+      "reports/2021-28.md",
+      "current"
+    ],
+    "2021-29": [
+      "Oregon Intermediate Term Pool An Investment Pool of the State of Oregon For the Year Ended June 30, 2021",
+      "audit_report",
+      "reports/2021-29.md",
+      "current"
+    ],
+    "2021-30": [
+      "Advisory Report: ODOT Worked Quickly to Oversee the Largest Wildfire Debris Removal Operation in State History",
+      "audit_report",
+      "reports/2021-30.md",
+      "current"
+    ],
+    "2021-31": [
+      "Cybersecurity Controls Audit",
+      "audit_report",
+      "reports/2021-31.md",
+      "current"
+    ],
+    "2021-32": [
+      "Opportunities Exist to Improve Web Application Security and Tracking of Website Accessibility Remediation Efforts",
+      "audit_report",
+      "reports/2021-32.md",
+      "current"
+    ],
+    "2021-33": [
+      "Annual Financial Report Enterprise Funds of the State of Oregon For the Year Ended June 30, 2021",
+      "audit_report",
+      "reports/2021-33.md",
+      "current"
+    ],
+    "2021-34": [
+      "Common School Fund Annual Financial Report For the Fiscal Year Ended June 30, 2021",
+      "audit_report",
+      "reports/2021-34.md",
+      "current"
+    ],
+    "2021-35": [
+      "Additional Resources Needed to Strengthen Police Training and Accountability",
+      "audit_report",
+      "reports/2021-35.md",
+      "current"
+    ],
+    "2021-36": [
+      "Veterans' Loan Program Annual Financial Report Enterprise Fund for the Fiscal Year Ended June 30, 2021",
+      "audit_report",
+      "reports/2021-36.md",
+      "current"
+    ],
+    "2021-37": [
+      "Timely Notification of Inpatient Hospital Stays Could Help Reduce Improper Medicaid Payments",
+      "audit_report",
+      "reports/2021-37.md",
+      "current"
+    ],
+    "2021-38": [
+      "July 1, 2020 through June 30, 2021",
+      "audit_report",
+      "reports/2021-38.md",
+      "current"
+    ],
+    "2021-39": [
+      "Annual Comprehensive Financial Report For the Fiscal Year Ended June 30, 2021",
+      "audit_report",
+      "reports/2021-39.md",
+      "current"
+    ],
+    "2022-01": [
+      "Annual Financial Report Enterprise Funds For the Year Ended June 30, 2021",
+      "audit_report",
+      "reports/2022-01.md",
+      "current"
+    ],
+    "2022-02": [
+      "Additional Data Analytics Could Better Determine Trooper Staffing Levels and Resource Needs",
+      "audit_report",
+      "reports/2022-02.md",
+      "current"
+    ],
+    "2022-03": [
+      "Oregon Annual Comprehensive Financial Report For the Fiscal Year Ended June 30, 2021",
+      "audit_report",
+      "reports/2022-03.md",
+      "current"
+    ],
+    "2022-04": [
+      "2022-23 Audit Plan",
+      "audit_report",
+      "reports/2022-04.md",
+      "current"
+    ],
+    "2022-05": [
+      "Oregon Municipal Corporations: Summary of Fiscal Year 2020 Financial Reporting",
+      "audit_report",
+      "reports/2022-05.md",
+      "current"
+    ],
+    "2022-06": [
+      "Agreed Upon Procedures Report for the Biennium Ended June 30, 2021",
+      "audit_report",
+      "reports/2022-06.md",
+      "current"
+    ],
+    "2022-07": [
+      "Audit of Pension Schedule of Employer Allocations and Pension Amounts by Employer for the Year Ended June 30, 2021",
+      "audit_report",
+      "reports/2022-07.md",
+      "current"
+    ],
+    "2022-08": [
+      "Audit of RHIPA Schedule of OPEB Amounts for the Year Ended June 30, 2021",
+      "audit_report",
+      "reports/2022-08.md",
+      "current"
+    ],
+    "2022-09": [
+      "Audit of RHIA Schedule of Employer Allocations and OPEB Amounts by Employer for the Year Ended June 30, 2021",
+      "audit_report",
+      "reports/2022-09.md",
+      "current"
+    ],
+    "2022-10": [
+      "Recommendation Follow-up Report: PPS Has Made Progress, but Must Take Further Steps to Reduce Inequities at High-Poverty Schools",
+      "audit_report",
+      "reports/2022-10.md",
+      "current"
+    ],
+    "2022-11": [
+      "Without Legislative Action the Mortgage Interest Deduction Will Remain Regressive and Inequitable",
+      "audit_report",
+      "reports/2022-11.md",
+      "current"
+    ],
+    "2022-12": [
+      "Advisory Report: Oregon Can Do More to Mitigate the Alarming Risk of Domestic Terrorism and Violent Extremist Attacks",
+      "audit_report",
+      "reports/2022-12.md",
+      "current"
+    ],
+    "2022-13": [
+      "Small Scale Energy Loan Program For the Year Ended June 30, 2021",
+      "audit_report",
+      "reports/2022-13.md",
+      "current"
+    ],
+    "2022-14": [
+      "Oregon Health Insurance Marketplace Fiscal Year 2021 Compliance",
+      "audit_report",
+      "reports/2022-14.md",
+      "current"
+    ],
+    "2022-15": [
+      "Oregon Health Insurance Marketplace Financial Statements For the Fiscal Year Ended June 30, 2021",
+      "audit_report",
+      "reports/2022-15.md",
+      "current"
+    ],
+    "2022-16": [
+      "K-12 Education - Systemic Risk Report: State Leaders and Policymakers Must Address Persistent System Risks to Improve K-12 Equity and Student Success",
+      "audit_report",
+      "reports/2022-16.md",
+      "current"
+    ],
+    "2022-17": [
+      "Recommendation Follow-up Report: Some Constraints Still Remain in Oregon's Prescription Drug Monitoring Program",
+      "audit_report",
+      "reports/2022-17.md",
+      "current"
+    ],
+    "2022-18": [
+      "State of Oregon Statewide Single Audit for Fiscal Year 2021",
+      "audit_report",
+      "reports/2022-18.md",
+      "current"
+    ],
+    "2022-19": [
+      "State Government Accountability Hotline Summary Report, Calendar Year 2021",
+      "audit_report",
+      "reports/2022-19.md",
+      "current"
+    ],
+    "2022-20": [
+      "Cybersecurity Controls Audit",
+      "audit_report",
+      "reports/2022-20.md",
+      "current"
+    ],
+    "2022-21": [
+      "The Pandemic' Effects on Oregonians Exposed Risks and Highlighted the Need to Modernize Oregon' Unemployment Insurance System",
+      "audit_report",
+      "reports/2022-21.md",
+      "current"
+    ],
+    "2022-22": [
+      "Financial Statements—Statutory Basis as of and for the Years Ended December 31, 2021 and 2020, Supplementary Schedules as of December 31, 2021, and Report of Independent Auditors",
+      "audit_report",
+      "reports/2022-22.md",
+      "current"
+    ],
+    "2022-23": [
+      "Financial Statements and Supplementary Schedules as of and for the Years Ended December 31, 2021 and 2020, and Report of Independent Auditors",
+      "audit_report",
+      "reports/2022-23.md",
+      "current"
+    ],
+    "2022-24": [
+      "High School Graduation and College and Career Readiness Fund Biennial Financial Report For Biennium Ended June 30, 2021",
+      "audit_report",
+      "reports/2022-24.md",
+      "current"
+    ],
+    "2022-25": [
+      "Oregon Local Government Intermediate Fund An Investment Pool of the State of Oregon For the Year Ended June 30, 2022",
+      "audit_report",
+      "reports/2022-25.md",
+      "current"
+    ],
+    "2022-26": [
+      "Oregon Short Term Fund An Investment Pool of the State of Oregon For the Year Ended June 30, 2022",
+      "audit_report",
+      "reports/2022-26.md",
+      "current"
+    ],
+    "2022-27": [
+      "Keeping Oregon Accountable, Fiscal Year 2021",
+      "audit_report",
+      "reports/2022-27.md",
+      "current"
+    ],
+    "2022-28": [
+      "Oregon Intermediate Term Pool An Investment Pool of the State of Oregon For the Year Ended June 30, 2022",
+      "audit_report",
+      "reports/2022-28.md",
+      "current"
+    ],
+    "2022-29": [
+      "Special Public Works Fund and Water Fund for the Fiscal Year Ended June 30, 2021",
+      "audit_report",
+      "reports/2022-29.md",
+      "current"
+    ],
+    "2022-30": [
+      "Common School Fund Annual Financial Report For the Fiscal Year Ended June 30, 2022",
+      "audit_report",
+      "reports/2022-30.md",
+      "current"
+    ],
+    "2022-31": [
+      "Clean Water State Revolving Fund Loan Program For the Fiscal Year Ended June 30, 2021",
+      "audit_report",
+      "reports/2022-31.md",
+      "current"
+    ],
+    "2022-32": [
+      "Annual Financial Report Enterprise Funds of the State of Oregon For the Year Ended June 30, 2022",
+      "audit_report",
+      "reports/2022-32.md",
+      "current"
+    ],
+    "2022-33": [
+      "ODE Continues to Effectively Implement Measure 98 and Increase Collaboration Across Agency Programs",
+      "audit_report",
+      "reports/2022-33.md",
+      "current"
+    ],
+    "2022-34": [
+      "Independent Actuarial Review of PERS December 31, 2021 Actuarial Valuation",
+      "audit_report",
+      "reports/2022-34.md",
+      "current"
+    ],
+    "2022-35": [
+      "Oregon Must Improve Community College Performance, Student Support, and Sustainability Amid Persistent Enrollment Declines",
+      "audit_report",
+      "reports/2022-35.md",
+      "current"
+    ],
+    "2022-36": [
+      "Annual Comprehensive Financial Report For the Fiscal Year Ended June 30, 2022",
+      "audit_report",
+      "reports/2022-36.md",
+      "current"
+    ],
+    "2023-01": [
+      "Annual Comprehensive Financial Report Enterprise Fund of the State of Oregon For the Fiscal Year Ended June 30, 2022",
+      "audit_report",
+      "reports/2023-01.md",
+      "current"
+    ],
+    "2023-02": [
+      "The Oregon Broadband Office Must Continue to Take Aggressive Steps to Close the Digital Divide and Fully Meet its Statutory Duties",
+      "audit_report",
+      "reports/2023-02.md",
+      "current"
+    ],
+    "2023-03": [
+      "Too Early to Tell: The Challenging Implementation of Measure 110 Has Increased Risks, but the Effectiveness of the Program Has Yet to Be Determined",
+      "audit_report",
+      "reports/2023-03.md",
+      "current"
+    ],
+    "2023-04": [
+      "Advisory Report: State Leadership Must Take Action to Protect Water Security for All Oregonians",
+      "audit_report",
+      "reports/2023-04.md",
+      "current"
+    ],
+    "2023-05": [
+      "Audit of Pension Schedule of Employer Allocations and Pension Amounts by Employer for the Year Ended June 30, 2022",
+      "audit_report",
+      "reports/2023-05.md",
+      "current"
+    ],
+    "2023-06": [
+      "Audit of RHIPA Schedule of OPEB Amounts for the Year Ended June 30, 2022",
+      "audit_report",
+      "reports/2023-06.md",
+      "current"
+    ],
+    "2023-07": [
+      "Audit of RHIA Schedule of Employer Allocations and OPEB Amounts by Employer for the Year Ended June 30, 2022",
+      "audit_report",
+      "reports/2023-07.md",
+      "current"
+    ],
+    "2023-08": [
+      "Oregon Municipal Corporations: Summary of Fiscal Year 2021 Financial Reporting",
+      "audit_report",
+      "reports/2023-08.md",
+      "current"
+    ],
+    "2023-09": [
+      "2023-24 Audit Plan",
+      "audit_report",
+      "reports/2023-09.md",
+      "current"
+    ],
+    "2023-10": [
+      "Veterans' Loan Program Annual Financial Report Enterprise Fund for the Fiscal Year Ending June 30, 2022",
+      "audit_report",
+      "reports/2023-10.md",
+      "current"
+    ],
+    "2023-11": [
+      "Advisory Report on Equal Pay: Oregon Must do More to Close Persistent Wage Gaps for Women and People of Color in State Government",
+      "audit_report",
+      "reports/2023-11.md",
+      "current"
+    ],
+    "2023-12": [
+      "Oregon Annual Comprehensive Financial Report For the Fiscal Year Ended June 30, 2022",
+      "audit_report",
+      "reports/2023-12.md",
+      "current"
+    ],
+    "2023-13": [
+      "Small Scale Energy Loan Program For the Year Ended June 30, 2022",
+      "audit_report",
+      "reports/2023-13.md",
+      "current"
+    ],
+    "2023-14": [
+      "July 1, 2021 through June 30, 2022",
+      "audit_report",
+      "reports/2023-14.md",
+      "current"
+    ],
+    "2023-17": [
+      "Special Public Works Fund and Water Fund Enterprise Funds For the Year Ended June 30, 2022",
+      "audit_report",
+      "reports/2023-17.md",
+      "current"
+    ],
+    "2023-18": [
+      "Oregon Health Insurance Marketplace Fiscal Year 2022 Compliance",
+      "audit_report",
+      "reports/2023-18.md",
+      "current"
+    ],
+    "2023-19": [
+      "Oregon Health Insurance Marketplace Financial Statements For the Fiscal Year Ended June 30, 2022",
+      "audit_report",
+      "reports/2023-19.md",
+      "current"
+    ],
+    "2023-20": [
+      "Safe Drinking Water Revolving Loan Fund Agreed Upon Procedures For Fiscal Years Ended June 30, 2021 and June 30, 2022",
+      "audit_report",
+      "reports/2023-20.md",
+      "current"
+    ],
+    "2023-21": [
+      "Statewide Single Audit for Fiscal Year 2022",
+      "audit_report",
+      "reports/2023-21.md",
+      "current"
+    ],
+    "2023-22": [
+      "Financial Statements and Supplementary Schedules as of and for the Years Ended December 31, 2022 and 2021, and Report of Independent Auditors",
+      "audit_report",
+      "reports/2023-22.md",
+      "current"
+    ],
+    "2023-23": [
+      "Financial Statements—Statutory Basis as of and for the Years Ended December 31, 2022 and 2021, Supplementary Schedules as of December 31, 2022, and Report of Independent Auditors",
+      "audit_report",
+      "reports/2023-23.md",
+      "current"
+    ],
+    "2023-24": [
+      "Uncertainty and Risk Remain After Gambling Industry Has Evolved Faster than State Law",
+      "audit_report",
+      "reports/2023-24.md",
+      "current"
+    ],
+    "2023-25": [
+      "Pharmacy Benefit Managers Poor Accountability and Transparency Harm Medicaid Patients and Independent Pharmacies",
+      "audit_report",
+      "reports/2023-25.md",
+      "current"
+    ],
+    "2023-26": [
+      "Advisory Report: Increased Awareness and Training Could Enhance the Effectiveness of Oregon' Extreme Risk Protection Order Law",
+      "audit_report",
+      "reports/2023-26.md",
+      "current"
+    ],
+    "2023-27": [
+      "Oregon Short Term Fund An Investment Pool of the State of Oregon For the Year Ended June 30, 2023",
+      "audit_report",
+      "reports/2023-27.md",
+      "current"
+    ],
+    "2023-28": [
+      "Oregon Local Government Intermediate Fund An Investment Pool of the State of Oregon For the Year Ended June 30, 2023",
+      "audit_report",
+      "reports/2023-28.md",
+      "current"
+    ],
+    "2023-29": [
+      "Keeping Oregon Accountable, Fiscal Year 2022",
+      "audit_report",
+      "reports/2023-29.md",
+      "current"
+    ],
+    "2023-30": [
+      "Oregon Intermediate Term Pool An Investment Pool of the State of Oregon For the Year Ended June 30, 2023",
+      "audit_report",
+      "reports/2023-30.md",
+      "current"
+    ],
+    "2023-31": [
+      "Advisory Report: Breaking the Cycle: A Comprehensive Statewide Strategy Would Benefit Domestic Violence Victims, Survivors, and Advocates",
+      "audit_report",
+      "reports/2023-31.md",
+      "current"
+    ],
+    "2023-32": [
+      "Veterans' Loan Program Annual Financial Report Enterprise Fund for the Fiscal Year Ending June 30, 2023",
+      "audit_report",
+      "reports/2023-32.md",
+      "current"
+    ],
+    "2023-33": [
+      "Common School Fund Annual Financial Report For the Fiscal Year Ended June 30, 2023",
+      "audit_report",
+      "reports/2023-33.md",
+      "current"
+    ],
+    "2023-34": [
+      "State Government Accountability Hotline Summary Report for Calendar Year 2022",
+      "audit_report",
+      "reports/2023-34.md",
+      "current"
+    ],
+    "2023-35": [
+      "Annual Financial Report Enterprise Funds of the State of Oregon For the Year Ended June 30, 2023",
+      "audit_report",
+      "reports/2023-35.md",
+      "current"
+    ],
+    "2023-36": [
+      "Annual Comprehensive Financial Report Enterprise Fund of the State of Oregon For the Fiscal Year Ended June 30, 2023",
+      "audit_report",
+      "reports/2023-36.md",
+      "current"
+    ],
+    "2023-37": [
+      "Clean Water State Revolving Fund Loan Program For the Fiscal Year Ended June 30, 2022",
+      "audit_report",
+      "reports/2023-37.md",
+      "current"
+    ],
+    "2023-38": [
+      "Annual Comprehensive Financial Report For the Fiscal Year Ended June 30, 2023",
+      "audit_report",
+      "reports/2023-38.md",
+      "current"
+    ],
+    "2023-39": [
+      "Oversight and Accountability Council Funding and Delivery of Measure 110 Substance Use Disorder Services Shows Progress, but Significant Risks Remain",
+      "audit_report",
+      "reports/2023-39.md",
+      "current"
+    ],
+    "2024-01": [
+      "OHCS Prioritized Providing Emergency Rental Assistance Funds to Oregonians in Crisis but Could Have Done More to Ensure Funds Were Properly Distributed",
+      "audit_report",
+      "reports/2024-01.md",
+      "current"
+    ],
+    "2024-02": [
+      "To Protect Patients and Maintain Public Trust, the Oregon Medical Board Should Further its Efforts to Address the Risk of Inequitable Disciplinary Decisions",
+      "audit_report",
+      "reports/2024-02.md",
+      "current"
+    ],
+    "2024-03": [
+      "Oregon Annual Comprehensive Financial Report For the Fiscal Year Ended June 30, 2023",
+      "audit_report",
+      "reports/2024-03.md",
+      "current"
+    ],
+    "2024-04": [
+      "July 1, 2022 through June 30, 2023",
+      "audit_report",
+      "reports/2024-04.md",
+      "current"
+    ],
+    "2024-05": [
+      "2024-25 Audit Plan",
+      "audit_report",
+      "reports/2024-05.md",
+      "current"
+    ],
+    "2024-06": [
+      "Oregon Municipal Corporations: Summary of Fiscal Year 2022 Financial Reporting",
+      "audit_report",
+      "reports/2024-06.md",
+      "current"
+    ],
+    "2024-07": [
+      "Ongoing Workforce Crises and Disruption Demand Strategic Workforce Planning",
+      "audit_report",
+      "reports/2024-07.md",
+      "current"
+    ],
+    "2024-08": [
+      "Audit of Pension Schedule of Employer Allocations and Pension Amounts by Employer for the Year Ended June 30, 2023",
+      "audit_report",
+      "reports/2024-08.md",
+      "current"
+    ],
+    "2024-09": [
+      "Audit of RHIA Schedule of Employer Allocations and OPEB Amounts by Employer for the Year Ended June 30, 2023",
+      "audit_report",
+      "reports/2024-09.md",
+      "current"
+    ],
+    "2024-10": [
+      "Audit of RHIPA Schedule of OPEB Amounts for the Year Ended June 30, 2023",
+      "audit_report",
+      "reports/2024-10.md",
+      "current"
+    ],
+    "2024-11": [
+      "Small Scale Energy Loan Program For the Year Ended June 30, 2023",
+      "audit_report",
+      "reports/2024-11.md",
+      "current"
+    ],
+    "2024-12": [
+      "Special Public Works Fund and Water Fund Enterprise Funds For the Year Ended June 30, 2023",
+      "audit_report",
+      "reports/2024-12.md",
+      "current"
+    ],
+    "2024-13": [
+      "Ongoing Strategic Planning Can Help DEQ Address Obstacles to Achieving its Goals",
+      "audit_report",
+      "reports/2024-13.md",
+      "current"
+    ],
+    "2024-14": [
+      "Statewide Single Audit for Fiscal Year 2023",
+      "audit_report",
+      "reports/2024-14.md",
+      "current"
+    ],
+    "2024-15": [
+      "Oregon Health Insurance Marketplace Fiscal Year 2023 Compliance",
+      "audit_report",
+      "reports/2024-15.md",
+      "current"
+    ],
+    "2024-16": [
+      "Oregon Health Insurance Marketplace Financial Statements For the Fiscal Year Ended June 30, 2023",
+      "audit_report",
+      "reports/2024-16.md",
+      "current"
+    ],
+    "2024-17": [
+      "Clean Water State Revolving Fund Loan Program Enterprise Fund of the State of Oregon For the Fiscal Year Ended June 30, 2023",
+      "audit_report",
+      "reports/2024-17.md",
+      "current"
+    ],
+    "2024-18": [
+      "Keeping Oregon Accountable Fiscal Year 2023",
+      "audit_report",
+      "reports/2024-18.md",
+      "current"
+    ],
+    "2024-19": [
+      "High School Graduation and College and Career Readiness Fund Biennial Financial Report For Biennium Ended June 30, 2023",
+      "audit_report",
+      "reports/2024-19.md",
+      "current"
+    ],
+    "2024-20": [
+      "Financial Statements-Statutory Basis as of and for the Years Ended December 31, 2023 and 2022, Supplementary Schedules as of December 31, 2023, and Report of Independent Auditors",
+      "audit_report",
+      "reports/2024-20.md",
+      "current"
+    ],
+    "2024-21": [
+      "Financial Statements and Supplementary Schedules as of and for the Years Ended December 31, 2023 and 2022, and Report of Independent Auditors",
+      "audit_report",
+      "reports/2024-21.md",
+      "current"
+    ],
+    "2024-22": [
+      "Oregon Short Term Fund An Investment Pool of the State of Oregon For the Year Ended June 30, 2024",
+      "audit_report",
+      "reports/2024-22.md",
+      "current"
+    ],
+    "2024-23": [
+      "Oregon Local Government Intermediate Fund An Investment Pool of the State of Oregon For the Year Ended June 30, 2024",
+      "audit_report",
+      "reports/2024-23.md",
+      "current"
+    ],
+    "2024-24": [
+      "State Government Accountability Hotline Summary Report for Calendar Year 2023",
+      "audit_report",
+      "reports/2024-24.md",
+      "current"
+    ],
+    "2024-25": [
+      "Oregon Intermediate Term Pool An Investment Pool of the State of Oregon For the Year Ended June 30, 2024",
+      "audit_report",
+      "reports/2024-25.md",
+      "current"
+    ],
+    "2024-26": [
+      "State of Oregon Financial Condition Report Fiscal Year 2023",
+      "audit_report",
+      "reports/2024-26.md",
+      "current"
+    ],
+    "2024-27": [
+      "The Oregon Eligibility System Appropriately Determines Eligibility, but Input Errors Continue to Occur",
+      "audit_report",
+      "reports/2024-27.md",
+      "current"
+    ],
+    "2024-28": [
+      "Licensing and Registration System Accurately Assesses and Collects Fees, but Security Processes Need Improvement",
+      "audit_report",
+      "reports/2024-28.md",
+      "current"
+    ],
+    "2024-29": [
+      "Without Federal Action, States Will Continue to Pay Millions of Dollars in Duplicate Medicaid Payments",
+      "audit_report",
+      "reports/2024-29.md",
+      "current"
+    ],
+    "2024-30": [
+      "Veterans' Loan Program Annual Financial Report An Enterprise Fund for the Year Ending June 30, 2024",
+      "audit_report",
+      "reports/2024-30.md",
+      "current"
+    ],
+    "2024-31": [
+      "Annual Financial Report Enterprise Funds of the State of Oregon For the Year Ended June 30, 2024",
+      "audit_report",
+      "reports/2024-31.md",
+      "current"
+    ],
+    "2024-32": [
+      "Common School Fund Annual Financial Report For the Fiscal Year Ended June 30, 2024",
+      "audit_report",
+      "reports/2024-32.md",
+      "current"
+    ],
+    "2024-33": [
+      "Annual Comprehensive Financial Report Enterprise Fund of the State of Oregon For Fiscal Year Ended June 30, 2024",
+      "audit_report",
+      "reports/2024-33.md",
+      "current"
+    ],
+    "2024-34": [
+      "High School Success Grants Have Expanded Important Programs, but ODE Can Do More To Identify and Share Effective Strategies",
+      "audit_report",
+      "reports/2024-34.md",
+      "current"
+    ],
+    "2024-35": [
+      "Annual Comprehensive Financial Report For the Fiscal Year Ended June 30, 2024",
+      "audit_report",
+      "reports/2024-35.md",
+      "current"
+    ],
+    "2025-01": [
+      "July 1, 2023 through June 30, 2024",
+      "audit_report",
+      "reports/2025-01.md",
+      "current"
+    ],
+    "2025-02": [
+      "Oregon Annual Comprehensive Financial Report For the Fiscal Year Ended June 30, 2024",
+      "audit_report",
+      "reports/2025-02.md",
+      "current"
+    ],
+    "2025-03": [
+      "2025-26 Audit Plan",
+      "audit_report",
+      "reports/2025-03.md",
+      "current"
+    ],
+    "2025-04": [
+      "Audit of Pension Schedule of Employer Allocations and Pension Amounts by Employer for the Year Ended June 30, 2024",
+      "audit_report",
+      "reports/2025-04.md",
+      "current"
+    ],
+    "2025-05": [
+      "Audit of RHIA Schedule of Employer Allocations and OPEB Amounts by Employer for the Year Ended June 30, 2024",
+      "audit_report",
+      "reports/2025-05.md",
+      "current"
+    ],
+    "2025-06": [
+      "Audit of RHIPA Schedule of OPEB Amounts for the Year Ended June 30, 2024",
+      "audit_report",
+      "reports/2025-06.md",
+      "current"
+    ],
+    "2025-07": [
+      "Small Scale Energy Loan Program For the Year Ended June 30, 2024",
+      "audit_report",
+      "reports/2025-07.md",
+      "current"
+    ],
+    "2025-08": [
+      "Oregon Municipal Corporations: Summary of Financial Reporting for Fiscal Year 2023",
+      "audit_report",
+      "reports/2025-08.md",
+      "current"
+    ],
+    "2025-10": [
+      "Statewide Single Audit for Fiscal Year 2024",
+      "audit_report",
+      "reports/2025-10.md",
+      "current"
+    ],
+    "2025-11": [
+      "State Government Accountability Hotline Summary Report for Calendar Year 2024",
+      "audit_report",
+      "reports/2025-11.md",
+      "current"
+    ],
+    "2025-12": [
+      "Oregon Health Insurance Marketplace Fiscal Year 2024 Compliance",
+      "audit_report",
+      "reports/2025-12.md",
+      "current"
+    ],
+    "2025-13": [
+      "Oregon Health Insurance Marketplace Financial Statements For the Fiscal Year Ended June 30, 2024",
+      "audit_report",
+      "reports/2025-13.md",
+      "current"
+    ],
+    "2025-14": [
+      "Oregon Faces Challenges in Addressing Gaps in the Behavioral Health Crisis System",
+      "audit_report",
+      "reports/2025-14.md",
+      "current"
+    ],
+    "2025-15": [
+      "Safe Drinking Water Revolving Loan Fund Agreed Upon Procedures for Fiscal Years Ended June 30, 2023 and June 30, 2024",
+      "audit_report",
+      "reports/2025-15.md",
+      "current"
+    ],
+    "2025-16": [
+      "Keeping Oregon Accountable Fiscal Year 2024",
+      "audit_report",
+      "reports/2025-16.md",
+      "current"
+    ],
+    "2025-17": [
+      "Clean Water State Revolving Fund Loan Program Enterprise Fund of the State of Oregon for the Fiscal Year Ended June 30, 2024",
+      "audit_report",
+      "reports/2025-17.md",
+      "current"
+    ],
+    "2025-18": [
+      "Without a Comprehensive Compliance Function, DAS Cannot Effectively Monitor High-Risk Contracts or Mitigate Contracting Risks",
+      "audit_report",
+      "reports/2025-18.md",
+      "current"
+    ],
+    "2025-19": [
+      "Financial Statements and Supplementary Schedules as of and for the Years Ended December 31, 2024 and 2023, and Report of Independent Auditors",
+      "audit_report",
+      "reports/2025-19.md",
+      "current"
+    ],
+    "2025-20": [
+      "Financial Statements—Statutory Basis as of and for the Years Ended December 31, 2024 and 2023, Supplementary Schedules as of December 31, 2024, and Report of Independent Auditors",
+      "audit_report",
+      "reports/2025-20.md",
+      "current"
+    ],
+    "2025-21": [
+      "Oregon Short Term Fund An Investment Pool of the State of Oregon For the Year Ended June 30, 2025",
+      "audit_report",
+      "reports/2025-21.md",
+      "current"
+    ],
+    "2025-22": [
+      "Oregon Local Government Intermediate Fund An Investment Pool of the State of Oregon For the Year Ended June 30, 2025",
+      "audit_report",
+      "reports/2025-22.md",
+      "current"
+    ],
+    "2025-23": [
+      "Oregon Intermediate Term Pool An Investment Pool of the State of Oregon For the Year Ended June 30, 2025",
+      "audit_report",
+      "reports/2025-23.md",
+      "current"
+    ],
+    "2025-24": [
+      "Veterans' Loan Program Annual Financial Report An Enterprise Fund of the Oregon Department of Veterans' Affairs For the Year Ending June 30, 2025",
+      "audit_report",
+      "reports/2025-24.md",
+      "current"
+    ],
+    "2025-25": [
+      "For Years, BOLI’s Leadership Failed to Implement Key Management Principles to the Detriment of Oregon Workers",
+      "audit_report",
+      "reports/2025-25.md",
+      "current"
+    ],
+    "2025-26": [
+      "Annual Financial Report Enterprise Funds For the Year Ended June 30, 2025",
+      "audit_report",
+      "reports/2025-26.md",
+      "current"
+    ],
+    "2025-27": [
+      "Annual Comprehensive Financial Report Enterprise Fund For the Year Ended June 30, 2025",
+      "audit_report",
+      "reports/2025-27.md",
+      "current"
+    ],
+    "2025-28": [
+      "Common School Fund Annual Financial Report For the Fiscal Year Ended June 30, 2025",
+      "audit_report",
+      "reports/2025-28.md",
+      "current"
+    ],
+    "2025-29": [
+      "Measure 110 Lacks Stability, Coordination, and Clear Results",
+      "audit_report",
+      "reports/2025-29.md",
+      "current"
+    ],
+    "2025-30": [
+      "Annual Comprehensive Financial Report For the Fiscal Year Ended June 30, 2025, Contract Audit",
+      "audit_report",
+      "reports/2025-30.md",
+      "current"
+    ],
+    "2026-01": [
+      "Audit Plan for Performance Audits Fiscal Year 27",
+      "audit_report",
+      "reports/2026-01.md",
+      "current"
+    ],
+    "2026-02": [
+      "Oregon Annual Comprehensive Financial Report For the Fiscal Year Ended June 30, 2025",
+      "audit_report",
+      "reports/2026-02.md",
+      "current"
+    ],
+    "2026-03": [
+      "State Government Waste Hotline Summary Report Calendar Year 2025",
+      "audit_report",
+      "reports/2026-03.md",
+      "current"
+    ],
+    "2026-04": [
+      "Oregon Municipalities: Summary of Financial Reporting Fiscal Year 2024",
+      "audit_report",
+      "reports/2026-04.md",
+      "current"
+    ],
+    "2026-05": [
+      "Small Scale Energy Loan Program For the Year Ended June 30, 2025",
+      "audit_report",
+      "reports/2026-05.md",
+      "current"
+    ],
+    "2026-06": [
+      "Cybersecurity Controls Audit",
+      "audit_report",
+      "reports/2026-06.md",
+      "current"
+    ],
+    "2026-07": [
+      "Audit of Pension Schedule of Employer Allocations and Pension Amounts by Employer for the Year Ended June 30, 2025",
+      "audit_report",
+      "reports/2026-07.md",
+      "current"
+    ],
+    "2026-08": [
+      "Audit of RHIPA Schedule of OPEB Amounts for the Year Ended June 30, 2025",
+      "audit_report",
+      "reports/2026-08.md",
+      "current"
+    ],
+    "2026-09": [
+      "Audit of RHIA Schedule of Employer Allocations and OPEB Amounts by Employer for the Year Ended June 30, 2025",
+      "audit_report",
+      "reports/2026-09.md",
+      "current"
+    ],
+    "2026-10": [
+      "Statewide Single Audit for Fiscal Year 2025",
+      "audit_report",
+      "reports/2026-10.md",
+      "current"
+    ],
+    "2026-11": [
+      "Inadequate Safety Inspections and Poor Asset Tracking Increase Risk to Public Safety and Property",
+      "audit_report",
+      "reports/2026-11.md",
+      "current"
+    ],
+    "2026-12": [
+      "Special Public Works Fund and Water Fund Enterprise Funds For the Year Ended June 30, 2025",
+      "audit_report",
+      "reports/2026-12.md",
+      "current"
+    ],
+    "2026-13": [
+      "Oregon Health Insurance Marketplace Financial Statements For the Fiscal Year Ended June 30, 2025",
+      "audit_report",
+      "reports/2026-13.md",
+      "current"
+    ],
+    "2026-14": [
+      "Oregon Health Insurance Marketplace Fiscal Year 2025 Compliance",
+      "audit_report",
+      "reports/2026-14.md",
+      "current"
+    ],
+    "2026-15": [
+      "Cybersecurity Controls Audit",
+      "audit_report",
+      "reports/2026-15.md",
+      "current"
+    ],
+    "2026-16": [
+      "Keeping Oregon Accountable Fiscal Year 2025",
+      "audit_report",
+      "reports/2026-16.md",
+      "current"
+    ],
+    "2026-17": [
+      "Clean Water State Revolving Fund Loan Program Enterprise Fund of the State of Oregon Fiscal Year Ended June 30, 2025",
+      "audit_report",
+      "reports/2026-17.md",
+      "current"
+    ],
+    "2026-18": [
+      "High School Graduation and College and Career Readiness Fund For Biennium Ended June 30, 2025",
+      "audit_report",
+      "reports/2026-18.md",
+      "current"
+    ],
+    "2026-19": [
+      "Crumbling Facilities, Staffing Shortages, and Obsolete IT Systems Undermine Prison Safety and Reform Efforts",
+      "audit_report",
+      "reports/2026-19.md",
+      "current"
+    ],
+    "2026-20": [
+      "Youth and Adults in Close-Custody Correctional Facilities Need Better Language Supports",
+      "audit_report",
+      "reports/2026-20.md",
+      "current"
+    ]
+  }
+}

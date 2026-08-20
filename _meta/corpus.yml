@@ -26,6 +26,44 @@ content_roots:
     doc_type: "audit_report"
 
 plugins:
+  # WHICH FRONTMATTER KEY CARRIES THE REGISTRY SLUG (corpus-toolkit>=1.28.0).
+  #
+  # `agency_registry_slug` is written by src/link_agency_registry.py from
+  # _meta/agency-crosswalk.yml, so the crosswalk stays owned here and its result is
+  # materialised into every document -- the toolkit reads a resolved slug and never learns
+  # to read a crosswalk. Declaring it is what makes `documents_by_agency(slug)` answer here
+  # at all: without it every document resolves to an empty slug, because this corpus has no
+  # issuing-body-scoped content root for the toolkit to derive one from.
+  #
+  # Keyed on the EXACT frontmatter `agency` string, not a derived key -- unlike oregon-kpm,
+  # this corpus's ingester already collapses cover-page variation into one spelling.
+  issuing_body_slug_field: "agency_registry_slug"
+
+  # THE CROSSWALK'S `unmapped` DECISIONS, CARRIED INTO THE DATA.
+  #
+  # The crosswalk insists that "an entry under `unmapped` is a DECISION with a stated
+  # reason, never a blank" -- but the 19 documents behind those decisions OMITTED
+  # `agency_registry_slug` entirely, so at the toolkit level they were indistinguishable
+  # from "nobody has looked yet". Every `documents_by_agency` answer here was therefore a
+  # FLOOR, permanently, and a gateway reading one could conclude nothing from it.
+  #
+  # A declared sentinel is RESOLVED, not a gap (corpus-toolkit#94): the corpus positively
+  # asserting "this document is attributed to NO body". These three are one per unmapped
+  # reason, because the reasons are not interchangeable and collapsing them would discard
+  # exactly what the crosswalk records:
+  #
+  #   multi-agency                        a report spanning agencies names no single one
+  #   government-accountability-hotline   a program of the Audits Division, not an audited
+  #                                       body; the tips concern many
+  #   not-a-state-agency                  a local district; the registry is keyed on OAR
+  #                                       chapter assignment and a district holds none
+  #
+  # None of these is a registry slug and none may become one -- the toolkit refuses a
+  # sentinel that collides with a registry entry, at load.
+  issuing_body_slug_sentinels:
+    - multi-agency
+    - government-accountability-hotline
+    - not-a-state-agency
   # Vector search over the prebuilt embeddings artifact. The implementation is shared --
   # corpus_toolkit.semantic.search -- rather than a per-repo copy, because eight copies of a
   # loader do not stay identical and the details that drift are the expensive ones (the

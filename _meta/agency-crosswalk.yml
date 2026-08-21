@@ -1,16 +1,20 @@
 note: 'Crosswalk from this corpus''s `audited_agency` strings to the executive-regulatory-frameworks
   agency registry slug. The Audits Division names agencies in inverted catalog order
-  ("Administrative Services, Department of"); the registry carries statutory proper names
-  ("Department of Administrative Services"); nothing joined until this file existed — measured
+  ("Administrative Services, Department of"); the registry''s `oar_name` carries the OAR
+  chapter title ("Department of Administrative Services"); nothing joined until this file existed — measured
   at 0 of 40 exact matches (executive-regulatory-frameworks#83). Keyed on the EXACT frontmatter
   string, not a derived key: unlike oregon-kpm, this corpus''s ingester already collapses cover-page
   variation into one spelling per agency, so the string is the identity. Generated and validated
   by src/link_agency_registry.py — --check runs in CI from committed data alone, --verify-registry
   resolves every slug against ERF. An entry under `unmapped` is a DECISION with a stated reason,
   never a blank: "we looked and there is no counterpart" and "nobody has looked yet" must not be
-  the same state. basis: exact means the two names are identical after mechanical normalisation
-  (case, punctuation, comma-inversion, a leading "Oregon"); anything more is an alias and must
-  say why in prose. Follows oregon-kpm''s _meta/agency-crosswalk.yml precedent: the table lives
+  the same state. basis: exact means the audited_agency string and the registry
+  entry''s `oar_name` are identical after mechanical normalisation (case, punctuation,
+  comma-inversion, a leading "Oregon"); anything more is an alias and must say why in prose.
+  THE FIELD IS NAMED ON PURPOSE: ERF#168 promotes `name` to the statutory name and leaves the
+  OAR chapter title in `oar_name` (their ADR 0003), so "matches the registry name" stops being
+  one claim. --verify-registry checks every exact claim against `oar_name` and lists any that
+  no longer hold. Follows oregon-kpm''s _meta/agency-crosswalk.yml precedent: the table lives
   in the consumer, correctness belongs to the registry.'
 registry_corpus: executive-regulatory-frameworks
 registry_source: https://github.com/OregonAI/executive-regulatory-frameworks/blob/main/_meta/catalog/agencies.yml

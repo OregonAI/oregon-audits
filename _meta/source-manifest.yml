@@ -3534,3 +3534,33 @@ sources:
   sha256: ''
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
+- id: 2026-21
+  url: https://sos.oregon.gov/audits/Documents/2026-21.pdf
+  format: html
+  citation: Report No. 2026-21
+  title: Financial Statements and Supplementary Schedules as of and for the Years Ended December 31, 2025
+    and 2024, and Report of Independent Auditors, Contract Audit, GAAP Basis
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: SAIF Corporation
+  report_year: '2026'
+  report_month: 08 - August
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2026-22
+  url: https://sos.oregon.gov/audits/Documents/2026-22.pdf
+  format: html
+  citation: Report No. 2026-22
+  title: Financial Statements – Statutory Basis as of and for the Years Ended December 31, 2025 and 2024,
+    Supplementary Schedules as of December 31, 2025, and Report of Independent Auditors, Contract Audit
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: SAIF Corporation
+  report_year: '2026'
+  report_month: 08 - August
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []

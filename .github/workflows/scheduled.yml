@@ -4,7 +4,7 @@ on:
     # WEEKLY for the cheap local checks and the manifest, ANNUAL for re-fetching sources.
     # The split matters here more than in most corpora -- see the drift job.
     - cron: "0 14 * * 1"        # Mondays: full validation + is the manifest complete
-    - cron: "0 15 15 1 *"       # 15 January: re-fetch every source (drift)
+    - cron: "0 14 1 * *"        # monthly, 1st: re-fetch every source (drift; corpus-toolkit ADR 0015)
   workflow_dispatch:
 
 jobs:
@@ -32,7 +32,6 @@ jobs:
     if: github.event.schedule != '0 14 * * 1'
     permissions:
       contents: write
-      issues: write
       # v1.30.0 opens a PR for STATUS.md instead of pushing to
       # this protected branch. A CALLER's permissions are the
       # ceiling for a reusable workflow, so the toolkit

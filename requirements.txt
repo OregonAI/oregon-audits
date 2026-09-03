@@ -12,7 +12,7 @@
 #              frontmatter validation.
 #   * v1.9.0   the FTS cache SCHEMA_VERSION. An older toolkit reads a v1.9.0-built index
 #              as valid and then selects a column that is not there.
-corpus-toolkit[mcp,semantic] @ git+https://github.com/OregonAI/corpus-toolkit@v1.33.0
+corpus-toolkit[mcp,semantic] @ git+https://github.com/OregonAI/corpus-toolkit@v1.34.0
 pyyaml
 # src/ingest_audits.py extracts the report PDFs (Stage 2). Same extractor
 # oregon-records-retention uses, so the page-furniture stripping is shared behaviour

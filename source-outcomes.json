@@ -2,11 +2,11 @@
   "group_filter": null,
   "groups": {
     "manifest": {
-      "changed": 0,
+      "changed": 191,
       "checked": 244,
       "fetch_failed": 0,
-      "no_baseline": 244,
-      "unchanged": 0,
+      "no_baseline": 0,
+      "unchanged": 53,
       "unreadable_json": 0,
       "watch_path_missing": 0
     }
@@ -19,1719 +19,1719 @@
   "sources": [
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2020-01",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7132832"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2020-02",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7132927"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2020-03",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7182519"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2020-04",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7182520"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2020-05",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7182524"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2020-06",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7182525"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2020-07",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7182849"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2020-08",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7182850"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2020-09",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7182851"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2020-10",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7182852"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2020-11",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7227892"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2020-12",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7278875"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2020-13",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7227903"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2020-14",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7227904"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2020-15",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7227905"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2020-16",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7227926"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2020-17",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7227948"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2020-18",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7359556"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2020-19",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7359563"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2020-20",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7359562"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2020-21",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7359565"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2020-22",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7359852"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2020-23",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7359853"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2020-24",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7359912"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2020-25",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7359913"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2020-26",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7359951"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2020-27",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7519801"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2020-28",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7519802"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2020-29",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7519833"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2020-30",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7519834"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2020-31",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7519835"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2020-32",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7555866"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2020-33",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7589752"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2020-34",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7589766"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2020-35",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7589791"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2020-36",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7589849"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2020-37",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7672528"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2020-38",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7672531"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2020-39",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7672533"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2020-40",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7672534"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2020-41",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7672535"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2020-42",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7672536"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2020-43",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7672537"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2020-44",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7672699"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2020-45",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7672700"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2020-46",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7672729"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2021-01",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7795224"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2021-02",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7795225"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2021-03",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7795226"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2021-04",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7795235"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2021-05",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7795236"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2021-06",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7795247"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2021-07",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7795248"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2021-08",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7795249"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2021-09",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7795356"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2021-10",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7795360"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2021-11",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7969413"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2021-12",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7971951"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2021-13",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8000289"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2021-14",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8011097"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2021-15",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8028928"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2021-16",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8039546"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2021-17",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8053194"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2021-18",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8062811"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2021-19",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8075417"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2021-20",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8097516"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2021-21",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8172687"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2021-22",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8166938"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2021-23",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8166939"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2021-24",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8214465"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2021-25",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8226892"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2021-26",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8230495"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2021-27",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8242020"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2021-28",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8310347"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2021-29",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8327840"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2021-30",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8355669"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2021-31",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8393399"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2021-32",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8394487"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2021-33",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8406240"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2021-34",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8407921"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2021-35",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8427032"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2021-36",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8429227"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2021-37",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8457557"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2021-38",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8463620"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2021-39",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8463621"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2022-01",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8505006"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2022-02",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8510062"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2022-03",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8541904"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2022-04",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8562228"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2022-05",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8607228"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2022-06",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8601753"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2022-07",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8604120"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2022-08",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8604121"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2022-09",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8604122"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2022-10",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8647614"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2022-11",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8670795"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2022-12",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8693842"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2022-13",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8695473"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2022-14",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8745552"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2022-15",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8770259"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2022-16",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8794669"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2022-17",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8855400"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2022-18",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8864569"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2022-19",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8879001"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2022-20",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8890915"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2022-21",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8903079"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2022-22",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8916882"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2022-23",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8916903"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2022-24",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8938598"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2022-25",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8970031"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2022-26",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8970066"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2022-27",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8979827"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2022-28",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9013473"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2022-29",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9078307"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2022-30",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9103105"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2022-31",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9118836"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2022-32",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9121445"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2022-33",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9128276"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2022-34",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9131925"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2022-35",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9254842"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2022-36",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9170457"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2023-01",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9196572"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2023-02",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9198548"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2023-03",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10595085"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2023-04",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9231213"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2023-05",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9254950"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2023-06",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9254951"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2023-07",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9254952"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2023-08",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9287944"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2023-09",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9281763"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2023-10",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9297408"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2023-11",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9330940"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2023-12",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9333353"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2023-13",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9352529"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2023-14",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9377923"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2023-17",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9442147"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2023-18",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9456712"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2023-19",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9468402"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2023-20",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9585434"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2023-21",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9589992"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2023-22",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9597969"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2023-23",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9597970"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2023-24",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9611939"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2023-25",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9774904"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2023-26",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9653549"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2023-27",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9655455"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2023-28",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9655456"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2023-29",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9690849"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2023-30",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9704109"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2023-31",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9759503"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2023-32",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9772536"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2023-33",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9775783"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2023-34",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9787660"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2023-35",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9791144"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2023-36",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9804732"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2023-37",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9828700"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2023-38",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9830503"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2023-39",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9965133"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2024-01",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9877569"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2024-02",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9922791"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2024-03",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9936657"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2024-04",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9937520"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2024-05",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9978977"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2024-06",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10000616"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2024-07",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9997984"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2024-08",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10042699"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2024-09",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10042700"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2024-10",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10042708"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2024-11",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10042709"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2024-12",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10067614"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2024-13",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10115088"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2024-14",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10139503"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2024-15",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10142791"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2024-16",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10191691"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2024-17",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10229113"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2024-18",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10230991"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2024-19",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10250588"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2024-20",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10327636"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2024-21",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10327637"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2024-22",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10364046"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2024-23",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10364047"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2024-24",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10365802"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2024-25",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10410924"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2024-26",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10410925"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2024-27",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10435155"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2024-28",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10458155"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2024-29",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10465395"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2024-30",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10482044"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2024-31",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10492557"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2024-32",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10519154"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2024-33",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10529872"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2024-34",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10555839"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2024-35",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10568164"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2025-01",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10599262"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2025-02",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10601929"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2025-03",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10742170"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2025-04",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10805471"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2025-05",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10805472"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2025-06",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10805473"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2025-07",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10808423"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2025-08",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10809405"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2025-10",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10363238"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2025-11",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10913343"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2025-12",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10363265"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2025-13",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10363266"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2025-14",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10363268"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2025-15",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/11016545"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2025-16",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10363270"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2025-17",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/11123244"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2025-18",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/11215565"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2025-19",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/11816206"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2025-20",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/11816207"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2025-21",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/12280580"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2025-22",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/12280581"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2025-23",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/12280582"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2025-24",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/12514798"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2025-25",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/12721425"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2025-26",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/12732486"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2025-27",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/12742419"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2025-28",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/12742447"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2025-29",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/13404575"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2025-30",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/13703091"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2026-01",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/14778991"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2026-02",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/14852869"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2026-03",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/15019972"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2026-04",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/15132149"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2026-05",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/15284293"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2026-06",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/15493045"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2026-07",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/15493046"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2026-08",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/15493047"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2026-09",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/15493048"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2026-10",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/15531589"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2026-11",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/15536272"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2026-12",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSWebDrawer/Record/15591093"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2026-13",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/RecordViewer.aspx?uri=15593487"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2026-14",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/RecordViewer.aspx?uri=15593511"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2026-15",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/RecordViewer.aspx?uri=15833541"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2026-16",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/RecordViewer.aspx?uri=16118172"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2026-17",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/RecordViewer.aspx?uri=16127661"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2026-18",
-      "outcome": "no_baseline",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/RecordViewer.aspx?uri=16163545"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2026-19",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://sos.oregon.gov/audits/Documents/2026-19.pdf"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2026-20",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://sos.oregon.gov/audits/Documents/2026-20.pdf"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2026-21",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://sos.oregon.gov/audits/Documents/2026-21.pdf"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2026-22",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://sos.oregon.gov/audits/Documents/2026-22.pdf"
     }
   ],
   "totals": {
-    "changed": 0,
+    "changed": 191,
     "fetch_failed": 0,
-    "no_baseline": 244,
+    "no_baseline": 0,
     "total": 244,
-    "unchanged": 0,
+    "unchanged": 53,
     "unreadable_json": 0,
     "watch_path_missing": 0
   }

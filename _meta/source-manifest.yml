@@ -6,9 +6,10 @@ note: "Every upstream source this corpus consumes. Human-approved via PR BEFORE 
   \ bytes are\n   never stable. Compare the extracted RECORD SET, never the page.\n2. hrefs inside Additional_x0020_Documents\
   \ are entity-escaped (`https&#58;//`).\n   Unescape them or every URL 404s in a way that looks exactly\
   \ like link rot.\n3. Report numbers are NOT dense. A gap can be a withdrawal under GAGAS 3.34 — one\n\
-  \   really is — so every gap is listed below with a reason rather than skipped.\n4. `format: html` is\
-  \ deliberate and is NOT a mistake: these URLs serve an HTML\n   viewer with the PDF base64-encoded inside\
-  \ a <script>. Declaring `pdf` would run\n   pdftotext over HTML.\n"
+  \   really is — so every gap is listed below with a reason rather than skipped.\n4. `format: pdf` is\
+  \ deliberate (2026-09-05, #47): the sources point at DocumentStream.ashx, which serves the PDF\n\
+  \   itself. The Recordhtml / RecordViewer.aspx pages are a pdf.js viewer shell with per-request\n\
+  \   tokens; hashing them is what made 191 sources report changed every run. Never point a source at them.\n"
 index: https://sos.oregon.gov/audits/pages/state-audits.aspx
 list_api: https://sos.oregon.gov/audits/_api/web/lists/getbytitle('Audit%20Search')/items?$top=500
 recheck: annual
@@ -33,10 +34,16 @@ anomalies:
   Should Improve Child Safety by St'')'
 - '2020-05: appears on more than one list row ("Using the U.S. Treasury''s Do Not Pay Sys" / "Using the
   U.S. Treasury''s Do Not Pay Sys")'
+# URL SHAPE (2026-09-05, oregon-audits#47): the SOS records system (ORMS) turned its WebDrawer
+# Recordhtml/<id> and CMSearch RecordViewer.aspx?uri=<id> pages into a pdf.js viewer shell whose
+# bytes carry per-request ASP.NET tokens, so 191 of 244 sources 'changed' on every drift run.
+# The record's bytes are served by ORSOSCMSearch/Search/DocumentStream.ashx?uri=<id> (the same
+# id for both shapes). Sources point at the stream as format: pdf, so the detector hashes the
+# report, not the page around it. Documents keep the record page as their human-facing source_url.
 sources:
 - id: 2020-01
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7132832
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7132832
+  format: pdf
   citation: Report No. 2020-01
   title: Oregon's Child Welfare Information System Is Adequate for Case Management, but Enhancements Are
     Needed to Improve Usability
@@ -46,12 +53,12 @@ sources:
   report_year: '2020'
   report_month: 02 - February
   recheck: annual
-  sha256: "04dc0a989e139987763d29d9613886deac68cab31c5c8cd4e1a6a82a06f0ed1e"
+  sha256: "2d2047c2cb484ab0e86fbaf4657f8d68ca927329ac768192f4a2ca9060b4adfe"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2020-02
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7132927
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7132927
+  format: pdf
   citation: Report No. 2020-02
   title: 2020-21 Audit Plan
   doc_type: audit_report
@@ -60,12 +67,12 @@ sources:
   report_year: '2020'
   report_month: 02 - February
   recheck: annual
-  sha256: "752872c388e9eba2788990278677184d4f95d3b09de81a46af288d293274ae79"
+  sha256: "6b3f528ec29f95d5f0e674829dab557e7f402acdc370e3b1e4b96e91136247e3"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2020-03
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7182519
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7182519
+  format: pdf
   citation: Report No. 2020-03
   title: Travel Oregon Should Strengthen Controls over Contracting and Improve Accountability of Compensation
     to Inform Decision Makers
@@ -75,12 +82,12 @@ sources:
   report_year: '2020'
   report_month: 02 - February
   recheck: annual
-  sha256: "6da5eed9ac1be41057f135fab995dfafd546190c5b9b863acaddcf4de63e4ba7"
+  sha256: "1a76d45adb52b60397cae25054e4d9d3cf18186d57d7554bb3de52c309443adb"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2020-04
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7182520
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7182520
+  format: pdf
   citation: Report No. 2020-04
   title: Oregon Health Insurance Marketplace Fiscal Year 2019 Compliance
   doc_type: audit_report
@@ -89,12 +96,12 @@ sources:
   report_year: '2020'
   report_month: 02 - February
   recheck: annual
-  sha256: "39bb1ed2df1a6213040c54076b36912b614994de3fe2ae882af816fe3b4be3f3"
+  sha256: "628e89f4b436e0d616d333cec26413c4eab581dabcd19f2bdbc652cece6b355f"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2020-05
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7182524
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7182524
+  format: pdf
   citation: Report No. 2020-05
   title: Using the U.S. Treasury's Do Not Pay System for Health and Human Services Programs Will Save
     Taxpayers Money
@@ -104,12 +111,12 @@ sources:
   report_year: '2020'
   report_month: 02 - February
   recheck: annual
-  sha256: "0783715016b7201c1789978268cf8f2a8a4b4ddc702c2730bb337d491dc17231"
+  sha256: "56d00594db7cf1d4c4e3ea01e07e31ed3d31c4b3521e5a18e3b489ead0e17f5a"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2020-06
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7182525
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7182525
+  format: pdf
   citation: Report No. 2020-06
   title: Oregon Health Insurance Marketplace Financial Statements For the Fiscal Year Ended June 30, 2019
   doc_type: audit_report
@@ -118,12 +125,12 @@ sources:
   report_year: '2020'
   report_month: 02 - February
   recheck: annual
-  sha256: "af58bb387ccdf704a2fe9af39ae63b1fc05944092e0c165aa8800e9efdf59c07"
+  sha256: "02b0065e41f4cb52baa29a7e0d12c78ad10bdc0c909b2d3cde07d076da5c1a55"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2020-07
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7182849
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7182849
+  format: pdf
   citation: Report No. 2020-07
   title: 'Oregon Municipal Corporations: Summary of Fiscal Year 2018 Financial Reporting'
   doc_type: audit_report
@@ -132,12 +139,12 @@ sources:
   report_year: '2020'
   report_month: 02 - February
   recheck: annual
-  sha256: "24a61eb87c846af9db91c42fca288c68612bfdc59f86fb2fc53dd9711b15baaa"
+  sha256: "58e58b751d9a74737162cc0480a639c0153e83f36f6a7795e17c8b868121e2d0"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2020-08
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7182850
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7182850
+  format: pdf
   citation: Report No. 2020-08
   title: Audit of Pension Schedule of Employer Allocations and Pension Amounts by Employer for the Year
     Ended June 30, 2019, Contract Audit
@@ -147,12 +154,12 @@ sources:
   report_year: '2020'
   report_month: 02 - February
   recheck: annual
-  sha256: "5e078bc7952efaeb7a2d7b42e0ca78c3dbc34169c413cbb64aab8d274ac944a4"
+  sha256: "de42d63a76db5a5f111c36ec04d722125deb2bfd7d82cc6fe09d494d6f10240a"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2020-09
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7182851
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7182851
+  format: pdf
   citation: Report No. 2020-09
   title: Audit of RHIPA Schedule of OPEB Amounts for the Year Ended June 30, 2019, Contract Audit
   doc_type: audit_report
@@ -161,12 +168,12 @@ sources:
   report_year: '2020'
   report_month: 02 - February
   recheck: annual
-  sha256: "02d7de45d6701053c792b1ff0fdee0bf523612d256324728f63625b77beca781"
+  sha256: "6344c625d9536e33841c6b62b85bbcbb4fbde25e2bca191645bae49d184c845c"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2020-10
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7182852
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7182852
+  format: pdf
   citation: Report No. 2020-10
   title: Audit of RHIA Schedule of Employer Allocations and OPEB Amounts by Employer for the Year Ended
     June 30, 2019, Contract Audit
@@ -176,12 +183,12 @@ sources:
   report_year: '2020'
   report_month: 02 - February
   recheck: annual
-  sha256: "ef14aba0523c511067368fb7968e283649b74719418725145a7fe40a1ddb3ec7"
+  sha256: "a97e7808e2741b832a134668c383d2846805eccff3fa5739a1c707c6f1db2f55"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2020-11
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7227892
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7227892
+  format: pdf
   citation: Report No. 2020-11
   title: DAS Should Build on Recent Enhancements and Further Improve the Facility Planning Process to
     Better Inform Investments in State Facilities
@@ -191,12 +198,12 @@ sources:
   report_year: '2020'
   report_month: 03 - March
   recheck: annual
-  sha256: "6eb48f6c3913c68b20d5f59145e1c75e9276762a03105cb8c86db4df32530f2f"
+  sha256: "c299112a33091036ab48377b08e3811bc83638fa05aa0a2a6820d9d35f9f1c72"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2020-12
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7278875
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7278875
+  format: pdf
   citation: Report No. 2020-12
   title: 'Recommendation Follow-up Report: Progress Made, but Pension Reform Delayed Implementation of
     Some Recommendations'
@@ -206,12 +213,12 @@ sources:
   report_year: '2020'
   report_month: 03 - March
   recheck: annual
-  sha256: "78546a26ed722ee5ebf3046094f9abb96322584a64a7b001937428d928d6244d"
+  sha256: "fe915038316a735253014fc39c1af0b7c859153720c7f2c831ec17dcab9a5caf"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2020-13
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7227903
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7227903
+  format: pdf
   citation: Report No. 2020-13
   title: Special Public Works Fund and Water Fund for the Fiscal Year Ended June 30, 2019
   doc_type: audit_report
@@ -220,12 +227,12 @@ sources:
   report_year: '2020'
   report_month: 03 - March
   recheck: annual
-  sha256: "3182cf365f560d80713ec15fea5b8c56c0d08d8e939479c72adcc9881319f0d2"
+  sha256: "bc4ee87b5c8a93a3f1d826a98fc7fd000a95b5d6e3f5dae086ae3e65b4e1846b"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2020-14
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7227904
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7227904
+  format: pdf
   citation: Report No. 2020-14
   title: State of Oregon Statewide Single Audit Report for Fiscal Year 2019
   doc_type: audit_report
@@ -234,12 +241,12 @@ sources:
   report_year: '2020'
   report_month: 03 - March
   recheck: annual
-  sha256: "2c3fb7ff9d2a6fc981769e830792fce57ad3c7798ab05ecd1776f10c419d2413"
+  sha256: "8a81b9ffaf9a31926a001af64d2b2205bf1f9d298be5ee56af32ea5b4660135c"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2020-15
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7227905
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7227905
+  format: pdf
   citation: Report No. 2020-15
   title: Small Scale Energy Loan Program For the Year Ended June 30, 2019
   doc_type: audit_report
@@ -248,12 +255,12 @@ sources:
   report_year: '2020'
   report_month: 03 - March
   recheck: annual
-  sha256: "8a84de55550783269d639a24b6cab880be8ca180406d6b31dfdefe0233b83390"
+  sha256: "8a99895347a1c941f17a1f2d8a3a55cd271c116fe3273f09f4248effdddfa870"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2020-16
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7227926
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7227926
+  format: pdf
   citation: Report No. 2020-16
   title: 'Recommendation Follow-up Report: Security at the Data Center Continues to Improve, but More
     Work Remains to Address Weaknesses'
@@ -263,12 +270,12 @@ sources:
   report_year: '2020'
   report_month: 04 - April
   recheck: annual
-  sha256: "6e81216058d84b604271c6dff5887fb14b4c212f6536ada09d9a7604be480bd4"
+  sha256: "e7c7a9e3db91d272646a3bdadca9a8682217cca4e4df377c390d6f21202e1d17"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2020-17
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7227948
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7227948
+  format: pdf
   citation: Report No. 2020-17
   title: Cybersecurity Controls Audit
   doc_type: audit_report
@@ -277,12 +284,12 @@ sources:
   report_year: '2020'
   report_month: 05 - May
   recheck: annual
-  sha256: "44b1677e83d7a547d140dc47c3c89f0e3f34612ed1e3b280da11912ea816bef0"
+  sha256: "45cd0d4173bf1b8d66ecd3df52a90b6e52235fccf91cad069b5b983a9b52985e"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2020-18
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7359556
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7359556
+  format: pdf
   citation: Report No. 2020-18
   title: 'Recommendation Follow-up Report: While Work Remains, the State Is on Track to Modernize Procurement
     Systems and Practices'
@@ -292,12 +299,12 @@ sources:
   report_year: '2020'
   report_month: 05 - May
   recheck: annual
-  sha256: "e4e49764ac0974e8519f70c1f072f8335ecb364f1e981be47fee885d4ffc7693"
+  sha256: "723c50bf8b3d2ed10de6043d80e01ef2cf89c1258ba53549a6f43c1b76d7f9fc"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2020-19
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7359563
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7359563
+  format: pdf
   citation: Report No. 2020-19
   title: Government Waste Hotline January to December 2019
   doc_type: audit_report
@@ -306,12 +313,12 @@ sources:
   report_year: '2020'
   report_month: 05 - May
   recheck: annual
-  sha256: "cd9f51af81633b51d2759e7eaacb2f66544acd6f3ec9e709c1bce46c01c20545"
+  sha256: "55f0c135e9e62f64ed81dad3af50d0fd8a4e1f59378d88aa7c78d6379b612259"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2020-20
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7359562
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7359562
+  format: pdf
   citation: Report No. 2020-20
   title: High School Graduation and College and Career Readiness Fund Annual Financial Report For Fiscal
     Year Ended June 30, 2019
@@ -321,12 +328,12 @@ sources:
   report_year: '2020'
   report_month: 05 - May
   recheck: annual
-  sha256: "6ff49733fa26fc9d5d7f4ec1382177794ff20bfa7b2cb1326c3a9e635bef1e1b"
+  sha256: "f8679189d2c4f5bd616fa2d793c09dfada3adf4f636829e668c3613a047f2c54"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2020-21
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7359565
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7359565
+  format: pdf
   citation: Report No. 2020-21
   title: Oregon Should Improve Child Safety by Strengthening Child Care Background Checks and the State'
     Sex Offender Registry
@@ -336,12 +343,12 @@ sources:
   report_year: '2020'
   report_month: 06 - June
   recheck: annual
-  sha256: "2b57b357000c16a42db0265406be29702f19c38d362115ad782e6607fc0ca79f"
+  sha256: "86245271d1f4bf7037c67dffed40ce2d3ea41287450079aea424b36d9bf76541"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2020-22
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7359852
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7359852
+  format: pdf
   citation: Report No. 2020-22
   title: DOJ Should Strengthen Performance Management to Optimize Contract Review Services
   doc_type: audit_report
@@ -350,12 +357,12 @@ sources:
   report_year: '2020'
   report_month: 06 - June
   recheck: annual
-  sha256: "27ada66f0cf5553e77663ee979cbcc887ac985b1f1b2276bfcf2aecff60f07dc"
+  sha256: "b30cd2ebcc67d9a82a295968abd38b0aae3f9022c727d4726ce4cc30d2d63c5e"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2020-23
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7359853
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7359853
+  format: pdf
   citation: Report No. 2020-23
   title: Keeping Oregon Accountable Fiscal Year 2019
   doc_type: audit_report
@@ -364,12 +371,12 @@ sources:
   report_year: '2020'
   report_month: 06 - June
   recheck: annual
-  sha256: "fae94273c502968c8d11ebd04a5aa3677fd0a5827997ad3e357c69fac4942af8"
+  sha256: "ec546bfe10ce5d8425a9c9d49651eaf7e0ef86fe5a07b25c0eb524c44f0f74f6"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2020-24
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7359912
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7359912
+  format: pdf
   citation: Report No. 2020-24
   title: ODE Can Better Support Students Experiencing Disabilities Through Improved Coordination and Monitoring
     of Services
@@ -379,12 +386,12 @@ sources:
   report_year: '2020'
   report_month: 06 - June
   recheck: annual
-  sha256: "c83a8c76b25b4b2a9d702d486bb9f7b2b3a9b28e653a2010b8e8cf6093dde33e"
+  sha256: "f926cd54f03b4a5b7a08a1ec58f1955e33432c386e5e0eb8934ccb32c40ba630"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2020-25
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7359913
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7359913
+  format: pdf
   citation: Report No. 2020-25
   title: Clean Water State Revolving Fund Loan Program For the Fiscal Year Ended June 30, 2019
   doc_type: audit_report
@@ -393,12 +400,12 @@ sources:
   report_year: '2020'
   report_month: 06 - June
   recheck: annual
-  sha256: "3428974d37612d2dea3af5bbec260a43c85b267c5c6c622b8d2a3d0cfc53e60c"
+  sha256: "597438bebdf5e670acd7587e3181cf54fb22cee3174e0f4eea0238f5e19e84f7"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2020-26
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7359951
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7359951
+  format: pdf
   citation: Report No. 2020-26
   title: Oregon Can More Effectively Use Family Services to Limit Foster Care and Keep Children Safely
     at Home
@@ -408,12 +415,12 @@ sources:
   report_year: '2020'
   report_month: 07 - July
   recheck: annual
-  sha256: "cabb13a9d28bb4584aceef715136fe202ea675404c4719ce7943630a0bae6cc6"
+  sha256: "17ca2cfb31c89df2f9cc28506f15b17cf0d205015ff47dbab100e2af012d24db"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2020-27
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7519801
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7519801
+  format: pdf
   citation: Report No. 2020-27
   title: Financial Statements-Statutory Basis as of and for the Years Ended December 31, 2019 and 2018,
     Supplementary Schedules as of December 31, 2019, and Report of Independent Auditors, Contract Audit
@@ -423,12 +430,12 @@ sources:
   report_year: '2020'
   report_month: 08 - August
   recheck: annual
-  sha256: "a5b0095a29660e491cb5335d306370296643ed8ce45fa04399835d7f98cfb8db"
+  sha256: "e64405f0b830726ec4ffd2cafb764c9e276d781c888c917bdb4e62e73cbd8565"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2020-28
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7519802
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7519802
+  format: pdf
   citation: Report No. 2020-28
   title: Financial Statements and Supplementary Schedules as of and for the Years Ended December 31, 2019
     and 2018, and Report of Independent Auditors, Contract Audit
@@ -438,12 +445,12 @@ sources:
   report_year: '2020'
   report_month: 08 - August
   recheck: annual
-  sha256: "92800218812622f7f7c90b166787768e1d597a9ef57cc4f7d076b372bec7f78d"
+  sha256: "ad582640665945a1c37e4f2463a77e0e774a3f010deb2434db9f17b33438e4bc"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2020-29
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7519833
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7519833
+  format: pdf
   citation: Report No. 2020-29
   title: ODOT Oversees a Robust Project Delivery Process, yet Opportunities Exist to Further Improve Work
     Zone Safety
@@ -453,12 +460,12 @@ sources:
   report_year: '2020'
   report_month: 09 - September
   recheck: annual
-  sha256: "94fffaf9f665023715b0734673d097a3ee4b1a66400c80ccec2776f43d906f1e"
+  sha256: "b86710398e3dd9158d2f63ddafe0537a6c0c3daaa0b29e56fc23ff64f3371385"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2020-30
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7519834
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7519834
+  format: pdf
   citation: Report No. 2020-30
   title: Oregon Local Government Intermediate Fund An Investment Pool of the State of Oregon For the Year
     Ended June 30, 2020
@@ -468,12 +475,12 @@ sources:
   report_year: '2020'
   report_month: 09 - September
   recheck: annual
-  sha256: "3653b4a65b57404cd08b9b6f392e0ea2c7fd07bb3c4beff9517dc273da0517fd"
+  sha256: "1f8f624f043d94d7b412ad17a5b3250c0f28d21339a65961a44c5b5625516648"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2020-31
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7519835
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7519835
+  format: pdf
   citation: Report No. 2020-31
   title: Oregon Short Term Fund An Investment Pool of the State of Oregon For the Year Ended June 30,
     2020
@@ -483,12 +490,12 @@ sources:
   report_year: '2020'
   report_month: 09 - September
   recheck: annual
-  sha256: "2ff0aa5d3d39875ee9834ed1743852adc8bb6667cf121c314f226f641ddb49da"
+  sha256: "bd20105781b88dfbdb029d6aaeff9b9d372c2d5001e6bb5b47abae6abba6f199"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2020-32
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7555866
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7555866
+  format: pdf
   citation: Report No. 2020-32
   title: Chronic and Systemic Issues in Oregon' Mental Health Treatment System Leave Children and Their
     Families in Crisis
@@ -498,12 +505,12 @@ sources:
   report_year: '2020'
   report_month: 09 - September
   recheck: annual
-  sha256: "7331978e746160ff82f3751a2f7ee850405c83d41cae35c2e2c77325f4d37ffe"
+  sha256: "720ecb8ee027a9901ac3aceb3cdb1cb7c750945f2d7a6741aae0055effea52ac"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2020-33
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7589752
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7589752
+  format: pdf
   citation: Report No. 2020-33
   title: Oregon Intermediate Term Pool An Investment Pool of the State of Oregon For the Year Ended June
     30, 2020
@@ -513,12 +520,12 @@ sources:
   report_year: '2020'
   report_month: 10 - October
   recheck: annual
-  sha256: "500497ad8159b320c086bf1cf395ce42dacdc2230980dfb5856c7db91f3692f3"
+  sha256: "518a52915ea231470e8e676f45853f8422b57840de54cdbe397aa5e5135190af"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2020-34
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7589766
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7589766
+  format: pdf
   citation: Report No. 2020-34
   title: DAS Needs to Provide Oversight to Improve Investigations of Workplace Discrimination and Harassment
     at State Agencies
@@ -528,12 +535,12 @@ sources:
   report_year: '2020'
   report_month: 10 - October
   recheck: annual
-  sha256: "f8bb915a007444c0a185f4417bbfc9be2cd9a25c8c88d23a606579c39501925e"
+  sha256: "8fcd6cf0a0e0164d219d760a9841fce09b3b33b6af5a7f853b20d1ad826ea722"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2020-35
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7589791
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7589791
+  format: pdf
   citation: Report No. 2020-35
   title: Veterans' Loan Program Annual Financial Report Enterprise Fund for the Fiscal Year Ended June
     30, 2020
@@ -543,12 +550,12 @@ sources:
   report_year: '2020'
   report_month: 10 - October
   recheck: annual
-  sha256: "a294f255b558b3dad1625c3885743b5922adbe576ea7bc64a874efe25486eab8"
+  sha256: "ef59bc9c62168cddeac282285a252c3db7f3d1d179b9d4d08d4f95fe6afd1372"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2020-36
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7589849
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7589849
+  format: pdf
   citation: Report No. 2020-36
   title: Oregon Has an Opportunity to Modernize Groundbreaking Bottle Bill on Its 50th Anniversary
   doc_type: audit_report
@@ -557,12 +564,12 @@ sources:
   report_year: '2020'
   report_month: 11 - November
   recheck: annual
-  sha256: "990fcf9fde5e27a6516311bf71bc02e15bb59c7ad2951070471b970592d1a166"
+  sha256: "c05ce5d7be3636428e5be8d432adea53909bb94ab9ca4fb5c075f9973a32b01f"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2020-37
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7672528
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7672528
+  format: pdf
   citation: Report No. 2020-37
   title: Enterprise Information Services The State Does Not Have A Privacy Program to Manage Enterprise
     Data Privacy Risk
@@ -572,12 +579,12 @@ sources:
   report_year: '2020'
   report_month: 11 - November
   recheck: annual
-  sha256: "954e81b666bc2634c444f7a356c03f9ca93aeb3dea6deb70ad7274e64f3ae9b1"
+  sha256: "db3b60c99fe3248e66c39d8a6ee1ca6a56c6860c3eb0f06a6a5c9f145fb7a196"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2020-38
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7672531
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7672531
+  format: pdf
   citation: Report No. 2020-38
   title: Annual Financial Report Enterprise Funds of the State of Oregon For the Year Ended June 30, 2020
   doc_type: audit_report
@@ -586,12 +593,12 @@ sources:
   report_year: '2020'
   report_month: 11 - November
   recheck: annual
-  sha256: "22d9f07d126d57a70d1f32c32fa278c0bda7aa55a7b31a91817d3a4bb08866b1"
+  sha256: "69328a8ab796e27a84225cd57beefe46236cdc3f66d4c128ab14a7259e343a6c"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2020-39
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7672533
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7672533
+  format: pdf
   citation: Report No. 2020-39
   title: 'Public Employees'' Benefit Board and the Oregon Educator'' Benefit Board: Efforts Have Helped
     Limit Some Employee Health Care Costs, but PEBB and OEBB Can Do More to Manage Costs and Optimize
@@ -602,12 +609,12 @@ sources:
   report_year: '2020'
   report_month: 11 - November
   recheck: annual
-  sha256: "d6ff435861f0648f95c1f08b4a45fd7fbc1e83aef3858b6f17d2cbe5785f4b34"
+  sha256: "9c869a3c533f67a12bf3035e5a67e300497822b67662fde08c4ad15da5ac5188"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2020-40
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7672534
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7672534
+  format: pdf
   citation: Report No. 2020-40
   title: July 1, 2019 through June 30, 2020
   doc_type: audit_report
@@ -616,12 +623,12 @@ sources:
   report_year: '2020'
   report_month: 11 - November
   recheck: annual
-  sha256: "ccc89fc347806e67c117f2be219ed71d81ff33358c180f929c971d406cb89d57"
+  sha256: "3c1885a9cc6d1903144157888363694219355b858e099a77afc01264a503840c"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2020-41
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7672535
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7672535
+  format: pdf
   citation: Report No. 2020-41
   title: Common School Fund Annual Financial Report For the Fiscal Year Ended June 30, 2020, Contract
     Audit
@@ -631,12 +638,12 @@ sources:
   report_year: '2020'
   report_month: 12 - December
   recheck: annual
-  sha256: "ee8cc195340086dc6b134581122ba5b727fa62633489bd4f8063eeb1221eec7a"
+  sha256: "fff426f828c4b49bc6fec3e320e471bc652e3c2f52da37ba880837e2772b9646"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2020-42
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7672536
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7672536
+  format: pdf
   citation: Report No. 2020-42
   title: Comprehensive Annual Financial Report For the Fiscal Year Ended June 30, 2020, Contract Audit
   doc_type: audit_report
@@ -645,12 +652,12 @@ sources:
   report_year: '2020'
   report_month: 12 - December
   recheck: annual
-  sha256: "30827108dbb7f9977682e994845ee1c348bb01999151474ebd44bee1d2ea72d2"
+  sha256: "a29a1609d4ecd65532cfce510828e5013397c69a7a385c790fa155f4234b941d"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2020-43
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7672537
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7672537
+  format: pdf
   citation: Report No. 2020-43
   title: By Appropriately Administering Measure 76 Funds, Oregon Is Advancing Constitutional Goals for
     State Parks and Natural Resources
@@ -660,12 +667,12 @@ sources:
   report_year: '2020'
   report_month: 12 - December
   recheck: annual
-  sha256: "9e8d09a0503ae7668f62f8e41f9bb7553763c6ecfd814b48cefdae2427f6e0d7"
+  sha256: "328f5967fc2e514cc3f7144666e8982694fc02fb03ee207946fd633d975304f9"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2020-44
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7672699
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7672699
+  format: pdf
   citation: Report No. 2020-44
   title: High School Success Planning Is Robust, but ODE Can Enhance Benefits of Measure 98 by Improving
     Monitoring and Analysis
@@ -675,12 +682,12 @@ sources:
   report_year: '2020'
   report_month: 12 - December
   recheck: annual
-  sha256: "b94b0e62172b708326c59a3410ca36e25db51b5ec3d293ae81293de0a352ba9c"
+  sha256: "d2445675fe05f1dbbd0865252f2a25e0a7d61450fbfc0a7e37f299aa8471a516"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2020-45
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7672700
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7672700
+  format: pdf
   citation: Report No. 2020-45
   title: Comprehensive Annual Financial Report Enterprise Fund For the Fiscal Year Ended June 30, 2020
   doc_type: audit_report
@@ -689,12 +696,12 @@ sources:
   report_year: '2020'
   report_month: 12 - December
   recheck: annual
-  sha256: "75681016cf0f123257e9686d2af09c1e055efb687acb48d2b55edc6abaf8380d"
+  sha256: "1f24754a72fdd86d5dbfe7e8bc53d308722edfab5975ceb5a0cc5578413a8c66"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2020-46
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7672729
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7672729
+  format: pdf
   citation: Report No. 2020-46
   title: The Board Should Ensure Facility Inspections Be Performed and Strengthen Controls over Financial
     Processes
@@ -704,12 +711,12 @@ sources:
   report_year: '2020'
   report_month: 12 - December
   recheck: annual
-  sha256: "2abaa2fc0f7195ffabb93e8690ef0a4d8b1f0d317ea44ff7de0cd9957b56d61b"
+  sha256: "d1d0c760918212ccd484425638de99522b85ac1d86c0ac59217701267f61b79a"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2021-01
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7795224
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7795224
+  format: pdf
   citation: Report No. 2021-01
   title: 2021-22 Audit Plan
   doc_type: audit_report
@@ -718,12 +725,12 @@ sources:
   report_year: '2021'
   report_month: 02 - February
   recheck: annual
-  sha256: "e2de6775c21d146c8d0e5f3b9d1fceff1884aba0b6192fdd21e27068aa9d53c2"
+  sha256: "887dfbe86c0d4a2618b6417926671c7bb417c89525c16cd7dbf5fb2ea58a035c"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2021-02
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7795225
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7795225
+  format: pdf
   citation: Report No. 2021-02
   title: Oregon Health Insurance Marketplace Financial Statements For the Fiscal Year Ended June 30, 2020
   doc_type: audit_report
@@ -732,12 +739,12 @@ sources:
   report_year: '2021'
   report_month: 02 - February
   recheck: annual
-  sha256: "e6ea727e4db9cebd0cc00d0fba200d513bee712d1cd98cb50bddbaf7cb3e382a"
+  sha256: "fa777a6fcd174034f64072a840486144f6558e0226f3be1b8a7586ec3c39a7d5"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2021-03
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7795226
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7795226
+  format: pdf
   citation: Report No. 2021-03
   title: Oregon Health Insurance Marketplace Fiscal Year 2020 Compliance
   doc_type: audit_report
@@ -746,12 +753,12 @@ sources:
   report_year: '2021'
   report_month: 02 - February
   recheck: annual
-  sha256: "065da957edaa98ee0601756ae05eea3205b4bb480aa303c6ba0d4babb0d91275"
+  sha256: "c7a71d98990d6e6191f986d4267c3bb7faeca3019e3e43e0ef3c15c4bda14921"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2021-04
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7795235
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7795235
+  format: pdf
   citation: Report No. 2021-04
   title: Comprehensive Annual Financial Report For the Fiscal Year Ended June 30, 2020
   doc_type: audit_report
@@ -760,12 +767,12 @@ sources:
   report_year: '2021'
   report_month: 02 - February
   recheck: annual
-  sha256: "f5f40570b949af4d9cdeaea409b83815f83dd6d29eca6527a8bdd62d57e1cb68"
+  sha256: "e94a006d227061a3ad73fed87ccec7f6180116e15a915a5a3a3c901ac380dc3d"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2021-05
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7795236
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7795236
+  format: pdf
   citation: Report No. 2021-05
   title: 'Oregon Municipal Corporations: Summary of Fiscal Year 2019 Financial Reporting'
   doc_type: audit_report
@@ -774,12 +781,12 @@ sources:
   report_year: '2021'
   report_month: 02 - February
   recheck: annual
-  sha256: "545d50cb5971b136d473852fd0393c56eb4069adcb461ad6c37bfedf4312f66f"
+  sha256: "30e221efe128bd67a84dc3f38a405ec3e118676f81c002939ceda0b9ed6f0125"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2021-06
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7795247
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7795247
+  format: pdf
   citation: Report No. 2021-06
   title: Audit of Pension Schedule of Employer Allocations and Pension Amounts by Employer for the Year
     Ended June 30, 2020, Contract Audit
@@ -789,12 +796,12 @@ sources:
   report_year: '2021'
   report_month: 03 - March
   recheck: annual
-  sha256: "8834f959b3cf3f45e352eab0129c29c313bf22ea41fb4adf6347b5afbbb60d71"
+  sha256: "1011cb2c01924b045ca2df5098dd5328114e40866bb14f28a5328dd4c7cafccd"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2021-07
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7795248
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7795248
+  format: pdf
   citation: Report No. 2021-07
   title: Audit of RHIA Schedule of Employer Allocations and OPEB Amounts by Employer for the Year Ended
     June 30, 2020, Contract Audit
@@ -804,12 +811,12 @@ sources:
   report_year: '2021'
   report_month: 03 - March
   recheck: annual
-  sha256: "9062835faa37734849cf35bb80368515bd83ec9a1890a914d837ff3b46354d96"
+  sha256: "70ee68d6c83bd4b79e8396943bde729fa293551abc5c101c27bfa7177a9e0b3e"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2021-08
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7795249
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7795249
+  format: pdf
   citation: Report No. 2021-08
   title: Audit of RHIPA Schedule of OPEB Amounts for the Year Ended June 30, 2020, Contract Audit
   doc_type: audit_report
@@ -818,12 +825,12 @@ sources:
   report_year: '2021'
   report_month: 03 - March
   recheck: annual
-  sha256: "6afb8ba21e15033b1a46303f521dddda3c6e693a336231de571befe9907f3539"
+  sha256: "57ac2b43bf90917db03af8c090003fc3c50f7381272ad544a37e22ec98947678"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2021-09
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7795356
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7795356
+  format: pdf
   citation: Report No. 2021-09
   title: 'Advisory Report: Oregon Can Take More Steps to Reduce Infections in Long-Term Care Facilities
     from COVID-19 and Other Communicable Diseases'
@@ -833,12 +840,12 @@ sources:
   report_year: '2021'
   report_month: 03 - March
   recheck: annual
-  sha256: "823227b8bb7e7d65714e0fcdb966492184a21d5eb912cdbb85347a852a046cb4"
+  sha256: "3818e44cb10f404f93838cd5b2db392ca0ffb57cbb08d364abef46c3ca1fa6f6"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2021-10
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7795360
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7795360
+  format: pdf
   citation: Report No. 2021-10
   title: Special Public Works Fund and Water Fund for the Fiscal Year Ended June 30, 2020
   doc_type: audit_report
@@ -847,12 +854,12 @@ sources:
   report_year: '2021'
   report_month: 04 - April
   recheck: annual
-  sha256: "c9035fc0c69ce82124d72eee4a1951629e7f7b2f28ea43255202f283dfdef441"
+  sha256: "459bdc6eb0c27f5972b20c0882b21d2577d28e06d10620181b11505e5afe3bfa"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2021-11
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7969413
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7969413
+  format: pdf
   citation: Report No. 2021-11
   title: Small Scale Energy Loan Program For the Year Ended June 30, 2020
   doc_type: audit_report
@@ -861,12 +868,12 @@ sources:
   report_year: '2021'
   report_month: 04 - April
   recheck: annual
-  sha256: "25077ac17f844530670812738c44844063fdad5cdb301f53be9adbf1d8646fe8"
+  sha256: "d4e7137d2eb54f7a4d99eccefa1442bfd787f0a33123b0e2aaf83e612ef45e47"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2021-12
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7971951
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7971951
+  format: pdf
   citation: Report No. 2021-12
   title: Cybersecurity Controls Audit
   doc_type: audit_report
@@ -875,12 +882,12 @@ sources:
   report_year: '2021'
   report_month: 04 - April
   recheck: annual
-  sha256: "b16653579ccbdaf06571cafad250458efa0d15fc5c65e1c07993871b7ffbd933"
+  sha256: "a7f49dc4279d95e4f1c72f7b5c332efdb2d8db1014e22edebcb7387c59e0bd70"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2021-13
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8000289
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8000289
+  format: pdf
   citation: Report No. 2021-13
   title: Oregon Statewide Single Audit for Fiscal Year 2020
   doc_type: audit_report
@@ -889,12 +896,12 @@ sources:
   report_year: '2021'
   report_month: 04 - April
   recheck: annual
-  sha256: "e16f99e7b71639d318df0d1ee05805ad65ce25c4308f6504e6621ada6eeb83a9"
+  sha256: "60bca80c23538cb967726adbae68e61f3634962a1be333eedecb10ee10675a00"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2021-14
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8011097
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8011097
+  format: pdf
   citation: Report No. 2021-14
   title: Oregon' Ethics Commission and Laws Could Be Better Leveraged to Improve Ethical Culture and Trust
     in Government
@@ -904,12 +911,12 @@ sources:
   report_year: '2021'
   report_month: 05 - May
   recheck: annual
-  sha256: "610aa440b7987960d0ef9297b1a38a07708d51a185b26a613886831c421f686a"
+  sha256: "74c8c66a6729e7de0c5f8c28409e3be373bf60dfcef6a56e6f5fd534bfbcbd49"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2021-15
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8028928
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8028928
+  format: pdf
   citation: Report No. 2021-15
   title: Clean Water State Revolving Fund Loan Program For the Fiscal Year Ended June 30, 2020
   doc_type: audit_report
@@ -918,12 +925,12 @@ sources:
   report_year: '2021'
   report_month: 05 - May
   recheck: annual
-  sha256: "18f0571e7c02b52d1346c5129e29f52f2a77f0bf5ba7247b6c164a9c07256f92"
+  sha256: "bc4aec2294efcba84861f53e4eeacb3bdc00899588f53e1995342ed5d152734b"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2021-16
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8039546
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8039546
+  format: pdf
   citation: Report No. 2021-16
   title: Safe Drinking Water Revolving Loan Fund For Fiscal Year Ended June 30, 2020
   doc_type: audit_report
@@ -932,12 +939,12 @@ sources:
   report_year: '2021'
   report_month: 05 - May
   recheck: annual
-  sha256: "3b740860f778f1ddacba63140744bc5a32bd140ea65b1c6f3c7a1057b5cb25e0"
+  sha256: "c77d4800a86c063ff215f7332eaf51873aa64863d170657529b9cb69a7b9ef70"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2021-17
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8053194
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8053194
+  format: pdf
   citation: Report No. 2021-17
   title: 'Recommendation Follow-up Report: Progress Has Been Made, but COVID-19 Delayed Some Efforts to
     Improve State Budget Transparency'
@@ -947,12 +954,12 @@ sources:
   report_year: '2021'
   report_month: 05 - May
   recheck: annual
-  sha256: "c6bbd58755564b9910f6f7b3bf538fe30001ff14274a756e22bc438583f35728"
+  sha256: "eff6edad7d1e762a271bbbed6e55e17e962ad36ce6b9cbd84142c993b75d7c59"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2021-18
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8062811
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8062811
+  format: pdf
   citation: Report No. 2021-18
   title: Government Waste Hotline for Calendar Year 2020
   doc_type: audit_report
@@ -961,12 +968,12 @@ sources:
   report_year: '2021'
   report_month: 06 - June
   recheck: annual
-  sha256: "ab4b745b774c697234cb961dae9bdf1fa94b4a802eb32693023d7f4a68f3bb5b"
+  sha256: "c088d988b2bc2078fa4b5e739a109756f96dc9392ba920dc16cc84ca1d27564a"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2021-19
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8075417
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8075417
+  format: pdf
   citation: Report No. 2021-19
   title: Keeping Oregon Accountable Fiscal Year 2020
   doc_type: audit_report
@@ -975,12 +982,12 @@ sources:
   report_year: '2021'
   report_month: 06 - June
   recheck: annual
-  sha256: "d312c52ae3b038fdc303ff13eb96bccdf275d4453aa83d046d4950d7cf14fd5f"
+  sha256: "da39223ba7952a94aef2a7249daee519fd504864bde24b309f33b33d5306909b"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2021-20
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8097516
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8097516
+  format: pdf
   citation: Report No. 2021-20
   title: State of Oregon 2020 Financial Condition Report
   doc_type: audit_report
@@ -989,12 +996,12 @@ sources:
   report_year: '2021'
   report_month: 06 - June
   recheck: annual
-  sha256: "e9ccafcacd7e99ddde4ab0cc46d6188a01e4d4ab65b7dd1325daee3814f9db9f"
+  sha256: "5992af33a0bf3c6a003c1d1be0b6ce804647fdd3331b018ca411dcb59a506b95"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2021-21
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8172687
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8172687
+  format: pdf
   citation: Report No. 2021-21
   title: OFRI' Statute Undermines its Public Benefit and the State Agency is Not Transparent About its
     Statutory Mandate to Support the Industry
@@ -1004,12 +1011,12 @@ sources:
   report_year: '2021'
   report_month: 07 - July
   recheck: annual
-  sha256: "c48d8f68781f038741e0f1a3329e5874e4bb66fbabaaf0272093f4c0efcb245b"
+  sha256: "c9de5d3e3617355b82f45b058e8bc0f00a8a4cc1a8e741607b2255bbb5279009"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2021-22
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8166938
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8166938
+  format: pdf
   citation: Report No. 2021-22
   title: Financial Statements—Statutory Basis as of and for the Years Ended December 31, 2020 and 2019,
     Supplementary Schedules as of December 31, 2020, and Report of Independent Auditors
@@ -1019,12 +1026,12 @@ sources:
   report_year: '2021'
   report_month: 08 - August
   recheck: annual
-  sha256: "66b891992bb4ad736ed1e3952ab50436f86a4395ac5f5268668326c357b65bb2"
+  sha256: "d42080bea206ce5fff95b8a078709af9221de646e88ac84807d93d166ac56659"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2021-23
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8166939
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8166939
+  format: pdf
   citation: Report No. 2021-23
   title: Financial Statements and Supplementary Schedules as of and for the Years Ended December 31, 2020
     and 2019, and Report of Independent Auditors
@@ -1034,12 +1041,12 @@ sources:
   report_year: '2021'
   report_month: 08 - August
   recheck: annual
-  sha256: "262a0cbf220903b990a57a3e6fe2b6af95ca3e25b67bcfe45a298a559574eb91"
+  sha256: "4e3ff5effbda39cf6603902ea689bec8a7fdc56d425207e01a8b18c51be43c8d"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2021-24
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8214465
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8214465
+  format: pdf
   citation: Report No. 2021-24
   title: Developmental Disabilities Leadership is Proactively Addressing Program Challenges to Ensure
     Optimal Service Delivery
@@ -1049,12 +1056,12 @@ sources:
   report_year: '2021'
   report_month: 08 - August
   recheck: annual
-  sha256: "d48ca5a3e4667551b99897941460876fa50980c816e24829ff705e30f9931cef"
+  sha256: "48d714758fca06b02a158ef5597f5096f1933616767ab52368a00388c9661b53"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2021-25
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8226892
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8226892
+  format: pdf
   citation: Report No. 2021-25
   title: Enterprise Information Services Has Established an IT Governance Framework but Must Do More Regarding
     Cybersecurity Management
@@ -1064,12 +1071,12 @@ sources:
   report_year: '2021'
   report_month: 09 - September
   recheck: annual
-  sha256: "bdd88512eb1cd492fff5a6b4bfd6469177d896cce5e52596353de1820df0b6f8"
+  sha256: "961b0ab7dec663389ddb932746c0faad75c4b7fda24379d62fc74fbf6cae1f42"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2021-26
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8230495
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8230495
+  format: pdf
   citation: Report No. 2021-26
   title: Oregon Local Government Intermediate Fund An Investment Pool of the State of Oregon For the Year
     Ended June 30, 2021
@@ -1079,12 +1086,12 @@ sources:
   report_year: '2021'
   report_month: 09 - September
   recheck: annual
-  sha256: "b088763df25aea3caf5e7d9083d4bb9b4d7ee38107aa18373b04dfd50b3934fe"
+  sha256: "918a7314ecae651fb3d9f5d57c072776ff58a1e742e4950991b13e42115ff11a"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2021-27
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8242020
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8242020
+  format: pdf
   citation: Report No. 2021-27
   title: Oregon Short Term Fund An Investment Pool of the State of Oregon For the Year Ended June 30,
     2021
@@ -1094,12 +1101,12 @@ sources:
   report_year: '2021'
   report_month: 09 - September
   recheck: annual
-  sha256: "ffa945703ffbffced1f58d23bff90b0386febfa2eb1031d93d340775fde1a32b"
+  sha256: "ae418a9575936b393dc28388e3c00102d5a0ff11768f0c3def3b0aa730608805"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2021-28
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8310347
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8310347
+  format: pdf
   citation: Report No. 2021-28
   title: 'Recommendation Follow-up Report: ODE Must Accelerate Efforts to Monitor Spending and Improve
     Initiatives to Help Vulnerable Students'
@@ -1109,12 +1116,12 @@ sources:
   report_year: '2021'
   report_month: 09 - September
   recheck: annual
-  sha256: "686ae42fc000848aeca78ce01f3c7f4e5fda561f21ee50f536c024fc5569b132"
+  sha256: "5e0cbf865da2deeaf8a9f09ea5af357be364ce461792c13b70c21b978a6bda8d"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2021-29
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8327840
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8327840
+  format: pdf
   citation: Report No. 2021-29
   title: Oregon Intermediate Term Pool An Investment Pool of the State of Oregon For the Year Ended June
     30, 2021
@@ -1124,12 +1131,12 @@ sources:
   report_year: '2021'
   report_month: 10 - October
   recheck: annual
-  sha256: "e187f2e8f9297555753a8760e9ff34a64789e8b378eccd6a69f8bae574837001"
+  sha256: "885ab6c89325e660c7559fa93dd34a62a5b6fdbede1fb40f8989eb690ca9f5ec"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2021-30
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8355669
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8355669
+  format: pdf
   citation: Report No. 2021-30
   title: 'Advisory Report: ODOT Worked Quickly to Oversee the Largest Wildfire Debris Removal Operation
     in State History'
@@ -1139,12 +1146,12 @@ sources:
   report_year: '2021'
   report_month: 10 - October
   recheck: annual
-  sha256: "2368de9914b4fd08840f68b1f29940bb71b904fd2ace020e50cca6def53eb191"
+  sha256: "d673e1c7ecb71bfde3822c7156bf55f027481f7c392c09dec587ba55b7956593"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2021-31
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8393399
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8393399
+  format: pdf
   citation: Report No. 2021-31
   title: Cybersecurity Controls Audit
   doc_type: audit_report
@@ -1153,12 +1160,12 @@ sources:
   report_year: '2021'
   report_month: 11 - November
   recheck: annual
-  sha256: "903bc66915a79623702939ec8c6eac3ef13f376c60112c2a36064ef3710a105a"
+  sha256: "d1ba20e37a562d9dd9a1ec88198e5963774a496142adf48e090c965229fa3c0c"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2021-32
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8394487
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8394487
+  format: pdf
   citation: Report No. 2021-32
   title: Opportunities Exist to Improve Web Application Security and Tracking of Website Accessibility
     Remediation Efforts
@@ -1168,12 +1175,12 @@ sources:
   report_year: '2021'
   report_month: 11 - November
   recheck: annual
-  sha256: "9cd2b17b1ce9330a7910cc740d5c98d83c3df183af15ab116567dff42389ee7f"
+  sha256: "fa27089b3a9241cd8ceb4c5e0bdf72a060135feaada1bea08cd34b71f22e3c0c"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2021-33
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8406240
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8406240
+  format: pdf
   citation: Report No. 2021-33
   title: Annual Financial Report Enterprise Funds of the State of Oregon For the Year Ended June 30, 2021
   doc_type: audit_report
@@ -1182,12 +1189,12 @@ sources:
   report_year: '2021'
   report_month: 11 - November
   recheck: annual
-  sha256: "5fe750431716744807d5ab8bdd57c7362dccd0cb8c314539f4c1f2ecf1c7bf9a"
+  sha256: "94589cd3e34f2d54f45f6f80488e2a8c117f186a707f44b83f764467bd50d718"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2021-34
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8407921
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8407921
+  format: pdf
   citation: Report No. 2021-34
   title: Common School Fund Annual Financial Report For the Fiscal Year Ended June 30, 2021
   doc_type: audit_report
@@ -1196,12 +1203,12 @@ sources:
   report_year: '2021'
   report_month: 11 - November
   recheck: annual
-  sha256: "6a0820a7aab90e2484fc4209186ffa83dfeaa6ba2433a9019f467b212f45a110"
+  sha256: "ed54a3390ecff9f7fc6fa25cc95f6365deae8a3aae4a923adc1bb87c3d31237b"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2021-35
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8427032
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8427032
+  format: pdf
   citation: Report No. 2021-35
   title: Additional Resources Needed to Strengthen Police Training and Accountability
   doc_type: audit_report
@@ -1210,12 +1217,12 @@ sources:
   report_year: '2021'
   report_month: 12 - December
   recheck: annual
-  sha256: "a94a1b7c4351baa3938a4a4a53238a863cc60f8047f38877b53683b0a4d9d2c9"
+  sha256: "5a4fc3c1187f64ea4378a67be760d1809df3c572b14874d96d137d4b8e8e41fb"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2021-36
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8429227
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8429227
+  format: pdf
   citation: Report No. 2021-36
   title: Veterans' Loan Program Annual Financial Report Enterprise Fund for the Fiscal Year Ended June
     30, 2021
@@ -1225,12 +1232,12 @@ sources:
   report_year: '2021'
   report_month: 12 - December
   recheck: annual
-  sha256: "ae16d721947faeaddfa5b9afa644aca38c08697fb3e3215379f3a500a4995e33"
+  sha256: "22eb39af9d48b662ee5942dcfd881442db01e8436251c49b9fca55df82217b62"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2021-37
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8457557
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8457557
+  format: pdf
   citation: Report No. 2021-37
   title: Timely Notification of Inpatient Hospital Stays Could Help Reduce Improper Medicaid Payments
   doc_type: audit_report
@@ -1239,12 +1246,12 @@ sources:
   report_year: '2021'
   report_month: 12 - December
   recheck: annual
-  sha256: "e13bd7754e9feaacb1936f9017679fa9fd1c870ab43644e327f3b5baf21ef403"
+  sha256: "5113f3b4f3b10cbf529c6e64e1ca5520045feebd18c3fe240a9b6d96dabe2fa1"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2021-38
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8463620
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8463620
+  format: pdf
   citation: Report No. 2021-38
   title: July 1, 2020 through June 30, 2021
   doc_type: audit_report
@@ -1253,12 +1260,12 @@ sources:
   report_year: '2021'
   report_month: 12 - December
   recheck: annual
-  sha256: "7630622986a08b35f493b54b8ad25ca984df0e1e2288daa9c97a4427b780d9e7"
+  sha256: "6fa85ffa89893ddf93440445eff2a05cd3940b4b286c9d67c2266727c85cd19c"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2021-39
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8463621
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8463621
+  format: pdf
   citation: Report No. 2021-39
   title: Annual Comprehensive Financial Report For the Fiscal Year Ended June 30, 2021
   doc_type: audit_report
@@ -1267,12 +1274,12 @@ sources:
   report_year: '2021'
   report_month: 12 - December
   recheck: annual
-  sha256: "df8dafb27c73a4cb5994a74a80d55efd9abea30f11317e71f5c4673636aca391"
+  sha256: "f2e5a07deb0da539e75199a0ad8be6c13682328f2f0efba65abf848a5503c187"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2022-01
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8505006
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8505006
+  format: pdf
   citation: Report No. 2022-01
   title: Annual Financial Report Enterprise Funds For the Year Ended June 30, 2021
   doc_type: audit_report
@@ -1281,12 +1288,12 @@ sources:
   report_year: '2022'
   report_month: 01 - January
   recheck: annual
-  sha256: "046059a1c62857ac573318b9fe384702cadb70c4484a4ba01ae2e5eba2cdc18c"
+  sha256: "83be73fd82de1418fb88105d89db309007e08eded17357afa9f11f67a5df8c09"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2022-02
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8510062
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8510062
+  format: pdf
   citation: Report No. 2022-02
   title: Additional Data Analytics Could Better Determine Trooper Staffing Levels and Resource Needs
   doc_type: audit_report
@@ -1295,12 +1302,12 @@ sources:
   report_year: '2022'
   report_month: 01 - January
   recheck: annual
-  sha256: "ccc9e6683c5306f531e8de1d44368c29c4e58e31414216caf735fd5835f2066b"
+  sha256: "80cd2493569106716e76413ca7b4ac2a3d21053fd515f7c06c3e2288846f1db8"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2022-03
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8541904
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8541904
+  format: pdf
   citation: Report No. 2022-03
   title: Oregon Annual Comprehensive Financial Report For the Fiscal Year Ended June 30, 2021
   doc_type: audit_report
@@ -1309,12 +1316,12 @@ sources:
   report_year: '2022'
   report_month: 02 - February
   recheck: annual
-  sha256: "2d973f1b45f62ae341ad71dc3fcd0f31fcd3072da823d888b835a48df9ca58d1"
+  sha256: "ef77f0cc6ec1b6ae2b241a2a642db80d57424545998c512ff0796658befc0d10"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2022-04
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8562228
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8562228
+  format: pdf
   citation: Report No. 2022-04
   title: 2022-23 Audit Plan
   doc_type: audit_report
@@ -1323,12 +1330,12 @@ sources:
   report_year: '2022'
   report_month: 02 - February
   recheck: annual
-  sha256: "de442fb864524dc416b34229b31ded8aa922611c8f213e212fa111d188dc659d"
+  sha256: "1bf7f433342ae10326dc2f4f8a4412e786b9a48e755bfdc8c3d6eda03934374b"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2022-05
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8607228
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8607228
+  format: pdf
   citation: Report No. 2022-05
   title: 'Oregon Municipal Corporations: Summary of Fiscal Year 2020 Financial Reporting'
   doc_type: audit_report
@@ -1337,12 +1344,12 @@ sources:
   report_year: '2022'
   report_month: 03 - March
   recheck: annual
-  sha256: "d6ca79e64e36396ea88ecbaf5f9021b520242a6982d6bf08286bfb71a9cfdc72"
+  sha256: "ffc4fd00657a8488072f824724b480e149f697d7c34297de9ece4669b2960d1a"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2022-06
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8601753
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8601753
+  format: pdf
   citation: Report No. 2022-06
   title: Agreed Upon Procedures Report for the Biennium Ended June 30, 2021
   doc_type: audit_report
@@ -1351,12 +1358,12 @@ sources:
   report_year: '2022'
   report_month: 02 - February
   recheck: annual
-  sha256: "f108267523fd5c81be578ec4476a0606b0d8291d957910917bca2ab63500e6b5"
+  sha256: "bddb7534307c38c98f0f892ecd16926a01d9f7ed551dccc1703ae4959822f4da"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2022-07
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8604120
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8604120
+  format: pdf
   citation: Report No. 2022-07
   title: Audit of Pension Schedule of Employer Allocations and Pension Amounts by Employer for the Year
     Ended June 30, 2021
@@ -1366,12 +1373,12 @@ sources:
   report_year: '2022'
   report_month: 03 - March
   recheck: annual
-  sha256: "738d67085ee2bf8c930f26e02c1b0da3aaed1c24438bd4a24054b1fc19aa487d"
+  sha256: "71c90e836b31ce2950ef8a0fd8133fea360a928cabec4e411cbca25eceb363b1"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2022-08
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8604121
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8604121
+  format: pdf
   citation: Report No. 2022-08
   title: Audit of RHIPA Schedule of OPEB Amounts for the Year Ended June 30, 2021
   doc_type: audit_report
@@ -1380,12 +1387,12 @@ sources:
   report_year: '2022'
   report_month: 03 - March
   recheck: annual
-  sha256: "ba84614a0d27c3437fa726b0ee515b3de5da4cdb094689dd50a245b42720a886"
+  sha256: "6b143d8c539d12846dabae75fc4ae7177e24e631610f2245a0ad1c3f4e636eb9"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2022-09
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8604122
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8604122
+  format: pdf
   citation: Report No. 2022-09
   title: Audit of RHIA Schedule of Employer Allocations and OPEB Amounts by Employer for the Year Ended
     June 30, 2021
@@ -1395,12 +1402,12 @@ sources:
   report_year: '2022'
   report_month: 03 - March
   recheck: annual
-  sha256: "a54a7cd8db0d31aa423db62251707cea49639653520f71380cf352288df4743f"
+  sha256: "af3a7949ad4596b4e7f2ba5c77645235d000465f604ea547c387ebe637a8c72a"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2022-10
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8647614
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8647614
+  format: pdf
   citation: Report No. 2022-10
   title: 'Recommendation Follow-up Report: PPS Has Made Progress, but Must Take Further Steps to Reduce
     Inequities at High-Poverty Schools'
@@ -1410,12 +1417,12 @@ sources:
   report_year: '2022'
   report_month: 03 - March
   recheck: annual
-  sha256: "233deaf54bc7f543cbf46440b7b06d40e3ba5705e3036ac6fe9a774921c3c020"
+  sha256: "8cd37e31b5089a614d9cdbc7bcb19f559e3c67f597cbd65a44d5110c1be64091"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2022-11
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8670795
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8670795
+  format: pdf
   citation: Report No. 2022-11
   title: Without Legislative Action the Mortgage Interest Deduction Will Remain Regressive and Inequitable
   doc_type: audit_report
@@ -1424,12 +1431,12 @@ sources:
   report_year: '2022'
   report_month: 03 - March
   recheck: annual
-  sha256: "aaa18ac8b106be66c8e26411dbe127341274113f03deb3408d7f46fffe69983c"
+  sha256: "8b7a4cccc627c36a17974118a6e563047288f1d8111b0e7296cf14ea0fdbce7d"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2022-12
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8693842
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8693842
+  format: pdf
   citation: Report No. 2022-12
   title: 'Advisory Report: Oregon Can Do More to Mitigate the Alarming Risk of Domestic Terrorism and
     Violent Extremist Attacks'
@@ -1439,12 +1446,12 @@ sources:
   report_year: '2022'
   report_month: 03 - March
   recheck: annual
-  sha256: "cd024be65e77944343ec4d16a49320b1bb5eb682f1569e0f7d5af7963a89b5d1"
+  sha256: "6c3a901088ffb53f5e2b9f162e5603fe68db72b0f46f9be13b709dff038de345"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2022-13
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8695473
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8695473
+  format: pdf
   citation: Report No. 2022-13
   title: Small Scale Energy Loan Program For the Year Ended June 30, 2021
   doc_type: audit_report
@@ -1453,12 +1460,12 @@ sources:
   report_year: '2022'
   report_month: 03 - March
   recheck: annual
-  sha256: "37ba0652a96c609d0420d497ab8997bf3498d1718c7d68aefc199e4bf66b9c2b"
+  sha256: "0e571fdb466186d5d1452a204bf8fe45b9bdcadcbd1682fd78049cdb2946eb2d"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2022-14
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8745552
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8745552
+  format: pdf
   citation: Report No. 2022-14
   title: Oregon Health Insurance Marketplace Fiscal Year 2021 Compliance
   doc_type: audit_report
@@ -1467,12 +1474,12 @@ sources:
   report_year: '2022'
   report_month: 04 - April
   recheck: annual
-  sha256: "e8a4e606a21357f7e98b7d3726412482422eaa6e9110f467ea3847aba15cacb8"
+  sha256: "fe244917cb9df92320cf118ed4ee78429236b2e1d8489fb23d5430a702df3f93"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2022-15
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8770259
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8770259
+  format: pdf
   citation: Report No. 2022-15
   title: Oregon Health Insurance Marketplace Financial Statements For the Fiscal Year Ended June 30, 2021
   doc_type: audit_report
@@ -1481,12 +1488,12 @@ sources:
   report_year: '2022'
   report_month: 05 - May
   recheck: annual
-  sha256: "07538d58a319ec511f9f0a12dbc1bc3bcad280ea840810973196b9410ae7b16c"
+  sha256: "874280132ee3d4512c78649ce84ada47699a2401d90a9b770a906e797bdb7c92"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2022-16
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8794669
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8794669
+  format: pdf
   citation: Report No. 2022-16
   title: 'K-12 Education - Systemic Risk Report: State Leaders and Policymakers Must Address Persistent
     System Risks to Improve K-12 Equity and Student Success'
@@ -1496,12 +1503,12 @@ sources:
   report_year: '2022'
   report_month: 05 - May
   recheck: annual
-  sha256: "e973f8ffdfd4d367a139a930920c857af0fc44d74585e228c61f289d7ce5d272"
+  sha256: "21fb2798c961ae2b865e0bd318a508ede419427fad4d74806eb1f5d119b362c9"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2022-17
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8855400
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8855400
+  format: pdf
   citation: Report No. 2022-17
   title: 'Recommendation Follow-up Report: Some Constraints Still Remain in Oregon''s Prescription Drug
     Monitoring Program'
@@ -1511,12 +1518,12 @@ sources:
   report_year: '2022'
   report_month: 06 - June
   recheck: annual
-  sha256: "3ff297116fa52e5c7fce7f4dc7ab2ba1ce68369c62c6bdb9cb8021964b155c80"
+  sha256: "6d888e17c14672d59f5b43740b591c5a88922db07b2fb699227eb87d6c000919"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2022-18
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8864569
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8864569
+  format: pdf
   citation: Report No. 2022-18
   title: State of Oregon Statewide Single Audit for Fiscal Year 2021
   doc_type: audit_report
@@ -1525,12 +1532,12 @@ sources:
   report_year: '2022'
   report_month: 07 - July
   recheck: annual
-  sha256: "3951b2141d80a76c4aba92440ff662d93498fb0c0740dc6e84d98e29572b5d7f"
+  sha256: "dbc67a8268cd057215d6046ae7bfc72bc07b96b1643b25cc0d079b3772c6a5eb"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2022-19
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8879001
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8879001
+  format: pdf
   citation: Report No. 2022-19
   title: State Government Accountability Hotline Summary Report, Calendar Year 2021
   doc_type: audit_report
@@ -1539,12 +1546,12 @@ sources:
   report_year: '2022'
   report_month: 07 - July
   recheck: annual
-  sha256: "b96fc3df4ea1668c84662ed2b684b8032c35c74f392db0a278b0d9cdfaa489ff"
+  sha256: "fd4a961c24d411e2241198701aaef7f3f03c3cdba2254c63750fa2355d583db8"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2022-20
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8890915
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8890915
+  format: pdf
   citation: Report No. 2022-20
   title: Cybersecurity Controls Audit
   doc_type: audit_report
@@ -1553,12 +1560,12 @@ sources:
   report_year: '2022'
   report_month: 07 - July
   recheck: annual
-  sha256: "495d019b7176f89e5e61bfb0b16fff995f9898547c098dab1c658358d1c5fc0c"
+  sha256: "8a9bf25cacb5a7e3b2742ec04802d5db5ba153333a2e233891baa202e7fa9783"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2022-21
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8903079
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8903079
+  format: pdf
   citation: Report No. 2022-21
   title: The Pandemic' Effects on Oregonians Exposed Risks and Highlighted the Need to Modernize Oregon'
     Unemployment Insurance System
@@ -1568,12 +1575,12 @@ sources:
   report_year: '2022'
   report_month: 07 - July
   recheck: annual
-  sha256: "1a5696f8a845013596deadf899c44ec3165f229964e6e297b662000845c676fc"
+  sha256: "cb00163f7274b6636ff957b930b3051282274e380f76b41b651dda2cbecc1e89"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2022-22
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8916882
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8916882
+  format: pdf
   citation: Report No. 2022-22
   title: Financial Statements—Statutory Basis as of and for the Years Ended December 31, 2021 and 2020,
     Supplementary Schedules as of December 31, 2021, and Report of Independent Auditors
@@ -1583,12 +1590,12 @@ sources:
   report_year: '2022'
   report_month: 08 - August
   recheck: annual
-  sha256: "ea61d0008a67043b956984969c92106b4c691e764a29b4e9e6812a9dd7c7867a"
+  sha256: "eb19dfdc954e2dbcb5c2cec213069b2263b7739833f9e2c4cf8dfa5566120c6f"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2022-23
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8916903
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8916903
+  format: pdf
   citation: Report No. 2022-23
   title: Financial Statements and Supplementary Schedules as of and for the Years Ended December 31, 2021
     and 2020, and Report of Independent Auditors
@@ -1598,12 +1605,12 @@ sources:
   report_year: '2022'
   report_month: 08 - August
   recheck: annual
-  sha256: "413b2649b56a02acc211f12d3e0d72075fdd98c1babc5054d44a0d79e3b3ded8"
+  sha256: "96171cb4e48da1ec0a31384e54d5f0073e6c5451bbd5e3cecc1eebf3edaed562"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2022-24
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8938598
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8938598
+  format: pdf
   citation: Report No. 2022-24
   title: High School Graduation and College and Career Readiness Fund Biennial Financial Report For Biennium
     Ended June 30, 2021
@@ -1613,12 +1620,12 @@ sources:
   report_year: '2022'
   report_month: 08 - August
   recheck: annual
-  sha256: "28c451be11ecadbd83cc33ca1334936aa5e68230c49dfb01ccf1f74aac04fd27"
+  sha256: "6cd45e610af63666e97753c7bf3e260cd1b7cdb10ef55d0bdb9649e2b547bd93"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2022-25
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8970031
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8970031
+  format: pdf
   citation: Report No. 2022-25
   title: Oregon Local Government Intermediate Fund An Investment Pool of the State of Oregon For the Year
     Ended June 30, 2022
@@ -1628,12 +1635,12 @@ sources:
   report_year: '2022'
   report_month: 09 - September
   recheck: annual
-  sha256: "a926a04bf585759c27e165f5fe1836e42b37bf5fe0ec754ff1e4ed6596c88e87"
+  sha256: "4e6bd5831cc0fbca65a1724cd1335939b61c0c959865b6f476e105d7570cc2b2"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2022-26
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8970066
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8970066
+  format: pdf
   citation: Report No. 2022-26
   title: Oregon Short Term Fund An Investment Pool of the State of Oregon For the Year Ended June 30,
     2022
@@ -1643,12 +1650,12 @@ sources:
   report_year: '2022'
   report_month: 09 - September
   recheck: annual
-  sha256: "a2a845138b2331e395c5aac6429f54eab1fb982fc6a29e41e1c599ea6d8b8495"
+  sha256: "1079c7f1b51f7c948b4224b678c9189dfd62f6228f0b9a4f1b571a11de6b5a28"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2022-27
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8979827
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8979827
+  format: pdf
   citation: Report No. 2022-27
   title: Keeping Oregon Accountable, Fiscal Year 2021
   doc_type: audit_report
@@ -1657,12 +1664,12 @@ sources:
   report_year: '2022'
   report_month: 09 - September
   recheck: annual
-  sha256: "f0f60a88c204464883198d7706e3e5777a804da5e98bef45c3c907a26e15fed1"
+  sha256: "def0f7e36696bb42407ca04e92a575c7f640f0c3280b0d4c49c29891f5555e32"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2022-28
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9013473
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9013473
+  format: pdf
   citation: Report No. 2022-28
   title: Oregon Intermediate Term Pool An Investment Pool of the State of Oregon For the Year Ended June
     30, 2022
@@ -1672,12 +1679,12 @@ sources:
   report_year: '2022'
   report_month: 09 - September
   recheck: annual
-  sha256: "581ffdf41451ac79f9790fd738ab02b551349c1179c520ba66741fee949cbc1c"
+  sha256: "baddba60a137a3a191a52454d2201a110e38c6ab0ea9fe5655f3a9a460308a16"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2022-29
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9078307
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9078307
+  format: pdf
   citation: Report No. 2022-29
   title: Special Public Works Fund and Water Fund for the Fiscal Year Ended June 30, 2021
   doc_type: audit_report
@@ -1686,12 +1693,12 @@ sources:
   report_year: '2022'
   report_month: 11 - November
   recheck: annual
-  sha256: "87437de8d1a02beb88b43a54e6d6db0f536e2a24126c7a28aaa71c0a6b9fb274"
+  sha256: "947863651c432fd6443a3e940f6348c94ccc284180122f7990c93f4be37df9d9"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2022-30
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9103105
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9103105
+  format: pdf
   citation: Report No. 2022-30
   title: Common School Fund Annual Financial Report For the Fiscal Year Ended June 30, 2022
   doc_type: audit_report
@@ -1700,12 +1707,12 @@ sources:
   report_year: '2022'
   report_month: 11 - November
   recheck: annual
-  sha256: "c194f6890143f9c687e7c0d914443082bdf773a735d9a709e2fe395f97e6795b"
+  sha256: "cdfecd52bdbfb136b26b88d0d94605b9719a53035d9ed3fa3b4bd9e762622a33"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2022-31
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9118836
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9118836
+  format: pdf
   citation: Report No. 2022-31
   title: Clean Water State Revolving Fund Loan Program For the Fiscal Year Ended June 30, 2021
   doc_type: audit_report
@@ -1714,12 +1721,12 @@ sources:
   report_year: '2022'
   report_month: 11 - November
   recheck: annual
-  sha256: "283e2b24883a72aa661f74b448851835cb13fce7220bc18d08ba8e0c6f37d57f"
+  sha256: "11d26bbff2fb68d934d8c87b1fad47b57b9cc990ca2afe3d8a7e5587fac407e6"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2022-32
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9121445
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9121445
+  format: pdf
   citation: Report No. 2022-32
   title: Annual Financial Report Enterprise Funds of the State of Oregon For the Year Ended June 30, 2022
   doc_type: audit_report
@@ -1728,12 +1735,12 @@ sources:
   report_year: '2022'
   report_month: 12 - December
   recheck: annual
-  sha256: "a75e5560ba07ed95ea57f260851084a70c637f95f0667fa96a876d96ce8e21ff"
+  sha256: "f27c29b33ce14cf3258f76c0727534879923eaf6aef316391bded84e29a6b525"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2022-33
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9128276
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9128276
+  format: pdf
   citation: Report No. 2022-33
   title: ODE Continues to Effectively Implement Measure 98 and Increase Collaboration Across Agency Programs
   doc_type: audit_report
@@ -1742,12 +1749,12 @@ sources:
   report_year: '2022'
   report_month: 12 - December
   recheck: annual
-  sha256: "f4be01aabb47cc691e118ddbc192b5b8e183c618078a7ce4cc16c224444536e4"
+  sha256: "36d149b000b67835e085950d9c4eae013f5980add41e7458380fcaaf994788ba"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2022-34
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9131925
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9131925
+  format: pdf
   citation: Report No. 2022-34
   title: Independent Actuarial Review of PERS December 31, 2021 Actuarial Valuation
   doc_type: audit_report
@@ -1756,12 +1763,12 @@ sources:
   report_year: '2022'
   report_month: 12 - December
   recheck: annual
-  sha256: "46e8617ca6abb11ee319c8342976831e7416385bc4bf49d7c5379ec024ce8f2f"
+  sha256: "73106f0a47cc7735864c8e95e907cc48a787a9ecb4848e3e954f01db5ad7fecd"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2022-35
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9254842
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9254842
+  format: pdf
   citation: Report No. 2022-35
   title: Oregon Must Improve Community College Performance, Student Support, and Sustainability Amid Persistent
     Enrollment Declines
@@ -1771,12 +1778,12 @@ sources:
   report_year: '2022'
   report_month: 12 - December
   recheck: annual
-  sha256: "1e7ffba63e697b8ff4c63b9a2e46431590777eec23da39a617712002b19917d2"
+  sha256: "e9153099392a50dc29db98dac4b0d0df686a003cba1776b2402750ab8843e055"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2022-36
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9170457
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9170457
+  format: pdf
   citation: Report No. 2022-36
   title: Annual Comprehensive Financial Report For the Fiscal Year Ended June 30, 2022
   doc_type: audit_report
@@ -1785,12 +1792,12 @@ sources:
   report_year: '2022'
   report_month: 12 - December
   recheck: annual
-  sha256: "85011b0349f2e645af561791a83b6e9b1e2ceee2b5bf88e4f964677e90b6af09"
+  sha256: "fd47dd0e2c301fdb76635daf4e455f582f4bbe0c24e164fe8410053f0a113ab6"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2023-01
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9196572
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9196572
+  format: pdf
   citation: Report No. 2023-01
   title: Annual Comprehensive Financial Report Enterprise Fund of the State of Oregon For the Fiscal Year
     Ended June 30, 2022
@@ -1800,12 +1807,12 @@ sources:
   report_year: '2023'
   report_month: 01 - January
   recheck: annual
-  sha256: "4ad92d1171b1e352bff916a283d8bffe0d33855e08882abc833fb845db2cc26f"
+  sha256: "06ca64305f3434073abbd26ec0b05eda4767eb2a99c5eaecbdc5a31a79b45b52"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2023-02
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9198548
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9198548
+  format: pdf
   citation: Report No. 2023-02
   title: The Oregon Broadband Office Must Continue to Take Aggressive Steps to Close the Digital Divide
     and Fully Meet its Statutory Duties
@@ -1815,12 +1822,12 @@ sources:
   report_year: '2023'
   report_month: 01 - January
   recheck: annual
-  sha256: "39e159823b1b64f4ea550778cf5554e217dc8e7da5bebd9c5f531e72be719e6d"
+  sha256: "ec2fad73b14162da83ae4bcf15523c5151770a8533441afc8785d22af488654b"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2023-03
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10595085
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10595085
+  format: pdf
   citation: Report No. 2023-03
   title: 'Too Early to Tell: The Challenging Implementation of Measure 110 Has Increased Risks, but the
     Effectiveness of the Program Has Yet to Be Determined'
@@ -1830,12 +1837,12 @@ sources:
   report_year: '2023'
   report_month: 01 - January
   recheck: annual
-  sha256: "501b2e88b076186a9bcddd6748a6c7789a1366c89021a28882a3cf8555fb68f4"
+  sha256: "667cdfedfd5f55d98ac56defe12a0f172a457cf18d56da8f91305dcf52f481c2"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2023-04
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9231213
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9231213
+  format: pdf
   citation: Report No. 2023-04
   title: 'Advisory Report: State Leadership Must Take Action to Protect Water Security for All Oregonians'
   doc_type: audit_report
@@ -1844,12 +1851,12 @@ sources:
   report_year: '2023'
   report_month: 01 - January
   recheck: annual
-  sha256: "318ed257ab96d678d68660a546e3e7c62e364bc55bd1f2de2e27bb07fdd04453"
+  sha256: "53f2a2a207c54d0cba93a2381ef0e37feabffa12adaf17167e8c9346d234ff01"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2023-05
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9254950
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9254950
+  format: pdf
   citation: Report No. 2023-05
   title: Audit of Pension Schedule of Employer Allocations and Pension Amounts by Employer for the Year
     Ended June 30, 2022
@@ -1859,12 +1866,12 @@ sources:
   report_year: '2023'
   report_month: 02 - February
   recheck: annual
-  sha256: "8a64ccb34cc9513043d37f22b8f998f1c6fc7baf3c9e36028503d4c474b3367b"
+  sha256: "9feafee1a21e989af2a698be99517d5f1a589e03f7550a267eae791bddf53dd0"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2023-06
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9254951
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9254951
+  format: pdf
   citation: Report No. 2023-06
   title: Audit of RHIPA Schedule of OPEB Amounts for the Year Ended June 30, 2022
   doc_type: audit_report
@@ -1873,12 +1880,12 @@ sources:
   report_year: '2023'
   report_month: 02 - February
   recheck: annual
-  sha256: "97b494542af42be9afc41bee0871bb0f1b20859b3e9a6ef6a80de682f369ffb4"
+  sha256: "16bc56f349a51754fb7dbc2505765e83c0642be52ebed6ef721e660beeb00ba0"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2023-07
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9254952
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9254952
+  format: pdf
   citation: Report No. 2023-07
   title: Audit of RHIA Schedule of Employer Allocations and OPEB Amounts by Employer for the Year Ended
     June 30, 2022
@@ -1888,12 +1895,12 @@ sources:
   report_year: '2023'
   report_month: 02 - February
   recheck: annual
-  sha256: "337425d8604ba6ee74160e2070938597219bda4916480a5b1cef2e2138159e9c"
+  sha256: "96c94bafbf543387868a77c1450008073056cd36ab336a75857b7c6fda06adb1"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2023-08
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9287944
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9287944
+  format: pdf
   citation: Report No. 2023-08
   title: 'Oregon Municipal Corporations: Summary of Fiscal Year 2021 Financial Reporting'
   doc_type: audit_report
@@ -1902,12 +1909,12 @@ sources:
   report_year: '2023'
   report_month: 02 - February
   recheck: annual
-  sha256: "8fcd0cda782fed50813c67634748df01fe7164ccf8692e71de269f3fe86a2c50"
+  sha256: "4bf358676c205321ebd6cb7c70eb00922f9243143f4886c03ff24fe9684fbabb"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2023-09
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9281763
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9281763
+  format: pdf
   citation: Report No. 2023-09
   title: 2023-24 Audit Plan
   doc_type: audit_report
@@ -1916,12 +1923,12 @@ sources:
   report_year: '2023'
   report_month: 02 - February
   recheck: annual
-  sha256: "f6f8354fa8878ec214c66ac26eeee1bee9db2fe0f74d70181f75608e46a62259"
+  sha256: "8a37498b6d38de8fc743295137cf45d2c5466437ebbda92f44e6024df0d7d618"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2023-10
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9297408
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9297408
+  format: pdf
   citation: Report No. 2023-10
   title: Veterans' Loan Program Annual Financial Report Enterprise Fund for the Fiscal Year Ending June
     30, 2022
@@ -1931,12 +1938,12 @@ sources:
   report_year: '2023'
   report_month: 02 - February
   recheck: annual
-  sha256: "5ac8ac9fd97d1559fcb990d0f810619b2dec792b38d9842a03bffc703c457577"
+  sha256: "fdf8b9ce76f6b898e2434d4b9cd001fa8358e50dc304e50a9677b8b8049f0bf9"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2023-11
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9330940
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9330940
+  format: pdf
   citation: Report No. 2023-11
   title: 'Advisory Report on Equal Pay: Oregon Must do More to Close Persistent Wage Gaps for Women and
     People of Color in State Government'
@@ -1946,12 +1953,12 @@ sources:
   report_year: '2023'
   report_month: 03 - March
   recheck: annual
-  sha256: "8fd317a10bae66532368a38ecff2e3558513620dbcaa11419d10f8f83d9b370b"
+  sha256: "990f7cd79d9ce24a0e30449fb77dda3158a76ac677bee3f20abf8ab69127db31"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2023-12
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9333353
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9333353
+  format: pdf
   citation: Report No. 2023-12
   title: Oregon Annual Comprehensive Financial Report For the Fiscal Year Ended June 30, 2022
   doc_type: audit_report
@@ -1960,12 +1967,12 @@ sources:
   report_year: '2023'
   report_month: 03 - March
   recheck: annual
-  sha256: "e02961cb42c245f9afbd6c497543e7757e48b0c5a18dddb95c3cafd88bc3f64e"
+  sha256: "f67f8188e836766962f9cf6361f2d194f3e931e389c80161ff83178a8d0c340f"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2023-13
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9352529
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9352529
+  format: pdf
   citation: Report No. 2023-13
   title: Small Scale Energy Loan Program For the Year Ended June 30, 2022
   doc_type: audit_report
@@ -1974,12 +1981,12 @@ sources:
   report_year: '2023'
   report_month: 03 - March
   recheck: annual
-  sha256: "037fc714d2307989a4538933e5ea828cbc8b4e14ad5a0442e98eb3610806f66e"
+  sha256: "19fd4a78af09b0daac089bda0f5fe250489d72e1ae6e4590d894f66360725c35"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2023-14
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9377923
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9377923
+  format: pdf
   citation: Report No. 2023-14
   title: July 1, 2021 through June 30, 2022
   doc_type: audit_report
@@ -1988,12 +1995,12 @@ sources:
   report_year: '2023'
   report_month: 04 - April
   recheck: annual
-  sha256: "de33c080f32caa0879ef3a251e3cf2f112f497f51093b84e3027bae3904f0100"
+  sha256: "637c297d2b69130fad1269d7fe43e7554364d4ab524b0975c81aa381beac2397"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2023-17
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9442147
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9442147
+  format: pdf
   citation: Report No. 2023-17
   title: Special Public Works Fund and Water Fund Enterprise Funds For the Year Ended June 30, 2022
   doc_type: audit_report
@@ -2002,12 +2009,12 @@ sources:
   report_year: '2023'
   report_month: 05 - May
   recheck: annual
-  sha256: "5eeee0b0e2439c3f78a79b73e0309c95521661d6ef0d1256bd7c57b274686c33"
+  sha256: "422f7da3d6b458c2c93b18bfb2047ab30866bb63accd1e2fb17dd9bf4b9fb9aa"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2023-18
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9456712
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9456712
+  format: pdf
   citation: Report No. 2023-18
   title: Oregon Health Insurance Marketplace Fiscal Year 2022 Compliance
   doc_type: audit_report
@@ -2016,12 +2023,12 @@ sources:
   report_year: '2023'
   report_month: 05 - May
   recheck: annual
-  sha256: "14157173d5e364e5b3f0b785777f0b94e4e86a77739f0381c8fa7dfcf8ad47e8"
+  sha256: "619312d915cba6615aa787797b63d14bd41000b7ead0ff71b68a0074cb5872bf"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2023-19
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9468402
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9468402
+  format: pdf
   citation: Report No. 2023-19
   title: Oregon Health Insurance Marketplace Financial Statements For the Fiscal Year Ended June 30, 2022
   doc_type: audit_report
@@ -2030,12 +2037,12 @@ sources:
   report_year: '2023'
   report_month: 05 - May
   recheck: annual
-  sha256: "faf8547a6e3ba95416e6554a7ac2c77ad6d6d6a03fed8db8f586b207e7d222d2"
+  sha256: "e3855aae8a049bede19a261ec0d9700234fd79e742bd02fc624e1e3cd15a5a16"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2023-20
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9585434
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9585434
+  format: pdf
   citation: Report No. 2023-20
   title: Safe Drinking Water Revolving Loan Fund Agreed Upon Procedures For Fiscal Years Ended June 30,
     2021 and June 30, 2022
@@ -2045,12 +2052,12 @@ sources:
   report_year: '2023'
   report_month: 07 - July
   recheck: annual
-  sha256: "4f33c77ded5a4b31f09e03159bf4c1cd18af1d53e30d39da4a2d0e4d99cdfa5a"
+  sha256: "82547889825ac57b0f4d27e346a1324893a58d9af42fa91612a1d932fa14c988"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2023-21
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9589992
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9589992
+  format: pdf
   citation: Report No. 2023-21
   title: Statewide Single Audit for Fiscal Year 2022
   doc_type: audit_report
@@ -2059,12 +2066,12 @@ sources:
   report_year: '2023'
   report_month: 07 - July
   recheck: annual
-  sha256: "657bef2956a6bc87a9169009c0267b23a4e255be2703f468074c488e2db98dea"
+  sha256: "0f2cb02d0802d900e46f9dedd4e1ed2a75c7ed24dd1db44dc6e02887d40c3f76"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2023-22
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9597969
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9597969
+  format: pdf
   citation: Report No. 2023-22
   title: Financial Statements and Supplementary Schedules as of and for the Years Ended December 31, 2022
     and 2021, and Report of Independent Auditors
@@ -2074,12 +2081,12 @@ sources:
   report_year: '2023'
   report_month: 08 - August
   recheck: annual
-  sha256: "35462b88e4756e1dfce64545e5f426bbe6963a8a74a9311a429cf1b71a74e8f3"
+  sha256: "458101214f127b98d598355a3b34bb7573705f939e45675922b9cedc0651d8e3"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2023-23
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9597970
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9597970
+  format: pdf
   citation: Report No. 2023-23
   title: Financial Statements—Statutory Basis as of and for the Years Ended December 31, 2022 and 2021,
     Supplementary Schedules as of December 31, 2022, and Report of Independent Auditors
@@ -2089,12 +2096,12 @@ sources:
   report_year: '2023'
   report_month: 08 - August
   recheck: annual
-  sha256: "1801a96354fd767be4a69def0fd33b28916a340914a534c0f2125191d0082ebc"
+  sha256: "47d97d5750414097e3db000695982946992868b8f5423b29c8be48641f79d63e"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2023-24
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9611939
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9611939
+  format: pdf
   citation: Report No. 2023-24
   title: Uncertainty and Risk Remain After Gambling Industry Has Evolved Faster than State Law
   doc_type: audit_report
@@ -2103,12 +2110,12 @@ sources:
   report_year: '2023'
   report_month: 08 - August
   recheck: annual
-  sha256: "d376e12ac935471fb1e3f6142c90cc054f6508f1c46eab8c2a846d05ea267568"
+  sha256: "86aa29e46c1fc8cdc60941a451d169c39af82ae5eb7e24631ed49a31514ee364"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2023-25
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9774904
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9774904
+  format: pdf
   citation: Report No. 2023-25
   title: Pharmacy Benefit Managers Poor Accountability and Transparency Harm Medicaid Patients and Independent
     Pharmacies
@@ -2118,12 +2125,12 @@ sources:
   report_year: '2023'
   report_month: 08 - August
   recheck: annual
-  sha256: "9f2e15e7ec667c8b9289340e4081539b90afae3de70ffa02dcf8b59dcef70521"
+  sha256: "8642f571fcfb7418b706c1016fdb7618e85d618246195acde6c7240ed4ec9cf7"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2023-26
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9653549
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9653549
+  format: pdf
   citation: Report No. 2023-26
   title: 'Advisory Report: Increased Awareness and Training Could Enhance the Effectiveness of Oregon''
     Extreme Risk Protection Order Law'
@@ -2133,12 +2140,12 @@ sources:
   report_year: '2023'
   report_month: 08 - August
   recheck: annual
-  sha256: "ab40beb00024dd31e47e7a0629f763a48026c063e11f277bbe1c308e4a538998"
+  sha256: "7d9d2521c3b9236258a9d3753386dbfca97847b6fec2b2534a162797a05488b5"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2023-27
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9655455
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9655455
+  format: pdf
   citation: Report No. 2023-27
   title: Oregon Short Term Fund An Investment Pool of the State of Oregon For the Year Ended June 30,
     2023
@@ -2148,12 +2155,12 @@ sources:
   report_year: '2023'
   report_month: 08 - August
   recheck: annual
-  sha256: "ccbfca3a5a39f9b9c33ea1d75b2c2d7ae22cd41db1c8d8ba3cd32cb77351508d"
+  sha256: "3ae390e781320e602462cee465d4a584d5ac4505d026ae68fab1f087cdcc549e"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2023-28
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9655456
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9655456
+  format: pdf
   citation: Report No. 2023-28
   title: Oregon Local Government Intermediate Fund An Investment Pool of the State of Oregon For the Year
     Ended June 30, 2023
@@ -2163,12 +2170,12 @@ sources:
   report_year: '2023'
   report_month: 08 - August
   recheck: annual
-  sha256: "9efd0ae0a5a285064bf3a0054b6baa93b1cc34ec58e3b352fca77a7c54d2eea1"
+  sha256: "70e63e06dbc85e0f6bead820081cf5517db9438adf3e65eaca78d489a589e748"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2023-29
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9690849
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9690849
+  format: pdf
   citation: Report No. 2023-29
   title: Keeping Oregon Accountable, Fiscal Year 2022
   doc_type: audit_report
@@ -2177,12 +2184,12 @@ sources:
   report_year: '2023'
   report_month: 09 - September
   recheck: annual
-  sha256: "0be385d825ddb7151feb95b071f598b85b750087ac77176b33d60a538ee651c4"
+  sha256: "aea4324a013fdc70ce06252bea009a3313785c575f0e578f6a74f2db7701e7d5"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2023-30
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9704109
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9704109
+  format: pdf
   citation: Report No. 2023-30
   title: Oregon Intermediate Term Pool An Investment Pool of the State of Oregon For the Year Ended June
     30, 2023
@@ -2192,12 +2199,12 @@ sources:
   report_year: '2023'
   report_month: 09 - September
   recheck: annual
-  sha256: "7660db930a029b0da6c79f0a20d0bf034a80bba0e0409b18a534321a0e3dcc24"
+  sha256: "185e721ed9ec2a1fd261ebb0204e3c7d876e04c8fa083ef4eda6c2834bc36030"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2023-31
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9759503
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9759503
+  format: pdf
   citation: Report No. 2023-31
   title: 'Advisory Report: Breaking the Cycle: A Comprehensive Statewide Strategy Would Benefit Domestic
     Violence Victims, Survivors, and Advocates'
@@ -2207,12 +2214,12 @@ sources:
   report_year: '2023'
   report_month: 10 - October
   recheck: annual
-  sha256: "6fb6c3cab2eaa4da9e92dabfe531ad1b39e43dfd9cc8d3f8353034f9cdd74906"
+  sha256: "a340141040b7049a4f495de27d83ce5344d3f6a6b654e18924cdc6afa297eec5"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2023-32
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9772536
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9772536
+  format: pdf
   citation: Report No. 2023-32
   title: Veterans' Loan Program Annual Financial Report Enterprise Fund for the Fiscal Year Ending June
     30, 2023
@@ -2222,12 +2229,12 @@ sources:
   report_year: '2023'
   report_month: 11 - November
   recheck: annual
-  sha256: "5cdb8dc260f6d59002528b201b3ccf1a0f6c545401fcba91f154d945f49fdf46"
+  sha256: "8836c86fe903a528c58094464943c44ad5506c74711e17e9dc86f652fa373735"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2023-33
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9775783
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9775783
+  format: pdf
   citation: Report No. 2023-33
   title: Common School Fund Annual Financial Report For the Fiscal Year Ended June 30, 2023
   doc_type: audit_report
@@ -2236,12 +2243,12 @@ sources:
   report_year: '2023'
   report_month: 11 - November
   recheck: annual
-  sha256: "a839173865a8dfc78477c51396f999753480ff6deb2d062bd1c0185344cb2c48"
+  sha256: "9283508e5663cf444ffc30ab60460a6d93629fc471865a931672f585b5bcffbd"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2023-34
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9787660
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9787660
+  format: pdf
   citation: Report No. 2023-34
   title: State Government Accountability Hotline Summary Report for Calendar Year 2022
   doc_type: audit_report
@@ -2250,12 +2257,12 @@ sources:
   report_year: '2023'
   report_month: 11 - November
   recheck: annual
-  sha256: "798bf7f3b5fbd197a57a4bc593746ba8ee36feb652b07819050e34c3596b1c1f"
+  sha256: "cae2d38522d4bcc79f90ba5f0274f54dcbdded5a19a7d2fa85eb628ebf47d111"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2023-35
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9791144
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9791144
+  format: pdf
   citation: Report No. 2023-35
   title: Annual Financial Report Enterprise Funds of the State of Oregon For the Year Ended June 30, 2023
   doc_type: audit_report
@@ -2264,12 +2271,12 @@ sources:
   report_year: '2023'
   report_month: 11 - November
   recheck: annual
-  sha256: "f3392f04aa77415fd738732258da99b088265fe185e088576bfafbd581468059"
+  sha256: "6a65a0c7a174dc1e420cb41ea2e0184778466e82eecc68ad564604f8caf8c611"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2023-36
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9804732
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9804732
+  format: pdf
   citation: Report No. 2023-36
   title: Annual Comprehensive Financial Report Enterprise Fund of the State of Oregon For the Fiscal Year
     Ended June 30, 2023
@@ -2279,12 +2286,12 @@ sources:
   report_year: '2023'
   report_month: 11 - November
   recheck: annual
-  sha256: "7b2911b04f64468f25ccb2f93fcc774245b9e31fe8fb029a750fb26d62135c30"
+  sha256: "9ba005208fb61b9880c609557ca30ef8fbc5012ea176ca36a9a8b22045aba844"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2023-37
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9828700
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9828700
+  format: pdf
   citation: Report No. 2023-37
   title: Clean Water State Revolving Fund Loan Program For the Fiscal Year Ended June 30, 2022
   doc_type: audit_report
@@ -2293,12 +2300,12 @@ sources:
   report_year: '2023'
   report_month: 12 - December
   recheck: annual
-  sha256: "8ad5ec3081f550dba58cb9e0b8161ee028ca94e51fdf7ba7925f7e4153497f5e"
+  sha256: "6b1bea0eea83c0169437f6f7b292e98504d83dae54aba0f877db9cb74f3e18c7"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2023-38
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9830503
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9830503
+  format: pdf
   citation: Report No. 2023-38
   title: Annual Comprehensive Financial Report For the Fiscal Year Ended June 30, 2023
   doc_type: audit_report
@@ -2307,12 +2314,12 @@ sources:
   report_year: '2023'
   report_month: 12 - December
   recheck: annual
-  sha256: "1e397bbdb5c4486f4e3701ef1b253bc5a9fbde4b83cf6c5e4452b0a935ef8eb2"
+  sha256: "dd3aa7c264df99fcf2ec8be092db55b99eb51d37046fdb47817284094d4fa9d5"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2023-39
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9965133
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9965133
+  format: pdf
   citation: Report No. 2023-39
   title: Oversight and Accountability Council Funding and Delivery of Measure 110 Substance Use Disorder
     Services Shows Progress, but Significant Risks Remain
@@ -2322,12 +2329,12 @@ sources:
   report_year: '2023'
   report_month: 12 - December
   recheck: annual
-  sha256: "38f3bf7d9367d280df7f4e1a3aa0def7ea3716c5d235562bd31f3856df91f68d"
+  sha256: "55ca6fcbd2ea77180983228ded58c29c84be85667802b7d43756cef0c11e89ca"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2024-01
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9877569
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9877569
+  format: pdf
   citation: Report No. 2024-01
   title: OHCS Prioritized Providing Emergency Rental Assistance Funds to Oregonians in Crisis but Could
     Have Done More to Ensure Funds Were Properly Distributed
@@ -2337,12 +2344,12 @@ sources:
   report_year: '2024'
   report_month: 01 - January
   recheck: annual
-  sha256: "ec5ca8c3f9c5dbb1ced17d64bb937881575c9822fdf204617987e4631c6d65f0"
+  sha256: "85c0adb88cae49a45f71334c5a2477243a00d769f67851c25a4c469ccebefc9b"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2024-02
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9922791
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9922791
+  format: pdf
   citation: Report No. 2024-02
   title: To Protect Patients and Maintain Public Trust, the Oregon Medical Board Should Further its Efforts
     to Address the Risk of Inequitable Disciplinary Decisions
@@ -2352,12 +2359,12 @@ sources:
   report_year: '2024'
   report_month: 01 - January
   recheck: annual
-  sha256: "5ac462b95221b49a4e27428b5099d84dff661cfad583148c17b13d9493441a15"
+  sha256: "7cf4b8a7f6bdf82a7bbea6ae9da82f7a9e0578ea2ff74d12353a396c2251cdef"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2024-03
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9936657
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9936657
+  format: pdf
   citation: Report No. 2024-03
   title: Oregon Annual Comprehensive Financial Report For the Fiscal Year Ended June 30, 2023
   doc_type: audit_report
@@ -2366,12 +2373,12 @@ sources:
   report_year: '2024'
   report_month: 01 - January
   recheck: annual
-  sha256: "f43ce45c39759f371478bcff945295535c8f0ba9e0084aeb7bc7ff61fc2cbf1c"
+  sha256: "ec1041aaf590b9345cac2e909c597eb03ebf10f85034c23fe92c47791ace8b2a"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2024-04
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9937520
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9937520
+  format: pdf
   citation: Report No. 2024-04
   title: July 1, 2022 through June 30, 2023
   doc_type: audit_report
@@ -2380,12 +2387,12 @@ sources:
   report_year: '2024'
   report_month: 01 - January
   recheck: annual
-  sha256: "56ebc86b1bbef016d09e066543976ce2efca1ff398229394a08945cc877d1f45"
+  sha256: "316aa1e3e4a84c07f2e7d10b7b1ba24b8d5e8a952e7bcd8beff727ddc153b476"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2024-05
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9978977
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9978977
+  format: pdf
   citation: Report No. 2024-05
   title: 2024-25 Audit Plan
   doc_type: audit_report
@@ -2394,12 +2401,12 @@ sources:
   report_year: '2024'
   report_month: 02 - February
   recheck: annual
-  sha256: "ed63f25941dc70bbdebf7a385b4d2ee0a95355305cb0c4a0b329f9d78f509c8c"
+  sha256: "fcd4bf556531b0228f5d40b614932825920acb049a05b8935dd7d16e5085a662"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2024-06
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10000616
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10000616
+  format: pdf
   citation: Report No. 2024-06
   title: 'Oregon Municipal Corporations: Summary of Fiscal Year 2022 Financial Reporting'
   doc_type: audit_report
@@ -2408,12 +2415,12 @@ sources:
   report_year: '2024'
   report_month: 03 - March
   recheck: annual
-  sha256: "993aed2301a9cf7a359bdb20ea2ec7c4826da4975eac0193eaa52adfa52cbc1c"
+  sha256: "576e39ef5172827910f22faec0ad42db9c7f23ac4960cb9f83bba23a03c4fb24"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2024-07
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9997984
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9997984
+  format: pdf
   citation: Report No. 2024-07
   title: Ongoing Workforce Crises and Disruption Demand Strategic Workforce Planning
   doc_type: audit_report
@@ -2422,12 +2429,12 @@ sources:
   report_year: '2024'
   report_month: 02 - February
   recheck: annual
-  sha256: "e75fd130cb8abd01504315d985aa890de3b7530004bff04d852784c9431f5471"
+  sha256: "00296d2b97157e09e5d9b79760272482866c7d595dbc8c31fc1296ce98191ed4"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2024-08
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10042699
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10042699
+  format: pdf
   citation: Report No. 2024-08
   title: Audit of Pension Schedule of Employer Allocations and Pension Amounts by Employer for the Year
     Ended June 30, 2023
@@ -2437,12 +2444,12 @@ sources:
   report_year: '2024'
   report_month: 03 - March
   recheck: annual
-  sha256: "f92561562978bff9e961570c54ce56c0ed9ba044ae2c35e18c3f46cdb3a02c63"
+  sha256: "782619c5d81b18d5073ef4a9a1d97d6e2cdbdd334c171ccee0266814cb2e5915"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2024-09
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10042700
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10042700
+  format: pdf
   citation: Report No. 2024-09
   title: Audit of RHIA Schedule of Employer Allocations and OPEB Amounts by Employer for the Year Ended
     June 30, 2023
@@ -2452,12 +2459,12 @@ sources:
   report_year: '2024'
   report_month: 03 - March
   recheck: annual
-  sha256: "d2a1a69e41c7b7f4a8aada7331dedd54fd65d994156a8e35e11b68a06ffcac12"
+  sha256: "6c785d24b37f465685aeea29b5ed181e0b2014fb574509fbf469b074856a8845"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2024-10
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10042708
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10042708
+  format: pdf
   citation: Report No. 2024-10
   title: Audit of RHIPA Schedule of OPEB Amounts for the Year Ended June 30, 2023
   doc_type: audit_report
@@ -2466,12 +2473,12 @@ sources:
   report_year: '2024'
   report_month: 03 - March
   recheck: annual
-  sha256: "cb9721c6611e79ad635efb779e5f0aee39fbdc794b1c8aa948d58822cf3e8383"
+  sha256: "706fa9b973882cd23aa35a8f208fb09f690fc0ae25c9fe08efdf661f24a7e619"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2024-11
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10042709
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10042709
+  format: pdf
   citation: Report No. 2024-11
   title: Small Scale Energy Loan Program For the Year Ended June 30, 2023
   doc_type: audit_report
@@ -2480,12 +2487,12 @@ sources:
   report_year: '2024'
   report_month: 03 - March
   recheck: annual
-  sha256: "6a8ae1fdd6f6367d725497a0f0d4f630d5802d2381c251c8df3099cd20abd344"
+  sha256: "eae70e40d3d51bd235ae695c5a06d67b7c44df3b391273456c7e6d845ff0fcba"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2024-12
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10067614
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10067614
+  format: pdf
   citation: Report No. 2024-12
   title: Special Public Works Fund and Water Fund Enterprise Funds For the Year Ended June 30, 2023
   doc_type: audit_report
@@ -2494,12 +2501,12 @@ sources:
   report_year: '2024'
   report_month: 03 - March
   recheck: annual
-  sha256: "1b96119298b89f1a5c82ee119c1a7072c0bbbbba05a490b2189ffbd66476a599"
+  sha256: "5eba24f0e939de7a04709a6920d2bb521a6f7d532dff80446eef2af07cd5aaba"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2024-13
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10115088
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10115088
+  format: pdf
   citation: Report No. 2024-13
   title: Ongoing Strategic Planning Can Help DEQ Address Obstacles to Achieving its Goals
   doc_type: audit_report
@@ -2508,12 +2515,12 @@ sources:
   report_year: '2024'
   report_month: 04 - April
   recheck: annual
-  sha256: "4a65b7136d95e51ba02f8bf6732f4eae2d7ad2a970b5e86b03ac97de458e6c4f"
+  sha256: "ea8cb1e9c2392bccf13f358d76d7af2f8ee84ef09a714950449bebbdd99cdf2a"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2024-14
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10139503
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10139503
+  format: pdf
   citation: Report No. 2024-14
   title: Statewide Single Audit for Fiscal Year 2023
   doc_type: audit_report
@@ -2522,12 +2529,12 @@ sources:
   report_year: '2024'
   report_month: 04 - April
   recheck: annual
-  sha256: "dd8399f2f67645e0d33617ef9b36aca5da3b33886076d382cded22cd93450172"
+  sha256: "b80d7050e4a0e0ab241eefa83fd988c166287b17674d397277691fef3f1a6815"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2024-15
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10142791
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10142791
+  format: pdf
   citation: Report No. 2024-15
   title: Oregon Health Insurance Marketplace Fiscal Year 2023 Compliance
   doc_type: audit_report
@@ -2536,12 +2543,12 @@ sources:
   report_year: '2024'
   report_month: 05 - May
   recheck: annual
-  sha256: "10fbac9bf04e0081f6a2414c4ac885f4731a33767b3a932051183ace743d3356"
+  sha256: "0fbd1083a8c36cbe95f8b33bc2ed96cef768bfcea1585761cc7e69c2a89a8a9c"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2024-16
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10191691
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10191691
+  format: pdf
   citation: Report No. 2024-16
   title: Oregon Health Insurance Marketplace Financial Statements For the Fiscal Year Ended June 30, 2023
   doc_type: audit_report
@@ -2550,12 +2557,12 @@ sources:
   report_year: '2024'
   report_month: 05 - May
   recheck: annual
-  sha256: "e2f2141fa371fdad30bb272dd7d4b5ffe7afaa26d940447f29c36ba546171c38"
+  sha256: "6a5e9fc64d58e5f4a68e91febade0aca5de1e4a9592a230193a96cf1faf874f1"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2024-17
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10229113
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10229113
+  format: pdf
   citation: Report No. 2024-17
   title: Clean Water State Revolving Fund Loan Program Enterprise Fund of the State of Oregon For the
     Fiscal Year Ended June 30, 2023
@@ -2565,12 +2572,12 @@ sources:
   report_year: '2024'
   report_month: 06 - June
   recheck: annual
-  sha256: "2b8eba9fdcd261aabee4a23904202a5f26228de57b5530ca5acda05dd9ce1c24"
+  sha256: "e9bf8f3b3da46db7e655f5c7ca2a323f7fea6768361168b710059d5de9d78e7e"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2024-18
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10230991
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10230991
+  format: pdf
   citation: Report No. 2024-18
   title: Keeping Oregon Accountable Fiscal Year 2023
   doc_type: audit_report
@@ -2579,12 +2586,12 @@ sources:
   report_year: '2024'
   report_month: 06 - June
   recheck: annual
-  sha256: "d58c42a8fdda836d34c7240cddf23816de52efc4eabb2c7190782bf6e3c35d82"
+  sha256: "0a94d295dd4e279b22cdcd5da11d3f5db2fe13b5f17e897b1a57f9dab155cac0"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2024-19
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10250588
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10250588
+  format: pdf
   citation: Report No. 2024-19
   title: High School Graduation and College and Career Readiness Fund Biennial Financial Report For Biennium
     Ended June 30, 2023
@@ -2594,12 +2601,12 @@ sources:
   report_year: '2024'
   report_month: 06 - June
   recheck: annual
-  sha256: "db431b3712bfa561d4cf26f1fea4d49d9301b3d42d83cbe7b0077a8ac9ad0f84"
+  sha256: "c3d775a00ee5f6e348b32c7888a8b31082975e31d86fd1a0e77059a9413c4a36"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2024-20
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10327636
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10327636
+  format: pdf
   citation: Report No. 2024-20
   title: Financial Statements-Statutory Basis as of and for the Years Ended December 31, 2023 and 2022,
     Supplementary Schedules as of December 31, 2023, and Report of Independent Auditors
@@ -2609,12 +2616,12 @@ sources:
   report_year: '2024'
   report_month: 08 - August
   recheck: annual
-  sha256: "b2322d0074b646f1ea2d8e49f62a917a4ef34a20b5f171bf66875c4208414a25"
+  sha256: "e01b1419dc4b9376ebe1d136254bf7a6724a2f94df256f368f53e7c2efb683ff"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2024-21
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10327637
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10327637
+  format: pdf
   citation: Report No. 2024-21
   title: Financial Statements and Supplementary Schedules as of and for the Years Ended December 31, 2023
     and 2022, and Report of Independent Auditors
@@ -2624,12 +2631,12 @@ sources:
   report_year: '2024'
   report_month: 08 - August
   recheck: annual
-  sha256: "efc26bb4d9b234f774b0df22e0d1a9e2eedf36b4626edb423b46db61bca3e78e"
+  sha256: "7dab18c7ff37d3e0c36bd9357cb659e301e2218c92ba9f043bb0e2bdf084a759"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2024-22
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10364046
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10364046
+  format: pdf
   citation: Report No. 2024-22
   title: Oregon Short Term Fund An Investment Pool of the State of Oregon For the Year Ended June 30,
     2024
@@ -2639,12 +2646,12 @@ sources:
   report_year: '2024'
   report_month: 08 - August
   recheck: annual
-  sha256: "f585a03dbd384a5293c8ef00a21cccec16fbf2ba78b324ec04975e08831097fa"
+  sha256: "c00c6b9e33bdb1e791305b2e3db72e84ee0cd3b31bb7a10a3055329b95fec25d"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2024-23
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10364047
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10364047
+  format: pdf
   citation: Report No. 2024-23
   title: Oregon Local Government Intermediate Fund An Investment Pool of the State of Oregon For the Year
     Ended June 30, 2024
@@ -2654,12 +2661,12 @@ sources:
   report_year: '2024'
   report_month: 08 - August
   recheck: annual
-  sha256: "e1b94c17891f9aedf692392591eaac74778a0789d9cd0541132b6c2db4ca127e"
+  sha256: "1cedff329b41bacb046c4aeb7b5ea6eeaa144eea3a5b532b97fbbb3ba964c729"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2024-24
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10365802
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10365802
+  format: pdf
   citation: Report No. 2024-24
   title: State Government Accountability Hotline Summary Report for Calendar Year 2023
   doc_type: audit_report
@@ -2668,12 +2675,12 @@ sources:
   report_year: '2024'
   report_month: 08 - August
   recheck: annual
-  sha256: "1b719383c0e48b245a26bb50f2b1acf23f99f9a3b7fc014d96cb875f027b011d"
+  sha256: "ae78beda95b946bfe872ac27fea60f3adb98924624b1a1ef1007e7a7deb04868"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2024-25
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10410924
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10410924
+  format: pdf
   citation: Report No. 2024-25
   title: Oregon Intermediate Term Pool An Investment Pool of the State of Oregon For the Year Ended June
     30, 2024
@@ -2683,12 +2690,12 @@ sources:
   report_year: '2024'
   report_month: 09 - September
   recheck: annual
-  sha256: "e2e16291cfb69a20a37775143e935bdd3b94be42091e030268f42c54a0cfca9f"
+  sha256: "0e20fb3800a2fea3200e466e551b4233676cd0cd0d1812493aa1f490c674f04a"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2024-26
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10410925
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10410925
+  format: pdf
   citation: Report No. 2024-26
   title: State of Oregon Financial Condition Report Fiscal Year 2023
   doc_type: audit_report
@@ -2697,12 +2704,12 @@ sources:
   report_year: '2024'
   report_month: 09 - September
   recheck: annual
-  sha256: "b8d478e5944bfa92e237ca60a6c32e9a81a48c224bb0bfdeaa16693571fd9a4e"
+  sha256: "f60300fa6b62cd59de9887a702f9972e42aa17bcd63d9ed695147391c7e476cf"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2024-27
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10435155
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10435155
+  format: pdf
   citation: Report No. 2024-27
   title: The Oregon Eligibility System Appropriately Determines Eligibility, but Input Errors Continue
     to Occur
@@ -2712,12 +2719,12 @@ sources:
   report_year: '2024'
   report_month: 10 - October
   recheck: annual
-  sha256: "03823b68dda4731fcd5ba7e6f3e009b88ee7da172c2c602e574c64cc9d956758"
+  sha256: "eeb07d2afe978480e7c873653b1c5ab5262bea30531b003ca276cff127f24b52"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2024-28
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10458155
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10458155
+  format: pdf
   citation: Report No. 2024-28
   title: Licensing and Registration System Accurately Assesses and Collects Fees, but Security Processes
     Need Improvement
@@ -2727,12 +2734,12 @@ sources:
   report_year: '2024'
   report_month: 10 - October
   recheck: annual
-  sha256: "8da812f2b24da09c8f03bc0dcb1a6597ba1c9d5cb1457137187cc127dbdb442c"
+  sha256: "7617d55bbf29b7d41a99351bac1efa7783506f91cda745af1d32210acbe2c080"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2024-29
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10465395
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10465395
+  format: pdf
   citation: Report No. 2024-29
   title: Without Federal Action, States Will Continue to Pay Millions of Dollars in Duplicate Medicaid
     Payments
@@ -2742,12 +2749,12 @@ sources:
   report_year: '2024'
   report_month: 10 - October
   recheck: annual
-  sha256: "882f3283df0ea6cede7a81b6aa1d0bc12f78573f794c0ebcaaa87ae542332fd9"
+  sha256: "24e18209b98fce3f6a30b7c2ca33181b357b038780d7b63840a8b6d8563662db"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2024-30
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10482044
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10482044
+  format: pdf
   citation: Report No. 2024-30
   title: Veterans' Loan Program Annual Financial Report An Enterprise Fund for the Year Ending June 30,
     2024
@@ -2757,12 +2764,12 @@ sources:
   report_year: '2024'
   report_month: 10 - October
   recheck: annual
-  sha256: "055f81dbbbde66d8c7072391d1bf97b45e7c7e2153df9a92b94b8e80f8880af3"
+  sha256: "c10a6ad53d53534155f3503595bc1c28eb2962f06c19be9f4ece7876b1d214c3"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2024-31
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10492557
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10492557
+  format: pdf
   citation: Report No. 2024-31
   title: Annual Financial Report Enterprise Funds of the State of Oregon For the Year Ended June 30, 2024
   doc_type: audit_report
@@ -2771,12 +2778,12 @@ sources:
   report_year: '2024'
   report_month: 11 - November
   recheck: annual
-  sha256: "922f8b0d8da0ce5516dfbd0ed00f061178ec7af56127ca3e73e0390f315e4adc"
+  sha256: "3f46cbedec3fe6f8e132e9c811c7ce407d8e75965a88a08143791c746b74a77b"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2024-32
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10519154
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10519154
+  format: pdf
   citation: Report No. 2024-32
   title: Common School Fund Annual Financial Report For the Fiscal Year Ended June 30, 2024
   doc_type: audit_report
@@ -2785,12 +2792,12 @@ sources:
   report_year: '2024'
   report_month: 11 - November
   recheck: annual
-  sha256: "0d7d30e3f78605c118b60f51185350e4ab4bea78775f47749587faf8d569a89c"
+  sha256: "9255b475c277a8c4d22e2ef1fc296d6c9a3399d0b2e2d9eae61915445d0810c3"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2024-33
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10529872
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10529872
+  format: pdf
   citation: Report No. 2024-33
   title: Annual Comprehensive Financial Report Enterprise Fund of the State of Oregon For Fiscal Year
     Ended June 30, 2024
@@ -2800,12 +2807,12 @@ sources:
   report_year: '2024'
   report_month: 11 - November
   recheck: annual
-  sha256: "6c76abc7ea15114b0f2083ed77d7899e1694fb9a4ca3bdf41be040acd82bdfd5"
+  sha256: "fa166393e2688e76f2b2d9ffa3db917a08bff80a0f901078eb339058c395d4ee"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2024-34
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10555839
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10555839
+  format: pdf
   citation: Report No. 2024-34
   title: High School Success Grants Have Expanded Important Programs, but ODE Can Do More To Identify
     and Share Effective Strategies
@@ -2815,12 +2822,12 @@ sources:
   report_year: '2024'
   report_month: 12 - December
   recheck: annual
-  sha256: "6f91087b8f529e0fd7fb9780f4e9afb365f1fabce701e6198c88759054aedf76"
+  sha256: "c66e7d69dee2403d927f080664a6544d135877a56c93ef71078ccfc9569ae98b"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2024-35
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10568164
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10568164
+  format: pdf
   citation: Report No. 2024-35
   title: Annual Comprehensive Financial Report For the Fiscal Year Ended June 30, 2024
   doc_type: audit_report
@@ -2829,12 +2836,12 @@ sources:
   report_year: '2024'
   report_month: 12 - December
   recheck: annual
-  sha256: "c31729b66af4f63fcb36e2fee75bcf4f7d52d0bfcb3a4bcf8f2e4203ae7e378a"
+  sha256: "0a503f4bc3490e8f2c94ff4bb51ad8d7274755169648c497ca3a5fbfcaec4d57"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2025-01
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10599262
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10599262
+  format: pdf
   citation: Report No. 2025-01
   title: July 1, 2023 through June 30, 2024
   doc_type: audit_report
@@ -2843,12 +2850,12 @@ sources:
   report_year: '2025'
   report_month: 01 - January
   recheck: annual
-  sha256: "335ee1b1a93a1acc0fe0d68661c2e065f80d6db1317e43c202cf9cc591e147e1"
+  sha256: "5bfa96882cc79107ef97031f14e1accf67fab93cd78f8b3f1b30e13f3a5760be"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2025-02
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10601929
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10601929
+  format: pdf
   citation: Report No. 2025-02
   title: Oregon Annual Comprehensive Financial Report For the Fiscal Year Ended June 30, 2024
   doc_type: audit_report
@@ -2857,12 +2864,12 @@ sources:
   report_year: '2025'
   report_month: 01 - January
   recheck: annual
-  sha256: "80e057567d6e22cd51cd84f9ea00575712998705b9549f7e50ff680e0d52daa5"
+  sha256: "144045c5c092edc84c1e2608cdb3c6b99bf11a16c73f1c809bad783c3255e171"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2025-03
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10742170
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10742170
+  format: pdf
   citation: Report No. 2025-03
   title: 2025-26 Audit Plan
   doc_type: audit_report
@@ -2871,12 +2878,12 @@ sources:
   report_year: '2025'
   report_month: 02 - February
   recheck: annual
-  sha256: "ab98ddcca70ff28ef5c075c3cbdbb56a385340440e35c15569f95b8a6a207e5b"
+  sha256: "cf7fdae352deae6e31e139c58dd1e68a2a8f7e577656523b097003056b363660"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2025-04
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10805471
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10805471
+  format: pdf
   citation: Report No. 2025-04
   title: Audit of Pension Schedule of Employer Allocations and Pension Amounts by Employer for the Year
     Ended June 30, 2024
@@ -2886,12 +2893,12 @@ sources:
   report_year: '2025'
   report_month: 02 - February
   recheck: annual
-  sha256: "56de7c7f364444ae2ed3c53c7511294a939bc075c124d01c718add603a61b080"
+  sha256: "65684035f2bc1eea3b651314966b09f571c8ed5cbcdb43dcf0be10481b922965"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2025-05
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10805472
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10805472
+  format: pdf
   citation: Report No. 2025-05
   title: Audit of RHIA Schedule of Employer Allocations and OPEB Amounts by Employer for the Year Ended
     June 30, 2024
@@ -2901,12 +2908,12 @@ sources:
   report_year: '2025'
   report_month: 02 - February
   recheck: annual
-  sha256: "91b582cd258be60708fc6e697fd167ae38da994775abb973395b9e833c0b2766"
+  sha256: "e3de5e542ae66191e4c43dafcef764d8dfda19d4df550f819dadf0129824906f"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2025-06
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10805473
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10805473
+  format: pdf
   citation: Report No. 2025-06
   title: Audit of RHIPA Schedule of OPEB Amounts for the Year Ended June 30, 2024
   doc_type: audit_report
@@ -2915,12 +2922,12 @@ sources:
   report_year: '2025'
   report_month: 02 - February
   recheck: annual
-  sha256: "1f49c301ae733a9140f6de5a8ab6d86016286aeab6cdef562cdc75c4d31c29ce"
+  sha256: "5012b05355deedf544e6cbaea6de37be6d144a3e4b5d05299845ec99d80843b0"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2025-07
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10808423
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10808423
+  format: pdf
   citation: Report No. 2025-07
   title: Small Scale Energy Loan Program For the Year Ended June 30, 2024
   doc_type: audit_report
@@ -2929,12 +2936,12 @@ sources:
   report_year: '2025'
   report_month: 02 - February
   recheck: annual
-  sha256: "991fb16077839f1436cb67947ce0f9aad7814503023a11a6738ed0649582a933"
+  sha256: "5ab4082c163aeb3ea67921cc23b90bd18a9484af965e5d25ea9de78c21b39685"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2025-08
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10809405
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10809405
+  format: pdf
   citation: Report No. 2025-08
   title: 'Oregon Municipal Corporations: Summary of Financial Reporting for Fiscal Year 2023'
   doc_type: audit_report
@@ -2943,12 +2950,12 @@ sources:
   report_year: '2025'
   report_month: 02 - February
   recheck: annual
-  sha256: "e02e1ef53b1937b658285602b0cb51967b591fdf10e5971c5cae775baf93981a"
+  sha256: "20e0e3d1758c94559ef3a3721af80cfe74fece60c4ac62d1ef58419189e97508"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2025-10
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10363238
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10363238
+  format: pdf
   citation: Report No. 2025-10
   title: Statewide Single Audit for Fiscal Year 2024
   doc_type: audit_report
@@ -2957,12 +2964,12 @@ sources:
   report_year: '2025'
   report_month: 04 - April
   recheck: annual
-  sha256: "94d7a616d66db1863b540c2242c83ba9841747a0f85fe0432b436e018a8cf634"
+  sha256: "82ec10a3c0edc67f8c8c6436bfac7bcc3c1c972767f6d17a694f218714ba8a6f"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2025-11
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10913343
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10913343
+  format: pdf
   citation: Report No. 2025-11
   title: State Government Accountability Hotline Summary Report for Calendar Year 2024
   doc_type: audit_report
@@ -2971,12 +2978,12 @@ sources:
   report_year: '2025'
   report_month: 04 - April
   recheck: annual
-  sha256: "b6a87f8ea0447053fc9d08bb87147d961f38112c772783dd54ddb534c8db669e"
+  sha256: "38c67d418c8996197770973e82d42c6a8f4a7819ef7bcc457549c261aee2de9c"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2025-12
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10363265
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10363265
+  format: pdf
   citation: Report No. 2025-12
   title: Oregon Health Insurance Marketplace Fiscal Year 2024 Compliance
   doc_type: audit_report
@@ -2985,12 +2992,12 @@ sources:
   report_year: '2025'
   report_month: 04 - April
   recheck: annual
-  sha256: "9fddb61a7288924f50b68d1908ad15148b873e95f9e43fe9ed056b4b3c406d1d"
+  sha256: "5da24e80c53557158f193fe9ba069a62c63077a6b41c742c949ed47151aca9bd"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2025-13
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10363266
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10363266
+  format: pdf
   citation: Report No. 2025-13
   title: Oregon Health Insurance Marketplace Financial Statements For the Fiscal Year Ended June 30, 2024
   doc_type: audit_report
@@ -2999,12 +3006,12 @@ sources:
   report_year: '2025'
   report_month: 04 - April
   recheck: annual
-  sha256: "75ed18d15eabd608b5ddae96b08f3d4c8d08bcae6f9274d05f4f3bf589ddb77f"
+  sha256: "163288cea3d3aff071425405a12acf89ffad6b33898a27711b8c8f6eb9973c03"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2025-14
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10363268
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10363268
+  format: pdf
   citation: Report No. 2025-14
   title: Oregon Faces Challenges in Addressing Gaps in the Behavioral Health Crisis System
   doc_type: audit_report
@@ -3013,12 +3020,12 @@ sources:
   report_year: '2025'
   report_month: 05 - May
   recheck: annual
-  sha256: "619e8d45d50e368b44dd2ccf53a10a6e28bdcec5d20950e29f1f160109346241"
+  sha256: "c1765fa48503595702df9d2067044ecaf5ddc061b288efce2095254529653d6f"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2025-15
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/11016545
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=11016545
+  format: pdf
   citation: Report No. 2025-15
   title: Safe Drinking Water Revolving Loan Fund Agreed Upon Procedures for Fiscal Years Ended June 30,
     2023 and June 30, 2024
@@ -3028,12 +3035,12 @@ sources:
   report_year: '2025'
   report_month: 05 - May
   recheck: annual
-  sha256: "caf93be009053927099af21f030442df91ae98b324193d5ccfe60b7413a0f3c2"
+  sha256: "da6f68a25cf56327aa24b8486c6dcf7879e6ac681182dbecab841506efd336ee"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2025-16
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10363270
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10363270
+  format: pdf
   citation: Report No. 2025-16
   title: Keeping Oregon Accountable Fiscal Year 2024
   doc_type: audit_report
@@ -3042,12 +3049,12 @@ sources:
   report_year: '2025'
   report_month: 05 - May
   recheck: annual
-  sha256: "9f6450a73a769c1fd06923700358eb1541402223337c1b0686937c3f82d41740"
+  sha256: "efdefac3886873ff1831cb1ed032873d5ab16e8ede79f129d015c29e45d51478"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2025-17
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/11123244
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=11123244
+  format: pdf
   citation: Report No. 2025-17
   title: Clean Water State Revolving Fund Loan Program Enterprise Fund of the State of Oregon for the
     Fiscal Year Ended June 30, 2024
@@ -3057,12 +3064,12 @@ sources:
   report_year: '2025'
   report_month: 06 - June
   recheck: annual
-  sha256: "07f0a2eb235f0f0dbe80000e7c9526c14003bb09512d47ff235841619b1779b0"
+  sha256: "6fe6e26f594240e67a986bbe28e6a9488199e20ed38261e30da68c5b03dc587f"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2025-18
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/11215565
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=11215565
+  format: pdf
   citation: Report No. 2025-18
   title: Without a Comprehensive Compliance Function, DAS Cannot Effectively Monitor High-Risk Contracts
     or Mitigate Contracting Risks
@@ -3072,12 +3079,12 @@ sources:
   report_year: '2025'
   report_month: 07 - July
   recheck: annual
-  sha256: "92bde26c29c5925a896d2f1932a399fba691eceef8c80c800c8ef9dd6cba50db"
+  sha256: "5924895475c9800740c94be295c21100fe351f9417105c19bb4dc13ff856e007"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2025-19
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/11816206
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=11816206
+  format: pdf
   citation: Report No. 2025-19
   title: Financial Statements and Supplementary Schedules as of and for the Years Ended December 31, 2024
     and 2023, and Report of Independent Auditors
@@ -3087,12 +3094,12 @@ sources:
   report_year: '2025'
   report_month: 08 - August
   recheck: annual
-  sha256: "b0517a15307e61888880aba803b7322e12d5a1f357283fa6f148e7d50ff9b70c"
+  sha256: "11bfcfe87470da83a73ee72d1cee5cebd6756e199ed1d3d99cbbae872b56f7c7"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2025-20
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/11816207
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=11816207
+  format: pdf
   citation: Report No. 2025-20
   title: Financial Statements—Statutory Basis as of and for the Years Ended December 31, 2024 and 2023,
     Supplementary Schedules as of December 31, 2024, and Report of Independent Auditors
@@ -3102,12 +3109,12 @@ sources:
   report_year: '2025'
   report_month: 08 - August
   recheck: annual
-  sha256: "6fa91c222aac8cae27991eadeb095cff6cd277939ddc234a6a322f41b97040c4"
+  sha256: "dc20630027be8222f9f7874966357a4dcc74ece261718968012dfc9d9eeb9ea4"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2025-21
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/12280580
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=12280580
+  format: pdf
   citation: Report No. 2025-21
   title: Oregon Short Term Fund An Investment Pool of the State of Oregon For the Year Ended June 30,
     2025
@@ -3117,12 +3124,12 @@ sources:
   report_year: '2025'
   report_month: 09 - September
   recheck: annual
-  sha256: "db5488621bf089d433c98ba9eae76ed3e5275e870b49f9d9ea0e664601fba237"
+  sha256: "9878b77d79abdfc9f2afe3c987ea17cfa2ad3e6cd2d88857e018c5b506ece4c2"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2025-22
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/12280581
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=12280581
+  format: pdf
   citation: Report No. 2025-22
   title: Oregon Local Government Intermediate Fund An Investment Pool of the State of Oregon For the Year
     Ended June 30, 2025
@@ -3132,12 +3139,12 @@ sources:
   report_year: '2025'
   report_month: 09 - September
   recheck: annual
-  sha256: "92c34871ef17983b75f68c4e6e0738b35cc0cbe63f525b1340e917b6de94ffdf"
+  sha256: "76d65959a33d94324af8ceae000cbafce83d4f452945e82b5c5870df9cf2a88c"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2025-23
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/12280582
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=12280582
+  format: pdf
   citation: Report No. 2025-23
   title: Oregon Intermediate Term Pool An Investment Pool of the State of Oregon For the Year Ended June
     30, 2025
@@ -3147,12 +3154,12 @@ sources:
   report_year: '2025'
   report_month: 09 - September
   recheck: annual
-  sha256: "3519d6c519258eaee588144b539664669c2641927cae9b389e52a9ec17480fd7"
+  sha256: "6dc2703eff6c733e47ce5bef8dc37034aa985e3521d0fc68486b7812718d4ce3"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2025-24
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/12514798
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=12514798
+  format: pdf
   citation: Report No. 2025-24
   title: Veterans' Loan Program Annual Financial Report An Enterprise Fund of the Oregon Department of
     Veterans' Affairs For the Year Ending June 30, 2025
@@ -3162,12 +3169,12 @@ sources:
   report_year: '2025'
   report_month: 11 - November
   recheck: annual
-  sha256: "10d9f17db3d73f6fe074fdb6a322df66c3c9169d9867042b4ac5985d68487cfc"
+  sha256: "490ec659e4cb1399eb7ab6882781c002c870338080c151adf4ac3c9f88d71ba4"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2025-25
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/12721425
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=12721425
+  format: pdf
   citation: Report No. 2025-25
   title: For Years, BOLI’s Leadership Failed to Implement Key Management Principles to the Detriment of
     Oregon Workers
@@ -3177,12 +3184,12 @@ sources:
   report_year: '2025'
   report_month: 11 - November
   recheck: annual
-  sha256: "497ed62103035517868d8bf6a19509dd2d2df97d5c144a811df34765ecb498b3"
+  sha256: "1b9982b7c8e2d82d896d55d6ebbb3bedd65db0dbdd41a9c1df3afd2a5c508ee2"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2025-26
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/12732486
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=12732486
+  format: pdf
   citation: Report No. 2025-26
   title: Annual Financial Report Enterprise Funds For the Year Ended June 30, 2025
   doc_type: audit_report
@@ -3191,12 +3198,12 @@ sources:
   report_year: '2025'
   report_month: 11 - November
   recheck: annual
-  sha256: "40ac9b1538eb822e667278a3b2e06c1a1f9571f6c73ace5f819c5e8fe49e7424"
+  sha256: "8a5b5f7b88ff9cf4a19b3b1f2105812d2c66db60b9029867f8f9ca532cdaa314"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2025-27
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/12742419
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=12742419
+  format: pdf
   citation: Report No. 2025-27
   title: Annual Comprehensive Financial Report Enterprise Fund For the Year Ended June 30, 2025
   doc_type: audit_report
@@ -3205,12 +3212,12 @@ sources:
   report_year: '2025'
   report_month: 12 - December
   recheck: annual
-  sha256: "f8a8f449b37da044dc7b9ed80347db2193b0c86c85d92cc852077f859fdfab16"
+  sha256: "2f1491a8c9c068c8d6b13461663a0f8a24a9943866011e52ce363b053e8f072b"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2025-28
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/12742447
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=12742447
+  format: pdf
   citation: Report No. 2025-28
   title: Common School Fund Annual Financial Report For the Fiscal Year Ended June 30, 2025
   doc_type: audit_report
@@ -3219,12 +3226,12 @@ sources:
   report_year: '2025'
   report_month: 12 - December
   recheck: annual
-  sha256: "f1e29c79090ab055aacc60bdab7100673f608f3720db2b0a7bfd2853d3247a53"
+  sha256: "f7a273bff936a278d15198644d757ea0876c038048dda8d1275be3fbbac6fb11"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2025-29
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/13404575
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=13404575
+  format: pdf
   citation: Report No. 2025-29
   title: Measure 110 Lacks Stability, Coordination, and Clear Results
   doc_type: audit_report
@@ -3233,12 +3240,12 @@ sources:
   report_year: '2025'
   report_month: 12 - December
   recheck: annual
-  sha256: "09fdbb2c00f5d96dd8a2ac11b0e06dc8a16c8ab4984ecba71668a54cf4d01857"
+  sha256: "0c9c04cf0d4337d5dacfc176f82fbcc2b39b1c146a2df272025eedf7b77353df"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2025-30
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/13703091
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=13703091
+  format: pdf
   citation: Report No. 2025-30
   title: Annual Comprehensive Financial Report For the Fiscal Year Ended June 30, 2025, Contract Audit
   doc_type: audit_report
@@ -3247,12 +3254,12 @@ sources:
   report_year: '2025'
   report_month: 12 - December
   recheck: annual
-  sha256: "cac9e4ea9621b986b42c72a08559123f05b024604540e049c0d5219597d0f769"
+  sha256: "47c37cf953a896328239e7fe9530853e228516cadcd11f78b01ab52ee1c880bb"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2026-01
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/14778991
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=14778991
+  format: pdf
   citation: Report No. 2026-01
   title: Audit Plan for Performance Audits Fiscal Year 27
   doc_type: audit_report
@@ -3261,12 +3268,12 @@ sources:
   report_year: '2026'
   report_month: 01 - January
   recheck: annual
-  sha256: "c61647603418421dc74a7db6e8e8af58b12dbd0dc62e3f404a4038d338a735ae"
+  sha256: "1290204f756b36e388a986fa3901971992a459f21f01f3703e74a83a70a7caec"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2026-02
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/14852869
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=14852869
+  format: pdf
   citation: Report No. 2026-02
   title: Oregon Annual Comprehensive Financial Report For the Fiscal Year Ended June 30, 2025
   doc_type: audit_report
@@ -3275,12 +3282,12 @@ sources:
   report_year: '2026'
   report_month: 01 - January
   recheck: annual
-  sha256: "587e2fc35511f9fd3d2846285079238d5ce7ade1f5b1c6a42af185253cee5154"
+  sha256: "7ef146b0f26f1e524a6c8fe8e3121223642aab2f5b739d8c4053d9efc4fac22f"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2026-03
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/15019972
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=15019972
+  format: pdf
   citation: Report No. 2026-03
   title: State Government Waste Hotline Summary Report Calendar Year 2025
   doc_type: audit_report
@@ -3289,12 +3296,12 @@ sources:
   report_year: '2026'
   report_month: 02 - February
   recheck: annual
-  sha256: "a9186e66d67391b214d723a925fba61ab04477338096090fcef553ac93f05c34"
+  sha256: "f77292a3912a5ebcc14f80f9ae98f0d64c5a0741b923e915a666a6207620dcdf"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2026-04
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/15132149
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=15132149
+  format: pdf
   citation: Report No. 2026-04
   title: 'Oregon Municipalities: Summary of Financial Reporting Fiscal Year 2024'
   doc_type: audit_report
@@ -3303,12 +3310,12 @@ sources:
   report_year: '2026'
   report_month: 02 - February
   recheck: annual
-  sha256: "64cbe62dbd477ba2faf91e46b038d9a5d2bdbc8e0f5651eb6d994d767afa4960"
+  sha256: "6987edb2c44d20acae20ff1b898cd66cf24abc18f2e324b03dc3ed3dcbae6995"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2026-05
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/15284293
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=15284293
+  format: pdf
   citation: Report No. 2026-05
   title: Small Scale Energy Loan Program For the Year Ended June 30, 2025
   doc_type: audit_report
@@ -3317,12 +3324,12 @@ sources:
   report_year: '2026'
   report_month: 03 - March
   recheck: annual
-  sha256: "c7b700be301f2a558b94347e96bad5cf3279c3fc2c63087900a741e83d1acf15"
+  sha256: "b263455dff1ad18b82772274fe5e3d3e6d812bda41f783f9764eeb1b02b177b8"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2026-06
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/15493045
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=15493045
+  format: pdf
   citation: Report No. 2026-06
   title: Cybersecurity Controls Audit
   doc_type: audit_report
@@ -3331,12 +3338,12 @@ sources:
   report_year: '2026'
   report_month: 03 - March
   recheck: annual
-  sha256: "dc50cc2425232fa11b61317117ffb995c9d0725d51818f84b20598e4e31c01c3"
+  sha256: "b42c8be5bad2b74afc90030c463c5cad07bf2e88bb3dcba71fd9fd79d5e06cde"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2026-07
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/15493046
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=15493046
+  format: pdf
   citation: Report No. 2026-07
   title: Audit of Pension Schedule of Employer Allocations and Pension Amounts by Employer for the Year
     Ended June 30, 2025
@@ -3346,12 +3353,12 @@ sources:
   report_year: '2026'
   report_month: 03 - March
   recheck: annual
-  sha256: "57f8647638d52870bcde97fe3dd9a156bcacafab1fc09de6f88b82d6d708bea5"
+  sha256: "8647efaa4b1f834ea387217148611baddc4b4c43a9f3151c8534cf28f5137cd9"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2026-08
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/15493047
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=15493047
+  format: pdf
   citation: Report No. 2026-08
   title: Audit of RHIPA Schedule of OPEB Amounts for the Year Ended June 30, 2025
   doc_type: audit_report
@@ -3360,12 +3367,12 @@ sources:
   report_year: '2026'
   report_month: 03 - March
   recheck: annual
-  sha256: "355ecd01f3464e60b238175bf07958d49fbead32e934f3c91c0b5d100ee1f6da"
+  sha256: "81d1003ec5b3268879527529d0cf09a49a3bcb1f7dbed7027878665894e06608"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2026-09
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/15493048
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=15493048
+  format: pdf
   citation: Report No. 2026-09
   title: Audit of RHIA Schedule of Employer Allocations and OPEB Amounts by Employer for the Year Ended
     June 30, 2025
@@ -3375,12 +3382,12 @@ sources:
   report_year: '2026'
   report_month: 03 - March
   recheck: annual
-  sha256: "521e956a26cc7f02ad045c9355457ad72c0f2f2167f6152ce22b56d9eae45136"
+  sha256: "3e62b6f8bbaab6e5b5282a8e95e3aae7479d1272e34c270c976b3a1b08621aed"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2026-10
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/15531589
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=15531589
+  format: pdf
   citation: Report No. 2026-10
   title: Statewide Single Audit for Fiscal Year 2025
   doc_type: audit_report
@@ -3389,12 +3396,12 @@ sources:
   report_year: '2026'
   report_month: 03 - March
   recheck: annual
-  sha256: "b85011c81b24a8896a16f01d249bb35b6321ae062dd0c9a53ab94554268935a8"
+  sha256: "b7f7b5677b2a82b0c1d3c92b54bc5cbb31f69b10e9030f6dae9dd4369da61271"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2026-11
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/15536272
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=15536272
+  format: pdf
   citation: Report No. 2026-11
   title: Inadequate Safety Inspections and Poor Asset Tracking Increase Risk to Public Safety and Property
   doc_type: audit_report
@@ -3403,12 +3410,12 @@ sources:
   report_year: '2026'
   report_month: 03 - March
   recheck: annual
-  sha256: "c53645d1091fe33fde76b12358840966ff535c947dcdf8a832107fb1801a12b0"
+  sha256: "8c5fe92f91b0bf8269f6b68b0695a746cd54ec1fbc5081a4523416f1a11bd2da"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2026-12
-  url: https://records.sos.state.or.us/ORSOSWebDrawer/Record/15591093
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=15591093
+  format: pdf
   citation: Report No. 2026-12
   title: Special Public Works Fund and Water Fund Enterprise Funds For the Year Ended June 30, 2025
   doc_type: audit_report
@@ -3417,12 +3424,12 @@ sources:
   report_year: '2026'
   report_month: 04 - April
   recheck: annual
-  sha256: "bfede27fee59334b1f94e843758fe1f596ca508bdfacfec3e083db4024eb98f9"
+  sha256: "2492c03b544d396130009fa08768107d71b17e2fd42c424f56a947c108a7bfc0"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2026-13
-  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/RecordViewer.aspx?uri=15593487
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=15593487
+  format: pdf
   citation: Report No. 2026-13
   title: Oregon Health Insurance Marketplace Financial Statements For the Fiscal Year Ended June 30, 2025
   doc_type: audit_report
@@ -3431,12 +3438,12 @@ sources:
   report_year: '2026'
   report_month: 04 - April
   recheck: annual
-  sha256: "23a08597371083c4d0c05dd639b2432792e213c228fc6a8ce3479094e4f7db1f"
+  sha256: "5222d3e27c42b76b6222e7f8e1d98a4a590a3fd6ce942ff84b98110d7028032b"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2026-14
-  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/RecordViewer.aspx?uri=15593511
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=15593511
+  format: pdf
   citation: Report No. 2026-14
   title: Oregon Health Insurance Marketplace Fiscal Year 2025 Compliance
   doc_type: audit_report
@@ -3445,12 +3452,12 @@ sources:
   report_year: '2026'
   report_month: 04 - April
   recheck: annual
-  sha256: "1f0141e6ed8dbf4e41a19419f6637068211375a748260814c55501be5ac3d880"
+  sha256: "463d768598dbe5d8c222d8dfcf3d2ed214f02e7456f967c3ab8b68f652a97608"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2026-15
-  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/RecordViewer.aspx?uri=15833541
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=15833541
+  format: pdf
   citation: Report No. 2026-15
   title: Cybersecurity Controls Audit
   doc_type: audit_report
@@ -3459,12 +3466,12 @@ sources:
   report_year: '2026'
   report_month: 05 - May
   recheck: annual
-  sha256: "77d6147bf761def4769000b6194c712dc43e66582b3e8c33e789dc2926e47f27"
+  sha256: "723e81a89bd464a631929e7f96683a816a9948c46cf40b05a5507ea88e3086d5"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2026-16
-  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/RecordViewer.aspx?uri=16118172
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=16118172
+  format: pdf
   citation: Report No. 2026-16
   title: Keeping Oregon Accountable Fiscal Year 2025
   doc_type: audit_report
@@ -3473,12 +3480,12 @@ sources:
   report_year: '2026'
   report_month: 05 - May
   recheck: annual
-  sha256: "0ccb2279c50cf43bc2770233a418ec5285c48cb0e8f4243fb9587c776f6aae35"
+  sha256: "91fb5ece9cf2adac46d9d07d4d92af322c33217741e909528652b568e0e1ec46"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2026-17
-  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/RecordViewer.aspx?uri=16127661
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=16127661
+  format: pdf
   citation: Report No. 2026-17
   title: Clean Water State Revolving Fund Loan Program Enterprise Fund of the State of Oregon Fiscal Year
     Ended June 30, 2025
@@ -3488,12 +3495,12 @@ sources:
   report_year: '2026'
   report_month: 06 - June
   recheck: annual
-  sha256: "e4694f13aa79bc99b1546e950ddc53ddee78826accaecaea1c58b3e5ecb9ed00"
+  sha256: "e7abd79bf193ca1514e610511ef8024f99918d04c30e754721ae796d2910efd3"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2026-18
-  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/RecordViewer.aspx?uri=16163545
-  format: html
+  url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=16163545
+  format: pdf
   citation: Report No. 2026-18
   title: High School Graduation and College and Career Readiness Fund For Biennium Ended June 30, 2025
   doc_type: audit_report
@@ -3502,12 +3509,12 @@ sources:
   report_year: '2026'
   report_month: 06 - June
   recheck: annual
-  sha256: "7f35a2b9696649d1e96b07d671d3f71b3ebb7fe78c55ca1f54226588bb7d8099"
+  sha256: "dc8ba9a5e2f7bde34b337da98eae1780d4e3c4f1a0845ddad4770e4c82aaa113"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2026-19
   url: https://sos.oregon.gov/audits/Documents/2026-19.pdf
-  format: html
+  format: pdf
   citation: Report No. 2026-19
   title: Crumbling Facilities, Staffing Shortages, and Obsolete IT Systems Undermine Prison Safety and
     Reform Efforts
@@ -3522,7 +3529,7 @@ sources:
   references_out: []
 - id: 2026-20
   url: https://sos.oregon.gov/audits/Documents/2026-20.pdf
-  format: html
+  format: pdf
   citation: Report No. 2026-20
   title: Youth and Adults in Close-Custody Correctional Facilities Need Better Language Supports
   doc_type: audit_report
@@ -3531,12 +3538,12 @@ sources:
   report_year: '2026'
   report_month: 07 - July
   recheck: annual
-  sha256: "0adafd1e674112f9cd95f4ef27b6349387bc9f562067ca893233c004e75dc126"
+  sha256: "5340a94c297ff787f8ec76824446df30776621b612458e7fdd6bf440345c1359"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2026-21
   url: https://sos.oregon.gov/audits/Documents/2026-21.pdf
-  format: html
+  format: pdf
   citation: Report No. 2026-21
   title: Financial Statements and Supplementary Schedules as of and for the Years Ended December 31, 2025
     and 2024, and Report of Independent Auditors, Contract Audit, GAAP Basis
@@ -3551,7 +3558,7 @@ sources:
   references_out: []
 - id: 2026-22
   url: https://sos.oregon.gov/audits/Documents/2026-22.pdf
-  format: html
+  format: pdf
   citation: Report No. 2026-22
   title: Financial Statements – Statutory Basis as of and for the Years Ended December 31, 2025 and 2024,
     Supplementary Schedules as of December 31, 2025, and Report of Independent Auditors, Contract Audit

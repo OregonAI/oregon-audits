@@ -239,13 +239,22 @@ _CROSSWALK: dict | None = None
 
 
 def registry_link(audited_agency: str | None) -> dict:
-    """The two agency-registry fields for a mapped agency, {} otherwise.
+    """The agency-registry fields for a mapped agency, {} otherwise.
 
     Read from `_meta/agency-crosswalk.yml`, which is curated and validated separately by
     src/link_agency_registry.py. An unmapped agency gets NO fields, not empty ones: the
     absence is a decision recorded next door in the crosswalk's `unmapped` with a reason.
     The 242 documents that predate the crosswalk were backfilled once with
     `link_agency_registry.py --stamp`, whose --check keeps stamps and crosswalk agreeing.
+
+    `agency_registry_basis` (oregon-audits#23) carries the SAME distinction the crosswalk
+    itself is built to preserve -- `exact` (a mechanical name match) versus `alias` or
+    `successor` (a human asserted an identity the names do not state). This is the other
+    of the two places that stamp it: a fix confined to link_agency_registry.py --stamp
+    would leave the very next newly ingested report missing it again. Review metadata
+    (`reviewed_by`/`reviewed_on`) is carried only when the entry has it -- an entry with
+    no reviewer asserts nothing about one, and a fabricated field would misread as
+    "reviewed, by nobody" rather than "not reviewed".
     """
     global _CROSSWALK
     if _CROSSWALK is None:
@@ -255,8 +264,13 @@ def registry_link(audited_agency: str | None) -> dict:
     entry = _CROSSWALK.get(audited_agency or "")
     if not isinstance(entry, dict) or not entry.get("slug"):
         return {}
-    return {"agency_registry_slug": entry["slug"],
-            "agency_registry_corpus": "executive-regulatory-frameworks"}
+    fields = {"agency_registry_slug": entry["slug"],
+              "agency_registry_corpus": "executive-regulatory-frameworks",
+              "agency_registry_basis": entry.get("basis")}
+    for field in ("reviewed_by", "reviewed_on"):
+        if entry.get(field) is not None:
+            fields[f"agency_registry_{field}"] = entry[field]
+    return fields
 
 
 def build_document(src: dict, text: str, sha: str, report_date: str) -> str:

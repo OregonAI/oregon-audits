@@ -23,10 +23,11 @@ ingest introduces a 41st spelling, --check fails with an unclassified key, which
 correct pressure: classify it, don't normalise it away.
 
 --stamp EXISTS BECAUSE THE DOCUMENTS PREDATE THE CROSSWALK. ingest_audits.py now stamps
-`agency_registry_slug`/`agency_registry_corpus` at build time for new reports, but the 242
-committed documents were built before the crosswalk existed and re-ingesting them would
-re-stamp `retrieved` dates nothing else changed. --stamp inserts (or corrects) exactly the
-two registry lines in place and touches nothing else. Idempotent; a second run is a no-op.
+`agency_registry_slug`/`agency_registry_corpus`/`agency_registry_basis` (and review
+metadata where the entry has it) at build time for new reports, but the 242 committed
+documents were built before the crosswalk existed and re-ingesting them would re-stamp
+`retrieved` dates nothing else changed. --stamp inserts (or corrects) exactly those
+registry lines in place and touches nothing else. Idempotent; a second run is a no-op.
 
 CI MUST NOT NEED ERF. `--check` validates only what is committed here: every
 audited_agency in reports/ is accounted for, nothing is both mapped and unmapped, every
@@ -61,7 +62,8 @@ REGISTRY_CANDIDATES = [
 
 BASES = {"exact", "alias", "successor", "manual"}
 
-STAMP_RE = re.compile(r"^agency_registry_(slug|corpus): .*\n", re.M)
+STAMP_RE = re.compile(
+    r"^agency_registry_(slug|corpus|basis|reviewed_by|reviewed_on): .*\n", re.M)
 
 
 def frontmatter(path: Path) -> dict:
@@ -136,15 +138,31 @@ def verify_exact_basis(cw: dict, oar_names: dict[str, str]) -> list[str]:
 
 
 def stamp_state(mapping: dict) -> tuple[int, int]:
-    """(documents whose agency is mapped, of those, how many carry the correct stamp)."""
+    """(documents whose agency is mapped, of those, how many carry the correct stamp).
+
+    "Correct" now includes `agency_registry_basis` -- the whole point of #23 is that a
+    slug alone cannot tell a mechanical `exact` match from a human-asserted `alias` or
+    `successor`, so a document whose basis has drifted from the crosswalk (edited there,
+    never re-stamped) must count exactly as unstamped as one with a stale slug. Review
+    metadata (`reviewed_by`/`reviewed_on`) is checked only when the crosswalk entry
+    carries it -- an entry with no reviewer asserts nothing about one, so a document
+    correctly has no such fields either.
+    """
     want = stamped = 0
     for p in sorted(REPORTS.glob("*.md")):
         fm = frontmatter(p)
         entry = mapping.get(fm.get("audited_agency") or "")
         if entry:
             want += 1
-            stamped += (fm.get("agency_registry_slug") == entry.get("slug")
-                        and fm.get("agency_registry_corpus") == REGISTRY_CORPUS)
+            ok = (fm.get("agency_registry_slug") == entry.get("slug")
+                  and fm.get("agency_registry_corpus") == REGISTRY_CORPUS
+                  and fm.get("agency_registry_basis") == entry.get("basis"))
+            for field in ("reviewed_by", "reviewed_on"):
+                if entry.get(field) is not None:
+                    ok = ok and fm.get(f"agency_registry_{field}") == entry.get(field)
+                else:
+                    ok = ok and f"agency_registry_{field}" not in fm
+            stamped += ok
     return want, stamped
 
 
@@ -206,7 +224,7 @@ def verify_registry(cw: dict, slugs: set[str]) -> list[str]:
 
 
 def stamp(mapping: dict) -> tuple[int, int]:
-    """Insert or correct the two registry lines in each mapped document. Returns
+    """Insert or correct the registry lines in each mapped document. Returns
     (documents examined, documents changed). Touches nothing else in the file."""
     examined = changed = 0
     for p in sorted(REPORTS.glob("*.md")):
@@ -220,8 +238,20 @@ def stamp(mapping: dict) -> tuple[int, int]:
             continue
         examined += 1
         head = STAMP_RE.sub("", parts[1])  # drop any existing stamp, then re-insert
-        want = (f"agency_registry_slug: {entry['slug']}\n"
-                f"agency_registry_corpus: {REGISTRY_CORPUS}\n")
+        stamp_fields = {"agency_registry_slug": entry["slug"],
+                        "agency_registry_corpus": REGISTRY_CORPUS,
+                        "agency_registry_basis": entry.get("basis")}
+        # Review metadata is carried ONLY where the crosswalk entry has it. An entry with
+        # no reviewer (e.g. the Mortuary and Cemetery Board alias, whose note stands on
+        # its own) asserts nothing about one, and a fabricated placeholder would misread
+        # as "reviewed, by nobody" rather than "not reviewed" -- the same distinction
+        # AGENTS.md draws for last_verified/verified_by.
+        for field in ("reviewed_by", "reviewed_on"):
+            if entry.get(field) is not None:
+                stamp_fields[f"agency_registry_{field}"] = entry[field]
+        # yaml.safe_dump, not an f-string, because a reviewer handle like '@morficflux'
+        # is a YAML indicator character that an unquoted plain scalar cannot start with.
+        want = yaml.safe_dump(stamp_fields, default_flow_style=False, sort_keys=False)
         # After the audited_agency line, so the link sits beside the name it interprets.
         anchor = re.compile(r"^(audited_agency: .*\n)", re.M)
         if not anchor.search(head):

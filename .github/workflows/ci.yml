@@ -92,6 +92,13 @@ jobs:
       # key, an empty period text, a response field that contradicts the body in either
       # direction, an invalid response value, free prose in At a glance, a fabricated
       # quotation, and an empty corpus.
+      # The pure-function unit tests in tests/ -- stamp()/stamp_state()/registry_fields()
+      # in link_agency_registry.py, registry_link() in ingest_audits.py -- run against
+      # monkeypatched scratch fixtures, never the committed reports/. Without this step
+      # they are red-green evidence on one machine only: the suite passing locally would
+      # not stop the very next edit to either file from silently breaking stamp_state.
+      - name: Unit tests
+        run: python3 -m pytest tests/ -q
       - name: Finding-is-not-a-fact guardrails
         run: python3 src/check_guardrails.py
       # Committed-data only, like the KPM original: every audited_agency is classified

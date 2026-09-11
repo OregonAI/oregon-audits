@@ -47,6 +47,7 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(REPO_ROOT / "src"))
 
 from corpus_toolkit.repo import hash_snapshot           # noqa: E402
+import link_agency_registry as _lar                     # noqa: E402
 
 MANIFEST = REPO_ROOT / "_meta" / "source-manifest.yml"
 SNAPSHOTS = REPO_ROOT / "_meta" / "snapshots"
@@ -239,13 +240,21 @@ _CROSSWALK: dict | None = None
 
 
 def registry_link(audited_agency: str | None) -> dict:
-    """The two agency-registry fields for a mapped agency, {} otherwise.
+    """The agency-registry fields for a mapped agency, {} otherwise.
 
     Read from `_meta/agency-crosswalk.yml`, which is curated and validated separately by
     src/link_agency_registry.py. An unmapped agency gets NO fields, not empty ones: the
     absence is a decision recorded next door in the crosswalk's `unmapped` with a reason.
     The 242 documents that predate the crosswalk were backfilled once with
     `link_agency_registry.py --stamp`, whose --check keeps stamps and crosswalk agreeing.
+
+    `agency_registry_basis` (oregon-audits#23) carries the SAME distinction the crosswalk
+    itself is built to preserve -- `exact` (a mechanical name match) versus `alias` or
+    `successor` (a human asserted an identity the names do not state). This is the other
+    of the two places that stamp it: a fix confined to link_agency_registry.py --stamp
+    would leave the very next newly ingested report missing it again. The field SET is
+    not re-spelled here -- `link_agency_registry.registry_fields()` is the one place that
+    shape is defined, so this and --stamp cannot drift apart on what "stamped" means.
     """
     global _CROSSWALK
     if _CROSSWALK is None:
@@ -255,8 +264,7 @@ def registry_link(audited_agency: str | None) -> dict:
     entry = _CROSSWALK.get(audited_agency or "")
     if not isinstance(entry, dict) or not entry.get("slug"):
         return {}
-    return {"agency_registry_slug": entry["slug"],
-            "agency_registry_corpus": "executive-regulatory-frameworks"}
+    return _lar.registry_fields(entry)
 
 
 def build_document(src: dict, text: str, sha: str, report_date: str) -> str:

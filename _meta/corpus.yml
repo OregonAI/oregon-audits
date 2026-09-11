@@ -160,6 +160,16 @@ mcp:
     # absence is a decision with a stated reason in the crosswalk, never a blank.
     - agency_registry_slug
     - agency_registry_corpus
+    # HOW the join above was made (oregon-audits#23): `exact` (a mechanical name match)
+    # versus `alias`/`successor` (a human asserted an identity the names do not state).
+    # Without this line the stamp is enforced by --check and then dropped by the toolkit
+    # like every field above it once was — validated, parsed, and unreachable by
+    # agency_profile or any other caller. reviewed_by/_on ride along: the toolkit skips a
+    # declared key a document lacks, so declaring them is harmless on the 194 documents
+    # (of 223 stamped) whose crosswalk entry carries no reviewer.
+    - agency_registry_basis
+    - agency_registry_reviewed_by
+    - agency_registry_reviewed_on
 
 status:
   # WHAT RE-VERIFICATION MEANS HERE IS NOT WHAT IT MEANS ELSEWHERE.

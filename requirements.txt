@@ -18,3 +18,9 @@ pyyaml
 # oregon-records-retention uses, so the page-furniture stripping is shared behaviour
 # rather than a second implementation.
 pypdf
+# tests/ -- unit tests for the pure functions in src/ (link_agency_registry.py's
+# stamp()/stamp_state()/registry_fields(), ingest_audits.py's registry_link()). Installed
+# here, not a separate dev-requirements file, so `pip install -r requirements.txt` in the
+# `generated` CI job is enough to run them: a test suite pytest can't import is a suite
+# that only ever ran on whoever's machine wrote it.
+pytest

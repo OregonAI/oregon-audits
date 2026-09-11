@@ -87,6 +87,47 @@ def test_stamp_writes_no_review_fields_when_the_entry_carries_none(reports_dir):
     assert "agency_registry_reviewed_on" not in fm
 
 
+def test_check_fails_when_a_document_carries_review_fields_the_entry_no_longer_has(reports_dir):
+    """The mirror image of the drift test above, on the other branch of the review-metadata
+    check: a document still carrying agency_registry_reviewed_by/_on after a reviewer was
+    removed from the crosswalk entry (the Mortuary and Cemetery Board alias has none) must
+    not count as correctly stamped. Deleting the `else` branch in stamp_state()'s review
+    loop leaves this red where it would otherwise stay green."""
+    p = write_doc(reports_dir, "2024-02", "Mortuary and Cemetery Board, State")
+    text = p.read_text(encoding="utf-8")
+    stamped = text.replace(
+        "audited_agency: Mortuary and Cemetery Board, State\n",
+        "audited_agency: Mortuary and Cemetery Board, State\n"
+        "agency_registry_slug: mortuary-and-cemetery-board\n"
+        "agency_registry_corpus: executive-regulatory-frameworks\n"
+        "agency_registry_basis: alias\n"
+        "agency_registry_reviewed_by: '@someone-later-removed'\n",
+    )
+    p.write_text(stamped, encoding="utf-8")
+
+    want, stamped_count = lar.stamp_state(MAPPING)
+    assert (want, stamped_count) == (1, 0), (
+        "a document carrying review fields an entry no longer has must not count as "
+        "correctly stamped"
+    )
+
+
+def test_stamp_and_stamp_state_ignore_a_document_whose_agency_is_unmapped(reports_dir):
+    """The issue's most emphatic out-of-scope rule: an audited_agency absent from the
+    crosswalk's mapping (an `unmapped` decision, or simply unclassified in this scratch
+    fixture) gets NO stamp at all, and stamp() must leave such a document byte-identical."""
+    p = write_doc(reports_dir, "2024-03", "Some Agency Nobody Has Classified")
+    before = p.read_text(encoding="utf-8")
+
+    examined, changed = lar.stamp(MAPPING)
+    assert examined == 0
+    assert changed == 0
+    assert p.read_text(encoding="utf-8") == before
+
+    want, stamped_count = lar.stamp_state(MAPPING)
+    assert (want, stamped_count) == (0, 0)
+
+
 def test_check_fails_when_a_stamped_documents_basis_has_drifted(reports_dir):
     """The failure #23 exists to prevent: the crosswalk's basis for an agency changes (or
     was never stamped) but the document still carries the old slug -- exactly matching --

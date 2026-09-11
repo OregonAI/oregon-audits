@@ -62,8 +62,42 @@ REGISTRY_CANDIDATES = [
 
 BASES = {"exact", "alias", "successor", "manual"}
 
+# The one place the stamped field set is spelled out. STAMP_RE, stamp()'s writer and
+# stamp_state()'s verifier, and ingest_audits.registry_link() (the OTHER writer, for
+# newly-ingested reports) all derive from REVIEW_FIELDS and registry_fields() below --
+# a field added here is added everywhere at once, `_meta/corpus.yml`'s MCP allowlist
+# excepted (that side is data, not code, and has no seam to derive from).
+REVIEW_FIELDS = ("reviewed_by", "reviewed_on")
+STAMP_KEYS = ("slug", "corpus", "basis") + REVIEW_FIELDS
+
 STAMP_RE = re.compile(
-    r"^agency_registry_(slug|corpus|basis|reviewed_by|reviewed_on): .*\n", re.M)
+    r"^agency_registry_(" + "|".join(STAMP_KEYS) + r"): .*\n", re.M)
+
+
+def registry_fields(entry: dict) -> dict:
+    """The `agency_registry_*` fields one crosswalk entry stamps into frontmatter.
+
+    `agency_registry_slug`/`_corpus` are unconditional -- a mapped entry always has a
+    slug, `check()` enforces it. `agency_registry_basis` is stamped only when the entry
+    actually carries one (an entry missing `basis` fails `check()` separately; this just
+    stops a null from ever reaching frontmatter as agency_registry_basis: null, which
+    would misread as a recorded "no basis" rather than an invalid entry). Review metadata
+    is carried ONLY where the entry has it -- an entry with no reviewer (e.g. the Mortuary
+    and Cemetery Board alias, whose note stands on its own) asserts nothing about one, and
+    a fabricated placeholder would misread as "reviewed, by nobody" rather than "not
+    reviewed" -- the same distinction AGENTS.md draws for last_verified/verified_by.
+
+    The single seam both writers (this file's stamp() and ingest_audits.registry_link())
+    and both verifiers (stamp_state() and this function's own callers) share, so a field
+    added here needs no matching edit anywhere else in code.
+    """
+    fields = {"agency_registry_slug": entry["slug"], "agency_registry_corpus": REGISTRY_CORPUS}
+    if entry.get("basis"):
+        fields["agency_registry_basis"] = entry["basis"]
+    for field in REVIEW_FIELDS:
+        if entry.get(field) is not None:
+            fields[f"agency_registry_{field}"] = entry[field]
+    return fields
 
 
 def frontmatter(path: Path) -> dict:
@@ -149,19 +183,20 @@ def stamp_state(mapping: dict) -> tuple[int, int]:
     correctly has no such fields either.
     """
     want = stamped = 0
+    fm_keys = [f"agency_registry_{k}" for k in STAMP_KEYS]
     for p in sorted(REPORTS.glob("*.md")):
         fm = frontmatter(p)
         entry = mapping.get(fm.get("audited_agency") or "")
         if entry:
             want += 1
-            ok = (fm.get("agency_registry_slug") == entry.get("slug")
-                  and fm.get("agency_registry_corpus") == REGISTRY_CORPUS
-                  and fm.get("agency_registry_basis") == entry.get("basis"))
-            for field in ("reviewed_by", "reviewed_on"):
-                if entry.get(field) is not None:
-                    ok = ok and fm.get(f"agency_registry_{field}") == entry.get(field)
-                else:
-                    ok = ok and f"agency_registry_{field}" not in fm
+            expected = registry_fields(entry)
+            # Every expected field present with the right value, AND no stamp key present
+            # that expected does not call for -- the general form of "a document still
+            # carrying agency_registry_reviewed_by after a reviewer was removed from the
+            # entry must not count as correctly stamped", now true of every field in
+            # STAMP_KEYS (basis included) rather than spelled out per field.
+            ok = all(fm.get(k) == v for k, v in expected.items())
+            ok = ok and all(k in expected or k not in fm for k in fm_keys)
             stamped += ok
     return want, stamped
 
@@ -238,17 +273,7 @@ def stamp(mapping: dict) -> tuple[int, int]:
             continue
         examined += 1
         head = STAMP_RE.sub("", parts[1])  # drop any existing stamp, then re-insert
-        stamp_fields = {"agency_registry_slug": entry["slug"],
-                        "agency_registry_corpus": REGISTRY_CORPUS,
-                        "agency_registry_basis": entry.get("basis")}
-        # Review metadata is carried ONLY where the crosswalk entry has it. An entry with
-        # no reviewer (e.g. the Mortuary and Cemetery Board alias, whose note stands on
-        # its own) asserts nothing about one, and a fabricated placeholder would misread
-        # as "reviewed, by nobody" rather than "not reviewed" -- the same distinction
-        # AGENTS.md draws for last_verified/verified_by.
-        for field in ("reviewed_by", "reviewed_on"):
-            if entry.get(field) is not None:
-                stamp_fields[f"agency_registry_{field}"] = entry[field]
+        stamp_fields = registry_fields(entry)
         # yaml.safe_dump, not an f-string, because a reviewer handle like '@morficflux'
         # is a YAML indicator character that an unquoted plain scalar cannot start with.
         want = yaml.safe_dump(stamp_fields, default_flow_style=False, sort_keys=False)

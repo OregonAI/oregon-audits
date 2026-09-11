@@ -47,6 +47,7 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(REPO_ROOT / "src"))
 
 from corpus_toolkit.repo import hash_snapshot           # noqa: E402
+import link_agency_registry as _lar                     # noqa: E402
 
 MANIFEST = REPO_ROOT / "_meta" / "source-manifest.yml"
 SNAPSHOTS = REPO_ROOT / "_meta" / "snapshots"
@@ -251,10 +252,9 @@ def registry_link(audited_agency: str | None) -> dict:
     itself is built to preserve -- `exact` (a mechanical name match) versus `alias` or
     `successor` (a human asserted an identity the names do not state). This is the other
     of the two places that stamp it: a fix confined to link_agency_registry.py --stamp
-    would leave the very next newly ingested report missing it again. Review metadata
-    (`reviewed_by`/`reviewed_on`) is carried only when the entry has it -- an entry with
-    no reviewer asserts nothing about one, and a fabricated field would misread as
-    "reviewed, by nobody" rather than "not reviewed".
+    would leave the very next newly ingested report missing it again. The field SET is
+    not re-spelled here -- `link_agency_registry.registry_fields()` is the one place that
+    shape is defined, so this and --stamp cannot drift apart on what "stamped" means.
     """
     global _CROSSWALK
     if _CROSSWALK is None:
@@ -264,13 +264,7 @@ def registry_link(audited_agency: str | None) -> dict:
     entry = _CROSSWALK.get(audited_agency or "")
     if not isinstance(entry, dict) or not entry.get("slug"):
         return {}
-    fields = {"agency_registry_slug": entry["slug"],
-              "agency_registry_corpus": "executive-regulatory-frameworks",
-              "agency_registry_basis": entry.get("basis")}
-    for field in ("reviewed_by", "reviewed_on"):
-        if entry.get(field) is not None:
-            fields[f"agency_registry_{field}"] = entry[field]
-    return fields
+    return _lar.registry_fields(entry)
 
 
 def build_document(src: dict, text: str, sha: str, report_date: str) -> str:

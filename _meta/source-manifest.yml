@@ -6,10 +6,14 @@ note: "Every upstream source this corpus consumes. Human-approved via PR BEFORE 
   \ bytes are\n   never stable. Compare the extracted RECORD SET, never the page.\n2. hrefs inside Additional_x0020_Documents\
   \ are entity-escaped (`https&#58;//`).\n   Unescape them or every URL 404s in a way that looks exactly\
   \ like link rot.\n3. Report numbers are NOT dense. A gap can be a withdrawal under GAGAS 3.34 — one\n\
-  \   really is — so every gap is listed below with a reason rather than skipped.\n4. `format: pdf` is\
-  \ deliberate (2026-09-05, #47): the sources point at DocumentStream.ashx, which serves the PDF\n\
-  \   itself. The Recordhtml / RecordViewer.aspx pages are a pdf.js viewer shell with per-request\n\
-  \   tokens; hashing them is what made 191 sources report changed every run. Never point a source at them.\n"
+  \   really is — so every gap is listed below with a reason rather than skipped.\n4. `url` is what is\
+  \ fetched and `source_url` is what a document cites (#47, #59).\n   The list links ORMS records through\
+  \ viewer pages (Recordhtml, Record,\n   RecordViewer.aspx) that are now a pdf.js shell with per-request\
+  \ tokens; hashing\n   them made 191 sources report changed every run. `url` is the same record's\n \
+  \  DocumentStream.ashx, which serves the PDF itself, so `format: pdf`. `source_url`\n   keeps the list's\
+  \ link verbatim and is present only where the two differ.\n5. `sha256` is the drift job's baseline,\
+  \ carried across a re-run by `url` and never\n   computed here. A source whose `url` changes starts\
+  \ unseeded.\n"
 index: https://sos.oregon.gov/audits/pages/state-audits.aspx
 list_api: https://sos.oregon.gov/audits/_api/web/lists/getbytitle('Audit%20Search')/items?$top=500
 recheck: annual
@@ -34,15 +38,10 @@ anomalies:
   Should Improve Child Safety by St'')'
 - '2020-05: appears on more than one list row ("Using the U.S. Treasury''s Do Not Pay Sys" / "Using the
   U.S. Treasury''s Do Not Pay Sys")'
-# URL SHAPE (2026-09-05, oregon-audits#47): the SOS records system (ORMS) turned its WebDrawer
-# Recordhtml/<id> and CMSearch RecordViewer.aspx?uri=<id> pages into a pdf.js viewer shell whose
-# bytes carry per-request ASP.NET tokens, so 191 of 244 sources 'changed' on every drift run.
-# The record's bytes are served by ORSOSCMSearch/Search/DocumentStream.ashx?uri=<id> (the same
-# id for both shapes). Sources point at the stream as format: pdf, so the detector hashes the
-# report, not the page around it. Documents keep the record page as their human-facing source_url.
 sources:
 - id: 2020-01
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7132832
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7132832
   format: pdf
   citation: Report No. 2020-01
   title: Oregon's Child Welfare Information System Is Adequate for Case Management, but Enhancements Are
@@ -58,6 +57,7 @@ sources:
   references_out: []
 - id: 2020-02
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7132927
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7132927
   format: pdf
   citation: Report No. 2020-02
   title: 2020-21 Audit Plan
@@ -72,6 +72,7 @@ sources:
   references_out: []
 - id: 2020-03
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7182519
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7182519
   format: pdf
   citation: Report No. 2020-03
   title: Travel Oregon Should Strengthen Controls over Contracting and Improve Accountability of Compensation
@@ -87,6 +88,7 @@ sources:
   references_out: []
 - id: 2020-04
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7182520
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7182520
   format: pdf
   citation: Report No. 2020-04
   title: Oregon Health Insurance Marketplace Fiscal Year 2019 Compliance
@@ -101,6 +103,7 @@ sources:
   references_out: []
 - id: 2020-05
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7182524
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7182524
   format: pdf
   citation: Report No. 2020-05
   title: Using the U.S. Treasury's Do Not Pay System for Health and Human Services Programs Will Save
@@ -116,6 +119,7 @@ sources:
   references_out: []
 - id: 2020-06
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7182525
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7182525
   format: pdf
   citation: Report No. 2020-06
   title: Oregon Health Insurance Marketplace Financial Statements For the Fiscal Year Ended June 30, 2019
@@ -130,6 +134,7 @@ sources:
   references_out: []
 - id: 2020-07
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7182849
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7182849
   format: pdf
   citation: Report No. 2020-07
   title: 'Oregon Municipal Corporations: Summary of Fiscal Year 2018 Financial Reporting'
@@ -144,6 +149,7 @@ sources:
   references_out: []
 - id: 2020-08
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7182850
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7182850
   format: pdf
   citation: Report No. 2020-08
   title: Audit of Pension Schedule of Employer Allocations and Pension Amounts by Employer for the Year
@@ -159,6 +165,7 @@ sources:
   references_out: []
 - id: 2020-09
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7182851
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7182851
   format: pdf
   citation: Report No. 2020-09
   title: Audit of RHIPA Schedule of OPEB Amounts for the Year Ended June 30, 2019, Contract Audit
@@ -173,6 +180,7 @@ sources:
   references_out: []
 - id: 2020-10
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7182852
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7182852
   format: pdf
   citation: Report No. 2020-10
   title: Audit of RHIA Schedule of Employer Allocations and OPEB Amounts by Employer for the Year Ended
@@ -188,6 +196,7 @@ sources:
   references_out: []
 - id: 2020-11
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7227892
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7227892
   format: pdf
   citation: Report No. 2020-11
   title: DAS Should Build on Recent Enhancements and Further Improve the Facility Planning Process to
@@ -203,6 +212,7 @@ sources:
   references_out: []
 - id: 2020-12
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7278875
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7278875
   format: pdf
   citation: Report No. 2020-12
   title: 'Recommendation Follow-up Report: Progress Made, but Pension Reform Delayed Implementation of
@@ -218,6 +228,7 @@ sources:
   references_out: []
 - id: 2020-13
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7227903
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7227903
   format: pdf
   citation: Report No. 2020-13
   title: Special Public Works Fund and Water Fund for the Fiscal Year Ended June 30, 2019
@@ -232,6 +243,7 @@ sources:
   references_out: []
 - id: 2020-14
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7227904
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7227904
   format: pdf
   citation: Report No. 2020-14
   title: State of Oregon Statewide Single Audit Report for Fiscal Year 2019
@@ -246,6 +258,7 @@ sources:
   references_out: []
 - id: 2020-15
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7227905
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7227905
   format: pdf
   citation: Report No. 2020-15
   title: Small Scale Energy Loan Program For the Year Ended June 30, 2019
@@ -260,6 +273,7 @@ sources:
   references_out: []
 - id: 2020-16
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7227926
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7227926
   format: pdf
   citation: Report No. 2020-16
   title: 'Recommendation Follow-up Report: Security at the Data Center Continues to Improve, but More
@@ -275,6 +289,7 @@ sources:
   references_out: []
 - id: 2020-17
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7227948
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7227948
   format: pdf
   citation: Report No. 2020-17
   title: Cybersecurity Controls Audit
@@ -289,6 +304,7 @@ sources:
   references_out: []
 - id: 2020-18
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7359556
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7359556
   format: pdf
   citation: Report No. 2020-18
   title: 'Recommendation Follow-up Report: While Work Remains, the State Is on Track to Modernize Procurement
@@ -304,6 +320,7 @@ sources:
   references_out: []
 - id: 2020-19
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7359563
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7359563
   format: pdf
   citation: Report No. 2020-19
   title: Government Waste Hotline January to December 2019
@@ -318,6 +335,7 @@ sources:
   references_out: []
 - id: 2020-20
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7359562
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7359562
   format: pdf
   citation: Report No. 2020-20
   title: High School Graduation and College and Career Readiness Fund Annual Financial Report For Fiscal
@@ -333,6 +351,7 @@ sources:
   references_out: []
 - id: 2020-21
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7359565
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7359565
   format: pdf
   citation: Report No. 2020-21
   title: Oregon Should Improve Child Safety by Strengthening Child Care Background Checks and the State'
@@ -348,6 +367,7 @@ sources:
   references_out: []
 - id: 2020-22
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7359852
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7359852
   format: pdf
   citation: Report No. 2020-22
   title: DOJ Should Strengthen Performance Management to Optimize Contract Review Services
@@ -362,6 +382,7 @@ sources:
   references_out: []
 - id: 2020-23
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7359853
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7359853
   format: pdf
   citation: Report No. 2020-23
   title: Keeping Oregon Accountable Fiscal Year 2019
@@ -376,6 +397,7 @@ sources:
   references_out: []
 - id: 2020-24
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7359912
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7359912
   format: pdf
   citation: Report No. 2020-24
   title: ODE Can Better Support Students Experiencing Disabilities Through Improved Coordination and Monitoring
@@ -391,6 +413,7 @@ sources:
   references_out: []
 - id: 2020-25
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7359913
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7359913
   format: pdf
   citation: Report No. 2020-25
   title: Clean Water State Revolving Fund Loan Program For the Fiscal Year Ended June 30, 2019
@@ -405,6 +428,7 @@ sources:
   references_out: []
 - id: 2020-26
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7359951
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7359951
   format: pdf
   citation: Report No. 2020-26
   title: Oregon Can More Effectively Use Family Services to Limit Foster Care and Keep Children Safely
@@ -420,6 +444,7 @@ sources:
   references_out: []
 - id: 2020-27
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7519801
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7519801
   format: pdf
   citation: Report No. 2020-27
   title: Financial Statements-Statutory Basis as of and for the Years Ended December 31, 2019 and 2018,
@@ -435,6 +460,7 @@ sources:
   references_out: []
 - id: 2020-28
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7519802
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7519802
   format: pdf
   citation: Report No. 2020-28
   title: Financial Statements and Supplementary Schedules as of and for the Years Ended December 31, 2019
@@ -450,6 +476,7 @@ sources:
   references_out: []
 - id: 2020-29
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7519833
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7519833
   format: pdf
   citation: Report No. 2020-29
   title: ODOT Oversees a Robust Project Delivery Process, yet Opportunities Exist to Further Improve Work
@@ -465,6 +492,7 @@ sources:
   references_out: []
 - id: 2020-30
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7519834
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7519834
   format: pdf
   citation: Report No. 2020-30
   title: Oregon Local Government Intermediate Fund An Investment Pool of the State of Oregon For the Year
@@ -480,6 +508,7 @@ sources:
   references_out: []
 - id: 2020-31
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7519835
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7519835
   format: pdf
   citation: Report No. 2020-31
   title: Oregon Short Term Fund An Investment Pool of the State of Oregon For the Year Ended June 30,
@@ -495,6 +524,7 @@ sources:
   references_out: []
 - id: 2020-32
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7555866
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7555866
   format: pdf
   citation: Report No. 2020-32
   title: Chronic and Systemic Issues in Oregon' Mental Health Treatment System Leave Children and Their
@@ -510,6 +540,7 @@ sources:
   references_out: []
 - id: 2020-33
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7589752
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7589752
   format: pdf
   citation: Report No. 2020-33
   title: Oregon Intermediate Term Pool An Investment Pool of the State of Oregon For the Year Ended June
@@ -525,6 +556,7 @@ sources:
   references_out: []
 - id: 2020-34
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7589766
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7589766
   format: pdf
   citation: Report No. 2020-34
   title: DAS Needs to Provide Oversight to Improve Investigations of Workplace Discrimination and Harassment
@@ -540,6 +572,7 @@ sources:
   references_out: []
 - id: 2020-35
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7589791
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7589791
   format: pdf
   citation: Report No. 2020-35
   title: Veterans' Loan Program Annual Financial Report Enterprise Fund for the Fiscal Year Ended June
@@ -555,6 +588,7 @@ sources:
   references_out: []
 - id: 2020-36
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7589849
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7589849
   format: pdf
   citation: Report No. 2020-36
   title: Oregon Has an Opportunity to Modernize Groundbreaking Bottle Bill on Its 50th Anniversary
@@ -569,6 +603,7 @@ sources:
   references_out: []
 - id: 2020-37
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7672528
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7672528
   format: pdf
   citation: Report No. 2020-37
   title: Enterprise Information Services The State Does Not Have A Privacy Program to Manage Enterprise
@@ -584,6 +619,7 @@ sources:
   references_out: []
 - id: 2020-38
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7672531
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7672531
   format: pdf
   citation: Report No. 2020-38
   title: Annual Financial Report Enterprise Funds of the State of Oregon For the Year Ended June 30, 2020
@@ -598,6 +634,7 @@ sources:
   references_out: []
 - id: 2020-39
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7672533
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7672533
   format: pdf
   citation: Report No. 2020-39
   title: 'Public Employees'' Benefit Board and the Oregon Educator'' Benefit Board: Efforts Have Helped
@@ -614,6 +651,7 @@ sources:
   references_out: []
 - id: 2020-40
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7672534
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7672534
   format: pdf
   citation: Report No. 2020-40
   title: July 1, 2019 through June 30, 2020
@@ -628,6 +666,7 @@ sources:
   references_out: []
 - id: 2020-41
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7672535
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7672535
   format: pdf
   citation: Report No. 2020-41
   title: Common School Fund Annual Financial Report For the Fiscal Year Ended June 30, 2020, Contract
@@ -643,6 +682,7 @@ sources:
   references_out: []
 - id: 2020-42
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7672536
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7672536
   format: pdf
   citation: Report No. 2020-42
   title: Comprehensive Annual Financial Report For the Fiscal Year Ended June 30, 2020, Contract Audit
@@ -657,6 +697,7 @@ sources:
   references_out: []
 - id: 2020-43
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7672537
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7672537
   format: pdf
   citation: Report No. 2020-43
   title: By Appropriately Administering Measure 76 Funds, Oregon Is Advancing Constitutional Goals for
@@ -672,6 +713,7 @@ sources:
   references_out: []
 - id: 2020-44
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7672699
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7672699
   format: pdf
   citation: Report No. 2020-44
   title: High School Success Planning Is Robust, but ODE Can Enhance Benefits of Measure 98 by Improving
@@ -687,6 +729,7 @@ sources:
   references_out: []
 - id: 2020-45
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7672700
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7672700
   format: pdf
   citation: Report No. 2020-45
   title: Comprehensive Annual Financial Report Enterprise Fund For the Fiscal Year Ended June 30, 2020
@@ -701,6 +744,7 @@ sources:
   references_out: []
 - id: 2020-46
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7672729
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7672729
   format: pdf
   citation: Report No. 2020-46
   title: The Board Should Ensure Facility Inspections Be Performed and Strengthen Controls over Financial
@@ -716,6 +760,7 @@ sources:
   references_out: []
 - id: 2021-01
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7795224
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7795224
   format: pdf
   citation: Report No. 2021-01
   title: 2021-22 Audit Plan
@@ -730,6 +775,7 @@ sources:
   references_out: []
 - id: 2021-02
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7795225
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7795225
   format: pdf
   citation: Report No. 2021-02
   title: Oregon Health Insurance Marketplace Financial Statements For the Fiscal Year Ended June 30, 2020
@@ -744,6 +790,7 @@ sources:
   references_out: []
 - id: 2021-03
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7795226
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7795226
   format: pdf
   citation: Report No. 2021-03
   title: Oregon Health Insurance Marketplace Fiscal Year 2020 Compliance
@@ -758,6 +805,7 @@ sources:
   references_out: []
 - id: 2021-04
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7795235
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7795235
   format: pdf
   citation: Report No. 2021-04
   title: Comprehensive Annual Financial Report For the Fiscal Year Ended June 30, 2020
@@ -772,6 +820,7 @@ sources:
   references_out: []
 - id: 2021-05
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7795236
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7795236
   format: pdf
   citation: Report No. 2021-05
   title: 'Oregon Municipal Corporations: Summary of Fiscal Year 2019 Financial Reporting'
@@ -786,6 +835,7 @@ sources:
   references_out: []
 - id: 2021-06
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7795247
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7795247
   format: pdf
   citation: Report No. 2021-06
   title: Audit of Pension Schedule of Employer Allocations and Pension Amounts by Employer for the Year
@@ -801,6 +851,7 @@ sources:
   references_out: []
 - id: 2021-07
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7795248
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7795248
   format: pdf
   citation: Report No. 2021-07
   title: Audit of RHIA Schedule of Employer Allocations and OPEB Amounts by Employer for the Year Ended
@@ -816,6 +867,7 @@ sources:
   references_out: []
 - id: 2021-08
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7795249
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7795249
   format: pdf
   citation: Report No. 2021-08
   title: Audit of RHIPA Schedule of OPEB Amounts for the Year Ended June 30, 2020, Contract Audit
@@ -830,6 +882,7 @@ sources:
   references_out: []
 - id: 2021-09
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7795356
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7795356
   format: pdf
   citation: Report No. 2021-09
   title: 'Advisory Report: Oregon Can Take More Steps to Reduce Infections in Long-Term Care Facilities
@@ -845,6 +898,7 @@ sources:
   references_out: []
 - id: 2021-10
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7795360
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7795360
   format: pdf
   citation: Report No. 2021-10
   title: Special Public Works Fund and Water Fund for the Fiscal Year Ended June 30, 2020
@@ -859,6 +913,7 @@ sources:
   references_out: []
 - id: 2021-11
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7969413
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7969413
   format: pdf
   citation: Report No. 2021-11
   title: Small Scale Energy Loan Program For the Year Ended June 30, 2020
@@ -873,6 +928,7 @@ sources:
   references_out: []
 - id: 2021-12
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7971951
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/7971951
   format: pdf
   citation: Report No. 2021-12
   title: Cybersecurity Controls Audit
@@ -887,6 +943,7 @@ sources:
   references_out: []
 - id: 2021-13
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8000289
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8000289
   format: pdf
   citation: Report No. 2021-13
   title: Oregon Statewide Single Audit for Fiscal Year 2020
@@ -901,6 +958,7 @@ sources:
   references_out: []
 - id: 2021-14
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8011097
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8011097
   format: pdf
   citation: Report No. 2021-14
   title: Oregon' Ethics Commission and Laws Could Be Better Leveraged to Improve Ethical Culture and Trust
@@ -916,6 +974,7 @@ sources:
   references_out: []
 - id: 2021-15
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8028928
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8028928
   format: pdf
   citation: Report No. 2021-15
   title: Clean Water State Revolving Fund Loan Program For the Fiscal Year Ended June 30, 2020
@@ -930,6 +989,7 @@ sources:
   references_out: []
 - id: 2021-16
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8039546
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8039546
   format: pdf
   citation: Report No. 2021-16
   title: Safe Drinking Water Revolving Loan Fund For Fiscal Year Ended June 30, 2020
@@ -944,6 +1004,7 @@ sources:
   references_out: []
 - id: 2021-17
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8053194
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8053194
   format: pdf
   citation: Report No. 2021-17
   title: 'Recommendation Follow-up Report: Progress Has Been Made, but COVID-19 Delayed Some Efforts to
@@ -959,6 +1020,7 @@ sources:
   references_out: []
 - id: 2021-18
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8062811
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8062811
   format: pdf
   citation: Report No. 2021-18
   title: Government Waste Hotline for Calendar Year 2020
@@ -973,6 +1035,7 @@ sources:
   references_out: []
 - id: 2021-19
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8075417
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8075417
   format: pdf
   citation: Report No. 2021-19
   title: Keeping Oregon Accountable Fiscal Year 2020
@@ -987,6 +1050,7 @@ sources:
   references_out: []
 - id: 2021-20
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8097516
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8097516
   format: pdf
   citation: Report No. 2021-20
   title: State of Oregon 2020 Financial Condition Report
@@ -1001,6 +1065,7 @@ sources:
   references_out: []
 - id: 2021-21
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8172687
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8172687
   format: pdf
   citation: Report No. 2021-21
   title: OFRI' Statute Undermines its Public Benefit and the State Agency is Not Transparent About its
@@ -1016,6 +1081,7 @@ sources:
   references_out: []
 - id: 2021-22
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8166938
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8166938
   format: pdf
   citation: Report No. 2021-22
   title: Financial Statements—Statutory Basis as of and for the Years Ended December 31, 2020 and 2019,
@@ -1031,6 +1097,7 @@ sources:
   references_out: []
 - id: 2021-23
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8166939
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8166939
   format: pdf
   citation: Report No. 2021-23
   title: Financial Statements and Supplementary Schedules as of and for the Years Ended December 31, 2020
@@ -1046,6 +1113,7 @@ sources:
   references_out: []
 - id: 2021-24
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8214465
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8214465
   format: pdf
   citation: Report No. 2021-24
   title: Developmental Disabilities Leadership is Proactively Addressing Program Challenges to Ensure
@@ -1061,6 +1129,7 @@ sources:
   references_out: []
 - id: 2021-25
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8226892
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8226892
   format: pdf
   citation: Report No. 2021-25
   title: Enterprise Information Services Has Established an IT Governance Framework but Must Do More Regarding
@@ -1076,6 +1145,7 @@ sources:
   references_out: []
 - id: 2021-26
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8230495
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8230495
   format: pdf
   citation: Report No. 2021-26
   title: Oregon Local Government Intermediate Fund An Investment Pool of the State of Oregon For the Year
@@ -1091,6 +1161,7 @@ sources:
   references_out: []
 - id: 2021-27
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8242020
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8242020
   format: pdf
   citation: Report No. 2021-27
   title: Oregon Short Term Fund An Investment Pool of the State of Oregon For the Year Ended June 30,
@@ -1106,6 +1177,7 @@ sources:
   references_out: []
 - id: 2021-28
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8310347
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8310347
   format: pdf
   citation: Report No. 2021-28
   title: 'Recommendation Follow-up Report: ODE Must Accelerate Efforts to Monitor Spending and Improve
@@ -1121,6 +1193,7 @@ sources:
   references_out: []
 - id: 2021-29
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8327840
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8327840
   format: pdf
   citation: Report No. 2021-29
   title: Oregon Intermediate Term Pool An Investment Pool of the State of Oregon For the Year Ended June
@@ -1136,6 +1209,7 @@ sources:
   references_out: []
 - id: 2021-30
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8355669
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8355669
   format: pdf
   citation: Report No. 2021-30
   title: 'Advisory Report: ODOT Worked Quickly to Oversee the Largest Wildfire Debris Removal Operation
@@ -1151,6 +1225,7 @@ sources:
   references_out: []
 - id: 2021-31
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8393399
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8393399
   format: pdf
   citation: Report No. 2021-31
   title: Cybersecurity Controls Audit
@@ -1165,6 +1240,7 @@ sources:
   references_out: []
 - id: 2021-32
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8394487
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8394487
   format: pdf
   citation: Report No. 2021-32
   title: Opportunities Exist to Improve Web Application Security and Tracking of Website Accessibility
@@ -1180,6 +1256,7 @@ sources:
   references_out: []
 - id: 2021-33
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8406240
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8406240
   format: pdf
   citation: Report No. 2021-33
   title: Annual Financial Report Enterprise Funds of the State of Oregon For the Year Ended June 30, 2021
@@ -1194,6 +1271,7 @@ sources:
   references_out: []
 - id: 2021-34
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8407921
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8407921
   format: pdf
   citation: Report No. 2021-34
   title: Common School Fund Annual Financial Report For the Fiscal Year Ended June 30, 2021
@@ -1208,6 +1286,7 @@ sources:
   references_out: []
 - id: 2021-35
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8427032
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8427032
   format: pdf
   citation: Report No. 2021-35
   title: Additional Resources Needed to Strengthen Police Training and Accountability
@@ -1222,6 +1301,7 @@ sources:
   references_out: []
 - id: 2021-36
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8429227
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8429227
   format: pdf
   citation: Report No. 2021-36
   title: Veterans' Loan Program Annual Financial Report Enterprise Fund for the Fiscal Year Ended June
@@ -1237,6 +1317,7 @@ sources:
   references_out: []
 - id: 2021-37
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8457557
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8457557
   format: pdf
   citation: Report No. 2021-37
   title: Timely Notification of Inpatient Hospital Stays Could Help Reduce Improper Medicaid Payments
@@ -1251,6 +1332,7 @@ sources:
   references_out: []
 - id: 2021-38
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8463620
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8463620
   format: pdf
   citation: Report No. 2021-38
   title: July 1, 2020 through June 30, 2021
@@ -1265,6 +1347,7 @@ sources:
   references_out: []
 - id: 2021-39
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8463621
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8463621
   format: pdf
   citation: Report No. 2021-39
   title: Annual Comprehensive Financial Report For the Fiscal Year Ended June 30, 2021
@@ -1279,6 +1362,7 @@ sources:
   references_out: []
 - id: 2022-01
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8505006
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8505006
   format: pdf
   citation: Report No. 2022-01
   title: Annual Financial Report Enterprise Funds For the Year Ended June 30, 2021
@@ -1293,6 +1377,7 @@ sources:
   references_out: []
 - id: 2022-02
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8510062
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8510062
   format: pdf
   citation: Report No. 2022-02
   title: Additional Data Analytics Could Better Determine Trooper Staffing Levels and Resource Needs
@@ -1307,6 +1392,7 @@ sources:
   references_out: []
 - id: 2022-03
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8541904
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8541904
   format: pdf
   citation: Report No. 2022-03
   title: Oregon Annual Comprehensive Financial Report For the Fiscal Year Ended June 30, 2021
@@ -1321,6 +1407,7 @@ sources:
   references_out: []
 - id: 2022-04
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8562228
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8562228
   format: pdf
   citation: Report No. 2022-04
   title: 2022-23 Audit Plan
@@ -1335,6 +1422,7 @@ sources:
   references_out: []
 - id: 2022-05
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8607228
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8607228
   format: pdf
   citation: Report No. 2022-05
   title: 'Oregon Municipal Corporations: Summary of Fiscal Year 2020 Financial Reporting'
@@ -1349,6 +1437,7 @@ sources:
   references_out: []
 - id: 2022-06
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8601753
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8601753
   format: pdf
   citation: Report No. 2022-06
   title: Agreed Upon Procedures Report for the Biennium Ended June 30, 2021
@@ -1363,6 +1452,7 @@ sources:
   references_out: []
 - id: 2022-07
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8604120
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8604120
   format: pdf
   citation: Report No. 2022-07
   title: Audit of Pension Schedule of Employer Allocations and Pension Amounts by Employer for the Year
@@ -1378,6 +1468,7 @@ sources:
   references_out: []
 - id: 2022-08
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8604121
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8604121
   format: pdf
   citation: Report No. 2022-08
   title: Audit of RHIPA Schedule of OPEB Amounts for the Year Ended June 30, 2021
@@ -1392,6 +1483,7 @@ sources:
   references_out: []
 - id: 2022-09
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8604122
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8604122
   format: pdf
   citation: Report No. 2022-09
   title: Audit of RHIA Schedule of Employer Allocations and OPEB Amounts by Employer for the Year Ended
@@ -1407,6 +1499,7 @@ sources:
   references_out: []
 - id: 2022-10
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8647614
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8647614
   format: pdf
   citation: Report No. 2022-10
   title: 'Recommendation Follow-up Report: PPS Has Made Progress, but Must Take Further Steps to Reduce
@@ -1422,6 +1515,7 @@ sources:
   references_out: []
 - id: 2022-11
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8670795
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8670795
   format: pdf
   citation: Report No. 2022-11
   title: Without Legislative Action the Mortgage Interest Deduction Will Remain Regressive and Inequitable
@@ -1436,6 +1530,7 @@ sources:
   references_out: []
 - id: 2022-12
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8693842
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8693842
   format: pdf
   citation: Report No. 2022-12
   title: 'Advisory Report: Oregon Can Do More to Mitigate the Alarming Risk of Domestic Terrorism and
@@ -1451,6 +1546,7 @@ sources:
   references_out: []
 - id: 2022-13
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8695473
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8695473
   format: pdf
   citation: Report No. 2022-13
   title: Small Scale Energy Loan Program For the Year Ended June 30, 2021
@@ -1465,6 +1561,7 @@ sources:
   references_out: []
 - id: 2022-14
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8745552
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8745552
   format: pdf
   citation: Report No. 2022-14
   title: Oregon Health Insurance Marketplace Fiscal Year 2021 Compliance
@@ -1479,6 +1576,7 @@ sources:
   references_out: []
 - id: 2022-15
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8770259
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8770259
   format: pdf
   citation: Report No. 2022-15
   title: Oregon Health Insurance Marketplace Financial Statements For the Fiscal Year Ended June 30, 2021
@@ -1493,6 +1591,7 @@ sources:
   references_out: []
 - id: 2022-16
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8794669
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8794669
   format: pdf
   citation: Report No. 2022-16
   title: 'K-12 Education - Systemic Risk Report: State Leaders and Policymakers Must Address Persistent
@@ -1508,6 +1607,7 @@ sources:
   references_out: []
 - id: 2022-17
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8855400
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8855400
   format: pdf
   citation: Report No. 2022-17
   title: 'Recommendation Follow-up Report: Some Constraints Still Remain in Oregon''s Prescription Drug
@@ -1523,6 +1623,7 @@ sources:
   references_out: []
 - id: 2022-18
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8864569
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8864569
   format: pdf
   citation: Report No. 2022-18
   title: State of Oregon Statewide Single Audit for Fiscal Year 2021
@@ -1537,6 +1638,7 @@ sources:
   references_out: []
 - id: 2022-19
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8879001
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8879001
   format: pdf
   citation: Report No. 2022-19
   title: State Government Accountability Hotline Summary Report, Calendar Year 2021
@@ -1551,6 +1653,7 @@ sources:
   references_out: []
 - id: 2022-20
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8890915
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8890915
   format: pdf
   citation: Report No. 2022-20
   title: Cybersecurity Controls Audit
@@ -1565,6 +1668,7 @@ sources:
   references_out: []
 - id: 2022-21
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8903079
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8903079
   format: pdf
   citation: Report No. 2022-21
   title: The Pandemic' Effects on Oregonians Exposed Risks and Highlighted the Need to Modernize Oregon'
@@ -1580,6 +1684,7 @@ sources:
   references_out: []
 - id: 2022-22
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8916882
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8916882
   format: pdf
   citation: Report No. 2022-22
   title: Financial Statements—Statutory Basis as of and for the Years Ended December 31, 2021 and 2020,
@@ -1595,6 +1700,7 @@ sources:
   references_out: []
 - id: 2022-23
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8916903
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8916903
   format: pdf
   citation: Report No. 2022-23
   title: Financial Statements and Supplementary Schedules as of and for the Years Ended December 31, 2021
@@ -1610,6 +1716,7 @@ sources:
   references_out: []
 - id: 2022-24
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8938598
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8938598
   format: pdf
   citation: Report No. 2022-24
   title: High School Graduation and College and Career Readiness Fund Biennial Financial Report For Biennium
@@ -1625,6 +1732,7 @@ sources:
   references_out: []
 - id: 2022-25
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8970031
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8970031
   format: pdf
   citation: Report No. 2022-25
   title: Oregon Local Government Intermediate Fund An Investment Pool of the State of Oregon For the Year
@@ -1640,6 +1748,7 @@ sources:
   references_out: []
 - id: 2022-26
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8970066
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8970066
   format: pdf
   citation: Report No. 2022-26
   title: Oregon Short Term Fund An Investment Pool of the State of Oregon For the Year Ended June 30,
@@ -1655,6 +1764,7 @@ sources:
   references_out: []
 - id: 2022-27
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8979827
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/8979827
   format: pdf
   citation: Report No. 2022-27
   title: Keeping Oregon Accountable, Fiscal Year 2021
@@ -1669,6 +1779,7 @@ sources:
   references_out: []
 - id: 2022-28
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9013473
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9013473
   format: pdf
   citation: Report No. 2022-28
   title: Oregon Intermediate Term Pool An Investment Pool of the State of Oregon For the Year Ended June
@@ -1684,6 +1795,7 @@ sources:
   references_out: []
 - id: 2022-29
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9078307
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9078307
   format: pdf
   citation: Report No. 2022-29
   title: Special Public Works Fund and Water Fund for the Fiscal Year Ended June 30, 2021
@@ -1698,6 +1810,7 @@ sources:
   references_out: []
 - id: 2022-30
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9103105
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9103105
   format: pdf
   citation: Report No. 2022-30
   title: Common School Fund Annual Financial Report For the Fiscal Year Ended June 30, 2022
@@ -1712,6 +1825,7 @@ sources:
   references_out: []
 - id: 2022-31
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9118836
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9118836
   format: pdf
   citation: Report No. 2022-31
   title: Clean Water State Revolving Fund Loan Program For the Fiscal Year Ended June 30, 2021
@@ -1726,6 +1840,7 @@ sources:
   references_out: []
 - id: 2022-32
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9121445
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9121445
   format: pdf
   citation: Report No. 2022-32
   title: Annual Financial Report Enterprise Funds of the State of Oregon For the Year Ended June 30, 2022
@@ -1740,6 +1855,7 @@ sources:
   references_out: []
 - id: 2022-33
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9128276
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9128276
   format: pdf
   citation: Report No. 2022-33
   title: ODE Continues to Effectively Implement Measure 98 and Increase Collaboration Across Agency Programs
@@ -1754,6 +1870,7 @@ sources:
   references_out: []
 - id: 2022-34
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9131925
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9131925
   format: pdf
   citation: Report No. 2022-34
   title: Independent Actuarial Review of PERS December 31, 2021 Actuarial Valuation
@@ -1768,6 +1885,7 @@ sources:
   references_out: []
 - id: 2022-35
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9254842
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9254842
   format: pdf
   citation: Report No. 2022-35
   title: Oregon Must Improve Community College Performance, Student Support, and Sustainability Amid Persistent
@@ -1783,6 +1901,7 @@ sources:
   references_out: []
 - id: 2022-36
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9170457
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9170457
   format: pdf
   citation: Report No. 2022-36
   title: Annual Comprehensive Financial Report For the Fiscal Year Ended June 30, 2022
@@ -1797,6 +1916,7 @@ sources:
   references_out: []
 - id: 2023-01
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9196572
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9196572
   format: pdf
   citation: Report No. 2023-01
   title: Annual Comprehensive Financial Report Enterprise Fund of the State of Oregon For the Fiscal Year
@@ -1812,6 +1932,7 @@ sources:
   references_out: []
 - id: 2023-02
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9198548
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9198548
   format: pdf
   citation: Report No. 2023-02
   title: The Oregon Broadband Office Must Continue to Take Aggressive Steps to Close the Digital Divide
@@ -1827,6 +1948,7 @@ sources:
   references_out: []
 - id: 2023-03
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10595085
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10595085
   format: pdf
   citation: Report No. 2023-03
   title: 'Too Early to Tell: The Challenging Implementation of Measure 110 Has Increased Risks, but the
@@ -1842,6 +1964,7 @@ sources:
   references_out: []
 - id: 2023-04
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9231213
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9231213
   format: pdf
   citation: Report No. 2023-04
   title: 'Advisory Report: State Leadership Must Take Action to Protect Water Security for All Oregonians'
@@ -1856,6 +1979,7 @@ sources:
   references_out: []
 - id: 2023-05
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9254950
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9254950
   format: pdf
   citation: Report No. 2023-05
   title: Audit of Pension Schedule of Employer Allocations and Pension Amounts by Employer for the Year
@@ -1871,6 +1995,7 @@ sources:
   references_out: []
 - id: 2023-06
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9254951
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9254951
   format: pdf
   citation: Report No. 2023-06
   title: Audit of RHIPA Schedule of OPEB Amounts for the Year Ended June 30, 2022
@@ -1885,6 +2010,7 @@ sources:
   references_out: []
 - id: 2023-07
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9254952
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9254952
   format: pdf
   citation: Report No. 2023-07
   title: Audit of RHIA Schedule of Employer Allocations and OPEB Amounts by Employer for the Year Ended
@@ -1900,6 +2026,7 @@ sources:
   references_out: []
 - id: 2023-08
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9287944
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9287944
   format: pdf
   citation: Report No. 2023-08
   title: 'Oregon Municipal Corporations: Summary of Fiscal Year 2021 Financial Reporting'
@@ -1914,6 +2041,7 @@ sources:
   references_out: []
 - id: 2023-09
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9281763
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9281763
   format: pdf
   citation: Report No. 2023-09
   title: 2023-24 Audit Plan
@@ -1928,6 +2056,7 @@ sources:
   references_out: []
 - id: 2023-10
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9297408
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9297408
   format: pdf
   citation: Report No. 2023-10
   title: Veterans' Loan Program Annual Financial Report Enterprise Fund for the Fiscal Year Ending June
@@ -1943,6 +2072,7 @@ sources:
   references_out: []
 - id: 2023-11
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9330940
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9330940
   format: pdf
   citation: Report No. 2023-11
   title: 'Advisory Report on Equal Pay: Oregon Must do More to Close Persistent Wage Gaps for Women and
@@ -1958,6 +2088,7 @@ sources:
   references_out: []
 - id: 2023-12
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9333353
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9333353
   format: pdf
   citation: Report No. 2023-12
   title: Oregon Annual Comprehensive Financial Report For the Fiscal Year Ended June 30, 2022
@@ -1972,6 +2103,7 @@ sources:
   references_out: []
 - id: 2023-13
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9352529
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9352529
   format: pdf
   citation: Report No. 2023-13
   title: Small Scale Energy Loan Program For the Year Ended June 30, 2022
@@ -1986,6 +2118,7 @@ sources:
   references_out: []
 - id: 2023-14
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9377923
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9377923
   format: pdf
   citation: Report No. 2023-14
   title: July 1, 2021 through June 30, 2022
@@ -2000,6 +2133,7 @@ sources:
   references_out: []
 - id: 2023-17
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9442147
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9442147
   format: pdf
   citation: Report No. 2023-17
   title: Special Public Works Fund and Water Fund Enterprise Funds For the Year Ended June 30, 2022
@@ -2014,6 +2148,7 @@ sources:
   references_out: []
 - id: 2023-18
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9456712
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9456712
   format: pdf
   citation: Report No. 2023-18
   title: Oregon Health Insurance Marketplace Fiscal Year 2022 Compliance
@@ -2028,6 +2163,7 @@ sources:
   references_out: []
 - id: 2023-19
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9468402
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9468402
   format: pdf
   citation: Report No. 2023-19
   title: Oregon Health Insurance Marketplace Financial Statements For the Fiscal Year Ended June 30, 2022
@@ -2042,6 +2178,7 @@ sources:
   references_out: []
 - id: 2023-20
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9585434
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9585434
   format: pdf
   citation: Report No. 2023-20
   title: Safe Drinking Water Revolving Loan Fund Agreed Upon Procedures For Fiscal Years Ended June 30,
@@ -2057,6 +2194,7 @@ sources:
   references_out: []
 - id: 2023-21
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9589992
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9589992
   format: pdf
   citation: Report No. 2023-21
   title: Statewide Single Audit for Fiscal Year 2022
@@ -2071,6 +2209,7 @@ sources:
   references_out: []
 - id: 2023-22
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9597969
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9597969
   format: pdf
   citation: Report No. 2023-22
   title: Financial Statements and Supplementary Schedules as of and for the Years Ended December 31, 2022
@@ -2086,6 +2225,7 @@ sources:
   references_out: []
 - id: 2023-23
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9597970
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9597970
   format: pdf
   citation: Report No. 2023-23
   title: Financial Statements—Statutory Basis as of and for the Years Ended December 31, 2022 and 2021,
@@ -2101,6 +2241,7 @@ sources:
   references_out: []
 - id: 2023-24
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9611939
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9611939
   format: pdf
   citation: Report No. 2023-24
   title: Uncertainty and Risk Remain After Gambling Industry Has Evolved Faster than State Law
@@ -2115,6 +2256,7 @@ sources:
   references_out: []
 - id: 2023-25
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9774904
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9774904
   format: pdf
   citation: Report No. 2023-25
   title: Pharmacy Benefit Managers Poor Accountability and Transparency Harm Medicaid Patients and Independent
@@ -2130,6 +2272,7 @@ sources:
   references_out: []
 - id: 2023-26
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9653549
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9653549
   format: pdf
   citation: Report No. 2023-26
   title: 'Advisory Report: Increased Awareness and Training Could Enhance the Effectiveness of Oregon''
@@ -2145,6 +2288,7 @@ sources:
   references_out: []
 - id: 2023-27
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9655455
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9655455
   format: pdf
   citation: Report No. 2023-27
   title: Oregon Short Term Fund An Investment Pool of the State of Oregon For the Year Ended June 30,
@@ -2160,6 +2304,7 @@ sources:
   references_out: []
 - id: 2023-28
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9655456
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9655456
   format: pdf
   citation: Report No. 2023-28
   title: Oregon Local Government Intermediate Fund An Investment Pool of the State of Oregon For the Year
@@ -2175,6 +2320,7 @@ sources:
   references_out: []
 - id: 2023-29
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9690849
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9690849
   format: pdf
   citation: Report No. 2023-29
   title: Keeping Oregon Accountable, Fiscal Year 2022
@@ -2189,6 +2335,7 @@ sources:
   references_out: []
 - id: 2023-30
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9704109
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9704109
   format: pdf
   citation: Report No. 2023-30
   title: Oregon Intermediate Term Pool An Investment Pool of the State of Oregon For the Year Ended June
@@ -2204,6 +2351,7 @@ sources:
   references_out: []
 - id: 2023-31
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9759503
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9759503
   format: pdf
   citation: Report No. 2023-31
   title: 'Advisory Report: Breaking the Cycle: A Comprehensive Statewide Strategy Would Benefit Domestic
@@ -2219,6 +2367,7 @@ sources:
   references_out: []
 - id: 2023-32
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9772536
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9772536
   format: pdf
   citation: Report No. 2023-32
   title: Veterans' Loan Program Annual Financial Report Enterprise Fund for the Fiscal Year Ending June
@@ -2234,6 +2383,7 @@ sources:
   references_out: []
 - id: 2023-33
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9775783
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9775783
   format: pdf
   citation: Report No. 2023-33
   title: Common School Fund Annual Financial Report For the Fiscal Year Ended June 30, 2023
@@ -2248,6 +2398,7 @@ sources:
   references_out: []
 - id: 2023-34
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9787660
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9787660
   format: pdf
   citation: Report No. 2023-34
   title: State Government Accountability Hotline Summary Report for Calendar Year 2022
@@ -2262,6 +2413,7 @@ sources:
   references_out: []
 - id: 2023-35
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9791144
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9791144
   format: pdf
   citation: Report No. 2023-35
   title: Annual Financial Report Enterprise Funds of the State of Oregon For the Year Ended June 30, 2023
@@ -2276,6 +2428,7 @@ sources:
   references_out: []
 - id: 2023-36
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9804732
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9804732
   format: pdf
   citation: Report No. 2023-36
   title: Annual Comprehensive Financial Report Enterprise Fund of the State of Oregon For the Fiscal Year
@@ -2291,6 +2444,7 @@ sources:
   references_out: []
 - id: 2023-37
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9828700
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9828700
   format: pdf
   citation: Report No. 2023-37
   title: Clean Water State Revolving Fund Loan Program For the Fiscal Year Ended June 30, 2022
@@ -2305,6 +2459,7 @@ sources:
   references_out: []
 - id: 2023-38
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9830503
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9830503
   format: pdf
   citation: Report No. 2023-38
   title: Annual Comprehensive Financial Report For the Fiscal Year Ended June 30, 2023
@@ -2319,6 +2474,7 @@ sources:
   references_out: []
 - id: 2023-39
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9965133
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9965133
   format: pdf
   citation: Report No. 2023-39
   title: Oversight and Accountability Council Funding and Delivery of Measure 110 Substance Use Disorder
@@ -2334,6 +2490,7 @@ sources:
   references_out: []
 - id: 2024-01
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9877569
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9877569
   format: pdf
   citation: Report No. 2024-01
   title: OHCS Prioritized Providing Emergency Rental Assistance Funds to Oregonians in Crisis but Could
@@ -2349,6 +2506,7 @@ sources:
   references_out: []
 - id: 2024-02
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9922791
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9922791
   format: pdf
   citation: Report No. 2024-02
   title: To Protect Patients and Maintain Public Trust, the Oregon Medical Board Should Further its Efforts
@@ -2364,6 +2522,7 @@ sources:
   references_out: []
 - id: 2024-03
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9936657
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9936657
   format: pdf
   citation: Report No. 2024-03
   title: Oregon Annual Comprehensive Financial Report For the Fiscal Year Ended June 30, 2023
@@ -2378,6 +2537,7 @@ sources:
   references_out: []
 - id: 2024-04
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9937520
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9937520
   format: pdf
   citation: Report No. 2024-04
   title: July 1, 2022 through June 30, 2023
@@ -2392,6 +2552,7 @@ sources:
   references_out: []
 - id: 2024-05
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9978977
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9978977
   format: pdf
   citation: Report No. 2024-05
   title: 2024-25 Audit Plan
@@ -2406,6 +2567,7 @@ sources:
   references_out: []
 - id: 2024-06
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10000616
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10000616
   format: pdf
   citation: Report No. 2024-06
   title: 'Oregon Municipal Corporations: Summary of Fiscal Year 2022 Financial Reporting'
@@ -2420,6 +2582,7 @@ sources:
   references_out: []
 - id: 2024-07
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9997984
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/9997984
   format: pdf
   citation: Report No. 2024-07
   title: Ongoing Workforce Crises and Disruption Demand Strategic Workforce Planning
@@ -2434,6 +2597,7 @@ sources:
   references_out: []
 - id: 2024-08
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10042699
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10042699
   format: pdf
   citation: Report No. 2024-08
   title: Audit of Pension Schedule of Employer Allocations and Pension Amounts by Employer for the Year
@@ -2449,6 +2613,7 @@ sources:
   references_out: []
 - id: 2024-09
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10042700
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10042700
   format: pdf
   citation: Report No. 2024-09
   title: Audit of RHIA Schedule of Employer Allocations and OPEB Amounts by Employer for the Year Ended
@@ -2464,6 +2629,7 @@ sources:
   references_out: []
 - id: 2024-10
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10042708
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10042708
   format: pdf
   citation: Report No. 2024-10
   title: Audit of RHIPA Schedule of OPEB Amounts for the Year Ended June 30, 2023
@@ -2478,6 +2644,7 @@ sources:
   references_out: []
 - id: 2024-11
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10042709
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10042709
   format: pdf
   citation: Report No. 2024-11
   title: Small Scale Energy Loan Program For the Year Ended June 30, 2023
@@ -2492,6 +2659,7 @@ sources:
   references_out: []
 - id: 2024-12
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10067614
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10067614
   format: pdf
   citation: Report No. 2024-12
   title: Special Public Works Fund and Water Fund Enterprise Funds For the Year Ended June 30, 2023
@@ -2506,6 +2674,7 @@ sources:
   references_out: []
 - id: 2024-13
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10115088
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10115088
   format: pdf
   citation: Report No. 2024-13
   title: Ongoing Strategic Planning Can Help DEQ Address Obstacles to Achieving its Goals
@@ -2520,6 +2689,7 @@ sources:
   references_out: []
 - id: 2024-14
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10139503
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10139503
   format: pdf
   citation: Report No. 2024-14
   title: Statewide Single Audit for Fiscal Year 2023
@@ -2534,6 +2704,7 @@ sources:
   references_out: []
 - id: 2024-15
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10142791
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10142791
   format: pdf
   citation: Report No. 2024-15
   title: Oregon Health Insurance Marketplace Fiscal Year 2023 Compliance
@@ -2548,6 +2719,7 @@ sources:
   references_out: []
 - id: 2024-16
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10191691
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10191691
   format: pdf
   citation: Report No. 2024-16
   title: Oregon Health Insurance Marketplace Financial Statements For the Fiscal Year Ended June 30, 2023
@@ -2562,6 +2734,7 @@ sources:
   references_out: []
 - id: 2024-17
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10229113
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10229113
   format: pdf
   citation: Report No. 2024-17
   title: Clean Water State Revolving Fund Loan Program Enterprise Fund of the State of Oregon For the
@@ -2577,6 +2750,7 @@ sources:
   references_out: []
 - id: 2024-18
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10230991
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10230991
   format: pdf
   citation: Report No. 2024-18
   title: Keeping Oregon Accountable Fiscal Year 2023
@@ -2591,6 +2765,7 @@ sources:
   references_out: []
 - id: 2024-19
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10250588
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10250588
   format: pdf
   citation: Report No. 2024-19
   title: High School Graduation and College and Career Readiness Fund Biennial Financial Report For Biennium
@@ -2606,6 +2781,7 @@ sources:
   references_out: []
 - id: 2024-20
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10327636
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10327636
   format: pdf
   citation: Report No. 2024-20
   title: Financial Statements-Statutory Basis as of and for the Years Ended December 31, 2023 and 2022,
@@ -2621,6 +2797,7 @@ sources:
   references_out: []
 - id: 2024-21
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10327637
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10327637
   format: pdf
   citation: Report No. 2024-21
   title: Financial Statements and Supplementary Schedules as of and for the Years Ended December 31, 2023
@@ -2636,6 +2813,7 @@ sources:
   references_out: []
 - id: 2024-22
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10364046
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10364046
   format: pdf
   citation: Report No. 2024-22
   title: Oregon Short Term Fund An Investment Pool of the State of Oregon For the Year Ended June 30,
@@ -2651,6 +2829,7 @@ sources:
   references_out: []
 - id: 2024-23
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10364047
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10364047
   format: pdf
   citation: Report No. 2024-23
   title: Oregon Local Government Intermediate Fund An Investment Pool of the State of Oregon For the Year
@@ -2666,6 +2845,7 @@ sources:
   references_out: []
 - id: 2024-24
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10365802
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10365802
   format: pdf
   citation: Report No. 2024-24
   title: State Government Accountability Hotline Summary Report for Calendar Year 2023
@@ -2680,6 +2860,7 @@ sources:
   references_out: []
 - id: 2024-25
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10410924
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10410924
   format: pdf
   citation: Report No. 2024-25
   title: Oregon Intermediate Term Pool An Investment Pool of the State of Oregon For the Year Ended June
@@ -2695,6 +2876,7 @@ sources:
   references_out: []
 - id: 2024-26
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10410925
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10410925
   format: pdf
   citation: Report No. 2024-26
   title: State of Oregon Financial Condition Report Fiscal Year 2023
@@ -2709,6 +2891,7 @@ sources:
   references_out: []
 - id: 2024-27
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10435155
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10435155
   format: pdf
   citation: Report No. 2024-27
   title: The Oregon Eligibility System Appropriately Determines Eligibility, but Input Errors Continue
@@ -2724,6 +2907,7 @@ sources:
   references_out: []
 - id: 2024-28
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10458155
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10458155
   format: pdf
   citation: Report No. 2024-28
   title: Licensing and Registration System Accurately Assesses and Collects Fees, but Security Processes
@@ -2739,6 +2923,7 @@ sources:
   references_out: []
 - id: 2024-29
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10465395
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10465395
   format: pdf
   citation: Report No. 2024-29
   title: Without Federal Action, States Will Continue to Pay Millions of Dollars in Duplicate Medicaid
@@ -2754,6 +2939,7 @@ sources:
   references_out: []
 - id: 2024-30
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10482044
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10482044
   format: pdf
   citation: Report No. 2024-30
   title: Veterans' Loan Program Annual Financial Report An Enterprise Fund for the Year Ending June 30,
@@ -2769,6 +2955,7 @@ sources:
   references_out: []
 - id: 2024-31
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10492557
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10492557
   format: pdf
   citation: Report No. 2024-31
   title: Annual Financial Report Enterprise Funds of the State of Oregon For the Year Ended June 30, 2024
@@ -2783,6 +2970,7 @@ sources:
   references_out: []
 - id: 2024-32
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10519154
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10519154
   format: pdf
   citation: Report No. 2024-32
   title: Common School Fund Annual Financial Report For the Fiscal Year Ended June 30, 2024
@@ -2797,6 +2985,7 @@ sources:
   references_out: []
 - id: 2024-33
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10529872
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10529872
   format: pdf
   citation: Report No. 2024-33
   title: Annual Comprehensive Financial Report Enterprise Fund of the State of Oregon For Fiscal Year
@@ -2812,6 +3001,7 @@ sources:
   references_out: []
 - id: 2024-34
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10555839
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10555839
   format: pdf
   citation: Report No. 2024-34
   title: High School Success Grants Have Expanded Important Programs, but ODE Can Do More To Identify
@@ -2827,6 +3017,7 @@ sources:
   references_out: []
 - id: 2024-35
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10568164
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10568164
   format: pdf
   citation: Report No. 2024-35
   title: Annual Comprehensive Financial Report For the Fiscal Year Ended June 30, 2024
@@ -2841,6 +3032,7 @@ sources:
   references_out: []
 - id: 2025-01
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10599262
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10599262
   format: pdf
   citation: Report No. 2025-01
   title: July 1, 2023 through June 30, 2024
@@ -2855,6 +3047,7 @@ sources:
   references_out: []
 - id: 2025-02
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10601929
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10601929
   format: pdf
   citation: Report No. 2025-02
   title: Oregon Annual Comprehensive Financial Report For the Fiscal Year Ended June 30, 2024
@@ -2869,6 +3062,7 @@ sources:
   references_out: []
 - id: 2025-03
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10742170
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10742170
   format: pdf
   citation: Report No. 2025-03
   title: 2025-26 Audit Plan
@@ -2883,6 +3077,7 @@ sources:
   references_out: []
 - id: 2025-04
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10805471
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10805471
   format: pdf
   citation: Report No. 2025-04
   title: Audit of Pension Schedule of Employer Allocations and Pension Amounts by Employer for the Year
@@ -2898,6 +3093,7 @@ sources:
   references_out: []
 - id: 2025-05
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10805472
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10805472
   format: pdf
   citation: Report No. 2025-05
   title: Audit of RHIA Schedule of Employer Allocations and OPEB Amounts by Employer for the Year Ended
@@ -2913,6 +3109,7 @@ sources:
   references_out: []
 - id: 2025-06
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10805473
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10805473
   format: pdf
   citation: Report No. 2025-06
   title: Audit of RHIPA Schedule of OPEB Amounts for the Year Ended June 30, 2024
@@ -2927,6 +3124,7 @@ sources:
   references_out: []
 - id: 2025-07
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10808423
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10808423
   format: pdf
   citation: Report No. 2025-07
   title: Small Scale Energy Loan Program For the Year Ended June 30, 2024
@@ -2941,6 +3139,7 @@ sources:
   references_out: []
 - id: 2025-08
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10809405
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10809405
   format: pdf
   citation: Report No. 2025-08
   title: 'Oregon Municipal Corporations: Summary of Financial Reporting for Fiscal Year 2023'
@@ -2955,6 +3154,7 @@ sources:
   references_out: []
 - id: 2025-10
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10363238
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10363238
   format: pdf
   citation: Report No. 2025-10
   title: Statewide Single Audit for Fiscal Year 2024
@@ -2969,6 +3169,7 @@ sources:
   references_out: []
 - id: 2025-11
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10913343
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10913343
   format: pdf
   citation: Report No. 2025-11
   title: State Government Accountability Hotline Summary Report for Calendar Year 2024
@@ -2983,6 +3184,7 @@ sources:
   references_out: []
 - id: 2025-12
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10363265
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10363265
   format: pdf
   citation: Report No. 2025-12
   title: Oregon Health Insurance Marketplace Fiscal Year 2024 Compliance
@@ -2997,6 +3199,7 @@ sources:
   references_out: []
 - id: 2025-13
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10363266
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10363266
   format: pdf
   citation: Report No. 2025-13
   title: Oregon Health Insurance Marketplace Financial Statements For the Fiscal Year Ended June 30, 2024
@@ -3011,6 +3214,7 @@ sources:
   references_out: []
 - id: 2025-14
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10363268
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10363268
   format: pdf
   citation: Report No. 2025-14
   title: Oregon Faces Challenges in Addressing Gaps in the Behavioral Health Crisis System
@@ -3025,6 +3229,7 @@ sources:
   references_out: []
 - id: 2025-15
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=11016545
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/11016545
   format: pdf
   citation: Report No. 2025-15
   title: Safe Drinking Water Revolving Loan Fund Agreed Upon Procedures for Fiscal Years Ended June 30,
@@ -3040,6 +3245,7 @@ sources:
   references_out: []
 - id: 2025-16
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10363270
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/10363270
   format: pdf
   citation: Report No. 2025-16
   title: Keeping Oregon Accountable Fiscal Year 2024
@@ -3054,6 +3260,7 @@ sources:
   references_out: []
 - id: 2025-17
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=11123244
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/11123244
   format: pdf
   citation: Report No. 2025-17
   title: Clean Water State Revolving Fund Loan Program Enterprise Fund of the State of Oregon for the
@@ -3069,6 +3276,7 @@ sources:
   references_out: []
 - id: 2025-18
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=11215565
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/11215565
   format: pdf
   citation: Report No. 2025-18
   title: Without a Comprehensive Compliance Function, DAS Cannot Effectively Monitor High-Risk Contracts
@@ -3084,6 +3292,7 @@ sources:
   references_out: []
 - id: 2025-19
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=11816206
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/11816206
   format: pdf
   citation: Report No. 2025-19
   title: Financial Statements and Supplementary Schedules as of and for the Years Ended December 31, 2024
@@ -3099,6 +3308,7 @@ sources:
   references_out: []
 - id: 2025-20
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=11816207
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/11816207
   format: pdf
   citation: Report No. 2025-20
   title: Financial Statements—Statutory Basis as of and for the Years Ended December 31, 2024 and 2023,
@@ -3114,6 +3324,7 @@ sources:
   references_out: []
 - id: 2025-21
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=12280580
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/12280580
   format: pdf
   citation: Report No. 2025-21
   title: Oregon Short Term Fund An Investment Pool of the State of Oregon For the Year Ended June 30,
@@ -3129,6 +3340,7 @@ sources:
   references_out: []
 - id: 2025-22
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=12280581
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/12280581
   format: pdf
   citation: Report No. 2025-22
   title: Oregon Local Government Intermediate Fund An Investment Pool of the State of Oregon For the Year
@@ -3144,6 +3356,7 @@ sources:
   references_out: []
 - id: 2025-23
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=12280582
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/12280582
   format: pdf
   citation: Report No. 2025-23
   title: Oregon Intermediate Term Pool An Investment Pool of the State of Oregon For the Year Ended June
@@ -3159,6 +3372,7 @@ sources:
   references_out: []
 - id: 2025-24
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=12514798
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/12514798
   format: pdf
   citation: Report No. 2025-24
   title: Veterans' Loan Program Annual Financial Report An Enterprise Fund of the Oregon Department of
@@ -3174,6 +3388,7 @@ sources:
   references_out: []
 - id: 2025-25
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=12721425
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/12721425
   format: pdf
   citation: Report No. 2025-25
   title: For Years, BOLI’s Leadership Failed to Implement Key Management Principles to the Detriment of
@@ -3189,6 +3404,7 @@ sources:
   references_out: []
 - id: 2025-26
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=12732486
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/12732486
   format: pdf
   citation: Report No. 2025-26
   title: Annual Financial Report Enterprise Funds For the Year Ended June 30, 2025
@@ -3203,6 +3419,7 @@ sources:
   references_out: []
 - id: 2025-27
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=12742419
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/12742419
   format: pdf
   citation: Report No. 2025-27
   title: Annual Comprehensive Financial Report Enterprise Fund For the Year Ended June 30, 2025
@@ -3217,6 +3434,7 @@ sources:
   references_out: []
 - id: 2025-28
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=12742447
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/12742447
   format: pdf
   citation: Report No. 2025-28
   title: Common School Fund Annual Financial Report For the Fiscal Year Ended June 30, 2025
@@ -3231,6 +3449,7 @@ sources:
   references_out: []
 - id: 2025-29
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=13404575
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/13404575
   format: pdf
   citation: Report No. 2025-29
   title: Measure 110 Lacks Stability, Coordination, and Clear Results
@@ -3245,6 +3464,7 @@ sources:
   references_out: []
 - id: 2025-30
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=13703091
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/13703091
   format: pdf
   citation: Report No. 2025-30
   title: Annual Comprehensive Financial Report For the Fiscal Year Ended June 30, 2025, Contract Audit
@@ -3259,6 +3479,7 @@ sources:
   references_out: []
 - id: 2026-01
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=14778991
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/14778991
   format: pdf
   citation: Report No. 2026-01
   title: Audit Plan for Performance Audits Fiscal Year 27
@@ -3273,6 +3494,7 @@ sources:
   references_out: []
 - id: 2026-02
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=14852869
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/14852869
   format: pdf
   citation: Report No. 2026-02
   title: Oregon Annual Comprehensive Financial Report For the Fiscal Year Ended June 30, 2025
@@ -3287,6 +3509,7 @@ sources:
   references_out: []
 - id: 2026-03
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=15019972
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/15019972
   format: pdf
   citation: Report No. 2026-03
   title: State Government Waste Hotline Summary Report Calendar Year 2025
@@ -3301,6 +3524,7 @@ sources:
   references_out: []
 - id: 2026-04
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=15132149
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/15132149
   format: pdf
   citation: Report No. 2026-04
   title: 'Oregon Municipalities: Summary of Financial Reporting Fiscal Year 2024'
@@ -3315,6 +3539,7 @@ sources:
   references_out: []
 - id: 2026-05
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=15284293
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/15284293
   format: pdf
   citation: Report No. 2026-05
   title: Small Scale Energy Loan Program For the Year Ended June 30, 2025
@@ -3329,6 +3554,7 @@ sources:
   references_out: []
 - id: 2026-06
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=15493045
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/15493045
   format: pdf
   citation: Report No. 2026-06
   title: Cybersecurity Controls Audit
@@ -3343,6 +3569,7 @@ sources:
   references_out: []
 - id: 2026-07
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=15493046
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/15493046
   format: pdf
   citation: Report No. 2026-07
   title: Audit of Pension Schedule of Employer Allocations and Pension Amounts by Employer for the Year
@@ -3358,6 +3585,7 @@ sources:
   references_out: []
 - id: 2026-08
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=15493047
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/15493047
   format: pdf
   citation: Report No. 2026-08
   title: Audit of RHIPA Schedule of OPEB Amounts for the Year Ended June 30, 2025
@@ -3372,6 +3600,7 @@ sources:
   references_out: []
 - id: 2026-09
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=15493048
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/15493048
   format: pdf
   citation: Report No. 2026-09
   title: Audit of RHIA Schedule of Employer Allocations and OPEB Amounts by Employer for the Year Ended
@@ -3387,6 +3616,7 @@ sources:
   references_out: []
 - id: 2026-10
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=15531589
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/15531589
   format: pdf
   citation: Report No. 2026-10
   title: Statewide Single Audit for Fiscal Year 2025
@@ -3401,6 +3631,7 @@ sources:
   references_out: []
 - id: 2026-11
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=15536272
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Recordhtml/15536272
   format: pdf
   citation: Report No. 2026-11
   title: Inadequate Safety Inspections and Poor Asset Tracking Increase Risk to Public Safety and Property
@@ -3415,6 +3646,7 @@ sources:
   references_out: []
 - id: 2026-12
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=15591093
+  source_url: https://records.sos.state.or.us/ORSOSWebDrawer/Record/15591093
   format: pdf
   citation: Report No. 2026-12
   title: Special Public Works Fund and Water Fund Enterprise Funds For the Year Ended June 30, 2025
@@ -3429,6 +3661,7 @@ sources:
   references_out: []
 - id: 2026-13
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=15593487
+  source_url: https://records.sos.state.or.us/ORSOSCMSearch/Search/RecordViewer.aspx?uri=15593487
   format: pdf
   citation: Report No. 2026-13
   title: Oregon Health Insurance Marketplace Financial Statements For the Fiscal Year Ended June 30, 2025
@@ -3443,6 +3676,7 @@ sources:
   references_out: []
 - id: 2026-14
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=15593511
+  source_url: https://records.sos.state.or.us/ORSOSCMSearch/Search/RecordViewer.aspx?uri=15593511
   format: pdf
   citation: Report No. 2026-14
   title: Oregon Health Insurance Marketplace Fiscal Year 2025 Compliance
@@ -3457,6 +3691,7 @@ sources:
   references_out: []
 - id: 2026-15
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=15833541
+  source_url: https://records.sos.state.or.us/ORSOSCMSearch/Search/RecordViewer.aspx?uri=15833541
   format: pdf
   citation: Report No. 2026-15
   title: Cybersecurity Controls Audit
@@ -3471,6 +3706,7 @@ sources:
   references_out: []
 - id: 2026-16
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=16118172
+  source_url: https://records.sos.state.or.us/ORSOSCMSearch/Search/RecordViewer.aspx?uri=16118172
   format: pdf
   citation: Report No. 2026-16
   title: Keeping Oregon Accountable Fiscal Year 2025
@@ -3485,6 +3721,7 @@ sources:
   references_out: []
 - id: 2026-17
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=16127661
+  source_url: https://records.sos.state.or.us/ORSOSCMSearch/Search/RecordViewer.aspx?uri=16127661
   format: pdf
   citation: Report No. 2026-17
   title: Clean Water State Revolving Fund Loan Program Enterprise Fund of the State of Oregon Fiscal Year
@@ -3500,6 +3737,7 @@ sources:
   references_out: []
 - id: 2026-18
   url: https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=16163545
+  source_url: https://records.sos.state.or.us/ORSOSCMSearch/Search/RecordViewer.aspx?uri=16163545
   format: pdf
   citation: Report No. 2026-18
   title: High School Graduation and College and Career Readiness Fund For Biennium Ended June 30, 2025
@@ -3569,5 +3807,78 @@ sources:
   report_month: 08 - August
   recheck: annual
   sha256: "8847803d4947737f78937e5a8ab1be6aef1075cbca607d9b883e90ebb137c52d"
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2026-23
+  url: https://sos.oregon.gov/audits/Documents/2026-23.pdf
+  format: pdf
+  citation: Report No. 2026-23
+  title: Oregon Short Term Fund An Investment Pool of the State of Oregon For the Year Ended June 30,
+    2026, Contract Audit
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Treasurer, Office of the State
+  report_year: '2026'
+  report_month: 09 - September
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2026-24
+  url: https://sos.oregon.gov/audits/Documents/2026-24.pdf
+  format: pdf
+  citation: Report No. 2026-24
+  title: State Oregon Local Government Intermediate Fund An Investment Pool of the State of Oregon For
+    the Year Ended June 30, 2026, Contract Audit
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Treasurer, Office of the State
+  report_year: '2026'
+  report_month: 09 - September
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2026-25
+  url: https://sos.oregon.gov/audits/Documents/2026-25.pdf
+  format: pdf
+  citation: Report No. 2026-25
+  title: Oregon Intermediate Term Pool An Investment Pool of the State of Oregon For the Year Ended June
+    30, 2026, Contract Audit
+  doc_type: audit_report
+  audit_type: financial
+  audited_agency: Treasurer, Office of the State
+  report_year: '2026'
+  report_month: 09 - September
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2026-26
+  url: https://sos.oregon.gov/audits/Documents/2026-26.pdf
+  format: pdf
+  citation: Report No. 2026-26
+  title: Medicaid Duplicate IDs Put Federal Funding at Risk
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Health Authority, Oregon
+  report_year: '2026'
+  report_month: 09 - September
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
+- id: 2026-27
+  url: https://sos.oregon.gov/audits/Documents/2026-27.pdf
+  format: pdf
+  citation: Report No. 2026-27
+  title: Improved Oversight and Processes are Needed to Achieve High School Success Objectives
+  doc_type: audit_report
+  audit_type: performance
+  audited_agency: Education, Oregon Department of
+  report_year: '2026'
+  report_month: 09 - September
+  recheck: annual
+  sha256: ''
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []

@@ -1,6 +1,6 @@
 # STATUS — Oregon Audits — Secretary of State Audits Division
 
-Generated 2026-09-04. Non-authoritative; see DISCLAIMER.md.
+Generated 2026-09-28. Non-authoritative; see DISCLAIMER.md.
 
 ## Documents by type
 
@@ -12,7 +12,7 @@ Generated 2026-09-04. Non-authoritative; see DISCLAIMER.md.
 
 ## Source manifest
 
-244 declared source(s) across 1 group(s) in `source-manifest.yml`.
+249 declared source(s) across 1 group(s) in `source-manifest.yml`.
 
 ## Freshness (reverify every 365 days)
 

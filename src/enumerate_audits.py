@@ -41,6 +41,7 @@ import re
 import sys
 import time
 import urllib.error
+import urllib.parse
 import urllib.request
 from pathlib import Path
 
@@ -59,6 +60,48 @@ UA = ("OregonAI-corpus-bot/0.1 (+https://github.com/OregonAI/oregon-audits; "
 # sort correctly. Three-digit numbers have never appeared; if one does, the padding leaves
 # it alone rather than truncating.
 REPNO = re.compile(r"\b(20\d{2})-(\d{1,3})\b")
+
+# WHAT A SOURCE FETCHES IS NOT WHAT A DOCUMENT CITES (#47, #53, #59). The list links an ORMS
+# record through one of three viewer pages. Since 2026-09 those pages are a pdf.js shell
+# whose bytes carry per-request ASP.NET tokens, so hashing one reported 191 of 244 sources
+# CHANGED on every drift run. The record's own bytes come from DocumentStream.ashx under the
+# SAME id, so `url` (what drift fetches and ingestion reads) is the stream, `format: pdf`,
+# and `source_url` keeps the list's link verbatim, because that is the page a document
+# cites. #53 made this change by hand in the manifest and this file kept writing the old
+# shape, so every re-run silently reverted it; the transform lives here now.
+ORMS_ID = re.compile(r"records\.sos\.state\.or\.us/(?:ORSOSWebDrawer/Record(?:html)?/"
+                     r"|ORSOSCMSearch/Search/RecordViewer\.aspx\?uri=)(\d+)", re.I)
+ORMS_STREAM = "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri="
+
+
+def fetch_target(list_url: str) -> tuple[str, str] | None:
+    """(url, format) to fetch for a list link, or None for a shape not seen before."""
+    m = ORMS_ID.search(list_url)
+    if m:
+        return ORMS_STREAM + m.group(1), "pdf"
+    if urllib.parse.urlsplit(list_url).path.lower().endswith(".pdf"):
+        return list_url, "pdf"
+    return None
+
+
+class Quoted(str):
+    """A sha256 written in double quotes, as `corpus-detect-changes --record-baseline`
+    writes it, so the two writers of this file do not churn each other's quoting."""
+
+
+yaml.SafeDumper.add_representer(
+    Quoted, lambda d, v: d.represent_scalar("tag:yaml.org,2002:str", str(v), style='"'))
+
+
+def recorded_baselines() -> dict[str, str]:
+    """url -> sha256 from the committed manifest. The drift job owns the baseline (toolkit
+    ADR 0015): this file never computes one, only carries it across a rewrite, keyed on
+    `url` so a source that starts fetching something else starts unseeded."""
+    if not MANIFEST.is_file():
+        return {}
+    held = yaml.safe_load(MANIFEST.read_text(encoding="utf-8")) or {}
+    return {s["url"]: s["sha256"] for s in held.get("sources") or []
+            if s.get("url") and s.get("sha256")}
 
 
 def _get(url: str, accept: str = "text/html") -> bytes:
@@ -113,10 +156,12 @@ def fetch_recent_numbers() -> set[str]:
     return {f"{y}-{int(n):02d}" for y, n in REPNO.findall(text)}
 
 
-def build_records(items: list[dict]) -> tuple[list[dict], list[str]]:
+def build_records(items: list[dict],
+                  baselines: dict[str, str] | None = None) -> tuple[list[dict], list[str]]:
     """(manifest records, anomalies). Anomalies are reported, never silently resolved."""
     anomalies: list[str] = []
     by_num: dict[str, dict] = {}
+    baselines = baselines or {}
 
     for it in items:
         num = _norm_repno((it.get("Link") or {}).get("Description") or "")
@@ -126,18 +171,16 @@ def build_records(items: list[dict]) -> tuple[list[dict], list[str]]:
         if not urls:
             anomalies.append(f"{num}: numbered row with no URL at all")
             continue
+        target = fetch_target(urls[0])
+        if target is None:
+            anomalies.append(f"{num}: link is neither an ORMS record nor a .pdf: {urls[0]}")
+            continue
+        url, fmt = target
         rec = {
             "id": num,
-            "url": urls[0],
-            # The URL serves HTML, and saying `pdf` here would be a lie with consequences:
-            # corpus-detect-changes would run pdftotext over an HTML page. The document
-            # itself is base64 inside a <script> in that HTML (see ingest_audits.py), so
-            # html_to_text excludes it and the drift hash tracks the record's displayed
-            # metadata — 386 stable chars, measured. That is blind to the PDF changing,
-            # which is ACCEPTABLE here and nowhere else: an audit report is immutable once
-            # published. What we need drift detection for is link rot, and a dead URL
-            # still surfaces as a fetch failure.
-            "format": "html",
+            "url": url,
+            **({"source_url": urls[0]} if urls[0] != url else {}),
+            "format": fmt,
             "citation": f"Report No. {num}",
             "title": (it.get("Title") or "").strip(),
             "doc_type": "audit_report",
@@ -146,7 +189,7 @@ def build_records(items: list[dict]) -> tuple[list[dict], list[str]]:
             "report_year": it.get("Year"),
             "report_month": it.get("Month"),
             "recheck": "annual",
-            "sha256": "",
+            "sha256": Quoted(baselines[url]) if url in baselines else "",
             "why_relevant": "Audits Division findings and recommendations, with the "
                             "audited agency's response.",
             "references_out": [],
@@ -206,9 +249,14 @@ def render(records: list[dict], gaps: list[str], anomalies: list[str]) -> str:
         "   Unescape them or every URL 404s in a way that looks exactly like link rot.\n"
         "3. Report numbers are NOT dense. A gap can be a withdrawal under GAGAS 3.34 — one\n"
         "   really is — so every gap is listed below with a reason rather than skipped.\n"
-        "4. `format: html` is deliberate and is NOT a mistake: these URLs serve an HTML\n"
-        "   viewer with the PDF base64-encoded inside a <script>. Declaring `pdf` would run\n"
-        "   pdftotext over HTML.\n"
+        "4. `url` is what is fetched and `source_url` is what a document cites (#47, #59).\n"
+        "   The list links ORMS records through viewer pages (Recordhtml, Record,\n"
+        "   RecordViewer.aspx) that are now a pdf.js shell with per-request tokens; hashing\n"
+        "   them made 191 sources report changed every run. `url` is the same record's\n"
+        "   DocumentStream.ashx, which serves the PDF itself, so `format: pdf`. `source_url`\n"
+        "   keeps the list's link verbatim and is present only where the two differ.\n"
+        "5. `sha256` is the drift job's baseline, carried across a re-run by `url` and never\n"
+        "   computed here. A source whose `url` changes starts unseeded.\n"
     )
     doc = {
         "note": note,
@@ -236,7 +284,7 @@ def main() -> int:
     args = ap.parse_args()
 
     items = fetch_list()
-    records, anomalies = build_records(items)
+    records, anomalies = build_records(items, recorded_baselines())
     gaps = gap_report(records, items)
     recent = fetch_recent_numbers()
 

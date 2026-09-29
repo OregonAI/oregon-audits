@@ -308,7 +308,9 @@ def build_document(src: dict, text: str, sha: str, report_date: str) -> str:
         # NOT a boolean. "false" would be read as "the agency did not respond", which is a
         # claim this corpus cannot make from a text layer that omits scanned letters.
         "agency_response": resp_state,
-        "source_url": src["url"],
+        # The list's own link, which a reader can open; `url` is the byte stream behind it
+        # (see enumerate_audits.fetch_target). Absent when the two are the same URL.
+        "source_url": src.get("source_url") or src["url"],
         "source_format": "pdf",
         "retrieved": time.strftime("%Y-%m-%d"),
         "source_sha256": sha,

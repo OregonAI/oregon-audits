@@ -1,0 +1,558 @@
+Oregon Health Authority
+Medicaid Duplicate IDs Put
+Federal Funding at Risk
+September 2026
+Report 2026-26
+Secretary of State Tobias Read
+Audits Director Steve Bergmann
+Audit Summary
+Oregon Health Authority
+Medicaid Duplicate IDs Put Federal Funding at Risk
+OBJECTIVE
+Determine whether the Oregon Health Authority (OHA) made duplicate payments for the same recipient at the same time.
+SCOPE
+This audit focuses on Medicaid recipients who had multiple system IDs and concurrent capitation payments made from
+2020 to 2024. A capitation payment is a fixed monthly amount OHA pays to Coordinated Care Organizations (CCOs) for
+each recipient regardless of how many services a recipient uses.
+In 2025, Oregon spent $19 billion on Medicaid, of which $13 billion was federally funded. One in three Oregonians rely on
+this important service. The federal government can reduce or withhold funding from states that are out of compliance with
+rules. Paying Coordinated Care Organizations multiple capitation payments for the same recipient reduces the funding
+available to other important programs in the state. Due to the critical nature of this program, OHA must run Medicaid
+efficiently, effectively, and in compliance with federal rules.
+Federal funding could be at risk if OHA does not follow federal rules . (pg. 3)
+One in three Oregonians rely on Medicaid for critical healthcare coverage. Medicaid is funded jointly by states and the
+federal government. If Oregon fails to follow federal rules, the federal government can withhold or reduce funding which
+makes up about two-thirds of the Medicaid budget. Though OHA has up to one year to remit the federal portion of
+overpayments back to the federal government, compliance is critical to maintaining funding for the program.
+OHA made duplicate capitation payments for the same recipient during the same time.  (pg.3)
+We performed data matches between all Medicaid recipients from 2020 to 2024 to identify potential duplicate recipients
+where capitation payments were made concurrently. Out of more than 2 million IDs, we identified 645 potential duplicates
+and tested 56 pairs of IDs. Our testing found $230,252 in overpayments. After projecting the errors to the population, we
+estimate OHA made between $232,000 and $4.1 million of duplicate capitation payments for the entire Medicaid program
+between 2020 and 2024.
+Duplicate Medicaid IDs can cause data integrity issues.  (pg. 5)
+When one recipient has multiple system IDs assigned to them, the system data is no longer accurate and consistent. Each
+duplicate ID created causes the agency to spend more time and resources cleaning up the errors. Duplicates can also
+cause issues with reporting accurate information to the federal government and can create issues with system contractors.
+Why this audit is important
+What we found
+To comply with federal regulations, OHA should:
+1. Review the other IDs that were not detail tested to determine if they are duplicates and whether overpayments
+occurred. Along with the tested 31 samples, remit the federal portion of the overpayments back to the federal
+government.
+On recouping overpayments to CCOs, OHA should use the capitation reconciliation process to:
+2. Recoup duplicate payments from CCOs.
+To better prevent and detect duplicate IDs, OHA should:
+3. Provide specific training to eligibility workers on best practices for researching applicants and potential matches.
+4. Develop future system enhancements that will reduce the manual research currently performed by eligibility workers.
+5. Design and implement a quality control process to better prevent and detect duplicate IDs. Included in this process
+should be:
+a. A mechanism to identify capitation payments once duplicate IDs are identified; and
+b. Using the established capitation reconciliation process, remit the federal portion of overpayments in
+compliance with federal regulations once they are identified.
+OHA agreed with all our recommendations. The response can be found at the end of the report.
+What we recommend
+Agency response
+Read the full audit report at sos.oregon.gov/audits
+Introduction
+Oregon Secretary of State September 2026
+Report 2026-26 page 1
+People with low incomes or disabilities rely on Medicaid for important health care services. The Centers for
+Medicare and Medicaid Services administers the program at the federal level. The Oregon Health Authority
+(OHA) administers Oregon’s program in accordance with a federally approved plan. States have flexibility
+in designing and operating Medicaid, but they must comply with federal requirements. While OHA is
+responsible for administering the program, the Oregon Department of Human Services (ODHS) helps
+determine who is eligible for Medicaid and other public assistance programs.
+Figure 1: ODHS and OHA are both responsible for parts of Medicaid
+Source: Auditor created based on 2023-25 Legislatively Adopted Budget
+In 2025, Oregon spent $19 billion on Medicaid, of which $13 billion was federally funded. Medicaid is also
+known as the Oregon Health Plan, or OHP. As of January 2026, about 1.4 million people receive Medicaid
+benefits, or one in three Oregonians. Due to the size and critical nature of this program, OHA must run
+Medicaid efficiently, effectively, and in compliance with federal rules.
+Most Oregon Medicaid recipients are enrolled in a Coordinated Care
+Organization
+Oregon has a “no wrong door” approach for people wanting to apply for Medicaid and other programs.
+Oregonians can submit a single application, and it can be used to determine eligibility for multiple
+assistance programs, like the Supplemental Nutrition Assistance Program, Temporary Assistance for
+Needy Families, childcare assistance through Employment Related Day Care, Medicaid, refugee,
+domestic violence, and long-term care services. Previously, people would have applied separately for
+programs, often repeating administrative work for both the applicant and for eligibility workers. Prior to the
+implementation of the OregONEligibility System (ONE), eligibility workers would use legacy systems to
+apply and determine benefits. This older system is still in place and used for some smaller programs.
+Oregon Secretary of State September 2026
+Report 2026-26 page 2
+There are multiple ways to enroll in the Medicaid program- online, by phone, in-person, by a certified
+community partner, or by paper application. The online web application will walk the applicant through
+entering necessary personal information and help determine if they are eligible. When a person calls to
+apply, they are routed to an eligibility worker who walks them through the process. People can also apply in
+person at a local ODHS office or through a certified community partner. They can download and print an
+application that can be filled out at home before going to the office or fill out an application once they are
+there. They are then seen by a caseworker or community partner who enters their information from the
+application. Paper applications are processed at local ODHS offices throughout the state. Once eligibility is
+established a case is created and a unique ID number is assigned. If the applicant is a returning recipient,
+their prior identification number will be reused.
+Figure 2: There are multiple ways to enroll in Medicaid
+While some recipients maintain Medicaid eligibility for long stretches of time, other recipients have less
+continuous eligibility. Some reasons for eligibility fluctuations can be changes in income or delays in
+submitting required documentation. During the pandemic, federal regulations prevented states from
+removing recipients from Medicaid, except when they moved to another state, were deceased, or asked for
+their benefits to be closed. Even if their income rose above the eligibility threshold, they were still covered.
+After the pandemic, the process of redetermining eligibility for recipients began. During this process,
+eligibility was automatically renewed using existing data like tax records and social security income.
+Recipients were sent a request to provide more information if not enough was available. Recipients were
+not required to submit a formal application. Due to this passive renewal, some recipients may not have
+been aware or remembered they were enrolled in the program, and benefits were being paid for their
+healthcare.
+Oregon uses two separate models to deliver services: fee-for-service and coordinated care. In the fee-for-
+service model, a Medicaid recipient visits a health care provider, the provider bills OHA directly for
+approved services, and OHA pays the provider. The coordinated care model involves coordinated care
+organizations (CCOs). A CCO is a network of providers who work together in local communities to serve
+people who receive Medicaid. CCOs focus on prevention and helping people manage chronic conditions.
+Oregon currently has 16 CCOs providing coverage for more than 90% of Medicaid recipients.
+OHA pays CCOs predetermined rates for each recipient every month. These are known as capitation
+payments. CCOs get these payments no matter how many or how few services a recipient uses in a month.
+CCOs pay providers in their networks for services rendered and send data about these services to OHA.
+This data helps to determine future capitation rates. Rates are determined based on a number of factors
+such as population, geography, and specific age group data. When somebody who has currently or
+previously received Medicaid applies for new benefits, it is important they are enrolled under their previous
+ID number, even if it has been years or decades since it was last used. Duplicate IDs for the same person
+can lead to duplicate capitation payments and data integrity issues.
+Audit Results
+Oregon Secretary of State September 2026
+Report 2026-26 page 3
+As the state Medicaid agency, OHA is responsible for Oregon’s Medicaid program. Oregon’s federal
+funding is at risk if the program is out of compliance, which would impact OHA’s ability to serve vulnerable
+Oregonians. From 2020 to 2024, OHA paid $37 billion in capitation payments to CCOs. During this same
+time, we estimate OHA paid CCOs a small fraction of that, between $232,000 and $4.1 million in
+overpayments for recipients enrolled in the program under duplicate IDs.
+Duplicate IDs for the same person risk federal funding and can lead to
+overpayments and data integrity issues
+Recent audits in other states have found duplicate Medicaid recipients to be a risk area and Oregon’s
+estimated overpayments are less than some other states. While there are some processes in place to
+prevent and detect duplicate IDs, more should be done to comply with federal rules in Oregon. OHA should
+repay the federal portion of identified overpayments, recoup overpayments from CCOs, and improve
+controls to better prevent and identify duplicate recipients.
+Federal funding could be at risk if OHA does not follow federal rules
+Medicaid funding provides important healthcare coverage for Oregonians, so compliance is critical in
+maintaining the program. Federal rules promote consistency, support program integrity, and help prevent
+fraud. While states have some flexibility in operating their programs, federal rules create a baseline which
+helps reduce disparities in access to care and supports broader public health goals like improving health
+outcomes and ensuring access to essential services.
+If Oregon does not comply with federal Medicaid rules, the federal government can reduce or withhold
+funding, which makes up about two-thirds of Oregon’s Medicaid budget. Federal rules require states to
+return the federal portion of any overpayments. In Oregon, the federal match is about 58%, so for every $1
+overpaid, OHA must refund $0.58 to the federal government.1 Federal rules require states to remit the
+federal portion of overpayments within one year after identification.
+We estimate OHA made between $232,000 and $4.1 million of duplicate capitation
+payments between 2020 and 2024
+Duplicate capitation payments occur when OHA pays CCOs more than once for the same enrolled
+recipient for the same month of coverage. The federal government and OHA consider these
+overpayments. We conducted three different data matches to identify potential instances where duplicate
+payments were made. We then stratified the population based on the type of match and dollar amount.
+We performed data matching between all Medicaid recipients from 2020 to 2024 to identify potential
+duplicate recipients where capitation payments were made concurrently. Out of more than 2 million IDs, we
+1 Oregon’s standard Medicaid matching rate is about 58%. Administrative matching rates are typically 50%.
+Oregon Secretary of State September 2026
+Report 2026-26 page 4
+identified 645 pairs of potential duplicate IDs. We tested 56 of those pairs and verified 31 were duplicates
+and 28 had concurrent capitation overpayments totaling $230,252.
+Out of the 31 duplicates we identified, most had been merged before our testing, showing that the agency
+had appropriately identified them as duplicates. OHA had recouped or adjusted the duplicate payments for
+some samples before our testing was done, but there were some previously identified duplicates where the
+payments were not recouped. Once OHA recoups all duplicate capitation, the total overpayment will be $0.
+There is a reconciliation unit within OHA that works on recouping these and other kinds of overpayments.
+The agency reports that improvements were made to streamline the process to get information on
+duplicate IDs to this unit, who identify capitation payments that need to be recouped. The new process is
+timelier, and enrollment and capitation changes can occur at the same time. After we completed our testing
+and notified the agency of the duplicates, some overpayments were recouped quickly. However, not all the
+overpayments were recouped by this process. OHA should improve or develop controls that will ensure
+once a duplicate is identified that this information is reported to this unit.
+Figure 3: Duplicate IDs with concurrent capitation represent a very small portion of all Medicaid IDs
+The non-duplicates were mostly twins with similar names or different people who shared the same name
+and birthdate. Duplicates were more likely to be caught by the agency when the social security number
+matched exactly between two recipients. We estimate OHA made between $232,000 and $4.1 million
+duplicate capitation payments between 2020 and 2024. We also found additional duplicate payments that
+were made on behalf of these recipients in 2025 and 2026, totaling an additional $51,285 in
+Oregon Secretary of State September 2026
+Report 2026-26 page 5
+overpayments.2 OHA did not recoup most of the payments to CCOs that were made for the duplicate
+recipients identified. The federal government considers these to be overpayments.3
+Figure 4: OHA made an estimated $232,000 - $4.1 million in duplicate capitation payments between 2020 and
+2024
+Strata  Population
+Total
+Duplicate
+payments
+Estimate of
+total duplicate
+payments
+Low
+Estimate of total
+duplicate
+payments
+Average
+Estimate of total
+duplicate payments
+High
+Tier 1 $680,169  $6,111 $26,521  $273,595 $520,670
+Tier 2 $1,615,751  $14,495 $1,490  $574,443 $1,147,396
+Tier 3 $5,444,964  $132,563 $203,891  $1,020,747 $1,837,604
+Tier 4 $2,640,337 $77,083 $0  $195,333 $586,346
+Total  $10,381,221 $230,252 $231,902  $2,064,118 $4,092,016
+Source: Auditor prepared based on OHA capitation and recipient data4
+In the past few years, certified community partners submitted only 12%-14% of all medical applications.
+However, for over two-thirds of our identified duplicate samples, certified community partners helped
+submit one or both applications. Most applications are submitted through the online web application or by
+phone. Certified community partners have cited access barriers and inconsistent information given by
+applicants as reasons why it can be challenging to help Oregonians apply for benefits.
+Duplicate IDs create data integrity issues
+ODHS estimates there were more than 11,000 duplicate IDs as of March 2026. We processed over 2
+million system IDs, from 2020 to 2024, and found only 645 pairs of potential duplicates with associated
+concurrent capitation payments. This shows that duplicates IDs with concurrent capitation payments are
+very small. However, system data needs to be accurate and consistent. When a single person has
+duplicate IDs, accuracy is eroded, creating errors which take time and resources to fix. Duplicate IDs can
+also cause inaccuracies in federal reporting and create more work for system contractors.
+OHA should do more to prevent and detect potential duplicates in a timely manner to ensure accurate
+federal reporting and prevent overpayments. With the upcoming mandated federal changes, OHA must
+take steps to reduce improper payments, and the time staff spend on issues that could be mitigated. The
+agency should develop or improve existing controls to better detect and reduce duplicate IDs.
+2 Since these overpayments were made outside our scope of 2020-2024, we cannot project these errors to the population.
+3 42 CFR § 433.304
+4 See the OSM starting on page 8 for the methodology of our data analysis.
+Oregon Secretary of State September 2026
+Report 2026-26 page 6
+Current controls do not adequately identify duplicate recipients
+Eligibility workers help Oregonians apply to many different programs. The system can identify potential
+duplicates, but adequate worker training is necessary for the system to be effective. Staff have not been
+adequately trained on how to see if applicants already have a system ID assigned to them. Properly
+identifying existing recipient IDs is critical to ensuring duplicate capitation payments are not being paid to
+CCOs.
+The system can identify potential duplicates, but still relies on adequate worker training
+Before a new case is created in the ONE System by an eligibility worker, a weighted match is performed
+where information from the new applicant is compared to people already in the system. The match is based
+on name, SSN, and date of birth. The higher the score, the greater the likelihood those records represent
+the same person. After this match has occurred, the eligibility worker is notified. If the match is partial, the
+worker will need to perform additional research, but this is not mandated by the system. This control only
+works if eligibility workers are adequately trained to research potential matches when the notice appears.
+Figure 5: System controls identify full and partial matches
+Upcoming federal changes will increase fiscal and administrative pressure on states
+Recent federal legislation made significant changes to programs, including Medicaid. By the end of
+2026, many adults who gained coverage under the Affordable Care Act will be required to work or
+volunteer for at least 80 hours per month or be enrolled in school half time. Or meet it by earning at least
+80 times the Federal hourly minimum wage to keep their coverage. Over 40% of Oregon’s Medicaid
+recipients fall under this category, or about 600,000 people. In Oregon, eligibility is currently checked
+once every two years, but under the new requirements, most recipients will have their eligibility checked
+once every six months. These increased eligibility checks will put a strain on the state’s resources.
+Oregon Secretary of State September 2026
+Report 2026-26 page 7
+A different matching process is done on an ongoing basis for recipients whose first name, last name, and
+date of birth match exactly. These matches are researched in various systems, and any IDs that are
+determined to be duplicates are merged. While this match does identify some duplicates, it is limited. Our
+testing found slight to moderate variation between the duplicate IDs we tested, which would not be caught
+by this limited match. Based on these control weaknesses, OHA should design and implement a quality
+control process to better prevent and detect duplicate IDs.
+Eligibility staff lack training to identify existing recipient IDs
+There are times where identifying a previous ID can be challenging. For example, if the applicant has
+changed their name, spells their name differently than they did in the past, has two last names, or the wrong
+date of birth or SSN is entered by accident. If the prior ID is not identified, a new case could inappropriately
+be created. Properly identifying previous recipients is critical to ensuring duplicate capitation payments are
+not being paid to CCOs.
+Eligibility workers have not been adequately trained to research applicants in the various systems. Training
+materials direct workers to look in more than one system to verify that an applicant does not have a prior ID
+assigned to them. The system used prior to the implementation of ONE is still used for a few small
+programs and houses recipient information prior to and since ONE’s implementation. When a member
+match is done, ONE uses information stored in its database, along with information stored in the older
+system to complete the member matching process. This is why workers are directed to check the older
+system when a partial match is identified.
+In this older system, users can’t use a mouse and must rely on keyboard commands to navigate numerous
+screens. Navigation is not intuitive and users often have to flip between multiple screens, as information on
+a single screen can be limited. The other systems used to research applicants are more modern and can be
+navigated with a mouse or keyboard but are not consistently used by eligibility workers.
+The agency does not provide easily accessible and comprehensive training materials for new employees
+explaining exactly how workers should conduct their research, like which screens should be checked, what
+the information on those screens means, and the multiple ways a recipient’s name should be searched.
+Many staff we spoke to believe a significant portion of duplicate IDs could be prevented if better, more
+comprehensive training was given to eligibility staff. With upcoming requirements for eligibility checks
+occurring every six months, it is important the people involved with helping Oregonians apply for the
+program are adequately trained.
+Recommendations
+Oregon Secretary of State September 2026
+Report 2026-26 page 8
+To comply with federal regulations, OHA should:
+1. Review the other IDs that were not detail tested to determine if they are duplicates and whether
+overpayments occurred. Along with the tested 31 samples, remit the federal portion of the
+overpayments back to the federal government.
+On recouping overpayments to CCOs, OHA should use the capitation reconciliation process to:
+2. Recoup duplicate payments from CCOs.
+To better prevent and detect duplicate IDs, OHA should:
+3. Provide specific training to eligibility workers on best practices for researching applicants and potential
+matches.
+4. Develop future system enhancements that will reduce the manual research currently performed by
+eligibility workers.
+5. Design and implement a quality control process to better prevent and detect duplicate IDs. Included in
+this process should be:
+a. A mechanism to identify capitation payments once duplicate IDs are identified; and
+b. Using the established capitation reconciliation process, remit the federal portion of
+overpayments in compliance with federal regulations once they are identified.
+Objective, Scope, and Methodology
+Oregon Secretary of State September 2026
+Report 2026-26 page 9
+OBJECTIVE
+Determine whether the Oregon Health Authority (OHA) made duplicate payments for the same recipient at
+the same time.
+SCOPE
+We tested potential duplicate Medicaid IDs where concurrent capitation payments were made from 2020 to
+2024.
+METHODOLOGY
+To meet our objective, we performed the following procedures:
+• Reviewed state and federal rules related to our audit objective
+• Reviewed language related to overpayments and recoupment in the OHA-CCO contracts
+• Obtained and reviewed audits from state and federal entities related to duplicate IDs
+• Interviewed ODHS/OHA staff
+• Sampled and tested 56 pairs of potential duplicate IDs
+Data Reliability
+We obtained Medicaid data from OHA. This data consisted of capitation payments paid to CCOs, recipient
+demographic information, and claims from 2020 to 2024. To assess the reliability of the data, we traced a
+sample of randomly selected records from each data type and compared key fields to information in the
+originating systems. This provided reasonable assurance that the information we obtained was complete
+and accurate. Additionally, we performed data verification techniques such as comparing control totals and
+logic tests.
+Sampling
+To identify potential duplicate IDs, we performed three different matches on the recipient data:
+• Match 1: unique IDs that had the same SSN
+• Match 2: first 4 characters of the first name, first 4 characters of the last name, the exact date of
+birth, and the first 5 numbers/characters of the address
+• Match 3: first 4 characters of the first name, first 4 characters of the last name, the exact date of
+birth, and the exact zip code
+After performing the matches, we then joined them to capitation data to identify potential duplicates that
+had concurrent capitation payments. We then stratified the population into four tiers. From the
+stratification, we selected a random sample of 56 pairs out of 645 for detailed testing. The sample
+population was broken down into four unique strata based on match type and dollar amounts. Random
+samples were pulled from each stratum using a 90% confidence level.
+Oregon Secretary of State September 2026
+Report 2026-26 page 10
+Strata  Range Number of
+matches
+Population
+total
+Samples
+tested
+Tier 1: SSN match  $300 - $96,000 80 $680,169  8
+Tier 2: Demographic match  $400 - $15,000 330 $1,615,751  8
+Tier 3: Demographic match  $15,001 - $50,000 202 $5,444,964  27
+Tier 4: Demographic match  > $50,000 33 $2,640,337  13
+Total
+645 $10,381,221  56
+Testing
+For the samples tested, we reviewed:
+• The capitation history before, during, and after the concurrent period to identify any potential
+overpayments occurring outside the scope of our audit
+• Medical claims data during the concurrent period
+• Recipient information like case history, demographic information, and applications in the ONE
+system, MMIS, and the legacy system
+After testing, we confirmed the accuracy of our results with the agency. We then projected the errors to the
+population to get a high-low range using a 95% confidence interval, as seen in the body of the report.
+INTERNAL CONTROL REVIEW
+We determined the following internal controls were relevant to our audit objective.5
+• Control Environment
+o We considered whether management has demonstrated a commitment to train staff.
+• Control activities
+o We considered whether management has designed controls to achieve objectives and
+respond to risks.
+• Information and communication
+o We considered whether management has internally communicated the necessary quality
+information to achieve objectives.
+• Monitoring activities
+o We considered whether management has established and operated monitoring activities
+to monitor the internal control system and evaluate the results.
+Deficiencies with these internal controls were documented in the results section of this report.
+We conducted this performance audit in accordance with generally accepted government auditing
+standards. Those standards require that we plan and perform the audit to obtain sufficient, appropriate
+evidence to provide a reasonable basis for our findings and conclusions based on our audit objectives. We
+5 Auditors relied on standards for internal controls from the U.S. Government Accountability Office, report GAO-14-704G.
+Oregon Secretary of State September 2026
+Report 2026-26 page 11
+believe that the evidence obtained provides a reasonable basis for our findings and conclusions based on
+our audit objectives.
+We sincerely appreciate the courtesy and cooperation extended by officials and employees of OHA and
+ODHS during the course of this audit.
+ABOUT THE SECRETARY OF STATE AUDITS DIVISION
+The Oregon Constitution provides that the Secretary of State shall be, by virtue of the office, Auditor of
+Public Accounts. The Audits Division performs this duty. The division reports to the Secretary of State and
+is independent of other agencies within the Executive, Legislative, and Judicial branches of Oregon
+government. The Secretary of State has constitutional authority to audit all state officers, agencies, boards
+and commissions.
+Audit team
+Andrew Love, CFE, Audit Manager
+Kathy Davis, Principal Auditor
+Bentley Walker, MSFA, A-CPC, Senior Auditor
+500 Summer St. NE, E-20, Salem, OR 97301 | Voice: 503-947-2340 | Fax: 503-947-2341
+All relay calls accepted | www.oregon.gov/oha
+OFFICE OF THE MEDICAID DIRECTOR
+Tina Kotek, Governor
+September 10, 2026
+Steve Bergmann, Director
+Secretary of State, Audits Division
+255 Capitol St. NE, Suite 180
+Salem, OR 97310
+Dear Mr. Bergmann:
+This letter provides a written response to the Audits Division’s final draft audit report
+titled Medicaid Duplicate IDs Put Federal Funding at Risk.
+The Oregon Health Authority (OHA) appreciates the role of the Secretary of State Audits
+Division in providing oversight of Oregon’s State-funded programs on behalf of
+taxpayers and the people we serve. The scope of this audit was focused on Medicaid
+recipients who had multiple system IDs and concurrent capitation payments made from
+2020 to 2024.
+Oregon’s Medicaid program is built on a foundation of program integrity. Oregon’s goal
+is that all eligible Medicaid members receive the health and human services they need
+to achieve their optimal health and to ensure federal and state fund stewardship of
+these resources.
+The agency is concerned with the title of the audit report due to the fact that we work
+diligently through robust, established processes to recover and return monies, as
+appropriate, under the federal program guidelines.  While limited duplicate capitation
+payments may occur, OHA is committed to correcting any duplication errors and
+recouping the capitation payments. OHA has a managed care reconciliation team who
+are constantly working to correct enrollment, reduce the number of duplicate capitation
+payments, and refund the appropriate funds to the federal government.   OHA continues
+500 Summer St. NE, E-20, Salem, OR 97301 | Voice: 503-947-2340 | Fax: 503-947-2341
+All relay calls accepted | www.oregon.gov/oha
+to cooperate with state and federal oversight initiatives, and the outcomes continue to
+demonstrate strong state processes and compliance.
+Through this audit, we identified opportunities to improve workflows between units and
+across multiple agencies. OHA has already taken steps to streamline processes and
+ensure handoffs between the units are seamless.
+The audit report estimates OHA made between $232,000 and $4.1 million duplicate
+capitation payments between 2020 and 2024.  In context, the audit report estimates that
+between 0.0004% to 0.0064% of the $64 Billion in Medicaid program expenditures
+statewide between 2020 and 2024 may stem from duplicate capitation payments.  OHA
+is dedicated to being a responsible steward of taxpayer dollars.  OHA’s Managed Care
+Reconciliation Team maintains strong systems and processes that contribute to such a
+low percentage of estimated duplicate ID payments and is committed to making further
+operational improvements to prevent duplicate ID payments in the future.
+Below is our detailed response to each recommendation in the audit.
+RECOMMENDATION 1
+Review the other IDs that were not detail tested to determine if they are duplicates and
+whether overpayments occurred. Along with the tested 31 samples, remit the federal
+portion of the overpayments back to the federal government.
+Agree or Disagree
+with Recommendation
+Target date to complete
+implementation
+activities
+Name and email address of
+specific point of contact
+for implementation
+Agree October 31, 2026 Cheryl Ellison
+cheryl.a.ellison@oha.oregon.
+gov
+Narrative for Recommendation 1:
+OHA agrees with this recommendation and has already begun reviewing the other IDs.  The
+Managed Care Reconciliation Team is updating overlapping enrollment and recouping duplicate
+capitation payments once the Medicaid IDs have been merged.  Some cases may need
+500 Summer St. NE, E-20, Salem, OR 97301 | Voice: 503-947-2340 | Fax: 503-947-2341
+All relay calls accepted | www.oregon.gov/oha
+additional eligibility review before enrollment and capitation can be aligned between the IDs
+but we are addressing those workflows in recommendation 5.
+RECOMMENDATION 2
+Recoup duplicate payments from CCOs.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation
+activities
+Name and email address of
+specific point of contact for
+implementation
+Agree October 31, 2026 Cheryl Ellison
+cheryl.a.ellison@oha.oregon.
+gov
+Narrative for Recommendation 2:
+OHA agrees with this recommendation and has already begun reviewing the other IDs.  The
+Managed Care Reconciliation Team is creating manual adjustments in MMIS to recoup duplicate
+capitation payments.  Manual adjustments can take up to nine (9) days to process and be visible
+in the capitation history in MMIS. This is an ongoing process that will continue indefinitely.
+RECOMMENDATION 3
+Provide specific training to eligibility workers on best practices for researching applicants
+and potential matches.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation
+activities
+Name and email address of
+specific point of contact for
+implementation
+Agree June 30, 2027 Veronica Hillebrand
+veronica.hillebrand@odhs.ore
+gon.gov
+Narrative for Recommendation 3:
+OEP (Oregon Eligibility Partnership) has established a workgroup focused on reducing duplicate
+client records through improved training and guidance. On June 1, 2027, OEP-LET (Oregon
+Eligibility Partnership Learning and Engagement Team) will add hands-on DHR (system) training
+500 Summer St. NE, E-20, Salem, OR 97301 | Voice: 503-947-2340 | Fax: 503-947-2341
+All relay calls accepted | www.oregon.gov/oha
+to its OEP-LET curriculum, emphasizing best practices for researching applicants and reviewing
+potential matches before creating a new record.
+RECOMMENDATION 4
+Develop future system enhancements that will reduce the manual research currently
+performed by eligibility workers.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation
+activities
+Name and email address of
+specific point of contact for
+implementation
+Agree December 31, 2028 Veronica Hillebrand
+veronica.hillebrand@odhs.ore
+gon.gov
+Narrative for Recommendation 4:
+OEP has developed a future ONE system enhancement, CR 800472, designed to reduce the
+amount of manual research currently performed by eligibility workers by screening clients
+before a duplicate case record is created. This enhancement will help streamline workflows and
+improve data accuracy.
+RECOMMENDATION 5
+Design and implement a quality control process to better prevent and detect duplicate IDs.
+Included in this process should be:
+a) A mechanism to identify capitation payments once duplicate IDs are identified; and
+b) Using the established capitation reconciliation process, remit the federal portion of
+overpayments in compliance with federal regulations once they are identified.
+Agree or Disagree with
+Recommendation
+Target date to complete
+implementation
+activities
+Name and email address of
+specific point of contact for
+implementation
+Agree June 1, 2027 Chet Lundy
+chet.lundy@odhs.oregon.gov
+Narrative for Recommendation 5:
+500 Summer St. NE, E-20, Salem, OR 97301 | Voice: 503-947-2340 | Fax: 503-947-2341
+All relay calls accepted | www.oregon.gov/oha
+OHA agrees with this recommendation. We already have a process to remit the federal portion
+of overpayments to ensure compliance with federal regulations. While OHA already has an
+extensive capitation reconciliation process, there is additional opportunity to improve the
+quality control process between teams in multiple agencies to better prevent and detect
+duplicate IDs in the first place. We expect this process to be completed by June 1st, 2027.
+For any additional questions, please contact:
+April Gillette, Medicaid Strategic Operations & Improvement Director –
+april.s.gillette@oha.oregon.gov
+Sincerely,
+Vivian Levy
+Interim Medicaid Director
+Oregon Health Authority
+EC: Fariborz Pakseresht, Interim Director, OHA
+Kris Kautz, Deputy Director for Administration, OHA
+Rochelle Layton, Chief Financial Officer, OHA
+Emma Sandoe, Medicaid Director, OHA
+Level 3 - Restricted
+Secretary of State Tobias Read
+Audits Director Steve Bergmann
+Oregon Audits Division
+255 Capitol St NE, Suite 180
+Salem OR 97310
+(503) 986-2255
+audits.sos@sos.oregon.gov
+sos.oregon.gov/audits

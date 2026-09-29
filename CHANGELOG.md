@@ -6,6 +6,14 @@ Repo-curation dates only — official effective dates live in frontmatter.
 
 ## [Unreleased]
 
+### Added
+- 2026-09-29 — seven reports ingested verbatim, bringing the corpus level with its manifest
+  (249 of 249): **2026-21** and **2026-22** (SAIF Corporation), **2026-23**, **2026-24** and
+  **2026-25** (State Treasury investment pools: Short Term Fund, Local Government
+  Intermediate Fund, Intermediate Term Pool), **2026-26** (Oregon Health Authority,
+  Medicaid duplicate IDs) and **2026-27** (Department of Education, high school success
+  oversight). Full text verified against snapshots; each linked to the agency registry.
+
 ### Fixed
 - 2026-09-28 — `src/enumerate_audits.py` now writes the manifest #53 wrote by hand, so the
   documented refresh no longer reverts it (#59). Every ORMS link (`Recordhtml`, `Record`,

@@ -6,9 +6,9 @@ Generated 2026-09-28. Non-authoritative; see DISCLAIMER.md.
 
 | doc_type | count |
 |---|---|
-| audit_report | 242 |
+| audit_report | 249 |
 
-**Total: 242**
+**Total: 249**
 
 ## Source manifest
 
@@ -16,7 +16,7 @@ Generated 2026-09-28. Non-authoritative; see DISCLAIMER.md.
 
 ## Freshness (reverify every 365 days)
 
-242 of 242 document(s) overdue for re-verification.
+249 of 249 document(s) overdue for re-verification.
 
 | id | doc_type | last_verified |
 |---|---|---|
@@ -70,5 +70,5 @@ Generated 2026-09-28. Non-authoritative; see DISCLAIMER.md.
 | 2021-02 | audit_report | never |
 | 2021-03 | audit_report | never |
 | 2021-04 | audit_report | never |
-| … | *192 more* | |
+| … | *199 more* | |
 

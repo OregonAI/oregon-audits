@@ -1,8 +1,8 @@
 {
  "corpus": "oregon-audits",
- "n_nodes": 242,
- "n_edges": 715,
- "n_edges_external": 715,
+ "n_nodes": 249,
+ "n_edges": 739,
+ "n_edges_external": 739,
  "nodes": [
   {
    "id": "2020-01",
@@ -1697,6 +1697,55 @@
    "doc_type": "audit_report",
    "status": "current",
    "path": "reports/2026-20.md"
+  },
+  {
+   "id": "2026-21",
+   "title": "Financial Statements and Supplementary Schedules as of and for the Years Ended December 31, 2025 and 2024, and Report of Independent Auditors, Contract Audit, GAAP Basis",
+   "doc_type": "audit_report",
+   "status": "current",
+   "path": "reports/2026-21.md"
+  },
+  {
+   "id": "2026-22",
+   "title": "Financial Statements – Statutory Basis as of and for the Years Ended December 31, 2025 and 2024, Supplementary Schedules as of December 31, 2025, and Report of Independent Auditors, Contract Audit",
+   "doc_type": "audit_report",
+   "status": "current",
+   "path": "reports/2026-22.md"
+  },
+  {
+   "id": "2026-23",
+   "title": "Oregon Short Term Fund An Investment Pool of the State of Oregon For the Year Ended June 30, 2026, Contract Audit",
+   "doc_type": "audit_report",
+   "status": "current",
+   "path": "reports/2026-23.md"
+  },
+  {
+   "id": "2026-24",
+   "title": "State Oregon Local Government Intermediate Fund An Investment Pool of the State of Oregon For the Year Ended June 30, 2026, Contract Audit",
+   "doc_type": "audit_report",
+   "status": "current",
+   "path": "reports/2026-24.md"
+  },
+  {
+   "id": "2026-25",
+   "title": "Oregon Intermediate Term Pool An Investment Pool of the State of Oregon For the Year Ended June 30, 2026, Contract Audit",
+   "doc_type": "audit_report",
+   "status": "current",
+   "path": "reports/2026-25.md"
+  },
+  {
+   "id": "2026-26",
+   "title": "Medicaid Duplicate IDs Put Federal Funding at Risk",
+   "doc_type": "audit_report",
+   "status": "current",
+   "path": "reports/2026-26.md"
+  },
+  {
+   "id": "2026-27",
+   "title": "Improved Oversight and Processes are Needed to Achieve High School Success Objectives",
+   "doc_type": "audit_report",
+   "status": "current",
+   "path": "reports/2026-27.md"
   }
  ],
  "edges": [
@@ -5274,6 +5323,126 @@
    "from": "2026-20",
    "type": "references_external",
    "to": "45 CFR 92"
+  },
+  {
+   "from": "2026-21",
+   "type": "references_external",
+   "to": "ORS 731.554"
+  },
+  {
+   "from": "2026-21",
+   "type": "references_external",
+   "to": "ORS 293.726"
+  },
+  {
+   "from": "2026-21",
+   "type": "references_external",
+   "to": "ORS 278.425"
+  },
+  {
+   "from": "2026-21",
+   "type": "references_external",
+   "to": "ORS 238.420"
+  },
+  {
+   "from": "2026-21",
+   "type": "references_external",
+   "to": "ORS 238.415"
+  },
+  {
+   "from": "2026-22",
+   "type": "references_external",
+   "to": "ORS 731.554"
+  },
+  {
+   "from": "2026-22",
+   "type": "references_external",
+   "to": "ORS 293.726"
+  },
+  {
+   "from": "2026-22",
+   "type": "references_external",
+   "to": "ORS 278.425"
+  },
+  {
+   "from": "2026-23",
+   "type": "references_external",
+   "to": "ORS 293.265"
+  },
+  {
+   "from": "2026-23",
+   "type": "references_external",
+   "to": "ORS 295.015"
+  },
+  {
+   "from": "2026-23",
+   "type": "references_external",
+   "to": "ORS 293.718"
+  },
+  {
+   "from": "2026-24",
+   "type": "references_external",
+   "to": "ORS 293.701"
+  },
+  {
+   "from": "2026-24",
+   "type": "references_external",
+   "to": "ORS 293.718"
+  },
+  {
+   "from": "2026-25",
+   "type": "references_external",
+   "to": "ORS 293.861"
+  },
+  {
+   "from": "2026-25",
+   "type": "references_external",
+   "to": "ORS 293.863"
+  },
+  {
+   "from": "2026-25",
+   "type": "references_external",
+   "to": "ORS 293.701"
+  },
+  {
+   "from": "2026-25",
+   "type": "references_external",
+   "to": "ORS 293.718"
+  },
+  {
+   "from": "2026-26",
+   "type": "references_external",
+   "to": "42 CFR 433"
+  },
+  {
+   "from": "2026-27",
+   "type": "references_external",
+   "to": "ORS 327.850"
+  },
+  {
+   "from": "2026-27",
+   "type": "references_external",
+   "to": "ORS 327.895"
+  },
+  {
+   "from": "2026-27",
+   "type": "references_external",
+   "to": "ORS 327.865"
+  },
+  {
+   "from": "2026-27",
+   "type": "references_external",
+   "to": "ORS 327.883"
+  },
+  {
+   "from": "2026-27",
+   "type": "references_external",
+   "to": "OAR 581-003-0025"
+  },
+  {
+   "from": "2026-27",
+   "type": "references_external",
+   "to": "OAR 581-003-0030"
   }
  ]
 }

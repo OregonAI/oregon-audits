@@ -1,4 +1,875 @@
 {
   "schema_version": 1,
-  "sources": []
+  "sources": [
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2022-09"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2022-10"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2022-11"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2022-12"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2022-13"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2022-14"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2022-15"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2022-16"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2022-17"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2022-18"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2022-19"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2022-20"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2022-21"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2022-22"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2022-23"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2022-24"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2022-25"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2022-26"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2022-27"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2022-28"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2022-29"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2022-30"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2022-31"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2022-32"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2022-33"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2022-34"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2022-35"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2022-36"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2023-01"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2023-02"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2023-03"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2023-04"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2023-05"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2023-06"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2023-07"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2023-08"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2023-09"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2023-10"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2023-11"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2023-12"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2023-13"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2023-14"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2023-17"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2023-18"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2023-19"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2023-20"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2023-21"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2023-22"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2023-23"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2023-24"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2023-25"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2023-26"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2023-27"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2023-28"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2023-29"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2023-30"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2023-31"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2023-32"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2023-33"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2023-34"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2023-35"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2023-36"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2023-37"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2023-38"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2023-39"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2024-02"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2024-03"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2024-04"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2024-05"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2024-06"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2024-07"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2024-08"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2024-09"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2024-10"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2024-11"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2024-12"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2024-13"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2024-14"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2024-15"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2024-16"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2024-17"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2024-18"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2024-19"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2024-20"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2024-21"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2024-22"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2024-23"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2024-24"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2024-25"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2024-26"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2024-27"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2024-28"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2024-29"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2024-30"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2024-32"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2024-33"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2024-34"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2024-35"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2025-01"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2025-02"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2025-03"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2025-04"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2025-05"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2025-06"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2025-07"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2025-08"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2025-10"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2025-11"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2025-12"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2025-13"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2025-14"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2025-15"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2025-16"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2025-17"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2025-18"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2025-19"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2025-20"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2025-21"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2025-22"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2025-23"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2025-24"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2025-25"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2025-26"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2025-27"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2025-28"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2025-29"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2025-30"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2026-01"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2026-02"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2026-03"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2026-04"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2026-05"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2026-06"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2026-07"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2026-08"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2026-09"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2026-10"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2026-11"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2026-12"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2026-13"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2026-14"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2026-15"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2026-16"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2026-17"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "manifest",
+      "id": "2026-18"
+    }
+  ]
 }

@@ -3821,7 +3821,7 @@ sources:
   report_year: '2026'
   report_month: 09 - September
   recheck: annual
-  sha256: ''
+  sha256: "eb4aeed3689494340e12ded445eaa6d571b68b63f0ac67ffb5115f8e5cebe16d"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2026-24
@@ -3836,7 +3836,7 @@ sources:
   report_year: '2026'
   report_month: 09 - September
   recheck: annual
-  sha256: ''
+  sha256: "1af69033b10172d990a2c1e5454ba727bb60f8ab3181796f95f43cb19ddadb05"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2026-25
@@ -3851,7 +3851,7 @@ sources:
   report_year: '2026'
   report_month: 09 - September
   recheck: annual
-  sha256: ''
+  sha256: "a7c5bf60e3893f87849cb1104fc1151a75d7752aa6a13776b2d3c0dc32d0caf8"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2026-26
@@ -3865,7 +3865,7 @@ sources:
   report_year: '2026'
   report_month: 09 - September
   recheck: annual
-  sha256: ''
+  sha256: "29ba914d00ef5979e0630e64b7b29ab4b9adc162a59105eea2ea59c1670b58d7"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
 - id: 2026-27
@@ -3879,6 +3879,6 @@ sources:
   report_year: '2026'
   report_month: 09 - September
   recheck: annual
-  sha256: ''
+  sha256: "8967a1e6e5a278b3682627d0f383740397aa233e5847847277d7a0b8b1ad2b69"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []

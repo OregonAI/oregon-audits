@@ -3,11 +3,11 @@
   "groups": {
     "manifest": {
       "archive_unreadable": 0,
-      "changed": 3,
+      "changed": 16,
       "checked": 249,
-      "fetch_failed": 145,
-      "no_baseline": 5,
-      "unchanged": 96,
+      "fetch_failed": 0,
+      "no_baseline": 0,
+      "unchanged": 233,
       "unreadable_json": 0,
       "watch_path_missing": 0
     }
@@ -106,7 +106,7 @@
       "group": "manifest",
       "had_baseline": true,
       "id": "2020-13",
-      "outcome": "unchanged",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7227903"
     },
     {
@@ -365,7 +365,7 @@
       "group": "manifest",
       "had_baseline": true,
       "id": "2021-04",
-      "outcome": "unchanged",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=7795235"
     },
     {
@@ -428,7 +428,7 @@
       "group": "manifest",
       "had_baseline": true,
       "id": "2021-13",
-      "outcome": "unchanged",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8000289"
     },
     {
@@ -470,7 +470,7 @@
       "group": "manifest",
       "had_baseline": true,
       "id": "2021-19",
-      "outcome": "unchanged",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8075417"
     },
     {
@@ -484,7 +484,7 @@
       "group": "manifest",
       "had_baseline": true,
       "id": "2021-21",
-      "outcome": "unchanged",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8172687"
     },
     {
@@ -610,7 +610,7 @@
       "group": "manifest",
       "had_baseline": true,
       "id": "2021-39",
-      "outcome": "unchanged",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8463621"
     },
     {
@@ -673,455 +673,455 @@
       "group": "manifest",
       "had_baseline": true,
       "id": "2022-09",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8604122"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2022-10",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8647614"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2022-11",
-      "outcome": "fetch_failed",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8670795"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2022-12",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8693842"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2022-13",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8695473"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2022-14",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8745552"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2022-15",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8770259"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2022-16",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8794669"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2022-17",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8855400"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2022-18",
-      "outcome": "fetch_failed",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8864569"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2022-19",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8879001"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2022-20",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8890915"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2022-21",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8903079"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2022-22",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8916882"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2022-23",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8916903"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2022-24",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8938598"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2022-25",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8970031"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2022-26",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8970066"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2022-27",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=8979827"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2022-28",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9013473"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2022-29",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9078307"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2022-30",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9103105"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2022-31",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9118836"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2022-32",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9121445"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2022-33",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9128276"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2022-34",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9131925"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2022-35",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9254842"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2022-36",
-      "outcome": "fetch_failed",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9170457"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2023-01",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9196572"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2023-02",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9198548"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2023-03",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10595085"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2023-04",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9231213"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2023-05",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9254950"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2023-06",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9254951"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2023-07",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9254952"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2023-08",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9287944"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2023-09",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9281763"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2023-10",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9297408"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2023-11",
-      "outcome": "fetch_failed",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9330940"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2023-12",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9333353"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2023-13",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9352529"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2023-14",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9377923"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2023-17",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9442147"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2023-18",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9456712"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2023-19",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9468402"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2023-20",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9585434"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2023-21",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9589992"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2023-22",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9597969"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2023-23",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9597970"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2023-24",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9611939"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2023-25",
-      "outcome": "fetch_failed",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9774904"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2023-26",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9653549"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2023-27",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9655455"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2023-28",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9655456"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2023-29",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9690849"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2023-30",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9704109"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2023-31",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9759503"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2023-32",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9772536"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2023-33",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9775783"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2023-34",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9787660"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2023-35",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9791144"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2023-36",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9804732"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2023-37",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9828700"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2023-38",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9830503"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2023-39",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9965133"
     },
     {
@@ -1135,203 +1135,203 @@
       "group": "manifest",
       "had_baseline": true,
       "id": "2024-02",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9922791"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2024-03",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9936657"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2024-04",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9937520"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2024-05",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9978977"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2024-06",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10000616"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2024-07",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=9997984"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2024-08",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10042699"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2024-09",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10042700"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2024-10",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10042708"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2024-11",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10042709"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2024-12",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10067614"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2024-13",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10115088"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2024-14",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10139503"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2024-15",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10142791"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2024-16",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10191691"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2024-17",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10229113"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2024-18",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10230991"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2024-19",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10250588"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2024-20",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10327636"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2024-21",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10327637"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2024-22",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10364046"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2024-23",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10364047"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2024-24",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10365802"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2024-25",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10410924"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2024-26",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10410925"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2024-27",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10435155"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2024-28",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10458155"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2024-29",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10465395"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2024-30",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10482044"
     },
     {
@@ -1345,357 +1345,357 @@
       "group": "manifest",
       "had_baseline": true,
       "id": "2024-32",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10519154"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2024-33",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10529872"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2024-34",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10555839"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2024-35",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10568164"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2025-01",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10599262"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2025-02",
-      "outcome": "fetch_failed",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10601929"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2025-03",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10742170"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2025-04",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10805471"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2025-05",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10805472"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2025-06",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10805473"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2025-07",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10808423"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2025-08",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10809405"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2025-10",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10363238"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2025-11",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10913343"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2025-12",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10363265"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2025-13",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10363266"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2025-14",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10363268"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2025-15",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=11016545"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2025-16",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=10363270"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2025-17",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=11123244"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2025-18",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=11215565"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2025-19",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=11816206"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2025-20",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=11816207"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2025-21",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=12280580"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2025-22",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=12280581"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2025-23",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=12280582"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2025-24",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=12514798"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2025-25",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=12721425"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2025-26",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=12732486"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2025-27",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=12742419"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2025-28",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=12742447"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2025-29",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=13404575"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2025-30",
-      "outcome": "fetch_failed",
+      "outcome": "changed",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=13703091"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2026-01",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=14778991"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2026-02",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=14852869"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2026-03",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=15019972"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2026-04",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=15132149"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2026-05",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=15284293"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2026-06",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=15493045"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2026-07",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=15493046"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2026-08",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=15493047"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2026-09",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=15493048"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2026-10",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=15531589"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2026-11",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=15536272"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2026-12",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=15591093"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2026-13",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=15593487"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2026-14",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=15593511"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2026-15",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=15833541"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2026-16",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=16118172"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2026-17",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=16127661"
     },
     {
       "group": "manifest",
       "had_baseline": true,
       "id": "2026-18",
-      "outcome": "fetch_failed",
+      "outcome": "unchanged",
       "url": "https://records.sos.state.or.us/ORSOSCMSearch/Search/DocumentStream.ashx?uri=16163545"
     },
     {
@@ -1728,47 +1728,47 @@
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2026-23",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://sos.oregon.gov/audits/Documents/2026-23.pdf"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2026-24",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://sos.oregon.gov/audits/Documents/2026-24.pdf"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2026-25",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://sos.oregon.gov/audits/Documents/2026-25.pdf"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2026-26",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://sos.oregon.gov/audits/Documents/2026-26.pdf"
     },
     {
       "group": "manifest",
-      "had_baseline": false,
+      "had_baseline": true,
       "id": "2026-27",
-      "outcome": "no_baseline",
+      "outcome": "unchanged",
       "url": "https://sos.oregon.gov/audits/Documents/2026-27.pdf"
     }
   ],
   "totals": {
     "archive_unreadable": 0,
-    "changed": 3,
-    "fetch_failed": 145,
-    "no_baseline": 5,
+    "changed": 16,
+    "fetch_failed": 0,
+    "no_baseline": 0,
     "total": 249,
-    "unchanged": 96,
+    "unchanged": 233,
     "unreadable_json": 0,
     "watch_path_missing": 0
   }

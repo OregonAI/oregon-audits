@@ -6,6 +6,15 @@ Repo-curation dates only — official effective dates live in frontmatter.
 
 ## [Unreleased]
 
+### Source-Updated
+- 2026-11-18 — `_meta/source-manifest.yml` regenerated with `src/enumerate_audits.py`: one report
+  added, **2026-28** (Enterprise Information Systems, "EIS Should Strengthen IT Governance and
+  Risk Oversight", Department of Administrative Services, information technology audit, October
+  2026), not yet ingested. The manifest now declares 250 sources against 249 ingested reports.
+  Nothing was removed or renamed; the three numbering gaps and six anomalies are unchanged.
+  This clears the weekly `manifest-complete` job, red since 2026-10-26. `STATUS.md` regenerated
+  to match.
+
 ### Added
 - 2026-09-29 — seven reports ingested verbatim, bringing the corpus level with its manifest
   (249 of 249): **2026-21** and **2026-22** (SAIF Corporation), **2026-23**, **2026-24** and

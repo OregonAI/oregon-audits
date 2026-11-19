@@ -3882,3 +3882,17 @@ sources:
   sha256: "8967a1e6e5a278b3682627d0f383740397aa233e5847847277d7a0b8b1ad2b69"
   why_relevant: Audits Division findings and recommendations, with the audited agency's response.
   references_out: []
+- id: 2026-28
+  url: https://sos.oregon.gov/audits/Documents/2026-28.pdf
+  format: pdf
+  citation: Report No. 2026-28
+  title: Enterprise Information Systems, EIS Should Strengthen IT Governance and Risk Oversight
+  doc_type: audit_report
+  audit_type: information technology
+  audited_agency: Administrative Services, Department of
+  report_year: '2026'
+  report_month: 10 - October
+  recheck: annual
+  sha256: ''
+  why_relevant: Audits Division findings and recommendations, with the audited agency's response.
+  references_out: []
